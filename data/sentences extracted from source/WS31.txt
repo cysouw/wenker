@@ -1,0 +1,2499 @@
+Index	Bogennummer	REDE_Namen	Sprache	WS31::Transliteration WS31
+ab	10029	Ringhuscheid	1	Ech verstinn ech net, dör mußt eh böschen harter schwätzen.
+ab	10044	Malberg	1	Eich bestiehe eich nett, dir mohst ewinnig hoh[el?]er schwähzen.
+ab	1009	Nowy Klukom	1	Ick västau juh ne, jih möta a bitzka luhge (schon etwas veraltet, dafür "senne" von sehr) spreika 
+ab	1018	Lasko K Choszczna	1	Ich verstau ju ni, jü möta a betka lude spreke.
+ab	10215	Pantenburg	1	Ech verstühn ech nöt, dou mouß a winig horder schwätzen.
+ab	1023	Golin	1	Jk vostah ju ni, ji möthe en bitzken lude spräke.
+ab	10230	Beuren	1	Euch verstiehe ech net, dir most härter schwätze.
+ab	10259	Mörsdorf	1	Ech verstie uch net, dia meßt ebbes härta schwätze.
+ab	10275	Badenhard	1	Ich verstehn auch net, dihr mußt=e bische lauter spreche (schwetze).
+ab	1029	Niekursko	1	Ik vestau ju nei, ji möto a bisko sööne reido.
+ab	10300	Welterod	1	Ich verscheh'n äjch nett ehr mußt e bische lauder schpreche/schwetze ...
+ab	10315	Bleidenstadt	1	Ich verstihe eich nitt, ihr mißt e bische laurer schwetze.
+ab	10335	Espeler	1	Ech verstoh öch nitt, d'irr mott e besche mi hart schwätze.
+ab	1035	Stobno	1	Ick vestau ju nie, ji möto a beit siane reido.
+ab	10351	Brandscheid	1	Ech verstinn ech net, dir mist en beschen harter schwäzen.
+ab	10368	Büdesheim	1	Ech verstin ech nätt, d'r maot en Bäßchen louter sprägen.
+ab	10381	Waldkönigen	1	Ech verstiehn öch net, dr mohßt jät hôrter schwäätzen.
+ab	1050	Krostkowo	1	Ik ensta ju ni, ji meute a bitzge laude räde
+ab	10584	Kalenborn	1	Ech verstü ech net, dir mest en beschen dichder schbrärchen.
+ab	10601	Gappenach	1	Ech verstin uch net, dir mußt e beßge harter schwätzen.
+ab	10621	Rhens	1	Ech verstien euch net, ihr mößt e besche lauter spreche.
+ab	10649	Attenhausen	1	Äich västehe ouch net, är mußt e bische härta schwetze.
+ab	10663	Heringen	1	Ich verstihn och net, er mußt e bische herter schwätze.
+ab	10690	Honsfeld	1	Ich verstonn üch net, derr moßt jet harder kallen.
+ab	10697	Dahlem	1	Ech verston öch net got, dir mot get harder kalle.
+ab	10709	Aremberg	1	Ech verstohn öch net, ehr mößt jet louter schwätzen.
+ab	10736	Hohenleimbach	1	Ech verstohe öch net, dir moßt jet harter schwätze.
+ab	10857	Hatzfeld (Eder)	1	Ich versteh och net, ehr mußt eh bische laurer spreche.
+ab	10974	Haindorf	1	Ich verstehn üch net, ö mot e Beßle särner schwatz.
+ab	110	Rozpedziny	1	Jck verstoh ju nich, ji mutte bet luter sprecke.
+ab	11132	Schwarzwald	1	Ech verstiâ uch nech, ihr (diâ) müst â bischen luther sprech.
+ab	11149	Wipfra	1	Ech verstie eich nech dähe mott ä Beschen luder schwatze.
+ab	11180	Remda	1	Ech verstih eich nech, ihr mußt ä bischen lauter sprâche.
+ab	11197	Zeutsch	1	Ich verschtieh eich nich, ihr mußt e bischen lauter schprache.
+ab	11212	Breitenhain	1	Ech verstieh euch nech, ihr müß ā bössel lauter spräche.
+ab	11230	Burkersdorf	1	Ich verschtiehe äch nich, ihr mußt ä Bissel lauter schpraeche.
+ab	11252	Seelingstädt	1	Ich verstieh eüch nicht, ihr müßt ä bissel lauter sprachen.
+ab	11262	Seebach	1	Ich verstihe uch nich ehi mut an bischen sehrer spräch.
+ab	1133	Debenke	1	Iksch vestah ji jo ne, ji meute a bitzke sähne rede.
+ab	1139	Gliszcz	1	Ÿck väschta ju nÿ gi moitä ä Bitzke söhne räde.
+ab	11467	Boilstädt	1	Ech verstieh och nech, däh mott än böschen lauter spräch.
+ab	11485	Ingersleben	1	Ech verstihe euch nech, ihr moßt a Beschen luter spräche.
+ab	1150	Czarze	1	Ek vasto ju nech ji mote he betske lute rede
+ab	11515	Gutendorf	1	Ech verstiehe eich nech, ihr moßt was lauter schwatze.
+ab	11539	Kleinschwabhausen	1	Ech vārschtieh eich nech, ihr mußt ā beschen lauter sprāche.
+ab	11568	Thalbürgel	1	Ich verstieh eich nich, ihr mußt ä beschen lauter schpräche.
+ab	1157	Bielczyny	1	I versteh euch nett, ihr müeßt a bisle lauter sprecha.
+ab	11586	Bad Köstritz	1	Ich verstieh eich nich, er mußt e bissel lauter rede.
+ab	11607	Lumpzig	1	Ich vrstieh euch nich, ihr mißt e bischen laut'r schprache.
+ab	1162	Sierakowo	1	Oeck vestoh ju nöch, jü motte e bötzke lute räde.
+ab	11645	Gleismuthhausen	1	Ich verstia euch net, ir müßts a weng lauter sög.
+ab	11673	Mitwitz	1	Ich vestéèhe euch niet, ihr müßt a bisla laute sprech.
+ab	11763	Aub	1	Ich verstia euch net; ihr müßt a bisla lauter red.
+ab	1178	Sokoliniec	1	Ick vestau ju ne, ji möta a beit laute spreika.
+ab	11805	Seidmannsdorf	1	Jch v'rstiåh euch net, ihr müßts å bislå laut'r sog.
+ab	11825	Wallenfels	1	Ich vestḭḛh euch nḭḛt, Ḭḛ müßt a bisla laute sprechn.
+ab	11844	Neudorf	1	E-ich verstih eich nit, ihr mißt a* bißla lauter sprechen.
+ab	11864	Draisendorf	1	Ich văschtih eich niăt, ihr müßt a bißla lauter sprech'n.
+ab	11881	Sohl	1	Ich v'rschtäi enk niët, dirz möits a biss'l laut'r riëdn.
+ab	11896	Sülzdorf	1	Ih verschteä euch net, ihr mösst a bessle lāūter sprech
+ab	1192	Debsko	1	Ick vestau ju ni, ji möte a beit lude spräke.
+ab	11927	Bachfeld	1	Ich värstih Euch net, ihr mößt a bisla sära schrei.
+ab	1197	Plociczno	1	Ick verstoa ju nich, jie möte a bät lude spräka.
+ab	1203	Nakielno	1	Jck verstauh juh ni, jih möta a beitka lute spreka.
+ab	12037	Hildburghausen	1	Ich v'rsteh euch nett, ihr müßt a Bisle laut'r sprach.
+ab	12070	Neuenbau	1	Ich verstih euch net, ihr müßt ä bisle lauter sprach.
+ab	1208	Wissulke (Wiesiółka)	1	Ick västau ju ni, ji mötä a beitkä lute spreikä.
+ab	12085	Grumbach	1	Ig versteh eich nett, ihr mußt å bislå lauter papper.
+ab	12104	Frössen	1	E-ich vorstih eich nit, ihr mißt e bisle lauter riden.
+ab	12125	Schwand	1	Ich verstieh eich nett, ihr mißt e wink lauter sprechn.
+ab	12148	Kottengrün	1	Ich verstieh euch nett, ihr müßt e bissel lauter reden.
+ab	1215	Paruszka	1	Ick vastauh jug ni, gih meute ehe bitzke söhne räde.
+ab	12153	Meiningen	1	Ich verstä euch niet, ü mösst e bisle (wenk) lauter sprech.
+ab	12167	Altendambach	1	Ich vösteä euch nett, ihr mößt ä beßla lautör sprech.
+ab	12184	Altenfeld	1	Ich versteh euch nit, ihr müßt a bisle lauter schwotz.
+ab	12341	Rohrbach	1	Iech versteh euch nech, ihr mußt a beschen lautr schprachen.
+ab	12371	St. Jacob bei Leutenberg	1	Īch verstih eich nich, ihr mußt ä bissel lauter spräche.
+ab	12390	Neundorf (bei Schleiz)	1	Öich v'rstieh eich niet, d'r müßt eä bisle laut'r spreäch'n.
+ab	12410	Ebersgrün	1	Ich verstieh eich net, ar ißt e bissel lauter red'n.
+ab	12428	Roitzschau/Rotschau	1	Jch verschtie eich nett, ihr mißt a Bitt (Bischen) lautr redn.
+ab	12496	Horsdorf	1	Ich vestieha euch nieht, ihe mü[ʃ]st a bi[ʃ]sla laute sprech.
+ab	12529	Ködnitz	1	Ich verstih eich nit, ihr müßt a bisla lauter plaudern
+ab	12556	Kornbach	1	Ich verstih euch net, ihr müßt a bißla lauter sprech'n.
+ab	12572	Habnith	1	Ich verstöih euch (enks) niat, ihr möißt a bisl lauta sprechn.
+ab	12594	Uchenhofen	1	Ich versteh euch net, ihr müßt a bisla leuter sprach.
+ab	12616	Reutersbrunn	1	Jch värstiah euch net, ihr müßt a bisle leutr plaudr.
+ab	12656	Weismain	1	I vestieh dir niet, (du) ihr müßt schreia.
+ab	1278	Insko	1	Ik vĕstŏă̆ juch nĕ̆, jī möta a bitzka lūde sprēka.
+ab	1287	Konotop	1	Ick vestau ju ni, ji möta a beit lude reida.
+ab	12876	Lohma	1	Ich verschtieh auch nich, ehr muhst e bischen lauter schprache.
+ab	12898	Heiersdorf	1	Ich verstih euch nich, ihr müßt e bischen lauter reden.
+ab	12921	Sachsenburg	1	Ich verstieh eich nich ihr müßt e' Bissel lauter reden.
+ab	12942	Rothenfurth	1	Ich varschdieh euch ni, ihr müßd a bischen lauder sprach'n.
+ab	1296	Zabin	1	Jck vestau juh ni, gieh mötha a beit lude spräka.
+ab	12969	Borlas	1	Ich verschtieh euich ni, ihr mißt a Bischen lauter spräch'n.
+ab	13005	Dohna	1	Ich verstieh eich ni, ihr müßt ä Bissel lauter (brülln) räden.
+ab	13019	Porschdorf	1	Ich verstihe Euch nich, ihr müßt ä bissel lauer sprechen.
+ab	13047	Morgenröthe	1	Ich verstieh euch net, ihr müßt e Bissel lauter sprächen.
+ab	13054	Rittersgrün	1	Ich värschtie eich nett, är mißt ä bissel lauter reden.
+ab	1315	Kamien	1	Jg västah ju ni, ji mote a bits sönnä sprätche.
+bc	13169	Saupersdorf	1	Ich verstieh eich nett, ihr mißt e Bissel lauter sprachen.
+bc	13187	Kühnheide	1	Ich verstieh euch net, r mißt e bißl lauter sprächen. (häufiger: reden.)
+bc	13210	Himmelmühle	1	Ich verstieh eich nich ihr müßt ă biss'l lautăar reden.
+bc	13226	Rübenau	1	Iig verstieh euch nich ä müßt ä bissel lauter reden.
+bc	13269	Thurm	1	Ich verstieh eich nich', ihr müszt e wingk lauter sprächen.
+bc	13286	Ursprung	1	Ich verstieh euch nich, ihr müßt e bissel lauter reden.
+bc	133	Sosnowo	1	Ick vastoah jug nich, ji meuta eia litz lura rära
+bc	13317	Dittmannsdorf	1	Ich varschtieh euch nech, ihr müßt a bissl lauter sprach'n.
+bc	13340	Grosshartmannsdorf	1	Ich vastieh eich ni, ihr mißd a bissel lauda schbrechn.
+bc	13355	Reichenau	1	Ich verstieh eich ni, ihr mißt ä Bissel lauter sprachen!
+bc	13372	Liebenau	1	Ich verstih eich ne, ihr müßt e bissel lauter räden.
+bc	1338	Dzidno	1	Ich vasta ji ni, ji mojte bizche süne räde.
+bc	13529	Wang-Brückenberg	1	Ich verstieh eich nee, ihr mißt a bißla sirrner reda.
+bc	13543	Pisarzowice	1	Iech verstieh euch ne, ihr müßt a bisla lauter rede.
+bc	13559	Boguszow-Gorce	1	Ich verstieh euch ne, ihr mißt a bisla lauter schprecha.
+bc	13655	Niederleutersdorf/Leutersdorf	1	Ich verschtihe oich nö, ihr müsst a bössl scharfer räden.
+bc	13678	Rohnau (-)	1	Īch verstieh'chne, īhr mißt ă bissel lauter rädn.
+bc	13700	Rebiszow	1	Ich verstieh euch ne, ihr mißt a bissla lauter sprecha. (lauter reda)
+bc	13719	Siedlecin	1	Ich verstieh ich (für euch) nä, irr mißt a bissel lauter re͡ada.
+bc	13727	Myslow	1	Ich virstih euch nie, ihr mißt a Bisla lauter sprecha.
+bc	13745	Jugowa	1	Ich verstih' ich ni, ihr müßt a bißla lauter reda.
+bc	13830	Wlodowice	1	Iech verstieh euch ne, ihr müßt a besla schtärker reda.
+bc	13869	Biernacice	1	Ich virstih Euch nich ihr mißt ank lautr riäda.
+bc	13887	Rzymiany	1	Ich verstieh euch nich, ihr müßt a bissel lauter reden.
+bc	13898	Szadurczyce	1	Ich verstieh euch nich, ihr mißt a wing lauter räden.
+bc	13929	Stoszowice	1	Ich verstieh euch ni, ihr mißt a Bisla lauter sprecha.
+bc	13996	Lutomia Gorna	1	Ich verstieh euch nich, ihr mißt a Bißla lauter sprecha.
+bc	14023	Roztocznik	1	Jch verstüh euch nich, ihr müßt a bisla lauter räda.
+bc	1403	Dobieszewo	1	Ik vastå jug ni, gi möta eia biska lura spräka.
+bc	14034	Lipowa	1	Ich verstieh ich nich, ihr müßt a bisla lauter sprecha.
+bc	14074	Michalow	1	Jch verstieh Euch nich, ihr müßt a bissel lauter räd'n.
+bc	14092	Karczow	1	Ich verstieh euch nich, ihr müßt a bissel lauter sprechen.
+bc	14159	Jutrzyna	1	Ich vorschtieh euch nich, ihr müßt a bis'l lauter schprechen.
+bc	1417	Rydzewo	1	Ick vŏstah ju nĭ, ji mötĕ ă bitzke lurĕ spräke.
+bc	14234	Brzoza	1	Ich verstieh euch nich, ihr mißt a bißel lauter sprech'n.
+bc	14250	Jaczkowice	1	Ich verstihe euch nich, ihr mißt a bißel lauter sprechen.
+bc	14275	Piastowice	1	Ich verstieh euch nich, ihr müßt a bissel lauter reden.
+bc	14305	Bozanow	1	Ich verstieh euch nie, ihr müßt a Bißla lauter sprecha.
+bc	1432	Rzepowo	1	Ick västau gu nih, gi möta a beit lude reida.
+bc	14321	Rogow Sobocki	1	Ich verstieh euch ni, ihr müßt a bißls lauter sprecha.
+bc	14382	Wölfelsdorf (Wilkanów)	1	Ech versteh euch nie, ihr müßt a besla lauter sprecha.
+bc	1442	Lubowo	1	Ick verstô jug ni, ji män't a bit[z?] lure spräkĕ.
+bc	14449	Thröm (Trebom)	1	Ich versteh eich nech, ihr müßt a besle lauter sprechn.
+bc	14458	Szczytna	1	Ich verstieh oich ne, ihr müßt a besla stärker sprächa.
+bc	14471	Jaszkowa Gorna	1	Ich verstieh eich ne, ihr mißt a besla lauter sprecha.
+bc	14486	Nadziejow	1	Ich verstihe euch nicht, ihr müßt a bisla lauter sprecha.
+bc	145	Smardzko	1	Ik vastoah ju nich, ji möte enn beet lure spreeke.
+bc	14505	Piorunkowice	1	Ich varstieh ich ni, ihr müszt a bisla lauter sprecha.
+bc	1451	Steinforth (Brodźce)	1	Jjj vostoau ju niä, ji mätä ä bitsja liudä spräjä.
+bc	14537	Bielice	1	Ech versteh eich nie, ihr müßt a beßla lauter sprecha.
+bc	14560	Siemianowice Slaskie	1	Ich verstih euch ne, ihr müßt a bisla lauter reda.
+bc	1461	Wegorzewo Szczecineckie	1	Jck västau ju ni, ji mäutä a bitskä ludä rädä.
+bc	14613	Nohfelden	1	Eich verschtehn auch nett, ihr miß e besche laurer schwätze.
+bc	14635	Erzweiler	1	Eich verstehn auch net, er mirret e bische laurer spreche!
+bc	14670	Nussbach	1	Ich verstehe ŏch nett, éhr mirre ĕ bißche härder plaurere.
+bc	14693	Dannenfels	1	Ich verschteh euch nett, ehr müssen e bißche härder plaurere.
+bc	14724	Monsheim	1	Ich verschtehe eich net, ehr müssen en bischen harter plaudern.
+bc	14752	Sankt Matthias	1	Eïch verstihn eich nött, er must e bösgen louder sprechen. (schwetzen)
+bc	14955	Bescheid	1	Äich bestehn aich nött, d'r möißt ä bösche hoarter schwä(ä)ze.
+bc	14971	Allenbach	1	Eich verstehn ouch net, dir meïßt e besje härter schwätze.
+bc	1499	Stara Rzeka	1	Idj vastoa ju nich, ji meta bitzja luta reada
+bc	14999	Berschweiler bei Kirn	1	Ich verstehn ouch nett, dir müßt e bische härter schwetze.
+bc	15018	Bad Sobernheim	1	Eich verschtehe eich nit, der mißt noch e bische härter spräche.
+bc	15042	Neu-Bamberg	1	Ich veschtehn auch nett, er müsse e bissi herter pleure.
+bc	15066	Bechtolsheim	1	Ich versteh euch nett. ehr müssen e bische härrer plaudere
+bc	15088	Bollendorf	1	Eich verstinn ech net, d'r moßt e beßchen ho͜arter schwäzen.
+bc	15096	Preist	1	Ich berschtin euch nött, der moßt e winnig horder schwäzen.
+bc	15118	Pohlbach	1	Ech verstihe euch net dir mußt e Beschen harter schwätzen.
+bc	15137	Kautenbach	1	Eich vastehn auch net, dia meßt harte schwäzen.
+bc	15334	Kirchberg (Hunsrück)	1	Eich verschdehn eich nitt, dehr mißt e bißche lauder schwätze.
+bc	15349	Ellern (Hunsrück)	1	Euch v'rstehn auch nit, d'r mühßt e bische (keudche) härder schwätze.
+bc	1536	Heidlauken (Bugorki)	1	Ek verstah juh nich, ju motte 'e bösske luter spräke.
+bc	15365	Bingen am Rhein	1	Ich verste͡hn aich nitt, ihr müßt ĕ bische lauter redde.
+bc	15394	Finthen	1	Ich versteh euch nit, ehr müßt e Wink lauter spreche.
+bc	1540	Heinrichswalde	1	Eck verschtah' juh nich, ju motte e beßke luter schräke [spräke?].
+bc	15418	Schneeberg (Sněžník)	1	Jch vasteh eich ni[e], redt ok bissel lauter.
+bc	15503	Zettel (Sedlo)	1	Ich verstieh eich ni, ihr müßt a bi(ß)ll lauter sprach'n!
+bc	1552	Pazuizen	1	Eck verstah ju nich, ju motte bätke luter spräke.
+bc	15538	Wisterschan (Bystřany)	1	Jch verstieh eich ni, ihr mißt e biß'l lauter sprachen.
+bc	15550	Malschen (Malečov)	1	Ich varstieh aich ni, ihr mißt e bißl lautar rejd'n.
+bc	15638	Lukawetz (Lukavec)	1	Ih verstieh eich nich, ihr mißt e bißl lauter rejdn.
+bc	1565	Gierver Lauken	1	Eik verstah ju nich, ju motte e betke luter spreke.
+bc	15681	Neudorf (Vrchběla)	1	Ich vrstie ojch nee, ihr mißt ej bißl lautr redn!
+bc	15685	Gastorf (Hoštka)	1	Jch verstieh eich ni, ihr müßt e bissl lauter reïdn (sprechen)
+bc	15690	Wegstädtl (Štětí)	1	Ich verstieh eïch ni, ihr müßt e bißl lauter reden.
+bc	1571	Schmalleningken	1	Oeck varsto͜ah ju nich, ju motte en böske luter spräke.
+bc	15725	Nixdorf (Mikulášovice)	1	Jch vrstiehtch nee, ihr mißt ej brin[k?]l lautr redn.
+bc	1573	Groß Dirschkeim (Donskoye)	1	Eck vastahn ju nich ju motte en beske ludda sprecke.
+bc	15751	Rückersdorf (Dolní Řasnice)	1	Ich verstī euch ne, er mist lautr sprechn?
+bc	1578	Rantau (Zaostrov'Ye)	1	Ek vasto͡a ju nich, ju motte én Bèske luda spräke.
+bc	158	Polczyn-Zdroj	1	Ick vĕstah juh nich, ji mäute ĕ bätke luhde räde.
+bc	1580	Schulstein (Vol'Noe)	1	Eck fasto ju  nich, ju motte e beske luda spreke
+bc	15807	Kamnitz-Neudörfl (Kamenická Nová Ví	1	Ihch vastieh eich nej, ihr mißt a bissl lauta rejdn.
+bc	15824	Zwickau (Cvikov)	1	Jech vrstieh euch neï, ihr müßt a b(ei)ssl lautr redn.
+bc	15847	Christophsgrund (Kryštofova Údolí)	1	Ich verstieh euch ne, ihr müßt a bössl lautr bröllen.
+bc	15858	Gränzendorf (Hraničá)	1	Ich vrstieh euch ne, ihr mißt a bößl lauter räd'n.
+bc	1588	Alt Susimilken (Tarassowka)	1	Oeck verstoh ju nich, ju motte betke luter spreke
+bc	15971	Puletschnei (Pulečný)	1	Ich vrstieh euch ne, ihr mißt a bößl lautr redn.
+bc	15975	Graber (Kravaře)	1	Ich vrstieh euch nê, ihr mißt e bißl lautr redn.
+bc	15989	Thammühl (Staré Splavy)	1	Ich verstieh eich ni, ihr müßt ei bißl lautr sprachn.
+cd	15995	Proschwitz (Česká Proseč)	1	Ich vorsti Euch ne, jer mest a bessl lautr reden.
+cd	16007	Harrachsdorf (Harrachov)	1	Ich verstieh euch ne, ihr mißt a bessl lautr reden.
+cd	16015	Witkowitz (Vítkovice)	1	Ich vəstieh euch nê̬, ehr mißt a bessl se̬rnə redn.
+cd	16050	Forst (Fort)	1	Ich vostieh eich nee, ihr mißt a beßla lauta rēda!
+cd	16063	Gabersdorf (Libeč)	1	Ich verstieh euch ne, ihr meßt a bißla lautr reda.
+cd	16083	Bodisch (Bohdašin)	1	Ich vostieh euch ne, ihr mißt a beßla lauto sprecha.
+cd	16139	Zwitschin (Zvičina)	1	Ich verstieh eich nee, ihr mißt a beßla lauter reda.
+cd	16154	Großbock (Velká Bukovina)	1	Jch vrstieh eich ne, ihr müßt abessla laut(e)r spracha.
+cd	16179	Schmiedeberg (Kovářská)	1	Jch verschtieh eich net, ihr müßt a bissl lauter reden.
+cd	1626	Tulpeningken (Zarečnoe)	1	Öck verstah ju nich, ju motte bößke luter spräke.
+cd	16276	Waitzengrün (Loučná)	1	Ih vasteüh enk niat, diartz meütz a weng lauta rin.
+cd	1628	Wisborienen (Livny)	1	Eck varschtoa ju nich, ju motte e' beske luter rede.
+cd	16298	Sittmesgrün (Mezirolí)	1	I vastäih enk niat, diats möißts a bißl lauta rian.
+cd	16322	Petersdorf (Petrov)	1	Ich verstae äng neat tirz maiz lauter riadn.
+cd	16338	Podletitz (Podlesice)	1	Ich versteh eng net, ihr mits a bissl lauter redn.
+cd	16442	Kropitz (Krapice)	1	I vastöi(h) enk niat, diaz möit('s) a weng lauta ria(d)n.
+cd	16470	Ebersfeld (Podlesi)	1	I verstöih negs, ös möißt a bisl lauter sprechn.
+cd	16491	Rabensgrün (Haje)	1	I vårstäih enk neat, ihr mäitz a bisl lauta rüån.
+cd	16523	Lintsch (Hlineč)	1	Ich vasteh enk niat, diats måets lauta rian.
+cd	1654	Postnicken (Zalivnoe)	1	Eck vastoh ju nich, ju motte en betke luta spreke.
+cd	16602	Klotantschen (Kotaneč)	1	Ich vâstej eng net, ihr mijts â bissel lauter redn.
+cd	16610	Tschernowitz (Černovice)	1	Ich versteh eich nett, ihr müßt bißl lauter redn.
+cd	16625	Hawran (Havraň)	1	Jch verschtie eich nich, ihr müßt e bissl lautr schreie.
+cd	16636	Liebshausen (Libčeves)	1	Jch verstieh eich nich, ihr müßt e bißl lauter reden.
+cd	1664	Labagienen/Haffwinkel (Zalivino)	1	Ek vastah ju nich, ju motte en beske luta spreke.
+cd	16670	Priesen (Březno)	1	Ich vrstēh euch nicht, ihr mǐßt e bǐssl lauter redñ.
+cd	16689	Libeschitz (Liběšice)	1	J̄ch versteh eich nĕtt, ihr mißts e bissl lautar redn.
+cd	16725	Leschkau (Ležky)	1	Ich vaschdeï äng ned, ia mudz a wäng̃ lauda reïdn.
+cd	16739	Pschoblik (Pšovlky)	1	Ich ve(r)steh enk net, ihr müßt a bissl laute(r) red'n.
+cd	16751	Prag-Smichow (Smíchov)	1	Ich verstehe euch nicht, ihr müßt ein bißchen lauter sprechn.
+cd	16755	Weißbach (Bílý Potok)	1	Ich verstieh eich nie, ihr mißt a beßla lauter sprecha.
+cd	16770	Schediwy (Šediviny)	1	Ich vrstieh oich ne, eer mißt a beßla lautar reda.
+cd	16775	Friedrichswald (Orlické Záhoří)	1	Ich vrstieh ich ne, 'r mißt a beßla lautr reda.
+cd	16801	Böhmischdorf	1	Ich vrstieh eich nie, räd a beßla lautr!
+cd	16814	Rokitnitz (Rokytnice)	1	Ich verstieh euch nee, ihr müßt a besla lauter reda!
+cd	1683	Kreuzingen (Bol'Shakovo)	1	Oek verstah ju nich, ju motte e boesske luter spraeke.
+cd	16876	Nieder-Ullersdorf (Dolní Boříkovice	1	Ich verstieh oich nee, ihr mußt a bißla lauter reda!
+cd	16889	Heinzendorf (Hynčice Nad Moravou)	1	Ich vastieh eich nie, ihr mißt a beßla lautr ren.
+cd	16907	Karlsdorf	1	eχ vŋštêə͜ eχ (betont aêχ) nī, īər (iŋ) mist a bẹsla lautɒ reên.
+cd	16932	Kuhberg	1	Ich versteh eich nie, ihr mißt a bessla lauter sprecha.
+cd	16949	Rausen (Rusín)	1	Ich verstieh eich nech, ihr mißt a beßla lauter sprecha.
+cd	1698	Buttkuhnen (Pokrovskoe)	1	Eck varsto ju nich, ju motte he beske luter rede.
+cd	16991	Breitenau (Bretnová Široká Niva)	1	Ech verstiëh eich nie, ihr mißt a beßla lauter sprachn.
+cd	17012	Lobenstein (Úvalno)	1	Ech verschtij eich nie, ihr mißt a beßla lautr sprachn.
+cd	17029	Lohhäuser (Slatina)	1	Ich vastäi enk neat, diaz miars a bisl hella ria(d)n.
+cd	17061	Deutsch Thomaschlag (Německé Domasl	1	I vastöih enk niat, diarts möißts a wengerl hella riadn.
+cd	17075	Polinken (Polínka)	1	I vastaih enk niat, ihr meißts lauta rian.
+cd	1708	Baltruschatschen (Jakovlevo)	1	Oek verschtoa ju nuscht, ju motte biske dichtiger rede.
+cd	17138	Albersdorf (Písařova Vesce)	1	Ich vasteah enk niat, diarts möits a weng schtürker riadn.
+cd	17151	Damnau	1	I vastäih eng niat, diats möits a bißl hella ria(d)n.
+cd	17174	Piwana (Piňovany)	1	I(ch) våstäih enk niat möit's å bißl stürka ria(d)n.
+cd	17178	Kottiken (Chotíkov)	1	Ich vasteï eng niat, di͜ats möits a bisl lauter ri͜an.
+cd	17244	Dianaberg (Diana)	1	Ich vəschtäih enk niət, diəz möits ə bißl schtirkə riə'n.
+cd	17266	Wiedlitz (Vidice)	1	I vo stäih enk niat, diads möits a bissl stürka rian.
+cd	17273	Honositz (Honezovice)	1	Ich vastai enk niat, diats mejts a bißl lauta rian.
+cd	17281	Dobrzan (Dobřany)	1	Ich vastaih enk niat, diaz möitz a weng stürka rian.
+cd	17306	Blisowa (Blížejov)	1	Ich vostejh enk niat, diaz meüts a bißl stürka ria(d)n.
+cd	17309	Hilbeten	1	Ich vasti eich net, ia mißt a bißla lauta redn.
+cd	17325	Schönwald (Strážná)	1	Ich vrstieh 'ch ne, ihr mißt a beßla lauter reda.
+cd	1733	Rottenen (Raktino)	1	Eck verstoaun jiug nich, jiu motte bätke luder spräke.
+cd	17374	Ober-Ullischen (Horní Olešná)	1	Jch vrsteh eich nie, ihr mißt a beßla lautr sprachn!
+cd	17389	Bergstadt (Horní Město)	1	Iéch verstié eich nie, ihr mißt a beßla lauter redn.
+cd	1741	Pojerstieten (Kolodcy)	1	Ek vastoh ju nich, ju motte en beske lauta spreke.
+cd	17433	Ranigsdorf (Linhartice)	1	Eich vrsthtie [=vrschtie?] eich net, ir mißt a bissl lauta rin.
+cd	17442	Müglitz (Mohelnice)	1	Ich vĕrstieh ajch nett, ihr mißt mehr schrāja.
+cd	17460	Ribnik (Rybniček)	1	Ech verstëih eich nie, ihr mißt a beßla lauter redn.
+cd	17468	Stangendorf (Vendolí)	1	Äich ve(r)stie ich net, ihr mißt a bißla lauter re(d)n!
+cd	1747	Beydritten (Pervomajskij)	1	Ek vastoa ju nich, ju mott e bät lud rede.
+cd	17504	Neu-Biela (Lavičné)	1	Ejch vrstieh ich net, ihr mißt a bißla lautr reen.
+cd	17512	Schlettau (Slatina)	1	Aich verstieh aich nett, ihr mißt a bißla lautr redn.
+cd	17520	Runarz	1	Īch vəštī aich nī, īr mist a pesla lautə redn.
+cd	17521	Nebotein (Hnĕvotín)	1	Ich v(er)stej enk ni(a), müaßt's a pisl laut(er) rejdn.
+cd	17568	Tillendorf (Tylov)	1	Iäch verstiä eich nie, ihr mißt a beßla lauter redn.
+cd	1758	Brasdorf (Antonovka)	1	Öck văsto͡ah ju nich, ju mottĕ ĕ bö̆ske lută spräke.
+cd	17585	Mladetzko (Mladecko)	1	Ich versteh eich nie, ihr mißt a bessla lautr redn.
+cd	17643	Seibersdorf (Bělá)	1	Ech vasteh eich nischt, ihr mißt a besla lauta ren.
+cd	17659	Bernhau (Barnov)	1	Ech verstoh eich nie, ihr müßt a beßla lauter reden.
+cd	17680	Klantendorf	1	Iech vrstieh aich nie, ihr mißt a beßle lauter rede.
+cd	17687	Engelswald (Mošnov)	1	Ech vrschteh eich nie, ihr mißt a beßlê lautr spraêchê.
+cd	17698	Nirklowitz (Mrsklesy)	1	Red lautr ech versteh eich nie!
+cd	17713	Punkendorf (Boňkov)	1	Ech vrstieh eich nie ihr mißt a beßla lautr redn
+cd	1772	Groß Goldbach (Slavinsk)	1	Oeck verstoah ju nich, ju motte bet luter spreke.
+cd	17726	Halbendorf (Polouvsí)	1	Eich vrsteh eich nie, ihr mißt a beßle lauter rede.
+cd	17737	Senftleben (Ženklava)	1	Ech versteh eich ne, ihr mißt a beßle lauter rede.
+cd	-17739	Polanka Wielka	1	Ich versteh eich net, ihr müßt e bißche ärcher redde.
+cd	-17744	Bulowice	1	Ich versteh eich net, ihr mißt ein bißchen lauter reden.
+cd	-17746	Chocznia	1	I verstöih enk nit, derfst e bißl heller redn.
+cd	-17749	Alt-Bielitz (Stare Bielesko)	1	Ech verstej ojch ne, ihr müßt a bessla löuter spracha.
+cd	17759	Linz (Mlýnec)	1	Ich vostaih enk niat, diatz maütz a bißl stirka rian.
+cd	17782	Kohlheim (Uhliště)	1	I verstei eng net, es meist's a bißl lauta sprecha.
+cd	17792	Čachrau (Čachrov)	1	I voschtej eng net, ös möits bessa schrei.
+cd	17801	Hurkental (Hůrka)	1	I versteh enk net, ös möitz awenk hölla schmatzn.
+cd	17824	Rotsaifen (Červená)	1	I vōsteh eng ned, müaßts a weng lauda redn.
+cd	17832	Winterberg (Vimberk)	1	I våschteh eng net, e|is miaßts a weng lautå re|in.
+cd	17843	Sehrlenz (Ždírec)	1	iĥ faŝtoj enk net, dejc mists a pisl laut(a) ŝpreĥ.
+cd	17854	Irsching (Jiřín)	1	I versteh eng nit, ös müaßts a bissl lauter redn.
+cd	17862	Hilbersdorf (Jihlava-Heroltice)	1	I fəstei enk net, mists ə prèka lautə ren.
+cd	17876	Sollowitz (Salavice)	1	I verstejh enk net, dötz müßts mehr schrein.
+cd	17878	Stannern (Stonařov)	1	I versteh eng net, müßt a weng schürfa redn.
+cd	17881	Riegerschlag (Lodhéřov)	1	I vrsteh eng nit, miaßt's laud'r redn!
+de	17882	Wenkerschlag (Dolní Radouň)	1	I vrsteh eïnk net; deïs meabz a bißl lauda redn.
+de	17884	Buchen (Buk)	1	I väschteh eink nit, deis meast s ä weing lautr rein.
+de	17895	Hosterschlag (Člunek)	1	I vrsteh eïng nit, deïs miasts a bißal laudr reïdn.
+de	17898	Lipolz (Lipolec)	1	I vasteh eng nit, ös mest's a bisl lauda red'n.
+de	17940	Czernowitz (Černovice)	1	Ich vasteh ejnk nia, eis müaßts a pissl lauta rejn.
+de	17942	Gundrum (Komořany)	1	Ich versteh eink net, ejs miasts a pissel lautar rejn.
+de	17956	Prahlitz (Pravlov)	1	Ich vasteh eng net, müaßt a wengl lauter redn.
+de	17961	Woikowitz (Vojkovice)	1	Vasteng Enk jo goa nit, schreits meah.
+de	17967	Sub-Lechnitz (Lechnica)	1	Ich farste eich nit, ihr miszen a piszl lautar reta
+de	17968	Topportz (Toporec)	1	Jch verstej Euch nëch ihr mußt a bëschen laut[e]r (scharfer) rejdn (drzäjln)
+de	17972	Hobgard (Chmeľnica)	1	Ich verstih eich nëch, bo ihr muszt dihau rëd'n!
+de	17981	Neu Walddorf (Nová Lesná)	1	Ich verštej oich nech, iir must e bëschen laůter rejdn̥.
+de	17993	Durelsdorf (Tvarožná)	1	Jch verstej euch nech, ihr mißt e beschen lauter rejdn.
+de	17999	Leutschau (Levoča)	1	Ich v‿ersteih euch nëch, ihr mißt e bischen lauter sprechen.
+de	180	Galowo	1	Ick voastoah juch nië ji möhte ä bat lude rede (:spräke:).
+de	18000	Zipser Neudorf (Spišská Nová Ves)	1	Ich verstej aich nech, ihr misst e beschen lauter rejden.
+de	18001	Wagendrüssel (Nálepkovo)	1	Ich vastěh enk nëch is must a bësl lauta rëdn.
+de	18003	Göllnitz (Gelnica)	1	Jch vasteh enk nech, ihs müst's a pessa lauta redn.
+de	18004	Dobschau (Dobšiná)	1	Ich vorsteh euch net iß muß lauter reden.
+de	-18008	Schmöllnitz (Smolník)	1	Ich vastéh enk néch es mistz a pesá lauta rén.
+de	18010	Metzenseifen (Medzev)	1	Ich fa stéh éng necht is müst lauta kósen.
+de	18013	Buchwald (Bučina)	1	I vastei eng neït, eïs miaßt mea schrei
+de	18018	Schattawa (Záton)	1	Ih vasteh eng nejt, dejs müaßts a brese͜i mehr schrei.
+de	18028	Zaborsch (Záhorí)	1	I vastē ein(g) neïd, eïs miaßts a wẽing lauda reïn.
+de	18058	Hirschbergen (Hiršperky/Jeleni)	1	I vastej eng nit, eis müaßt's a bißl lauta rejn.
+de	18064	Honetschlag (Hodňov)	1	I vaschtein eing nit, eis meaßts a weing beissa schrẽi.
+de	18091	Kollerschlag	1	I vasteh eng nit, es müatst a weng lauda redn.
+de	18095	Sankt Thoma (Svatý Tomáš)	1	I versteh eng net, des miaßz a weng lauder ren.
+de	18101	Hohenfurth (Vyšší Brod)	1	I vasteh eng nit, eïs muaßts a bißl lauta reïn.
+de	18132	Hummeln (Homole)	1	I vâsteh enk nit, es meaßts a bißerl mehr schrei.
+de	18135	Rudolfstadt (Rudolfov)	1	I versteh eng net, ihr müßts a bißl lauter reden.
+de	18144	Gross-Radischen	1	I vasteh eng nit, es müiaßts lauder redn!
+de	18188	Priethal (Prídolí)	1	I va(r)steh' eng (ing) nit, müaßt's a Wengarl (Wingarl) lauta rej(d)n.
+de	18192	Gollnetschlag (Klení)	1	Ih v(a)steh ajng niht, ejs mi(a)sts laut(a) rej(d)n.
+de	18210	Weissenbach (Vysné)	1	I versteh ejng nit ejs müaßts a wejng lauda rejdn.
+de	18218	Langschwarza	1	I vasteh eing nit, es meßts a weng lauta ren.
+de	1829	Rudszen (Poltavskoe)	1	Eck verstoa ju nich, ju motte en beske dichtiger spräke.
+de	18290	Unterwald	1	I vesteh enk nöt, ös müaßts lauta rödn
+de	18296	Bad Grosspertholz	1	I vasteh eng nit, ös mösz a wengal lauta redn. 
+de	18310	Oberstrahlbach	1	I vasteh eng net, äs mirst's a wengal lauda red'n.
+de	18359	Waldkirchen	1	I versteh eng net, es miaßts a bisserl lauter redn.
+de	18364	Hafnerluden (Lubnice)	1	I versteh eng nit, ös müßt's a bißl lauter redn.
+de	18367	Schiltern (Štítary)	1	I vasteh enk net, es müaßts a weng lauta redn.
+de	18407	Töstitz (Těšetice)	1	I varsteh eng nit, ös müsts a bissl lauda redn.
+de	1842	Warupönen (Fëdorovka)	1	Ek varstah ju nich, ju motte e beske luter spreke!
+de	18432	Dietmanns	1	I vasteh eng nit, eis mi͡aßts a bissl lauda red̃n.
+de	18441	Schirmannsreith	1	I vasteh eing net, es meßts a bissl lauta ren.
+de	18454	Hofern	1	I vasteh' enk nit, ös müaßt's a bißl lauta redn.
+de	185	Jelnia	1	Jck vestau jug ni, ji moitä en bitschen luter spräken.
+de	18508	Gerstenfeld (Ječmeniště)	1	I vasteh eng nit, ös müasts lauda redn.
+de	18525	Franzen	1	I vastė ėng nėd, ės mėsts a bißal lauda rė(d)ñ.
+de	18534	Rosenburg	1	I versteh eng net, es müaßt a weng lauder red'n.
+de	18554	Oberdürnbach	1	I vasteh eng net, ös mäßt's a bißl lauta redn (sprecha).
+de	18559	Aspersdorf	1	I vosteh' enk nit, es miaßz a wenk lauda redn.
+de	18607	Damnitz (Damnice)	1	I vasteh enk net, ös meßt's a bissl lauta redn!
+de	18627	Tracht (Strachotín)	1	I vrsteh eng nit, ees mirsts holt a bissl lautr redn.
+de	18637	Saitz (Zajecí)	1	I verstëi enk nit, müßts lauta rëidn.
+de	18642	Höflein an der Thaya (Hevlín)	1	I vasteh äng nät, äs mäßts a bißl lauda redn.
+de	18672	Stützenhofen	1	I versteh eng nit es mißt a bißl lauda redn.
+de	18686	Bernhardsthal	1	I vasteh eng nit, ös müaßts a bissal lauta sprecha (re(d)n.)
+de	18701	Pyhra	1	I versteh eng nit, ös müaßt a wengal lauta redn.
+de	18707	Wilfersdorf	1	Ich vasteh enk nöt, es müaßt's a weng'l lauda röd'n.
+de	18716	Palterndorf	1	I vasteh enk nit, öis meaßt's a bissl lauta red'n.
+de	18753	Münchwies (Vrícko)	1	Ai vastajri net, ja müßt lautr kausn.
+de	18759	Bettelsdorf (Solka)	1	Ė vrschté 'rė net, ija misst a schtibe lautr ré(d)n!
+de	18763	Oberstuben (Horná Stubna)	1	Eχ vŏstâi(χ) net, iⱱ mist a pẹsl wrišɒ hrê(d)n.
+de	18767	Krickerhäu (Handlová)	1	Ich waschtḗ aich nischt, ihr müßt a Beße wrischer redn
+de	18773	Deutsch-Litta (Kopernica)	1	A͜uich v'ostauḭ enk nit, au͜jis maj̠ß̠t a bißl lauter r'en.
+de	18774	Hochwiesen (Vel'Ké Pole)	1	I vustih enk net, iah mußt a beßal heller råin.
+de	18786	Sankt Georgen bei Obernberg am Inn	1	I vosteh eug nöt, ös müaßt 's a mengal lauda rödn.
+de	18800	Hochburg	1	I vostehti nöt, du muaßt o weng laura rön!
+de	18805	Pischelsdorf am Engelbach	1	I versteh enk nit, ös müeßts e weng laute rödn.
+de	18846	Niederkappel	1	I vasteh eng nöt, ös müaßts a bisl lauta redn.
+de	18855	Niederwaldkirchen	1	I vasteh eng net, es müaßt a weng lauta redn.
+de	18902	Dorf an der Pram	1	I vasteh eng net ös müaßts a weng lauda rön.
+de	18910	Michaelnbach	1	I vasteh enk nöt, müaßt's bessa schrein.
+de	18923	Alkoven	1	I vásteh eng net, es miáßz á weng laudá redn!
+de	1895	Königlich Damerau	1	Eck vastahne ju nich, ju motte en be[ß?]ke luda spräke
+de	18984	Arnberg	1	I vosteh eg böt, ös muoßt a weg lauda rödn.
+de	18987	Rackering	1	I vasteh enk neöt, ös müats a wengal lauda rö(d)n.
+de	19003	Pennewang	1	I vasteh eng nöt, ös müaßt a weng lauda redn.
+de	19011	Sipbachzell	1	I versteh eng nöt miáßt á weng laudá redn.
+de	1904	Pesseln	1	Oeck verstoah juh nich, juh mottè e bätkè luter spräkè.
+de	19070	Reichenau im Mühlkreis	1	I vaschdeh eng nöd, öis müassts a bissl lauda rä(d)n.
+de	19080	Gutau	1	I vasteh eng nöt, ös müaßt's a weng lauda rödn.
+de	19085	Hackstock	1	I vasteh eng net, ös meßts a weng läuda re'n.
+de	19096	Traunstein	1	I vasteh eng nit, ihr müaßs lauta redn.
+de	19138	Maria Laah	1	I vasteh eng nöt, ös möaz a weng lauda redn.
+de	19144	Haag	1	I vasteh eng nöt, miaßt's a weng lauta rödn.
+de	19154	Amstetten	1	I vasteh eng net, ös müaßts a wengal lauda redn.
+de	19163	Wieselburg	1	I vasteh enk net, es müasts a wengal lauta redn.
+de	1919	Groß Gerlauken (Vjazovka)	1	Öck verstah ju nich, ju motte ön bösken luter spräke!
+de	19225	Steyregg	1	I vasteh enk nöt, ös müaßt a bißl lauda rödn.
+de	19233	Schwertberg	1	I vastē engnet, əs mē̃āsz aweng lauda rēd̃n.
+de	1924	Pakallnischken (Suvorovo)	1	Eck verstoah ju nich, ju motte e bäske luter spräke.
+de	19245	Bad Kreuzen	1	I versteh eng nöt, ös müaßt a weng lauda rödn.
+de	19257	Altenmarkt	1	I vasteh eng  net, ös miaßts a weng lauda redn!
+de	19301	Els	1	I' vasteh eng nit, müaßts a weng lauda redn.
+de	19311	Gneixendorf	1	I vasteh eng net, es miaßt a bißl lauda redn.
+de	19322	Fels am Wagram	1	I vaste' eng net, ös müaßts a bißl lauta redn.
+ef	19334	Oberhautzental	1	I vaste enk net, ihr miaßt a wengal lauda redn.
+ef	19401	Schönbühel an der Donau	1	I vasteh eng net, ös müaßts a bißl lauta redn.
+ef	19404	Karlstetten	1	I vasteh eng ned, ös müaß'z a weng lauda red'n.
+ef	19419	Würmla	1	Miaßts lauda rede, i(h) vasteh eng ne[t?].
+ef	19429	Ried am Riederberg	1	I versteh eing net, es müaßt a weng lauda redn?
+ef	19479	Mank	1	I vaschtē eng nid, ös müaßz a weng lauda redn.
+ef	19486	Wilhelmsburg	1	I vasteh enk nöt, ös müaßts a veng lauta redn.
+ef	19492	Stollberg-Siedlung	1	I versteh eng nit, ös mößt a wengerl läuter reden.
+ef	1953	Pillau	1	Eck faschtah juh nich, juh motte nogg hĕ bäht luta sprähke.
+ef	19541	Grub	1	I vasteh eing nit, eis müaßts a bißl lauda rein.
+ef	1956	Patersort (Beregovoe)	1	Ēck vastâh ju nich, ju motte 'n bēske ludar spräke.
+ef	19564	Obergänserndorf	1	I vasteh eng net, ös miaßts a weng lauda redn.
+ef	19607	Raggendorf	1	I vaschteh enk nit, ös miaßts a bißl lau[t/d]a rēdn.
+ef	1962	Bergau (Tzwetkowo)	1	Oeck vatåh ju nich, ju motte e Böske luda spräke.
+ef	19621	Stillfried an der March	1	I vərschtēh eŋg nid, ės miaßts a bissl laudər rėdn.
+ef	19640	Grünau (Grinava)	1	Rets(a) piß(ö)l laut(e) i v(e)schte engjo nit.
+ef	19642	20. Bezirk-Brigittenau	1	I versteh' enk net, ös miaßt's a bissl lauta red'n.
+ef	19646	Raasdorf	1	I vasteh eng net, ös müaßt's a bißl lauta red'n.
+ef	19657	Breitensee	1	Ich versteh euch nit, ihr müaßts a bißl laute redn.
+ef	19659	Theben (Devín)	1	I vasteh' eich net, ihr misst's a bisl lauta sprecha.
+ef	19667	Biedermannsdorf	1	I vasteh eng net, es miaßts a wengal (bissal) lauda redn!
+ef	19674	Enzersdorf an der Fischa	1	I vasteh enk net, ös miast's lauda redn.
+ef	19696	Kittsee	1	I versteh eng nit, ia miasst a bissl lauta redn.
+ef	19705	Mischdorf bei Pressburg (Nové Košar	1	I vastereng nid, es miassts a pissl lauda redn.
+ef	19726	Rohrau	1	I vasteh eng nit, ös müasstz a wengerl lauta redn
+ef	19739	Thiersee	1	I vasteh enk nit, ös miasz a bißl lauda redn.
+ef	19748	Achenwald	1	I' vastea enk nied, ös miaßt a bißl lauta rödn.
+ef	1977	Fuchsberg (Semënovo)	1	Oek faschtoa ju nich, ju motte luda koose.
+ef	19775	Obertrum am See	1	I vásteh Eng nöt, Ös müáßt's á weng lautá rödn!
+ef	19787	Hochfeld	1	I vosteh enk nöt, os müaßts a bißl lauta rödn.
+ef	19823	Vorderfager	1	I vasteh enk nöt, ös müaßts a bißei lauda rödn.
+ef	19851	Schwendt	1	Ivasteah enk néd, müaßt's a bißl läuda rödn.
+ef	19854	Waidring	1	I vasteh enk nit, ös müaßts a bißl lauta redn.
+ef	19859	Kuchl	1	I vaste(h) enk nöt - ös müaßt's a bißl lauta red'n -
+ef	1987	Pregelswalde (-)	1	Eck vastoh ju nich, ju motte e bäßke luda kose. (spreke)
+ef	19886	Schörfling	1	I vasteh eng nöt, ös m[ü?]aßts a weng laude rö(d)n.
+ef	19896	Gschwandt	1	I versteh eng nit, ihr müßts a bißl lauter reden.
+ef	19901	Schlierbach	1	I vaschdeh eng nöd, ös miasts a bißl lauda rödn.
+ef	19941	Sankt Gilgen	1	I vastah enk nöt, ös miaßts a weng(al) lauta rödn.
+ef	19945	Ebensee	1	I vastöh eng nöt, red'z a wengal lauta!
+ef	19947	Steyrling	1	I vastehe eng nöt, ös müaßt a wengal lauta red'n.
+ef	19956	Bad Ischl	1	I vosteh enk nit, ös müaßt lauta rödn!
+ef	19965	Windischgarsten	1	Muaßt aweng leida rödn, sist vasteh i eng nöt.
+ef	19971	Bad Goisern	1	I vosteh eng net, es muaßts a bisl lauta redn!
+ef	19977	Grundlsee	1	I vasteh enk nit, ös miaßts oaneigl lauta redn.
+ef	19993	Wörschachwald	1	I vaschteh eng nöt, ös müaßts a bißl läuda rö(d)n.
+ef	20005	Trattenbach	1	I vasteh eng nët, ës mirsz a bissal lauda redn.
+ef	20008	Sulzbach	1	I vasté eng net, reds laũda.
+ef	20019	Ybbsitz	1	I vasteh eng nit, es meßt's lauda red'n!
+ef	20023	Gaming	1	I vasteh eng nit, ös miaßt's a weng lauda redn.
+ef	20046	Kleinreifling	1	Ivastöh eng nöt, ihr müaßt a bißl lauta r edn.
+ef	20049	Mariazell	1	I vasteh eng nit, es miaßt'z a weng lauda ren.
+ef	20051	Neuhaus	1	I vaschteh eng net, e̊s miaßt's a bißal lauta red'n.
+ef	20058	Lassing	1	I vasteh enk nit, ös müäßz a weng lauda redn.
+ef	20062	Ardning	1	I vasteh enk nit, e̊s miaßt lauta rein.
+ef	20065	Weng	1	I vasteh enk nit, eïs miaßzt a bißl lauta redn.
+ef	20067	Lainbach	1	I vasteh enk nit, ös miaß'z a bisl luta red'n.
+ef	20069	Gollrad	1	I vrsteh enk nit, e(i)s miaßts a bissal lautr redn.
+ef	20077	Oberort	1	I versteh enk net, ihr müäßt ä bisserl lauter redn.
+ef	20090	Wext	1	Ik vestoh u nich, i möt'n bitken hädder roopen.
+ef	20099	Leer	1	Ick verstoɑh juh nich, i mürt n lück hɑ̈dder küren.
+ef	20110	Herbern	1	Ik verstao ju nig ih möt en bitken hädder küren.
+ef	20117	Ringel	1	Ick verstauh ju nich, ji mürt en birtken heller kühren.
+ef	20128	Hilter am Teutoburger Wald	1	Jck verstae ju nich, ji mött en biètken heller küren ( spriäken).
+ef	20240	Bardel	1	Ik verstao juu nig, i möt en betken harder sprekken.
+ef	20248	Haddorf	1	Ik versto͡a ju nich, i mött't en bietken hadder küren.
+ef	20259	Hörstel	1	Ik verstoah juh nig, jh moat en Betßen härter spräken.
+ef	20269	Westerkappeln	1	Ik verstah ju nich, gi mönt etwas heller spriäken.
+ef	20283	Astrup	1	Jck versta ju nich, gi möt en birt'n heller kür'n.
+ef	20346	Frensdorf	1	Ik verstoa ju nich, ih möt't bettin hadder sprecken.
+ef	20350	Elbergen	1	Ick vastaᶟ ju nich, i möt't 'n bettken luter (hatter) sprecken (praᶟten).
+ef	20361	Setlage	1	Jk versteoh ju nich, jh  möttet nen betken hätter proten.
+ef	20370	Merzen	1	Jck verstoh jou nich, je möt en bitken heller kühren.
+ef	20381	Vörden	1	Jk vorsto͡ah ju nigg, jie (gie) möt en bjeten heller sprjäken.
+ef	20384	Wielen	1	Ik verstoa uw niet, ij möt 't en bettien hadder proaten.
+ef	20446	Hoogstede	1	Ik verstoa ouw nich, y mött en bettien hadder proaten.
+ef	20454	Geeste	1	Ik versta͜oh jo͜u nich, ih mä͜öt 'n bitsken nietsker spräken.
+ef	20463	Dohren	1	Ik vestaohe hau nich, ih mötet en betken heller proten.
+ef	20468	Renslage	1	Ick verstauh jie nicht, jie möht en bitken luter spreken.
+ef	20481	Dinklage	1	Jk verstah jau nich, jie mäut ein bittken heller spräken.
+ef	20543	Haren (Ems)	1	Ik verstaᶟ jou nig, ih ma͡öt en bittken nietsker proten.
+ef	20555	Hüven	1	Ik verstah jau nich, ih mät bitken nitsker proten.
+ef	20562	Garen	1	Ick versto͡a jau nich, ih mö͡ätet 'n bitken nietsker spräken.
+ef	20575	Sevelten	1	Jk verstah jou nich, ji möt ehn Bitken luter spräken.
+ef	20589	Neudersum	1	Ick verstaoh jau nich, i maöt'n bitsken nietsker proten
+ef	20596	Neubörger	1	Ik versta jo nich, j möt ' n betken nietsker proten.
+ef	20599	Neuarenberg	1	Jck verstaᶟh jau nich, ji möht'n bittken nietsker proten.
+ef	20604	Garrel	1	Jk verstah jau nich, ji mät 'n bäten lueder schnacken. / (...)
+ef	20638	Visbek	1	Jck verstah jou nich, ji möt'n bäten luter spräken.
+ef	2067	Enskemen (-)	1	Ek vorstoah ju nich, ju motte ĕ bĕske luter spräke.
+ef	20710	Wietzendorf	1	Jck verstah jück nich, ji mötet ein bäten luer spräken.
+ef	20734	Colonie Syke	1	Jek verstah joo nich, jii mäöt'n bäät'n harrd'r spräk'n.
+ef	20753	Magelsen	1	Jck verstah jou nich, ji möt't un bäten lurder spreken(ä).
+ef	20763	Nordkampen	1	Jck verstoch jau nig, ji määt en betten lurer spräcken.
+ef	20774	Vierde	1	Jck verstah jück nich, jih möt'n bet'n luer snakken.
+ef	20788	Schmarbeck	1	Jck vestah jück nich, jy möt'n bäten luer ßnacken
+ef	20798	Brümsen	1	Eck vosta͡oh jau nich, jie möt'n betten harrder spreken.
+ef	2081	Eydtkau (Eydtkuhnen)	1	Eck vorstao ju nich, ju motte beske luter spräke.
+ef	20891	Dörpel	1	Jck verstah ju nich, jie möt un beten luher spreken.
+ef	20901	Maasen	1	Jk verstah jo nich, ji möt en bädn (etwas) luer spräken.
+fg	20917	Drakenburg	1	Jck versteh jeu nich, ji mät bäten luer [ko?]rehen.
+fg	20920	Unterrodewald	1	Jck verstah jück nich, jie möt lütjet bäten luer köen.
+fg	20933	Thören	1	Jck verstah jück nich, ji mät ein betten lurer spräcken.
+fg	20936	Hassel	1	Jck verstah Jück nich, ji mött'n betten luer snacken.
+fg	20946	Scharnhorst	1	Ick verstah jück nich, jü müdd'n bedd'n luer ʃsnacken.
+fg	20948	Aschen	1	Ik verstah jo nich, ji möt en bittken vosser sprēken.
+fg	21024	Burlage	1	Jk verstah ju nich, ji möt un beten luer snaken.
+fg	21033	Hoysinghausen	1	Ick verstah jau nich, ji mäst etwas luhrder körren.
+fg	21045	Brokeloh	1	Ik versteh jük nich, jie möt en bäten lurer spräken.
+fg	21050	Empede	1	Jck verstahe jück nich, jie möt'n bet'n lurder kören.
+fg	21065	Gailhof	1	Eck verstahe jück nich, jieh möten beten lüer kören.
+fg	21074	Adelheidsdorf	1	Ick verstah jück nich, ji müt en betten luer spreken.
+fg	21085	Nordburg	1	Jck verstahe jück nich ji möt ein betten luher spräken.
+fg	211	Rodowo	1	Oech versteh nuscht, ihr mußt e bösche lauter redn.
+fg	21105	Preussisch Ströhen	1	Ich verstoh j[u?] nich, e(i)r müßt en lü[tjee?] bäten heller spräken.
+fg	21190	Brockhausen	1	Jck verstah ju nich, jü mö͡üt ebe͡ätn heller kü͡ärn.
+fg	21199	Isenstedt	1	Ick verstōan jiu nich, jieh müöt’n [verlängerter Strich unter Punkten] biät’n [verlängerter Strich unter Punkten] heller kühr’n.
+fg	21218	Wietersheim	1	Ek verstah jau nich, gie märt noen bieten heller kuen.
+fg	21235	Hülshagen	1	Eck verstahe gück nich gi müht bieten luer kören.
+fg	21252	Holtensen	1	Ek versteah jück nich, ji möt't en bäten luer spreken (kören).
+fg	2127	Klein Nuhr (Sukhodol'Ye)	1	Eck verstah ju nich, ju motte ehn bätke luter spröcke.
+fg	21280	List	1	Eck verstah jürk nich, ji möttet enn bett'n luer spräken.
+fg	21295	Immensen	1	Eck verstahe jück nich, ji mött en betjen luer spräken.
+fg	21305	Voigtholz-Ahlemissen	1	Jck verstahe jüok nich, ji möcht'n betten luer spreken.
+fg	21316	Steinhagen	1	Ik verstoh ju nich, jēi mürt en biertken heller küern.
+fg	21342	Krentruperhagen	1	Ek vastae jüi nich, jüi möt't'n bieten hädder küren.
+fg	2135	Skungirren (Pen'Ki)	1	Eck verstaoh ju nich, ju motte ehn böske luter spräke.
+fg	21355	Wendlinghausen	1	Eck verstohe juck nich, jui mött'tn betten hadder küren.
+fg	21362	Reher	1	Eck vastah jöck nich, jeu mööt en beeten harde kuhrn.
+fg	21384	Harderode	1	Eck verstah jück nich, jä͡i mü͡it en bittschen li͡uhr spräken..
+fg	21405	Rheden	1	Ek versteh jök nich, joi mötet n' beten liuer kören.
+fg	21429	Nette	1	Eck versta-e jeck nich, je ̆-i möttet ein betten li ̆u-er spräken.
+fg	21446	Steinlah	1	Ek verstae jeg nich, jĕ-ĭ mött en betten lĭŭer spreken.
+fg	2145	Kurschen (Kuz'Mino)	1	Eck verstaoh ju nich, ju motte en Beske luter spreke.
+fg	21455	Gross Schiplage	1	Jk vrsta ju nich, jui mürt en birden heller küren.
+fg	2161	Kalnen (-)	1	Öck verstāh ju nich, ju motte ēn bößkn luter spräke.
+fg	21611	Schweicheln-Bermbeck	1	Ick verstahe jau nich, gie müt luter spräken.
+fg	21632	Veltheim	1	Eck verstah jeu nich, jie müt'n biet'n harger küren.
+fg	21666	Rohden	1	Eck versto(a)h jöck nich, jeï möt 'n beten luër kür'n.
+fg	21679	Springe	1	Eck verstah jöck nich jẽ möttet en betten lũer spräken.
+fg	21687	Vardegötzen	1	Ek verstah jück nich, ji möttet en betten liuer kören.
+fg	21707	Rautenberg	1	Eck verstah jück nich, jeï möt en betten liuer kören.
+fg	2182	Soginten (Svirskoe)	1	Eck versta͡oh ju nich, ju motte ĕ beske luter rede.
+fg	21882	Bodenstedt	1	Jik verstah jüch nich, jai möt ein betten läuer spräken
+fg	21902	Rautheim	1	Ick vorstahe jüch nich, jü möt en betten luer spräken.
+fg	21936	Bartensleben	1	Ik vorstah jüch nich, jie möt en betchen harder spräken.
+fg	2200	Narmeln (Polski)	1	Eck verstoah ju nich, ju motten 'n bätken luder spräken.
+fg	2204	Leysuhnen (Ščukino)	1	Eck vaschtoah ju nich, ju motte e beßke luda schpräke.
+fg	22044	Rottorf	1	Ick verstahe jich nich, ji möt 'n betten luer spräken.
+fg	22063	Hundisburg	1	Ick verstahe jich nich, jih mött'n en bettjen lauter spräken.
+fg	22074	Farsleben	1	Ick verst(oa)h guck nich, gie mutt'nd en bettch'n driester segg'n.
+fg	22083	Reesen	1	Jk vorschta[a?] ju nich, ji metten en betjen lujer schpreken
+fg	22092	Paplitz	1	Ik vörschtoahe ju nich, jie mütt'n bittchen lujer schwatzen
+fg	22111	Wasbüttel	1	Jck verstahe jick nich, ji möt[?] en betten lüer kören.
+fg	22149	Rätzlingen	1	Jck verstah jück nich, ji möt n betchen luer köären.
+fg	2216	Hermsdorf (Pograničnyj)	1	Ek vaschtoh ju nich, ju motte en beßkn luda schpräkn.
+fg	22172	Burgstall	1	Jch vorstah ju nich, jie mütten bittchen driester spräken.
+fg	22222	Reislingen	1	Jk verstah jüch nich, jie mött en betten luer spreken.
+fg	22249	Roxförde	1	Jk verstoh juk nich, je mün ein bätchen luter spräken.
+fg	2225	Moritten (Oktjabrskoe)	1	Oeck vastoa ju nich, ju motte nach en beske luda rede.
+fg	22264	Grieben	1	Jck verstoah ju nich, ji mün'n bitchen driester reden.
+fg	22276	Zabakuck	1	Ick verstoah ju nich, ji müttn en Bitchen lüier rähdn.
+fg	22375	Westerholz	1	Jck versta e jück nich, jü mütt 'n bett'n luer kör'n.
+fg	22384	Tülau-Fahrenhorst	1	Jck verstoh jük nicht, ji mütten bitjen luter spräken.
+fg	22394	Köbbelitz	1	Ick verstoh ju nich, je münn bitjen driester sprekn.
+fg	22407	Schenkenhorst	1	Jch vösto och ju nich, jei mün' bisschern driester snakk'n.
+fg	2242	Naunienen	1	Öck vastah ju nich, ju motte en beske luda spräke.
+fg	22423	Querstedt	1	Ick vöstoh ju nich, je münn bidschen driester snak'n.
+fg	22443	Staffelde	1	Ick vöstoah ju nich, ji mün'n klein bitschen drister spräken.
+fg	22453	Grosswudicke	1	Ick versto͡ah ju nich, jie mün'n en bitschen lui köddern.
+fg	22574	Masel	1	Jck verstah jück nig, jüh mät'n betjen luter spreken.
+fg	22581	Höddelsen	1	Jck verstaoh jüik nich, ji mütt'n een bitk'n lüter schprä[c]ken.
+fg	22599	Wöpel	1	Jck verstoh juh nich, jeh mü'nn bitschen driester schnakk'n.
+fg	22621	Molitz	1	Ik vöstoh ju nich, je mün bitschen driester snackn.
+fg	22636	Rönnebeck	1	Ik väöstaoh ju nich, jie mün'n bitschen driester ßnack'n.
+fg	22654	Iden	1	Iick verstoah ju nich, ji mün'n Bitschen drister snacken.
+fg	22667	Kuhlhausen	1	Jck västoah ju nich, ji münn en bitschen lujer spräken.
+fg	22685	Proitze	1	Jck verschtah jück nich, ji möt 'n betn förter schnacken.
+fg	22773	Holdenstedt	1	Jck verstah jük nig, jüh mäht en betten luhder spräken.
+fg	22796	Wustrow (Wendland)	1	Jk verstah ju nich, jie müdd'n bed'n luder sprek'n.
+fg	22810	Lomitz	1	Jck vörstah ju nich, ji mütt'n een bäd'n förscher snack'n.
+fg	22819	Jeggel	1	Ik versto͡ah juh nich, jüh mütt'n Bäten driester spräken.
+fg	22832	Gross Lüben	1	Ick verstoah ju nich jie mün en bitschen förscher ßnackn.
+fg	22846	Görike	1	Ik verstoah ju nich, ihr (jie) müßt (müdden) en bitschen luger sprecken.
+fg	22910	Holthausen	1	Ick verstohe uck ne, get möten en besschen (betschen) hadder kallen.
+fg	22931	Dahlhausen	1	Ek verstoh ink nich, [J]it meit en bitken härter spriäken.
+fg	22965	Langeloh	1	Eck vesto͡a ink nit, it meit en bï͡ëtken lauter (hädder) sprï͡äke (kür'n).
+fg	22990	Halingen	1	I͜ek verstho i͜u nitt, eÿ mött en Bi͜etken hedder kui[e?]rn (spriäken).
+fg	22998	Neheim	1	Jek verstohn ug nitt, Ji müetet en bietken hädder kuiern.
+fg	23010	Niederbergheim	1	Iek verstoh ujje nitt, nih müt 'en Biëtken hädder Kuiern.
+fg	23021	Kapellen	1	Ek verstä͡enn on nit, gej mott een betje harder spräke.
+fg	23031	Rheinberg	1	Ek verstohn oh nit, ge möt en bedje hadder spräke.
+fg	23184	Holthausen bei Kirchhellen	1	Ik vörstauh ink nech, gitt maut 'n Bättken hätter kallen.
+fg	23191	Herten	1	Eck vastou ink nich, it meit bietken hätter küan.
+fg	23207	Waltrop	1	Ek västuoh ink nit, it mait ätwas hädder küör'n.
+fg	23218	Kamen	1	Jck verstuon [Bogen unter 'uo'] ink nit, it mött ein bietken [Bogen unter 'ie'] hädder koiern [Bogen unter 'oi'].
+fg	23231	Norddinker	1	Ick verstoeh iu nit, iu mürt no’n biertken häder kuiern. 
+fg	23261	Kessel	1	Ek verstou o͡u nitt, ge͡j mott ĕn bedje harder gröte.
+fg	23271	Kehrum	1	Ek verstönn ow nit, gey mot en beche harder spráke.
+fg	23284	Hamminkeln	1	Ek verstoah ou niet, ej mott ene bättjen hadder spräken.
+gh	23293	Erle	1	Ick vostoah uh nich, ih mütt en bätken hadder kallūn.
+gh	23343	Göttingen	1	Ick vestoa ju ni, se müt nen bitken hädder köüern.
+gh	2338	Wenslowischken (Voznesenskoye)	1	Eck versto͜ah ju nich, ju motte e beske luter (dichtiger) spräke.
+gh	23402	Holtwick	1	Ick verstoah ink nich, ih müöt en biäten hädder kühren.
+gh	23412	Seppenrade	1	Jck västauh ink nich, iet möt't en biettken hädder küern.
+gh	23419	Davensberg	1	Ick vöstou ju nich, ji möt en bittken hädder küirn. 
+gh	23426	Vorhelm	1	Jk fästoa ju nig! ji möttet en bükken heller küern.
+gh	23435	Stromberg	1	Ick vostoeh ju nich, jei mödt en bitken hädder köiern.
+gh	23453	Stockum bei Coesfeld	1	Ick vestoh uh nich, ih mött een Bittken härrer küan.
+gh	23466	Nottuln	1	Yck vörstoh uh nich, ih müt't en bitken härrer küen.
+gh	23471	Münster	1	Jk verstoah ju nich, ji mürt en bitken hadder spriäken.
+gh	23478	Einen	1	Ick vastaoh guh nich, gieh mot n' bietken harrer küeren.
+gh	23483	Greffen	1	Jck verstoh ju nich, jie müt't äin bitken hatter käiern.
+gh	23494	Speelberg	1	Ek verstō̄n ow niet géj mott en bétje harder sprǟke.
+gh	23498	Hemden	1	Ik verstoh ou neeth, eei mut en betken härder kallen.
+gh	23507	Weseke	1	Ik vöstoh uh nich, ih müdt een bätken nüxker spräken.
+gh	23545	Tüddern	1	Ech verstohn öch net, ihr mot eh bidje helldersprä̌ke.
+gh	23566	Porselen	1	Ich verstohn öch net, ihr mot e wenneg heller spräke.
+gh	23602	Holzweiler	1	Ech verstonn ög net, ir mot e beßge heller kalle.
+gh	23630	Evinghoven	1	Ech verstonn öch nett, ir mutt e besche hader kalle.
+gh	23817	Reusrath	1	Ech verstonn öch nit, ür müt ebesge häder kalle.
+gh	23843	(Stolzenberg)	1	Ech verstonn öch net, ihr mößt 'n beschen häder kallen. (häder = härter = lauter)
+gh	23858	Oberklüppelberg	1	Ek verstoh enk nich, et mäutet en betchen hädder küren.
+gh	23873	Valbert	1	Ieck verstuoh ink nit, iet meiten en Bietchen hädder spriäken.
+gh	23885	Sporke	1	Iëck verstoh auck nit, i͡e mot en biëtken hädder kuiern [Bogen über 'uie'].
+gh	23902	Schmallenberg	1	Ik verstoh auk nit, äi mot en wänneg hädder kuiern.
+gh	23906	Elmpt	1	Ech verstohn öch nēt, öhr mot e wennig heller kallen.
+gh	23922	Helenabrunn	1	Ich verstönn üch net, er mot e wenig hellter kallen.
+gh	23933	Weißenberg	1	Ech verstônn ech net; eo möt e béske hahder kalle.
+gh	2398	Mertensdorf (Tjomkino)	1	Ik verstoah ju nich, ju motte luta spreke.
+gh	2409	Trausen (Lipnyaki)	1	I͡eck vasto͡a ju nich, ji mu͡otte ain bätke luta rede.
+gh	24107	Hubbelrath	1	Ech verstonn öch nitt, ehr mott e betsche hatter spreke (kalle.)
+gh	24134	Barmen	1	Eck verstoh enk nitt, gät mötten en betschen hätter spreken.
+gh	24156	Delle	1	Eck versto͜ah ink nett, i͜ätt mäut en betken hi͜ärter küren.
+gh	24167	Altena	1	I͡ek verstohe ink nit, i͡ät mut en bi͡etken hädder küren.
+gh	24180	Stockum	1	Ick verstoh egg nit, I meitet en bietken hädder kuiren.
+gh	24208	Wall	1	Ek verstohn üch net, je mot e bedsche harter spreche.
+gh	24218	Vennikel	1	Ek verstonn ou nit, chei mot en betschen hatter kallen.
+gh	2426	Groß Pentlack (Kamenka)	1	Ök verstah nicht, ju musst en Betken luder spreken
+gh	24336	Berghausen	1	Ich verschten üch net, ehr müßt e beßche laeurer schwaetze.
+gh	2436	Kowarren (Zaozernoye)	1	Eck verstah juh nich, juh motte e beske luter rede.
+gh	24360	Bottendorf	1	Ech verstenn üch nett, ehr müßt e beßche laurer sprechen.
+gh	24380	Bergfreiheit	1	Ech versteh eich net, d'r mut ä wink lauder sprächen.
+gh	24412	Roppershain	1	Ich versteh üch nett, dä mutt e bischen lührer schwatzen.
+gh	24431	Konnefeld	1	Ech (e beeit) versteh uch ni͡ ett, de mutt i͜͡enn Bischen luhrer schwatzen.
+gh	24454	Berneburg	1	Ech versteh uch net, de mot en beschen luter spreche.
+gh	24466	Lüderbach	1	Ich verstih uch nitt, de mătt enn bischen luter spräch.
+gh	24490	Züschen	1	Ieck verstoh uch nitt, ieh mötten enn wennig härter schwatzen.
+gh	2452	Kleschowen (Kutusowo)	1	Eck verstoh ju nich, ju motte e beske luter spräke.
+gh	24636	Rhadern	1	Ek verstoh uch nitt, jih mödden en bezken härter schwatzen.
+gh	24659	Buhlen	1	Ech v’rschdeh uch net, deh müddet ‘n beßchen härter schwatzen.
+gh	2466	Tolkmicko	1	Öck vastŏ juh nich. Juh motte 'e bät (böske) luhda rede. (sprechen köm̄t [nich?] vor.)
+gh	24677	Metze	1	Ech versteh och nett, däh mutt än beschen lurer schprächen.
+gh	24695	Wattenbach	1	Ech versteh Och nett, dä moßt enn bäßchen lūde schwatzen.
+gh	24715	Vockerode	1	Ich versteh uch nidd, de mudd enn bischen ludder sprächen.
+gh	24737	Grosstöpfer	1	Ich versteh üch nit, deh mut än bischen lüter spräche.
+gh	2474	Pierzchaly	1	Ek vaschto ju nich, ju motte en beske luda schpräke.
+gh	2482	Peterswalde (Piotrowiec)	1	Ek vastoh ju nich, ju motte e böske luda spreke.
+gh	24884	Olsberg	1	Ik verstoh uch nitt; ÿ motten en wennig lüder kühren.
+gh	24901	Sudeck	1	Iẽk verstoh juch nit, ji mottet en bisken ha͜erter swatzen.
+gh	24917	Braunsen	1	Ick verstoh juch nit, ji mottet en Bitsken härter ßwatzen!
+gh	24926	Zierenberg	1	Eck verstoh jug ne, ji modden ein Beddeken harter schwatzen.
+gh	2494	Saruny	1	Öck vastoh ju nich, ju motte n böske luda spröcke.
+gh	24942	Speele	1	Ich verschteh ug nit; de mut en bischen lüder schwatzen.
+gh	24959	Hermannrode	1	Ek verstoh jök neh, je möt ein betchen löwer swatzen.
+gh	2507	Wojciechy	1	Öck vastoah ju nich, ju motte e Böske luta spräke.
+gh	25113	Meiste	1	Jk verstohn jiu nit, jui möt en bietken hädder kuiren.
+gh	25131	Fürstenberg	1	Ick verstohn juck nit, ÿ möttet en bitsken harrer spriäken (küeren).
+gh	25136	Scherfede	1	Ick verstohe jug nie, jäi möttet äin bitsken härder käueren.
+gh	25150	Körbecke	1	Ik verstah juck ne͡-i, je͡-i möttet en bitteken hädder keuern.
+gh	25163	Gottstreu	1	Ick verstah jeck nich, je mütt en betten louer spreken.
+gh	25179	Esebeck	1	Jk verstahe jök nich jie möt'n betgen luer spreken.
+gh	25197	Ebergötzen	1	Eck verstah jö̆k nich, jie mö̆tt n bett'n lauer sprēkĕn.
+gh	25214	Bönninghausen	1	Ik verstoh jiu nit, jiu mött enn bittsken hädder kuiern.
+gh	25223	Kirchborchen	1	Jk verstohe jiū net, jeī müttet en bitken häidder kören.
+gh	25343	Siebenstern	1	Jk verstohe juk nie, jiä müt ein bitken wisser prohlen.
+gh	25354	Bruchhausen	1	Jk verstah juk ni, jäi möt en biäten harren kören.
+gh	25363	Schönhagen	1	Ek verstahe jök nich, jü mosten betten öuer spreken.
+gh	25373	Oldenrode	1	Ek verstae jök nich, gëi möttet ne betten lëuer spreäken.
+gh	25391	Marke	1	Eck verst(oa)h jöck nich, j(äi) möttet en betten l(iu)her spräken.
+gh	25407	Westerwiehe	1	Jk vöstoh ju nich, ji mött'n biëtken hädder köüern.
+gh	25514	Haustenbeck	1	Eck vastoh jü nich, jü met 'n betten hädder kurn.
+gh	25522	Heesten	1	Eck verstohe juch nich, jüi möttet en betten wisser kührn.
+gh	25543	Rischenau	1	Eck verstoh jöck nich, jo͡=i möt 'e betten wisser kuren.
+gh	25560	Lobach	1	Eck verstahe jöck nich, jei möt en betten lauter spräken.
+gh	25579	Wenzen	1	Eck varstahe jöck nich, jäi möttet en betten liuer spreken (prahlen).
+gh	25596	Ackenhausen	1	Eck verstoahe jöck nich, jeui möttet ein betten liuer spräken.
+gh	25607	Wolfshagen im Harz	1	Eck verstah jeck nich, jä͡i mett'n betten li͡ur keddern.
+gh	25798	Kell	1	Ech verstohn üch net, dir mößt e Besje hater schwätze.
+gh	25824	Stromberg	1	Ech verstinn och nett, ihr moßt e bißche hater schwätze.
+gh	25845	Staudt	1	Ech vastihn auch net, iha mußt'(e) Besche härta schwätze
+gh	2586	Jurkiszki	1	Eck verstoa ju nich, ju motte e bösske luter rede.
+gh	25876	Steinbach	1	Eich verste(i euch nit, ihr meßt ein bische laurer spreche.
+gh	25904	Höfen	1	Ich verstohn üch net, d'r moßt ä wönnig häller kalle.
+gh	25914	Gemünd	1	Ich verschtôhn üch nett, ihr mott gätt hatter kalle.
+gh	2602	Maciejowieta	1	Jck varstah ju nich, ju motte e biske luter spreke.
+gh	26141	Iversheim	1	Ich verstohn üch net, iäh mot jätt hade kalle.
+gh	26155	Gelsdorf	1	Ech verstohn öch net, ih mod e kle wenneg hede spreiche.
+gh	26178	Ohlenberg	1	Ech verstohn üch nit, ühr mot e bische hater schwätze.
+gh	26205	Seifen	1	Ech vestohn ich net, ihr moßt e beschen hatter schwetzen.
+hi	26228	Gehlert	1	Ich verstieh uch nett, ihr mußt beßchen härter schwätzen.
+hi	26261	Waigandshain	1	Aich verstohe och net, ihr mußt heller schwetze.
+hi	26283	Sinn	1	Aich verstieh auch net, ihr mußt a bische härter schwätze.
+hi	26312	Venwegen	1	Ech verston öch neitt, er mott ä beßchen häller spräche.
+hi	26324	Üdingen	1	Ich verston üch net, üe moßt e wennig heller kalle.
+hi	26351	Borr	1	Ech verstohn uch net, ühe möt e beßche haade spreiche.
+hi	26578	Roisdorf	1	Ech vestone öch net, iē mot e beßche laute kalle.
+hi	26604	Geistingen	1	Ech verstohn öch net, ühr mott en Besgen hader rädden.
+hi	26627	Herchen	1	Ech verstohn öch net, ühr mot en beschen hader schwätz en!
+hi	26642	Mittelhof	1	Ech verstohn öch net, ihr moßt en bisje härter schwetze.
+hi	26664	Wilden	1	Ech verstooch 'n au nett, ihr mußt e besche harter schwätze.
+hi	26683	Straßebersbach	1	Ech verstih och nett, ihr mußt e beßche horter schwätze.
+hi	26712	Mariagrube	1	Ich verstonn üch net err mößt e besche heller sprä|iche.
+hi	26734	Niederzier	1	Ich verstonn üch net, ie mot e besge heller spreiche.
+hi	26753	Horrem	1	Ich verstonn üch nett, ihr mött e beeßche hahde kalle.
+hi	2676	Rygarby	1	Öck vastoa ju nich, ju mötte è bätke luter spreke.
+hi	26763	Poll	1	Ich verstonn üch nitt, öhr mütt e beßge hehder spreche.
+hi	2691	Kolwiny	1	Ek versto͡ah ju nich, ju motte ĕ beske luta spräke (kose).
+hi	27003	Heiligenhaus	1	Ech verstohn üch nét, ihr mößt jett háder kallen.
+hi	27025	Faulmert	1	Ech verstohn öch net, ihr most n weënig harder sprechen.
+hi	2703	Srokowo	1	Oek verstoh juh nich, juh motte ö böske luhter spräke.
+hi	27038	Hahnseifen	1	Ech verstohn üch net, ihr mußt en kiddchen härter schwetzen.
+hi	27064	Müsen	1	Ech verstohe ich net, er [m?]oßt e besgn harter schwätze.
+hi	27074	Schameder	1	Ech versteh uch net, ehr müßt e bische laurer (horter) schwätze.
+hi	27106	Dudenhofen	1	Ich versteh uchch nitt, ihr mißt e bisle laurer plaurern.
+hi	27135	Wenighösbach	1	Ich verschtähi eich nit iha mißt e bißche laura spreche.
+hi	2715	Stregiel	1	Öck verschtoa ju nich, ju motte ö bösske luuter schpräke.
+hi	27150	Wiesthal	1	Ich verstehe euch nit, ihr müßt e beßche lauter plaudern.
+hi	27163	Massenbuch	1	Ich verstia Euch nit, ihr müäßt ein weng lauter sprach.
+hi	27186	Neubessingen	1	I v'rstia Euch niat, ihr müaßt a wenk lauter sprach.
+hi	27209	Dittelbrunn	1	Ich verstiaeuch niat ihr müaßt a bisla lauter räit.
+hi	27223	Vockenhausen	1	Ich verschtien euch net, ihr mußt a (e) Bischen lauter schpre(s)che.
+hi	27244	Heddernheim	1	Ich versteh' euch net, ihr mißt a bissi lauter sprechche.
+hi	2727	Budziska	1	Eck verstoh ju nich, juh motte böske luther spräke.
+hi	27425	Bruchköbel	1	Ich verstih och nett, ihr misst ä Bissi laurer schwätze.
+hi	27444	Hailer	1	Eich verstih och neït, ihr mußt e bessi laurer schwetze.
+hi	2746	Chelchy	1	Eck verstoh ju nich, ju motte en beske luter rede.
+hi	27461	Oberndorf	1	Ich verschteh euich ned, ihr müßt's e bessje lauter san.
+hi	27469	Rossbach	1	Ich verstiĕrn äuich net, ihr mǖhst a besche=(a wenk) lauter red.
+hi	27480	Hassenbach	1	Ich verstiah euch nitt, ihr müaßt a Bäisla läuter räid.
+hi	27501	Poppenlauer	1	Ich verstiä euch niät, ihr müßt ä bißlä lauter räid.
+hi	27507	Cratzenbach	1	Ich v'rstihn oich nitt, ihr mißt a bischa härter schwetza.
+hi	2762	Wilkowo	1	Eck vestau ju nich, ji motte en beske lude rēde.
+hi	27692	Friedrichstal	1	Ech verstih euch nit, ihr müßt a besje lauter san. /schwätze/
+hi	27719	Leidhecken	1	Eich verstieh(n) ouch näit, ihr mußt a(n) bissi lauter spr[e͡a?]che.
+hi	27742	Gelnhaar	1	Aich vastiñ oach näit, r meßt a bessi laurer schwätze (spreache).
+hi	27765	Ulmbach	1	Eich verstenn euch nihet, ihr mußt e besche läuter schwatze.
+hi	27775	Eichenried	1	Ich verstenn euch nett, ihr müßßts e Beßche lauiter spraech.
+hi	27792	Wildflecken	1	Ich verstenn Euch net, di'r müßt a bißia läuter red.
+hi	27807	Bastheim	1	Ich versteh euch ni[u?]t, iha mößt a bisla lauter sprech.
+hi	2781	Karwiny	1	Oech versteh' euch nich, öhr mußt een bösche lauter rede.
+hi	27821	Philippstein	1	Eich verstih och nit, ihr mußt a Bische laurer schwäze.
+hi	27835	Dornholzhausen	1	Ach verstih uch net, ihr meust e wink laurer schwätze.
+hi	2800	Krzykaly	1	Ech vasteh ech nich ea mußt e besche lauta soge
+hi	28010	Nonnenroth	1	Aich verstiih uuch naiht, irr merst aa bessi laurer schwätze.
+hi	28027	Götzen	1	Ich verstih uch näit, ihr muszt ach bessi laurer spreache.
+hi	28045	Altenschlirf	1	Ich versteh oauch nett, ihr mußt e besche läiter schwatze.
+hi	28063	Fulda	1	Ich versten euch net, ihr meßt e Bösche luter schwätz.
+hi	28080	Rupsroth	1	Ich verstehn euch net, ühr mößt e beßje luiter spräch.
+hi	28107	Gerthausen	1	Ich verstöhn euich niet, [u?]e mößt a Bißle louter schwatz.
+hi	2817	Mawry	1	Öch vastöh' aich nich, öa musste bösche lauta rede. ("Sprechen" nicht läufig.)
+hi	282	Zolna	1	Ick versteh juch ni, ji motte bitzke laute redn.
+hi	2827	Sarnowo	1	Ech vasteh eich nuscht, eha mußt e besche lauta rede.
+hi	28278	Krumbach	1	Aich (a kurz) verstih uch neat, a moißt a winkilche lauer schwätze.
+hi	28298	Londorf	1	Äch v'rstih (ns) uch nit, ihr mißt e (ns) wink laurer schwätza.
+hi	28315	Otterbach	1	Aech varstieh uch nitt, ihr mußt eh beßche lauhter schwätzn.
+hi	28330	Schwarz	1	Eg versteh auch net, ehr mosst eh bessche litter spräche (schwatze.)
+hi	28346	Grossenmoor	1	Ich versten äich net, äi moßt e besche literscht spräch (br).
+hi	28358	Rasdorf	1	Ich verstenn euch nätt, eÿ meßt ä bösse lüttescht sprech (schwatz).
+hi	28369	Wiesenthal	1	Ich verstehn euch nett, eu moutt ä beschen luter spräch.
+hi	28392	Herzhausen	1	Ag verschtih uch nitt, ihr mißt e' wink laurer schwätze.
+hi	2846	Ledlawki	1	Öck vaschtoa ju nich, jie mutte e böske luda kose.
+hi	285	Kosobudy	1	Ich verstau euch nicht, ihr müßt ein bitzke luder redn.
+hi	28568	Betziesdorf	1	Äech verstieh auch nett, äer mußt äh bische läirer spräche.
+hi	28589	Neustadt (Hessen)	1	Ich versti uch nett ähr musst e besche laurer spreche.
+hi	28605	Neukirchen	1	Ich verstih üch net, āhr mö͡ußt e besche läurer spräche.
+hi	28623	Gittersdorf	1	Ech versteh och net, äh mot e besche litter spräch.
+hi	28640	Herfa	1	Ech versteh och nett, ei noßt e besche lutter sprech.
+hi	28651	Frauensee	1	Ech versteh eich net, ei mott ä besche lühter spräch.
+hi	289	Königswiese (Leśna Huta)	1	Itch västoh jug nich; ji mutte ä Bitzjä ludä sprätje
+hi	2900	Borawskie	1	Jck verstoa ju nich, ju motte biske luter spräke
+hi	2906	Zabrowo	1	Ick vestah jug nich, ji mote ä bitske lute rede.
+hi	291	Lubichowo	1	Ich verstoh jug nich, jü mutta äh bistchä ludä sprötchä.
+hi	2916	Stanowo	1	Ech vorsteh eich nich, ehr musst ě besche lauter rede.
+hi	2923	Fijewo	1	Ech verstehe eich nich, ehr meßt en beschen lauter spreche.
+hi	2935	Groß Koschlau	1	Ech vorrsteh eich nich, ihr messt een bessche lauter spreche.
+hi	2955	Liksajny	1	Oech versteh eich nich, öhr mußt ö bösche lauter spreche.
+hi	2962	Molza	1	Ec[h?] vorsteh' euch nich, ehr mußt e bische lauter spreche.
+hi	2970	Warkaly	1	Ech vaschteh aich nich, ea mußt e Bösche lauta rede.
+hi	2996	Bucznik	1	Ech versteh euch nich, ehr mußt e bößche lauter rede.
+hi	300	Montauerweide	1	Eck verstoh ju nich, ji motte biske luter rede.
+hi	300660	Sankt Roman	1	Ich vasteh die net, du muaßts Mäul besser aufmacha.
+hi	300798	Reikersdorf	1	I váschteh eng net, es müßt's lauda redn.
+hi	301042	Rigaus	1	I vasteh enk nit, ös müaßt's vie lauta rödn!
+hi	3058	Zyndaki	1	Ek vasto ju nich, ju motte luda spreke.
+hi	3069	Rychliki	1	Öch versteh euch nich, öhr mösst ö bösche lauter rede.
+hi	3083	Chojnik	1	Oech verstöh euch nich, öhr mußt ö bößche lauter spreche.
+hi	3093	Ksiaznik	1	Ĕch vēsteh eich nich, eu musst ĕ bĕsche lautē räde
+hi	3111	Glotowo	1	Öch vasteh euch nich, öa mußt ö bösche lauta rede
+hi	312	Ryman	1	Jk fastoh jug nich, ji meuta ein betka lura spreka
+ij	3122	Derc	1	Ech vasteh euch nich, ea mußt e besche lauta rede.
+ij	31677	Battweiler	1	Ich verschdehn eich net, ehr mißt ä bißche laudr schpreche.
+ij	31695	Heltersberg	1	Ich verstheh eich net, ehr misse e bisli härter spreche (plaudere.)
+ij	31700	Ramberg	1	Ich verschteh euch net, ehr müßt e bissel laurer schpreche (müßt egges laurer rerre).
+ij	31719	Geinsheim	1	Ich versteh euch nett, ehr müssn e bissel lauter plaudere.
+ij	31737	Diedenhofen	1	Ech verste͡jn ech net d'r muscht e wenig härter schwätzen.
+ij	31765	Laumesfeld	1	Ech verstein éch nétt, d'r muscht e weinég mei hart schwätzen.
+ij	31789	Beckingen	1	Ich verstehn äg nett, derr mossen änn Besselchen härter schwätzen.
+ij	31800	Calmesweiler	1	Eich versten uch nett d'r moßen härter schwäzen.
+ij	31824	Steinbach bei Ottweiler	1	Eich verschtehn auch nett, ehr müßt e' bißchen laurer schbroche.
+ij	32019	Dietschweiler	1	Ich verstehe euch net, ihr müßt ein bißchen lauter sprechen!
+ij	32040	Siegelbach	1	Ich versteh euch net, ehr müßt een bißche laurer plaurere.
+ij	32053	Alsenborn	1	Ich versteh euch net, ehr müssen e bische lauter spreche.
+ij	32067	Erpolzheim	1	Ich versteh euch net, ehr müssen e bissel lauter plaurere.
+ij	32085	Kreuzweiler	1	I'ch b'stin ech net, d'r moußt e beschen horder schwätzen
+ij	32102	Greimerath	1	Ech besten ech net, dr mist e beschen hatter sprochen.
+ij	32119	Oberlöstern	1	Eich verstehn auch net, d'r müßt en Beschen lauter (harter) sprechen (schwätzen).
+ij	324	Podwilcze	1	Ick vastau jo͡ug nich, ji meute e bitzke luure räre (spräke).
+ij	3254	Jurkowo	1	Ök fa stoh juh nicht, juh motte böhkke luda röde
+ij	3267	Pozarki	1	Ek verschtoh ju nich, ju motte beßke luter spräke.
+ij	3272	Gawliki Wielkie	1	Eck verstoh ju nich, ju motte beske lutter spräke.
+ij	3280	Swietajno	1	Ek verschtoh ju nich, ju motte een beske luter schpreeke.
+ij	32855	Altviller	1	Ich versteh öiwich nit, ner musen en bisselchen härta schwätzen.
+ij	32883	Woustviller	1	Ech verstēhe ech nēt, er mun e beshel hǟrter rēden?
+ij	3301	Barschken	1	Ek vastah ju nich, ju motte en beske luta spreke.
+ij	33035	Rimling	1	Ich vérstèh ŏch ni̩t, ér mi̩ssé né bi̩ssél härdér rèdé.
+ij	3304	Dawillen	1	Eck verstoh ju nich, ju motte een bähtke luter spreeke.
+ij	33055	Roppeviller	1	Ich versteh eich nitt, r misse n bissel härtr rede.
+ij	33064	Dahn	1	Ich vèrstéh Üch nit, éhr müssèn è biss['?]l laud(r)er plaurèré.
+ij	3309	Dittauen	1	Öck verstah ju nich, ju mott en böske dichtiger spräke.
+ij	33102	Gleiszellen	1	Ich versteh euch nit, ehr müssen e bissel lauter redde.
+ij	33111	Herxheimweyher	1	Ich versteh euch nit, ehr misse laut'r plauj̃re.
+ij	33126	Guinkirchen	1	Ich v'rschtehn o=u=wich nitt, d'r mußen "n bißchen hahrter schwätzen.
+ij	33146	Überherrn	1	Eich verstehn auch nit, dr mussen n bisselchen hartr schwetzen.
+ij	33159	Malstatt	1	Ich verstehn eich nett, ihr müss e bischen härter schwätzen.
+ij	3318	Deegeln	1	Eck verstah ju nich, ju motte e Bätke mehr schrige.
+ij	33185	Niederwürzbach	1	Ich verstehn äich net, ihr müsset e bißchen härter schwätze.
+ij	33331	Steinbuch	1	Ich verstäih euch net, ihr mistt e bisje laurer blaurern.
+ij	33346	Breitendiel	1	I verste̠͡hi euch net, d'r müßt a bisla laut'r plaud're.
+ij	33364	Hundheim	1	I verschdē euch nid, ihr müßt e bisle lauder plaud'rn.
+ij	33381	Steinbach	1	I versteh Euch nit, Ihr mößt viel lauter re͜ïd.
+ij	33400	Eibelstadt	1	Ih varsteha aüch niat, iar möaßt a bisla laut'(e)r read.
+ij	3342	Pillkoppen	1	Ek verstoa ju nich, ju motte betke luter spreke
+ij	33420	Rödelsee	1	I versteh euch nit, ihr müßt a bisla laut'r red.
+ij	3343	Karkeln	1	Öck verstah ju nich, ju motte e böske luter rede (spräke)
+ij	3345	Dünen (Ackmenischken)	1	Öck erstoa ju nicht, ju mötte een bätke luter spräke.
+ij	3351	Pleine	1	Öck verstoah ju nich, ju motte e Bösske dichtiger spräke.
+ij	33605	Erfelden	1	Ich versteh euch nedd, ihr müßt a bische laurer spreche.
+ij	33614	Traisa	1	Ich vesten eich net ia nisst a bisja laura schwätze.
+ij	3362	Cullmen-Kulken	1	Öck varsto͜ah juh nich, juh motte bößke luhter rähde. (uhtsprähke)
+ij	33631	Heubach	1	Ich verstäihn eich nitt, ehr mißt e wink laur'r schwätze.
+ij	3364	Rositten (Rybachiy)	1	Eck vestah juh nich, ju motte beske luter spräke.
+ij	33648	Hofstetten	1	Ich vestäi eich nett, d[i/é?]r mißt e bisle laurer spreche.
+ij	33660	Bischbrunn	1	I vrschtéh ich nēt, dr müßt ă wänni lauter räida.
+ij	33677	Birkenfeld	1	I verschtieha euch nit ihr mößt a bisla lauter reid.
+ij	33692	Rupprechtshausen	1	Ich versteha euch nit, ihr müaßt a wenk lauter räit!
+ij	33711	Gaibach	1	I verst[ä?]ha Öüch nit, Ihr müaßt a bißla lauter sprach.
+ij	33725	Rüsselsheim	1	Ich vesteh eich nett, ēr mißt e Bische laure schwätze.
+ij	33741	Langen (Hessen)	1	Ich verstohe euch net, ihr müßt a' bische laurer schwätze.
+ij	33849	Altlussheim	1	Ich versteh ich net, èhr müßt ä bissel lauter schwätzḛn.
+ij	33860	Schatthausen	1	Ih versteh' ich ned, dĕr mest ä biß'l lauder schwätzä.
+ij	3387	Sassenhöhe (Augsgirren)	1	Ek verstah juh nich, juh motte en biske luter spräke.
+ij	34001	Daudenzell	1	I versteh ich (euch) net; dir meßt e bisl lauter schwetze.
+ij	34015	Billigheim	1	Ich verschteh euch nicht, ihr müeßt e ' bißche lauter spreche!
+ij	34025	Oberkessach	1	I versch ech net, er müßt ä bißle lautar schwatze.
+ij	34044	Ailringen	1	I verstehee ich net, ihr müeßt e bißle lauter bäpere.
+ij	34058	Lichtel	1	I versteh euch nit, ihr müßt a̰ weng lauter plaudern.
+ij	34065	Windelsbach	1	Ih versteah ich nit, ihr müaßt a bißla lauter sprecha.
+ij	34076	Ludwigshafen am Rhein	1	Ich verschtēh eich net, ēhr mißt ä̰ bissel lauder redde.
+ij	34096	Ursenbach	1	Ich vaschtäi isch nét, èr mißt è bißl laura blauran.
+ij	34216	Gammelsbach	1	Ich vestäi' aich nett ihr misst ä bissel laurer spreche.
+ij	34228	Rumpfen	1	Ii verstend euch nit, ihr müßt ein Bisle heller (lauter) sprechen.
+ij	34235	Gerichtstetten	1	I verschtéih euch net, ihr müßt ă bißle lauter schpreche.
+ij	3424	Beierstedt	1	Ik värstah güch (gich) nich, gih möt 'n betten lu'er sprēken (spräken). (kären) (kören)
+ij	34247	Königshofen	1	I verschtehn euch nit, ihr müßt a bißle lautr reida.
+ij	34266	Aufstetten	1	I vrstä euch nit, ir müaßt a bißla lautr spracha.
+ij	34288	Weigenheim	1	I verstänn' ich nit, ihr meßt a bisla lauter reïta.
+ij	34305	Bobstadt	1	Ich verschtähi eich net, ehr mißt e bissel laurer schpreche.
+ij	34321	Mittershausen	1	Ich verstäin eich nit, ihr mißt e bissel laurer blauren.
+ij	344	Modrolas	1	Ick vostah ju nich, jü meuta a bietscha lura spräka
+ij	34447	Berghausen	1	Ich vorstéh ĭch nétt, dir müssat a bißle lautèr schwetza.
+ij	34503	Winzerhausen	1	I verstand͜ech et; 'r müeßet a̰ bisle lauter schwätza.
+ij	34522	Liemersbach	1	Ih verstèh' ech net. ihr müeßt a bisle lauter schwätza̰.
+ij	34535	Eutendorf	1	Ih va̰rstäh ich net, ihr müa̰ßt a̰ weng lauter schwätza̰.
+ij	34545	Honhardt	1	I versteh ich nit, ihr müßt a bisli lauder schprecha.
+ij	34557	Segringen	1	I verstand eich net, ihr mißt e bisle lauter rede.
+ij	34566	Graben	1	I verschdeh ich nédd, dir méßd ă biss'l lauder sein̰.
+ij	34707	Odenheim	1	Ich verschdeh ich net, dir müßt a wenig lauder schwätza (:sprächa selten:).
+ij	34734	Massenbachhausen	1	I verschtèh ich nèt, dihr müßt ə bißle lauter schwätzə.
+ij	34750	Binswangen	1	Ih versteh ich nit, dr müßt a̰ bisla̰ lauta̰r sprecha̰.
+ij	34773	Öhringen	1	I vĕ̀rschdéh ich nét, ihr mīă̰ßt ă̰ bißlé (ă̰ wéng) laudĕ̀r schwätză̰.
+ij	34791	Döttingen	1	I verstḛa̰n ich nét, ihr müeßt è bisle lauder plaudere.
+ij	34802	Gaggstatt	1	I vèrschdä̰è aich nidd, ihr mīèßt à bislè laudèr schprèchè.
+ij	34818	Dorfgütingen	1	I verstäh ich nit, ihr mäest a bisla lautr rëida.
+ij	34838	Röckingen	1	I' kaas nèt verstanda, dire möaßt a bißla lauter reda.
+ij	34855	Windsfeld	1	Ihr müßt a weng lauter rüden, [?] i versteh ich nicht
+ij	34872	Ettenstatt	1	I versteïh uich nit, ihrs meïßts a bisla lauter sprecha (rīdn.)
+ij	35003	Untermässing	1	I vasteh eng net, ihr müßt a bißl lauta sprecha.
+ij	35011	Gimpertshausen	1	Ich versteh euch nieht ihr müßt ein bißchen lauter sprechn.
+ij	35026	Beratzhausen	1	I vostae eng niat, ihr maest a bisl lauta sprecha.
+jk	35035	Eitlbrunn	1	I vosteh enk net, ey meaßts a bisl lauta redn.
+jk	35046	Altenthann	1	Ich versteh euch nicht, ihr müßt a Bischen lauter sprech'n.
+jk	35055	Rauenzell	1	I versteah euch nita; ihr müaßt a bisla lauta sprechn!
+jk	35067	Ismannsdorf	1	J verschteh euch nit, ihr müßt a wenng lauter riede.
+jk	351	Smecino	1	Ick vôstah juch nĭ, ji meutä̆ bitsche laurä̆ (a kaum hörbar) spräkä̆.
+jk	3516	Bornum	1	Ek verstah Jüch nich, Jie mött't n' betten luer spräken.
+jk	35165	Büchenbach	1	Ih verstöih ich (statt euch) nett, ihr möißt a weng lauter plaudern.
+jk	35168	Seligenporten	1	Ich vaschtĕi enk niat, s mĕißts a bißl lauta sprech'n.
+jk	35188	Günching	1	Ih vastaih eng niad, eng maüßtz a bisl lauta sprechn.
+jk	35195	Adertshausen	1	J vosteih enk niat. Etz meüsts halt a bisl hella rédn.
+jk	35204	Wiefelsdorf	1	Jh vostöih enk nöt, ihr müaßt a bißerl lauta sprecha.
+jk	35211	Bodenwöhr	1	I vo̰stëih enk niat, dez meïßts a weng lauta sprecha.
+jk	35223	Flachslanden	1	I verstäh eich nit, ihr müßt a bisla lauter redn.
+jk	35236	Grosshabersdorf	1	J verstähig nit, ihr mäßt a bißla lauter redn.
+jk	35254	Birnthon	1	I verstäi aich (ich) net, ihr méits a bisl lauter rie'n.
+jk	35339	Röthenbach	1	I versteih ich nit; ihr möißt a bisla lauter ried'n.
+jk	35377	Alfeld	1	I vaschtäih enk niat, enk möit's a bißl làta rīen. (sprechen nicht gebräuchl.)
+jk	35382	Ammerthal	1	I vostöih enk niat, ihr möißts a bißl lauta sprächa.
+jk	35393	Trisching	1	Jch verstè enk nöt, müßts bossa schreia.
+jk	35517	Unternesselbach	1	I versteh ich nit, ihr müßt a weng lauter red'n.
+jk	35524	Oberreichenbach	1	I véstéh ich nit, ihé müßt a bisla lauté schprechen.
+jk	35544	Buckenhof	1	I versteh euch nit ihr müßt a bisla lautor redn.
+jk	35562	Kirchröttenbach	1	I vaschtèih eich nidd, ihr méihst a bihsl lauder rīn.
+jk	35571	Hartenstein	1	I vostehi euch nit, enx möißts a bisl lauta rin.
+jk	35577	Schlicht	1	I versteh enk niat, enk müaßt a bisl lauta redn.
+jk	3558	Beckendorf	1	Ik vorstah jüch nich, ji möt 'n betchen luer spreken (käar'n)
+jk	35585	Kohlberg	1	I voschtehi enk niat, enk möißts a bisl hella redn.
+jk	35597	Oberlind	1	Ich vastȫi èng ni͡öt, döz möiz a weng hella rèdn.
+jk	356	Porst	1	Ick vastah jug nī, jå͡i  mäuta eia bätscha sä̆nna spräka.
+jk	35710	Haag	1	Ich verstä euch nid, ihr mihsd a bisla lauder blaudern.
+jk	3572	Domersleben	1	Jck verstāh jich nich, jih mött'n en bettchen luĕr spreken.
+jk	35729	Mühlhausen	1	Ich versteh euch nit, ihr müßt a weng lauter sprechen.
+jk	35755	Pautzfeld	1	Jch véstih euch net, ihé müßt a bißla lauté redn.
+jk	35762	Moggast	1	J versteh euch net, ihr müßt a bisla läuter reden.
+jk	35778	Pegnitz	1	I versteīh eich net, ihr möīßt a bissel lauter plaudern.
+jk	35791	Speinshart	1	Jch vostöih eng net, eng möißts a bissl lauta schprech'n.
+jk	35799	Friedersreuth	1	I vaståih diaz niat, diaz möißts a weng festa red'n.
+jk	35807	Plössberg	1	I' vastäi enk niat, diadz möiz a weng lauta riadn.
+jk	35824	Geusfeld	1	Ich versteha euch nitt, ihr müeßt a bisla lauter sprach.
+jk	35843	Tütschengereuth	1	Ich versteh euch net, ihè müßt a bisla lautè plaudè(r)n
+jk	35857	Litzendorf	1	J vasteh euch net, iha mißt a bisla lauta redn!
+jk	3592	Prester	1	Jck verstahe juch nich, ji mutn en betchen luder spräken.
+jk	36007	Hollfeld	1	Ich veastieh Euch net, éha müßt a weng läuta red'n!
+jk	36017	Donndorf	1	Ich verstieh euch nitt iha müßt [a?] Bisla leuta sprechn.
+jk	36039	Kirchenpingarten	1	Ich vastai euch net, engs maiz bißl lauta sprechn.
+jk	36049	Hohenhard	1	I vostöih eng niad, engs möist a weng lauta sprecha.
+jk	36056	Leonberg	1	I vàschtöi ich niad, diàts möits a bißl lauta ria̰n.
+jk	36065	Hohrodberg	1	Ich verstang ne net, er mien e bessele stärker rede.
+jk	36084	Colmar	1	I verschteh èich net, ehr mien ne besle lütter sprache.
+jk	3609	Dalchau	1	Ick vorstoa juch nich, jie mitten ein betchen luder schwatzen.
+jk	3614	Schweinitz	1	Ick verstoahe ju nich, jie mitten een bettchen luder schwatzen.
+jk	36159	Meistratzheim	1	I verstehi net, er miann e bessel lüdder redde.
+jk	36178	Müllen	1	Ĭ v'rschtéh 'ĭ nĭt, 'r mi͡èsè̆ è̆ bißlĭ liter schprè̆chè̆.
+jk	36202	Kniebis (Kr.Freudenstadt)	1	I verschdand eich net, ĕr mi͜ăßet ă̰ bißle lauder schwätzḛ̆.
+jk	3626	Nennhausen	1	Ik verstoah ju nich, ji müttn bitchen lujer rääadn.
+jk	36272	Ödsbach	1	I' verschteh i nitt, Ir müeße n' bissili lutter schwätze.
+jk	36277	Turquestein-Blancrupt	1	Ich versteh eich, ai misse e bische herder rede.
+jk	36282	Wangenbourg	1	Ich versteh i nit er min a bissel luter rede.
+jk	36309	Furdenheim	1	Éch verschteh i nitt éhr mén e wenele lüdder redde
+jk	36334	Ruprechtsau	1	Ich vĕrschdēh eich nĕtt; ihr müen ĕ bĭssel lutersch rĕdde.
+jk	3634	Berge	1	Ick verstoahe ju nich, ji mütt'n bittgen luher reen.
+jk	36348	Achern	1	I vrsteh ich nit, r müssa ä bissl luttr schwätza.
+jk	36362	Saarburg	1	Ich versteh éich nitt, ihr misse ne bissel lutter rédde.
+jk	3639	Pausin	1	Ick verstoah gau nich, gei müdd'n een bittschen lüder räädn.
+jk	36489	Bois De Chêne	1	I versteh eich nit, ihr mēn n bissel stärker redde
+jk	3649	Hermsdorf	1	Ich versteh euch nich, ihr müßt en bischen lauter räden.
+jk	36525	Wilshausen	1	Ech versteh' i net, ehr meest e bessel lutter redde.
+jk	36552	Marienthal	1	Ich versteh ich nét, éhr muen a béssel lutterrètte
+jk	36567	Fort-Louis	1	I' v'rsteh ich nit ihr mießé a bißl lütt'r redé.
+jk	36594	Bad Rotenfels	1	Ich versteh ich (euch) nit, ihr müßt e bissel lutter schwätze.
+jk	366	Przeradz	1	Ik vestoa juch nich, jie möte ein bitsche lude spräke.
+jk	3664	Birkholz	1	Ik verstehe euch nicht ihr müßt en bisken lauter sprechen.
+jk	36737	Altwiller	1	Ich versteh ejch nit, ihr müsse e Bissel härter reddé.
+jk	36755	Weislingen	1	Ich versteh och nit, ihr misse e bissel härter rede.
+jk	3677	Gielsdorf	1	Ick versteh ju nich, jih mieten ehe bisken luder räd'n.
+jk	36772	Lichtenberg	1	Éch vărschdéh Eïch ned, éhr méhn e bésl lüddar rédda.
+jk	36789	Goersdorf	1	Ich versteh eich nit, ihr müsse e bissel lüdder rede.
+jk	36823	Siegen	1	Ich versteh ich nit, ihr missè e biss'l laut'r reddè.
+jk	36842	Neuburgweier	1	Ich verschteh' euch nitt, ihr müßt e bißle lauter schpreche.
+jk	3688	Ringenwalde	1	Ick versteh' ju nich, ji met'n en bitzken luder spreäken.
+jk	36880	Bischoffingen	1	Ih verstandich nit, ihr (dr) mün ä weng ludder schwäzä.
+jk	36898	Maleck	1	I verstand euch nit, ihr müen e wenig luter schwätze.
+jk	36911	Yach	1	I vèrstang i nit, ihr mīasa a Bitzili lütr schwätza.
+jk	36933	Orschwiller	1	Ech v'rschteh äich nitt, èhr mia stäriker rédde.
+jk	37007	Bindernheim	1	Ech farschdèh i néd, ar mäa a béßl lüdr rèda.
+jk	37025	Schmieheim	1	Ich v'rstchteh euch nit, ihr mian a bissli lütter reda.
+jk	3703	Lehmannshöfel	1	Ick verstehe ju nich, ji metn in bitzken luder reden.
+jk	37035	Bollenbach	1	J verschtand i nit, ihr müasa a bisle lutr schwätza
+jk	37058	Le Hohwald	1	I verstèh ich nèt, ar mian a bès'l lüdder rèdda.
+jk	3711	Warnick (Warniki)	1	Ick verstehe ju nich, ji müeten en Bitzken luder spreäken.
+jk	37119	Buchenberg	1	Ĭ verstand'i nittă, ihr müßt ă weng luttăr sprecha (schwätza.).
+jk	37138	Rottweil	1	I verschtand eib nit, er mieset a bießli leuter schwätza.
+jk	37153	Obernheim	1	I verstand eib it, dr müaßat a bißle läuter schwätza.
+jk	3722	Zaszczytowo	1	Ick verstehe eich nich, jie müssen en bisken lauter sprechen.
+jk	37302	Winterlingen	1	I verstand ui et, ihr mi͡eßet a weng lauter schwäza.
+jk	37314	Dürrenwaldstetten	1	I verstand ui it, ihar müassat an weng lauter schwäza.
+jk	37333	Hausen am Bussen	1	I verstand ui itt, ihr müßat a bißle lauter sprächa.
+jk	37354	Baustetten	1	I v'rstand ui it, iar messet a bitzele lauter schwätza.
+jk	37369	Illertissen	1	I verstand ui it, Ihr müaßat a bisle lauter sprecha.
+jk	37388	Schenkenzell	1	I verschda̰u i nitt; er miëted e bisli lauter schwā̈ze.
+kl	37401	Aistaig	1	Ih verstand eub net, iar müaßet a bißle lauter schwäza.
+kl	3744	Rudnica	1	Ick verschtehe eich nich, je mössen en bisken lauter reden.
+kl	37555	Stetten bei Haigerloch	1	I verstand eub itt, ihr miaset a bißle lautr schwätza.
+kl	37571	Salmendingen	1	I v'rschdand ui itt, iar müasat a bitzle leit'r schwätza.
+kl	37581	Bernloch	1	I verstand uich et, 'r müa̰sset a̰ wenk (wen'g) läuter schwätza̰.
+kl	37598	Gundershofen	1	I verstand ui it, ihr müaßet a bißle lauter schwätze.
+kl	37607	Eggingen	1	I verstand ui it, ihar méßat a bislè leitèr schwäza.
+kl	37622	Holzheim	1	I vrschtand ana net, ihr müaßat a bißle lautr schwätza.
+kl	37658	Oberwaldach	1	I verstand euch ned, iahr müaßet ḛ bißle lauder schwätza̰.
+kl	37802	Bondorf	1	I verstand uich net, ihr müasset a̰ bißle lauter schwätza̰.
+kl	37825	Lustnau	1	I verstand uich et, er müaßet e bisle lauter schwätza.
+kl	37855	Dettingen an der Erms	1	I verschtand ech et, er miaßet a bißle louter schwätza!
+kl	37862	Donnstetten	1	I verstanda ett, 'r mü(a)ßet a Bissala lauder schwätza.
+kl	37869	Radelstetten	1	I verstaun ui nett ihr müsset a bissele lauter spreche.
+kl	37883	Ballendorf	1	I verstand ui ett, iar müåßet louter schwä̊tzå.
+kl	37900	Obermedlingen	1	I verschtand ui nét, uir müãßãt ã bislé lauter rédã.
+kl	37902	Raumünzach	1	I verschteh ich nit; ir müeße e bisle louter (luter) schwätze.
+kl	37947	Schönaich	1	Ih verstand ech et, ă̰r(r) müă̰ßet ă̰ bißle laută̰r schwätză̰
+kl	38044	Hünerberg	1	I verstan̄d nich net, [*] mueßt a Bisle lauder schweza.
+kl	38056	Gechingen	1	I verstan̄ ech nett, ihr müeßt lauter schwätze.
+kl	38095	Denkendorf	1	I verstand uich et, ihar mü͜astt a bißle lauter schwätze͜ .
+kl	38116	Albershausen	1	I verstand uich et, ihr müaßet a bißle lauder schwäza.
+kl	38136	Winzingen	1	I verstănd ui net, ihr müaßet a̰ bißle lauter schwätza̰.
+kl	38146	Zang	1	I verstand ui net, er müaßăt a bißle lăuter schwätză.
+kl	38155	Auernheim	1	I v'rstand ui ét, u͜ir müéßèt a̰ bißlé lautr schwätza̰.
+kl	38169	Dennach	1	I verstăn ich nĕt, da̰r müa̰ßt a̰ bißle lauta̰r schwätza̰.
+kl	38182	Tiefenbronn	1	Ī verstane euch nett, ihr müest e bisle lauter schwätze.
+kl	38348	Schöckingen	1	I verschtand uich net, er müaßet a bisle lauter schwätza.
+kl	38373	Hegnach	1	I verstand uich net, er müahset a bihsla lauter schwätza.
+kl	38407	Steinenberg	1	I verschdand ech ēt, dă̰r müaßa̰t a̰ bisle lauter schwätza̰.
+kl	38422	Ruppertshofen	1	I verstand ich net, 'r müaßt a bisle lauter schwätza.
+kl	38437	Fachsenfeld	1	I verschtand ui net, ihr müaßa̰t a̰ bissḛle (a̰ wḛng) lauter schwätzḛ.
+kl	38448	Baldern	1	I verstand uich net, ihr messet a bissele lauter reda.
+kl	38482	Kleinvillars	1	Ī varsteh=ich nedd, ia̰r mia̰sa̰d a bißle lauda̰r schwètza̰.
+kl	38502	Hohenhaslach	1	I verschdan̄ ech net, iar müasset a bisle lauter schwätza.
+kl	38623	Nendingen	1	I verschtand eib it, ḛr mond a̰ wäng leita̰r schwätza̰.
+kl	38640	Rohrdorf	1	I verstand ei it, ihr müaßat e wengele lauter schwätze.
+kl	38655	Völlkofen	1	I verstand ui ét, iahr mü͜aset a bißchen läuter sprècha!
+kl	38666	Reichenbach	1	I verschdand ḛnḛ it; ər müassət a̰ bissele lautər schwätza̰.
+kl	38682	Mittelbuch	1	I verstɑ̃nd ui it, der messat ɑ bizle lɑuter schwɑ̈zɑ.
+kl	38695	Unteropfingen	1	I verstand ni itt, ihr müasset a bizelle leiter schwäza.
+kl	3871	Dreetz	1	Ick vostoah ju nich, ji mütt'n bäten lujer spräken.
+kl	38720	Kicklingen	1	I verstand ui net, ihr müaßt a bisle lauter schwätza.
+kl	38738	Westendorf	1	I verschta̰nd a̰ na̰ ḭt, iha̰r mia̰ßa̰t a̰ bislé la̰ut'r schwäza̰.
+kl	38764	Waidhofen	1	I vàstè ḛ́nk ḛ́d, és müßts a wḛ́ni lauda rḛ́n.
+kl	38774	Eschelbach an der Ilm	1	I voschdè eng net, ös müßt's a bissal lauda redn.
+kl	3880	Brunne	1	Ick verstoah joa͡u nich, jaei mün'n en bitschen lujer reden.
+kl	38863	Pöttmes	1	I vestea enk et, es müßts a bisla lauta re'n.
+kl	3887	Sommerfeld	1	Ick verstooh jau nich, jei mün bitschken luder spreken.
+kl	38899	Hebrontshausen	1	I vosteh eng nöt, es müßt's a bißl lauda re(d)n.
+kl	38912	Oberglaim	1	Ich vostöh enk nöt, ös müßts a bißal lauta sprecha.
+kl	38935	Fronhofen	1	I verschtand ui net, uir müaßt a bißle lautr schwätza̰
+kl	3896	Malz	1	Ik verstoh' ju nich, ji müten bitschen luder räden.
+kl	38963	Stepperg	1	I verschteh enk net, es müaßts a bisle lautr redn.
+kl	3901	Stolzenhagen	1	Ik verschtoe ju nîch, ji mütten en bitschen hedder spraeken.
+kl	3906	Prenden	1	Ik verstōie jau nich, ji müdden en bitschen lüder spräken.
+kl	39062	Hafenreut	1	I verstand ui it, ihr müaßt a bisle lauter sprecha.
+kl	39089	Gerolfing	1	I versteih enk net ens mēisz a bißl lauda schpacht'n.
+kl	39103	Irsching	1	I versteh di nöt, ihr müaßt a bißl lauda rödn.
+kl	39116	Siegenburg	1	I vosteh enk nöt, ös müaßts a bißl lauta rödn.
+kl	39126	Semerskirchen	1	I vasteh enk nöt, ös müaßt a blißl lauda sprächa.
+kl	39140	Hofkirchen	1	I versteh öng nöt, ihr meüßt a bisserl lauda spröcha (rödn, schwazen, dis grirn)
+kl	39160	Dürrenzimmern	1	I verschtand ui net, iar müaßt a bisle lauter reda.
+kl	39179	Gundelsheim	1	I versteu enk net, ihr müaßt a bisla lauter rèidn?
+kl	3919	Trampe	1	Ick verstonhe ju nicht, sie möhten en Bitschken luter reden.
+kl	39201	Walting	1	I verstea enk net, es miats a bisl lauter spachtn.
+kl	39293	Bieswang	1	I vusteih ich net, ihr möißt a bißla lauter sprecha.
+kl	3931	Neureetz	1	Ick verstoa ju nich, jie meten n Bitzk'n luter reden.
+kl	39317	Pondorf	1	I voste eng n[ai?]t, dez miaßzt a weng lauta ren.
+kl	39329	Neukelheim	1	I versteh enk nöt, ös müaßts a weng lauta redn.
+kl	39342	Peising	1	I' versteh enk nöt, ös müaßt's a bißl lauda redn.
+kl	39356	Arlesried	1	I verstand ui it, dir miaßet a bizla laut'r schwäza.
+kl	39370	Türkheim	1	I vrschdand ui net, ihar müaßad a bisle laudr schwätza.
+kl	39398	Gauting	1	I vosteh eng nöt, es müaßts a bisl lauta redn.
+kl	3944	Kurzycko	1	Ick verstoah ju nich, ji miethen en beätken luder spreäken.
+kl	39459	Kaufering	1	I versteh enk it, es müßt is lauter saga.
+kl	39475	Eching am Ammersee	1	I verstand enk it, ös muaßt a bißala lauta röda.
+kl	3949	Grzymiradz	1	Ick verstehe ju nich, ji mieten en bisken luter schpräeken.
+kl	39494	Perlach	1	I versteh enk net ihr müaßt a bisl lauder redn
+kl	39503	Zorneding	1	I versteh enk nöt, es müaßts a weni lauta redn.
+kl	39509	Albaching	1	Ich versteh eng nöt, muaßt a bisl lautr spröcha.
+kl	39515	Sankt Leonhard	1	I' verschteh enk net, ös miast's es a wengarl lauda sogn.
+kl	39517	Niederraunau	1	I v'rschtanda̰na̰ it, īār  müeßĕt a weng laut'r schwätza̰.
+kl	39529	Walkertshofen	1	I verstand ui it ihr müasat a bißle lautr röda!
+kl	39546	Oberottmarshausen	1	I verstand ui it, do müaßander scho a bisle lauter röda̰.
+kl	3957	Lubiszyn	1	Ik verstoahe ju nich, jie mieten en bitzken luder reäden.
+kl	39647	Mittelstetten	1	I verstia̰h ech id, ös miasz a̰ wia̰ni lauta̰r röd'n.
+kl	3965	Heinersdorf	1	Ick varstohe eich nich, jie mieten een bisken lauder reden.
+kl	39662	Bergkirchen	1	I vosteha enk it, ös müats a bisl lauter ren.
+kl	39667	Unterschleissheim	1	I verste enk net, es müaßts a bisl lauta red'n.
+kl	39673	Moosinning	1	I versteh enk nöt, ös müaßt a bisl lauta schprecha.
+kl	39687	Oberdorfen	1	I vosteh eng nöt, ös miaßts a Bröggö lauda rön. ("reden" für "sprechen")
+kl	39693	Wettenhausen	1	I verschtand ui net, ihr müaßt a bisle lautr schwätza.
+kl	39710	Zusmarshausen	1	I verstand ui nit, ihr müaßat a bißle lauter röda. (schwätză)
+kl	39723	Täfertingen	1	J versthand eu it, ihr müßt a bisle laut'r sprache.
+kl	39742	Gallenbach	1	I versteh eng net, es müaschts a bissl lauta ren.
+kl	39865	Hilgertshausen	1	I verstean enk it ös müessts a bisl läuter redn.
+kl	39880	Allershausen	1	I vosteh enk nöt, ös müaßts a bißl lauta redn!
+kl	39891	Rast	1	I' vasteh eng nicht, es müasts a bisl lauda ren.
+kl	39901	Vilsheim	1	I vostéh ḛnk nöt, ös mǖaßz ă bīßö lauda schmātzn.
+lm	39954	Sattelbogen	1	I voschte enk ned s möißts a Bißl lauta ren.
+lm	39962	Krailing	1	I vaste͡îh önk nöt, ös me͡îz lader red’n.
+lm	39968	Oberried	1	I voschtēh eng nöt öß nüßz a weng b[?]uta [zusätzlicher Haken zwischen b und u, vll. auch halbes „la“?] schmatzn.
+lm	40000	Pertolzhofen	1	I verste -ih enk nird, déz me-isz a bissèl lauta redn.
+lm	40012	Tiefenbach	1	I vostöi eng niat, dez möiz a bisl lauda redn.
+lm	40047	Pemfling	1	I vostei enk net, möißts es a weng lata sogn.
+lm	40057	Arnschwang	1	I vost[ö?]i i enk nöt, ös möißt's a bißa'l lada sprächa (schprächa)!
+lm	40112	Wald an der Alz	1	I voschte eng nöt, ös müaßts a bisl lauta schrei.
+lm	40137	Ranoldsberg	1	I vasteh enk net, es müßt's a bissel lauta red'n.
+lm	40145	Erharting	1	J voste ench nöt, ös mießts bössa schrḛin.
+lm	40155	Gumpersdorf	1	I vasteh enk nöt, ös müaßts a weng lauta rödn.
+lm	40191	Vilsbiburg	1	I vostö enk nöt, ös müaßts a ´ Bröckl lauda´ ren.
+lm	40202	Gangkofen	1	I vaschté eng nöt, ös müßts a wängal (ö) lauta schmazn.
+lm	40212	Neuhofen	1	I vaschteh enk nöd, ös miaßz a bißl laudá schpröcha.
+lm	40220	Bad Birnbach	1	I vosteh enk nöt. ös müaßts a wengerl lauta schmatz'n!
+lm	40231	Ruhstorf an der Rott	1	I vaschteih engg nöt, ös müaßts a weng lauda schreḭ̰.
+lm	40274	Wörth an der Isar	1	I voschte enk nöt, ös müaßt's a bisl lauda rödn.
+lm	40286	Griesbach	1	Ich versteh eng nöt, ös müßt a bisserl lauter schwatzn.
+lm	40297	Indersbach	1	I vosteh enk nöt, ös müaßts a bisl lauda schmatzn.
+lm	40308	Walchsing	1	J versteh eng nöt, müßts a bisl lauta sprecha.
+lm	40320	Kirchberg	1	I versteh enk net, ös müaßts a bißl lauta schrei.
+lm	40331	Haag	1	I vasteh enk nöt, ös miaßts bessa schrei.
+lm	40402	Hankofen	1	I vosteh eng nöt, ös müaßt a weng lauda röde.
+lm	40414	Plattling	1	I vosteh enk nöt, ös müaßts a bißal laută rëd'n.
+lm	40420	Auerbach	1	I vosteh di net, du muaßt lauda schmātz'n.
+lm	40428	Saldenburg	1	I versteh enk nöt; müßts bessa schreḭn.
+lm	40439	Karlsbach	1	I vasteh enk nöt ös müaßts a bisl lauda spröchn.
+lm	40516	Steinach	1	I voschdeh enk nöt, ös müaßts a wengerl lauda röd'n.
+lm	40524	Perasdorf	1	I vosteh öng nöt, ös mêiß[z?]t a wöngerl lauda schmaz'n.
+lm	40531	Regen	1	I voste=ih önk nöd, ös müaßt's a bissel bössa schrei'n!
+lm	40535	Klingenbrunn	1	Schmatzts a bissl lauda, weiö ö nöd guad her (hör).
+lm	40538	Riekofen	1	I vosteh enk nöt, möißts a Bissl lauta red'n.
+lm	40597	Lindau (Bodensee)	1	I verschtand eich et, ihr müeßet a bitzele luter schwätze.
+lm	40605	Schnellers	1	I versto ju it, dr miößet a wink luter schwätze.
+lm	40613	Ratholz	1	I vrschtand ui it dir müéßĕt a bitzlé luttr schbréa̰chĕ.
+lm	40637	Eschbach	1	I verstand eu nit, ihr müßet a meng lüter schwätza.
+lm	40655	Erzingen	1	I' verstand euch nit, ihr mont e' bitzle luter schwätze.
+lm	40757	Schienen	1	I verstand eu nit, ihr mond a̰ weng luter schwäza.
+lm	40771	Wollmatingen	1	I' verstand ichi nit, ihr mont e bitzeli luter spreche.
+lm	40785	Kluftern	1	I' verschtandini it, ar mund a wenk liter schwaza.
+lm	40798	Obereisenbach	1	I verschtand ui it, ia̰r mua̰nd a̰ wäng litta̰r schwätza̰.
+lm	40807	Ratzenried	1	Ih verschtend ui itt, dã̆r müã̆sã̆t ã̆ bizle lautr schwatzã̆.
+lm	4081	Bantikow	1	Ick verschtå ju nich, ji müdden 'n bitschen lujer spräken (reden).
+lm	40819	Kreuzthal	1	I verstand nanit, ihar müaßat a bitzela lauter spreacha.
+lm	40844	Münchingen	1	I văschtand ai itt, dă müand a weng lutr sprechă.
+lm	40863	Tengen	1	I verschtand eu nit, da mond a wenga luter schwätza.
+lm	40898	Billafingen	1	I verstand u i et, ihr mend e weng leuter schwäga.
+lm	4093	Kränzlin	1	Ick verstoh ju nich, jie mün en bäten luger reden.
+lm	41018	Eigeltingen	1	I verstand ich i it, de mond wäng lauter schwā̈tze.
+lm	4102	Seebeck	1	Ick verstah ju nich, jie mütten en bittchen luder spräken.
+lm	41049	Illmensee	1	I verschtand ui it, ihr mond e weng lauter schwätza.
+lm	41057	Baindt	1	I verstandene it, ihr muand a bizele luter schwätza.
+lm	41064	Ziegelbach	1	I verstand ui ĭtt, iar miaßet a bißle laut'r schwä̆za.
+lm	41076	Maria Steinbach	1	I verschtanda̰na̰ it, dr mia̰ßat a̰ bitzla̰ lautr schwätza̰.
+lm	41086	Waldau	1	I verstand eu itt, ir müèn é bißli (wengili) luter schwätzè.
+lm	41098	Hubertshofen	1	I verstand ihe nit ihr mónt a weng luter schwätza.
+lm	41114	Öfingen	1	Ech verschtand eub net, er mond e bizilé luter schwätze.
+lm	4112	Klein-Mutz	1	Ick verstah ju nich, jü müdd'n bitschen luder spräken.
+lm	4119	Gross Dölln	1	Ick verstoah' ju nich, ji mitten een bitschen luter räden.
+lm	41200	Masevaux	1	I verstand di nit; r mīan a wenig schstärker rehda.
+lm	41214	Aspach-Le-Bas	1	Ich v'rstand i nit, ihr mǖăn a bīzzala lütt'r sprācha.
+lm	4123	Senftenhütte	1	Ick verstoah ju nich, jie mütten bütschkin förscher reden.
+lm	41245	Lipburg	1	Ich verstand euch nitt, d'r miènt a bitzele ludder schwätzè.
+lm	41262	Utzenfeld	1	I verstand ei it, ihr müen e Bizele lutter schwätze.
+lm	41275	Schluchsee - Blasiwald	1	I verschtande it, da müant a wengg lŭter schwä̆za.
+lm	41296	Oberentzen	1	Ich verstand éich nit, ihr mian a bétzi lüter réda.
+lm	41309	Feldkirch	1	I verstand üch nitt, ihr müeß a bitzili lutter schwätze.
+lm	41336	Kappel	1	I verstand eu nit, ihr mend a meng lüter schwäza
+lm	41351	Urbès	1	I verstand i nit, ihr miē ne bizzel stärker rede.
+lm	41365	Rimbach-Près-Guebwiller	1	Ĕ̀ch verstand ēiach nét, èhr mīan a bètzĭ lüdèr spracha.
+lm	4142	Stoki	1	Ick verstoa ju ni ji müt'n in bitskin luder räd'n.
+lm	41460	Rixheim	1	Ech verschtand ech nèt, èhr mian a bètzi lüttr rède.
+lm	4152	Stoleczna	1	Ick veästoah ju neh, ji mötn beät luteä spreäk'n.
+lm	41566	Ranspach-Le-Bas	1	I vrschtang 'ch nitt, dr miănn a weni lütter sprache.
+lm	41598	Lörrach	1	Ī verstand ich nüt, d'r müēnd e bizele luter schwätze.
+lm	4161	Glazow	1	Ick vastoah ju nĭ, jie mööt'n bäht luja spräke.
+lm	41623	Hütten	1	I verschdand  ich it, der mäènd è bizeli lütter schwätzè.
+lm	41653	Largitzen	1	I versteh ech niet, d'r mient, e bitzele lüter rede.
+lm	4171	Okunie	1	Ick verstoh ju nich, ji möten en bitz luder spreken.
+lm	41714	Lucelle	1	I verstéh é|ich nit, ihr mi|ănt ă wéni lütăr redă.
+lm	41785	Höhenrain	1	I vŏsteh ḛnch id ös müăds a bißl laudá rön.
+lm	41801	Grosshöhenrain	1	I hea (e) enk net, müaßts scho ̰ a ̰ bissei läuta schrein.
+lm	41811	Tattenhausen	1	I vostöh eng nöt ös müaßt a Bißl laida spröcha.
+lm	41819	Ollarzried	1	I verstand ui it, iahr müaßt a bitzlḛ laute'r räde'.
+lm	41836	Kaufbeuren	1	I verstand ui it, ir müesst a bissela lauter schwätza.
+lm	41845	Denklingen	1	I verstand ui it, diar müßat a bisle lautr röda.
+lm	41855	Raisting	1	I verstea enk it, es müaßz a bisl lautr redn.
+lm	41872	Baiernrain	1	I vasteh enk net es miats lauta sprecha.
+lm	41932	Huglfing	1	I voste͡ah enk it, es mi͡aßts a we͡ani leida̰ redn.
+lm	41939	Penzberg	1	I vosteă eng it, es müaßz a weani lauta ren.
+lm	41948	Reichersbeuern	1	I versteh eng nöt, ös müaßt a bisserl lauter redn.
+lm	41953	Parsberg	1	I versteh öng nöt, ihr müaßt a bisl lauta red'n.
+lm	41963	Kirchdorf am Inn	1	I versteh enk nöt, ös müa̰ßts a weng lauta̰ redn.
+lm	41969	Aschau im Chiemgau-Niederaschau	1	I voschteh enk net, ös müaßt's a bißl lauta schprecha.
+lm	41971	Betzigau	1	I vrschtand ui itta̰͜, dier müeßet a Bitzle lautr schwätza̰.
+lm	41980	Sulzschneid	1	I v'rschtend nib it, dir müeßet a bisle läuter röde.
+lm	41986	Steingaden	1	I' verstand enk it, ir müßt an bisla lauter sprechḛn
+lm	42039	Bayerniederhofen	1	J verschtond uich nit, dir müaschet lauta reda.
+lm	42049	Jachenau	1	I vastea enk it ös müaßt leita redn.
+lm	42056	Unterjoch	1	J verstandene nit, ihr müßt a bisle lauter sprechen
+mn	42062	Oberau	1	Ih versteah enk it, es miaßts a bisla lauta ré(d)n.
+mn	42070	Eggstätt	1	I vasteh eng nöt, es müaßts a bisl leida ren.
+mn	42076	Traunwalchen	1	I vosteh eng nöt, ös müaßts a bīsseĭ laūdă brachtn.
+mn	42084	Kirchanschöring	1	I vasteh enk net, ös müaßts a bisl lauta brachtn. (sprechen)
+mn	42116	Ruhpolding	1	I' vasteh enk nöt, ös müßt's scho' a Wenk lauda rödn.
+mn	42118	Anger	1	I vasteh enk nöt miaßts scho a wengei lauda schrei.
+mn	42132	Ramsau bei Berchtesgaden	1	I vosteh enk net, ös müahsts a bißl lauta redn.
+mn	42140	Hachiville	1	Ich verschdin éch nĭk, dèrr mußt é bésse méi hărt schwätzen.
+mn	42166	Niederwampach	1	Ech verstinn ech nek, der must e bessin me hart schwetzen.
+mn	42180	Neidhausen	1	Ech verschtinn éch net, dir moûßt e beßen mi hārt schwètzen.
+mn	42236	Ettelbrück	1	Ech verstin èch nit, dir musst é béssé mé hart schmètzen.
+mn	42254	Rambrouch	1	Ech ferstin îech niet, derr musst e besse me hârt schwètze.
+mn	42302	Eischen	1	Éch verstinn é-ech nit, da misst é beschen mé hā-ert schwetzen.
+mn	42316	Hünsdorf	1	Èch verstĭn éch nĕt, dīr muhst ĕ bĕhschen mé hoart schvètzen.
+mn	42341	Biwer	1	Éch ferstin éch net, dir musst e beschen mĕ hārt schmètzen.
+mn	42414	Uewerkuer	1	Éch verstin ièch nét, der muscht e venig me hoărt schvètzen.
+mn	42431	Peppange	1	Ech vurstinn èch nĕt; dur mußt e'. bĕßĕlchĕn méi hārt schwètzen. 
+mn	42469	Schwarzenbach an der Pielach	1	I veasteh eng nit, es miasts a bissal lauder redn.
+mn	42470	Lehenrotte	1	I vasteh eng nöt, ös müaßts a weng lauter redn.
+mn	42472	Thal	1	I vasteh eng net, ös mirstz lauter redn.
+mn	42477	Grillenberg	1	I vasteh eng net, es müasst's a bissal lauta sprechn.
+mn	42520	Schneebergdörfl	1	Ie versteh eng nit, ös meßts a weng läuter redn!
+mn	42527	Mollram	1	I vasteh enk net, ös mü[a?]ßt's a wengerl lauta redn.
+mn	42532	Frein an der Mürz	1	I vasteh enk nit, es miaßts a pissal leiter red'n.
+mn	42571	Massing	1	J versteh euch net, ëis müasst's a bisserl lauta red'n.
+mn	42573	Semmering	1	I' vasteh' enk nit, ös müast's a' wengal lauda red'n.
+mn	42587	Feistritz am Wechsel	1	I vasteh eng nit, e'is miaßt's schon a bißl lauda (leida) red'n.
+mn	42612	Gleichenbach	1	I vaschte eng nit ais miasts a weng lauda redn.
+mn	42635	Weiden am See	1	I' vasteh eng nit, äis mäiß't's a bissal lauda räi'n.
+mn	42637	Nickelsdorf	1	I versteh eng nit, es mäßts a bißl lauda redn.
+mn	42640	Siegersdorf	1	I vasteh enk net, ös müaßt's a bißerl lauta red'n.
+mn	42647	Stotzing	1	I vrsteh enk nit, es miaßts a bißl lauta redn.
+mn	42670	Wieselburg (Mosonmagyaróvár)	1	I vašteh eing nīd, ēs meissts a pissal lauda reidn
+mn	42688	Andau	1	I versteh euch nit ihr müaßt a bisl lauter reden.
+mn	42691	Wiesen	1	I verste ei nit ei muist lauta redn.
+mn	42701	Baumgarten	1	I vasteh euch nit, ia miasst a wengarl lauta sprechn.
+mn	42706	Apetlon	1	I' versteh' eink nit, ia' miasst a' bissl lautta reid̃n.
+mn	42722	Horitschon	1	Ich versteh ēng nit, ihr miasst a bissal lauter sprechen.
+mn	42728	Holling (Fertőboz)	1	Oanatreisk. I faste ei nid, ei miast a pissl lauda r(é)-in.
+mn	42748	Frasnacht	1	I verschton-eu-nöd, ehr müend e Betzli luhter rede!
+mn	42821	Rietli	1	I verstand i nüd, er mönd echli lüter schwätze.
+mn	42843	Hohenems	1	I verstandini nit, ihar moand a kle lüterer räda.
+mn	42850	Bizau	1	I vrstand i nüd; er mössod a bitzle lüttor redo.
+mn	42856	Riezlern	1	I verschdand na ned ihar müaßt a chlei luder sprä̊cha.
+mn	42908	Gamprin	1	I verstonige net, ür mon a bezle lütter reda.
+mn	42926	Röns	1	I verstoo eu nit, ir mond a bizle lutter schwäzza.
+mn	4293	Brielow	1	Ick verstohe ju nich, ju mutten en bitchen luder spreken.
+mn	42933	Buchboden	1	Ich versto ai nit, ihr mösd ä biz lauder schwäza.
+mn	42939	Lech	1	I v'rstand aib ned, ihr müesd as bizli ludr räddä. 
+mn	42970	Sargans	1	I verstu-ni nid, ihr müend ä bizzli lutr reïdä.
+mn	42977	Schruns	1	Ich versto eu net, iar müasan a bitzli lütar schwätza.
+mn	42985	Vils	1	I verstand uib it, dir müssat a bißla lauter röda (sprecha)
+mn	43004	Hinterhornbach	1	I versteha enk it, os müaßet a bissele lautr röde.
+mn	43013	Rinnen	1	I versteah enk it, es miaßt a bißle lautr redå.
+mn	43021	Ehrwald	1	I verstöh önk it, ös müaßåt å bißli lauter redå.
+mn	43022	Leutasch	1	I versteah enk itta, ös muaßts a bißl lauter rödn. 
+mn	43027	Bach	1	I verstöa enk it, ös müasset a bisle lauter röda.
+mn	43037	Silzerberg	1	I versteah enk it, ös müeßet a bißl lauter röd'n.
+mn	43055	Hatting	1	I versteah önk nit, ös miaßt a bisl lauter rödn.
+mn	4306	Deetz	1	Ick verstoahe ju nich, ji mütten en bittchen luder red'n.
+mn	43070	Mils bei Imst	1	I verstea enk it, ös miaßt a kli lauter röde
+mn	43122	Unterried	1	I versteah enk nit, ös miasset schon a wenk leiter redn, [zeichn?]!
+mn	43133	Holdernach	1	I varsteha die nit, muasch lautar soga.
+mn	43152	Kauns	1	I vrschtea enk it, ös müassat a bisli laut'r röda.
+mn	43161	Unterberg	1	I versteh enk nit, ös mäßts a Bißs lauter rödn.
+mn	43162	Pertisau	1	I verschtea ench nid, ös mia?st a bissl lauda rödn. 
+mn	43173	Brixlegg	1	I verstea ench nit, ös miasz a bisl lauta rön.
+mn	43183	Penningdörfl	1	I vasteah enk niet, ihar miaßz a bissei larta rödn.
+mn	4321	Fahrland	1	Ik verstoahe ju nich, jie mütten en bittchen luder spräken.
+mn	43210	Innsbruck	1	I verschteah enk nit, üs müatsts a bissl lauter rödn. 
+mn	43224	Kolsassberg	1	I versteah ench net, ös miaßts a bisl lauter redn. 
+mn	43251	Aschau im Zillertal	1	Ih ve'steh enk net, ia miaßt läuter red'n.
+mn	43280	Krimml	1	I vasteh ench nit, e̊s miaßt a bißl lauta re̊n.
+mn	43285	Trins	1	I verschteah enk nit, ös müaßtet schũn a bißl lauter rôdn!
+mn	43288	Dornauberg	1	Ich verstea enk nit, ös mußt a bißl lautar rödn.
+mn	4329	Steglitz	1	Ick versteh jau nich, je mütn en bisken luder spreaken.
+mn	43297	Schmirn	1	I versteh enk nitt, dös müeßt a bißl lautrar rödn.
+mn	43301	Kitzbühel	1	I̊ vāsteh e̊nk ni̊d, ös mü͡aßts a we̊nk lauda re(d)n!
+mn	43303	Hochfilzen	1	I vasteh enk nit, ös müaßt's a bisl lauta red'n.
+mn	43310	Saalfelden am Steinernen Meer	1	I vastej enk nid, ös müaß'ts a bißl lauda rön.
+mn	43315	Werfen	1	I vastei eng nöt, ös müaßts a weng laudda rödn.
+mn	43331	Bramberg am Wildkogel	1	I vasteh enk nöt, ös müaßt’s a bißl leida rödn.
+mn	43340	Niedernsill	1	I vasteh ench nöt, ös müaßz a wench leida rödn.
+mn	43347	Sankt Georgen	1	Ös miaßt lauta redn, i vasteh enk jå nöt?
+mn	43354	Goldegg	1	I vaste(i) enk nit es müaßts a bißl lauta schrei.
+mn	43359	Kleinarl	1	I vasteï ench nīt, és mīaßts a bīssei lauda rén (reden).
+mn	43372	Bad Gastein	1	I vaschte͜ i enk niht, ös müaßts a bißei lauda rödñ.
+mn	43378	Berg-Gruben	1	I vasteh Enk it redets a wie leuta.
+mn	43379	Heiligenblut	1	I vasteh enk nöt, dös müßt a bissl lauter reidn.
+mn	4338	Köpenick-Kietz	1	Ick versteihe eich nich, ihr mußt en bisken lauter sprechen.
+mn	43381	Sankt Martin am Tennengebirge	1	Ich vasteh enk nöt, röds lauta.
+mn	43384	Ramsau	1	Schalzt's heller, sinst vasteh'i. enk nit.
+mn	43391	Assach	1	I vasteh enk nit, ös mirts a wonk lauder red'n.
+mn	43393	Donnersbach	1	Reg a bissl leiter sist vasteh i enk nit.
+mn	43412	Untertauern	1	I vastöi enk nit, ös müaßt’s a bißl heijjer (heller) red’n.
+mn	43420	Pöllau	1	I vasteah enk nit, deis müaßts a bißl lauta reidn.
+mn	43427	Oberweissburg	1	I vastea enk nit, ös müaßts a bisl lauta rödn.
+mn	43433	Sauerfeld	1	I verstea enk nit, ös mißts a bisla lauta rödn.
+mn	43439	Ranten	1	I vaschtea enk nit, des miaßz a bissl lauter ren.
+mn	43453	Strechen	1	I vasteh enk nit, es miaßt a bißl lauder redn. 
+no	43455	Treglwang	1	I vasteh enk nit, ös müaßt a bißarl lauta redn.
+no	43457	Kalwang	1	I vasteh enk nit, eis miaßts a wenk lauta reidn. 
+no	43458	Trofaiach	1	I vasteh enk nöt; ös müaßts a weani lauta redn.
+no	43462	Hafendorf	1	I vasteh enk net, es müaßts a weng lauta redn!
+no	4347	Herzfelde	1	Ick versteh gau nich, gie mieten en bisken luder rêeden.
+no	43480	Sankt Michael in Obersteiermark	1	I vastöh enk nöt, ia müasst a weng lauta redn.
+no	43488	Pusterwald	1	I vesteah enk net, dös müeßts leute redn.
+no	43489	Sankt Oswald	1	I vasteh eng neh; es müaßt's a bißal lauta röd'n.
+no	43494	Sankt Marein bei Knittelfeld	1	I vaste(a)h enk net, e-is miaszt's a wenk lauta re-id'n; i bin groszhöri-.
+no	43497	Frohnleiten	1	I vaschdéa enk ned, ir miaz a wenk lauda réïd'n!
+no	43505	Sankt Peter ob Judenburg	1	I vasteah enk net, ös müaßts a bißl lauta redn.
+no	43530	Teufenbach	1	I versteh eng nit, reds a bissel lauta.
+no	43534	Sankt Johann	1	I vasteah enk nöt, äs müaßt's a weani lauta räd'n.
+no	43537	Kainach bei Voitsberg	1	I vasteah enk neat, müaßts a bißl lauta ridn. 
+no	43544	Gratwein	1	I vasteh enk nit ihr müaßts a biasl lauta redn.
+no	4357	Tempelberg	1	Ick verstehe euch nicht, ihr müßt en bisken luter reden.
+no	43576	Fochnitz	1	I versteh enk nit, es mißts l[ei?]der redn.
+no	43579	Wenigzell	1	I versteh eng nit, es mits vü leider red'n.
+no	43633	Ehrenschachen	1	I vasteh enk nit, ös müaßt’s a wengerl lauter red’n.
+no	4364	Döbberin	1	Ik verstehe ju ni, jie müten en bitzken luder schpräken.
+no	43640	Salmannsdorf	1	I vastē ęng nit, ęis muisz a bisl laida rędn.
+no	43662	Sankt Kathrein am Offenegg	1	I vasteh enk nit, dös müaßts a bissl lauta redn.
+no	43699	Siget in der Wart	1	I verteh' eich nit, es mästs e weng laute redn.
+no	43715	Stubenberg	1	I vasteh enk net, es müaßt's a wengerl lauter sprechen (besser ist redn)
+no	43726	Unterrohr	1	I vasteh eng nöid, öis müaßt's a weng lauda redn.
+no	43756	Eggersdorf	1	I vasteh enk nit dö(i)s miaßts a bisserl lauta re(i)dn.
+no	43761	Sinabelkirchen	1	I vaschteh enk nit, de-is miats (miaßts) a bißl la-ida re(d)n.
+no	4377	Pamiecin	1	Ick versteh eich nich, jei mieten ein Bischen lauder räiden.
+no	43773	Bad Blumau	1	I vasteh eng nit, dös müaßt a weng lauta red'n.
+no	43782	Deutsch Tschantschendorf	1	I' versteh eng nit, e-is miaßt a bißl lauta sprechn.
+no	43850	Klostermarienberg	1	I vasteh eing nid, eis miasts a bißal lauda reidn.
+no	4388	Grabno	1	Ich verstehe eich nich, ihr mißt een bischen lauter sprechen.
+no	43889	Moschendorf	1	I' vasteh' ui nit, ui müist a bitzl lauda reid'n.
+no	43896	St. Jakob	1	I versteh enk nit, dēis müsst a wie lauter rēiden.
+no	43905	Oberpeischlach	1	I vaste̊ enk it, de̊is mißt a bißl lauta re̊idn.
+no	43909	Mörtschach	1	I vastöih enk nit, döis miößt a bißl lauter rödn.
+no	43910	Flattach	1	I vasteh enk nit, dös müats lauta redn!
+no	43938	Kolbnitz	1	I versteh enk nit, dös müasts a bisl lauter rödn.
+no	43939	Ausservillgraten	1	I vostea enk ött, dös müeßt a kaddl lauta röd'n.
+no	43948	Assling	1	I verstea enk nött, ihr müaßt a bisl lautar rödn.
+no	43959	Lindsberg	1	I vasteh enk nit, ös müeßt a bißl lauta redn.
+no	43977	Kornat	1	I vaschteh enk net, dös müaßts a weng lauter redn.
+no	43982	Berg im Drautal	1	I versteh enk nit, dös müeßts a pißl lauta reidn.
+no	43988	Goderschach	1	I versteh enk nit, dös müest a bisl lautar rödn.
+no	4400	Trzemeszno Lubuskie	1	Iche versteh eich nich, ihr müßt en bischen lauter sprechen.
+no	44006	Kremsbrücke	1	I varstea enk nit, tös muab a bisl lauta rödn.
+no	44010	Oberhof	1	I vastea enk nit, dös miaßts a bisle lautar sprechn.
+no	44038	Kleblach-Lind	1	I versteh' enk nit, müasts lauter reden.
+no	44040	Obermillstatt	1	I vasteäh ōnk nit, dös müen e bißl lauta rödn.
+no	44054	Patergassen	1	I vasteah enk nit, dös miats a bißl lauta rödn.
+no	44056	Steuerberg	1	I versteoch enk nit, dös miaßt's a bißl lāuter red'n.
+no	44109	Hermagor	1	I vasteah enk nit, miaßts a bisl lauta reidn.
+no	44117	Bleiberg-Kreuth	1	I vastea enk nit dös müasts a bisl lautar reïdn.
+no	44124	Villach	1	I vasteh enk nit, dös müaßt a bißl lauta rödn.
+no	44142	Schiefling	1	I versteh enk nit, redts a bißl lauter.
+no	44162	Suetschach	1	I versteh enk nit, ihr (des) miaßts a bißl lauta redn.
+no	44174	Sankt Salvator	1	I varsteah enk nit, dös miaßts a weane lautar rödn.
+no	44182	Heft	1	I vasteah enk nit, dös müaßts a bissle lautar rödn.
+no	44189	Schiefling	1	I vasteah die net, dös miaßt schou a zwinzili lauta redn.
+no	44196	Modriach	1	I verstea enk net, dös müaßts a weni lauter redn.
+no	44200	Launegg	1	I vasteh enk net, es müaßts lauta redn!
+no	44234	Obermühlbach	1	I vasteh enk nit, dös müaßt's a weni lauta röd'n.
+no	44243	Hochfeistritz	1	I vastea enk nit, dös müat's lauta rödn.
+no	44248	Sankt Andrä	1	I versteah enk nit, ös müaßt a bißele lautar redn.
+no	44256	Glashütten	1	I vasteah enk net, deis müaßtz a wieni lauta reidn.
+no	44261	Sankt Peter im Sulmtal	1	I versteah enk neit, des miaßt a bisl lauta reidn.
+no	44295	Oberhaag	1	I vastea enk ne(i)t, müaßts a bißl lauta re(i)dn.
+no	44303	Klagenfurt-Harbach	1	I vasteh enk nit, es miaßts a bisl lauta redn.
+no	44308	Eberndorf	1	I versteh aich nit, ihr müaßts a bisl lauta redn.
+no	44313	Lorenzenberg	1	I vasteah enk net, dös müaßts a weani lauta redn.
+no	44314	Sankt Margarethen	1	I vasteh [die?] nit, du mueßt a bißl lauta redn.
+no	44320	Bad Eisenkappel	1	I vasteh enk nit, ihr müaßt a bissel lauter sprechen!
+no	44333	Paldau	1	I vasteh enk nit, dös müaßt a bißl lauter redn.
+no	44347	Hohenbrugg an der Raab	1	I vasteh' enk nit, ihr (ös) müaßt a bißl lauta red'n. ("sprechen" wird für wenig gebr)
+no	44358	Mogersdorf	1	I vaschteh enk nit d'öis miaßt's a Biszl lauta redn.
+no	44371	Allerheiligen bei Wildon	1	I bin a weng tärisch, red lauter
+no	44398	Leibnitz	1	I ferstea enk net, deis mìaßts a [p?]ìsserl [p hat einen seltsamen Haken dran] lauta rëin.
+no	44414	Klöch	1	I versteah enk nit, dös miaßts a wiani lauta redn.
+no	44425	Ratschendorf	1	I vasteah enk net, ös müaßts bissl lauta redn.
+no	44433	Langegg	1	I versteh eich net, ihr müßts a bißl lauta redn.
+no	44439	Ebental (Polom)	1	I wrschtean ei et, ihr mischt ät a pese greaßr redn
+no	44442	Steinwand (Podstenice)	1	I wrschtan ei et, ihr missat a peasa graß ar redn
+no	44445	Obergras (Trava)	1	I vrstan e̤i et, ir messat epos groaßr redn
+no	44447	Göttenitz (Gotenica)	1	I wrschtan ei et, ihr miässòt a pesn greaßar redn
+no	44454	Nesseltal (Koprivnik)	1	I vrschtean ei et, ir messot greaßar redn
+no	44461	Tiefenbach (Briga)	1	I wrschtan ei et, ihr mischät a peshe greaßar redn
+no	44465	Unterlag (Spodnji Log)	1	I vrscht’an eu et, ihr müssät a pése grassar redn
+no	44519	Wildensbuch	1	I verstahn eu nit, ihr müend e chli lüüter rede.
+no	44610	Wittenwil	1	I verstoh [Bogen unter 'o'] eu nöd, ihr müend e bitzeli lüter rede.
+no	44685	Neukirch an der Thur	1	I verstohni nöd, er mönd lüter schwätze.
+no	44770	Mont-Tramelan	1	I verschtah uech nid, dir müesst e chli lüter rede.
+no	44771	Pieterlen	1	I verstoh-nech nid, dir müesst e chlei lüter rede.
+no	44796	Merzligen	1	I verschtange n ech nid, dir müesst chlei lüter rede.
+no	44801	Gals	1	J verstangenech nid, dir müesst e chläy lütter rede. [Möglicherweise 'verstangen ech', doch durch Korrektur steht es zusammengeschrieben.]
+no	44832	Huggerwald	1	I verstŏ ēich nīt, dr miēnd e bitzeli lutter rēde!
+no	44851	Ziefen	1	I verstoh-n-ech nitt, der müest e chli lütter schwätze.
+no	44858	Anwil	1	I verstande öich nit, dir müeset lüter schwätze.
+no	44888	Umiken	1	Ik verstoneee ned, er müend es Betzelī lūter rede.
+no	44994	Gänsbrunnen	1	I verstoh nech nit, dir miöst luter rede.
+no	45009	Oensingen	1	I verstoh nech nid, dir müesst es chli lüter rede.
+op	45022	Mühlethal	1	i verstònech net, ir müend es bitzli lüüter rede.
+op	45067	Meisterschwanden	1	I verstòne-u-ö̀ich nēd, ìr münd e chli lüter rède.
+op	45192	Mülchi	1	I verstanech nid. Dir müesst e chly luter rede.
+op	45195	Eigenthal	1	I verstoh-n-ech ned, ier müend es betzli lüter rede.
+op	4521	Wollin	1	Ick vörrstoa ju nich, ji mütt'n bittchen luder reäd'n.
+op	4527	Rädel	1	Jck verstoahe ju nich, ji mütten en Bittchen luder reden.
+op	45279	Hildisrieden	1	I verstone euch ned, de müend chly luter rede.
+op	45299	Willisau	1	Ich verstohne eüich ned, ier müend es bitzäli lüter rede!
+op	45312	Bleuen	1	I verstohn·ech nid, d'ihr müesst es bitzeli luter rede.
+op	45345	Dielsdorf	1	I verstoh-u-i nöd; ihr müend e chli luter rede.
+op	45356	Unterwagenburg	1	Ich verschtane eu nüd, ir müend e chli luter rede.
+op	4539	Wildenbruch	1	Ik verstoah gau nich, gei mütten en bitchen luder reden.
+op	45474	Boden bei Fischenthal	1	Ich verstohnen eu nöd, ihr müend e chli lüter rede.
+op	4549	Löwenbruch	1	Ick versteh' jau nich, gei müßt en bisken luter spreäken.
+op	45492	Dicken bei Degersheim	1	I verschtohn eu nöd, er müend e chli luter rede.
+op	45501	Bonstetten	1	Ich verstoh eu nöd, ihr münd es bitzeli luter rede.
+op	45529	Riedikon	1	I verstohne-neu nüd, ihr müend e bitzeli luter rede.
+op	4560	Deutsch Wusterhausen	1	Ik versteh jau nich, jei miten en bisken luder reden.
+op	45611	Feusisberg	1	Ich verstoh öü nüt, ihr müend e chl[...] lütr rede.
+op	45627	Starkenbach	1	I verschoh eu nüt, er müend chli luter redä.
+op	45630	Risch	1	Ich verstani nüd, de müend e chli luter rede.
+op	45644	Reichenburg	1	Ich verstoh üch nöd, ihr müend es bitzeli luter redä.
+op	45692	Süri	1	I versta nech nid, dir müesst es Bitzli luter rede.
+op	45694	Courlevon	1	J verstah nech nid dir müäst ä chlei lütär redä
+op	45716	Brünisried	1	I verstah auch nit, ihr müesst a bitz luter rede.
+op	45718	Ferpicloz	1	J verstangene-ech nüd; redet doch e chlei lüter!
+op	45722	Abländschen	1	I verstah nuch nit, ihr müsst e Bitz lüterer rede.
+op	4573	Neu Golm	1	Jck verstehe jau nich, ji müßt en bisken lauter sprachen.
+op	45734	Dentenberg	1	I verschtan ech nid, dir mȗesst es bitzeli heter rede.
+op	45758	Mutten	1	I verschtahn ech nid, dir müesst e chly lütter rede.
+op	45764	Oberfrittenbach	1	I versta-n-ech nid, dir müesst e chli luter rede.
+op	45784	Schüpfheim	1	I verstah nech ned, dr müessit e chli lütr redä.
+op	458	Wietrzno	1	Ick vustoah jug ni, juh mäute ein bät laure spräke.
+op	4584	Hohenwalde	1	Ick verstehe eich nich, jei müssen en Bisken lauter sprechen.
+op	45863	Gurzelen	1	I verschtande nech nid, dir müesset e ekly luter rede.
+op	45878	Linden (Oberlangenegg)	1	I verstah-n-ech nüt, dihr müërst es bitzeli luter rede.
+op	45891	Sörenberg	1	I verstahn-ech ned, ihr müessid luuter rede.
+op	45892	Lungern	1	I v'rschtah eww nid, jär miänd ä Bitz liiterer redä
+op	4590	Kunice	1	Jch verstehe aich nich, jei müssen en Bisken lauter readen.
+op	4595	Mierczany	1	Ich verschtehe eich nich, ihr meßt en bischen lauter rieden.
+op	45962	Entschwil	1	I verstah nuch nit, ihr müesst e chli lütterer rede.
+op	45980	Saxeten	1	I verschtan[u?]ch nied, ier müößt öppis luterer.
+op	45992	Guttannen	1	I verstahn ech nid, ehr meesst es bitzi lüüter reden.
+op	46009	Ulrichen	1	Ich verstahne nit iehr müesst en bitzy lüter sprächu.
+op	46017	Gersau	1	Ich verstah n üch nid, ihr müend es bitzli luter rede.
+op	46021	Illgau	1	Ick värstah Üch nid, Ihr müend ä chle luter redä.
+op	46026	Engi	1	Ich  verstuh' euch nüd, ir müend ä bitz luter redä.
+op	46027	Leuggelbach	1	Ich verstuh nech nüd, ihr müend e chli luuter rede.
+op	4603	Toporow	1	Ich verstieh euch nich, 'r müßt mehrt laut sprächen.
+op	46038	Linthal	1	Ich verschtuh uech nüd, ihr müänd ächlei lüter redä.
+op	46040	Engelberg	1	Ich verschtah uich nid, iär miänd ä chlehi [Bogen unter eh] luidärär redä.
+op	46045	Erstfeld	1	Jch verstahn ich nitt, ihr miend ä bitz lüter redä.
+op	46048	Valendas	1	Ich verstan euch nit verstah ihr müest es bitzeli luter rede.
+op	46050	Meierhof	1	Ich verstahn nuch nit, iahr miasst as bitzi luter reda.
+op	46051	Camana	1	E verschton ech net, iär müässt ä bezle lutär reda.
+op	46055	Nufenen	1	Ich verstan nich nit, i-ahr müant äs bitzli lutr redä.
+op	46059	Fanas	1	I värschtani nid, är müäsänd äs bitschi lütär redä.
+op	46070	Mathon	1	I vrsteha enk nit, ös müßat a bitz lautr röda.
+op	46071	Galtür	1	I varstea önk nit, ös müaßet a bisli lautar röda.
+op	46073	Felsberg	1	J verstuhn eu nit, iar müassen a bitz luter reda.
+op	46079	Fideris	1	I verstahn-i nid, ier müeßt es bitzji öuter reden.
+op	4608	Alt Stahnsdorf	1	Jk verstehe jau nich, ji missen en bisken lauter sprechen.
+op	46083	Klosters	1	J verschtahn eu nit,iér müesst en Bitz lüter rädan.
+op	46101	Wiesen	1	I verstahn'ä nit , ier müest em biz luter rede.
+op	46104	Am Bach	1	Ich verstohn eich nit, iar müasst aweng luter reda.
+op	46115	Lauenen	1	I verschta n uch net, säget mer s em Bez lüterer.
+op	46118	Stiegelschwand	1	I verschtan uch nüt, ihr müesst es bitzi luter rede.
+op	46119	Fieschertal	1	Ich verstah euw nit, ihär miässt äm bizz lüttär redä!
+op	46127	Bitsch	1	Jh verstah euw nit, Ihr muesst em bitz lütter rédé.
+op	46129	Agarn	1	I verschtahnä nit, ihär miässt äm bitz lütter rädu.
+op	46132	Hasel	1	Jch verschtahn ew nit, ier miesst as bizji lüter redu. 
+op	46142	Saas Grund	1	Ich verstah ne nit iéhr miesst em biz lüter (redu) sprächu.
+op	46143	Zwischbergen	1	Jch verstah ew nit, iär miässt us biwzji luitär redu. 
+op	46145	Zermatt	1	Ich verstah en nit iehr miesst im Bitz hejer redu.
+op	-46146	Prettau (Predoi)	1	I foschtienk nöt, dös mist aui laita reidn
+op	46157	Luttach (Lutago)	1	I voschte enk net dös mißt lauta reidn.
+op	-46161	Hinterkirch (Graun)	1	i v'rschtea enk öt, öis müats u bissl l[a?]utr röidn
+op	-46162	Rabenstein (Moos)	1	i verschtea enk nit, ös müet a bisl lauter rödn.
+op	46170	Tschöfs (Ceves)	1	I versteh enk nit dös miast lauter rödn.
+op	-46175	Pfunders (Fundres)	1	I vostea enck öttö dös miösst a biön meara schreidn.
+op	-46181	Antholz (Anterselva Di Mezzo)	1	I vostöi enk (et) ött, dös müßt a wian lauta rödn.
+op	-46195	Schabs (Sciaves)	1	I vorschtea enk nöt, döis miost lauta rödn.
+op	-46215	Pichl	1	ī vrschte̥i enk ȫtt, ȫs miaßt a bißl grȫ̜iba re̜idn
+op	-46217	Burgeis (Burgusio)	1	I versteah euch it, öis miaßz a bißl laitr räidn.
+op	-46226	Kurzras (Corteraso)	1	Enk versteh i nit guat, ös müaßt lauter redn.
+op	-46227	Katharinaberg (Santa Caterina)	1	I versteh enk nit, ös miaßt a bißl lauter redn.
+op	-46234	Vernuer (Vernurio)	1	I verstea entk nit, eös miat leiter reödn.
+op	-46262	Stilfs (Stelvio)	1	i verstea enk it, ös miats a bisl leitr redn. (Lauter - laitr.)
+op	46267	Laas (Lasa)	1	I versteh euch it, ös miassts ä bissl lautr rödn
+op	46283	Gargazon (Gargazzone)	1	I verstea enk nit, es miestz a pissl lautr reidn.
+op	-46293	Sankt Peter Hinter Lajen (San Pietr	1	I versteoh enk nöt müeßt e bisl lauter röd'n
+op	-46305	Sankt Walburg (Santa Valburga)	1	I ferschtea enk nit, ös miast a bissl lauter reidn.
+op	-46319	Wangen (Vanga)	1	I verstea enk nöt, ös miat abisl lautr rödn
+op	46324	Laurein (Lauregno)	1	I vorschtea euk nëit, iar miast a bisl lautor rëidn. 
+op	-46340	Kaltern (Caldaro)	1	I versteah enk nöt, ös müasets a bisl lautr rödn.
+op	-46344	Deutschnofen (Nova Ponente)	1	I vrschtea enk nit, iar miat a bißl lauter rēdn.
+op	-46351	Altrei (Anterivo)	1	I verstea enk nit iahr müast a bisl lauter röden
+op	-46353	Salurn (Salorno)	1	I varsteah önk nit, ös müassts a bissl lautar rödn.
+op	46361	Stefansdorf (Santo Stefano)	1	I foschtea önk öt, dös mißt a pißl lauta röidn.
+op	46365	Lusern (Luserna)	1	I vorstea aüch net, dar möcht rede stärkar
+pq	46367	Ljetzan (Giazza)	1	i frɔštɛ́a̯ na níχt, ir mǜsɛt rɛ́i̯đan a ƀḗni hɔ́d̆̄ər.
+pq	46369	Lusern (Luserna)	1	iχ fɔrštéa̯χ nɛt ɔ́i̯χ; mìsst b̌rɛ́χtan an ṡți̯ɛ́ndli mɛ̄̀ro ṡtárχ. (ț zwischen t unk k)
+pq	46385	Nauders	1	I verstea enk itt, öis müaßz a bißli lauter röida.
+pq	46386	Heiligkreuz	1	I versteh enk nuicht, dös müeßet laut[a?]r rödn.
+pq	46391	Poppenbüll	1	Jck verståh jüm ni, jüm mö̂hd en bêd luder snack'n.
+pq	46407	Dahrenwurth	1	Jck verstah jüm nich, jüm mä̊d'n bä̂d'n lûd'r sprä̂k'n.
+pq	46420	Bergenhusen	1	Jck verstah jumm ni, jumm määd'n bätn lurer snacken.
+pq	46430	Owschlag	1	Jck verstah ju nig, ji mät en bet'n doller prahl'n.
+pq	46443	Holtsee	1	Jck kann ju nich verstahn, ji möd en lütt bed'n luder snack'n.
+pq	46459	Pries	1	Jck verstah ju nich, ji möt en beten luder spreken.
+pq	46481	Stakendorf	1	Jk verstah ju nich, ji mütt en beten harder spreken.
+pq	46492	Behrensdorf (Ostsee)	1	Jck vestah jo[u?] ni; ji möht'n Bet'n luter spräk'n (snack'n)
+pq	465	Okunino	1	Ick västoh jug nich, ji mätä bitskä lurä spräkä.
+pq	46554	Sulsdorf	1	Jck verstah jo nich; ji möht een bäten luder spreeken.
+pq	46570	Staberdorf	1	Jck verstah j[on?]  nich, ji möt'n bed'n luder sprek'n.
+pq	46637	Alte Kirche	1	Jck verstah jem ni, jem mödden en bed harder snacken.
+pq	46652	Sollerupfeld	1	Jck vestah ji nich, ji möden en bäten höcher spräken.
+pq	46666	Neuberend	1	I[c?]k vestah ju nich, ji möden en beden höcher spreken.
+pq	46684	Zimmert	1	Ick verstah ju nich, i möt en bäd harrer schnacken.
+pq	46687	Damp	1	Jck verstah ju ni, ji[?] möt bät harder spräk'n.
+pq	46693	Westermarkelsdorf	1	Jck verstah jo nĭ, jie mütt en bäd'n lūdder schnăg'n.
+pq	46784	Grossenwiehe	1	Ick verstah ju nich i mödden en Bähden höcher spräken.
+pq	46798	Estrup	1	Ick vestah ju nich, i möden en beden höcher (ludder) spreken.
+pq	46806	Wippendorf	1	Ick verstah ju nich, ih möten en beden höger spräken.
+pq	46823	Maasholm	1	Jk versta ji ni, je mö͡ät en bäd'n harder sprö͡äȫk'n.
+pq	46924	Beken (Bækken)	1	Ick verstaah ju nich, I mö̂ten 'n bêt höger spräken.
+pq	47139	Sandhatten	1	Ick vastah jo nich, ji möt'n bäten luht'r snacken.
+pq	47154	Adelheide	1	Jck vastah jo nich, ji möt'n bäten harter snacken.
+pq	47171	Dreye	1	Ick verstah jo nech, ji möt'n bäden harder (luter) snacken.
+pq	47183	Allerdorf	1	Jk verstah jo nich, ji möt lütgen bet'n lurder snak'n.
+pq	47189	Heerenland	1	Ik verstah jue, jie mueten man bitje veller proten.
+pq	47203	Steenfelde	1	Ik versta Jöe['?] nig, Ji moet een bittje feller proten.
+pq	47219	Lohe	1	Jck verstahe jau nich, jie mäten bäten luter proten.
+pq	47224	Burgfelde	1	Jck verstah jo nich, ji möt'n bäten lurder snacken.
+pq	47235	Moorhausen	1	Jck vustah jo nich, ji möt'n bet'n lur'er ßnacken.
+pq	4727	Klein Glien	1	Ick verstoah jou nich, je mutten en betken luder schwatzen
+pq	47370	Bardenfleth	1	Ick vorrstah ju nich, ji mäht 'n bäten hertr spräken.
+pq	4738	Niederwerbig	1	Ik verstoa gau nich, gei möten en bedchen luder schwatzen.
+pq	474	Kramarzyny	1	Ick vostah jug nich, jie mutte eie bitzke lude rede.
+pq	47402	Mittelbauer	1	Jck vostah juh näg, jih mät'n bäten luter spräcken.
+pq	47422	Neuenbülstedt	1	Eck verstau jo neg, ji möt'n bät'n luder (luer) snacken (ßnacken).
+pq	47447	Neermoor	1	Ick verstah joh neet, ji moten 'n bietje feller proten.
+pq	47455	Remels	1	Ik versta Iou nich, ji mouten eÿn bittje luter (feller) proten.
+pq	47463	Petersfeld	1	Jck vorstah jo nich, ji möt'n bäten lurden schnacken.
+pq	47470	Jaderbollenhagen	1	Jck verstah jo nich, ji möt'n bäten lu'er spräken.
+pq	4749	Zülichendorf	1	Ick verstoe jo nich, jei müeten luder spräeken.
+pq	47598	Offenwardenermoor	1	Ick verstah yo nich, yi möt beten harter snacken.
+pq	4761	Schöneweide	1	Ick versteh' ju nich, je mit'n in Bisken luder reäd'n.
+pq	47612	Paddewisch	1	Jk verstah jo nicht, ji mötn beten harter snacken.
+pq	47624	Ober-Ochtenhausen	1	Jck verstah jo nech, je möt'n bät'n lurder schnak'n.
+pq	47650	Cirkwehrum	1	Ik verstaa jo͡e nÿs, ji moeten ÿn bietje feller reeren. (prooten).
+pq	47657	Westerende-Holzloog	1	Jck verstah ji nich, ji moot'n bietje luder proot'n.
+pq	47670	Wiesede	1	Ik versta Io nig, Ij mut n beten dütelker schnaken.
+pq	47677	Neustadtgödens	1	Jk verstah jo nich, ji möt' n beten fosder spräken.
+pq	4770	Egsdorf	1	Ick verschtehn jou nich, jie mißt en bisken leuter schpräken.
+pq	4776	Birkholz	1	Ich verstehe euch nicht, ihr müßt en bisken lauter reden.
+pq	478	Pradzonka	1	Jck västo ju ni ji mutä bitzkä lutä rädä.
+pq	47840	Kükelühn	1	Jck verstah ju nich, jü möt'n bet'n duller sprêk'n.
+pq	47861	Siggeneben	1	Jck verstah ju nich, jih möödt'n be(i)t'n lutder snack'n (spräk'n).
+pq	47863	Hedwigenkoog	1	Jck verstah jüm ni, jüm möötn beetn luder snackn.
+pq	47885	Edemannswisch	1	Jck versta jüm ne, jüm müd en beden luder spreken.
+pq	4789	Briescht	1	Ick verschtehe eich nich, ihr mißt en Bisken lauter reden.
+pq	47893	Oesterborstel	1	Jck verstah jüm nie, jüm mätt een bädn luder snacken.
+pq	47907	Hamweddel	1	Jk västah ju ni, ji mät enn bet'n lud'r schnack'n.
+pq	47916	Warder	1	Eck västah ju ni, ji mäd een beetn luder sprek'n.
+pq	47935	Klein Barkau	1	Jck verstaa ju ni, ji mött beeda luder sprekn.
+pq	47952	Mucheln	1	Jck vöstoh ju ni, ji müdd bedn döller snakn.
+pq	4800	Gross Briesen	1	Ich versteh euch nich, ihr müßtn bissel lauter sprechen.
+pq	48096	Grömitz	1	Jck verstah ju nich, ji mütt een bed'n harter sprek'n (snacken).
+pq	48098	Friedrichskoog	1	Jck verstah ju nich, ji mät 'n betn luder sprek'n.
+pq	48105	Barlteraltendeich	1	Ick versteh jumm ni, jumm mütt bäd'n luder snacken.
+pq	48115	Holstenniendorf	1	Jk versta ju ni, ji mät een bäd'n luder sprek'n.
+pq	48126	Jahrsdorf	1	Ek västaa ju ni, ji mäd'n beid'n luder snacken.
+pq	4813	Klopot	1	Ich verschtehe eich nich, ihr mißt en Bisken lauder räden.
+pq	48141	Ehndorf	1	Jk verstah ju nig, ji mött een beten luter (spreken) schnakken.
+pq	48156	Gönnebek	1	Jck versteh juch nich, ji möt een beten harter snacken
+pq	48164	Wöbs	1	Jck verstah ju nich, ji mött'n bät'n luder spräk'n.
+pq	48186	Süsel	1	Jck verstah ju nich, jie möt een bät'n luuder snack'n.
+pq	48233	Brunsbüttelerhafen	1	Jk verstah ju ni, ji maet en beten luder sprek'n.
+pq	48239	Brokdorf	1	Jk verstah ju nich, ji möt bätn luder snacken.
+pq	4824	Radomicko	1	Ich verstehe eich nicht, ähr müßt en bichen lauter reden.
+pq	48240	Spiekeroog	1	Jk verstah jo nich, ji mot'n bäten harter schnacken.
+pq	48242	Berensch	1	Jck verstah jo ni, ji mäd'n bät'n hardder snagg'n.
+pq	48247	Altenbruch	1	Jk verstah ju nech, ji möht bäten harder znacken.
+pq	48282	Norderney	1	Ick verstah jo ne, ji mutten en bitje luder proten.
+pq	48283	Baltrum-Ostdorf	1	Ick verstah jo nich, ji mutt en bietjit luder sprek'n.
+pq	48302	Misselwarden	1	Jck verstah jo nich, ji mötn̆ bätn̆ harter snacken.
+pq	4832	Radnica	1	Ich verstieh euch nich, ihr müßt an bischen lauter sprechen.
+pq	48324	Weissenmoor	1	Jck verstah jo ne jie möht bäten luter spräken.
+pq	48342	Itzendorf	1	Jk versta jo neet, ji moten een bietje luter proten.
+pq	48356	Arle	1	Jck versta jo neet, ji moten wat stiefer proten.
+pq	48368	Stedesdorf	1	Ick verstah jo nich, ji moot't watt luder schnakken
+pq	48383	Wüppels	1	Jck verstah jo nich, ji mot'n bäten luter spräken.
+pq	48392	Langwarden	1	Ick verstah jo nich, jie mutt'n bäten luder ßnakken.
+pq	48401	Flögeln	1	Jck verståh jo neg, ji mät'n bet'n harter schnacken.
+pq	48477	Iffens	1	Ick verstah jo nich, ji möt'n bäten luter spräken.
+pq	48487	Blexen	1	J[c?]k versteh Jo nich, ji möt't'n bäten luder sna[c?]ken
+pq	48497	Altluneberg	1	Jck verstah ju nich, jü möt'n beeten harter snacken.
+pq	48507	Hönau-Lindorf	1	Eck verstah jo nicht; ji mät'n bet'n drister schnacken.
+pq	48516	Graal-Müritz	1	Jck vörstah juch nich, ji möt'n bǟt'n lūră spräk'n.
+qr	48522	Rerik	1	Jck vehstah jug nich, ji möten bäten luhre spräken.
+qr	48532	Brodhagen	1	Jck verstah jug nich, jie mööt en bäden lurer spräken.
+qr	48550	Toitenwinkel	1	Jck vöàstah jūg nich, ji meut'n bät'n lū'ra sprā̈k'n.
+qr	486	Niedamowo	1	Ick vasteh ju nich, ji meite a bed lude spreke.
+qr	48675	Strukdorf	1	Jck verstah ju nie jie möt en beten luder spreken.
+qr	48702	Sereetz	1	Jck verstah ju nich, ji möt'n bet'n luder spräk'n.
+qr	48716	Gross Voigtshagen	1	I[c]k véstah juchg nich, jie müttn betn luhré sprekn.
+qr	48726	Beckerwitz	1	Ick verstah juch nicht, ji müt'n bet'n lurer sprek'n
+qr	48738	Steinhausen	1	Ik ve'stah jug nich, ji möt ein bät'n lurer spräk'n.
+qr	48752	Berendshagen	1	Jck vestah jug nich; ji möt't een Beten lure snacken.
+qr	48765	Wiendorf	1	Jck vestah juch nich, jie mütt'n bet'n luhre schnack'n.
+qr	48790	Rethwisch	1	Ik verstah ju ni, ji möt'n bet'n luter snaken.
+qr	48800	Lentföhrden	1	Jck verstah ju nich, ji mätt en betjn luter sprek'n.
+qr	48812	Todesfelde	1	Jck verstah ju nich, ji mütt'n bet'n harder snack'n.
+qr	49022	Kleinboden	1	Jck vestah jug nich, ji mät'n bet'n lure snack'n.
+qr	49043	Campow	1	Ik verstah ju nicht, möt lurespreken.
+qr	49076	Nesow	1	Jck vörstah juch nich, jī müdt ein bäddĕn lure spräckĕn.
+qr	49090	Dalliendorf	1	Ick vestah juch nich, jie möt'n bät'n lure snacken.
+qr	49108	Neuhof	1	Jk vastah jug nich, jie möten wat lure spreken.
+qr	49122	Warnow	1	Jck vĕstah juch nich, ji möt'n bet'n luurĕ snak'n.
+qr	49140	Güstrow	1	Ick verstah juch nich, ji möten bäten lurer spräken.
+qr	49146	Drochtersen	1	Jck verstah jau neech, jieh mähd een bäden harrder spräk'n.
+qr	49162	Gross Nordende	1	Jck verstāh ju nicht, ji möd en bêd luter sprêken.
+qr	49176	Quickborn	1	Jk verstah ju nich , du mus bet'n luder sprek'n.
+qr	49188	Jersbek	1	Jk vĕstah juch nich, ji mät 'n bät'n lude(r) sznacken.
+qr	49311	Riekenbostel	1	Jk vestah ju nich, ji möht noch en beten luer snakken.
+qr	49322	Brochdorf	1	Jk verstah ju nich ji möt lötn betn laurer schnakn.
+qr	49332	Bispingen	1	Jck verstah ja͡u nich, ji mö͡ät vähl driester schnacken.
+qr	49338	Wettenbostel	1	Jk verstah jük nich, jü mät en betten luter spreken.
+qr	49348	Seedorf	1	Jk verstah jück nich, jü möht'n bett'n lurer snacken.
+qr	49362	Stoetze	1	Jch verschstah jück nich, jü möt een bätn lurer schnackn.
+qr	49498	Dannenberg (Elbe)	1	Jck verstah ju nich jü möt en beten luder spreken
+qr	495	Jaroszewy	1	Ek vestoh guch nech gie mote eihe betke lude rede.
+qr	4950	Palck	1	Ich färrstieh oich nich, irr mäßt a Bissang laut'r ri͡äden.
+qr	49509	Breetz	1	Ick verstoh juh nich, ji mütten beten luter spreken.
+qr	49524	Laaslich	1	Ick verstoh gu nich, gi mün'n bischen drister spräk'n.
+qr	49534	Lübzow	1	Ick verstoah jou nich, jih mürden en bet drister schnacken.
+qr	49551	Buchholz	1	Ick verstoah ju nich, ji mün'n en bitschen luder ßprek'n.
+qr	49562	Hetzwege	1	Jk verstah jo nich, ji mött en betten luder schnacken.
+qr	49569	Otter	1	Jck verstah ja͡ou nich, ji mä͡öt en beten drister spreken (snacken)
+qr	49579	Ollsen	1	Eck verstah jau nech, jü möt en bäten driester schnacken.
+qr	49587	Westergellersen	1	Jk verstah jaû nich jü meu bätn luher snakn.
+qr	49605	Barskamp	1	Jck verstah jou nicht, jü möt en'n bäten lüde spräken.
+qr	4965	Stare Kramsko	1	Ich verstieh euch nicht, ihr müßt a wink lauter sprechen.
+qr	4968	Zodyn	1	Ich vurstih ueuch nie, ihr müßt a bissel lauter sprechen.
+qr	49727	Wendhausen	1	Jck verstah jou nich, ji mät (ä ö) bäten luter spräken.
+qr	49752	Jessenitz	1	Jck verstah jug nich, ji möthen ein bäten lurer spräcken.
+qr	49767	Glaisin	1	Ick vöstah Jug nich, Ji möt'n bäten lure spräk'n.
+qr	49778	Neese	1	Jck veistah juch nich, jieh müttn beten luhre spreken.
+qr	49794	Pampin	1	Jk vöstah juch nich, ji mötn en beten lure spreken.
+qr	4980	Tarnowa	1	Ich verstieh euch ni ihr mest a Bissang scharfer sprechen.
+qr	49802	Grabow	1	Ick verstoah ju nich, ji mütt'n een bitchen lud'r snack'n.
+qr	49813	Wangersen	1	Eck vörstah jo nich, jie möäd bäd'n luder schnacken.
+qr	49821	Regesbostel	1	Jck verstah jaou nich, ji mä't'n bäten luter spräiken.
+qr	49828	Tötensen	1	Ick verstah yu nich, yi möt en beten luter snacken.
+qr	49840	Lassrönne	1	Ick verstah jo nich, jü möt't n beten luder snacken.
+qr	49857	Juliusburg	1	Jck verstah jüch nich, jü mät ein bäten luder snacken.
+qr	49881	Setzin	1	Ik verstah Juch nich, Ji möt'n bät'n lurer spräk'n.
+qr	49898	Neuhof	1	Ick vöstah juuch nich, ji möt'n bäten lura spräken.
+qr	50010	Gresse	1	Jck vĕstah jŭ̄ch nich, ji mü̆t'n bǟt'n fö̆rsche (lŭ̄re) sprǟk'n (ßnăk'n)
+qr	50027	Moraas	1	Ick verstah jug nich, ji müt't ein beten lure snacken.
+qr	50058	Paarsch	1	Ik verstah juch nich, ji müt't ein bät'n lurä spräk'n.
+qr	50068	Barkow	1	Ick verstahe juug nich, jie möt'n bät'n lur'e spräk'n.
+qr	50073	Schwinge	1	Ick verstah jo nich, ji möt'n bed'n hatter (lud'r) snack'n.
+qr	50087	Wisch	1	Jck vusta jau neg, ji mät luter schnack'n.
+qr	50117	Ottensen	1	Jck verstah ju nicht, ji möd een beeten luder spreeken.
+qr	50130	Willinghusen	1	Jk verstah jü nig, jü möt ên bêten harter sprek'n.
+qr	50142	Basthorst	1	Jk verstah jüüch nich, jü mäd'n bät'n heller znakk'n.
+qr	503	Szpegawsk	1	Eck verstoh jug nich, jü motte een bisken luter spreeke.
+qr	5031	Lugow	1	Ich verstieh euch nich, ihr mußt in bißch'n lauter red'n.
+qr	50321	Lehmrade	1	Jck verstah juch nich, jüh mäht'n bäd'n duller schnacken.
+qr	50332	Drönnewitz	1	Jck verstah juhg nich, ji müt'n bet'n luhre spek'n.
+qr	50343	Gross Rogahn	1	Ick vörstah jug nich, ji mütt'n lurȇ spräk'n (snack'n).
+qr	50357	Kladow	1	Ick verstah juch nich, jie möt ein bät'n lurer spreg'n.
+qr	50365	Hohen Pritz	1	Jck föh[r?]stah juhg nich, jieh möten bäten luhra sprehken.
+qr	50377	Jellen	1	Jck verstah jug nich, ji müt'n ein beten luhre sprecken.
+qr	50385	Lübsee	1	Jk verstah juch nich, ji möt ein bäden luhre spreken.
+qr	50471	Bellin	1	Ick västah jug nich, ji möten ehe bäten luder spräcken.
+qr	50523	Retzow	1	Ick verstah jug nich, ji möten beten lure spreken
+qr	50538	Hohenbollentin	1	Ick västah jug nich, ji möten bät'n lurä red'n.
+qr	50552	Golchen	1	Ick verstah jug nich jie möten bäten lura räd'n.
+qr	5056	Biala Wies	1	Ich virrstieh euch nich, ihr mißt a bissann lauter sprechen.
+qr	50567	Strippow	1	Jk verstah juch nich, ji möten ein bäten lura radn.
+qr	50575	Rosenhagen	1	Ick verstah jug nich, jie möden ein bäden lära spräken.
+qr	50583	Siniechowo	1	Jck verstoah ju nich, ji meute'n bätt lure spräke.
+qr	50604	Drzewica	1	Ick voschtoa ju nich, ji mäute 'n bät lure rähre.
+qr	50622	Lisowo	1	Ick vestau jugg nich, jieh mäuta a beätka luere spräekä.
+qr	50719	Lubin	1	Ik vasto juch nich, ji möta na bät lura spräka.
+qr	50765	Gross Ridsenow	1	Jck vöastah juch nich, ji mött'n bett'n lura spräken.
+qr	50779	Schlutow	1	Ick vörsteh jug nig, jie möt'n bät'n lura snack'n.
+qr	50794	Seedorf	1	Ick vöästag juch nich, ji möt'n ein bät'n lurä spräk'n.
+qr	50805	Bentzin	1	Ick vörstah jug nig, ji möten en beten lurer reden.
+qr	50818	Ranzin	1	Ick vestah juch nich, ji möthn ein betn luhrä spräken.
+qr	50830	Lassan	1	Ick västoah jug nich, ji meuten (möten) 'n bäten lurä räh'n.
+qr	50840	Sallenthin	1	Ik verstah guch nich, gi möt'n ein bät'n lura spräken.
+qr	50844	Miedzyzdroje	1	Ick verstoah ju nich. Ji möt'n ne bät' lurer rer'n.
+qr	50850	Sieroslaw	1	Jck västeh gu nich, gi meutä eiä bitzkä lura spräkä.
+qr	50872	Bedzieszewo	1	Ick vestaoh ju nich, jie meutä ni bät lura spräkä.
+qr	50892	Skalin	1	Jk vestah gu nich, gy meute eiä bät lure rere.
+qr	5091	Boruja	1	Jch verstieh euch nich, ür meßt a bissan'g sihr (lauter) sprechen.
+rs	50973	Koserow	1	Jk verstoah ju nich, ji möten ein beten lurer spreken.
+rs	50986	Trzesacz	1	Ick vaståh juw nich, ji meutĕ bitz lurĕ rärĕ.
+rs	51	Baerwalde	1	Ǐck vä̌stå jū nǐ, Ji mȫtä ä̌ bǟtjä̌ lūdä rǟdä̌.
+rs	51012	Hohen Wangelin	1	Ick verstah juuch nich, jie müddn bät'n lura spräk'n
+rs	51030	Rittermannshagen	1	Jck vestah juch nich, ji mütten bäten luhra ßnacken
+rs	51048	Tarnow	1	Jck vöstah jug nich, ji möt'n bat'n luhra znack'n.
+rs	51065	Trollenhagen	1	Jk vaschtoah jug nich, ji möt'n bät'n lura schpräk'n.
+rs	51081	Brohm	1	Jck vastoh juhch nich, jih möht'n bät'n luhra spräk'n.
+rs	51089	Eichhof	1	Ick vöstaoh juch nich, ji mütt'n bät'n lura räd'n.
+rs	51098	Gegensee	1	Ick verstoah huch nich, jieh möten bitschen luder spräken.
+rs	511	Krasniewo	1	Eck verstao ju nich, jie motte en beske luder sprekn.
+rs	51101	Drogoradz	1	Ick verstoah juch nich, jih möden en beten luder spreken.
+rs	51112	Budzien	1	Ick verstoah juch nich, jie müdd'n een beeten luder spreeken.
+rs	51123	Krzywice	1	Ick va͡osta͡o ju ni, ji meute͡ä ain bitzke͡ä lude͡ä räde͡ä.
+rs	51135	Plantikow	1	Ick verstoah jug nich, ji màutĕ a bät ludĕ spräkĕ
+rs	51143	Kloster	1	Ick vestaoh juch nich, ji möt'n bät'n lure spräken.
+rs	51146	Wiek	1	Ick verstah jug nich, ji müt'n bät'n luure͡a spräk'n.
+rs	51162	Nardevitz	1	Ick veästa juch nich, jie möd'n ein bäd'n lurä sprak'n.
+rs	51170	Zingst	1	Ick vĕstah juuch nich; ji mööd'n bääd'n luură spräken.
+rs	51173	Wendisch Langendorf	1	Jck ve(r)stah jug nich, je müt'n bät'n luhre(r) spräk'n.
+rs	51179	Wüstenei	1	Ick verstah jug nich, jie möten bäten lura spreken.
+rs	51188	Saiser	1	Ick vostah juch nich, ji möd'n bät'n lura spräken.
+rs	51191	Ahrenshoop	1	Ick vöăßtah jug nich, jïe mäut'n bät'n lură ßpräk'n.
+rs	5122	Gorzyca	1	Ich verstieh euch nich, ihr mußt ein bisken lauter sprechen.
+rs	51232	Neu-Reddevitz	1	Jck vöstah juch nich, ji möten beten lure spräken.
+rs	51243	Langendamm	1	Ick v͜öastah jugch nich, jie möt'n lüdd bät'n luhra spräk'n.
+rs	51257	Redebas	1	Iek wastah juch nich, ji möt'n bedn lura spreken.
+rs	51267	Pütte	1	Ick verstah juch nich jie möt'n beten lure spräk'n
+rs	51277	Poseritz	1	Îck vōstāh jūch nîch, jī mȫt'n ein bētên lūrâ sprēkên.
+rs	51288	Thiessow	1	Ick verstah juch nich; ji möten bäten lude spräken.
+rs	5130	Ransko	1	Ich verstihe euch nich, ihr meßt a bischen lauter reden.
+rs	51346	Reppelin	1	Jck vesteh juch nich, ji mött'n bet'n lure sprek'n.
+rs	51355	Kavelsdorf	1	Jk västah jug nich, ji mött bäd lurä spräken.
+rs	51370	Müggenwalde	1	Ick väastah juch nich, ji mötn ein bätn lura spräkn.
+rs	51387	Steffenshagen	1	Jck vestah jug nich, gi möten bäten lure spräken.
+rs	5139	Grudna	1	Ich verstehe eich nischt, ihr mißt ein bischen lauter sprechen.
+rs	51397	Vierow	1	Ick vösta juch nich, ji möt'n lütt bät'n lura red'n.
+rs	51409	Karlshagen	1	Ick vestah jug nich, ji möt'n bät'n lurer spräk'n.
+rs	5141	Brody	1	Ich verstih eiuch nich, ihr meßt ein bißon lauter sprechen.
+rs	51413	Trzebusz	1	Ick vaståh dj u w nich, dj i meute bitz lure rere.
+rs	51539	Kisserow	1	Jck vostah jug nich, ji möt'n bet'n lure spreck'n.
+rs	51549	Federow	1	Jck vestah juch nich, ji möten bäten lure spräken.
+rs	51561	Klein Vielen	1	Jck verstah jug nich, ji möten'n bäten luhrer spräcken.
+rs	51571	Holldorf	1	Ik verstah juch nich, ji möt'n beten lura red'n.
+rs	51584	Woldegk	1	Jck verschtåh ju nich, ji möt'n bät'n luda schpräk'n.
+rs	51598	Trebenow	1	Ick vastoh ju nich, jie mün̄'t bät luda spräk'n.
+rs	51611	Rossow	1	Ek vastoh ju ne, jie mön bät luda reden.
+rs	51624	Wawelnica	1	Jk fastoa ju nich, ji mötn bet luder reden.
+rs	51637	Bergland	1	Ick västoah ju nich, ji möten bäät ludä räd'n.
+rs	51646	Dabrowica	1	Ick vesta͜oh jug ne jie mäute eie betke lude spreke.
+rs	51661	Bobrowniki	1	Ick västau jug ne, ji meuta an bät lude spräka.
+rs	51805	Grabow	1	Ick verstah juch nich, jih möt'n ein beten luhrer snacken.
+rs	51816	Lärz	1	Ick vĕstah jugg nich, ji müddn ein Bätn luhră snăckn!
+rs	51832	Ahrensberg	1	Jck vastah juch nich, jieh möt'n bet'n lura red'n.
+rs	51838	Hasselförde	1	Ick vörstah gu nich, ji mün en bäten lura reden.
+rs	51850	Buchenhain	1	Ik verstoah ju nich, ji müdden luder spreken.
+rs	51866	Röpersdorf	1	Ick verstoh ju nich, ji müdd'n en bäten lurer spräken.
+rs	51877	Grünz	1	Ick [v?]estoh ju ni, ji möt'n bät ludja sprek'n.
+rs	51893	Pargow (Pargowo)	1	Ik veståh ju nich, ji möd'n en betken lud'r red'n.
+rs	51906	Zelislawiec	1	Ick verstah ju nich, ji möten bed lujer reden.
+rs	51918	Slotnica	1	Ick vĕstoah ju nĕ, ji mötă bätkă luja reda
+rs	51934	Zukowo	1	Ick vestauh ju nĭ, ji mötă an bitzkă lugĕ spräkă.
+rs	5203	Nekielka	1	Ik vestoh ju nie, ji mitä a bischä sehä redä.
+rs	52064	Papenbruch	1	Jck verstah (verstoh) ju nich, ji müdd'n 'n bät luter spräk(e)n.
+rs	52070	Wallitz	1	Ick vosto͡ah ju nich, gie mün ehn bitschken lüder sprek'n.
+rs	52079	Menz	1	Ik vestoah guh nich, gieh müdden en bitschen luhter reden.
+rs	52086	Barsdorf	1	Ick vostah gu nich, gi mürn en beth lüra sprek'n.
+rs	52095	Petersdorf	1	Ick vastoă ju nich, ji müdd'n beten lüda sprek'n.
+rs	5210	Skwierzyna	1	Ich versteh' eich nich, ihr müsst 'n bischen lauter sprechen.
+rs	52103	Flieth-Stegelitz	1	Ick vastòh Juh nich, Ji müdd'n en bät luda spräken.
+rs	52113	Passow	1	Ick vasteh ju nich, jie müdd'n bitsche luda reden.
+rs	52129	Widuchowa	1	Ick versto͡ah juch ne, jie möt'n bā̈t (bitz) lūder räd'n.
+rs	52139	Banie	1	Ick verståh gu nich, gie möten een bät luder spräken.
+rs	5214	Krobielewo	1	Ich verstieh eich nich, ehr meßt en bischen lauter sprachen.
+rs	52154	Obromino	1	Ick vestoah ju ne, ji möthe bäthke luge sprēcke.
+rs	52169	Brzezina	1	Ick vastoh ju ni, ji möte a bätke luje räje.
+rs	52276	Bagicz	1	Jck vastōāh juww nich, ji möta ra bätka lura spräka.
+rs	52278	Lasin Koszalinski	1	Ick vàstah juww nich, jie mötè eiè bittzkè lurè spräkè.
+rs	52311	Sieciemin	1	Ick versta juch nich, ji mäte ein Betke lure spräcke.
+rs	52349	Pomysk Wielki	1	Ik verstouh juch nich, ji' moutä ä' bitskä luder redä.
+rs	52359	Szymbark	1	Ek vestoh jug nich, gi mete bät lude rede.
+rs	52374	Szklana Gora	1	Ick verstoa ju nicht, jü mütten en bitzken luder spräken.
+rs	52396	Skowarcz	1	Ek versto͜a ju nich, je motte en beske luder spräke.
+rs	52428	Oberlakendorf (Solnica Górna)	1	Ek verstoa ju nich, ju motte en besken luder redn.
+rs	52440	Deep (Czajcze)	1	Ick vastoa jug nich, ji meuda eia biska lura rära.
+rs	52463	Bialecino	1	Ick versteh jug nich; jüh möte a Biske luure spräcke.
+rs	52478	Bronowo	1	Ick vastah juch nich, ji mutdä eiä bitzkä lurä spräka.
+rs	52484	Reddies	1	Jck verstah jug nich jü mutta abitska luder reda.
+rs	52567	Pasewark	1	Eck verstoh juh nich, juh motten ehn beht luhder reden.
+rs	52578	Bad Rügenwalde	1	Jck versteh jug nich, ji möte'n bät luder spräke.
+rs	5259	Prusim	1	Ich verstieh eich nich ihr mäst ein bischen lauter sprechen.
+rs	52600	Radoslaw	1	Ick vastah juw nich, jie mätä ä bäjä lurä spreckä.
+rs	52700	Losino	1	Ick versta gug nich, gü motte eie betzke luder spreke.
+rs	5271	Przyborowko	1	Ich verstih euch nich, ihr meßt a bissel lauter sprechen.
+rs	52714	Labiszewo	1	Ick verstoh jug nih, jie muta biska luda reda.
+rs	52722	Karwen	1	Ich verstoh jug nich, jie mudder nitzke lude spreke.
+rs	52755	Heubude (Stogi)	1	Eck verstoh ju nich, ju mete en beske luder rede.
+rs	52762	Skowronki	1	Ek vastoa ju nich, ju motten en bätken luda spreaken.
+rs	52766	Rowy	1	Jck verstoa ju nich, ji mäta a bitzka luder spräcka.
+rs	52767	Machowinko	1	Jck vastoah juh nich, ji mäte bitske lure spräke.
+st	5277	Gleboczek	1	Ick vestau ju ne ji möte a beit schiane rede.
+st	52816	Hela	1	Ick verstoh jug nich, ji möten e bätke harder rede.
+st	52819	Jaroslawiec	1	Ick vastoh juw nich, ji mäudde eie bitzke lure räre.
+st	52825	Krolowstrand (Królewice)	1	Jck vasta jug nich ji mäte eie biske lure spreke.
+st	52854	Drzezewo	1	Ick verstoh jug nich, ji mutte ei'e Bitzke luder spreke.
+st	52865	Niebedzino	1	Eck verstah juch nich, ju motte ein beske luder spreke.
+st	52871	Dabrowka Wielka	1	Eck verstah juh nich, juh motte he beske luder spräke (räde)
+st	52881	Luzino	1	Eck verstoh ju nicht, ju mott[e/ee?]n beske luder spräke.
+st	52887	Pogorze	1	Eck verstoh ju nich, ju mete en beske luter spreke.
+st	52896	Bialogora	1	Ick verstao juh nich, juh matoae bed ludae spraeckae.
+st	52905	Karwenbruch	1	Eck verstoh ju nich, jie mote en bedke luder spreke.
+st	5291	Gorki Noteckie	1	Ik verstoah ju nich, jü met'n en bitz lauter spräke.
+st	52913	Wladyslawowo	1	Ik verstoh ju nich ju mete en Be[s/ß?]ke luter spreke.
+st	52915	Lebieniec	1	Eck versta͡o ju nich, ju mete betke lauter rede.
+st	52927	Zelazna	1	Ick verstoh Juh' nich, Juh' mäta Bäetka luder reda.
+st	52936	Tylowo	1	Jk verschta ju nich, ju notte en betke luter schpreke.
+st	5305	Rapin	1	Ick verstoah ju nich, ji meten en bitsken lauter spraeken.
+st	5315	Pilka	1	Ik vestoa jug nich, ji möt e betzke sönne rede.
+st	5316	Rzecin	1	Ek vestau ju ne, ji meto abisko sgane reido.
+st	532	Zulawka Sztumska	1	Ech versteh euch nich, ehr mußt doller schrein
+st	5322	Tarnowko	1	Ick veschtau ju ne, ji möto a bißko sjane redo.
+st	5374	Groß Golle (Golaszewo)	1	Ick verstau ju näch, ji mötä a Bische ludä rädä
+st	5386	Lubicz	1	Ick vestoh ju ni, ji möte ah betke sähne rede.
+st	5397	Slonow	1	Ick verstoh ju ni, ji möte ä bätke lude rede.
+st	5402	Huta Szklana	1	Ick vestau ju ne, ji möütŏ a bitzkŏ seene reidŏ!
+st	5409	Marienbusch	1	Jck västau ju nî, ji mö͡ito a bißkô s[?]ane schpreikô.
+st	5421	Ostrowki	1	Ick verstau ju ni, ji möto a bis siäne schpreike.
+st	54871	Neuarad (Aradu Nou)	1	Ich verstehe enk nit, ihr müsst e' bissl lauter rede.
+st	54873	Bistritz (Bistriţa)	1	Ich verstō ich nät, er maeßt e winich (bizkn) la[u?]ter [korrigiert] rēdn.
+st	54878	Arzis (Artsyz)	1	Ich verstḕh aich nett, ihr mĕ́ssen a bißle laut'r rĕtta! (nicht sprechen)
+st	54897	Wolfswinkel (Wilczy Kat)	1	Ek vasto ju nech, ji motte e betzke luude reäde (spraäke).
+st	549	Przecmino	1	Ick vastoa schuw nich, schie meute ' bitzke lure rärĕ.
+st	54901	Zarobka	1	Ek vastau ju ne, ji möte a böszke lude rede.
+st	54902	Brzozowka	1	Eck vosto ju nech ji mote a bez lude räde.
+st	54906	Brzezno	1	Eck vaschto ju nech, ji motte e betzke lude rede.
+st	54909	Zbojenko	1	Ek vostoh ju nech ji mote bet lude rede
+st	5491	Brzezno	1	Ick verstaur ju ne, gie möto a beit sione reido.
+st	54912	Siemiatkowo	1	Eck vasto ju nech, ji motte e betz lū̆de rede.
+st	54913	Sompolno	1	Ik vestau chü ny, chü müjto a bejtkio lüdo redo. 
+st	54914	Sächsisch Regen (Reghin)	1	Ich verschton ich mät. Er maist ä winich lauter redn.
+st	54915	Elek (Elek)	1	Ich vrstia eich nid, tiar mést a pisla laudr rétă.
+st	54916	Freidorf bei Temeschwar	1	Ich vrsteh enk nit ihr miszt a bitzl lauter rede
+st	54917	Sarata (Sarata)	1	I verschtēh eich net, ihr miåßt å bißle lauter schwätzå.
+st	54918	Scheindorf (Sâi)	1	I versta ujh it Iehr mand e bitzle lauter schwetze
+st	54919	Fünfkirchen	1	Ih feštē eng net ez mists pisl lautə rēan
+st	54921	Iklad	1	Anunttreiszik. J fustē enk net, es mu͜asztz a piszl lauta sprechn.
+st	54922	Sanktanna (Sântana)	1	I farsté áih nét, tir mist a' pislé laudár réta!
+st	54924	Martinsdorf (Metiş)	1	Ech ve̊rschtīon ich net, e̊r meßt e bizke̊ leogder riede̊n.
+st	54926	Bentschek (Bencecu De Sus)	1	Ich vrsteh eich nett, tir misst a bisl lautr rede
+st	54929	Agnetheln (Agnita)	1	Ech verstion ich net, er messt e bätzken leohter reden. 
+st	54930	Gottlob	1	Ihr verstehe eich nit, ihr musé é bisl härtér redé
+st	54932	Klein-Schemlak (Semlacu Mic)	1	Ich verschtéh eich net, ehr mißt o bißche loŭdr rede
+st	54933	Sankt Andreas (Sânandrei)	1	Ich v’rsteh Eich net, dir misst e bisl hɑ̈rter redde.
+st	54935	Neuwerbas (Novi Vrbas)	1	Ich fəste eich net, er mise e pische hertər (laudər) redə. 
+st	54937	Groß Scham/Freudenthal (Jamu Mare)	1	Ich versteh euk net, dir misst e bissel laŭder redde
+st	54938	Torschau (Savino Selo)	1	ix fyϭtè aex net ear miʃe ĕ̷ piʃxi̯e hartr re̩đĕ̷̃
+st	54939	Weprowatz (Kruščić)	1	Ix fyrste ăex nedʰ ir meʃt å pisl lăudr reͥdĕ
+st	54941	Neue Weingärten (-)	1	Ich versteh eich net, ihr messt as bissle lauter reda.
+st	54942	Seimeny (-)	1	Ich verschteh eich ne̽tt, ihr méßn a bißle lauder spreche.
+st	54943	Neubeschenowa (Dudeştii Noi)	1	Ëich v'rsteihn ëich neit, deir misst bissch'n härt'r reid'n.
+st	-55055	Oborki	1	Ek vasto ju nech, ji motte ä betzke (kohenke, drepke) lude rede (spräke)
+st	-55064	Zale	1	Ech versto ju nech, ji mot e beetje luede rüde.
+st	-55066	Zuromin	1	Ich versteh nicht, ihr müßt lauter sprechen.
+st	-55070	Grudusk	1	Ich verstehe euch nicht, ihr müßt bißchen lauter sprechen!
+st	-55072	Ostroleka	1	Ich verstehe euch nich', ihr müßt e bißchen lauter sprechen.
+st	-55081	Ciechocinek	1	Eck vostoh ju neck, ji motte e betzke lude rede.
+st	-55091	Skepe	1	Eck vosto ju nech, ji mote e beske luede riède.
+st	55094	Gradzanowo Koscielne	1	Ik verstone ju nech, ju mot e bets luder riede.
+st	-55096	Modelka	1	Ek vastoh ju nech, ji motte betzke lude spreke.
+st	-55099	Makow Mazowiecki	1	Ich verstan ju nie, ji mit abischto ludo redo.
+st	55106	Susk	1	Ek voschto ju nech, ju modda eija beske sane riede.
+st	-55107	Zawidz Koscielny	1	Ek vasto ju nech ju mote ə betzke luder spriəkə
+st	55109	Kondrajec Szlachecki	1	Ek verstoh ju nech, ju mot etwas luder vertale.
+st	-55110	Kicin	1	Ek vastoa ju nech, ji mottä ä bät ludä rädä.
+st	55111	Szostka	1	I[hh?] [korrigiert] verstehe euch nicht, ihr müßt la[ut?]er [könnte auch „al“ sein] reden.
+st	-55113	Kujawka	1	Ich versteh eich net, ehr missen bißche lauder redde.
+st	55116	Osiek	1	Ek vastoh ju nech, jih mote e betz lude rede.
+st	-55117	Nowe Karwosieki	1	Ek vastoh ju nech, ji mete e beske lude rede.
+st	-55129	Lenie Male	1	Eck vasto ju nech gi motte betzke lude rede.
+st	-55133	Meczenino	1	Eck farstuo ju nich, ju mati i beßki luter redi.
+st	-55135	Dzierzaznia	1	Ich versteh Eich nich, ihr müßt 'n bißchn lauter sprechn.
+st	-55137	Konary	1	Etch vastah ju nech, ji mot e betstje lude spriäke.
+st	-55139	Kozy	1	Ik verstau jiug nüscht, jiug möte a bißke le͜ūdŏ reedŏ.
+st	55140	Zglowiaczka	1	A. Ich versteh eich nicht, ihr mißt ein bißchen lauter sprechen. B. I varsteh eich net, ihr messat a bissle laudar schwäza.
+st	55163	Grabkowo	1	Ik vaschtau juk nö, jik mit ludo reido. 
+st	-55164	Wieslawice	1	Ek verstoh ju nech, ji mot a betzke lude rede.
+st	-55166	Budy Borowickie	1	Eck vostoh ju nech, ji motte e betz lude rede.
+st	-55169	Orszymowo	1	Ech vostoh ju nech, ji nette bez lude reede
+st	-55171	Nowy Dwór Mazowiecki	1	Eck fastoh ju nech, ji motte e betke lude rede.
+st	-55173	Kozie Glowy	1	Ich verstieh euch nich, ihr mäßt a bissel lauter rädn.
+st	-55177	Brdow	1	I vesteh eng net, es moits a bi:ßerl höller re:n.
+st	-55181	Psary	1	Ick västau ju ne̊i, ji möïte̊ a bitzke̊ lude̊ räde̊.
+st	-55187	Nowa Wies	1	Eck vasto ju näch, jü mote pitke lude rede
+st	-55189	Miszory	1	Ek vastooh jie nech, ji motte beetke senner reede.
+st	5519	Berka v.d. Hainich	1	Ech verstieh och nett, deu mött ä bischen luter schpräch.
+st	-55191	Secymin Polski	1	Eck verstau ju nech ihr mot te [?]iitge luder riade.
+st	55210	Niechcianow	1	Ich versteh euch nicht, ihr müßt ein bißchen lauter sprechen.
+st	-55216	Kaptury	1	Ek vasto ju nuscht, ji mote ä betz lude riede.
+st	-55218	Stare Miasto	1	Ich verstieh eich nich, ihr mässt a bissel schärfer rädn!
+st	-55226	Tarnowka	1	Ich verstehe eich nicht, ihr mißt ein bißchen lauter sprechen
+tu	-55238	Zychlin	1	Ich verstehe eich nich, ihr mißt a bissel lauter reden.
+tu	-55240	Kopojno	1	Ich verstehe eich nich, ihr müßt ein bißchen lauter reden
+tu	55244	Natalia	1	Ich kann euch nicht verstehen, ihr müßt etwas lauter reden.
+tu	55252	Potrzaskow	1	Ich verstehe euch nicht, ihr müßt ein bißchen lauter sprechen. 
+tu	-55254	Szamow	1	Ich versteh eich net, ihr müßt a bißle lauter schwätze.
+tu	-55258	Wierzchy	1	Ich versteh eich nich, ihr missta bissel serrer reden.
+tu	-55261	Gadowskie Holendry	1	Ich verstieh euch nich, ihr meßt ein bißel scherfer reden.
+tu	-55262	Turek	1	Ich kann euch nicht verstehen, ihr müßt etwas lauter sprechen.
+tu	-55266	Sarbice	1	Ik vestoh ju ne, ju maute laute rede.
+tu	-55269	Zimne	1	Ek vestau ju ne, ji meete a bezke laute spreike
+tu	-55270	Leczyca	1	Ich verschteh eich net, ehr missen e bißche härter redr.
+tu	55271	Piatek	1	Ich versteh eich net ejr müssen bißje lauter rede.
+tu	-55300	Goliszew	1	Ich versteh eich net, ihr mißt a bißche härter rede!
+tu	55305	Poroze	1	Ich konn oich nich verstiehn, ihr meßt a bißl schärfer riädn
+tu	-55306	Rzymsko	1	Ich verstej eich nich, ihr müßt ein bißchen lauter sprechen.
+tu	-55308	Baldrzychow	1	Ich versteh euch nicht, ihr müßt ein bißl lauter reden.
+tu	55320	Sanie	1	Ich vasteh eich nich, ihr mest a bißl lauta sprechen
+tu	-55322	Marianow	1	Ich verstehe euch nicht, ihr müßt ein bißchen lauter sprechen.
+tu	-55326	Jozefow	1	Ich verstieh Euch nich, ihr messt lauder reden.
+tu	55330	Morawki	1	Ich verstey enk nid ihr meits o bißl [?]holo sin.
+tu	-55331	Rzepiszew	1	Ich versteh eich nicht, ihr mißt a bißl lauter reden.
+tu	-55338	Justynow	1	Ich vasteh eich nich, brillt a bissel.
+tu	-55344	Slomkow Suchy	1	I vosteh eng net, des muet's a bissl heller ren.
+tu	-55349	Markowka	1	Ich vesteh eich nich, ia meßt a bißchn lauta sprechn.
+tu	-55350	Rzgow	1	Ich versteh eich net, er müssen o bisele lauda rede.
+tu	-55354	Laznowska Wola	1	Ich versteh eich nich, ihr mißt a bissel lauter redn.
+tu	-55359	Kiebitztal (Kuznica)	1	Ich versteh eich net, ihr müßt's a bisl stärker red'n.
+tu	-55360	Ostrow	1	Ich kann euch nicht verstehn, ihr müßt ein bißel senner sprechen.
+tu	-55361	Wielka Wies	1	Ich kann es nicht verstehen, ihr mißt lauter sprechen.
+tu	-55362	Suchcice	1	Ich höre nicht, sprecht lautr.
+tu	-55363	Siemkowice	1	Ich versteh' eich net, ihr meßt a bissle lauter schwätza.
+tu	-55365	Dobroslaw	1	Ich versteh's nicht, ßeih lauter.
+tu	-55366	Belchatów	1	Ich kann Eich nich verstehn, Ihr mißt e bissel lauter reden.
+tu	-55373	Luszczanowice	1	Ich verstehe euch nicht, sprecht lauter.
+tu	-55375	Ozarow	1	Ich verstehe euch nicht, ihr müßt ein bißchen lauter sprechen.
+tu	-55376	Jaworzno	1	Ich versteh eich nicht, ihr mißt lauter reden.
+tu	-55377	Natolin	1	Ich verstih euch nicht, ihr müßt a Bissl lauter redn!
+tu	-55382	Czarny Las	1	Ich versteh eich net, ihr müßt a bissel lauter rede.
+tu	-55383	Huta Stara A	1	Ich verschteh eich ni, ijr mißt a bißl lauter schprechn.
+tu	55384	Myszkow	1	Ich verstehe euch nicht, ihr müßt ein bißchen lauter sprechen.
+tu	55387	Dabrowa Gornicza	1	Ich verstehe euch nicht, ihr müßt etwas lautr sprechen.
+tu	-55389	Kwaczala	1	Ich versteh eich net, ihr müßt lauter redde.
+tu	-55394	Freistadt (Fryštát)	1	Ich verstehe euch nich, ihr müßt etwas lauter sprechen.
+tu	-55408	Bistritz (Bystrice Nad Olsí)	1	Ich verstehe euch nicht, ihr müßt etwas lauter sprechen.
+tu	-55411	Radziechowy	1	I versteh ein nit, deis müßt a bißl heller reden
+tu	-55415	Skomlin	1	Ich versteh eich nicht, ihr müßt lauter reden (sagen).
+tu	-55416	Kamesznica	1	Ich vastäih enk niät, diät möit's a biß'l heller riäd'n!
+tu	-55418	Schönwalde (Wrzosy)	1	Ek vosto ju nech, ji mote e bet lute rede.
+tu	-55425	Wyszewo	1	Ick verstoh juch nich, jie möte ein bietscher lurer spräke
+tu	-55522	Nojewo	1	Ich verstehe euch nicht, ihr mißt lauter sprechen.
+tu	5717	Illeben	1	Ech verstiehe och nech, die mott aen beschen lautr spraech.
+tu	573	Lykowo	1	Ick vostâh jouw nich, jî mote ein bä̂t lûre rä̂re.
+tu	5730	Gebesee	1	Ech varstihn uch nech, ihr modd a beschen lud’r sprach(j)
+tu	5752	Thalborn	1	Jch verstih eich nech, ihr moßt ä beschen lauter spräche.
+tu	5774	Nirmsdorf	1	Ech verschtie eich nech mößt ä beschen lauter schwahtze
+tu	5810	Crölpa-Löbschütz	1	Ich varrstiehe euch nich, dr mußt a bischen lauter rädn.
+tu	5827	Krössuln	1	I[i]ch verstieh eich nich, ihr mißt ä bißchen lauter spräche.
+tu	584	Dunowo	1	Jck västau juch nich, ji moata eia beitscha lure spräka
+tu	5863	Michelwitz	1	Iche verschtieh eich nich, d'r mußt e wing lauter spräche.
+tu	5867	Hollenbach	1	Ich verstieh uch nich, die mutt en bischen luter schprache
+tu	5875	Schlotheim	1	Ich verstiehe uch nich, ihr müßt ein Bischen lut sprechen.
+tu	6074	Obertopfstedt	1	Ech verschteh uch nech, dö mutt a beschen luhter schpräche.
+tu	6089	Etzleben	1	Ech versteihe uch nech, ehir meßt ä beschen luter spräche.
+tu	6105	Allerstedt	1	Ech verstieh eich nech, ihr mißt ä bischen lauter spräche.
+tu	6116	Gleina	1	Ich verstiehe eich nich, d'r müßt e bischen derber schreie.
+tu	6129	Kleinkayna/Kleinkaina	1	Ich verstiehe eich nich, ihr mißt ä bischen lauter spräche.
+tu	6168	Rehbach	1	Ich versteh eich nich, ihr mißt ein bischen lauter sprechen.
+tu	6171	Mengelrode	1	Ich verstäh uch nitt, de mit en bisschen luder sprächen.
+tu	6185	Kirchworbis	1	Ich verstäh uch nit, di muth enn bischen luter schprache.
+tu	6196	Grosswenden	1	Ich verschtäh uch nich, dih mit an bischen (luther, hehrer) sprache
+tu	6341	Auleben	1	Ich verstieh uch nich, de mitt änn Bischen luter spräche.
+tu	6359	Hackpfüffel	1	Iech värstehe uch nich, de mißt ä bischen luter spräche.
+tu	6371	Mittelhausen	1	Ich verschtieh eich nich, ihr müßt ä Bischen lauter spräche.
+tu	6388	Stedten	1	Ich verstihe eich nich, dr mißt ä bischen lauter sprächen.
+tu	6400	Ammendorf	1	Ich verschtie eich niche, dr͜mist äh bischen lauter schwatzen.
+tu	6418	Glesien	1	Ich verschtehe eich nich, ihr mißt e bischen lauter schprechen?
+tu	6426	Zwinge	1	Eck verstaa jök nich, jie mötet en betchen lür swatzen.
+tu	6472	Stolberg (Harz)	1	Ich versteh uch nich, die mißt ein bischen luter spräche.
+tu	6577	Walkenried	1	Jch verschteh' uch nich, misst 'n Bischen lūter schwatze. (krehle.)
+tu	6593	Königerode	1	Ich versdäh uch nich, de mißd änn bischen särr'r schwazzen.
+tu	6610	Vatterode	1	Ich verstihe eich nich, ihr mißt ä bischen lauter sprächen.
+tu	6630	Freist	1	Ich verstiehe eich nich, ihr mißt in bischen lauter schwatzen
+tu	6656	Drehlitz	1	Ich verstihe eich nich, ihr mißt ä bischen lauter sprechen.
+tu	6660	Möst	1	Ich verstehe eich niche, ihr mißt a bischen lauter sprechen.
+tu	6682	Ramsin	1	Jch verschtehe eich nich, dr misst ä bischen lauter schwatzen.
+tu	6690	Braunlage	1	Eck verschtahe jiech nich, jie mötten en betchen harter spräken
+tu	6705	Rieder	1	Eck verschtae jich nich, ji mett'n en bettchen harter schwatzen.
+tu	6793	Riefensbeek	1	Eck varstah'n jöck nich, ji möttet en betten lu'er spröcken.
+tu	6801	Neuwerk	1	Ek vorschtae giech nich, gie metten en bettchen harter schpräken.
+tu	6821	Aschersleben	1	Eck verstahe jich nich, jih müssen an betsken lauter sprechen.
+tu	6831	Gröna	1	Ich vorstehe eich nich, ihr mißt a bischen lauter schprechen.
+tu	6848	Elsdorf	1	Ich verstiehe eich nich, ihr müßt a bischen lauter sprechen.
+tu	688	Pregowo Zulawskie	1	Eck versto͡a ju nich, ji motte en Bä[k/t?]ken luder spräke.
+tu	6891	Danstedt	1	Eck verstahe jiech nich, jie möt'n bettchen luer spräken.
+tu	6960	Abbenrode	1	Ick vorstahe jich nich, jie mött'n bett'n luer spreken.
+tu	6981	Emersleben	1	Eck verstahe jüch nich, jie mött'n bettchen luer spreken.
+tu	6995	Egeln	1	Ick verstå ju nich, ji mötten en bettken lauter schpräken.
+tu	7007	Eickendorf	1	Ick verschtahe juch nich, jü mötten an bechen luter lauter schwatzen. (schpräken.)
+tu	7022	Kämeritz	1	Ick verstoa jau nich, jei müeden en bätgen luder schwatzen.
+tu	7033	Natho	1	Ick versteh jo nich, jä methen in bisken luere schwatzen.
+uv	7180	Liemehna	1	Ich verschtiehe eich nich, ihr müßt ä Bischen lauter schprächen.
+uv	7198	Röcknitz	1	Ich verstië eich nich, ihr mißt ä bischen lauter räeden.
+uv	7212	Lausa	1	Ich verschtie=e euch nich, iär mißt ä bischen lauter schprächen.
+uv	7225	Kosilenzien	1	Ich verschtiehe eich nich, är misst'n bischen lauter sprechen.
+uv	7246	Kahla	1	Ich verstihe eich nich, ihr mißt'n bischen lauter sprechen.
+uv	7253	Ruhland	1	Ich verschtehe eich nich, ihr müßt e bißchen lauter schprechen.
+uv	7263	Lauta	1	Ich verstehe eich nich, ihr müßt ë|in bischen lauter r[ā?]=ä=den (sprechen).
+uv	7363	Brösa	1	Ich verstehe eich nich, ihr müßt a bischen lauter schwatzen.
+uv	7371	Falkenberg	1	Ich verstehe eich nich, ihr mißt ein bischen lauter sprechen.
+uv	7384	Rosenfeld	1	Ich verstehe eich nich, ihr mißt ä bischen lauter sprechen.
+uv	7394	Wiederau	1	Ich verstehe eich nich, är mißt en bischen lauter sprech'n.
+uv	74	Gwiezdzin	1	Jck vastau jü ni, jü moite laute redn.
+uv	7412	Lugau	1	Ich verschtehe eich nich, ihr müßt [in?] Bischen lauter reden.
+uv	7427	Dollenchen	1	Ich verstehe eich nich', ihr müßt s a bischen lauter sprechen.
+uv	743	Rudki	1	Jck vastau jug ni, gi möta an beit, lute spräke.
+uv	7435	Petershain/Neupetershain	1	Ich verstehe eich nicht, ihr müßt ein bischen lauter sprechen.
+uv	748	Budy	1	Jck vestau jug ni, ji muitä eä beit seä spräkä.
+uv	7529	Schleesen	1	Ich verstehe eich nich', ihr müßt 'n bischen lauter sprechen.
+uv	7546	Bleddin	1	Ich kann euch nich verstehn, d'r misst'n Bischen lauter räden.
+uv	7562	Klossa	1	Ick verstehe ach nich, gi missen in bisken luter schrien.
+uv	7576	Werchau	1	Ick verschteh' auch nich, ji missen enn bisken lauder reäden.
+uv	7586	Wendisch Drehna/Walddrehna	1	Ick kann auf nich verstehn, hei müßt mehr schreien.
+uv	7596	Schlabendorf	1	Ich verschtehe eich nich; ihr müßt e' Bischen lauter reden.
+uv	760	Zakrzewo	1	Jck vastau giü nie, gie moita a bitzke sonna reda.
+uv	7688	Straach	1	Ick versto͜ahe jo nich, je mütt'n en bätken luter spräk'n.
+uv	769	Nowy Dwor	1	Jck fastah gie nih meuta bitz söna reda.
+uv	7696	Rahnsdorf	1	Ick verschteh jo niche, jä miethen in bisken luter räden.
+uv	7710	Rohrbeck	1	Ick verste͡ah ju nich, ja͡i mieten en Bisken luder räden.
+uv	7721	Wahlsdorf	1	Ick versteh jau nich, jei möten en bisken luder spreken.
+uv	7732	Hohendorf	1	Ick verstehe och nich, je müssen en bisken luder reden
+uv	7747	Treppendorf	1	Ich versteh eich nich, ihr müßt ein bischen lauter sprechen.
+uv	7758	Sacrow	1	Ich verschtee eich nich, ihr müßt bischen lauter reden.
+uv	7964	Zedtlitz	1	Ich verstieh eich nich, är mißt ä bischn lauter sprachen.
+uv	7979	Hohnbach	1	Ich verschtihe euch nich, iär müßt a bischn lauter riäd'n.
+uv	80004	Grindelwald	1	I verstahn ach nid, iehr muesst en Bitz lyterrer brichten. 
+uv	80023	Bosco	1	Éch farštō-nich net, éer müassut as bettsalti mē bliara.
+uv	8011	Ziegra	1	Ich verschtih euch nich, ehr müßt a bischen lauter sprajen.
+uv	803	Lunawy Male	1	Ek vost[ŏ?] ju nicht, gi mutta eä biskä ludä räde.
+uv	8032	Rausslitz	1	Ich verstieh'ch nischt, ähr mißt bischen lauter räden.
+uv	8055	Coswig	1	Ich verstiehe euch ni, ähr mößt a Bißchen lauter sprechen!
+uv	8075	Langebrück	1	Ich vurschtiehe euch ni, ihr müßt a bischen lauter schprechen.
+uv	8092	Frankenthal	1	Ich verstieh euch ne, ihr mößt a bissel lauter sprechen.
+uv	821	Bukowiec	1	Ik vestah ju nich, ji motte ä betsge luute reede.
+uv	8272	Fuchshain	1	Ich kanns eich nich verstiën, är m[i?]ßt a bischen lauter räden.
+uv	8289	Nerchau	1	Ich värschdehe eich nich, ihr mißd ä bischen lauder schprächen.
+uv	83	Charzykowy	1	Jg vastau ju ni, jü moite a bitzke stake räde.
+uv	8305	Limbach	1	Ich verstiehe euch nich, iĕr meßt a bischen lauter räiden.
+uv	8321	Mergendorf	1	Ich verstihe euch nich ähr mißt eh bischen lauder schprächn.
+uv	8345	Rostig	1	Ich verschtieh euch nich, ehr müßt ä Bischen lauter reden.
+uv	8358	Steinborn	1	Ich verstih euch nie; ihr müßt a Bischen lauter rähn.
+uv	8368	Bernbruch	1	Ich verstihe euch nu, ihr mößt e Bissel lauter redn.
+uv	8505	Dretschen	1	Ich verschtieh eüch nä, ihr müßt a biss'l lauter räden (schprechen).
+uv	8519	Kittlitz	1	Ich verstieh euch nä, ihr müßt a byss'l lauter rjäden.
+uv	8532	Kunnerwitz	1	Ich verschtiehs euch ne, ihr müßt a Bissel lauter riäden.
+uv	8546	Siekierczyn	1	Ihch verstieh euch ne, ihr mißt a bissel lauter sprech’n.
+uv	8560	Wolbromow	1	Ich vrschtieh euch nä, ihr müßt a bis'l laut'r red'n.
+uv	8574	Pieszkow	1	Ich verstie euch ne, ihr müßt a bißel schörfer riada.
+uv	8590	Prusice	1	Iich virschtieh euch nĭ, ihr mißt a bißla lauter reda.
+uv	8614	Ogonowice	1	Eich verstih euch nie, ihr müßt a bißel loter sprecha.
+uv	8716	Förstgen	1	Ich verstiehe euch nicht, ihr müßt ein bischen lauter sprechen.
+uv	8726	Ober Horka I	1	Iech verstieh euch nu, ihr (äer) müßt a biss'l lauter räden.
+uv	8736	Wegliniec	1	Ich verstieh euch ne, ihr müßt a bissl lauter redn.
+uv	8740	Kierzno	1	Ich verstih euch ni, ihr müßt a bissel lauter sprechen.
+uv	8751	Szczytnica	1	Ich verstih euch ni, ihr mißt a bissla lauter sprecha.
+uv	8762	Göllschau (Goliszów)	1	Ich verstih euch nie, ihr müßt a bissl lauter sprechen.
+uv	8777	Bieniowice	1	E-ich verste-ih euch nie, ihr müßt a bissel lauter sprechen.
+uv	880	Strzeczona	1	Ich vaßtau jie ne, jie miütte a bitzge sönne räde.
+uv	8852	Klein Priebus	1	Ich verstieh euch ne, er mißt a bissel lauter sprechen.
+uv	8858	Okraglica	1	Ich verstih euch ni, ihr müsst a bissel lauter reden.
+uv	8865	Koberbrunn	1	Eech verstieh Euch ne, err mißt a Bißl laoter sprechen.
+uv	8870	Armadebrunn (Studzianka)	1	Eich versteih euch nie, ihr mußt a bissel loater sprechen.
+uv	8878	Trzmielow	1	Eich versteih eich nei, eir müßt a bissel laauter schprechen.
+uv	8888	Skladowice	1	Eich verstei euch nich, eier müßt a bissel lauter sprechen. 
+uv	895	Jelencz	1	Ick vestau ju ni, ji moite a bitzke lute räde.
+uv	8972	Cantdorf	1	Ich verschtehe eich nich, ihr mißt bischen lauter reden.
+uv	8981	Eichwege	1	Ich verstehe eich nich, ihr mußt bissel lauter reden.
+uv	899	Iwiec	1	Ick vastau gie ni, gie meuta bitzka lauta räda.
+uv	8990	Jedrzychowice	1	Ich verstiehe euch nicht, ihr müßt ein bischen lauter sprechen.
+uv	9000	Kunzendorf (Kunice)	1	Ich verstih eïch nich, ihr misst a Bissel lauter sprā͡ichen.
+uv	9015	Chichy	1	Ich verstieh euch nie, ihr mißt a bisser lauter riäden.
+uv	9025	Przeclaw	1	Aich versteih oich ni, ehr mi͡jsst a bissang lo͡ater spräch'n.
+uv	9036	Jakubow	1	Eich verstei euch ni, ehr mißt a bissoa loter sprechen.
+uv	9052	Rzeczyca	1	Eich versteih ch nie, ehr mißt a bissel lauter riden.
+uv	906	Busnia	1	Ek vastoh ju nech, jie motte e bet lute rede.
+uv	9143	Mehlen	1	Ich verstehe eich nich, ihr mißt en bischen lauter riaden.
+uv	9152	Dluzek	1	Ich verschtieh euch nich, ihr meßt een bischen lauter soin.
+uv	9163	Bialowice	1	Ich verstieh euch nich, ir mißt a bißel lauter sprechen.
+uv	9179	Broniszow	1	Eich versteih Euch ni, err misst a Bissang lauter sprächen.
+uv	9193	Alt Tschau (Stare Żabno)	1	Eich versteih euch nie, ehr müßt a bissang lauter schprechen.
+uv	920	Lisie Katy	1	Ek verstoah ju nich, jih motte e biske luder räde (sprecke).
+uv	9200	Grochowice	1	Eich versteih o͡ich nie, eir müßt a bisso sirrer schreen
+uv	9207	Konradowo	1	Eich verschteih oich nie, äir müsst a biss[o?] laouter schprechen.
+uv	9274	Staakow	1	Ich veschtehe eich nich, ihr mißt'n bischen lauter reden.
+uv	9280	Kaltenborn	1	Ich verstehe eich nich, iähr mißt en Bischen lauter riäden.
+uv	9288	Czeklin	1	Ich verstiehe euch nich, ihr müßt ein bischen lauter sprechen.
+uv	930	Goczalki	1	Ich versteh eich nich, ihr mißt en besche lauter spreche.
+uv	9303	Lubiatow	1	Ich verstieh euch nich, irr messt a bissl lautr reiden.
+uv	9314	Zielona Gora	1	Ich verstieh euch nich, ihr mißt a bissel lauter sprechen.
+uv	9323	Zabor	1	Ich versteih euch nich, ihr müßt a bisl lauter rīden.
+uv	9335	Ciosaniec	1	Eich versteh eich nie, eir müßt a bissang sirrer schrein.
+vw	9400	Miloszyce	1	Ich verstiehe euch nich, ihr müßt a bischen lauter sprechen.
+vw	9417	Prietzen	1	Ĭch verrstieh euch  nich īhr mißts a bis'l laut'r soin.
+vw	9433	Ujazd Gorny	1	Ich verstieh ich ni, ihr müszt a biszla lauter räda!
+vw	9453	Lisowice	1	Eech verschteh euch ni, ehr müßt a bissel lauter schprechen.
+vw	9558	Ligota Piekna	1	Eich versteie euch nich, eir müsst a bissl lauter schpräch'n.
+vw	9579	Jenkowice	1	Aich verstaih oich nich, aier mußt a bissel lauter reden.
+vw	9592	Jemielna	1	Ich verstih euch nich, ihr misst ein Bischen lauter sprechen.
+vw	9612	Prawikow	1	Eich versteih euch ni, ei'r mißt a bissel laoter sprechen.
+vw	9622	Warzyna	1	Eich versteih euch nich, eir müßt a bissel laater sprech'n.
+vw	9717	Domanowice	1	Eich versteih euch nie, eihre mißt a bissel lauter sprechen.
+vw	9739	Kamien	1	Ich versteh euch nicht, ihr müßt ein Bißel lauter sprechen.
+vw	9760	Krzelow	1	Ich versteih euch nie, eihr müszt a bissel lauter readen.
+vw	9775	Staszowice	1	Äich versteih euch nich, ihr mißt a bissel lauter riäden.
+vw	9799	Lazy Wielkie	1	Aich verschtai euch ni, aihr müßt a bissel lauter schprechen.
+vw	983	Gromaden	1	Jck västauh ju ni, Ji mötä ä bitz sönnä rädä.
+vw	984	Friedberg	1	Ick västau ju nie, ji mö͡itä eä bitzkä lutä rädä.
+vw	9848	Godnowa	1	Eich versteih euch nich, eihr mißt a bissel lauter sprechen.
+vw	9877	Chroscina	1	Eich versteih oich nie, är müßt lauter riäden.
+vw	9891	Gosciejewice	1	Eich verstieh euch nie, er mißt a bißel lauter sprechen.
+vw	99	Trumiejki	1	Oeck vorrsta͡oh ji nich, ji motte e bösske luter spröke.
+vw	990	Walownica	1	Jck vastoh ju nigg, gi möte lude spreke.
+vw	9903	Sonnenfeld (Orpischewo)	1	Eich vurstei euch nich, eier ist a bissel sirrer sprechen.
+vw	9919	Wierzowice Male	1	Eich versteih' euch nich, eir müsst a bissel lauter sprechen.
+vw	9926	Wodniki	1	Eich versteih euch nie, ehr müßt a Bisso loater sprechen.
+vw	994	Kabat	1	Eck vastoh ju nech, gie mote eh betske senne rede.
+vw	9984	Morkowo	1	Eich vursteih euch nie, ähr mißt a biss'l lauter spraich'n.
+vw	54872	Reval	1	Hich kannöjch nich wer[š]tēn, hīr müst hein Pisschen louter [š]prechen
+vw	52353	NA	1	Ick verstoh juch nich, ji mote betzke luder spreke
+vw	30173	Ajoncourt	2	Je n'voo comprāme i fō pŏlèe i po hō.
+vw	30197	Vaxy	2	J'enne vo compramme, ve devrin pâlait in po pu hâ.
+vw	30214	Bénestroff	2	Je ne vos comprâme y fa quevé palinse in to po pu hât.
+vw	30225	Attilloncourt	2	Je ne te comprann, pale impo pu ha.
+vw	30248	Bezange-La-Petite	2	je ne vo compramme, i fo pḕlé in po pu hō
+vw	30254	Maizières-Lès-Vic	2	Je n'vo comprame pâlô ain pô pu hât.
+vw	30268	Richeval	2	Je ne vos comprame, palai in po pi hât.
+vw	30285	Lommerange	2	Jé ne vé compend me il faut que v'eausin in pé pus haut.
+vw	30314	Argancy	2	Jeu n'vo comprend'me, pâleu y pou pu haut.
+vw	30325	Vernéville	2	 Je' n'võ comprenme, paleu in pou pu haut
+vw	30351	Ancy-Sur-Moselle	2	Je ne vo comprenme, vo deveu pâlet in pô pu haut.
+vw	30361	Orny	2	J'enne vo comprenme, vé dev[ien?] pâlé i pou pu haut.
+vw	30374	Hémilly	2	Je ne vo conprem ve deveu y pô pâleu pû hô
+vw	30379	Champenay	2	Jenn wo kompran mi, wo dui pualä en koj pü hah.
+vw	30410	La Petite Lièpvre	2	Dje ne vo compra mi, et faut  que vo pâlunss ie pong pu haut. / Je ne vous comprends pas, il faut que vous parliez un peu plus haut.
+vw	30421	Montreux-Vieux	2	Y ne vos comprends peu, vos dettes pailê inpos pus hâ.
+vw	30429	Xhoffraix	2	Ju ne vos comprind nin, i fait jaser o po plus haut.
+vw	30436	Pont	2	Dju n'vu comprin nin, i fâ djâsé on pô pu hô.
+vw	30058	Karkelbeck	3	Aſz ne permanau jus, jus turit maźumele aiſzkiaus kalbeti.
+vw	30068	Kinten	3	Asz ne permanau jusu, jus turit maźuma aiskiaus kalbēti.
+vw	30078	Rudienen	3	Aſz jus ne permanau jus turit mazuma aiſzkiaus kulbet (sic?).
+vw	30083	Kolleschen (Kolletzischken)	3	Aſz jus ne ſuprantu, jus turit aikſzkaus kalbeti.
+vw	-54895	Warszawa	10	ixχ̮ fəršdąi aix nid, īər misd ąin bisəl̥ lǭtərə rę̄idən (‘sprechen’ ist nicht üblich).
+vw	9746	Kobyla Gora	10	Iich verſtaih eng niſcht, ihr müßt a Bisel höcher ſchprechen.
+vw	46572	Nebel	11	Ik forstun jam egh, jam mut an bætj gratamar snaka.
+vw	46636	Hooge	11	Ick verstöen jeam ä, jeam möen ean baitjea  harder schnaekea.
+vw	46640	Wobbenbüll	11	Ick verstöön jem äg, jem mon en bäitje heller snackie.
+vw	46699	Horsbüll	11	Ick varſtuinn jemm ni, üm muittn beitet huger ſchnacke.
+vw	46759	Oland	11	Ik verstöhn jam e, jam mön litjet harder schnake.
+vw	46773	Mönkebüll	11	Ik verſtöun jem ä, jem möune en betje  doller ſnake.
+vw	46888	Archsum	11	Ik forstuun ju ek, I mut en bett gurtemer snakke.
+vw	47862	Helgoland	11	Ik verstónn djém nĕ / , djém mŏ́t em bĕ́tjen dichter snakke.
+vw	48241	Wangerooge	11	Ik verſtaun jo nich, jum muttet bitik luter ſprick.
+vw	F002p	Hindeloopen	11	Iek festaan jimme naàt ( of: jimment), jimme mutte 'n lik hadder praatje 1)
+vw	B079p	Zurich	11	Ik forstean jimme net, jimme moatte in bijtsje lûder prate.
+vw	F036p	Oudemirdum	11	Ik fəstean jĭ̀mə nĭ̀t, jĭ̀mə mŭ̀tə ən bĭ́tsjə lū́dər prā́tə.
+vw	F003p	Woudsend	11	Ik fersté jùn nèt, jìm moette ǝ bitše hùddǝr práte
+vw	B084p	Wommels	11	Ik ferstean jim net, jim moat in bijtsje lùder prate
+vw	F013c	Oudehaske	11	Ik ve(r)stean jimme net, jimme mutte een bietsje lôeder prate.
+vw	B094p	Grou	11	Ik kεn jɩm(ə) nεt fərstɩ'ən, jɩm(ə) m(w)atə ʋɔt/ən bɩ̇tsjə lu:dər pra:tə.
+vw	B024b	Wijns	11	Ik fəstɪən jɪm net, jɪm mu̯atə ən bitšə lu:dər pra:tə
+vw	B099a	Opeinde	11	Ik forstean jimm' net, jimme moatte in bytsje lûder prate.
+vw	B035a	Zwagerbosch	11	Ik festjin jimme net, jimme matte een bietsje loeder prate.
+vw	B014p	Paesens	11	Ik forston jim net, jim mat wat loeder prate.
+vw	G001b	Appelscha	11	Ik verstea jim net, jim matte een bietsje hudder prate
+vw	46905	Westre	12	NEU (Buchstaben korrigiert): É forstäer jer iend, I mo snak é bitt hüer.
+vw	46914	Sophiental	12	NEU (Buchstaben korrigiert): Æ forstōr jer int, I maa snāk e lĕdt hÿe.
+vw	46932	Sonderburg (Sønderborg)	12	E forʃtēĕ je itt, I ma ʃnak e lit höie.
+vw	46938	Lysabbelholz (Lysabildskov)	12	Ae fostäe jä it, i mo snak lit höie.
+vw	46939	Toftum	12	NEU (Buchstaben korrigiert): Æ' forstæer jer indt, i maa' snakk nov'er hyrr.
+vw	46948	Hönning (Hønning)	12	NEU (Buchstaben korrigiert): Æ forstæer Jer it, i maa snak æ lidt hyr.
+vw	46957	Beftoft (Bevtoft)	12	NEU (Buchstaben korrigiert): Æ forstæer jer it, I maae snak e ledt hÿe.
+vw	46968	Norder Wilstrup (Nørre Vilstrup)	12	NEU (Buchstaben korrigiert). Æ faastæer jer idt, i maa snak ledt hóier.
+vw	47006	List	12	E forʃteer jer ent, J maa ʃnak e let hödder.
+vw	47007	Jerpstedt (Hjerpsted)	12	NEU (Buchstaben korrigiert): Æ forttǣr jer it I ska snak e let hyr
+vw	47016	Ellum	12	NEU (Buchstaben korrigiert): Æ forstæer jer it, i maa s̃iet æ lit hÿrr.
+vw	47029	Kassöe/Kassö (Kassø)	12	NEU (Buchstaben korrigiert): Æ forstæer jer it, i maa snak e lidt hyer.
+vw	47040	Feldstedtholz (Feldstedskov)	12	NEU (Buchstaben korrigiert): Æd fodstæed Jed it, i maa snak æd lidt hye.
+vw	47048	Hagenberg (Havnbjerg)	12	Ä forsteä jä it, I maa snak e let höie.
+vw	47052	Hellwitt (Helved)	12	NEU (Buchstaben korrigiert): Æ forsteær Jer it, I maa snak lit hóier.
+vw	47057	Kamptrup (Kamtrup)	12	A faastoer Jer et, I maa snak ledt hÿv=er.
+vw	47066	Grönnebeck/Grönnebek (Grønnebæk)	12	A forstaae jer it, I maa snak lidt höier
+vw	47073	Tyrstrup	12	A faastaaer Jer it, I maa snak nov'r höier.
+vw	47078	Hvidding (Hviding)	12	Æ for∫taaer Jer it, I maa tael e lidt hóier.
+vw	56471	Merzdorf	41	Ja nėrosmeju wam, wü mußischo zoschku welgi pȯjedasch.
+vw	56504	Burg	41	Ja was nerosynim, wi dyrbicźe kusk wozischo rycźecź.
+vw	56507	Nochten	41	Ja wam njerosemju, wy dyrbicźe bólje [wós] wótsje rycźecź.
+vw	56520	Luppa	41	Njerozemju wam dyrbiće trochu wótŕišo ryčeč.
+vw	56694	Widno	42	Joh waju nie rozumniem, wa muszẏta zdzie[bko] głosni gadac!
+vw	56784	Zelistrzewo	42	Io wama nie rozmieję, muszyta troszke glosni gadac.
+vw	56785	Jastarnia	42	Jö wama nierozmiejo wa muszyta perzno glosnÿ gadac.
+vw	56799	Zalakowo	42	Ja wama nie rozumie, muszeta kąsk głosnie gadac.
+wx	56805	Sianowska Huta	42	Ja nerosmeÿe wama wa muszita konsk gosne gadaz.
+wx	56814	Rebiechowo	42	Jō wama nierozmieję, wa muszyta głosni mowic.
+wx	56846	Piechowice	42	Io wos nierozumie, wa museta kósek głosniej mówiec.
+wx	53478	Rombark	43	Ja wam nie rozumie, muszicie nie[č?]o głośni mowić.
+wx	53489	Rytel	43	Nie rozumie was, musicie cokolwiek głośniej mowić.
+wx	53514	Lubocien	43	ja wam niero zumiem, musicze trochę głośn[i?] mowicz.
+wx	53521	Kamionka	43	Nierozumie wam, musicie cokolwiek głośniéj mowić.
+wx	53535	Orzelek	43	Nierozumiem wam musicie cokolwiek głośniej mowić.
+wx	53538	Szyroslaw	43	Nierozumiem was, muśicie cokolwiek głośniej mowić.
+wx	53545	Pisanica	43	Ia wasz nie rozumieie, musicie trochie głośniey gadać.
+wx	53567	Glinki	43	Ja was nie rozumię, musicie cokolwick głośniej mówić.
+wx	53571	Gruczno	43	Ja was nie rozumiem, wy musicie cokolwiek głośniéj mówić.
+wx	53581	Slawianowo	43	Nie rozumiem was, musicie troszkę głośniéj mowić.
+wx	53602	Zoledowo	43	Nie rozumiem was, musicie cokolwick głośniéj mówić.
+wx	53616	Wrocki	43	Nie rozumie waz musicie trochy głośny mowić.
+wx	53620	Morzewo	43	Nie rozumiem was, musicie troszkę głośniéj mowić.
+wx	53656	Bartosze	43	Ja wam nierozumie[i?]e, wy musicie cokolwiek głośniey gadać.
+wx	53663	Kraplewo	43	Niezrozumieje was, muszycie troche głośniej mówić.
+wx	53708	Pokrzydowo	43	Nie rozumnie was, musicie troszkę głośniej mówić.
+wx	53710	Boleszyn	43	Nierozumiem was, musicie cokolwiek głośniej mówić.
+wx	53721	Nowy Swiat	43	Ia was nierozumni, musicie cokolwiek głośniéj mówić.
+wx	53745	Wapno	43	Ja was nierozumiem, musicie mówić trochę głośni.
+wx	53756	Mamlicz	43	Nierozumiem was, musicie cokolwiek głośniej mówić.
+wx	53760	Rojewo	43	Nierozumiem was, musicie troche głośniej mówić.
+wx	53771	Wiatrowo	43	Ja nie rozumiem was, muṡicie trochę głośniéj mówić.
+wx	53819	Galezewo	43	Ja was nie rozumię, musicie głośniej mówić.
+wx	53822	Lojewo	43	Ja was nie rozumiem, musicie trochę głośniej mówić.
+wx	53834	Bielawy	43	Nie rozumiem was, musicie trochę głośni mowic.
+wx	53859	Chludowo	43	Nie rozumiem was; mówcie nieco głośniej!
+wx	53872	Strzyzewo Koscielne	43	Nie rozumiem was, musicie głośniéj mówić.
+wx	53877	Kamieniec	43	Nie rozumię was, musicie trochę głośniéj mówić.
+wx	55537	Ceradz Koscielny	43	Ja was nie rozumiem musicie głośniéj gadać.
+wx	55565	Poznan	43	Nie rozumiem wos, musicie troche głośniej godać.
+wx	55569	Lowecin	43	Nierozumiem was, musicie trochę głośniéj mówić.
+wx	55586	Mierzewo	43	Nie rozumiem was, musicie mówié cokolwiek głośniéj.
+wx	55592	Dabrowka Wielkopolska	43	Nierozumiem was˘, musiecie głośniéj mówić.
+wx	55593	Slupia	43	Nie nierozumiem was, musićie troszeczke
+wx	55621	Babin	43	Nie rozumiem was, musicie nieco (=troche) głośniéj mówić!
+wx	55635	Tadeuszowo	43	Ja was nie rozumiem, musiecie troszkę głośniej mówić.
+wx	55646	Gorazdowo	43	Nie rozumiem was, musicie głośniéj mówić.
+wx	55656	Sierakowo	43	Nie rozumiem was, musicie troszeczkę głośniéj mowić
+wx	55688	Turew	43	Nie rozumiem was, musicie trochę głośniéy mówié.
+wx	55701	Ludwinow	43	Ja nie rozumiem muṡicie głoṡnij gadać.
+wx	55702	Radomierz	43	Ia was nie rozymię musicie troszeczkę głosni[é̜?] mórr[i?].
+wx	55720	Kotlin	43	Ya was nie rozumiem, wy musicie troche głosni gadai.
+wx	55725	Gorzno	43	Nierozumiem was, musicie głośniéj mowié!
+wx	55729	Drzeczewo Pierwsze	43	Nie rozumiem was, musicie trochę głośniéj mówié.
+wx	55733	Rusko	43	Ja was nie rozumiem, musicie trochę głośni mówić.
+wx	55741	Brzezie	43	Ja was nie rozumiem, musicie troszkę głośniéj mowić.
+wx	55782	Torzeniec	43	Nie rozumiem was, musicie cokolwiek głośniéj mowić!
+wx	55794	Kuznica Slupska	43	Nie rozumiem was, muṡiċie trosckę głoṡniej mowić.
+wx	55803	Kuklinow	43	Nie rozumiem was musicie trohę głosni mówić.
+wx	55828	Pomocno	43	Nie rozumiem was, musicie troszkę, głośniéj mórić.
+wx	55848	Uciechow	43	Nie rozumiem was, musicie cokolwiek głośniej mówić.
+wx	55855	Przygodziczki	43	Ja was nie rozumiem, musicie troszkę głośniéj mowić.
+wx	55859	Kaliszkowice Kaliskie	43	Nierozumiem was musicie głośniéj mowić.
+wx	55878	Trebaczow	43	Joł nie rozumia wos, musiecie kasek głośniéj mówić.
+wx	55894	Greboszow	43	Nie rozumia woz, musicie konsek głośni gw[a?]rzić.
+wx	55900	Pawlowice Gorzowskie	43	Nierozumię waus, musicie kąsek głosni gaudać.
+wx	55940	Skoraszewice	43	Ja was nierozumiem musicie głoźni mowié.
+wx	55947	Kwiatkow	43	Ja was nie rozumiem, musicie troche głośni(ćej) mówić.
+wx	55991	Zabrze	43	Jo wos nie rozumia, wy musicie troszka głosnij mowic.
+wx	56013	Radoszowy	43	Nierozumia was, musicie troszka głośniéj mówic.
+wx	56022	Budziska	43	Jo wos nierozumiam, mysicie trocha głośni (rządzić) mowić.
+wx	56027	Stanica	43	Ja was nie rozumię ? musicie trochę głośni mówic.
+wx	56041	Murcki	43	Jo wos nie rozumian, muśicie trorzkę głosnij godać.
+wx	56053	Wilkow	43	Jół wots nie rozumian, wy musicie ździepko gośni rządzić.
+wx	56069	Dobieszowice	43	Nierozumian was, musicie trochę głośni mówić.
+wx	56077	Ujazd	43	Ja was nierozumię, musicie broszkę głośni mówić.
+wx	56086	Rzeczyce	43	Ja was nierozumiam, wy muśićie troszyczka głośni
+wx	56167	Staniszcze Male	43	Jo wos nierozumiam, musicie troszka głośni rządzić.
+wx	56190	Ligota Proszkowska	43	Nierozumia wos; musicie głosniej mówic.
+wx	56205	Radonia	43	Ia was nierozumiem, musicie trochę gosni mówic.
+wx	56237	Kotorz Wielki	43	Jo wos nie rozumian, musicie konsek głosni godać.
+wx	56247	Pawonkow	43	Joł wos nie rozumię, musicie trocha głośniej gołdać.
+wx	56252	Cieszowa	43	Jo wos nie rozumia, musicie kąsek głośniéj godać.
+wx	56257	Zieliniec	43	Ioł wos nie rozumia, musicie ździebko głośni gwažyć.
+wx	56269	Debiniec	43	Iach was nerosumię wę muschice trochę goschnię mówic.
+wx	56274	Wedrynia	43	Ia was nie rozumiem, wy musicie ku[n?]sek glośnie gadać.
+wx	56338	Frydek	43	Ja wos nie rozumia musicie trocha gƚośni mowis!
+wx	56349	Pielgrzymowice	43	Jo waz nierozumię, wy musicie troszke głosini rządzić.
+wx	56375	Nieboczowy	43	Ja nic nierozumiam wy musićie troszkam głośniejszy wrzeszczeć.
+wx	56381	Swierklany Dolne	43	Jo was nierozumiem, wy musicie troszka głosni mowić.
+wx	56539	Gieralcice	43	Nie rozumiem was, musicie trochę głosniej mówić.
+wx	56549	Borki Wielkie	43	Ia was nie rozumię, wy musicie trochę głośniej mówić.
+wx	56576	Kamien Slaski	43	Nierozumię was, musiċie głośniėj mówić.
+wx	56580	Strzelce Opolskie	43	Nierozumię was, musicie nieco głosniej mówić.
+wx	56600	Tarnowskie Góry	43	Nie rozumnię wasz, musici trochę glośniej mówie.
+wx	56650	Bujaków	43	Nierozumię Was, musicie głośniéj mówić.
+wx	56681	Suszec	43	Nie rozumię was, musicie trochę głośn[y?] mówić.
+wx	56761	Mgowo	43	Ja was nie rozumię, wy muszyta, trochę głośni mowić.
+wx	56850	Lekarty	43	Ia nie rozumnie wam, musicie trochej głośni gadać.
+wx	56861	Lewald Wielki	43	Ia wam nie rozumne, muszicie troche głośni gadać.
+wx	56870	Januszkowo	43	Ia wam nic nie rozumnie, muśita troche głośniy gadać.
+wx	56877	Zimna Woda	43	Ia nierozumnieje wam, wy muśita troche głośni gadać.
+wx	56884	Roklas	43	Nie rozumieje wam muśyta troche głośniei gadać.
+wx	56897	Lipowiec	43	Ja nie rozumnieje wama, wu muśita troske głośni gadać
+wx	56903	Zawojki	43	Ia was nierosunie, wie musice troske głoschni godac.
+wx	56916	Slawka Mala	43	Ia wam nie rozunieje, muszyta troske głosny gadaćz.
+wx	56953	Baranowo	43	Ia wam nierozumieie musŷta trocha głosnieŷ gadac.
+xy	56956	Macice	43	Ia wam nie rozumie, musicie troche głosni gadac.
+xy	56963	Narzym	43	Ia nie rozunieie wasz, wy muszyta troszkie głośniej gadać.
+xy	56966	Napierki	43	Ia wam ne srosunał musita troche glosni gadacz
+xy	56975	Mierki	43	Ia nie rozumieie waju, musita troche gośni gadać.
+xy	56979	Butryny	43	Ia was nie rozumie, muszyta trorszke głosniej mowic.
+xy	56994	Jerutki	43	Ia nie rozumnieje wam, wÿ musiece troskę głosni gadac.
+xy	57047	Nowy Dwor	43	Ia wam nierozumiecę, wÿ musice niece głosni gadac.
+xy	57066	Wysoki Grad	43	Ja wam nie rozumieje, musicie troske głośni gadać.
+xy	57070	Pogobie Srednie	43	Ja was nie rozuniejie, wy musita troskie głośniej gadać.
+xy	57074	Lipnicken (Lipniki)	43	Ja was nerozuneje muśicie glośńej gadać.
+xy	-57081	Klebark Wielki	43	Nierozumieje was, musi ta troche glosni gada[...] (mowić)
+xy	57106	Rybno	43	Ia wama nie zrozumieie, troske głośnieÿ gadać muśita.
+xy	57168	Saplaty	43	Ia wam nie rozumieię, wÿ muszicie troszke głośni gadacz̀.
+xy	57181	Krutyn	43	Ia wam nie rosunieie, muschita głoschniey gadać.
+xy	57183	Zdory	43	Nie rozumieię wasz, gadaycie głośniey
+xy	57186	Ruda	43	Ja wam nie rozunieje, wy musitä troche głośnie gadäć.
+xy	57191	Dybowo	43	Ja wam nie roz̆ccnieję, mysita trochę gƚośniéj gadać.
+xy	57203	Dlugosze	43	Ja wam nie zrozumieje, wy muszyta troskie głośniej gadać.
+xy	57219	Sulimy	43	Ia was nie rozumieię, muhzÿcie troche głośnieÿ gadać!
+xy	57232	Wejdyki	43	Ia wama czale nierozumiełe, wy muśita troskie głośniej gadać.
+xy	57258	Wilkasy	43	Ia wam nie rozumieje, wy musita troche głośniej gadać
+xy	57275	Czerwonka	43	Jo woju nierozumnieje wy muszyta troche głośni godać.
+xy	57298	Zastruzne	43	Ja was nie rozumieyę, musicie troche głośniey gadać.
+xy	57304	Skomack Wielki	43	Ia wam [nie rozumiei?], musicie glośniey gadać.
+xy	57318	Kile	43	Ia was nie rosumieie, musita troche głośneÿ gadać.
+xy	57321	Prawdziska	43	Nie rosaneie wam, musita cokolwik głosney gadac.
+xy	57340	Mosina	43	Jo wos nie rozumiem, musicie głośni godać.
+xy	57348	Bnin	43	Nie rozumiem. Was musicie trochę (trosz[h?]ę) głośniéj godać (mówić.)
+xy	57379	Binkowo	43	Io wos nie rozumiem, wy musicie zdziebko głośni godać.
+xy	57381	Kolniczki	43	Jo wos nie rozumirm, musicie tro[c?]he głośni mówić.
+xy	57394	Januszkowo	43	Ja wos nierozumiem, musicie zdziebko głośni godaé.
+xy	57406	Dabrowka Ludomska	43	Jo wos nie rozumiem, musicie głośni (mówić). (godać.)
+xy	57407	Wiecanowo	43	Nierozumiem was, mówcież głośniej.
+xy	57397	NA	43	jo nierozumie wos wy musicie jedene troszke kozyny godaci.
+xy	55528	Słone	44	Ja nerozumim vám mlucte [mluvte] drobet nahlas.
+xy	56290	Groß Hoschütz (Velke Hostice)	44	Ja was nerozumim, mussitě trossku hlasnejssi řadit̆.
+xy	56344	Ellgoth-Hultschin (Ostrava-Lhotka)	44	Nerozumim wam, musjtě tro[ss]ku hlasněj[ss]j mluwit̆.
+xy	44317	Zell-Pfarre	45	Jes vas kna zastopm, vi morte mav bol hvasn marnvat. 
+xy	I125a	Heille	100	Ik fərstaan uldər nie, guldər moet ən bēētjə /eer/ ardər klappn
+xy	I140p	Axel	100	Ik vertâan judder nie, je moeten een bitje arder prâten
+xy	I103p	Cadzand	100	‘k verstôen (n-) julder nie, julder moeten ’n bitje arter prôaten. 
+xy	I110a	Slijkplaat	100	Ik verstao julder nie, julder mo(e)ten ein bitje harter praoten.
+xy	I095p	Hoedekenskerke	100	ik verstae julder nie, julder motte een bitje 'arder praate
+xy	I101p	Krabbendijke	100	Ik verstae julder nie, julder motte en bitje ander praten
+xy	I058p	Westkapelle	100	ĭ̀k vərstê jŭ̀ldə nī́ jŭ̀ldər (of jə) moetə ən bĭ̀tjə ằrdər sprḗkə
+xy	I062a	Serooskerke	100	ik kan julder nie verstae je moeten veel arder praaten
+xy	I048p	Colijnsplaat	100	kfərstê jö̆ldər nī jö̆ldər mŏtə 'n bētjə a̱rdər prêtə
+xy	I055p	Sint Annaland	100	Ik verstè julder nie je mot een bitjarder prète
+xy	K173a	Kruisland	100	Ik verstâôn joeullie nie, goeullie mot 'n bietje aarde prâôte.
+xy	K155p	Zevenbergen	100	Ik fərstoă jullie nie jullie mot ən biĕtjən ardər praōtə
+xy	K162a	Oosteind	100	Ik fərstōā jö̆llie niĕj, jö̆llie mottə ən biĕtjə hardər prōātə.
+xy	I032p	Burgh-Haamstede	100	Ik verstae julder nie je mot-ən bitje aarder praete
+xy	I031a	Scharendijke	100	Ik verstae julder nie julder motte een bitje aarder praete
+xy	I023p	Dirksland	100	ik verstae juule niet, juule motte een beetje harder praete
+xy	K086p	Zuid-Beijerland	100	ik versta jullie niet, jullie motte ən bietjə hardər (sprekə, pratə(n))
+xy	K093p	'S-Gravendeel	100	Ik vərstaᵒ jullie niet, jə mot ən bietjə hardər pratə.
+xy	K101a	Nieuwendijk	100	Ik verstao jullie nie ge mŏet en bitje harder praote
+xy	I008p	Rockanje	100	Ik versta jullie niet, jullie motte 'n beetje harder prate.
+xy	K042a	Vlaardingen	100	Ik versta jullie niet, jullie motten een beetje arder praten.
+xy	K012p	Ouderkerk Aan den Ijssel	100	Ik verstae jullie niet, jullie motte een beetje harder prâete.
+xy	K022p	Willige Langerak	100	Ik versta jullie nie, jullie moete een bietje harder spreken.
+xy	D005p	Den Haag	100	Ik fərstā jylī nī, jylī motənən bētə hardər prātə
+xy	E179p	Zwammerdam	100	Ik versta jullie nie(t) jullie motte een beetje harder prate.
+xy	E181p	Zegveld	100	ik fərstā́ jŭ̀llī́ nī́t jŭ̀llī́ moetə ən bḗtjī́ (en: bī́tjī́) hằrdər sprḗkə
+xy	E133p	Katwijk Aan Zee	100	kvərstê julī́ ī́t jŭ̀lī́ mŏ̀tə ən bḗtjə hằrdər prêtə
+xy	E138b	Abbenes	100	Ik ken jullie niet verstoan, jullie mo wa harder spreken.
+xy	E147a	De Kwakel	100	Ik versta jullie niet, jullie motte 'n beetje harder praten.
+xy	E080a	Velsen	100	Ik versta jullie niet, jullie moete een beetje haader spreke 
+xy	E086p	Zaandam	100	Ik verstaan jollie niet, jollie moete een bietje loier prate.
+xy	E041p	Egmond Aan Zee	100	Ik verstae jollie niet, jollie motte en bietje arder sprieke
+xy	E047a	Stompetoren	100	Ik verstaan julle niet julle moete 'n beetje luier prate
+xy	E010p	Sint Maarten	100	Ik verstaan jollie niet, jollie moet(e) een beetje harder prate.
+xy	E005p	Westerland	100	Ik verstaan jullie niet, jullie motte een beetje harder prate.
+xy	A009p	De Waal	100	Ik ferstaan jullie niet, jullie moete een beetje hòrder werr(e)ke prate.
+xy	K218p	Bladel	100	Ik ferstoa öllie nie, gellie (hat) moet en bietje harder proate.
+xy	K214p	Lage Mierde	100	Ik versta ullie nie, gullie moet wa harder praoten
+xy	K165p	Udenhout	100	Ik verstao jullie nie, gellie mot 'n bietje harder praote
+xy	K104a	Herwijnen	100	Ik verstoa jullie nie, gullie mot 'n bietje harder proate
+xy	K035p	Hei-En Boeicop	100	Ik versta jullei niet, je mot een bietje harder praten
+xy	E192p	Utrecht	100	Ik verstââ jullie niet, jullie motte un bietsie hàrder (herder) prâte  spreke
+xy	E124p	Ankeveen	100	Ik kan geen wijs uit jullie worre proat 'n beetje harder
+xy	E091p	Monnickendam	100	ik verstaa jului niet, jului oet ən bee(ie)tjə hardər spreekən
+xy	E058p	Hoorn	100	Ik verstaan jullie niet, jullie moet een beetje harder spreke.
+xy	E031a	Oostwoud	100	Ik verstā́n jullə nī́t, jullə moetə ən bḗtjə luiər prā́tə.
+xy	E003a	Den Oever	100	ik ken jullie niet verstaan, jullie moete een beetje luier prate
+xy	Q095p	Maastricht	100	Iech verstaon uuch neet, geer moot e betsje helder spreke (praote).
+xy	L281p	Borkel	100	Ik verstai ellie nie, gellie moet een bétje harder proate
+xy	L226p	Woensel	100	Ik fərstŏă ö̆llie nie, gellie moet ən bĭĕtjə hardər prōātə.
+xy	L177c	Middelrode	100	Ik verstò öllie nie ge moet veul harder prote
+xy	L093p	Lith	100	Ik fərstoă jō̈llie ( zie 25) nie, gellie moŏt ən bietjə hardər proātə
+xy	L003p	Maurik	100	ɪk fərstɔ: jœli  ni, ǥœli ------- [abgebrochen]                  œli}
+xy	F165p	Amersfoort	100	k ferstṑ juulie niet, juulie mŏ̀tte n bietje hā́rdr prṑte.
+xy	F121p	Bunschoten-Spakenburg	100	ik versti(h) julie niet, julie moen un beetjen harder praoten
+xy	E040a	Venhuizen	100	Ik verstaan julle niet julle moete een beetje harder prate
+xy	E040p	Enkhuizen	100	ik verstaan jullie niet, jullie motte un beetje 'arder prate
+xy	A001p	Midsland	100	Ek kan jim niet ve(r)ztoon jim mot een beetje harder praten
+xy	Q102p	Sint Antoniusbank	100	iech verschtaon uuch nēēt, ger mōōt e bitsche helder schprēēke
+xy	L318p	Stramproy	100	Ich vərstaon uch neet, gai mŏtj ei bitjə haardər kallə
+xy	L288b	Laar	100	ĭ̀ch vərstoan ŭ̀ch nḗt, gê mŏ̀tj ei bĭ̀tjə hā́rdər sprêkə
+xy	L237p	Helmond	100	Ik verstoa ellie nie, gullie moet 'n bietje harder sprèken.
+yz	L157a	Oventje	100	Ik versto ollie nie, gellie moet 'n bitje harder proo[ao?]te.
+yz	L102p	Ravenstein	100	ək fərstao jŭlī nī, jŭlī mut ən bītjə harder praotə
+yz	L010p	Wageningen	100	Ik vəstao jylī nī ,jylī motə ən bītjə hâdə sprēkə(ē+a.c.)
+yz	F170p	Barneveld	100	Ik verstoa jullie nie, jullie mon een bietje harder proaten.
+yz	F124p	Putten	100	ik vərstao juulie niet, juulie moen ən beetjən hardər praotən
+yz	F077p	Urk	100	Ik verstoan jelui niet. jelui moeten ən bietjen arder proaten.
+yz	B046a	Minnertsga	100	Ik forstean jimm' net, jimm' matt' hwat lûder prate.
+yz	L290p	Panningen	100	əkfərstao yg nēt, gə mut əəə heldər kalə
+yz	L211p	Leunen	100	Ik-ferstoj ówlie nie, gɪllie mót en bɪtje harder praote.
+yz	L116p	Beek	100	ik fərstoă jullie nie, chillie mot wầ hardər prōōtə
+yz	L023p	Arnhem	100	Ik fərstoā jullie nie, jullie mot ən biĕtjə hardər proātə
+yz	F173p	Hoenderloo	100	Ik verstò: jullie niet, jullie motten ən bitjən hardr pròtən.
+yz	F128p	Vierhouten	100	Ik verstò juuln nie, juuln mutn een bietjn harde praotn
+yz	F102p	Oldebroek	100	Ik kan joelew niet verstaon, ie mutt'n een bietjen harder praotn
+yz	F079p	Ens	100	Ik verstä joe neit, jie moet een bietje harder proaten.
+yz	F052p	Kuinre	100	Ik verstoa jelieden niet, j'ie moet'n 'n beetje arder proat'n
+yz	B002p	Nes	100	Ik verstaan jimme niet, jimme moeten een bitje hadder prate
+yz	F207p	Drempt	100	ik vestao oele neet, iele mot een betje hadder proaten
+yz	F179p	Zutphen	100	Ik verstoa oelie nît, ielie mot een bitjen harder proaten.
+yz	F132p	Diepenveen	100	Ik verstao oelle niêt, ielle mot en bitjen hadder praoten.
+yz	F106p	Windesheim	100	ik verstoa oeluu niet, ieluu moet een beetje hadder proaten.
+yz	F086p	Rouveen	100	ìk fərstṑ oe nēt, ī mun wàt hàrd'r prōēt'n
+yz	F060p	Steenwijk	100	Ik verstao oe neet, ie moet'n een bétien aarder sprēken.
+yz	F021p	Oldeberkoop	100	Ik verstoa jim niet, jim moeten un beettien hadder spreken.
+yz	G279a	Zieuwent	100	ik fərstōā ŏŏw nēēt, ĕĕj mŏăt ən betjṇ hattər prōātṇ
+yz	G246p	Lochem	100	ik fəʀstao: ulø: ne:t, ielø: mɔd'ən bɛtjən hadəʀ pʀao:tn̥.
+yz	G197p	Holten	100	Ik vestòò oeleu neet ieleu munn n bètjn hatr pròòtn
+yz	G139a	Arriën	100	'k verstoa oe niet, ie mun 'n bettien arder sprêk'n
+yz	G091d	Linde	100	ik verstao oe niet, ie mut nbeetien hardr praotn
+yz	G024p	Dwingeloo	100	Ik verstoa oe ni'jt ie moet wat harder proat'n
+yz	C145p	Zevenhuizen	100	Ik verstoa jim niet, jim moet'n wat hârder proat'n.
+yz	C063p	Oldehove	100	'k verstoa joe nait, joe monnen wat haarder proaten
+yz	C023a	Hornhuizen	100	Ik wait nait wat joe zègg'n, joe mòn'n ais 'n beetje harder proat'n
+yz	G257p	Haaksbergen	100	ik ve(r)stao oeleu ni, ie mot luk hadde(r) praoten
+yz	G173p	Almelo	100	Ik verstao oewleu neet, iejlen mut un betjen harder sprekken
+yz	G094p	Gramsbergen	100	ik verstoa o'wluu niet, i'j mut 'n bettien harder proaten
+yz	G031p	Orvelte	100	Ik verstao je niet, ie moet 'n beetie harder proot'n
+yz	G007p	Rolde	100	'k verstoa je ni(ie)t, moe(w)t n beetie haader proatn
+yz	C148a	Glimmen	100	'k Vərsto̱a jo̱e na̱it, jə mo̱u̱t'n 'n bēētjə hād'r (12) pro̱at'n.
+yz	C070a	Sint Annen	100	Ik verstoa joe nait,ie moutn 'n beetje haardr ptoatn.
+yz	C001b	'T Lage Van De Weg	100	ik verstoa joe nait, ie mon'n 'n beeje haader proat'n
+yz	G079a	Amsterdamscheveld	100	ik verstṑ joe nĭt, jullie (ie) moetən een bétĭn hardər prṑtən.
+yz	G058p	Emmen	100	Ik verstao je niet, eei moet 'n bittien harder spreek'n.
+yz	G012a	Nieuw-Buinen	100	ik verstao joe nait, ie mout'n n' beetje (h)arder praot'n
+yz	C156p	Muntendam	100	Ik verstoa joe nait, ie moutn aadr proatn.
+yz	C081p	Weiwerd	100	'k Verstó̄ joe nait, ie mout'n 'n beetje ('n tikje) (h)ārder pró̄t'n.
+yz	C042p	Spijk	100	Ik verstoa joe nait; ie moutten wat haader proaten
+yz	C165p	Bellingwolde	100	Ik verstȯa joe nait, ie mout'n n beetje haadr prȯatn
+yz	G285p	Meddo	100	Ikke verstaô ôw nêet, i-j môt ‘n betken harder praôt’n.
+yz	K189p	Essen	100	Ik ferston ĕŭw ni-j, ge mot em bitjen ijrter spreke
+yz	P133a	Terlanen	100	Ik versten a ni ge moet en bétje hetter sprek(...)
+yz	K191p	Meerle	100	Ik verstaj oew nie, ge mot wa harder spreken
+yz	K234p	Wechelderzande	100	ik fərstən ələ ni jə myt ən betə hetər spre:kə
+yz	K305p	Olen	100	Ik vərstön öllə nĭ, gə müt wa hättər rŏĕpən (klappən)
+yz	P025p	Aarschot	100	kvərstänāne, gə mutə bęt'ənätər klapə (spreken:klappen)
+yz	P154p	Outgaarden	100	ix fərstoən uxle ŋit gęle mutən ə wadəedər klapə (sprękə)
+yz	K196p	Poppel	100	Ik versta ylie nie, ge mot wèt harder spreke
+yz	K241p	Retie	100	ek fərstɔn ōli ni, gə mut wa hätər klap'n
+yz	K314a	Gompel	100	ek fərstɛən əv ni, gə mot ə betskən hɛətər sprēkən
+yz	P047p	Loksbergen	100	Ig verstĕŭn ŏĕg ni, ge mŏĕit ĕn bèke hetter sprijke (klappe)
+yz	P174p	Velm	100	Ich verston oech ni, dje moet i biettsje hoëtter klappe
+yz	L353p	Eksel	100	Ich verstön oech nie ge moet het bitske harder zeggen
+yz	Q001p	Zonhoven	100	ix vərstoənox ni diə modə bitskən hōrdər spreəkən (kaln)
+yz	Q079p	Guigoven	100	ix vərstøn ux ni, xə mọitə bitšə hodər kålə
+yz	L360p	Bree	100	ix ferstɔn ox net, gə motj ə bitjə heldər sprɛkə
+yz	L417p	As	100	Ich verstoan oech niet, ger moot wat heller sprẽke
+yz	Q253p	Montzen	100	ich vərsjtŏŏn öch niet, dĕr mŏŏt ə winəkə hĕldər kŏălə
+yz	O009p	Gottem	100	k En verstaa ui nie, ge moet en beetse luier klappen
+yz	O182p	Volkegem	100	k en verstoë uilder niet, ge moet 'n beetse luiër klapp'n
+yz	I163p	Oosteeklo	100	Kə vərstoə ə nit, gə mut ə be:tsən artərə spre:kən
+yz	I243p	Destelbergen	100	k Verstoa oe nie, ge moet en beetjen hartre spreken
+yz	O112p	Elene	100	'k ən (en) versta ou nied (niet) ge moet ən beetsen luier (luider) klappen.
+yz	I261p	Appels	100	Ik verstoân oû nie, ge moetj' en beetjen herter spreken
+yz	O149p	Iddergem	100	kən vaerstonənit, gəmuətənbaetjənldərsprekən
+yz	O275p	Herne	100	Ikəmvərstuən ōl ni gə mut'ən bet'nåjər klåpə
+yz	I178p	Beveren	100	k verstoun ulder nie, ge moet 'n bitteken harter spreken
+yz	I268a	Kalfort	100	kfərstən āləni / gə myt ən bet'ən ɛtər sprēkə
+yz	O178a	Molenbeek-Saint-Jean	100	ik verstōen a ni, ge moet en bètsje ètter sprecke
+yz	P198p	Sint-Genesius-Rode	100	Ik verstuinn o ni, ge moet 'm bekke n etter klappe (of: spreke)
+yz	55045/H051p	Wulpen	100	kvərstɔə: jøədrə niə, jə mu jøədreə bɛtjə lydər klapə
+yz	55005/N024p	Westvleteren	100	kə vərstɔjə nĩ i mudəə bɛtsə lydər klapən
+yz	N116p	Loker	100	kə~ vərstewa jy ni: je mud əe betse lyder spre:kŋ
+yz	H016p	Oostende	100	k vərstə jøldər ni: sprɛktə bɛtsə lydər
+yz	55036/H061p	Koekelare	100	kfɔrstɔə jə niə, jə mudə bɛtgə lywər klapə
+yz	55022	Houthulst	100	K verstā juldere niet je moe geren een beetsje ludere klappen
+yz	N130p	Wervik	100	k Verstae joe niet, ge mōē ōēn bètche lūūwer kŏĕt-n
+yz	H005p	Uitkerke	100	k verste-je-niet, ge mŏĕt e bitje luuder spreken
+yz	55044/H068p	Loppem	100	kvərstɔən øldr' ni: jə mudẽ bɛtjə lywər
+yz	N041p	Pittem	100	ɔ fərstɔ øldrə ni, gə mu ~ bętə lyərə klapəŋ
+yz	55023/N141p	Kortrijk	100	kən vərstɔ y ni gə mudən bętsən artər sprēkn (lyjər)
+yz	K245p	Deurne	100	kfərstôn oe nie, gə mut ən bietjə outər sprekə
+yz	K332p	Onze-Lieve-Vrouw-Waver	100	k Verstön oe ni, ge mut 'n békken hĕtter klappe
+yz	P018p	Kampenhout	100	k versteun aa nit, ge moeit en bekken eitter spreke
+yz	47114	Aarö (Årø)	12	NEU (Buchstaben korrigiert): A faastæe jer it, i maa snak ledt hóie!
+yz	56462	Babow	41	Ja nerosmeju wam niz, wü mußischo jadnu zoschku lepej pejedasch.
+yz	53549	Zon	43	Nie rozumiem was, powinniście trochę głośnięć mówić.
+yz	53561	Myslowice	43	Ja waz nie rozumię, mó cie głośni.
+yz	43859	Schachendorf	46	Ne razumim vas, glasnije govorite. 

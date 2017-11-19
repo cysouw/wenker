@@ -1,0 +1,2499 @@
+Index	Bogennummer	REDE_Namen	Sprache	WS5::Transliteration WS5
+ab	10029	Ringhuscheid	1	Hän oas virr vir udder sechs Wochen gestoarwän.
+ab	10044	Malberg	1	Hähn aß fēr veèr oder sechs W[o?]chen gestoorven.
+ab	1009	Nowy Klukom	1	He (kurz) is (fast wie e) vä ve|e ode sös Wocha storwa.
+ab	1018	Lasko K Choszczna	1	He is vö vëï odi sechs Wocha storwa.-
+ab	10215	Pantenburg	1	Ä aß vor ver oder sechs Wochen gestorwen. 
+ab	1023	Golin	1	He is vo véé unne sös Wäke stowe.
+ab	10230	Beuren	1	Äh os für ver udder sechs Woche gestorwe.
+ab	10259	Mörsdorf	1	Ae es via via orre sechs Woch[a?] gestorwe.
+ab	10275	Badenhard	1	E is ver vier orer sechs Wuche gestorw.
+ab	1029	Niekursko	1	He is ve vée ude mi sös Weikȷo stowo.
+ab	10300	Welterod	1	Er is fer veȷer ouwer seks Wuche geschtorwe
+ab	10315	Bleidenstadt	1	Er ist fer vier oder sechs Woche gestorbe.
+ab	10335	Espeler	1	Hen es virr vier oder sechs Wochen gestuorwen.
+ab	1035	Stobno	1	He is fä fehė|ode sös Weiko stowo.
+ab	10351	Brandscheid	1	Hehn iß für funf uder sechs Wochen gestor[wen?] eng am Rand
+ab	10368	Büdesheim	1	Enn aos firr fer odder sechs Wochen gestorfen.
+ab	10381	Waldkönigen	1	En ôs für vehr oder sechs Woche jestorwen.
+ab	1050	Krostkowo	1	Hei iß vo veie ude söß Mäke stuwe
+ab	10584	Kalenborn	1	Ä es vir ver Wochen gestorwen.
+ab	10601	Gappenach	1	Er es vir ver ower sechs Woche gestorwe.
+ab	10621	Rhens	1	E es für ver orer sechs Woche gestor[?] abgerissen
+ab	10649	Attenhausen	1	E’ is vär veia o sechs Wuche gestorwe.
+ab	10663	Heringen	1	Er is vor väir oder s[?]chs Woche gestorwe.
+ab	10690	Honsfeld	1	Henn es vör vier oder sechs Wägen gestorfen.
+ab	10697	Dahlem	1	E es für vier oder sechs Wuche gestorve.
+ab	10709	Aremberg	1	Er est vor vier oder sechs Wochen gestorben.
+ab	10736	Hohenleimbach	1	Äh eß für vier udder sechs Woche gestorwe.
+ab	10857	Hatzfeld (Eder)	1	Er es vör vier orer sächs Wochä kestorbe,
+ab	10974	Haindorf	1	Ä is vür vier oder säß Woche g’storbe.
+ab	110	Rozpedziny	1	He es vör vehe oder seß Wäke gestorwe.
+ab	11132	Schwarzwald	1	Â es vär sechs Wochen gestorben.
+ab	11149	Wipfra	1	Ae es ver vier odder sechs Wochen gestorm’n.
+ab	11180	Remda	1	Âös fär vier odder sechs Wochen gestorb’n.
+ab	11197	Zeutsch	1	Ar is ver vier oder sachs Wuchen gestorbm.
+ab	11212	Breitenhain	1	Ār is ver vier oder sāchs Wochen gestorm.
+ab	11230	Burkersdorf	1	Aer ist vor vîer oder saegs Wuchen kestorben.
+ab	11252	Seelingstädt	1	Er ist vor vier oder sachs Wuchen gesturm.
+ab	11262	Seebach	1	Er es ver vier oder sechs Wuchen gestorben.
+ab	1133	Debenke	1	Hei is fe veiä unes söß Wäkä stuwe
+ab	1139	Gliszcz	1	Hai ÿs fa fa[r?]e onnes säß Wäke stuwe.
+ab	11467	Boilstädt	1	Aer es färr vir otter sächs Wochen gestorben.
+ab	11485	Ingersleben	1	A es ver vier odder sechs Wochen g’storb’n.
+ab	1150	Czarze	1	He es va vee ones sechs Woeke storwe.
+ab	11515	Gutendorf	1	ha es far vier odder secks Wochen geschtormn.
+ab	11539	Kleinschwabhausen	1	Ā’ es vārr vier odder sāchs Wochen jestormn.
+ab	11568	Thalbürgel	1	Er is vor vier oder sächs Wochen gestarben.
+ab	1157	Bielczyny	1	Er isch vor vier oder sechs Wocha g'storwa.
+ab	11586	Bad Köstritz	1	Ar is var vier aber sachs Wuchen gesturm.
+ab	11607	Lumpzig	1	A is var vier adder sacks Wuchen gestorm
+ab	1162	Sierakowo	1	Hei ös vä vöe odde ses Weake storwe.
+ab	11645	Gleismuthhausen	1	Ar is vor vier oder sechs Wochn gschtuorm.
+ab	11673	Mitwitz	1	Er is vo vie ode sechs Wochen g’storbn
+ab	11763	Aub	1	Ar is für vier oder sechs Wòchn gschturm.
+ab	1178	Sokoliniec	1	Heh is ve vehe udde sös Weika storwa.
+ab	11805	Seidmannsdorf	1	Âr is f’r vĩer oder sechs Wochnå g’starm.
+ab	11825	Wallenfels	1	Ä it ve vḭḛ ode sechs Wochn g’storm.
+ab	11844	Neudorf	1	Er iß vr vier oder sechs Wochn gastorm.
+ab	11864	Draisendorf	1	Er is vor vier oder sechs Woch’n g’schtorm.
+ab	11881	Sohl	1	Er is va veje od’r sechs woch’n g’schtorm.
+ab	11896	Sülzdorf	1	ha is für 4 oder 6 Woche gestorbe.
+ab	1192	Debsko	1	He is fe fiv ode sös Weke stowe.
+ab	11927	Bachfeld	1	Är is’ vor vier odder sächs Wochen gestorb’m.
+ab	1197	Plociczno	1	He is vör veer ode söeß Wäke storwe.
+ab	1203	Nakielno	1	He iss vä veh odde söß Wäka stowa.
+ab	12037	Hildburghausen	1	Ar is v’r vier odder sechs Woch’n g’storm.
+ab	12070	Neuenbau	1	Er is vor vier oder sechs Wochen g’sturbn.
+ab	1208	Wissulke (Wiesiółka)	1	He iß feue fä veé ode söß Weikä stowä.
+ab	12085	Grumbach	1	År is ver vier oder sechs Woch’n geschtorm.
+ab	12104	Frössen	1	Arr is vorr vier odder sechs Wochen gestorm.
+ab	12125	Schwand	1	Erris vorr vier odder sechs Woch’n gêschtorm.
+ab	12148	Kottengrün	1	Er is ver vier oder sechs Wochen geschtorbm.
+ab	1215	Paruszka	1	Hei is fa feiä uddä söß Wäke stuwä.
+ab	12153	Meiningen	1	r is vör vier odr sächs Woche gestorbe.
+ab	12167	Altendambach	1	Er is vür viör ottör sechs Wocha göstorba
+ab	12184	Altenfeld	1	Ar iß ver vier oder 6 Wochne gestarbe._
+ab	12341	Rohrbach	1	A es ver vier odr seks Wochn geschtorm.
+ab	12371	St. Jacob bei Leutenberg	1	Är is ver vier odder sechs Wuchen geschtorbm.
+ab	12390	Neundorf (bei Schleiz)	1	äEr ä uber E is’ v’r vier oder sächs Woch’n g’storm.
+ab	12410	Ebersgrün	1	Ar is var vier odder sechs Wochen gestorm.
+ab	12428	Roitzschau/Rotschau	1	Erriß verr sechs Wochn gstorm.
+ab	12496	Horsdorf	1	È is vo vie(r) ode sechs Woch’n gschtarm.
+ab	12529	Ködnitz	1	Er is vor 4 ower 6 Wochna gstoarbn.
+ab	12556	Kornbach	1	Er is vor viè oder sechs Woch’n gschtorm.
+ab	12572	Habnith	1	Er is vor vöia oder sechs Woch’n gschtorm.
+ab	12594	Uchenhofen	1	Aèer is für vier oder sechs Wochn gstorbn.
+ab	12616	Reutersbrunn	1	(ɑ)Er is vor 4 oder sechs Woche gschturbm.
+ab	12656	Weismain	1	Er is vo viä odä seks Woch’n g’schtorb’m.
+ab	1278	Insko	1	Hē is vö̆ vēĕ̆ o͡are sös Wo͡acha stŏă̆wa.
+ab	1287	Konotop	1	He iß ve vee ode söß Weika stowa.
+ab	12876	Lohma	1	Ar is vorr vier abber sachs Wuchen geschtorm.
+ab	12898	Heiersdorf	1	Ar is vor vier ober sechs Wochen gschtorm.
+ab	12921	Sachsenburg	1	A is vo’ vier oaber sechs Wouchen g’stoarm.
+ab	12942	Rothenfurth	1	h’ar is ver vier ower sechs Wo̓chn g’storb’n.
+ab	1296	Zabin	1	He iß vä vaeh ode söß Wäka sto͡ava
+ab	12969	Borlas	1	A ös va vie otter sächs Wuchen geschtorben.
+ab	13005	Dohna	1	Ahr is vor vier oder sechs Wuchen geschtorb’n.
+ab	13019	Porschdorf	1	Er is vor vier oder sechs Wochen gestorben.
+ab	13047	Morgenröthe	1	Ä̀r is vor 4 oder 6 Wochen gestorm’.
+ab	13054	Rittersgrün	1	Er is ver 4 oder 6 Wochen gestorm.
+ab	1315	Kamien	1	Hei is fo feie ode söchs Wātche stuwe.
+bc	13169	Saupersdorf	1	Ver vier oder sechs Wochen is-ser gestorm.
+bc	13187	Kühnheide	1	’r is vr vier oder sechs Wochen gestorm.
+bc	13210	Himmelmühle	1	Ar is für vier odǎr sechs Woch’n gǎstorb’m.
+bc	13226	Rübenau	1	Er is für vier oder sechs Wochen gestorbn.
+bc	13269	Thurm	1	Er is ver vier ober sechs Wuchen gesturbm.
+bc	13286	Ursprung	1	Ar is vor vier ober sechs Wuchn gestoarbn.
+bc	133	Sosnowo	1	Hei is va veia ora söß Wäken sturwa
+bc	13317	Dittmannsdorf	1	Ar is värr vier odar sechs Wochn g’schtorm.
+bc	13340	Grosshartmannsdorf	1	A is vŏr vier obba sächs Wo̓chn gschdorm.
+bc	13355	Reichenau	1	Ar is vor vier oder sechs Wuchen gestorbm.
+bc	13372	Liebenau	1	Ar is ver vier oder sechs Wouchen gestorben.
+bc	1338	Dzidno	1	Hei is fä feie uda seß Wäche (ćé) stuwa.
+bc	13529	Wang-Brückenberg	1	A’ is vur vier oder sechs Wucha gesturba.
+bc	13543	Pisarzowice	1	A ies ver vier oder sechs Wuchɑ gestorbɑ.
+bc	13559	Boguszow-Gorce	1	A is ver vier oder sechs Wucha gestorba.
+bc	13655	Niederleutersdorf/Leutersdorf	1	A äss ver vier oder sechs Wochen gestorbn.
+bc	13678	Rohnau (-)	1	A ǐs for vier oder sechs Wuchen gsturbn.
+bc	13700	Rebiszow	1	ha ihs firr vier oder sechs Wucha gesturba.
+bc	13719	Siedlecin	1	A is vĭr 4 oder 6 Wucha gestorwa.
+bc	13727	Myslow	1	Ah ies v’r vier oder sechs Wucha gesturba.
+bc	13745	Jugowa	1	A is ver vier oder sechs Wucha gesturba.
+bc	13830	Wlodowice	1	A ies vr vier ower a secks Wochɑ gestorwa.
+bc	13869	Biernacice	1	A is für vir oder sex Wucha gestorba.
+bc	13887	Rzymiany	1	A is vor vier oder sechs Wuchen gesturben.
+bc	13898	Szadurczyce	1	A iss vurr vier oder seks Wuchen geschturben.
+bc	13929	Stoszowice	1	A is vur vier oder seks Wucha gestorba.
+bc	13996	Lutomia Gorna	1	A(r) is vur (ver) 4 Wucha gesturba.
+bc	14023	Roztocznik	1	A is fer vier oder segs Wucha gesturba.
+bc	1403	Dobieszewo	1	Hei is va veia urra söß Wäken stowa.
+bc	14034	Lipowa	1	A ies ver 4 oder 6 Wucha gesturba.
+bc	14074	Michalow	1	A is vur vier oder sechs Wuchen gesturb'n.
+bc	14092	Karczow	1	Ar is vor vier oder seks Wuchen gesturben.
+bc	14159	Jutrzyna	1	A is vur vier oder seks Wuchen geschturben.
+bc	1417	Rydzewo	1	Hei iß veuĕ veiĕ ōrĕ söß Wäke sturwĕ.
+bc	14234	Brzoza	1	A is vir vier oder sechs Wuchen gisturb’n.
+bc	14250	Jaczkowice	1	Er is vor vier oder acht Wuchen gesturben.
+bc	14275	Piastowice	1	A is vor vier oder sechs Wuchen gesturben.
+bc	14305	Bozanow	1	A ies verr vier oder sechs Wuo̳cha gestorrba.
+bc	1432	Rzepowo	1	He iß vä vehe ode sös Wäka gestowa.
+bc	14321	Rogow Sobocki	1	A is fer vier oder segs Wucha gesturba.
+bc	14382	Wölfelsdorf (Wilkanów)	1	A ēs für vier ober sechs Wocha gestorba.
+bc	1442	Lubowo	1	Hei is vö veie orre sös Weeke sturwe.
+bc	14449	Thröm (Trebom)	1	Ar es wer wier oder sexs Wochn gestorwe.
+bc	14458	Szczytna	1	A is vor vier ower sechs Wocha gestorwa.
+bc	14471	Jaszkowa Gorna	1	A is ver vier o[w?]er segs Wocha gestorwa.
+bc	14486	Nadziejow	1	Er ist vur vier oder sehs Wocha gestorbn.
+bc	145	Smardzko	1	Hei is va veie ore söss Wääke stuwe.
+bc	14505	Piorunkowice	1	Ar is vor vier oder sächs Wucha gesturba.
+bc	1451	Steinforth (Brodźce)	1	Hei iß voa veiä uddä söß Wäjjä stuwwä.
+bc	14537	Bielice	1	A es für vier oder seks Wocha gestorba.
+bc	14560	Siemianowice Slaskie	1	A is ver vier oder sechs Wucha gesturba.
+bc	1461	Wegorzewo Szczecineckie	1	Hei is vor faier oder sös Wäke sturwe.
+bc	14613	Nohfelden	1	Er es vor vier orer sechs Wouche geschoͭrb.
+bc	14635	Erzweiler	1	Er ris vor vier orer sechs Wuche g’storw.
+bc	14670	Nussbach	1	Er éß vor vier awèr (auch orrèr) sechs Woche gestarb.
+bc	14693	Dannenfels	1	E[r?]eß vor vier, orrer sechs Woche gestorb.
+bc	14724	Monsheim	1	Er is vor vier orer sechs Woche gestorwe.
+bc	14752	Sankt Matthias	1	Enn es fier för oder 6 Wochen [gestorwen.] Klammern im Orig.
+bc	14955	Bescheid	1	Hä öß fier [?]öier odder sechs Wuchen gestorwen.
+bc	14971	Allenbach	1	Er eß vor vejer orer sechs Woche gestorw.
+bc	1499	Stara Rzeka	1	He iß vo vea odda seß Weadja sturwa.
+bc	14999	Berschweiler bei Kirn	1	Eer es vor vie-er orer sechs Wouche gestorb.
+bc	15018	Bad Sobernheim	1	Er iß vor vieer orre se[c?]hs Woche gestorb.
+bc	15042	Neu-Bamberg	1	Er is vohr vier orrer sechs Woche gestorb.
+bc	15066	Bechtolsheim	1	Er is vor vier orre sechs Woche gestorb.
+bc	15088	Bollendorf	1	Hēn aß vīr vēr oder sechs Wochen gesto͜arwen Bogen unter „oa“.
+bc	15096	Preist	1	En as für vör oder sechs Wochen gestoerwen.
+bc	15118	Pohlbach	1	En aß fier vier oder sechs Wochen gest. Zeilenende
+bc	15137	Kautenbach	1	Ar es voa véjer orra sechs Wouche gestorf.
+bc	15334	Kirchberg (Hunsrück)	1	Er is vor vier ore sechs Wuche gestoreb.
+bc	15349	Ellern (Hunsrück)	1	’r iß vor vier ore sechs Wuche gestoreb.
+bc	1536	Heidlauken (Bugorki)	1	He es fer vör (Wäke) oder seß Wäke gestor[...]
+bc	15365	Bingen am Rhein	1	Er iß vor vier odder sechs Woche gestorwe seltsame dünne Klammern um e.
+bc	15394	Finthen	1	Er is vor sechs vier ore sechs Woche gestorwe.
+bc	1540	Heinrichswalde	1	He es ver ver odes sess Wäke gestorwe.
+bc	15418	Schneeberg (Sněžník)	1	Da is vor vier oda sachs Wuchen gestorbm.
+bc	15503	Zettel (Sedlo)	1	Ar is fü(a) vier Wouch’ g’stor’m.
+bc	1552	Pazuizen	1	He es ver veer odder seß Wäke gestorwe.
+bc	15538	Wisterschan (Bystřany)	1	Ar is vor vier oder sechs Wuch’n gschtorm.
+bc	15550	Malschen (Malečov)	1	Ar is varr vier od’r saks Wuch’n g’starb’n.
+bc	15638	Lukawetz (Lukavec)	1	Ar is vor vier oder sechs Wuchn gestorbn.
+bc	1565	Gierver Lauken	1	He es vorr veer odder sechs Wäcke gestorwe.
+bc	15681	Neudorf (Vrchběla)	1	Ahr is vr vier odr sachs Wôchn gestoͧrbn.
+bc	15685	Gastorf (Hoštka)	1	Ar is’ vur vier oder sachs Wuchn gesturbn.
+bc	15690	Wegstädtl (Štětí)	1	Ar (oder Har) is vr vier oder sachs Wuchn gesturbn.
+bc	1571	Schmalleningken	1	He öß var veer odder secks Wäke gestorwe[...]
+bc	15725	Nixdorf (Mikulášovice)	1	ha eß vorr vier odr sechs Wochn gostorbn
+bc	1573	Groß Dirschkeim (Donskoye)	1	He ös fa vea owa sess Wäke gestarwe.
+bc	15751	Rückersdorf (Dolní Řasnice)	1	Ha ös vo vā odr sechs wochn gestorbn.
+bc	1578	Rantau (Zaostrov'Ye)	1	Hé ès và véa Wäke gestarwe
+bc	158	Polczyn-Zdroj	1	Hei iss vŏ veir ode söss Woche sturwe.
+bc	1580	Schulstein (Vol'Noe)	1	He es fa fer oawa ses Weke gestorwe
+bc	15807	Kamnitz-Neudörfl (Kamenická Nová Ví	1	A is vu vier oda sechs Wuchn gsturbn.
+bc	15824	Zwickau (Cvikov)	1	Ar (eͥ)s vorr vier odr səchs Wochn gestorbn e lat..
+bc	15847	Christophsgrund (Kryštofova Údolí)	1	A ös vor 4 od. 6 Wochn gestorbn.
+bc	15858	Gränzendorf (Hraničá)	1	A ös vor vier odr sex Wochn gestorb’n.
+bc	1588	Alt Susimilken (Tarassowka)	1	He ös far vör oder seß Weke gestorwe
+bc	15971	Puletschnei (Pulečný)	1	A ös vr vier obrju sechs Wochn g(e)storbn.
+bc	15975	Graber (Kravaře)	1	Ar is vu vier oder saxs Wuchn gestorbn.
+bc	15989	Thammühl (Staré Splavy)	1	Ar is vor vier odr sachs Wuchn gstorbn.
+cd	15995	Proschwitz (Česká Proseč)	1	Ar es vor vier oder 6 secks Wochen gostorbn.
+cd	16007	Harrachsdorf (Harrachov)	1	A es ver vier odr sex Wochn gestorben.
+cd	16015	Witkowitz (Vítkovice)	1	A is vər vêr odə sex Wochn gesto̬rbn.
+cd	16050	Forst (Fort)	1	ha iß für vier oda sachs Wochn g’starbn.
+cd	16063	Gabersdorf (Libeč)	1	A is vo vier oder sechs Wocha gestorwa.
+cd	16083	Bodisch (Bohdašin)	1	A is vo vier oder sechs Wucha gestarwa.
+cd	16139	Zwitschin (Zvičina)	1	A is für vier oder sechs Wocha gesterwa.
+cd	16154	Großbock (Velká Bukovina)	1	A(r) is vor vier odrͦ sechs Wôcha gestorwa
+cd	16179	Schmiedeberg (Kovářská)	1	Ar is vur vier oder sechs Wochn gastorm.
+cd	1626	Tulpeningken (Zarečnoe)	1	He es vorr veer odder secks Wäke gestorwe.
+cd	16276	Waitzengrün (Loučná)	1	Er is vor vöia oda sechs Wochn gstorm.
+cd	1628	Wisborienen (Livny)	1	He es var vier oder sechs Woche gestorwe.
+cd	16298	Sittmesgrün (Mezirolí)	1	Ea is va vöia oda sechs Woch’n gschturm.
+cd	16322	Petersdorf (Petrov)	1	Er is va viaȷa oder sechs Wochn gstorm.
+cd	16338	Podletitz (Podlesice)	1	Er is vur vier oder sechs Wochn gstorm.
+cd	16442	Kropitz (Krapice)	1	Ea is va vöia oba sex Woch’n g’stoam.
+cd	16470	Ebersfeld (Podlesi)	1	Er ist vor vóier oder sechs Wochn gstorbn.
+cd	16491	Rabensgrün (Haje)	1	Ér is vu(r) föia oda sechs Wochn gsturm.
+cd	16523	Lintsch (Hlineč)	1	Er is vur vaja oda sechs Woch gstorm.
+cd	1654	Postnicken (Zalivnoe)	1	He ös va vea owa seß Weke gestorwe.
+cd	16602	Klotantschen (Kotaneč)	1	Er is fur veja oder sex Wochn gstorm.
+cd	16610	Tschernowitz (Černovice)	1	Er ist vor vier oder sechs Wuchen gstormn.
+cd	16625	Hawran (Havraň)	1	Er is vor vier oder sechs Wuchn gschtorbn.
+cd	16636	Liebshausen (Libčeves)	1	Ar is ver vier oder sechs Wuchen gstorbn.
+cd	1664	Labagienen/Haffwinkel (Zalivino)	1	He es va ver ada ses Wäke gestarwe.
+cd	16670	Priesen (Březno)	1	Er is vor vier ōdr sechs Wōchñ gschoarbñ.
+cd	16689	Libeschitz (Liběšice)	1	Er ǐs vūr vier oder sex Wǒchn gstǒrm
+cd	16725	Leschkau (Ležky)	1	Ea is va via Wochn odda va sex Wochn gschdo̊rm.
+cd	16739	Pschoblik (Pšovlky)	1	Er is vur vier ǒde(r) sex Woch’n gschorm.
+cd	16751	Prag-Smichow (Smíchov)	1	Er ist vor vier oder sexs Wochen gestorbn.
+cd	16755	Weißbach (Bílý Potok)	1	A ies vir vier oder säx Wocha gestoarba.
+cd	16770	Schediwy (Šediviny)	1	har is vr ver odr seks Wocha gestarwa.
+cd	16775	Friedrichswald (Orlické Záhoří)	1	A is fira vier o͡awr sechs Wocha gestarwa.
+cd	16801	Böhmischdorf	1	A is fir a vier obr sex Wochn g'storbn.
+cd	16814	Rokitnitz (Rokytnice)	1	A is vir vier oder sechs Wocha gestorwa.
+cd	1683	Kreuzingen (Bol'Shakovo)	1	He es var veer odder sess Waeke gestorwe.
+cd	16876	Nieder-Ullersdorf (Dolní Boříkovice	1	Ar is vor 4 od. 6 Wocha gestorba
+cd	16889	Heinzendorf (Hynčice Nad Moravou)	1	Ar is for fier ober seks Wochn gastorm.
+cd	16907	Karlsdorf	1	dār êəs fīr vīr ōbⱱ ʃeks wọxŋ gəštȯrm.
+cd	16932	Kuhberg	1	Ar is vur vier oder sechs Wocha gesturba.
+cd	16949	Rausen (Rusín)	1	Ar is' ver vier åder sechs Wocha gesturba.
+cd	1698	Buttkuhnen (Pokrovskoe)	1	He es v[oe?]r ver odder sechs Woche gestorwe.
+cd	16991	Breitenau (Bretnová Široká Niva)	1	Har ies vir vier oder sechs Wochn gesturbn.
+cd	17012	Lobenstein (Úvalno)	1	Ar es vr vier odr seks Wochn gestorm.
+cd	17029	Lohhäuser (Slatina)	1	Ea is voa vöia oda sechs Wochan gschtorm.
+cd	17061	Deutsch Thomaschlag (Německé Domasl	1	Ea is va vöia oda sechs Wochan g’storm.
+cd	17075	Polinken (Polínka)	1	Er is va voia Wochen gstorbm.
+cd	1708	Baltruschatschen (Jakovlevo)	1	Hee ös vor veer odder sechs Woche gestorwe.
+cd	17138	Albersdorf (Písařova Vesce)	1	Er is vor vëia oder sexs Wochan gschtarm.
+cd	17151	Damnau	1	Dea is voa vöia oda sechs Wochn gstarm.
+cd	17174	Piwana (Piňovany)	1	Voa vöia oda sex Wochan is a gschtorm.
+cd	17178	Kottiken (Chotíkov)	1	E(a)r is vo(r) veira oder sechs Wochn gschtorm.
+cd	17244	Dianaberg (Diana)	1	Eə is voə vöiə odə seks Wochən gschtarm.
+cd	17266	Wiedlitz (Vidice)	1	Ea is voa vöian oda sex Wochan gstarm.
+cd	17273	Honositz (Honezovice)	1	Er is voa vejaͦ owaͦ sechs Wochn gstorm.
+cd	17281	Dobrzan (Dobřany)	1	Ea is’ voa vöia oda sechs Wochan g’schtorm.
+cd	17306	Blisowa (Blížejov)	1	Ea is voa veja oda sechs Wochn gstarm.
+cd	17309	Hilbeten	1	Ar is vor vier oder sechs Wochn gstor̬m.
+cd	17325	Schönwald (Strážná)	1	Ar is vur vier oder sechs Wocha gesturba.
+cd	1733	Rottenen (Raktino)	1	Hei es va veer ŏwer säß Wäke jestoarwe.
+cd	17374	Ober-Ullischen (Horní Olešná)	1	Ar ijs vir vier ober sechs Wochn gestorm.
+cd	17389	Bergstadt (Horní Město)	1	Ar iés fir vier oader säx Wochn gestorm.
+cd	1741	Pojerstieten (Kolodcy)	1	He es va vea ova ses Weke gestarve.
+cd	17433	Ranigsdorf (Linhartice)	1	Er eit vor vier oder sex Wochn gestarbn.
+cd	17442	Müglitz (Mohelnice)	1	Er īs vor vier oder sex Wochn gestarbn.
+cd	17460	Ribnik (Rybniček)	1	Ar iës fir vier ober sechs Wochen gestorbn.
+cd	17468	Stangendorf (Vendolí)	1	Ar ís vor vier odr secks Wochn gestorbn.
+cd	1747	Beydritten (Pervomajskij)	1	He ös va vöa oawa ses Wäke gestoarwe.
+cd	17504	Neu-Biela (Lavičné)	1	Ar es vor vier oder sechs Wochn g’storbn.
+cd	17512	Schlettau (Slatina)	1	Er ait voa vier oder sex Bochn gestarbn.
+cd	17520	Runarz	1	A̬r is vo vier odə sek̮s Bu̬chən ge̬štorbn.
+cd	17521	Nebotein (Hnĕvotín)	1	E(r) ies vo(r) vier aub(a) sex Buchn g'starbn
+cd	17568	Tillendorf (Tylov)	1	Ar is vor vier oader seks Wochn gestorm.
+cd	1758	Brasdorf (Antonovka)	1	He ĕs fă veĕ o͡awă sesz Wäke gestu͡ărwe.
+cd	17585	Mladetzko (Mladecko)	1	Ar ies vor vier ober säks Wochn gesch[t]urbn.
+cd	17643	Seibersdorf (Bělá)	1	Har es fir vier ober segs Wochn gestorbn.
+cd	17659	Bernhau (Barnov)	1	Ar es vir vier aber (ober) sex Woch'n gestorb'n
+cd	17680	Klantendorf	1	Har ies vir vier oadr seks Wouche gstuewe
+cd	17687	Engelswald (Mošnov)	1	Har ies fir vier ôdr seks Wochê gêstuiwê.
+cd	17698	Nirklowitz (Mrsklesy)	1	Har es für vier Wochn tot.
+cd	17713	Punkendorf (Boňkov)	1	A ies vor vier obe secks Vochn gestuibn
+cd	1772	Groß Goldbach (Slavinsk)	1	He es ver vea oawasch ses Wake gestarwe.
+cd	17726	Halbendorf (Polouvsí)	1	Ar ies vier vier oader sechs Woche gestuibe.
+cd	17737	Senftleben (Ženklava)	1	Da e vor vier ober seks Wuche gestuewe.
+cd	-17739	Polanka Wielka	1	Er is vor vier oder seche Woche gestorb.
+cd	-17744	Bulowice	1	Er ist vor 4 oder 6 Wochen geschtorben.
+cd	-17746	Chocznia	1	Es is vor viern ober sechs Wuoch[?] gstorben.
+cd	-17749	Alt-Bielitz (Stare Bielesko)	1	Har ej fer vier oder sachs Wocha gestürwa.
+cd	17759	Linz (Mlýnec)	1	Ea is voa vaia oda segs Wochnan gstarm.
+cd	17782	Kohlheim (Uhliště)	1	Er is voa via oda sex Wochan gstoam.
+cd	17792	Čachrau (Čachrov)	1	Ea is voa via oda seks Wochan gschtoam.
+cd	17801	Hurkental (Hůrka)	1	Er is vor vier odoa sex Wochan gstorben.
+cd	17824	Rotsaifen (Červená)	1	Ear͡ is voa via odā sex Wōchan gstoam.
+cd	17832	Winterberg (Vimberk)	1	Voa(r) „(r)“ über a vier odå se|ichs Wouchå is å gschtoa(r)m „(r)“ über a.
+cd	17843	Sehrlenz (Ždírec)	1	e(a) ist fo(a) fi(a) or(a) sejKs bouĥan Bogen unter „ou“ gŝtorm.
+cd	17854	Irsching (Jiřín)	1	Er is vor vier oder sechs Wouchan gstorm.
+cd	17862	Hilbersdorf (Jihlava-Heroltice)	1	Eə is foə fiə odə sex wochən g’storbn.
+cd	17876	Sollowitz (Salavice)	1	Er is vor vier owr sechs Wochan gstorbn
+cd	17878	Stannern (Stonařov)	1	Er is vor veer oder sechs Wochn gstorben.
+cd	17881	Riegerschlag (Lodhéřov)	1	Er is vor vier ud’r sẹịks Wouchan gschtorbn.
+de	17882	Wenkerschlag (Dolní Radouň)	1	Er is vor 4 oder 6 Wouchan gschtorm.
+de	17884	Buchen (Buk)	1	Er is vor vier udr seix Wouchän gschtorm.
+de	17895	Hosterschlag (Člunek)	1	Er es var vier, oder sechs Wochn gestorbn
+de	17898	Lipolz (Lipolec)	1	Er is vor vier oda sechs Woucha g’storben.
+de	17940	Czernowitz (Černovice)	1	Er is vor vier oder sejchs Bouchan gstoribn.
+de	17942	Gundrum (Komořany)	1	Er is vor vier oder sejchs Bouche͠a gstoorm.
+de	17956	Prahlitz (Pravlov)	1	Er is vor vier oder sechs Woucha gstorbn.
+de	17961	Woikowitz (Vojkovice)	1	Ea is vor 4 od. 6 bucha gstom.
+de	17967	Sub-Lechnitz (Lechnica)	1	Er isch vor vier ot'r seks Wocha kastorp.
+de	17968	Topportz (Toporec)	1	Tor vier oder sechs Woch'n ës er gestorb'n
+de	17972	Hobgard (Chmeľnica)	1	Her ës vor viere oder sechs Woch'n distorb'n.
+de	17981	Neu Walddorf (Nová Lesná)	1	Er ës vor viir oder seks Wuchn gesturbn.
+de	17993	Durelsdorf (Tvarožná)	1	Der es vor vier odr sechs Wochn gestorbn.
+de	17999	Leutschau (Levoča)	1	Er ës var vier oder sechs Wochen gestorben
+de	180	Galowo	1	Hei iß voa veie unne söß Wäke stuwe.
+de	18000	Zipser Neudorf (Spišská Nová Ves)	1	Er es vor via oder sechs Wochen gestorben.
+de	18001	Wagendrüssel (Nálepkovo)	1	Hëa ës voa vie oda sechs Bochn gestoabn.
+de	18003	Göllnitz (Gelnica)	1	Da es vo͡a vie (i-e) oda sechs Bochn gesto͡abn.
+de	18004	Dobschau (Dobšiná)	1	Ear is vor vier ober sechs Bochen gestoaben
+de	-18008	Schmöllnitz (Smolník)	1	Hea es voa vie oda secks Bochn gestoam.
+de	18010	Metzenseifen (Medzev)	1	Da ée voa fie oda ségs Bochen gestoam
+de	18013	Buchwald (Bučina)	1	Er is vor via oda seix Woucha gschtoam.
+de	18018	Schattawa (Záton)	1	Er is vor vier oder sejchs Wocha gstorm.
+de	18028	Zaborsch (Záhorí)	1	Er is voa via uda seïx Wouchan gstoam.
+de	18058	Hirschbergen (Hiršperky/Jeleni)	1	Er is vor viar oda sejchs Wouchan g’storm.
+de	18064	Honetschlag (Hodňov)	1	Er is voa vier bis seigs Wouchn gstoam.
+de	18091	Kollerschlag	1	Er is vor via oda segs wocha gstorm.
+de	18095	Sankt Thoma (Svatý Tomáš)	1	Er is vor vier oder sechs Wocha gschtorm.
+de	18101	Hohenfurth (Vyšší Brod)	1	Er is vor vier uda sechs Woucha gstorm.
+de	18132	Hummeln (Homole)	1	Ear is vor vier o.| seichs Wouchâna gstorbn.
+de	18135	Rudolfstadt (Rudolfov)	1	Er is’ vor vier oder sechs Woch’n g’storbn.
+de	18144	Gross-Radischen	1	Er is vor a vier oda sex Wocha gstorbn.
+de	18188	Priethal (Prídolí)	1	Ear is’ voa(r) oda via(r) oda seiks Woucha g’stoar(b)m.
+de	18192	Gollnetschlag (Klení)	1	Er is vor vi(a) uder seix Wouch(a) gschto(a)bm.
+de	18210	Weissenbach (Vysné)	1	Er is va vier uder sej gs Woucha gschtorbn.
+de	18218	Langschwarza	1	Er is ver vier oda segs Wocha gstoam.
+de	1829	Rudszen (Poltavskoe)	1	He eß vorr vier oder sechs Woche gestorwe.
+de	18290	Unterwald	1	Er is vor 4 oda 6 Wochan gstorbn.
+de	18296	Bad Grosspertholz	1	Er is vor vier oda sechs Wocha gstorm.
+de	18310	Oberstrahlbach	1	Er ist vor vier oda sechs Wocha gstorm.
+de	18359	Waldkirchen	1	Er is vor vier oder sechs Wochn gstorbn.
+de	18364	Hafnerluden (Lubnice)	1	Er is vor vier oder sex Wocha g’storm.
+de	18367	Schiltern (Štítary)	1	Vor a vier oder sex Wocha is er gstorbn.
+de	18407	Töstitz (Těšetice)	1	Er is vor vier oda segs Wochan gschtorm.
+de	1842	Warupönen (Fëdorovka)	1	He es vor sechs Woche gestorwe.
+de	18432	Dietmanns	1	Er is voa via oda sex Wochan gstoabm.
+de	18441	Schirmannsreith	1	Er is voa viea oda segs Wochan gstoam.
+de	18454	Hofern	1	Er is vor odo seg’s Wocha gstorb’n.
+de	185	Jelnia	1	Hei is fö veü uddi sös Wäka stuwa.
+de	18508	Gerstenfeld (Ječmeniště)	1	Er is vor vier oda sex Wochan gstorm.
+de	18525	Franzen	1	Ėa is vo̮a via ȯda sėx Wȯchan gstȯam.
+de	18534	Rosenburg	1	Es is vor 4 oder 6 Wochen g’storb’n.
+de	18554	Oberdürnbach	1	Er is vor vier oder sechs Wocha gstorbn.
+de	18559	Aspersdorf	1	Er is voa 4 od[a?] 6 Wochan gstoam.
+de	18607	Damnitz (Damnice)	1	Er is vor vier oda sechs Wochan g’storbn.
+de	18627	Tracht (Strachotín)	1	Er is vor vier Wuchr oder sex Wuchr gstorm.
+de	18637	Saitz (Zajecí)	1	Er is vor vier oder sechs Wucha gstorbn.
+de	18642	Höflein an der Thaya (Hevlín)	1	Er is vor vier oda sex Wocha gschtorm.
+de	18672	Stützenhofen	1	Er is voı vier oda sechs Wōcha gstoıb’n.
+de	18686	Bernhardsthal	1	Er is vor vier oda sechs Wochan g’storm.
+de	18701	Pyhra	1	Er is vo[r?] beiläufi 4 Wocha gstorbn.
+de	18707	Wilfersdorf	1	Er is vor via oda sex Wochɑ g’sturm.
+de	18716	Palterndorf	1	Er is vor vier oda sexs Wocha gstorm.
+de	18753	Münchwies (Vrícko)	1	Janna is gastoam va odr sechs Wauchn
+de	18759	Bettelsdorf (Solka)	1	Heja ėst vje wia odr sechs Bochn g'schtoem.
+de	18763	Oberstuben (Horná Stubna)	1	heⱱ ist fiⱱ wîⱱ odⱱ zeks bọxŋ̥ gⱱšto̜ⱱm.
+de	18767	Krickerhäu (Handlová)	1	Her is wür wier oda wür sechs Bochen gestoam.
+de	18773	Deutsch-Litta (Kopernica)	1	Her eist wi wajr odr siechs Buchn g' oschta͜uom.
+de	18774	Hochwiesen (Vel'Ké Pole)	1	Hä ist fü wia oda sägs Bochn gåsto̊bn.
+de	18786	Sankt Georgen bei Obernberg am Inn	1	Er is vor a vier oder sechs Wocha g'storim.
+de	18800	Hochburg	1	Er is voar vieri oda sechs Wocha st[?]orbm.
+de	18805	Pischelsdorf am Engelbach	1	Er is voa via oda sȯx Wochn gstoam.
+de	18846	Niederkappel	1	Er is vor viar oda sögs Wocha gstorbm.
+de	18855	Niederwaldkirchen	1	Er is vor vier oda sechs Wochan gschtorbm.
+de	18902	Dorf an der Pram	1	Es is vor 4 oda 6 Wocha gstoribn.
+de	18910	Michaelnbach	1	E is vo vier oda sechs Wochan gstor[e?]m.
+de	18923	Alkoven	1	Eá is voá viá odá sex Wochán g’schtoábm.
+de	1895	Königlich Damerau	1	He es va vea owasch sehs Wäke gestorwe
+de	18984	Arnberg	1	Er iß vȃra viera, söx Wochan g’sch[t/d?]orm.
+de	18987	Rackering	1	E is vaͦ via oda seöx ö über e Wocha gschtaͦram.
+de	19003	Pennewang	1	E is vo vier oder sex Wochan gståram.
+de	19011	Sipbachzell	1	Er is vora vier a fünf Wochán gstorm.
+de	1904	Pesseln	1	Hö ös for vöhr odder secks Wäke gestorwè.
+de	19070	Reichenau im Mühlkreis	1	Ea is voa via oda söx Wocha gschdoam.
+de	19080	Gutau	1	Er is voa via oda sex Wochn gstorbn.
+de	19085	Hackstock	1	Ea is vur sechs Wochan g’storm.
+de	19096	Traunstein	1	Er is vor vier oda sechs Wocha gstorbn.
+de	19138	Maria Laah	1	Er is vor vier odır sîchs Wocha gstorm.
+de	19144	Haag	1	Er is vor viar oda sechs Wochan gschtorbn
+de	19154	Amstetten	1	Er is vora vier oda sechs Wocha gstorbm.
+de	19163	Wieselburg	1	Er is vura viar oda sex Wochn gsturm.
+de	1919	Groß Gerlauken (Vjazovka)	1	He ös ver vör odder sechs Woche gestorwe.
+de	19225	Steyregg	1	Er is vor a vier oder söx Wocha gstoam.
+de	19233	Schwertberg	1	e͂ā is va vi͂ā oda seks wocha gštoām.
+de	1924	Pakallnischken (Suvorovo)	1	He es ver vör odder sechs Wäke gestorwe
+de	19245	Bad Kreuzen	1	Er is vor viar od. söchs Wocha g’starbn.
+de	19257	Altenmarkt	1	Es is vor an etla vier oder sechs Wochan g’stoabn.
+de	19301	Els	1	Vor etla 4 oder 6 Wochan is’ er g’storbm.
+de	19311	Gneixendorf	1	Er is vor vieu oda sechs Wochan gstoam.
+de	19322	Fels am Wagram	1	Er is vor via oda sex Wochan gstoam.
+ef	19334	Oberhautzental	1	Er is vor vier oda seks Vocha gstorm.
+ef	19401	Schönbühel an der Donau	1	Er is vor vier oder sechs Wochan gstorbm.
+ef	19404	Karlstetten	1	Ea is voa via oda sex Wocha g’stoam.
+ef	19419	Würmla	1	Voa via oda sechs Wochan is a gstoam.
+ef	19429	Ried am Riederberg	1	Er is vor vier oder sechs Wocha g’sturm.
+ef	19479	Mank	1	Er is vor viar bis sex Wocha g’schtua͡rm.
+ef	19486	Wilhelmsburg	1	Er is vor 4 oder 6 Woch’n gsturb’n.
+ef	19492	Stollberg-Siedlung	1	Er is vor vier oder sehs Wochan g’storb’n.
+ef	1953	Pillau	1	Hee öß vă vöa oda sǟß Wäke gestorrwe.
+ef	19541	Grub	1	Er is voa via oda sex Woucha gstoam.
+ef	1956	Patersort (Beregovoe)	1	Hei es va vehr ower sess Wäke gestorwe.
+ef	19564	Obergänserndorf	1	Er is vor via oda sex Wocha gstorbn.
+ef	19607	Raggendorf	1	Er is vor vier oder sēks Wochan gstorbn
+ef	1962	Bergau (Tzwetkowo)	1	A ös fa veer åwa säß Wäke gestorwe.
+ef	19621	Stillfried an der March	1	Ear is voarviəródərsėgs Wȯcha gschtoarbm. 
+ef	19640	Grünau (Grinava)	1	E(a) is vo(a) vi(a) od(e) sexs Wo(u)chn tschto(e)m.
+ef	19642	20. Bezirk-Brigittenau	1	Er is vur via oda sechs Woch’n g’stur’m. (åkråtzt)
+ef	19646	Raasdorf	1	Er is’ vor vier oder sechs Woch’n g’storm.
+ef	19657	Breitensee	1	Er is vor vier oder sechs Wocha gstorbn.
+ef	19659	Theben (Devín)	1	Er is' vor vier oda sechs Wocha gstorbn.
+ef	19667	Biedermannsdorf	1	Ea is vua via oda sex Wochan gschduam.
+ef	19674	Enzersdorf an der Fischa	1	Ea is voa via oda sex Wocha gstoabn.
+ef	19696	Kittsee	1	Ea ist voa via oda sechs Wochn gstoam
+ef	19705	Mischdorf bei Pressburg (Nové Košar	1	Ea is voa via oda sex Wocha kstobm (kstobn).
+ef	19726	Rohrau	1	Er is vor vier oda sechs Wocha g’storbn
+ef	19739	Thiersee	1	Ea is voĕ via oda söx Wochn gschtarm.
+ef	19748	Achenwald	1	Ea is vua via oda söx Wochn gstorm.
+ef	1977	Fuchsberg (Semënovo)	1	He ös va vea oawa ses Wäke geschtoarwe.
+ef	19775	Obertrum am See	1	Er is vor vier oder sechs Wochá gstoaröm.
+ef	19787	Hochfeld	1	Ea is voa via oda söchs Wocha gschtoaröm.
+ef	19823	Vorderfager	1	Ea is voa via oda söx Wocha gstoribn
+ef	19851	Schwendt	1	Er is vor viar oder söx Wochn g’storbn.
+ef	19854	Waidring	1	Ea is vau via oda sex Woch’n g’starm.
+ef	19859	Kuchl	1	E(a) is vur söx Woch’n g’stoarm_
+ef	1987	Pregelswalde (-)	1	He öß va vea owa seß Wöke gestorwe.
+ef	19886	Schörfling	1	Er is vor a 4 a 5 Wochan gstorbn (4-6 Wochen kommt nie vor)
+ef	19896	Gschwandt	1	E[r?] is vor vier ouda sex Woucha gstorim.
+ef	19901	Schlierbach	1	Ea i s voá via oda sögs Wochan gschdoám.
+ef	19941	Sankt Gilgen	1	Er is voa via oda föa Wocha gstoam.
+ef	19945	Ebensee	1	Vã etlā Wochan is a gstõrim.
+ef	19947	Steyrling	1	Er is vor vier oder sechs Wochn gstorbn.
+ef	19956	Bad Ischl	1	E(rr) is vr an ȯtla Wocha gstoröbn.
+ef	19965	Windischgarsten	1	E is vo vier oda (finf) söx Wocha gschtoram.
+ef	19971	Bad Goisern	1	Ẽ is vo̊r a ẽlla Wochn g’sto̊rem.
+ef	19977	Grundlsee	1	E is vo(vå) Klammer unter ganzem Wort vier oda seks Wochan gstårim.
+ef	19993	Wörschachwald	1	Ea is vōr vi(a)r oda sex wocha gschtoa(r)m.
+ef	20005	Trattenbach	1	Er is vor vier oda sechs Wocha gstorm.
+ef	20008	Sulzbach	1	Er is vor vier oda sex Wochán gschtorbm.
+ef	20019	Ybbsitz	1	Er is vor vier oda segs Wochan g’storbn.
+ef	20023	Gaming	1	Er is voa via oda sex Wocha g’stoam.
+ef	20046	Kleinreifling	1	Er is vor viar oder sex Wocha gstorbn.
+ef	20049	Mariazell	1	Ea is voa via Wouchn gschtoam.
+ef	20051	Neuhaus	1	Ea is voar vier oda segs Wocha gstorbm.
+ef	20058	Lassing	1	Er is vor vier oder sechs Wocha g’storbn.
+ef	20062	Ardning	1	Er is vor 4 oda 6 Wo̊chn gstorm.
+ef	20065	Weng	1	Er is voa vier oda seͮx Woucha gstoam.
+ef	20067	Lainbach	1	Er is vor via oder sex Wochn gstoam.
+ef	20069	Gollrad	1	Er is vor vier od[?]a sechs Wocha gstorbn.
+ef	20077	Oberort	1	Er is vor vier oder sechs Woch’n g’storbn.
+ef	20090	Wext	1	He is för fief of ßes Wiäß storwen.
+ef	20099	Leer	1	He iß vör veer off seß Wiɑ̈rk stuorwn.
+ef	20110	Herbern	1	He is fö ver of ses Wiäken stuorben.
+ef	20117	Ringel	1	He iß vörr vehr odder ses Wiärken sturwen.
+ef	20128	Hilter am Teutoburger Wald	1	he is vör veer odder ses Wièken sturben.
+ef	20240	Bardel	1	He is vör wek of veer of zes storven.
+ef	20248	Haddorf	1	Hei is vör ver oder ses Wiäken stuo͡arwen 
+ef	20259	Hörstel	1	He is för veer of sess Wiäken storfen.
+ef	20269	Westerkappeln	1	Héi is för veer of ses Wiéken stuorwen.
+ef	20283	Astrup	1	he es vor veer oße ses Wierken stuorb’n.
+ef	20346	Frensdorf	1	He is für veier of ses Wek storven.
+ef	20350	Elbergen	1	He iß vör veier of seß Wecken sta3rwen 3 über a. 
+ef	20361	Setlage	1	He is vör veer of ses Wecke storwen.
+ef	20370	Merzen	1	He is vör veer oh fes Weken starwen.
+ef	20381	Vörden	1	He is vor veer o͡aff seß Wjeken stu͡orben.
+ef	20384	Wielen	1	He is vöör viere ȯf ses Wekke stòrven.
+ef	20446	Hoogstede	1	He is vör veer of ses wekke störven.
+ef	20454	Geeste	1	He͜ï̇ Bogen unter „eï̇“ is vä͜ör Bogen unter „äö“ veï̇r of sess Wǟke storwen.
+ef	20463	Dohren	1	He is för veir of sess Wäken storwen.
+ef	20468	Renslage	1	Hei is vör veer of ses Weken sterwen.
+ef	20481	Dinklage	1	hei is v[ä?]r veier ofsehs Weken sterven.
+ef	20543	Haren (Ems)	1	Heï̇ is vȫr veï̇r of saß Wäke storwen.
+ef	20555	Hüven	1	He is vör veer of sess Wäken starwen.
+ef	20562	Garen	1	Hëi is vö͡eͤr väir of ses Wäken storwen.
+ef	20575	Sevelten	1	He is vör ve̓er of ses Wäken storven.
+ef	20589	Neudersum	1	Häi is väor fäier of ses Wäke storwen
+ef	20596	Neubörger	1	He is vör ver Weken of ses Weken storwen.
+ef	20599	Neuarenberg	1	Häi iß vȫhr väjer a3ff 3 über a ses Wä4ken 4 über ä sta3rwen 3 über a.
+ef	20604	Garrel	1	Heÿ is förr veÿr of seß Wäken storwen.
+ef	20638	Visbek	1	He is vör veer of ses Wäken sturben.
+ef	2067	Enskemen (-)	1	Hē ĕs vŏr vier odder sechs Woche gestorwe.
+ef	20710	Wietzendorf	1	hei is vör veir oder seß Wäken storben.
+ef	20734	Colonie Syke	1	Hee iss väör veer ood’r sess wääk’n sturrm.
+ef	20753	Magelsen	1	hei is för veir oder seß Wäken störben.
+ef	20763	Nordkampen	1	He is vör veer oder ses Wäken dod gahn.
+ef	20774	Vierde	1	hei is ver väıer oder ses Wecken storm.
+ef	20788	Schmarbeck	1	Hei hat vör feier od. seß Wäken storm.
+ef	20798	Brümsen	1	He is vo ver oder ses Weken storbn.
+ef	2081	Eydtkau (Eydtkuhnen)	1	He eß vorr vier odder sechs Woche gestorwe.
+ef	20891	Dörpel	1	he is vör vehr oder ses Weken storben.
+ef	20901	Maasen	1	He is för ver oder seß Wäken störm.
+fg	20917	Drakenburg	1	Hei is v[ä/ü?]r veir odr ses Wáken störben. 
+fg	20920	Unterrodewald	1	Hëi iß vör vëier oder seß Wäken störm’n.
+fg	20933	Thören	1	hei is vor veihr oder söß Wäck’n storm.
+fg	20936	Hassel	1	hei is voor veier oder seß Wecken storm
+fg	20946	Scharnhorst	1	Hei iß vorr veier oder seß Wochen storrm.
+fg	20948	Aschen	1	Heh is vorr veer oder sess Weken storven.
+fg	21024	Burlage	1	he is vör ver oder seß Wecken storben.
+fg	21033	Hoysinghausen	1	hei is vör veir oder ses Wäken sto̔rben.
+fg	21045	Brokeloh	1	hei is för ve͞ir oder ses Wäken storm.
+fg	21050	Empede	1	Hei is vör veir oder seß Weken störm.
+fg	21065	Gailhof	1	Hei is vor veir ör ses Wieken storm’n.
+fg	21074	Adelheidsdorf	1	hei is vor veier oder ses Wochen ’estorben.
+fg	21085	Nordburg	1	Hei is vor veir oder ses Wochen storben
+fg	211	Rodowo	1	Er is vor vier oder sechs Wochn gestorbn
+fg	21105	Preussisch Ströhen	1	he is vor veir oer sess Wäken tout gehe.
+fg	21190	Brockhausen	1	he is vor ve[ä?]r gst osse seß Wi͡äken stuom.
+fg	21199	Isenstedt	1	häi es vorr vehr oder seß Wiēken sturbn.
+fg	21218	Wietersheim	1	Hei is vör veier oder seß Wieken störben.
+fg	21235	Hülshagen	1	Hei is ver veier oder ses Weken storben.
+fg	21252	Holtensen	1	hei is vör veir eoder seß Weeken storb’n.
+fg	2127	Klein Nuhr (Sukhodol'Ye)	1	Hei es vor vehr oder sess Wäke gestorwe.
+fg	21280	List	1	Hei iß vorr veir oder seß Wochen ͜  estorb’n.
+fg	21295	Immensen	1	Hei is vor veier oder seß Wecken storben.
+fg	21305	Voigtholz-Ahlemissen	1	Hei is var veier oder ses Wochen e storben
+fg	21316	Steinhagen	1	Hä͜i Bogen unter „äi“ eß vorr väi͜er Bogen unter „ie“ odder seß Wierken sturben.
+fg	21342	Krentruperhagen	1	Heu eß vör veu[r/e?]r ėu̇er ses Wieken storben.
+fg	2135	Skungirren (Pen'Ki)	1	He es ver vör Woche gestorwe.
+fg	21355	Wendlinghausen	1	heu eß för veur odder seß Wecken storben.
+fg	21362	Reher	1	Hâî is vor vâir Zirkonflex über „ir“ oder ses Weken storm.
+fg	21384	Harderode	1	Hei is vorr veir oder sess Wieken storrmen.
+fg	21405	Rheden	1	Hei is vor veier oder seß Weken ^e storben.
+fg	21429	Nette	1	Hei is for veir oder ses Wochen storben.
+fg	21446	Steinlah	1	hei is vor veier uder ses Wochen storben.
+fg	2145	Kurschen (Kuz'Mino)	1	He es fer ver oder sechs Woche gestorwe.
+fg	21455	Gross Schiplage	1	hei es vo veir Wirken sturben.
+fg	2161	Kalnen (-)	1	Hö ös vorr vēr oder sechs Woche gestorwe.
+fg	21611	Schweicheln-Bermbeck	1	Hei is vor veier oder sechs Wieken storben.
+fg	21632	Veltheim	1	Hei es vör vei’r oder seß Wiek’n storb’n.
+fg	21666	Rohden	1	Hei is vör veier oller seß Weeken ’estorwen.
+fg	21679	Springe	1	Hei is vor veier o͂der ses wochen storben.
+fg	21687	Vardegötzen	1	Hei is vor veir e͡oder seß Wecken ’estorben.
+fg	21707	Rautenberg	1	Hei is vorr veier oder ses Wecken storb’n.
+fg	2182	Soginten (Svirskoe)	1	Hä es vor vier oder sechs Woche gestŏrwe.
+fg	21882	Bodenstedt	1	hei is vor veir uder ses Wochen starben
+fg	21902	Rautheim	1	Hei is vor veier oder sehs Wochen estorben.
+fg	21936	Bartensleben	1	De is vor veir oder seß Wochen ne storben.
+fg	2200	Narmeln (Polski)	1	He es forr veer oder säs Wäken gestorrwe.
+fg	2204	Leysuhnen (Ščukino)	1	He es vä vör owasch seß Wäke gestorwe
+fg	22044	Rottorf	1	Hei is vor veir oder ses Wochen ’estorben.
+fg	22063	Hundisburg	1	Hei is vorr vier oder sechs Wochen storben.
+fg	22074	Farsleben	1	He iss vorr vier o’r sechs Wochen estorb’n.
+fg	22083	Reesen	1	he is vor vier ȯder sɑchs Wochen schtorben
+fg	22092	Paplitz	1	Hä iß vörr vier odder sechs Wochen schtorb’n
+fg	22111	Wasbüttel	1	He is vor veier oder ses Wochen estorben.
+fg	22149	Rätzlingen	1	Hei is vorr veir oder sess Wochen e storben.
+fg	2216	Hermsdorf (Pograničnyj)	1	He es va ver owa seß Wäke gestorwe.
+fg	22172	Burgstall	1	He ist vorr vehr oder sechs Wochen storm.
+fg	22222	Reislingen	1	hei is vor veir oder sess Wochen estorben.
+fg	22249	Roxförde	1	He is vrö veer oder söss Wochen storbn.
+fg	2225	Moritten (Oktjabrskoe)	1	He ös va vea oawa sess Weke gestarwe.
+fg	22264	Grieben	1	Hei is vörr vier oder sechs Wochn schtorruchn.
+fg	22276	Zabakuck	1	Hɑ̈ is vör vier oder sechs Wochen storrun.
+fg	22375	Westerholz	1	he is for veir od’r sŏ̈s Wochen storb’n.
+fg	22384	Tülau-Fahrenhorst	1	he is vor v̇eer oder söß Wochen storb’n.
+fg	22394	Köbbelitz	1	He is ver veer orrer söß Wochen storm.
+fg	22407	Schenkenhorst	1	He is vör veer orrer sös Wochern stor’m.
+fg	2242	Naunienen	1	Ä ös wa vöa awa seß Wäke gestarwe.
+fg	22423	Querstedt	1	He is vö veer orrer söß Wochen storwen.
+fg	22443	Staffelde	1	hei is vö vier orer soß Wochen gestorwen.
+fg	22453	Grosswudicke	1	Här is vör vier oder sechs Wochen storr’un
+fg	22574	Masel	1	He͡i is vör ve͡ir oder söß Wochen dodstorben.
+fg	22581	Höddelsen	1	He is vör veer orer söß Wochen storbn.
+fg	22599	Wöpel	1	H[a?] hat för veer oder söss Wochen storben.
+fg	22621	Molitz	1	he iss vö veer orer söß Wochen storwen.
+fg	22636	Rönnebeck	1	He is veu veer aorer sös Wochen storwen.
+fg	22654	Iden	1	He is vör ver oder söß Wochen storwen.
+fg	22667	Kuhlhausen	1	He is för vier oader söß Wochen storwen.
+fg	22685	Proitze	1	He ’att vör veer orrer ßöß Wochen schtorben.
+fg	22773	Holdenstedt	1	häih is vorr väier oder söß Wecken storm.
+fg	22796	Wustrow (Wendland)	1	he is vör ver orrer söß Wochen storben.
+fg	22810	Lomitz	1	he is vör veer orrer söß Wochen storm.
+fg	22819	Jeggel	1	He is vör veer odder sös Wochen storb’n.
+fg	22832	Gross Lüben	1	He is vör vehr orer sös Wochen storwen.
+fg	22846	Görike	1	He Er ist vör ver orer sös Wochen storwen.
+fg	22910	Holthausen	1	he ös vörr vier of säß Weeken gestorwen.
+fg	22931	Dahlhausen	1	Hä es für veïer Wo oder säs Wiaken gestuorwen.
+fg	22965	Langeloh	1	Hä es vü͡ö väi͡er [o/d?]der säs Wiäcken stu͡orven.
+fg	22990	Halingen	1	Hai i͡eß vüär väier odder seß Wiäken stoarwen.
+fg	22998	Neheim	1	Hei is füär veuer oder säs Wiäken stuorwen.
+fg	23010	Niederbergheim	1	Hai is vöär veuer ower säs Wiak̊en sto͝arwen.
+fg	23021	Kapellen	1	Hään es vörr vier of sä͡es wääke gestörwe.
+fg	23031	Rheinberg	1	hei es vör vier oder säs Wäke gestörwe.
+fg	23184	Holthausen bei Kirchhellen	1	Hä is vör veer oader ses Wäkken gestoarwen.
+fg	23191	Herten	1	Hä es füa veä ode säs Wiakn gestuawen.
+fg	23207	Waltrop	1	Hai es vüär veer uoder säss Wiäcken stuorven.
+fg	23218	Kamen	1	Hai ist vü͜er Bogen unter „üe“ va͜ier Bogen unter „ai“ odder säß Wi͜äken Bogen unter „iä“ stu͜orbm Bogen unter „uo“.
+fg	23231	Norddinker	1	Hei is vöer veuer onder süs Wiäken stuorn.
+fg	23261	Kessel	1	Hej͡ eß förr vier off säß Wäke gestörwe.
+fg	23271	Kehrum	1	He es vör vier of ses Wäke gestorven.
+fg	23284	Hamminkeln	1	heh eß vȯr vier off säß Wȧken gestorwen.
+gh	23293	Erle	1	He is vöa veer of ses Wääke sto͜͡arwen Bogen über und unter „oa“.
+gh	23343	Göttingen	1	He iß vö veier oder seß Wierken sturwen.
+gh	2338	Wenslowischken (Voznesenskoye)	1	He es vorr veer oder sechs Woche gestorwe.
+gh	23402	Holtwick	1	Heh is vȏrr vär of se(ch)s Wiäke storwen.
+gh	23412	Seppenrade	1	He is för veer Wiäken stuorwen.
+gh	23419	Davensberg	1	He is vö veer oader seß Wiüt stuob’n.
+gh	23426	Vorhelm	1	He is för veer oaf säs Wiärken stuorwen.
+gh	23435	Stromberg	1	Hee is vö veer ov seß Wirken storm.
+gh	23453	Stockum bei Coesfeld	1	Heh iß vöh veer off sääs Wiäck stuorwen.
+gh	23466	Nottuln	1	He is vör ver off ses Wierk stuorm.
+gh	23471	Münster	1	He is füör fio or sehs Wiäken storven.
+gh	23478	Einen	1	Heh é̇s fäh veer of sähs Wiäk stoavn.
+gh	23483	Greffen	1	He is vö väir off seß Wiäken stuorben.
+gh	23494	Speelberg	1	Héj es vȫr vier of ses wäken gestörwe.
+gh	23498	Hemden	1	He is vör ver of seß Wäken storwen.
+gh	23507	Weseke	1	He is vor ver [o???] säs Wäken stonrwen.
+gh	23545	Tüddern	1	Hä es för veier of sähs Wäke geschtorfe. 
+gh	23566	Porselen	1	He es för ver of sechs Wäke gestorfe.
+gh	23602	Holzweiler	1	Eä èß vör vèr uder sechs Wǟge gestorve.
+gh	23630	Evinghoven	1	Ä es vür veer udder sechs Wächen gestorve.
+gh	23817	Reusrath	1	hä es für vier udder sechs Weche gestorwe.
+gh	23843	(Stolzenberg)	1	Hä es för vier odder säss Wächen gestorwen.
+gh	23858	Oberklüppelberg	1	Hei es för veer odder sässe Wiäcken stuorven.
+gh	23873	Valbert	1	Hei es für veer odder ses Wiäken stuarwen.
+gh	23885	Sporke	1	Hai is viär Bogen über ganzem Wort väier Bogen über „äier“ oder seß Wiäken stuo͡arben.
+gh	23902	Schmallenberg	1	Heu iß füar fäïr oder säß Wiäkken stuarben.
+gh	23906	Elmpt	1	He͜ä Bogen unter „eä“ es vör veier äf sähs Wüeken Bogen unter „üe“ gestorven.
+gh	23922	Helenabrunn	1	Häe ös vör veier oder säs Wäeke gestorven.
+gh	23933	Weißenberg	1	Hä(k) és för vier udder sechs Wäeke gestôrfe.
+gh	2398	Mertensdorf (Tjomkino)	1	He es va ver Weke gestorwe.
+gh	2409	Trausen (Lipnyaki)	1	A i|es va vaia si|es Weke gestu͡arwe.
+gh	24107	Hubbelrath	1	He es vör vier oudder säs Weke gestorrve.
+gh	24134	Barmen	1	Hä es vörr vier oder ses Weken gestorrven.
+gh	24156	Delle	1	hä ä̌s f[ä?]r säß Wi͜äken Bogen unter „iä“ dot ͜   ego͜an Bogen unter „oa“ (esto͜arwen.) Bogen unter „oa“
+gh	24167	Altena	1	Hei es vör vēǐr oder seß Wi͡äken schto͡arwen.
+gh	24180	Stockum	1	Heû ies viär veier oder seß Wiäken stuarwen,
+gh	24208	Wall	1	Hän ös vür veir odder sähs Wäken gestorven.
+gh	24218	Vennikel	1	he es vör vier oder suhs Weke gestorwen.
+gh	2426	Groß Pentlack (Kamenka)	1	He es vor 4 obe 6 Wäke gestor[w?]e
+gh	24336	Berghausen	1	Hä äß ver vier orrer saex Woche gestorwe.
+gh	2436	Kowarren (Zaozernoye)	1	He es ver vör odder sechs Woche gestorwe.
+gh	24360	Bottendorf	1	E es ver vier orrer sechs Wochen gestorwen.
+gh	24380	Bergfreiheit	1	Hä eß ver vier oder sächs Wochen gestorben.
+gh	24412	Roppershain	1	hä es fär [?]ier oawer sächs Wochen gestorͣben.
+gh	24431	Konnefeld	1	He i͜eß Bogen unter „ie“ vörr vier or’r sechs Wochen gestorben.
+gh	24454	Berneburg	1	he äß ver vier oder sechs Wachen gestarben.
+gh	24466	Lüderbach	1	Hä eß verr vier odder sächs Wochen gestarben.
+gh	24490	Züschen	1	Hai ies viärr veier odder siäß Wiäken stuarven.
+gh	2452	Kleschowen (Kutusowo)	1	He es ver vör odder sechs Woche gestorwe.
+gh	24636	Rhadern	1	He es förr veer odder seß Wäken gestorwen.
+gh	24659	Buhlen	1	He es verr 4 odder säks Wochen g’storben.
+gh	2466	Tolkmicko	1	He öß fă fea ŏwă fīf Wäke gĕstorwe.
+gh	24677	Metze	1	Häh äs färr vier owwer sèchs Wochen gästorwen.
+gh	24695	Wattenbach	1	Hä äß vär vier äwwer sächs Wochen g’storwe.
+gh	24715	Vockerode	1	hä es veer vier odder sächs Wochen gstorwen.
+gh	24737	Grosstöpfer	1	Hä es verr vier orr sechs Wochen gestorben.
+gh	2474	Pierzchaly	1	He es ver vea owat seß Wäke gestorwe.
+gh	2482	Peterswalde (Piotrowiec)	1	He ös va vea oda seß Wäke gestorwe.
+gh	24884	Olsberg	1	Hai is füür väier odder säß Wiäken stuarwen.
+gh	24901	Sudeck	1	Hë͜i Bogen unter „ëi“ is für vë͜ir Bogen unter „ëi“ or säss Wäcken ̮’estorben
+gh	24917	Braunsen	1	He is fêr veer oder seß Wekene storben.
+gh	24926	Zierenberg	1	Hei is vor̈ vär odder säs Wecken gestorwen.
+gh	2494	Saruny	1	Hö ös va vöa owa seß Weke gestarwe.
+gh	24942	Speele	1	He es vör vier oder säs Wochen gestorben.
+gh	24959	Hermannrode	1	hei es vor ver oder ses Weken gestorben.
+gh	2507	Wojciechy	1	A ös va veer oawer seß Wäke gestorw[e/n?].
+gh	25113	Meiste	1	Hai is füör veuer oder säß Wiäken stuorwen.
+gh	25131	Fürstenberg	1	Hei is vörr veier örre säs Wiëken stuerbwen.
+gh	25136	Scherfede	1	Hăi iß für veier odder seß Wicken sturwen.
+gh	25150	Körbecke	1	He is für veier odder seß Wicken sto͡urben.
+gh	25163	Gottstreu	1	hei iss vor vier oder sess Wieken gestorben.
+gh	25179	Esebeck	1	(fehlt)
+gh	25197	Ebergötzen	1	Hei iß vōr seß Wǒchen starb’n.
+gh	25214	Bönninghausen	1	Hei is vüär veuer odder säß Wiäken stuorwen.
+gh	25223	Kirchborchen	1	Heī is vör veier oder sais Wicken st[u?]orwen.
+gh	25343	Siebenstern	1	Hei is für veier oder ses Wieken stuorwen.
+gh	25354	Bruchhausen	1	Hai iss vor vair odder ses Wiken stuorben.
+gh	25363	Schönhagen	1	Hei is for vier or sess weeken estorben.
+gh	25373	Oldenrode	1	hei iß vor vier oder seß Wochen storben.
+gh	25391	Marke	1	hei is vor veir oder ses Wochen stormen.
+gh	25407	Westerwiehe	1	He is vö väier odder säß Wiäken stuōrm.
+gh	25514	Haustenbeck	1	hä es vör veur oder ses Wecken storm.
+gh	25522	Heesten	1	Heu es för feuer euder ses Wekken storbe[o?]
+gh	25543	Rischenau	1	heu es vör vö͞r odder seß Wecken stōrb’n.
+gh	25560	Lobach	1	hei is vor väer oder sess Wochen e storben.
+gh	25579	Wenzen	1	Hei is vorr veier oder sess Wäcken estorben.
+gh	25596	Ackenhausen	1	Hei iss vour veier orre sess Wochen ostorben.
+gh	25607	Wolfshagen im Harz	1	Hei is vu͡or veir u͡oder sess Wu͡ochen ě stu͡orben.
+gh	25798	Kell	1	Ä is für vie odder sechs Woche gestorwe.
+gh	25824	Stromberg	1	Ä eß verr vier orrer sechs Wuche gestorwe.
+gh	25845	Staudt	1	’Ä es ver vier ora sechs Woche gestorwe.
+gh	2586	Jurkiszki	1	He össvar vör odder sechs Woche gestorw[e?].
+gh	25876	Steinbach	1	he es vor ve|er orrer sechs Wuche gestorwe.
+gh	25904	Höfen	1	Heä ös vörr veer odder sechs Wäächen gestorwen.
+gh	25914	Gemünd	1	Ä͡e oß für veer odder sechs Weiche geschtorrwe.
+gh	2602	Maciejowieta	1	He iss vorr vier odder sechs Woche gestorwe.
+gh	26141	Iversheim	1	Eä ös vüe vie odde sechs Weiche gestorve.
+gh	26155	Gelsdorf	1	Ä ös füe vie odde seohs Weiche gestorfe.
+gh	26178	Ohlenberg	1	Er äs für vier oder sechs Woche gestorwe.
+gh	26205	Seifen	1	Er öss fö vier orrer sechs Wochen jestorwen.
+hi	26228	Gehlert	1	Er eß vor vėier oder sechs Wuche gestorbe.
+hi	26261	Waigandshain	1	Ä es fir vejer or sichs Wuche gestorwe.
+hi	26283	Sinn	1	Er eß vur ve-i-er or sechs Woche gestorbe.
+hi	26312	Venwegen	1	Dä ös vör vehr of s[ä?]s Wäche gestorfe.
+hi	26324	Üdingen	1	Hä ös vür vie odde sechs Wäche gestorfe.
+hi	26351	Borr	1	Häe ös füe vie ode sechs Weiche gestorfe.
+hi	26578	Roisdorf	1	Äe öß füe viē odde sechs Weiche gestorve.
+hi	26604	Geistingen	1	Hä ös für vier odder sechs Woche gestorve.
+hi	26627	Herchen	1	Er oß vür vier odder sechs Wochen gestorven.
+hi	26642	Mittelhof	1	Ä es vor vier (od) orrer sechs Wochen gestorwe.
+hi	26664	Wilden	1	Hä es vor vier or sex Woche gestorwe.
+hi	26683	Straßebersbach	1	Er es ver veier auer sechs Wuche gestorwe.
+hi	26712	Mariagrube	1	Häe es vörr veer off sess Wäche gestorve.
+hi	26734	Niederzier	1	Ia es vë vie odder sechs Weiche gestorve
+hi	26753	Horrem	1	Äer öß füer vîe odder sachs Wähsche gestorve.
+hi	2676	Rygarby	1	Á ös voa vea owa seß Wäke gestorwe.
+hi	26763	Poll	1	Hä eß för fier oder sechs Woche gestorfe.
+hi	2691	Kolwiny	1	Hē es (od. a=es) vā vēā oawa sĕs Wäke gesto͡awe.
+hi	27003	Heiligenhaus	1	Hä öß füé viè odder sechs Wǒche gestorven.
+hi	27025	Faulmert	1	hä es vörr vier oder sechs Wochen gestorven.
+hi	2703	Srokowo	1	Hoeh öß ver vöhr ower seß Wäke gestorwe.
+hi	27038	Hahnseifen	1	häh es vör vier oder sechs Wochen gestorwen.
+hi	27064	Müsen	1	Hä es vör vier orrer sechs Woche gestorwe.
+hi	27074	Schameder	1	Hä es ver vier errer sächs Wuche gestorwe.
+hi	27106	Dudenhofen	1	Er is vor vier orrer sechs Wuchche gestoave.
+hi	27135	Wenighösbach	1	Er iß ver via äber sechs Wuche ges[c?]htorbe.
+hi	2715	Stregiel	1	Hee ösz värr veer odder sächs Wäke gestorwe
+hi	27150	Wiesthal	1	Er ist v[u?]r vier oder sechs Woche gest[u?]rben.
+hi	27163	Massenbuch	1	Ār is für vier ober sechs Woucha gestorba.
+hi	27186	Neubessingen	1	Ar is vür vier oder sechs Woucha gschturba.wa.
+hi	27209	Dittelbrunn	1	Ar is vor vier bis sechs Haken unter h Wocha g’schtorba.
+hi	27223	Vockenhausen	1	Er eß vir väjer Wuche g’sdorbe.
+hi	27244	Heddernheim	1	Er is’ vor vier odder sechs Woche g’storwe.
+hi	2727	Budziska	1	Hö es ver vier odder sechs Woche gestorwe.
+hi	27425	Bruchköbel	1	Ě ess vir ve-ir orrer sechs Wuche gestorwe.
+hi	27444	Hailer	1	Eh es für veier orer sechs Woche g’storwe.
+hi	2746	Chelchy	1	He es fer ver oder sechs Woche gestorwe.
+hi	27461	Oberndorf	1	Er is für vier aber sechs W[?]che gestorwe.
+hi	27469	Rossbach	1	Er is für vier äwer sechs Wocha̰ g’storba̰.
+hi	27480	Hassenbach	1	Ar is für seichs Woche gschturba.
+hi	27501	Poppenlauer	1	Ar is für 4 oder 6 Wochä gschturbä.
+hi	27507	Cratzenbach	1	’r eß vor vier ower sechs Wocha g’storwa.
+hi	2762	Wilkowo	1	E es ve vēr ode seß Wäke gestorwe.
+hi	27692	Friedrichstal	1	Er is vor veier ower sechs Wuche gestorwe.
+hi	27719	Leidhecken	1	’r eaß fir vier sechs o͡awer sechs Woche gestoarwe.
+hi	27742	Gelnhaar	1	’R eas fir väir oawer sechs Woche gestoarwe.
+hi	27765	Ulmbach	1	Hä iß für vier äwer sechs Woche gesturwe.
+hi	27775	Eichenried	1	Hea iß für vier Woache kestorbe.
+hi	27792	Wildflecken	1	he es füNr N über ü vier eber sechs Woͣche geschtorba
+hi	27807	Bastheim	1	Ha es vor vier odr sechs Woch[a?] g’storba.
+hi	2781	Karwiny	1	Hä ös ver vier adder sechs Woche gestarwe.
+hi	27821	Philippstein	1	Er es für veir u͑hr sechs Wuche gestorwe.
+hi	27835	Dornholzhausen	1	’R es für vieer awwer sechs Woche gestoaw.
+hi	2800	Krzykaly	1	Da öss ver via oda sechs Woche gestarwe
+hi	28010	Nonnenroth	1	R’ is ferr väir oauwer seks Woche g’storwe.
+hi	28027	Götzen	1	Er eaß vear vier ouwer sechs Woche g,staorwe.
+hi	28045	Altenschlirf	1	Aär isz fur vier awer saächs Woache gestorwe
+hi	28063	Fulda	1	Ä os fir vier oder sechs Woche gestorbe.
+hi	28080	Rupsroth	1	E – is vür vier eber saechs Woche gestorbe.
+hi	28107	Gerthausen	1	Hä iß vörr vier oder sächs Woche gestorbe.
+hi	2817	Mawry	1	Hah ös vähr via adda sechs Woche gestoarwe.
+hi	282	Zolna	1	Hei is vor feier oder seß Weke sturwe.
+hi	2827	Sarnowo	1	Da es ver viea oda sechs Wochn gestorwe.
+hi	28278	Krumbach	1	Ah eas ver väi’r oawer sechs Woche ge[st?]oarwe.
+hi	28298	Londorf	1	he(nasal) ieß vihr vä(i)jer W[a/o?]che g’stoar[l?]we.
+hi	28315	Otterbach	1	Ear eß vehr väir Wocha auer sechs Wocha gastarbä.
+hi	28330	Schwarz	1	hä es vor vier äwer ſächs Woache a über c geſchtorwe.
+hi	28346	Grossenmoor	1	Hä (ä breit) eß vir vier äwer sächs (ä br.) Wo͡[a?]che gestorwe.
+hi	28358	Rasdorf	1	Ä eß virr vier ober sechs Wochä gästorbä
+hi	28369	Wiesenthal	1	hea is vör vier oder sächs Waoche gestorbe.
+hi	28392	Herzhausen	1	E’ es vier veër awer saï̇chs Woche gestorwe.
+hi	2846	Ledlawki	1	A öß ver väa oda seß Wiäke gestorwe.
+hi	285	Kosobudy	1	Hai is vor v[a/e?]ier oder ses Weke sturv[a/e?].
+hi	28568	Betziesdorf	1	Häeh äeß vär vier ewwer sechs Wo͡ache gsto͡arwe
+hi	28589	Neustadt (Hessen)	1	hä äß vär vier ábber sechs Woche gkesterbe k über g.
+hi	28605	Neukirchen	1	Hä es vehr vier ewwer sechs Woͣche gestoͣrwe.
+hi	28623	Gittersdorf	1	hä es ferr vier äwer sächs Woche gestarwe.
+hi	28640	Herfa	1	Er eß vär 4 oder 6 Woche gestorbe.
+hi	28651	Frauensee	1	Äh es verr veer otter s[öc?]hs Woche gestö[r?]rbe.
+hi	289	Königswiese (Leśna Huta)	1	He is vo veä ode ses Wätje sturwe.
+hi	2900	Borawskie	1	He es vorr veer odder sess Woche gestorwe.
+hi	2906	Zabrowo	1	Hei is va veir adde söß Wäke storwe.
+hi	291	Lubichowo	1	He iß ver veiä adde sess Wötche sturwe.
+hi	2916	Stanowo	1	Hä êß vor vier odder sechs Wochen gestor[we?...].
+hi	2923	Fijewo	1	Er es vor vier oder sechs Woche gestorbe.
+hi	2935	Groß Koschlau	1	Er ess vorr vier odder sechs Woche gestorbe.
+hi	2955	Liksajny	1	Er ös vorr vier oder sechs Woche gestorbe.
+hi	2962	Molza	1	Er öß vorr vier odder sechs Wochen gestorbe.
+hi	2970	Warkaly	1	Da öß ver via ada sechs Woche gestorwe.
+hi	2996	Bucznik	1	Hä eß vorr vier odder sechs Woche gestorbe.
+hi	300	Montauerweide	1	He is vör ver oder ses Wöke gestorwe.
+hi	300660	Sankt Roman	1	Er is vor 4 oda 6 Wochan g’stoarm.
+hi	300798	Reikersdorf	1	Ea is voa via oda sex Wochan gschtoam.
+hi	301042	Rigaus	1	Er is voar a 4 a 5, mag sei go voar a sögs Wochn scho gschtoarm.
+hi	3058	Zyndaki	1	He es fa fea oda sesz Weke gestorwe.
+hi	3069	Rychliki	1	Ä (oder auch Hä) öss vor vier odder sechs Woche gestorbe
+hi	3083	Chojnik	1	Er öss vorr vier adder sechs Wochche gestorbe.
+hi	3093	Ksiaznik	1	Hä ĕs vorr viē oddē sechs Woche gestorbe
+hi	3111	Glotowo	1	Da es ver viea eida sechs Woche gestarwe.
+hi	312	Ryman	1	Hei is va veia urra söß Weka stürwa
+ij	3122	Derc	1	Da es verr viea adda sechs Woche gestorwe.
+ij	31677	Battweiler	1	Er isch vor vier oder sechs Wuche gestorb.
+ij	31695	Heltersberg	1	Er ésch vor vier orer sechs Woche gestorb’.
+ij	31700	Ramberg	1	Er esch vor vier orrer secks Woche gschtorwe.
+ij	31719	Geinsheim	1	Er isch vor vier odder sechs Woche gstorwe.
+ij	31737	Diedenhofen	1	En es vir ve͡jert edder sechs Wochen gestorf.
+ij	31765	Laumesfeld	1	Én éhs vier féier oder sechs Wochen gestorw.
+ij	31789	Beckingen	1	Er öss vor ver odder sechs Wöchen gestorf.
+ij	31800	Calmesweiler	1	Er es vor 4 oder 6 Wochen gestorf.
+ij	31824	Steinbach bei Ottweiler	1	Er is vor vier orrer sechs Wuche gestorw.
+ij	32019	Dietschweiler	1	Er ist vor vier oder sechs Wochen gestorben
+ij	32040	Siegelbach	1	Er eß vor vier orrer fünf Woche gestorb.
+ij	32053	Alsenborn	1	Er iss forr vier ore sechs Woche gestorbe.
+ij	32067	Erpolzheim	1	Er iss vorr vier orrer sechs Woche gschtorwe.
+ij	32085	Kreuzweiler	1	Én as für voeir odder sechs Wochen g,storf.
+ij	32102	Greimerath	1	En a͡es fir vi er ädder sechs Woche gesturf.
+ij	32119	Oberlöstern	1	Er es vor veier Wo oder sechs Wochen gestorv.
+ij	324	Podwilcze	1	Hei is vo͡a veie ore söß Wäke sturwe.
+ij	3254	Jurkowo	1	He ös fa vea owa ses Wöke gestorwe.
+ij	3267	Pozarki	1	He es [ve?]r vier ower ses Wäke gestorwe.
+ij	3272	Gawliki Wielkie	1	He es verr veer odder sechs Woche gestorwe.
+ij	3280	Swietajno	1	He es vär veer oder seß Wäcke gesturwe.
+ij	32855	Altviller	1	A ischt vur vier oda sechs Wuchen geschteͦrw.
+ij	32883	Woustviller	1	Er īsch vor vier oder sechs Wuche gestōrb.
+ij	3301	Barschken	1	He öss vor veer awer sess Wäke gestorwe.
+ij	33035	Rimling	1	É̌r Breve über Akut i̩sch va̩r vi̩r od̟ér Plus unter d sechs Wuché gésta̩rb.
+ij	3304	Dawillen	1	Heh öß verre vöhr od'r seß ehke gestorwe.
+ij	33055	Roppeviller	1	R isch vor vir odr sechs Wuche gestorb.
+ij	33064	Dahn	1	Er isch vèr vier orrèr séchs Woche gschtorwè.
+ij	3309	Dittauen	1	He is var vehr ober sechs Wäke gestorwe.
+ij	33102	Gleiszellen	1	Er esch var vier aarer sechs Wache gschorbe.
+ij	33111	Herxheimweyher	1	Er esch vor vier oder sechs Woche gschtorwe.
+ij	33126	Guinkirchen	1	’R ischt vor vier od’r sechs Wuchen geschtohr.
+ij	33146	Überherrn	1	A. eß vohr ahgt oder zehn Wouhen gestoriv.
+ij	33159	Malstatt	1	Er eß vor vier oder sechs Wuchen gestorb.
+ij	3318	Deegeln	1	He es för veer odder sess Wäke gestorwe.
+ij	33185	Niederwürzbach	1	Er isch vor vier oder ore seehs Wuche gestorb.
+ij	33331	Steinbuch	1	Er js vǒr vier oder sex Woche gesturwe.
+ij	33346	Breitendiel	1	Er iss’ vor vier äbber sechs Wucha g’shtorba.
+ij	33364	Hundheim	1	Er is vor vier oder sechs Wuche gschdorwe.
+ij	33381	Steinbach	1	Er itt vor vier oder sechs Wucha g’starbe.
+ij	33400	Eibelstadt	1	Ar it vorr viar oder sechs Wucha gstorba.
+ij	3342	Pillkoppen	1	Höe öes fer veer oder seß Wäke gestorwe.
+ij	33420	Rödelsee	1	Ar is’ vor vier od’r sechs Woch’n g’storm.
+ij	3343	Karkeln	1	He ös vor veer odder ses Wäke gestorwe.
+ij	3345	Dünen (Ackmenischken)	1	Ee ös vorr vier oder [sech/seß?] Wäke gesterwe.
+ij	3351	Pleine	1	He öß verr veer odder seß Wäke gestorve.
+ij	33605	Erfelden	1	‚Er eß fer vier orrer sechs Woche gsto[?]b. . ’
+ij	33614	Traisa	1	Er es vur via ora sechs Woche gestuwe.
+ij	3362	Cullmen-Kulken	1	Hee es ver veer odder säß Wähke gestorwe.
+ij	33631	Heubach	1	Er is vor vier äwer sechs Wuche gestorbwe w über b.
+ij	3364	Rositten (Rybachiy)	1	Hee ess vär veer oder sess Wäke gestorwe.
+ij	33648	Hofstetten	1	Er is vor vier ewer sechs Wuche gestorbe.
+ij	33660	Bischbrunn	1	Er iß vor vier aber sechs Wucha kschtorba.
+ij	33677	Birkenfeld	1	Ar is vor viër oder sechs Woche gstorbe.
+ij	33692	Rupprechtshausen	1	Ar it für viar  oder sechs Wucha gstorba.
+ij	33711	Gaibach	1	Ar it vor vier oder sechs Wuch’n gschtorm.
+ij	33725	Rüsselsheim	1	Er eß verr vier, orre sechs Woche gestorbe.
+ij	33741	Langen (Hessen)	1	Er is vür vier orrer sechs Woche gestorwe.
+ij	33849	Altlussheim	1	Er isch vor viar odder sechs Wochḛ gstorbḛ.
+ij	33860	Schatthausen	1	Er isch vor vier oder seks Wochá g’schtorwä.
+ij	3387	Sassenhöhe (Augsgirren)	1	He ös ver vör odder sös Wäke gestorwe.
+ij	34001	Daudenzell	1	Er isch vǒr vier oddr sechs Woche gschtorwe.
+ij	34015	Billigheim	1	Er isch vor vier oder sch sechs Woche gschtorwe.
+ij	34025	Oberkessach	1	(fehlt)
+ij	34044	Ailringen	1	Er is vor vier oder sechs Wouche g’storbe.
+ij	34058	Lichtel	1	Er is’ vor vier odder sechs Wucha̰ g’storba̰.
+ij	34065	Windelsbach	1	(fehlt)
+ij	34076	Ludwigshafen am Rhein	1	Er is vǒr vier odder sechs Wochě gestōrwe.
+ij	34096	Ursenbach	1	Er isch vor viear ewa sechs Woche gschtorwè
+ij	34216	Gammelsbach	1	Er is va via ewer sechs Woche gstorbe.
+ij	34228	Rumpfen	1	Er ischt vor 4 [o?]d[er?] 6 Wuche g’schtorbe.
+ij	34235	Gerichtstetten	1	Er ist is vor vier od. seksch Wuche g’schtorbe
+ij	3424	Beierstedt	1	Hei is får veir oder seß Wochen ’estårben.
+ij	34247	Königshofen	1	Er itt vr vier awer segsch Wucha gschtorba.
+ij	34266	Aufstetten	1	Ar is vor vier oder sechs Wucha gasturba.
+ij	34288	Weigenheim	1	Ar is ver vier odder sechs Wucha g’storba.
+ij	34305	Bobstadt	1	A is vorr vier orrer sechs Woche geschtor̄we.
+ij	34321	Mittershausen	1	Er is vor vier orrer sechs Woche g’storbve.
+ij	344	Modrolas	1	hei is vo veia urra söß Wäka sturwa
+ij	34447	Berghausen	1	Er isch vor vīer odděr sechs Wocha g’storawa.
+ij	34503	Winzerhausen	1	’r ischt vor vier oder sex Wocha g’storba.
+ij	34522	Liemersbach	1	Er̮ ist vor vier odır segs Wocha̰ g’storbwa̰.
+ij	34535	Eutendorf	1	Er ischt vorr via̰r odder secks Wucha̰ gschtorwa̰.
+ij	34545	Honhardt	1	Er ischt vor vier oder sechs Wucha gschtorwa.
+ij	34557	Segringen	1	Er isch vor vier odder sechs Wuche gschdorbe.
+ij	34566	Graben	1	Er isch vor 4 odder 6 Wochǎn Tilde unter „an“ g’storbǎn Tilde unter „an“.
+ij	34707	Odenheim	1	Er isch vor vier oder sex Wocha g’schdorwa.
+ij	34734	Massenbachhausen	1	Er isch vor vier oder secks Wochə gschtorwə.
+ij	34750	Binswangen	1	Er isch vorr via̰r od’r sechs Wocha̰ gstorba̰.
+ij	34773	Öhringen	1	Er isch vo͞r vīḛ̌r ōddě́r séx Wuchǎ̰ g’schdōrwǎ̰.
+ij	34791	Döttingen	1	Er is vor vier od̮er segs Wuche(a) g’schtorbe(a)
+ij	34802	Gaggstatt	1	Èr is vor vier odder segs Wuchè g’schtor[b?]vè.
+ij	34818	Dorfgütingen	1	Er is vǒr sechs Wucha gschtorba.
+ij	34838	Röckingen	1	Er is vor vier ȏ der sechs Wucha g’storba.
+ij	34855	Windsfeld	1	Er ist vor vier oder sechs Wuchen gstorbn.
+ij	34872	Ettenstatt	1	Er is vorr ve(i)er odder séchs Wocha g’schtorm.
+ij	35003	Untermässing	1	Ehr is vo vüa oda sexs Wochan gsc[?]d[o?]rm nur halbes h vor d.
+ij	35011	Gimpertshausen	1	Er ist vor vier oder sechs Wocha gstorbn.
+ij	35026	Beratzhausen	1	Er ist vor vier oda sechs Wochan gstorben.
+jk	35035	Eitlbrunn	1	Er is voa 4 oda 6 Wocha gstarm.
+jk	35046	Altenthann	1	Er is’vor vier oder sechs Wocha g’storb’n.
+jk	35055	Rauenzell	1	Er ist v[o?]r vie[r?] ode sechs Wochn̑ g’storbn̑._
+jk	35067	Ismannsdorf	1	Er is vor vier odder sechs Wuchn gschtorbn.
+jk	351	Smecino	1	Hei is vŏ veiä̆ urrä̆ söß Wäkä̆ stŭwä̆.
+jk	3516	Bornum	1	Hei is vor vei’r oder seß Wochen n’ storben.
+jk	35165	Büchenbach	1	Er ist vur vöir oder sechs Woch’n g’schtorbn.
+jk	35168	Seligenporten	1	Er is vor věia oder sechs Wocha gschtorb’n.
+jk	35188	Günching	1	Er is voa vaia oda sechs Wocha gstoa’m.
+jk	35195	Adertshausen	1	A ris voa föüa ada sex Wochen gstoarm.
+jk	35204	Wiefelsdorf	1	Er ist voa vier oda sechs Wocha gstorm.
+jk	35211	Bodenwöhr	1	Er is vor vier oder sechs Wo̰chan g’schtorm.
+jk	35223	Flachslanden	1	Er is vor vier oder sechs Wuchn gstorm.
+jk	35236	Grosshabersdorf	1	Er is vor vier ober sechs Wochna gschtorm.
+jk	35254	Birnthon	1	È is vo véiér ode sechs Wochna gschturm.
+jk	35339	Röthenbach	1	Er is vur vöir oder sechs Woch’n gschtorbm.
+jk	35377	Alfeld	1	Er is voa vöia oda sex Wochng g’schtàm
+jk	35382	Ammerthal	1	Er is voar vöia̮ oda̮ sechs Wocha̮̮n g’starm.
+jk	35393	Trisching	1	Er is voar vüa oda sechs Wocha gstarbn.
+jk	35517	Unternesselbach	1	Er is vor vier odır sechs Wuchen g’storbn.
+jk	35524	Oberreichenbach	1	Er ͜  is voé vier ͜  odé sechs Wochna gschtorbn.
+jk	35544	Buckenhof	1	Er is vorr vier odor sechs Wucha g’storbn.
+jk	35562	Kirchröttenbach	1	Es is vua véjer ower sechs Wochn gschturm
+jk	35571	Hartenstein	1	Er is var věīen oder sechs Wochan gstarm.
+jk	35577	Schlicht	1	Er is(t) voar sech vier od. sechs Wocha gstorbm. 
+jk	3558	Beckendorf	1	Hıi is vorr vei’r oder ses Wochce ’estorbıe.
+jk	35585	Kohlberg	1	Er is voar vöia oba sechs Wocha g’schtoam.
+jk	35597	Oberlind	1	Er is vor vöir oda sex Wocha g͡schdarbn.
+jk	356	Porst	1	Hei is väue veiä annä sǟß Wäkä stūwä.
+jk	35710	Haag	1	Va vier oder sechs Wuchn̰ ißr gsdorm.
+jk	3572	Domersleben	1	hei is forr vier odder sechs Wochen ’storben.
+jk	35729	Mühlhausen	1	Er is vor vier odr sechs Wochn g’storbm.
+jk	35755	Pautzfeld	1	Èé is voé vié odé séchs Wochn gschtorbm.
+jk	35762	Moggast	1	Er is vor vier oder sechs Wochn g’storb’n.
+jk	35778	Pegnitz	1	Er is fua feīa ober sechs Woch’n gschturbn.
+jk	35791	Speinshart	1	Er is voa̰ vöia oda sex Woch’n gschtoarm.
+jk	35799	Friedersreuth	1	Èa is va vöia Wochan oda séx g’schtaɑrb’n ɑ über a.
+jk	35807	Plössberg	1	Er is voa vea oda segs Woch’ngstarbn. 
+jk	35824	Geusfeld	1	Ar it vor vier oder sechs Wochn g’stormn.
+jk	35843	Tütschengereuth	1	Er is vur viè odè sechs Wochn gschtorm.
+jk	35857	Litzendorf	1	Ea is voa viea oda seks Wochn gschtorm.
+jk	3592	Prester	1	Er is vor vier oder sechs Woche n gestorm.
+jk	36007	Hollfeld	1	Ea is voa viea oba sechs Woch’n g’schtorm.
+jk	36017	Donndorf	1	x E is vo vir ode sechs Wochna gstorm.
+jk	36039	Kirchenpingarten	1	A̰ is voa veia oda sechs Wochen gschtoam.
+jk	36049	Hohenhard	1	Er is voa vöia oda sechs Woch’n g’storb’m. 
+jk	36056	Leonberg	1	Àr is voà vö̮ia odà sex Wochàn gschtoarm.
+jk	36065	Hohrodberg	1	Er esch vor vier oder sechs Wuche gstorwe. unter „st“: „scht“
+jk	36084	Colmar	1	Ar esch vor vier oder sechs Wuche g’storbve.
+jk	3609	Dalchau	1	Hä is vor vier odder sechs Wochen estorm.-
+jk	3614	Schweinitz	1	Hä is vor vier odder sechs Wochen jesturbn.
+jk	36159	Meistratzheim	1	ǎrr esch vorr viǎrr edder sechs Wǔche g’storwe.
+jk	36178	Müllen	1	È̌r Gravis und Breve über E ǐsch vǒr viér ǒder séx Wuchè̌ gschtǒrbè̌.
+jk	36202	Kniebis (Kr.Freudenstadt)	1	E(a)r „(a)“ über E ischt vo(a)r „(a)“ über o vi͜ǎr Bogen unter „ia“ oder sex Wochḛ̌ gschdo(a)rbḛ̌ „(a)“ über o.
+jk	3626	Nennhausen	1	Hää is vörr vier odder sechs Wochen estorven.
+jk	36272	Ödsbach	1	E̮r isch vor vier oder sexs Woche g’schtorbe.
+jk	36277	Turquestein-Blancrupt	1	Er isch vor vir oder sechs Wuche gstorbe[s?]e.
+jk	36282	Wangenbourg	1	Èr isch vor viér oder sechs Woche (gst[h?]) gschtorbe.
+jk	36309	Furdenheim	1	Er esch vor vér od’r sechs Wuchen g’ schtorwe
+jk	36334	Ruprechtsau	1	Er isch vi|ėr oder sechs Wǔche geschtōrwe.
+jk	3634	Berge	1	Heä is vörr vier udder sechs Wochen’e storwen.
+jk	36348	Achern	1	Èr isch vor vier od’r sechs Wocha g’schtorba (wa).
+jk	36362	Saarburg	1	Er isch vor vier oder sechs Wuche g’storb.
+jk	3639	Pausin	1	hɑ̈ is vör vier odder sechs Wochen n storwen.
+jk	36489	Bois De Chêne	1	Er isch vor viar odder sechs Wuche g’storbve.
+jk	3649	Hermsdorf	1	hä is vor vier oder sechs Wochen [g/j?]estorben.
+jk	36525	Wilshausen	1	Er isch vor vièr otter sechs Wuche g’storbe.
+jk	36552	Marienthal	1	Ar ésch vor vir oder sechs Wuche g’schtorwe.
+jk	36567	Fort-Louis	1	Er isch vor vir od’r sechs Wuché g’storwé.
+jk	36594	Bad Rotenfels	1	Er isch vor 4 oder 6 Woche g’storbe.
+jk	366	Przeradz	1	Hei iß vöe veie urre söß Wäke stuewe
+jk	3664	Birkholz	1	Er ist ver vier oder sechs Wochen gestorwen.
+jk	36737	Altwiller	1	Er isch vur viehr oder sechs Wuche g’storw.
+jk	36755	Weislingen	1	Er isch vur vier oder sechs Wuche g’storw.
+jk	3677	Gielsdorf	1	Er iß vor 4 odder 6 Wochen gesturwen.
+jk	36772	Lichtenberg	1	Ár esch f’r veār od’r sechs Wuchå gschdorwǎ.
+jk	36789	Goersdorf	1	Er isch vor vier odder sechs Wuche g’schtor[w?]e.
+jk	36823	Siegen	1	Ar isch far vier odr sechs Wuche g’starwè.
+jk	36842	Neuburgweier	1	Er isch vor vier odder sechs Woche g’schtorbe.
+jk	3688	Ringenwalde	1	Hä is ver vier odder säks Wochen gesturwen.
+jk	36880	Bischoffingen	1	Er isch vor vièr oder sechs Wuchä gstor bä.
+jk	36898	Maleck	1	Er isch vor vier oder sechs Wuche g’storbe.
+jk	36911	Yach	1	Er isch vor viar odr séks Wocha g’schtorba.
+jk	36933	Orschwiller	1	’R isch vor viar oder sex Wocha g’storbe.
+jk	37007	Bindernheim	1	Ar esch vor véar odr sègs Wucha gstorwa.
+jk	37025	Schmieheim	1	Ä̮r isch vor vier odder segs Wocha g’storba.
+jk	3703	Lehmannshöfel	1	Er is ver vier odder sächs Wochen jesturwen.
+jk	37035	Bollenbach	1	Er isch vor viar odr sex Wocha gstorba
+jk	37058	Le Hohwald	1	ar èsch vor viar odd’r séchs Wucha gstorwa.
+jk	3711	Warnick (Warniki)	1	Hä is ver vier odder sächs Wochen geschtorwen.
+jk	37119	Buchenberg	1	Er isch vor vier odă sechs Wochen gschdorwa.
+jk	37138	Rottweil	1	Är ischt vor viar oder sexs Wocha gschtorba.
+jk	37153	Obernheim	1	Er ischt vor vier oder segs Wocha gschduarba.
+jk	3722	Zaszczytowo	1	He is vor vier oder sechs Wochen gestorben.
+jk	37302	Winterlingen	1	Er isch vo͡ar vīr odr sex Wochå̰ g’schto͡arba.
+jk	37314	Dürrenwaldstetten	1	Er ist voar 4 oder sechs Wocha gstorba.
+jk	37333	Hausen am Bussen	1	Er ist vor vier oder sechs Wocha gstorba.
+jk	37354	Baustetten	1	Er ischt vor vier [o?]der seks Wocha gstorba.
+jk	37369	Illertissen	1	Er ischt voar sögs odr viar Wucha gschterba.
+jk	37388	Schenkenzell	1	Er isch vor viër Woche gschdorbe.
+kl	37401	Aistaig	1	Eear ischt voar viera̰r oder segs Wocha g’storba.
+kl	3744	Rudnica	1	Hä is verr vier odder sechs Woch’n jeschtorwen.
+kl	37555	Stetten bei Haigerloch	1	Dr ischt vor viear oder sechs Wocha gschtorba̰.
+kl	37571	Salmendingen	1	Ear ischt voar viar od’r sexs Wocha gschdorba.
+kl	37581	Bernloch	1	Er ist vor 4, 6 Wocha̰ gstorba̰.
+kl	37598	Gundershofen	1	Er ischt vor vier oder sechs Woche g’storbe.
+kl	37607	Eggingen	1	Ear ischt vor vier oder sèx Wocha gschtorba.
+kl	37622	Holzheim	1	Ear ischt voar viar oder sögs Wucha gschto̰rba._
+kl	37658	Oberwaldach	1	Ear ist vorr vier oder sechs Wocha̰ g’storba̰.
+kl	37802	Bondorf	1	Er ist vor vier oder sechs Wocha̰ gstorba̰.
+kl	37825	Lustnau	1	Ear ist vor viar oder sechs Wocha gstorba.
+kl	37855	Dettingen an der Erms	1	’r ischt vo̊r viar oder secks Wocha gsto̊rba.
+kl	37862	Donnstetten	1	’r ischt vo̊rr vie(a)r oder séx Wocha gsto̊rba.
+kl	37869	Radelstetten	1	Er ist vor viēr oder sechs Woche storbe.
+kl	37883	Ballendorf	1	Äar ischt voar viår oder sechs Wuchchå gschtorrbå.
+kl	37900	Obermedlingen	1	Er ischt voãr viãr odr söx Wochã gschtorbã.
+kl	37902	Raumünzach	1	Er isch vor vier oder sechs Woche gschtorbe.
+kl	37947	Schönaich	1	Ǎr(r) ist voǎr viǎ̰r oder sechs (sêks) Wochǎ̰ gstorbǎ̰.
+kl	38044	Hünerberg	1	Ear ist ischt voar 4 oder 6 Wocha gstorba.
+kl	38056	Gechingen	1	Eer ischt voar 4 oder segs Woche gschtoreba.
+kl	38095	Denkendorf	1	Ear ischt voar viar oder sechs Wochen Tilde unter „en“ gschtorben Tilde unter „en“.
+kl	38116	Albershausen	1	Ear ischt voar f viar oder segs Wocha gschtorba.
+kl	38136	Winzingen	1	Er ischt vo͜ar Bogen unter „oa“ vor vi͜ar Bogen unter „ia“ odr sex Wucha̰ g’schtorbɑ̰.
+kl	38146	Zang	1	Ea̰r ischt vor viar oder sex Wucha gstorbǎ̰.
+kl	38155	Auernheim	1	È͜ar Bogen unter „Ea“ ischt vo͜ar Bogen unter „oa“ sechs viér odr sechs Wucha̰ gschtorba̰.
+kl	38169	Dennach	1	A̰r ischt vor via̰r odda̰r ségs Wocha̰ g’storwa̰.
+kl	38182	Tiefenbronn	1	Er isch vor vier oder sex Woche gschtorbwe.
+kl	38348	Schöckingen	1	Er ist vor viar oder segs Wocha gschtorba.
+kl	38373	Hegnach	1	EÄr ischt vor viar oder sex Wocha gschtorba.
+kl	38407	Steinenberg	1	Dea̰r ischt vor via̰r oder segs Wocha̰ gschdorba̰.
+kl	38422	Ruppertshofen	1	Er ischt vor via̰r oder sex Woche gschtorb[a̰/ḛ?].
+kl	38437	Fachsenfeld	1	Er ischt vor via̰r odır sechs Wucha̰ gstorba̰.
+kl	38448	Baldern	1	Er ist vor vier oder sechs Wocha g’storba.
+kl	38482	Kleinvillars	1	Èr isch vōr viar oddr secks Wocha g’schdorwa.
+kl	38502	Hohenhaslach	1	Er ischt vor vier oder sechs Wocha gschdorwa.
+kl	38623	Nendingen	1	Ḛ̌r ischt vor viǎ̰r oda̰r segs Wocha̰ gschdorba̰.
+kl	38640	Rohrdorf	1	D’r ischt vor 4 oder sechs Woche g’storbe.
+kl	38655	Völlkofen	1	Èr ist vor vier oder séchs Wocha gstorbè.
+kl	38666	Reichenbach	1	Äar ischt voar via̰r odər segs Wocha̰ g’schdorba̰. _
+kl	38682	Mittelbuch	1	Er ist vor ? Woche vier oder secks gschtorbe.
+kl	38695	Unteropfingen	1	Er ist voar vier oder sex Wocha gstorba.
+kl	3871	Dreetz	1	He is vör vier oarer söss Wochen storwen.
+kl	38720	Kicklingen	1	Er ischt vor vier oder sex Wucha gschtorba.
+kl	38738	Westendorf	1	Ear ischt voar viar od’r sögs Wucha̰ g’schtorba̰.
+kl	38764	Waidhofen	1	Èr is voàr viar odà séx Wochà gstárm.
+kl	38774	Eschelbach an der Ilm	1	Er is vora vier oda sechs Wocha gschdarbn.
+kl	3880	Brunne	1	Aͤh is vöár vier oder sechs Wochen éstorm’n.
+kl	38863	Pöttmes	1	Er is voar vier oda sechs Wochan gschtoarm.
+kl	3887	Sommerfeld	1	Hä is vör vier oder sechs Wochen storbn.
+kl	38899	Hebrontshausen	1	Er is voa vier oder sechs Wochan g’stoarm.
+kl	38912	Oberglaim	1	Er is vor vier oder sechs Wocha gstarbn.
+kl	38935	Fronhofen	1	Ear ischt voa̰r vier oder sechs Wucha̰ gschtorba̰̰.
+kl	3896	Malz	1	Er iß vör vier odder fünf Wochen gestorwen.
+kl	38963	Stepperg	1	Er isch vor vier od’r se(chs)x x über „chs“ Wuchn g’storbn.
+kl	3901	Stolzenhagen	1	Hä is vör vîer oder sechs Wochen gestorwen.
+kl	3906	Prenden	1	Hä is vǟr vier oder sechs Wochen gestorwen.
+kl	39062	Hafenreut	1	Er ist voar vier oder sechs Wocha gstorba.
+kl	39089	Gerolfing	1	Er is o voa̰r viea oda segs Wocha g’stārbn.
+kl	39103	Irsching	1	Er is vor vier 4 oder söchs Wochn gstorbn.
+kl	39116	Siegenburg	1	Er is voa via oda sechs Wocha gschtarm.
+kl	39126	Semerskirchen	1	Er ist vor vier oder sechs Wochan gs|ch[o/a??]rbm.
+kl	39140	Hofkirchen	1	Er ist is vo via oda sögs Wocha gschtabn
+kl	39160	Dürrenzimmern	1	Er ischt vor viar odır segs Wucha gstorba.
+kl	39179	Gundelsheim	1	Er isch vor vier oder segs Wucha gschtorm.
+kl	3919	Trampe	1	Er ist vör vier odder sechs Wochen gestorben.
+kl	39201	Walting	1	Er is vor via oder sechs Wocha gschtarm. 
+kl	39293	Bieswang	1	Er is vur vēier oder sechs Wocha g’storbm.
+kl	3931	Neureetz	1	hä is ver vier odder sechs Wochen jestorwen.
+kl	39317	Pondorf	1	Er ist voar vier oder sechs Wocha gstoarbn.
+kl	39329	Neukelheim	1	Er is vor vier od. sechs Wocha gstaew.
+kl	39342	Peising	1	Es is voa vier oda sex Wocha g’storb’n.
+kl	39356	Arlesried	1	Er ischt vor vier oder sechs Wucha gschtorba.
+kl	39370	Türkheim	1	Er ischt voar vieā̰r odr sögs Wocha̰ gschdorba̰.
+kl	39398	Gauting	1	Er is vor vier oder segs Wocha gschtarm.
+kl	3944	Kurzycko	1	Hä is vörr vier odder sechs Wochen gestorwen.
+kl	39459	Kaufering	1	Er isch vor vier oder sex Wocha gschtarba.
+kl	39475	Eching am Ammersee	1	Es is vor vier oder sex Wocha gstarba.
+kl	3949	Grzymiradz	1	hä is ver vier oder secks Wochen gestorven.
+kl	39494	Perlach	1	Er is vor viar oda segs Wocha gstarbn
+kl	39503	Zorneding	1	Er is vor vier oda sex Wocha gstorbn.
+kl	39509	Albaching	1	Er ist vor vier oder sechs Wocha g, starbm.
+kl	39515	Sankt Leonhard	1	Er is voar vier oda sechs Wocha gschtoarm.
+kl	39517	Niederraunau	1	Eǎr ischt voǎr viǎr ode’r söchs Wucha̰ g’schtorbǎ̰.
+kl	39529	Walkertshofen	1	Ear ischt voar viar odr. sex Wucha gstorba.
+kl	39546	Oberottmarshausen	1	Er ist voar vier oder sögs Wochan̰ g’schtorba̰.
+kl	3957	Lubiszyn	1	Hä iss ver vier odder sächs Wochen gestorwen.
+kl	39647	Mittelstetten	1	Ear is voar vier odḛr segs Wocha̰ gstarb’n.
+kl	3965	Heinersdorf	1	Ha is ver vier odder sechs Wochen gestorwen.
+kl	39662	Bergkirchen	1	Er ist is voar 4 od. 6 Wocha gstarbn.
+kl	39667	Unterschleissheim	1	Er is vor viar oda sex Wocha g’stor?bn. – 
+kl	39673	Moosinning	1	Er is vor vier oder sechs Wocha gschtorbn.
+kl	39687	Oberdorfen	1	E͡a is fua via oda söx Wocha gschdarm.
+kl	39693	Wettenhausen	1	Er isch voar viar oder sechs Wucha gschtorba.
+kl	39710	Zusmarshausen	1	Er ischt vor vier oder söchs Wocha̰ gschorba̰.
+kl	39723	Täfertingen	1	Er ischt voar vier od’r söx Woche ge’storbe.
+kl	39742	Gallenbach	1	Er is vor sechs Wocha gschtarm.
+kl	39865	Hilgertshausen	1	Er ıs is vor vıeṙ oder sechs Wocha gstárbn
+kl	39880	Allershausen	1	Er is vor vier oda sechs Wocha gstarbn.
+kl	39891	Rast	1	Er is vo̮ viër oda segs Wocha gstarm.
+kl	39901	Vilsheim	1	Äa is vo vür ōdǎ ségs Wōcha gstōm.
+lm	39954	Sattelbogen	1	Ea is voa via oda sechs Wocha gstoam.
+lm	39962	Krailing	1	Er is vor vier oder so̕chs Wochâ gschtorm.
+lm	39968	Oberried	1	Er is voa vie oaba söchs Wochan gschtam.
+lm	40000	Pertolzhofen	1	Ěr is vǒar ve-ia oder seks Wochan gschdǒarbn.
+lm	40012	Tiefenbach	1	Er is voa viera oda 6 Wocha gsto gschtorm.
+lm	40047	Pemfling	1	Vor via oda sechs Wocha is a gschtoam.
+lm	40057	Arnschwang	1	Ǎ(h) a(r) is vo͡a vier ōdȃ seks Wo͞chan g͞schdoarm Bogen über ganzem Wort.
+lm	40112	Wald an der Alz	1	Er ist voa via oida sächs Wocha gschtuam.
+lm	40137	Ranoldsberg	1	Er is vor vier oder sechs Wochan g’schdo͡arm.
+lm	40145	Erharting	1	Er is vor vië oder söx Wocha gstarm.
+lm	40155	Gumpersdorf	1	Er is vor vier oda söchs Wocha gstoarbn.
+lm	40191	Vilsbiburg	1	Ea’ is vo via’ Woda sex Wocha’ gschorm.
+lm	40202	Gangkofen	1	E(a)(r) Bogen unter „Ea“ is vor vier oda söchs Wocha gschtorm.
+lm	40212	Neuhofen	1	Èr is voá viá oda söx Wochá gschtoám.
+lm	40220	Bad Birnbach	1	Er is vor 4 oda sögs Wocha gschtarm.
+lm	40231	Ruhstorf an der Rott	1	Er is voar a vier oder a söchs Wocha gschtabn.
+lm	40274	Wörth an der Isar	1	Eris vor a viar oda söx Wochan gschtoam (a hell).
+lm	40286	Griesbach	1	Er is vor vier oda söchs Wochan gstarbn.
+lm	40297	Indersbach	1	Ẽ is voa vie(a) oda söx Wocha gschtoam.
+lm	40308	Walchsing	1	Er is vor vier oda sechs Wocha gstorbn.
+lm	40320	Kirchberg	1	Vor 4 oda 6 Wocha is a gstoam.
+lm	40331	Haag	1	Er is voa viea oda söx Wochan gschtoarm.
+lm	40402	Hankofen	1	Er is vor vier oder söx Wochan gschtarbm.-
+lm	40414	Plattling	1	Voa via oda söxs Wochǎn is a gstoam.
+lm	40420	Auerbach	1	Ea is vor a via oda sechs Wocha gstōam.
+lm	40428	Saldenburg	1	Er is vor 4 oda 6 Wochen gst(a)orbn.
+lm	40439	Karlsbach	1	Er s voa vier oda söchs Wocha gschtoam
+lm	40516	Steinach	1	Er is vo vier oder sechs Wo͜acha Bogen unter „oa“ Wocha „Wocha“ über „Woacha“ g’starm!
+lm	40524	Perasdorf	1	Er is vóa vier oder sȯx Wochā́ gschtoam Zirkonflex über „oa“.
+lm	40531	Regen	1	Ear is voar viar oda söchs Wochan gschtoarm
+lm	40535	Klingenbrunn	1	Er is voar a fümf oda voar a söchs Wochan gschdoa(r)m.
+lm	40538	Riekofen	1	Ea is vor viea oda sechs Wochen g’starbé.
+lm	40597	Lindau (Bodensee)	1	Er ischt vor vier oder sechs Wocha gschtorbe.
+lm	40605	Schnellers	1	Ār ischt voer vier oder sō̈chs Wochā gstwoārbe.
+lm	40613	Ratholz	1	Ea̓ ischt voar vier oděr söx Wucha̰ gschtorbě.
+lm	40637	Eschbach	1	Er ischt v or vier oder segs Wuche gschtorba.
+lm	40655	Erzingen	1	Er ist vor vier oder segs Wochè g’storbè.
+lm	40757	Schienen	1	Er ischt vor vier oder seks Wucha̰ g’schtorba̰.
+lm	40771	Wollmatingen	1	Er ischt vor vier oder sechs Woche’ g’schtorbe . _
+lm	40785	Kluftern	1	Ar ischt vor viar oder segs Wocha gschtorba.
+lm	40798	Obereisenbach	1	A̰r ischt voar Tilde unter „oa“ via̰r oda̰r sex Wocha̰ gschto̰arba̰.
+lm	40807	Ratzenried	1	A͂r ischt vor via͂r od’r sex Wocha gschtorbã.
+lm	4081	Bantikow	1	he is vö̆r vier odder sö̆s Wochen storben.
+lm	40819	Kreuzthal	1	Er ist voar vier oder sechs Woucha gstoarba.
+lm	40844	Münchingen	1	Dǎ isch vor viǎr oder sex Wuchǎ gschtorbǎ.
+lm	40863	Tengen	1	Er ischt vor viar odr seachs Wucha̰ gschtorba̰.
+lm	40898	Billafingen	1	Er iss ver vier oder sechs Wocha gstorb[a?]
+lm	4093	Kränzlin	1	He is vör vier orrer sechs Wochen storwen.
+lm	41018	Eigeltingen	1	De|isch vor [n/e?] Woche vieri oder sechsi g’schtōrbe.
+lm	4102	Seebeck	1	Er ist vör vier oder sechs Wochen storwen.
+lm	41049	Illmensee	1	Er isch vor viar oder secks Wocha g’schtorba.
+lm	41057	Baindt	1	Ar ist vor vier oder seks Wocha gstorba._
+lm	41064	Ziegelbach	1	Ear ischt voar viar odér sex Wocha g’scho̰rba.
+lm	41076	Maria Steinbach	1	Ear ischt voar vier od’r sögs Wucha̰ gschtorba̰.
+lm	41086	Waldau	1	Er isch vrr vièr odder sex Wocher gschdorber.
+lm	41098	Hubertshofen	1	Er is[h?]t vor vi(a)r oder sechs Wocha gstorba.
+lm	41114	Öfingen	1	Er ischt vor vièr odèr sèchs Woché gschtoarbé. 
+lm	4112	Klein-Mutz	1	He is för vier oder sechs Wochen storben.
+lm	4119	Gross Dölln	1	Er is vörr vier oder sechs Wochen storben.
+lm	41200	Masevaux	1	arr isch vor fīar odr sègs Wucha gschtorwo.
+lm	41214	Aspach-Le-Bas	1	tr isch vor viǎr od’r sechs Wuchǎ g’storwa.
+lm	4123	Senftenhütte	1	Häh is vörr vier odder sechs Wochen gestorben.
+lm	41245	Lipburg	1	Er isch vor vier oder sechs Wuche g’storbè.
+lm	41262	Utzenfeld	1	Er isch vor vier oder sechs Wuche gschtorbe.
+lm	41275	Schluchsee - Blasiwald	1	dr ischt vor 4 oder segs Schtunda gschtōrba.
+lm	41296	Oberentzen	1	Ar isch vor via̬r odr segs Wucha̬ gstorwa̬.
+lm	41309	Feldkirch	1	Èr isch vǒr viër odder sex Woche gschtorbe
+lm	41336	Kappel	1	Er iß v or viar od. sechs Wocha g’schtorba.
+lm	41351	Urbès	1	Ar isch vor viēr odr secks Wuche g’storwe.
+lm	41365	Rimbach-Près-Guebwiller	1	Ār īsch vor ěbéna vier oder sèchs Wucha g’stōrba.
+lm	4142	Stoki	1	Hä is ver vier odder sechs Wochen jestorwen.
+lm	41460	Rixheim	1	Ar èsch vor viar od’r sechs Wucha g’schtorwa.
+lm	4152	Stoleczna	1	He|ä is vörr vier oder se(ä)chs Wochen gestorw’n.
+lm	41566	Ranspach-Le-Bas	1	Er isch vor viǎr etter sachs Wucha gschtorba.
+lm	41598	Lörrach	1	’R isch vor v̇ier oder sex Wuchà ġschtorba.
+lm	4161	Glazow	1	Hä is vö̆r vier odda sechs Woche gestorwe.__
+lm	41623	Hütten	1	Ér isch vor vièr oder sächs Wuche gschtōrbe.
+lm	41653	Largitzen	1	Er isch vor vier äder sechs Wuche gschtorbe.
+lm	4171	Okunie	1	Hä is vör vehr orer söß Wochen gestorwen.
+lm	41714	Lucelle	1	Ǎr isch vor viǎr èter sǎcks Wuchǎ g’schtorbǎ.
+lm	41785	Höhenrain	1	Er is vaor Tilde unter „ao“ vier odá sögs Wocha gstàrm.
+lm	41801	Grosshöhenrain	1	’san gnetta ([?]) a viar ([?]) a sechs Wocha̰ d[?]ß a gstoar(b)m is.
+lm	41811	Tattenhausen	1	Ea is vaou via oda söx Wocha gstarm.
+lm	41819	Ollarzried	1	Er ist voar vier oder séchs Wucha gst[o?]rba.
+lm	41836	Kaufbeuren	1	Er ischt voar füër od’r sex Wocha gschtorba
+lm	41845	Denklingen	1	Ear ischt voar viar oder sögs Wucha gschtorba.
+lm	41855	Raisting	1	Er ist vor vi[a?]r oder sechs Wochn gstorbn.
+lm	41872	Baiernrain	1	Er ist vor vier oder sechs Wocha gstorm.
+lm	41932	Huglfing	1	Er is vo͡ar a vier a sechs Woch’n gschtarbn.
+lm	41939	Penzberg	1	Er is vor viǎr oda sechs Wocha gschdarm.
+lm	41948	Reichersbeuern	1	Er is vor vier oder sechs Wocha gstorbn.
+lm	41953	Parsberg	1	Er ist vor vier oda söx Wocha g’storb’n.
+lm	41963	Kirchdorf am Inn	1	Er is’ vor vier oda̰ sechs Wocha̰ g’starm.
+lm	41969	Aschau im Chiemgau-Niederaschau	1	Er is vo vier oda sechs Wocha gschtoarm.
+lm	41971	Betzigau	1	A ischt voar vier odr söx Wucha̮ gschtoarba̰̮ Tilde und Breve unter a.
+lm	41980	Sulzschneid	1	A ischt voar viar od’r söks Wuche gschtoarbe.
+lm	41986	Steingaden	1	Ear ist voar vier oder snx Wochḛn gstorbḛn
+lm	42039	Bayerniederhofen	1	Er ist voa vier oda sechs Wocha g’storbm.
+lm	42049	Jachenau	1	Er is voar vier oda sechs Wochn gstoarbm.
+lm	42056	Unterjoch	1	Er ist vor vier oder sechs Wochen gstorben.
+mn	42062	Oberau	1	Er ischt vor vier oder segs Wochn gschdarm.
+mn	42070	Eggstätt	1	Er is vo͠n vier oda sex Wocha gschdarm.
+mn	42076	Traunwalchen	1	Er is voar vir oda sex Wocha gschtarm.
+mn	42084	Kirchanschöring	1	Er ist vor 4 oder 6 Wocha gschtarm. (gsturibn.)
+mn	42116	Ruhpolding	1	Er is vor a vier oder a söchs Wochan g’starm.
+mn	42118	Anger	1	Ea is vui via oda söx Wochan gstuirim.
+mn	42132	Ramsau bei Berchtesgaden	1	Er is vor vier oda sechs Wocha gschtarb’n.
+mn	42140	Hachiville	1	En ass vīr véier ǒder sechs Wochen gestuorwen.
+mn	42166	Niederwampach	1	H e[e?]n as fir der oder sex Wochen gestuorfen.
+mn	42180	Neidhausen	1	Hén as virr véer oder sèchs Wochjen gestuôrwen.
+mn	42236	Ettelbrück	1	Hiên ass fír féer oder sechs Wochen géschtuôrf.
+mn	42254	Rambrouch	1	En ass fir feer oder sex Woche gestûorven.
+mn	42302	Eischen	1	En ass fir véer oder séchs Wochen gestu-erf.
+mn	42316	Hünsdorf	1	En ās firu féer oder sèchs Wochen gestuerven.
+mn	42341	Biwer	1	En as fir fěer odder sèx Woche gestuorwen. 
+mn	42414	Uewerkuer	1	Hén ahs vìr véer oder sechs Vǒchen gestuǒrvén.
+mn	42431	Peppange	1	Ěn aß uědesch véier Wochen gestuerven.
+mn	42469	Schwarzenbach an der Pielach	1	Er is vor vier oder sex Wocha gstorbn.
+mn	42470	Lehenrotte	1	Er is vor via oda sechs Wocha gsturbn.
+mn	42472	Thal	1	Er is fur vier oda sex Wocha gsturm.
+mn	42477	Grillenberg	1	Ea is voa via oda sex Wocha gschtoam.
+mn	42520	Schneebergdörfl	1	Er is vor vier od. sechs Wocha g’storbn.
+mn	42527	Mollram	1	Er is vor a vier oda seks Wocha gstorbn.
+mn	42532	Frein an der Mürz	1	Er is vor vier oda sex Wocha gstorbm.
+mn	42571	Massing	1	Er is vor vier oder söigsb Woch’n g’storm.
+mn	42573	Semmering	1	Er is’ vur viea ouda seg’s Woucha g’stuam.
+mn	42587	Feistritz am Wechsel	1	Er is vor vier oda sechs Wocha g’storm.
+mn	42612	Gleichenbach	1	Er is voa via oda se igs Woucha gschtoam.
+mn	42635	Weiden am See	1	Ea is voa via oda säix Wocha g’stoabm.
+mn	42637	Nickelsdorf	1	Er is voa vie(e) owa sechs Wocha gschtoabm.
+mn	42640	Siegersdorf	1	Er is vor vier oda segs Woha g’storb’n.
+mn	42647	Stotzing	1	Er is voa viea oder sex Wocha gstoabn
+mn	42670	Wieselburg (Mosonmagyaróvár)	1	Ea is voa via ōda (ōwa) seichs Wouchn kstoam.
+mn	42688	Andau	1	Es is vor via oder sechs Wocha gstarbn.
+mn	42691	Wiesen	1	Er ist vor vier oda sechs Wocha gstårbn.
+mn	42701	Baumgarten	1	Ea ist vua via oda sechs Wouchn gstoarbn.
+mn	42706	Apetlon	1	Ear is’ veour vie͂r ode’ seichs Weoucha gstoam.
+mn	42722	Horitschon	1	Er ist vor vier oda sēichs Wāŭcha gstoam.
+mn	42728	Holling (Fertőboz)	1	Fünfi. Ea is voa via oda s(é)iks Woucha gstoam.
+mn	42748	Frasnacht	1	Er ischt vor vier oder sächs Woche gstorbe.
+mn	42821	Rietli	1	Er ischt vor vier oder sechs Woche gstorbe.
+mn	42843	Hohenems	1	Er ist vor vier oder sexs Wucha gstorba.
+mn	42850	Bizau	1	Ar ist var vior odr sex Wocho gstoa(r)bo.
+mn	42856	Riezlern	1	Er ischt vor viar oder sachs Wucha gstorba.
+mn	42908	Gamprin	1	Er ist vor 4 oder sechs Wocha gstarba.
+mn	42926	Röns	1	Er ist [v?]ar vier,sex Wocha gstarba.
+mn	4293	Brielow	1	Hä is vör vier oder sechs Wochen ’storben.
+mn	42933	Buchboden	1	Er ist vor vier oder sächs Wucha gstorba.
+mn	42939	Lech	1	Är ischd vor vier oddr suchs Wuchä g’schdorwä.
+mn	42970	Sargans	1	är ist vor viär odr sächs Wuchä gschtorbä.
+mn	42977	Schruns	1	Er ist vor vier oder sechs Wocha gstarba.
+mn	42985	Vils	1	Er ischt vor viar oder segs Woche gstorba.
+mn	43004	Hinterhornbach	1	Er ischt vor vier odr sögs Wochê gstoårbe.
+mn	43013	Rinnen	1	E̊r ischt vor vier ode̊r segs Wochå gstorbe̊.
+mn	43021	Ehrwald	1	Er ischt voar vier oder söchs Wochå g’schtoarbå.
+mn	43022	Leutasch	1	Er ischt voar vier oda sex Wochn gschtorbn.
+mn	43027	Bach	1	Erischt voar vier oder sögs Wocha gstorba(gsturba).
+mn	43037	Silzerberg	1	Er ischt voar vier oder sechs Woch’n gschtorb’n.
+mn	43055	Hatting	1	Er ischt voara vier oder sögs Wochn gstorbm.
+mn	4306	Deetz	1	Er is vör vier oder sechs Wochen h’storben.
+mn	43070	Mils bei Imst	1	Ear ist voar viar oder sex Wocha gstoarba
+mn	43122	Unterried	1	Er is vora 6 Wochn gstarm.
+mn	43133	Holdernach	1	Ar ischt voar viar oder segs Wocha gstoarba
+mn	43152	Kauns	1	Ear ischt voar vier odr sögs Wocha gschtoarba.
+mn	43161	Unterberg	1	Er is vor vier oder sechs Woch’n g’storb’n.
+mn	43162	Pertisau	1	Er is vuar viar oder sechs Wochen gstorbn.
+mn	43173	Brixlegg	1	Ea is vua via oder sex Wochn gstorbn.-
+mn	43183	Penningdörfl	1	Ea is voar viea oda sex Wochn gstoarbn.
+mn	4321	Fahrland	1	Hä is vör vier oder sechs Wochen ’e storwen.
+mn	43210	Innsbruck	1	Ear isch vor 4 oder 6 Wochn gschtorbn.
+mn	43224	Kolsassberg	1	Er ischt vor vier os. sechs Woch’n gstorbn.
+mn	43251	Aschau im Zillertal	1	Ear ist oaft vor vier od. sechs Wochèn gstorbn.
+mn	43280	Krimml	1	Ea ist vo̊ via o̊da sex Wochn gschto̊rm.
+mn	43285	Trins	1	Er ischt voar vier oder sex Wochn gstorbn.
+mn	43288	Dornauberg	1	Er ist voor 4iere oder söx Wôchn gschstoarbm.
+mn	4329	Steglitz	1	hä is förr vier odder sechs Woaken jestorben.
+mn	43297	Schmirn	1	Ear ischt voer vier oder sögs Wo̊chn gsto̊rbm.
+mn	43301	Kitzbühel	1	E͡a i̊s vo͡u vi͡a oda se̊gs Wo̊chn gsto͡arbn.
+mn	43303	Hochfilzen	1	Ea is vor vier od. sexs Wochn gschtorbm.
+mn	43310	Saalfelden am Steinernen Meer	1	Ea is vå via oder söx Wochn gstoam. (gstårm).
+mn	43315	Werfen	1	Er is vor vier oder söx Woch’n gstorbn.
+mn	43331	Bramberg am Wildkogel	1	Er is vo̊(r) via oda söx Wochn g‘schto̊rbn.
+mn	43340	Niedernsill	1	Ear is vo vier bis segs Wochn gstorm.
+mn	43347	Sankt Georgen	1	Er is vår viar oda söx Wochn gschtårm.
+mn	43354	Goldegg	1	Er is voa vier oda sex Wochn gstoabm.
+mn	43359	Kleinarl	1	Er is vå via oda séx Wochn g’stårim.
+mn	43372	Bad Gastein	1	Er is vur via oda söxs Wochn gschtoårm.
+mn	43378	Berg-Gruben	1	Ea isch voa v[i?]a oder söchs Wochn gstorbn.
+mn	43379	Heiligenblut	1	Er ischt vr vier odr seigsch Wouchn gstoarbm.
+mn	4338	Köpenick-Kietz	1	Er is ver vier oder sechs Wochen jestorwen.
+mn	43381	Sankt Martin am Tennengebirge	1	Er is vor 4 oda 6 Woch’n g’storb’n.
+mn	43384	Ramsau	1	Vor füaf vi[er?]-sex Wochen is net eahm gåwårn.
+mn	43391	Assach	1	Er is vor vier oder sechs Woch’n g’storb’n.
+mn	43393	Donnersbach	1	Er is vo via oda sechs Wochn gstorbn.
+mn	43412	Untertauern	1	E is vå vier oda sôx W[o?]uchn gstoam.
+mn	43420	Pöllau	1	E’ is vou via oda seichs Wouchn gstorm.
+mn	43427	Oberweissburg	1	Es is vå via oder söx Wochn gstuam.
+mn	43433	Sauerfeld	1	Es is vo via oda söx Woch’n gstoɑrm.
+mn	43439	Ranten	1	E is vo vier oder sex Wochn gschtorm.
+mn	43453	Strechen	1	Er ist voa via oda sechs Wouchn gstoam.
+no	43455	Treglwang	1	Es is vor vier bis sechs Wochn gstorbn.
+no	43457	Kalwang	1	Er is vor vier oda se Wochn gstorm.
+no	43458	Trofaiach	1	Er is vor 4 oder sechs Wouchn gstorbn.
+no	43462	Hafendorf	1	Er is vor 4 oder sex Wochn gstorm.
+no	4347	Herzfelde	1	Hä is ver vier odder sechs Wochen gesturwen.
+no	43480	Sankt Michael in Obersteiermark	1	Er is vur 4 oda sechs Wouchn g’storb’n.
+no	43488	Pusterwald	1	E is vor viar odɑ segs Wouchn gstorm.
+no	43489	Sankt Oswald	1	Er is vor vier oda sechs Woch’n g’stȏrb’n.
+no	43494	Sankt Marein bei Knittelfeld	1	Er is vor vier oda sechs Wochn g’schtorbn.
+no	43497	Frohnleiten	1	Er is voa vía oda sex Wóuch’n g’schdóam.
+no	43505	Sankt Peter ob Judenburg	1	Er is vor vier oda sechs Wochn gstorbn.
+no	43530	Teufenbach	1	Er is vor vier oder sechs Wochn gstorm.
+no	43534	Sankt Johann	1	Er is vor vier oder sechs Woch'n g'storb'n.
+no	43537	Kainach bei Voitsberg	1	E is vor via oder segs Wuchn gstöim.
+no	43544	Gratwein	1	Er is vor vier oder sechs Wochn gstorbn.
+no	4357	Tempelberg	1	Er ist vor sechs Wochen gesturwen.
+no	43576	Fochnitz	1	Er is vor vier oder sechs Wochen gstrrbn.
+no	43579	Wenigzell	1	Er is vor vier oder segs Wocha gschtorm.
+no	43633	Ehrenschachen	1	Er is vor 4 od. 6 Woucha g storbm.
+no	4364	Döbberin	1	Är ist ver vier odder sechs Wochen gesturwen.
+no	43640	Salmannsdorf	1	Er īs vǫr vfia f über v owa seix woücha gstoram 
+no	43662	Sankt Kathrein am Offenegg	1	Er is vor via oder sex Wouchn gstoarbn.
+no	43699	Siget in der Wart	1	Er is vor 4 oder 6 Waoche gstorbn.
+no	43715	Stubenberg	1	Er is vor vier oder sex Wocha g’storm.
+no	43726	Unterrohr	1	Er is vur 4 oder sex Wouchn gsturm.
+no	43756	Eggersdorf	1	Ea is vor a via oda se(i)x Wo(u)chn gstoam.
+no	43761	Sinabelkirchen	1	Ea is voa via oda se=ix Wouchn gschtoam.
+no	4377	Pamiecin	1	Hä is ver vier oder sechs Wochen gesturwen.
+no	43773	Bad Blumau	1	Er is vor vier od fun̄f Wochen g’stoarbn.
+no	43782	Deutsch Tschantschendorf	1	Er is’ vor viea oda sechs Wochn gstoabn.
+no	43850	Klostermarienberg	1	Er is voa vier oda seicks Waucha gstoam.
+no	4388	Grabno	1	Er ist verr 4 oder sechs Wahen gestorben.
+no	43889	Moschendorf	1	Er is voa via ode seichs Waochan g’storb’m.
+no	43896	St. Jakob	1	Er ist vå 4 od. 6 Jahrfin gstorbn.
+no	43905	Oberpeischlach	1	Ea ischt väa via oda se̊gs Wochin gstorbm.
+no	43909	Mörtschach	1	Er ischt vor vier oder sögsch Wouchn g’stårb’n.
+no	43910	Flattach	1	Er is vor vier odr sechs Woch’n g’schtorbm.
+no	43938	Kolbnitz	1	Er is vor 4 oder 6 Wochn gschtorbn.
+no	43939	Ausservillgraten	1	Er ischt vŏr a vier ödŏ sȍgs Wöch’n gistorb’m
+no	43948	Assling	1	Ehr ist vor vier oder sögs Wochen gestorbn .
+no	43959	Lindsberg	1	Er is vor a vier oder segs Wochn gstorbm.
+no	43977	Kornat	1	Er is vor etlan 4 oder 6 Wochn gschturbn.
+no	43982	Berg im Drautal	1	Er is vor vier oda säx Wouch’n gschtorbm.
+no	43988	Goderschach	1	Er is vor vier odr söx Wochn gstoerbm.
+no	4400	Trzemeszno Lubuskie	1	Er iß ver 4 oder 6 Wochen gestorben.
+no	44006	Kremsbrücke	1	Är ist voar viar weda söx Wochn gschtårm.
+no	44010	Oberhof	1	Er is vor vier oda segs Wochn gstorbn.
+no	44038	Kleblach-Lind	1	Er is oor vier oder sechs Wochn gstarben.
+no	44040	Obermillstatt	1	Er is voar a vier oda söchs Wochn gstoarbm.
+no	44054	Patergassen	1	Er is vor viar oda sex Wochn g’storbn.
+no	44056	Steuerberg	1	Er is vor vier oder sechs Wōchen g’storb’n.
+no	44109	Hermagor	1	Er is vour viar oda seachs Wouchn gstorbn.
+no	44117	Bleiberg-Kreuth	1	Ar is vur viar oder segs Wouchen gstoarbm.
+no	44124	Villach	1	Er is vur vier oda sögs Wochn gstorbn.
+no	44142	Schiefling	1	Er ist vor vier oder sechs Wochen gstorbn.
+no	44162	Suetschach	1	Er is vur a vier oda segs Wochn gschtu(o)rbm „(o)“ über u.
+no	44174	Sankt Salvator	1	Er is vår a fümf söx Wochn gschtårbm.
+no	44182	Heft	1	Vor vier oder sechs Wochn is er g’stårbn.
+no	44189	Schiefling	1	Vor vier oder sex Wouchen is er ebba gstorbn.
+no	44196	Modriach	1	Er is vor vier oda sex Wochn gstarm.
+no	44200	Launegg	1	Vor a 6 oda 7 Wochn is a g’starm.
+no	44234	Obermühlbach	1	Vor vier oder söchs Wochn is ernoacha gstârbm.
+no	44243	Hochfeistritz	1	Er is vor vier oda söchs Wochn gstorbm.
+no	44248	Sankt Andrä	1	Vor a vier odar sechs Wouchn is a g’storbn.
+no	44256	Glashütten	1	Dos wird hiaz schoa a vir oda sex Wouchn he sei(n), daß er gstarbn is
+no	44261	Sankt Peter im Sulmtal	1	Er is vor egn (=etwa) 4 bis 6 Jahrn gstorbn (o. gstarbn).
+no	44295	Oberhaag	1	Ea is voa via oda se(i)gs Wouchn gstoabn.
+no	44303	Klagenfurt-Harbach	1	Es is vur vier oda sexs Wochn gschtuabm.
+no	44308	Eberndorf	1	Er is vor vier oda seks Wochn gsturbn.
+no	44313	Lorenzenberg	1	Er is vor vier oda sechs Wouchn gstorbn.
+no	44314	Sankt Margarethen	1	Er is fur vier oda seks Wochn gsturbn.
+no	44320	Bad Eisenkappel	1	Er is vor vier oda sechs Woche gsturbn.
+no	44333	Paldau	1	Er is vor vier oder sechs Wochan g’storm.
+no	44347	Hohenbrugg an der Raab	1	Er is vor viar oda sechs Wouchen gstorbin.
+no	44358	Mogersdorf	1	Ea is voa via, oda seichs Wouchan gstoam.
+no	44371	Allerheiligen bei Wildon	1	Er ist vor vier oder sechs gsturm.
+no	44398	Leibnitz	1	Ea is foa fìa oda seìks Wouchn g’stoabn.
+no	44414	Klöch	1	Er is vur vier oder sechs Wochn gsturbn.
+no	44425	Ratschendorf	1	E' is vur vier oda sechs Wochn gsturbn.
+no	44433	Langegg	1	Er is ’vor vìer oda sechs Wochn gstorbn.
+no	44439	Ebental (Polom)	1	Ar ischt woar wir ȯdr shecksch Bȯchn gäschtoarbm.
+no	44442	Steinwand (Podstenice)	1	Ar ischt wear wir o̓dr ssecksch Bóchn gäschtoarbm.
+no	44445	Obergras (Trava)	1	Ar ischt woar wiär ȯdr shegsch Bȯchn gäschtoarbn
+no	44447	Göttenitz (Gotenica)	1	Ar iʃcht woar roiár ódr scheksch Bóchn góʃtoarbn
+no	44454	Nesseltal (Koprivnik)	1	Ar isht vor vir idr sheksch Bȯchn goschtoarbn
+no	44461	Tiefenbach (Briga)	1	Ar ischt vor vir ódr shecksch Bòchn gäschtoarbm.
+no	44465	Unterlag (Spodnji Log)	1	Ar ischt woar wir ödr shecksch B̄öchn gäschtoarbn.
+no	44519	Wildensbuch	1	Er ist vor vier oder sechs Wuche gstorbe.
+no	44610	Wittenwil	1	Er ischt vor viär oder sächs Wuche gschtorbe
+no	44685	Neukirch an der Thur	1	Er isch vor vier oder sechs Woche gstorbe.
+no	44770	Mont-Tramelan	1	Är isch vor vier oder sächs Wuche gschtorbe.
+no	44771	Pieterlen	1	Är isch vor vier oder sächs Wuche gschtorbe.
+no	44796	Merzligen	1	Er isch vor vier oder sächs Wuche gschtorbe
+no	44801	Gals	1	Er isch vor vier oder sächs Wuche gschtorbe.
+no	44832	Huggerwald	1	Är isch vǒr viḙ̄r ǒder sächs Wǒche gschtǒrbe
+no	44851	Ziefen	1	Er isch vor vier oder sächs Wuche gschdorbe.
+no	44858	Anwil	1	Är isch vor vier oder sächs Wuche gschtorbe.
+no	44888	Umiken	1	Er isch vor víer oder sechs Woche gstorbe[s?]
+no	44994	Gänsbrunnen	1	Ar isch vor vier oder sächs Wuche gschtorbe.
+no	45009	Oensingen	1	Er isch vor vier oder sächs Wuche gschtorpe.
+op	45022	Mühlethal	1	er isch vòr vier oder sä̀chs wo̊che gsto̊̀rbe.
+op	45067	Meisterschwanden	1	Er ischt vor vièr òder sächs woche gstōrbe.
+op	45192	Mülchi	1	Er isch vor vier oder sechs Wuche gschtorbe.
+op	45195	Eigenthal	1	Är esch vor vier oder sächs Woche gstorbe.
+op	4521	Wollin	1	Äh is vörr vier odder fünf Wochen ’ne storb’n.
+op	4527	Rädel	1	He is vör vier oder sechs Wochen gestorben.
+op	45279	Hildisrieden	1	Är ischt vor vier oder sächs Woche gstorbe.
+op	45299	Willisau	1	Är isch vor vier oder sächs Wuche g'storbe.
+op	45312	Bleuen	1	Ae(ä)r „(ä)“ über e isch vor vier oder sächs Wuche gstorbe.
+op	45345	Dielsdorf	1	Er ischt vor vier oder sechs Wuche gschtorbe.
+op	45356	Unterwagenburg	1	Er isch vor vier oder sāchs Wuche gschtorbe.
+op	4539	Wildenbruch	1	Hä hät vör 4 oder 6 Wochen gestorwen.
+op	45474	Boden bei Fischenthal	1	Er ist vor vier oder sechs Wuche gstorbe.
+op	4549	Löwenbruch	1	Ha is vör vier oder sechs Wochen gestorven.
+op	45492	Dicken bei Degersheim	1	Er ischt vor vier oder sechs Woche g’stschtorbe „scht“ unter „st“.
+op	45501	Bonstetten	1	Er isch vor vier oder sechs Wuche gschtorbe.
+op	45529	Riedikon	1	Er isch vor vier oder sächs Wuche gschtorbe.
+op	4560	Deutsch Wusterhausen	1	Er is vor vier oder sechs Wochen gestorwen.
+op	45611	Feusisberg	1	Er ischt vor vier oder sächs Wuche g'stourbe.
+op	45627	Starkenbach	1	Er ischt vor viär oder sechs Woche gschtorbä.
+op	45630	Risch	1	Er isch due gschtorben - es wird' eso vier, fünf, sechs Wuche si.
+op	45644	Reichenburg	1	Er ischt vor vier oder sechs Woche g’ schtarbä.
+op	45692	Süri	1	är isch vor vier oder sächs Wuche gschtorbe.
+op	45694	Courlevon	1	Är isch vor viär oder sächs Wuchä gstorbä
+op	45716	Brünisried	1	Är īschtvor vier oder sächs Wuche gschtorbe.
+op	45718	Ferpicloz	1	Er isch öppe vor 4 oder 6 Wuche gschtorbe.
+op	45722	Abländschen	1	Är isch vur vier oder sächs Wuche gstorbe
+op	4573	Neu Golm	1	Er is ver vier odder sechs Wochen gesturwen.
+op	45734	Dentenberg	1	Er isch vor vier oder sâchs Wuche gschtorbe.
+op	45758	Mutten	1	Er isch vor vier oder sächs Wůche gschh gschtorbe.
+op	45764	Oberfrittenbach	1	Er (eigentlich ’r) ischt vor vier oder sächs Wuche gschtorbe.
+op	45784	Schüpfheim	1	Är ischt vor vier oder sächs Wochä gstorbä.
+op	458	Wietrzno	1	Hei iß vu vei’r urre söß Wäke stuwe.
+op	4584	Hohenwalde	1	Er is fer vier oder sechs Wochen gesturven.
+op	45863	Gurzelen	1	Er isch vor vier oder sächs Wuche gschtorbe.
+op	45878	Linden (Oberlangenegg)	1	Er isch vor vier oder sechs Wuche gstorbe.
+op	45891	Sörenberg	1	Är esch vor vier oder sächs Woche g’schtorbe.
+op	45892	Lungern	1	är ischt vor viär odr sächs Wuchä gschtorbä
+op	4590	Kunice	1	Ha hät fer 4 oder 6 Wochen e sturwen.
+op	4595	Mierczany	1	Ha is ver vier abber sechs Wochen gestorwen.
+op	45962	Entschwil	1	Er isch vor vier oder sächs Wuche gstorbe.
+op	45980	Saxeten	1	Är ischt vor vier al säx Wuche g’storbe.
+op	45992	Guttannen	1	Är ischt vor veer old sächs Wuchen g'schtorben.
+op	46009	Ulrichen	1	Är ischt in ver oder sägsch gstorbu.
+op	46017	Gersau	1	Er isch vor vier oder sächs Wuche gstorbe.
+op	46021	Illgau	1	[A/E?]r ist vor vier oder sächs Wuchä gstorbä.
+op	46026	Engi	1	Er isch vor vier oder sechs Wuchä gschtorbä.
+op	46027	Leuggelbach	1	Er isch vor vier oder sechs Wuche g’storbe.
+op	4603	Toporow	1	Hä is vorr vier oder sechs Wuchen gesturben.
+op	46038	Linthal	1	Er isch vor viär oder sechs Wuchä gstorbä.
+op	46040	Engelberg	1	Är ischt vor viär odär sächs Wuchä gstorbä.
+op	46045	Erstfeld	1	Er isch vor vier oder sächs Wuche gschorbe
+op	46048	Valendas	1	Er ist vor vier oder sex Wuche gstorbe.
+op	46050	Meierhof	1	Er ist abba vor vier oder sex Wucha gstorba.
+op	46051	Camana	1	Är ischt vor viär odr säx Woche g'schtorbe.
+op	46055	Nufenen	1	Är ischt vor vier oder säx Wucha gstorbä.
+op	46059	Fanas	1	Är ischt var viär oder sächs Wuchä g’storbä.
+op	46070	Mathon	1	Er ischt våar viar odr sögs Wocha g’ståarba.
+op	46071	Galtür	1	Er ist vor viar oder sögs Wocha gstoarba._
+op	46073	Felsberg	1	Er|isch vor viaer oder sechs Wucha gstorba.
+op	46079	Fideris	1	Er ist vor vier oder sächs Wuche g’storben.
+op	4608	Alt Stahnsdorf	1	Ha is ver vier oder sechs Wochen gesturwen.
+op	46083	Klosters	1	Aer ischt vor viér oder säggs Wuchen gschtorben. 
+op	46101	Wiesen	1	Er ischt vor vier bis säx Wuche gstorben.
+op	46104	Am Bach	1	Vor vier oder füf Wucha ist'r gstorba.
+op	46115	Lauenen	1	Är escht vor vier oder säx Wuche gstorbe
+op	46118	Stiegelschwand	1	Är ischt vur vier oder sächs Wuchä gschtorbä.
+op	46119	Fieschertal	1	Är ischt vor viär oder sägsch Wuchä storbä.
+op	46127	Bitsch	1	Är ischt vor vieer oud sägse Woche g'storbe.
+op	46129	Agarn	1	Er ischt vor viär oder sägsch Wuchä gschtorbu.
+op	46132	Hasel	1	Är ischt vor sägsch Wuchu gschtorbu.
+op	46142	Saas Grund	1	Är ischt vor viér oder sägs Wuchu g'schtorbu.
+op	46143	Zwischbergen	1	Är ischt vor viär olt sägsch Wuchu gstorbu.
+op	46145	Zermatt	1	Är ischt vor vier Wuche gschtorbe.
+op	-46146	Prettau (Predoi)	1	Ea (Ia) ischt föü fio ödo sögs Wöchn gschtörbm.
+op	46157	Luttach (Lutago)	1	E[r?] ischt vou 4 Odr sex Wöchn dou giwc[ß/st][?]
+op	-46161	Hinterkirch (Graun)	1	eir ischt vour viar oudr söchs wochn gschtorbm
+op	-46162	Rabenstein (Moos)	1	er ischt vour e vier oder e sex wochn gstorbm
+op	46170	Tschöfs (Ceves)	1	Er ist vor vier oder söchs Wochn Gstorbn.
+op	-46175	Pfunders (Fundres)	1	Er isch vour viör Wochn gstorbm.
+op	-46181	Antholz (Anterselva Di Mezzo)	1	Er isch vor vīnr öddo se|igs Wochn gschtorbn.
+op	-46195	Schabs (Sciaves)	1	Er isch vor a vier odo sechs Wochn gschtorbm.
+op	-46215	Pichl	1	er isch vor vier ǫddǫ so̊chs wochn gschtorm
+op	-46217	Burgeis (Burgusio)	1	Er isch vonr viar oder sex Wochen gstorbn.
+op	-46226	Kurzras (Corteraso)	1	Er ist vor a vier o. sögs Wochn gschtorbm.
+op	-46227	Katharinaberg (Santa Caterina)	1	Er ist vor a vier sögs Wochn gschtorbm.
+op	-46234	Vernuer (Vernurio)	1	Er ist voar a viear oder segs Wochn g’storbe
+op	-46262	Stilfs (Stelvio)	1	ear isch vor viear odr segs wochn gschtorbn.
+op	46267	Laas (Lasa)	1	er isch vor vier odr sechz Wochn g[sch?]torbn
+op	46283	Gargazon (Gargazzone)	1	Er isch vour fier odr sex wochn gstorbn.
+op	-46293	Sankt Peter Hinter Lajen (San Pietr	1	Er ist vor 4. od. 6 Wochen gstorben
+op	-46305	Sankt Walburg (Santa Valburga)	1	Er isch four fier odr seks Wochn gschtorbm.
+op	-46319	Wangen (Vanga)	1	Ear ist vor vier odr sögs Wochn gschstorm
+op	46324	Laurein (Lauregno)	1	Er ischt fouor fior odor sėîgs wochn gschtorbn.
+op	-46340	Kaltern (Caldaro)	1	Ear isch vor fiar odr sox Wochn gstorbm.
+op	-46344	Deutschnofen (Nova Ponente)	1	Ēr ischt vour vie oder sēx Wochn gstorbm
+op	-46351	Altrei (Anterivo)	1	Er ist vor vier oder sögs Wouchen gstourbn
+op	-46353	Salurn (Salorno)	1	Ear isch vor viar odar sögs Wochn gtorbn
+op	46361	Stefansdorf (Santo Stefano)	1	Er isch four fiar ödd söx Wochn gschtorın.
+op	46365	Lusern (Luserna)	1	Er iß vor viar oder sechs Wochan gschtabe
+pq	46367	Ljetzan (Giazza)	1	ɛr išt gaštɔ́rbet in fír sɛ́i vɔ́xən.
+pq	46369	Lusern (Luserna)	1	ɛr ist g gəstɔ́rƀət in ƀī́r zɛ̀ks vɔ́xən
+pq	46385	Nauders	1	Er isch voar viar odr segs Wocha gstoarba.
+pq	46386	Heiligkreuz	1	Er ischt voar a vier bis söchs Wochn gstarbn
+pq	46391	Poppenbüll	1	he is vör veer oder süß Wêk dod blev’n.
+pq	46407	Dahrenwurth	1	he is vär ä-Striche umkreist vêr o’r sös (süs) Wë̂k’n dôd blë̂m.
+pq	46420	Bergenhusen	1	he is vör veer oler süs Wäken doot blw’m.
+pq	46430	Owschlag	1	he is vör veer oder sös Wêken storb’n.
+pq	46443	Holtsee	1	he is vör veer oder sös Wäk’n dod blewn.
+pq	46459	Pries	1	he is vör veer oder söß Weken storben.
+pq	46481	Stakendorf	1	he is för ver oder söß Wäken storben.
+pq	46492	Behrensdorf (Ostsee)	1	hee is vör veer oder süß Wochen [s?]torb’m
+pq	465	Okunino	1	Hei is vähä veiä orä seß Wäkä stuwä.
+pq	46554	Sulsdorf	1	he iß för veer oler süß Weeken sturbn.
+pq	46570	Staberdorf	1	he is| vör vier oder sös Weken storb’n̳.
+pq	46637	Alte Kirche	1	he is vör veer oer süß Weeken storb’n.__
+pq	46652	Sollerupfeld	1	he is vör veer oder söes Wochen sturm.
+pq	46666	Neuberend	1	he is vör veer ore sös Wochen storm.
+pq	46684	Zimmert	1	he is för 4 oder 6 Wochen dod bleem.
+pq	46687	Damp	1	he is för veer [ow?]er sös Wäken starm.
+pq	46693	Westermarkelsdorf	1	he ǐs för vier orer sö|ß Woch’n storb’m͇.
+pq	46784	Grossenwiehe	1	he iß| vör vähr oder sö|ß Wochen sturm|̳ .
+pq	46798	Estrup	1	he is vör veer ode söß Wochen (Weken) storben.
+pq	46806	Wippendorf	1	he is för veer oder seus Wochen storb’n.
+pq	46823	Maasholm	1	he is fö͡ar vēr bäd si͡äs Wäk’n storm.
+pq	46924	Beken (Bækken)	1	he is vör veer oder sö̂s Wochen storb’n.
+pq	47139	Sandhatten	1	he is vor veer oder seß Wäken stürben.
+pq	47154	Adelheide	1	he is várvēr oder ses W[ä?]ken sturbn.
+pq	47171	Dreye	1	he is vör veer odes ses Wäken sturben
+pq	47183	Allerdorf	1	he is vör ver oder ses Wäk’n sturm.
+pq	47189	Heerenland	1	He is vör veer of sehs Weken stürfen.
+pq	47203	Steenfelde	1	Hÿ isˇ vör vȇr of zesˇ Weken stürven.
+pq	47219	Lohe	1	Hei is vör veier of sess Weken sturwen.
+pq	47224	Burgfelde	1	he is vör veer oder seß Wäken sturw’n.
+pq	47235	Moorhausen	1	he iß va veer oder seß Wäken sturb’n.
+pq	4727	Klein Glien	1	Ha̓ is vor 4 odder 6 Wochen g’sturb’m.
+pq	47370	Bardenfleth	1	he is vorr veer oder soß Wäken sturw’n.
+pq	4738	Niederwerbig	1	Hä is vör vier oder sechs Wochen gestorb’n.
+pq	474	Kramarzyny	1	Hei is fär veier udder söss Wäke sturwe.
+pq	47402	Mittelbauer	1	Hě is voh veer oder sös Wä[?]en sturben.
+pq	47422	Neuenbülstedt	1	he is vör veer bet söß Wäken storb’n.
+pq	47447	Neermoor	1	he is vör veer of seß Weke stüvv’e.
+pq	47455	Remels	1	Heÿ is vör veÿr of ses Weke stürven.
+pq	47463	Petersfeld	1	he is vor veer oder seß Wäken dotbläfen.
+pq	47470	Jaderbollenhagen	1	he is vorr ver oder seß Wȧken dot 
+pq	4749	Zülichendorf	1	Er is vorr vier oder sechs Wochen gestorrn.
+pq	47598	Offenwardenermoor	1	He is vor vor oder soß Weeken storben (tod bleeben)
+pq	4761	Schöneweide	1	Ä hett˝ ver vier odder sehs Wochen gestorben.
+pq	47612	Paddewisch	1	he iß vö vehr oder sos W[ë/ä]cken Hybridbuchstabe dodbläben.
+pq	47624	Ober-Ochtenhausen	1	he iß vör veer over süs Wäk’n dod bläb’n.
+pq	47650	Cirkwehrum	1	Hÿ is vöör vÿr of zes weken stürven.
+pq	47657	Westerende-Holzloog	1	He is vör veer of sess Wäk’n stürw’n.
+pq	47670	Wiesede	1	He is för veer of sess Week stürbn.
+pq	47677	Neustadtgödens	1	He is vör veer oder sehs Wäken stürben.
+pq	4770	Egsdorf	1	Er is ver vier oder sechs Wochon jestorwen.
+pq	4776	Birkholz	1	Er is vor vier odder sechs Wochen jestorben.
+pq	478	Pradzonka	1	Hei is vä veiä ädä sös Wäcia stuwä.
+pq	47840	Kükelühn	1	he is voer veer orer söß Wêken storb’m.
+pq	47861	Siggeneben	1	he(i) iß| vör vier aawer sö|ß Wäk’n staa(r)b’n (dootbl[ä?]vn).
+pq	47863	Hedwigenkoog	1	he is vör veer oder sü′ß Wek’n ϙ dod bleb’n.
+pq	47885	Edemannswisch	1	he is vöer vehr oder süs Wäk’n storb’n.
+pq	4789	Briescht	1	Er is vor vier oder snhs Wochen gesturben.
+pq	47893	Oesterborstel	1	he is| fär veer ohler sü|s Wäkn ϙ dod bläm.
+pq	47907	Hamweddel	1	he is vä veer oller söß Wek’n dodt blehm.
+pq	47916	Warder	1	hee es för veer oller sös Weken dod blem.
+pq	47935	Klein Barkau	1	he is vör veer oder söß Wäken dod bläbm.
+pq	47952	Mucheln	1	he iss vör ver oder söss Wochn st[á/ó?]rbm.
+pq	4800	Gross Briesen	1	Er is ver vier bis sechs Wochen gesturfen
+pq	48096	Grömitz	1	he is vör veer oder söß Wek’n storb’n (dotbleb’n).
+pq	48098	Friedrichskoog	1	he is vör veer oder süß Wêken dod blew’n.
+pq	48105	Barlteraltendeich	1	he is| vör veer oder sü|ss Weken ϙ dod blewn.
+pq	48115	Holstenniendorf	1	he e’s vä veer oder sös Weken dod ble’m
+pq	48126	Jahrsdorf	1	he es| vä veer oder sö|ß Weken ϙ doud blem.
+pq	4813	Klopot	1	Ha iß vor vier oder sechs Wuchen sturwen.
+pq	48141	Ehndorf	1	he is för veer oder söß Wäken dood bläm.
+pq	48156	Gönnebek	1	he is vö veer orer söß Weken dod bleben
+pq	48164	Wöbs	1	he is vör veer oder söss Wochen (Wäken) dood bläb’m.
+pq	48186	Süsel	1	hee is vör vier oller söß Wochen storb’n.
+pq	48233	Brunsbüttelerhafen	1	he is vör veer [a?]der süß Wek’n dod blem.
+pq	48239	Brokdorf	1	he is voer ver oder sös Wäkn starbn.
+pq	4824	Radomicko	1	Er iß vor vier oder sächs Wuchen gesturben.
+pq	48240	Spiekeroog	1	He is för feer off seß Wääk stürf’n.
+pq	48242	Berensch	1	He [I?]s vör veer oder säs Wäken dōdbläb’n.
+pq	48247	Altenbruch	1	he is vör veer oder söß Wäken dot bleben.
+pq	48282	Norderney	1	He is vör ver of ses wäk stürb’n.
+pq	48283	Baltrum-Ostdorf	1	He is vör ver of sehs Wäk stürf’n.
+pq	48302	Misselwarden	1	he iß vorr veer oder soss Wäken dood bläben.
+pq	4832	Radnica	1	Ha is’ ver vier oder sechs Wuchen gesturben.
+pq	48324	Weissenmoor	1	he ist vȯr veer oder sös Wäken Dod bläben.
+pq	48342	Itzendorf	1	He is for ses wäk stürbn.
+pq	48356	Arle	1	He ihs för fief of ses Wäk stürben.
+pq	48368	Stedesdorf	1	He is vöär ä über ö veor of ses Wäk stürven
+pq	48383	Wüppels	1	he is vür veer oder ses Wäk stürben.
+pq	48392	Langwarden	1	hee ís vör veer oder seß Wǟken sturwen.
+pq	48401	Flögeln	1	he is vör veer od’r söß Wäken storb’n.
+pq	48477	Iffens	1	he is för veer oder ses Wäken dot bläwen.
+pq	48487	Blexen	1	he is för veer oder seß Wüken dodtblüb’n
+pq	48497	Altluneberg	1	he is vär veer oder söß Weken dod blewen.
+pq	48507	Hönau-Lindorf	1	he ist vôr veer oder süs Wecken storben
+pq	48516	Graal-Müritz	1	hei is föǎ viǎ orǎ söss Woch’n dōd bläb’n.
+qr	48522	Rerik	1	hei is vöeh vie’e orre sös Wochen dod bläben.
+qr	48532	Brodhagen	1	hei is vör viëer orer sös Wochen dot bleben.
+qr	48550	Toitenwinkel	1	hei iss vöá viá orà söss Woch’n storb’n.
+qr	486	Niedamowo	1	Hei iß vör veier anner seß Weke sturwe.
+qr	48675	Strukdorf	1	he is vör ver oder söß Wochen dot bläben.
+qr	48702	Sereetz	1	he is vör vier oder sös Woch’n storm.
+qr	48716	Gross Voigtshagen	1	hei is fö͡er söss oré veir Wochn storbn.
+qr	48726	Beckerwitz	1	hei is vö vier Wochen dot bläb’n
+qr	48738	Steinhausen	1	hei is för vier dorer sös Woch’n sto͗rb’n.
+qr	48752	Berendshagen	1	He (hei) is väe vier (sprich: vië 2 sÿlbig) ore söß Wochen storben.
+qr	48765	Wiendorf	1	hei is vöe͂ viee͂ ore͂ söß Woche̓n dod bläb’n.
+qr	48790	Rethwisch	1	he is vör veer oder sös Weken dod bleben.
+qr	48800	Lentföhrden	1	he is vär veer oder söß Wäk’n dodt bleb’n.
+qr	48812	Todesfelde	1	he is vör veier oder süs Weken dod blebw.en. 
+qr	49022	Kleinboden	1	hei is vö veir ore sös Weken storb’n.
+qr	49043	Campow	1	he ist vor veie ore sös Weken storben.
+qr	49076	Nesow	1	hei is vör ve[i?]ě urre söß Wägěn dod blüvn.
+qr	49090	Dalliendorf	1	hei is vöé söß Wochen dod bläwen.
+qr	49108	Neuhof	1	Hei is vör veihe ore sösch Wochen dot bläben.
+qr	49122	Warnow	1	hei is för veiĕ örrĕ sös Wochen dood bläb’n.
+qr	49140	Güstrow	1	he is vör vier órrer sös Wochen dod bläben
+qr	49146	Drochtersen	1	he iß vör veer oder söß Wäken dood bläb’n.
+qr	49162	Gross Nordende	1	hɑ ist fö̳r veer oder sö̆ß Wêken stŏrben.
+qr	49176	Quickborn	1	he is vôr veer od. süs Weeken dodbleben.
+qr	49188	Jersbek	1	he is vö fief ore söß Wäken storb’n.
+qr	49311	Riekenbostel	1	he is för veer oder söß Wäken storben.
+qr	49322	Brochdorf	1	he ist vör veer oder sös Weken storm.
+qr	49332	Bispingen	1	he͡i iß vör ve͡er o’er söß Wäken storben.
+qr	49338	Wettenbostel	1	he is vör veer odr söhs Wochen storm.
+qr	49348	Seedorf	1	hê hett för vêer orer söß Wogg’n storm.
+qr	49362	Stoetze	1	He iß vör veer orer ßöß Wochen schstorⁿm n über r. 
+qr	49498	Dannenberg (Elbe)	1	he is vör ver oder sös Wochen storben.
+qr	495	Jaroszewy	1	Hei is fer veie ode ses Weze storwe.
+qr	4950	Palck	1	A is fürr vier uder saichs Wuch’n g’sturb’n
+qr	49509	Breetz	1	He iß vör veer orrer söß Wochen storwen.
+qr	49524	Laaslich	1	He iß vör veer orrer söß Wochen storb’n.
+qr	49534	Lübzow	1	Heh is vöer vier oder sös Wochen dod bleven
+qr	49551	Buchholz	1	He is vör ver oarer söß Wochen storb’n.
+qr	49562	Hetzwege	1	he iß vör veer or sös Weken storben.
+qr	49569	Otter	1	he͡i is vör ve͡ir oder sös Wäk’n stro storb’n.
+qr	49579	Ollsen	1	hei is vör veier oder söß Wäken storm.
+qr	49587	Westergellersen	1	Heî is vör veîr Wäkn storm.
+qr	49605	Barskamp	1	he is vör veer ode sös Weken storm.
+qr	4965	Stare Kramsko	1	Ha ist vor vier oder sechs Wuchen gesturben.
+qr	4968	Zodyn	1	Ha is vur vier oder sechs Wuchen gesturben.
+qr	49727	Wendhausen	1	he is vör veer be orer söß Wochen Wäken storb’n.
+qr	49752	Jessenitz	1	hei is vör vair orer söss Wochen dod bläben.
+qr	49767	Glaisin	1	hei is vöa veie ore söss Wäken storw’n.
+qr	49778	Neese	1	Hei is vöe veie orre sös Wochen stor[n?].
+qr	49794	Pampin	1	hei is vör vihé ore sös Wochn dod bläb’n
+qr	4980	Tarnowa	1	A is vur vier oder sechs Wuchen gesturben.
+qr	49802	Grabow	1	He is s vör vehr Wochen dot bläb’n.
+qr	49813	Wangersen	1	He is vörr vēr oder süss Wäk’n storb’n.
+qr	49821	Regesbostel	1	heeï is[s?] für veeir oder söß Wäken ’storb’n.
+qr	49828	Tötensen	1	Hei is vor veier oder söss wäken storben
+qr	49840	Lassrönne	1	He is vör veer oder söß Wäken storben.
+qr	49857	Juliusburg	1	Hei is vör veier oder söß Wäken storb’n.
+qr	49881	Setzin	1	hei is vör veir ore sös Wochen dod bläb’n.
+qr	49898	Neuhof	1	hei is vöa veia ora söß Wochen storb’n.
+qr	50010	Gresse	1	hei is vö̌ vei(r) ore sö̌s Woch’n dōt bläb’n.(storb’n)
+qr	50027	Moraas	1	hei is vör veir Wäken storb’n.
+qr	50058	Paarsch	1	hei is vör viä orre sös Wochen storb’n.
+qr	50068	Barkow	1	hei is för vier ore sös Woch’n storben.
+qr	50073	Schwinge	1	he is för v́eer or süs Weken dod bleb’n.
+qr	50087	Wisch	1	he is vo veer oder sus Wek’n dod bleben.
+qr	50117	Ottensen	1	he ist vör veer oder sös Weeken storben.
+qr	50130	Willinghusen	1	he is va^r véer orer sôß Wekn starbn.
+qr	50142	Basthorst	1	hei is vö vei’r orer sös Wäken dod bläb’n.
+qr	503	Szpegawsk	1	He is ver veer oder säß Weeke gestorwe
+qr	5031	Lugow	1	Er ist vor vier oder sechs Wuchen gesturben.
+qr	50321	Lehmrade	1	hei is vör veir urre sös Wäg’n storm.
+qr	50332	Drönnewitz	1	Hei is vö vei’e ore söß Wäc͗k’n dod bleb’n.
+qr	50343	Gross Rogahn	1	hei is vör vieȇ(feiȇ) orȇ sös Woch’n storm.
+qr	50357	Kladow	1	hei is vör veier orer sös Wochn dod blewén.
+qr	50365	Hohen Pritz	1	Hei iß föh vieh orra söß Wochen todt bläb’n.
+qr	50377	Jellen	1	hei is vör vier ore sös Woch’n storm.
+qr	50385	Lübsee	1	hei is vöe vier oore söß Wochen sterbe[?]
+qr	50471	Bellin	1	Hee is förr veer urrer söß Wochen storfwen w über f .
+qr	50523	Retzow	1	Hei is vör vier ore söß Wochen storm
+qr	50538	Hohenbollentin	1	hei is vöa vei’r orrä söß Wochen sturb’n.
+qr	50552	Golchen	1	Hei is vör vir orǎ söß Wochen storbe’n.
+qr	5056	Biala Wies	1	Ha is virr vier oder sechs Wuchen gesturben.
+qr	50567	Strippow	1	heo is is vür vier ora söß Wochen storben.
+qr	50575	Rosenhagen	1	Hei iß vöa vier ora söss Wochen storben.-
+qr	50583	Siniechowo	1	Hei is vor veier oader ses Wochen sturbe.
+qr	50604	Drzewica	1	Hei is vö veie urre sös Wochen sturwe.
+qr	50622	Lisowo	1	Hei iss vä veier odrä söss Wochen sturwā ä ä über a.
+qr	50719	Lubin	1	Hei is vöh veia-urra söß Wochen storwa.
+qr	50765	Gross Ridsenow	1	Hei is vöa viea orra sös Woch’n storm’n.
+qr	50779	Schlutow	1	Hei is vöa viea ora söß Woch,n storb,n.
+qr	50794	Seedorf	1	Hei is vöä viä ohre söß Woch’n storb’n.
+qr	50805	Bentzin	1	Hei iß vo’i vie’r ur’r söß Wochn storb[?]m
+qr	50818	Ranzin	1	Hei is för vie’r orrä söhs Wochen storm.
+qr	50830	Lassan	1	Hei is vör vier orrä söß Wochen storm.
+qr	50840	Sallenthin	1	Hei iß föa viea ora s[ü?]ß Wochen storb’n.
+qr	50844	Miedzyzdroje	1	hei is vö veir orer söß Wochen storm.
+qr	50850	Sieroslaw	1	Hei is ηä veiä ur[w?]ä sös Wochen storwä.
+qr	50872	Bedzieszewo	1	Hei is vao veia ora sös Wochen sturwa.
+qr	50892	Skalin	1	Hei is voa veiò urre söss Wöke storwe
+qr	5091	Boruja	1	A’is vur vier oder sechs Wuchen gesturben.
+rs	50973	Koserow	1	Hei is vö 4 oder sös Wochen storben.
+rs	50986	Trzesacz	1	hei is va veiĕ ĕ lat. Wäken storwĕ ĕ lat..
+rs	51	Baerwalde	1	Hei ĭs vǒ feiä ōdä̌ sǒ̈s Wäkä̆ stū̌(r)wä.
+rs	51012	Hohen Wangelin	1	hei iß vör viea urra söss Woch’n storb’n
+rs	51030	Rittermannshagen	1	Hei is vör vier ore söß Wochen storben.
+rs	51048	Tarnow	1	hei is vöa via ōra söß Woch’n storb’m
+rs	51065	Trollenhagen	1	He is vöa viea orra söß Wochen schtor’m.
+rs	51081	Brohm	1	He is vör(vöa) vier(via) orra söß Woch’n storb’n._
+rs	51089	Eichhof	1	He is fȫa vea ora söß Wochen storm
+rs	51098	Gegensee	1	He is för veer oder sös Wochen storben.
+rs	511	Krasniewo	1	He es vorr vör oder ses Weke gestorwe.
+rs	51101	Drogoradz	1	he is vör ver oder sös Wochen storben.
+rs	51112	Budzien	1	He iß vör vēer orer söß Wochen storben.
+rs	51123	Krzywice	1	ha͡i iß vo va͡ie͡ä urre͡ä söß Wochne͡ä sturwe͡ä
+rs	51135	Plantikow	1	Hei is và veir ărrn sös Wòcken storwä.
+rs	51143	Kloster	1	Hei is vör vier ore söß Wochen storben.
+rs	51146	Wiek	1	Hē͡i iß vör vier orre͡a söß Wochen storb’n.
+rs	51162	Nardevitz	1	Hei is vöä vie’ä orre sös Woch’n sorb’m.
+rs	51170	Zingst	1	Hei is vör vier orră fös Woch’n storb’n.
+rs	51173	Wendisch Langendorf	1	Hei is vö(r) vie(r) orre(r) söß Woch’n storb’n.
+rs	51179	Wüstenei	1	Hei is vör vier ora sös Wochen storben.
+rs	51188	Saiser	1	Hei is vöá vieá urra soß Wochen stor’m.
+rs	51191	Ahrenshoop	1	Hei iß vöă viea oră söß Woch’n ßtorb’m.
+rs	5122	Gorzyca	1	Er ist vor 4 oder 6 Wochen gestur ben.
+rs	51232	Neu-Reddevitz	1	Hei is vö vier orre soß Wochen storben.
+rs	51243	Langendamm	1	Hei iß vöa vöa viea orra söß Woch’n dod blä’m.
+rs	51257	Redebas	1	Hei is vöa via ora sös Wochen storm.
+rs	51267	Pütte	1	Hei is vöe vier ore sös Woch’n storb’n
+rs	51277	Poseritz	1	Hei îs vȫâ vieâ ōrâ sö̂hz Wôchên stôrm.
+rs	51288	Thiessow	1	Hei is vör vier urre söß Wochen storb’n.
+rs	5130	Ransko	1	A ist vir vier oder sechs Wuchen gesturben.
+rs	51346	Reppelin	1	hei iß vör vie orre sös Woch’n storm.
+rs	51355	Kavelsdorf	1	hei is vör vier ora fif Wochen storben.
+rs	51370	Müggenwalde	1	Hei is vöa viea ora söß Wochn storm.
+rs	51387	Steffenshagen	1	Hei is vör vier örre söss Wochen storben.
+rs	5139	Grudna	1	Er ist vor vier uder sechs Wuchen gesturben.
+rs	51397	Vierow	1	Hei is vöa via urra sös Wochen storb’n.
+rs	51409	Karlshagen	1	Hei ist vör vier orer söß Woch’n storb’n
+rs	5141	Brody	1	Er ist vor vier oder sechs Wuchen gesturben.
+rs	51413	Trzebusz	1	Hei is va veie ore sös Wäken dot bläwe.
+rs	51539	Kisserow	1	hei iß vör vier orre söß Woch’n dod bleben._
+rs	51549	Federow	1	Hei is vöa via ore sös Wochen storm.
+rs	51561	Klein Vielen	1	hei is vör vier orer söss Wochen storben.
+rs	51571	Holldorf	1	He is vöa vier orra sös Wochen do[t/d?] bleb’n.
+rs	51584	Woldegk	1	He is vöa via åra söß Wochen schtorb’m.
+rs	51598	Trebenow	1	He is vöä wea örra söß Wochen storm’n.
+rs	51611	Rossow	1	he eß vör ver orer säß Wochen storben.
+rs	51624	Wawelnica	1	He is vör vehr ore(r) sös Wochen storbn.
+rs	51637	Bergland	1	He iß vö veä orä söß Wochen sturb’n.
+rs	51646	Dabrowica	1	Hei is fe feie orre sös Woche sturwe.
+rs	51661	Bobrowniki	1	Hei is väh veia urre söß Wäka dod bläwa.
+rs	51805	Grabow	1	hei is för vier orer sös Wochen dod blä’m.
+rs	51816	Lärz	1	Hei is vöă viă ōhră söß Woch’n storb’n. (storm’m)
+rs	51832	Ahrensberg	1	he iss vöa via ora söss Wochen storb’n.
+rs	51838	Hasselförde	1	he is vör viea orra sös Wochen dot bläwen._
+rs	51850	Buchenhain	1	He is vör vier oader söhs Wochen storben.
+rs	51866	Röpersdorf	1	He is vör ver orer söß Wochen storben.
+rs	51877	Grünz	1	He is vö (ö wie in Stöcke) vea ora söss Woch’n storm. 
+rs	51893	Pargow (Pargowo)	1	He iß vö vehr ɑ̊rer söß Woch’n stɑ̊rb’n
+rs	51906	Zelislawiec	1	He is vōr vier orra sös Wochen storwen.
+rs	51918	Slotnica	1	He is fä vēĕ orrĕ söß Wochă storwă.
+rs	51934	Zukowo	1	He is vöă vehe udĕ söß Wochă storwă.
+rs	5203	Nekielka	1	Hä is fä vehä äbä ses Wöka stowä.
+rs	52064	Papenbruch	1	He iß vör veer orrer söß Wochen storb(e)n.
+rs	52070	Wallitz	1	He is vör veer orer sö͡as Wochen storben._
+rs	52079	Menz	1	Heh is vör vier oder söss Wochen storwen.
+rs	52086	Barsdorf	1	He iß vöh vieh orra säß Woch’n storb’n.
+rs	52095	Petersdorf	1	He is vörr vier orra sechs Wochen storb’n
+rs	5210	Skwierzyna	1	Er iss vor vier oder sechs Wochen jestorben.
+rs	52103	Flieth-Stegelitz	1	He is vör vea orra söß Wochen stōrm’m.
+rs	52113	Passow	1	He is’ vör vier ora sechs Wochen storwen.
+rs	52129	Widuchowa	1	Hä is vä vier odder sechs Wochen storwen.
+rs	52139	Banie	1	He is vör veer Woder söß Wochen storwen
+rs	5214	Krobielewo	1	Ha ist vor vehr oder sechs Wuchen gesturben.
+rs	52154	Obromino	1	He is vör vēē odr söchs Wochn sto̊rwe
+rs	52169	Brzezina	1	He iß ve vee ore sös Woche storwe.
+rs	52276	Bagicz	1	hei is vö͞͞äa veia ora söss Wäka storwa.-(st=scht.)
+rs	52278	Lasin Koszalinski	1	Hei is vo veiè urrè söss Wäke storwe.
+rs	52311	Sieciemin	1	Hei is vōr veie oder sös Wäcke storwe.
+rs	52349	Pomysk Wielki	1	Hei is vär veir ouder ses Wekä stourwä.
+rs	52359	Szymbark	1	Hei es ver vei'r oder säs Weke storwe.
+rs	52374	Szklana Gora	1	He is för sechs Wetjen gestorwe.
+rs	52396	Skowarcz	1	He es vorr vehr oder sess Wäke gestorwe.
+rs	52428	Oberlakendorf (Solnica Górna)	1	He es fer ver oder seß weke gestorwe.
+rs	52440	Deep (Czajcze)	1	Hei is vöa veia urra sös Wäken storwa.
+rs	52463	Bialecino	1	Hei is vöar veier orrer söhs Wäke storwe.
+rs	52478	Bronowo	1	Hei is väa veiä ora ses Wäkä sturwä.
+rs	52484	Reddies	1	Hei is ver veier oder seß Wecka sturwa.
+rs	52567	Pasewark	1	He es ver veer oder sähs Wäaken gestorwn.
+rs	52578	Bad Rügenwalde	1	Hei iß vör veier orer ses Weken storwe.
+rs	5259	Prusim	1	Er ist vor vier oder sechs Wochen gestorben.
+rs	52600	Radoslaw	1	Hei is föä veiä orä sös Weĭke storwe.
+rs	52700	Losino	1	Hei es ver veier oder ses Weke storwe._
+rs	5271	Przyborowko	1	Ar is vor vier oder sechs Wuchen gesturben.
+rs	52714	Labiszewo	1	Hei is vo veir oda ses Waka stawa.
+rs	52722	Karwen	1	Hei is ver veir oder sös Weke sturwe.
+rs	52755	Heubude (Stogi)	1	He es vär ver oder ses Wäke gestorwe.
+rs	52762	Skowronki	1	He es fär vea oda seß Weake gestoarwen.
+rs	52766	Rowy	1	Er ist väer veier oder sest Wäcka stoarwa.
+rs	52767	Machowinko	1	Hei iß väe veie oare seß Weken stoawe
+st	5277	Gleboczek	1	Hej ist vä fief ebbe säs Weike stowe.
+st	52816	Hela	1	Hee is vör veer oder söß Wäke gestorwe.
+st	52819	Jaroslawiec	1	Hei iß väue vaie ore söß Wäken storwe.
+st	52825	Krolowstrand (Królewice)	1	hei is’ vä veie ore ses Wäkne storwe.
+st	52854	Drzezewo	1	Hei is vör veir o[r?]er ses Weke sturwe.
+st	52865	Niebedzino	1	Hei es ver veier odder ses Weke storwe.
+st	52871	Dabrowka Wielka	1	Hei es vär veier ader seß Wäcke storwe
+st	52881	Luzino	1	Hei es vor veir oder ses Weke storwe.
+st	52887	Pogorze	1	He es vor ver oder sas Wecke gestorwe
+st	52896	Bialogora	1	Hei es vör veier Waekan oder seß Waekan storwan.
+st	52905	Karwenbruch	1	He es vord f[e?]r ood ses Wäke storwen. 
+st	5291	Gorki Noteckie	1	Hä is ver vier oder sechs Woche gestarwe.
+st	52913	Wladyslawowo	1	He es vor ver oder seß Wäke gestorbe.
+st	52915	Lebieniec	1	Hei es ver veir oder seß Wäke storwe.
+st	52927	Zelazna	1	Hei is vör veier od'r sas Wecka storwa.
+st	52936	Tylowo	1	Hei is vär ver oder ses Weke gestorwe.
+st	5305	Rapin	1	Hä iß ver vier odder sechs Wochen gestorwen
+st	5315	Pilka	1	Hä is vor veer ode sechs Woke gestorwe.
+st	5316	Rzecin	1	Äe is vä veei odde söß Waiike gstorfe.
+st	532	Zulawka Sztumska	1	He storb ongefähr ver vier bis [6?] Wochn
+st	5322	Tarnowko	1	Hey is vä veyä Wäikio schtowo.
+st	5374	Groß Golle (Golaszewo)	1	H[u?] ist vä ver äber sechs Waike stowä
+st	5386	Lubicz	1	Ä is ve vier ode sechs Woche storwe.
+st	5397	Slonow	1	He is vör veer oder sechs Wochä storwe.
+st	5402	Huta Szklana	1	He is fä veé ode sö̆s Wochŏ storwŏ.
+st	5409	Marienbusch	1	He iß vä veé ode fif Weiko storwo.
+st	5421	Ostrowki	1	He is ve vee ode sös Weike stowe.
+st	54871	Neuarad (Aradu Nou)	1	Ea is voa vie od̜e siach Wuche gstoarwe.
+st	54873	Bistritz (Bistriţa)	1	Äs vor va for fār åder sēß wōchn gestorbn
+st	54878	Arzis (Artsyz)	1	Er isch vor vier od'r sĕ̀chs Wocha g'storba
+st	54897	Wolfswinkel (Wilczy Kat)	1	He es va veje ode säs Weäke storwe
+st	549	Przecmino	1	hei is vă veiĕ urrĕ söß Wäken storwe.
+st	54901	Zarobka	1	Hej es vä veje ode sös Wajke stoowe.
+st	54902	Brzozowka	1	He es va feje ode säas Wäke storwe.
+st	54906	Brzezno	1	Hej es va feje oue sasz Wäke schtorwe.
+st	54909	Zbojenko	1	Hej es fo feje unes sas Weke storwe
+st	5491	Brzezno	1	Hej iß fe fö odö säß Weikio stowo.
+st	54912	Siemiatkowo	1	Hè es va vèje ode saes Wēke storwe.
+st	54913	Sompolno	1	Hyj is vauo odo soß Wajkio stowo.
+st	54914	Sächsisch Regen (Reghin)	1	E äs fur far awer sis Wochen gastorm.
+st	54915	Elek (Elek)	1	Ear is vor viar, odr vor sex Wucha kstor[...]
+st	54916	Freidorf bei Temeschwar	1	Er is vor vier oder sechs Woche gstorwe
+st	54917	Sarata (Sarata)	1	Èr isch vōr vier oder ßégs Wochå gschdorbå.
+st	54918	Scheindorf (Sâi)	1	Er ischt voar vie̬r|odr secks Woche̬ k’st͞oarbe̬
+st	54919	Fünfkirchen	1	Ea is foe fie odə seks wokn kstuəbn
+st	54921	Iklad	1	Fimfi. E͜ar isz vo͜ar fieri oda szēksz Wôchn ksto͜aram.
+st	54922	Sanktanna (Sântana)	1	Er is far fir wocha, odar far sechs woha k(v)starva.
+st	54924	Martinsdorf (Metiş)	1	E̊ äs fiēr vär ode̊r sies Wiochen gestorwen. st = scht
+st	54926	Bentschek (Bencecu De Sus)	1	Er is vor vier odr sechs Woche gstorb
+st	54929	Agnetheln (Agnita)	1	E äs vuir var awer sess Wochen gestuarwen.
+st	54930	Gottlob	1	Er is vor vier odér sechs Wuché gstorb
+st	54932	Klein-Schemlak (Semlacu Mic)	1	Èr is vor vier odr sechs Woche gshtorb
+st	54933	Sankt Andreas (Sânandrei)	1	Er is vor vier odd’r sex Wuche g’schtorb.
+st	54935	Neuwerbas (Novi Vrbas)	1	Er is för fir otr̥ seks woche kstarp.
+st	54937	Groß Scham/Freudenthal (Jamu Mare)	1	Er is vor vier oder sechs Wuche g’storb
+st	54938	Torschau (Savino Selo)	1	ã̂́r̩ iʃ for̩ fir ôd̆r sèks woxê gstôrb
+st	54939	Weprowatz (Kruščić)	1	Êar is fôr fi[?]r ôdr sĕks woxe gstårͮwĕ
+st	54941	Neue Weingärten (-)	1	Er is vor vier oder sechs Wocha gstorba.
+st	54942	Seimeny (-)	1	Er isch vor vier odr segs Woche gschtorb.
+st	54943	Neubeschenowa (Dudeştii Noi)	1	Heͥn eͥs veͥr vier Woͧch’n gstorv
+st	-55055	Oborki	1	He es fa vehe ode sa͜es Wäke storwe.
+st	-55064	Zale	1	Hei is vor veier one sachs Wietche sto[rv/w?]e.
+st	-55066	Zuromin	1	Der Mann ist in 4 Wochen gestorben (in kurzer Zeit gestorben)
+st	-55070	Grudusk	1	Er ist vor vier oder sechs Wochen gestorben.
+st	-55072	Ostroleka	1	Er ist vor vier oder sechs Wochen gestorben.
+st	-55081	Ciechocinek	1	Hej es vo vehe ones saas Weeke storwe.
+st	-55091	Skepe	1	Hei est vor veier oder sas Wieke storve
+st	55094	Gradzanowo Koscielne	1	He es vor ver oder saß Weke storwe.
+st	-55096	Modelka	1	He es va veer oder saas Weeke storwe.
+st	-55099	Makow Mazowiecki	1	Hij ist fa vijo odo sas Weiko stowo
+st	55106	Susk	1	Hei is fa feije ode sas Wieke storwe.
+st	-55107	Zawidz Koscielny	1	Hei es fa fief sas Wieke gestorwe
+st	55109	Kondrajec Szlachecki	1	Hei es von veer oder sas Wiäke storwe.
+st	-55110	Kicin	1	He es vo veier oder söß Weker storwä.
+st	55111	Szostka	1	Er ist vor 4 oder 6 Wochen gestorben.
+st	-55113	Kujawka	1	Er is vor 4 oder 6 Woche gstorb.
+st	55116	Osiek	1	He es va vehe ũnes sehs Weke storwe.
+st	-55117	Nowe Karwosieki	1	He es va vehe ude sachs Wicke storbe.
+st	-55129	Lenie Male	1	Wa fehe anes seß Weke es hej storwe.
+st	-55133	Meczenino	1	Je es vor ver oder secks Wochi jestorwi.
+st	-55135	Dzierzaznia	1	Er is vor vier oder vor sechs Wochn jestorbn.
+st	-55137	Konary	1	He es fa veer ode sas Wiäke storwe.
+st	-55139	Kozy	1	He is vĕ veeji ode sö̆ß Weike stowe.
+st	55140	Zglowiaczka	1	Alts. u. Wolhyn.: Er ist vor vier oder sechs Wochen gestorben. Bessarab.: Er isch vor vier odar segs Wocha gstorba.
+st	55163	Grabkowo	1	he is var ver udo saß Weiko storben.
+st	-55164	Wieslawice	1	Hej es na veje ones sas Weke storwe.
+st	-55166	Budy Borowickie	1	He es vo vehe ode seß Weke storwe.
+st	-55169	Orszymowo	1	Hej es va veje ones seeß Wäke stoowe.
+st	-55171	Nowy Dwór Mazowiecki	1	He ös fa feje ode sas Weke storwe.
+st	-55173	Kozie Glowy	1	Ar is ver vier öder sechs Wuchen gesturm.
+st	-55177	Brdow	1	Er is voa vier Wochan gstoabn.
+st	-55181	Psary	1	Hēi is veue̊ vēie̊ [o]de̊ sess Weike̊ sto̊we̊.
+st	-55187	Nowa Wies	1	He es va fiff udde sehs Weke storwe.
+st	-55189	Miszory	1	He es vor veer un es sess Weeke storwe.
+st	5519	Berka v.d. Hainich	1	Är ös verr vier odder sächs Wochen gestarben.
+st	-55191	Secymin Polski	1	Hei äas vo veiär uder sas Wiäcke stor[oe?]r.
+st	55210	Niechcianow	1	Er ist vor vier oder sechs Wochen gestorben.
+st	-55216	Kaptury	1	He es va väj oude saß Wiäke storwe.
+st	-55218	Stare Miasto	1	Er is vor vier Wuchen gsturbn.
+st	-55226	Tarnowka	1	Er starb vor 4 oder 6 Wochen.
+tu	-55238	Zychlin	1	Er ist vor vier oder sechs Wochen gestorben.
+tu	-55240	Kopojno	1	Er ist vor vier oder sechs Wochen gestorben.
+tu	55244	Natalia	1	Er ist vor vier oder sechs Wochen gestorben.
+tu	55252	Potrzaskow	1	Er ist vor vier oder sechs Woche gestorbe.
+tu	-55254	Szamow	1	Er isch vor 4 oder 6 Wocha gschtorba.
+tu	-55258	Wierzchy	1	Er is vor v[i?]er udder sechs Wochen jestorben.
+tu	-55261	Gadowskie Holendry	1	Er ist vor vier oder sechs Wuchen gesturbin.
+tu	-55262	Turek	1	Er ist vor vier oder 6 Wochen gestorben.
+tu	-55266	Sarbice	1	He is ve vie or ses Weiche stofa.
+tu	-55269	Zimne	1	He is fe vier ode sechs Woche storwe.
+tu	-55270	Leczyca	1	Er is vor vier odder 6 Woche geschtorbe.
+tu	55271	Piatek	1	Er is vor vier oder sechs Woche gestorb.
+tu	-55300	Goliszew	1	Er ist vor vier oder sechs Woche gestorbe.
+tu	55305	Poroze	1	Ha is vür vier öider vür sechs Wuchn gesturbn.
+tu	-55306	Rzymsko	1	Er ist gestorben vor vier oder sechs Wochen.
+tu	-55308	Baldrzychow	1	Er ist vor vier oder sechs Wochen gestorben.
+tu	55320	Sanie	1	Ä is vo vier oder sechs Wochen g'storben.
+tu	-55322	Marianow	1	Er ist vor 4 oder 6 Wochen gstorben.
+tu	-55326	Jozefow	1	Er ist vour vier oder finf Wochen gesturben.
+tu	55330	Morawki	1	Er is vo vieje Woche gstarn.
+tu	-55331	Rzepiszew	1	Er 'scht vor 4 oder 6 Wochen gestorben.
+tu	-55338	Justynow	1	Er ist vor 4 od. 6 Wochen gestorben.
+tu	-55344	Slomkow Suchy	1	Er is vo vier oder sechs Woche gestoabn.
+tu	-55349	Markowka	1	E ist vo via oda sechs Wochn gestorbn.
+tu	-55350	Rzgow	1	Er is vor vier od[e?] 6 Woche gestorb. Er ist vor vier oder 6 Wochen gestorben.
+tu	-55354	Laznowska Wola	1	s is schon vier oder 6 Wochen her, daß er gestorben is.
+tu	-55359	Kiebitztal (Kuznica)	1	Er ist vor vier oder sechs Wochen gstorbn.
+tu	-55360	Ostrow	1	Er ist vor einigen Wochen gestorben.
+tu	-55361	Wielka Wies	1	Er ist vor vier oder sechs Wochen gestorben.
+tu	-55362	Suchcice	1	Er ist var vier bis 6 Wochen ve[r?]stoben
+tu	-55363	Siemkowice	1	Er isch vir 4 odr 6 Wahen g'storba.
+tu	-55365	Dobroslaw	1	Er ist var vier oder sechs Wahen gestorben.
+tu	-55366	Belchatów	1	Er is vor e vier oder sechs Wochen gestprben. [-> vermutlich Tippfehler = gestorben]
+tu	-55373	Luszczanowice	1	Er ist vor 4 oder 6 Wochen gestorben.
+tu	-55375	Ozarow	1	Er ist vor vier oder sehs Wochen gestorben.
+tu	-55376	Jaworzno	1	Vor 4 oder 6 Wochen ist er gestorben.
+tu	-55377	Natolin	1	Er is vor vier oder sechs Wuchn gesturben.
+tu	-55382	Czarny Las	1	Er is vor vier oder sechs Woche gestorb.
+tu	-55383	Huta Stara A	1	Ejr is vor vijr ober seks Wucha geschtorbn.
+tu	55384	Myszkow	1	Er ist vor vier oder sechs Wochen gestorben.
+tu	55387	Dabrowa Gornicza	1	Er ist vor 4 odr 6 Wochen gestorben.
+tu	-55389	Kwaczala	1	Er is vor vier odder sechs Wochn g'storb.
+tu	-55394	Freistadt (Fryštát)	1	Er ist vor ungefähr vier od. sechs Wochen gestorben.
+tu	-55408	Bistritz (Bystrice Nad Olsí)	1	Er ist vor vier bis sechs Wochen gestorben.
+tu	-55411	Radziechowy	1	Es is vor veier oder sechs Wochen gestarbn.
+tu	-55415	Skomlin	1	Er ist vor 4 oder 6 Wochen gestorben.
+tu	-55416	Kamesznica	1	Er is vor väir oder sechs Woch'n g'starb'n.
+tu	-55418	Schönwalde (Wrzosy)	1	He es wa vähe ones säs Wöke storve.
+tu	-55425	Wyszewo	1	Hei is vör veir urre säss Wäke dot bläwe.
+tu	-55522	Nojewo	1	Er ist vor vier oder fünf Wochen ge[stor?]ben
+tu	5717	Illeben	1	Ae es ver vier oder saechs Wochen gestorben.
+tu	573	Lykowo	1	Hei is vo vei//e ôre sös Wä̂ke sturwe.
+tu	5730	Gebesee	1	Ă es far fier oder sachs Woch’n jestorıen.
+tu	5752	Thalborn	1	Ä es vor vir oder să̈chs Wochen geschtorm.
+tu	5774	Nirmsdorf	1	Ae es ferr vier otter sächs Wochen geschtorm.
+tu	5810	Crölpa-Löbschütz	1	A es farr vier obber sacks Wuchen g storbn.
+tu	5827	Krössuln	1	Är iß var vier awer sächs Wuchen gestormn.
+tu	584	Dunowo	1	Hei is voa veie Wäka sturwa (ode söß)
+tu	5863	Michelwitz	1	hä is ver vier abber sachs Wuchen gestorbn.
+tu	5867	Hollenbach	1	hah es verr vier oder sachs Wochen gestorben.
+tu	5875	Schlotheim	1	Er ist es vör vier oder sächs Wochen gestorben.
+tu	6074	Obertopfstedt	1	Hǟ äß färr fäir otter sax Wochen geschtorben.
+tu	6089	Etzleben	1	hä es ver ve|ir odder sächs Wochen ischstorben.
+tu	6105	Allerstedt	1	Ä es vär vier oder säcks Wochen gestormn.
+tu	6116	Gleina	1	Er es (iß) verr vier odder sächs Woch’n geschturb’n.
+tu	6129	Kleinkayna/Kleinkaina	1	Er ist vor vier oder sächs Wochen gestorben.
+tu	6168	Rehbach	1	Er ist vor vier oder sechs Wochen gestorbn.
+tu	6171	Mengelrode	1	(fehlt)
+tu	6185	Kirchworbis	1	Ha es ver v[ä?]r [?]rr sachs Wochen geschtorben.
+tu	6196	Grosswenden	1	A̓ a̓ß va̓rr vier odder sȃ2chs 2 über a Wochen gestorben
+tu	6341	Auleben	1	Er äß värr vier Wochen gestorben.
+tu	6359	Hackpfüffel	1	Ärr is fä̳rr fähr odder sä̳chs Wochen ȷestorwen.
+tu	6371	Mittelhausen	1	Ä̌ mit Breve is veer vier odder sachs Wochen cheschtorben.
+tu	6388	Stedten	1	Ä is var vier odder sechs Wochen gestorbn’n
+tu	6400	Ammendorf	1	Ä is Bogen unter beiden Wörtern varr 4 oder 6 Wechen gestor’m’n Bogen unter „stor’m’n“.
+tu	6418	Glesien	1	Er is var vier odder sechs Wochen gestorm.
+tu	6426	Zwinge	1	hei is varr veier oar seß Wochen storm.
+tu	6472	Stolberg (Harz)	1	he is ver 4 od. 6 Wochen gestorben.
+tu	6577	Walkenried	1	He es fer veer oer sachs Wochen schtorb’n.
+tu	6593	Königerode	1	he is färr vähr odd’r säcks Wochen geschdorwen.
+tu	6610	Vatterode	1	He is ver vier oder sächs Wochen geschtorbn.+
+tu	6630	Freist	1	Er is far vier odder secks Wochen gestor’m.
+tu	6656	Drehlitz	1	Er is vor vier odder sechs Wochen gestorm.
+tu	6660	Möst	1	Er ist vor vier oller sechs Wochen gestorm.
+tu	6682	Ramsin	1	Ä is vorr vîer odder sechs Woch’n gestorm.
+tu	6690	Braunlage	1	Hei is vorr veir oder sechs Wochen estorben.
+tu	6705	Rieder	1	Hei is vör vier oder sechs Wochen storb’n.
+tu	6793	Riefensbeek	1	Hei is vor veir odder ßes Wochen starben.
+tu	6801	Neuwerk	1	Hei īss vorr veier oder sess Wochen e schtorben
+tu	6821	Aschersleben	1	Er is vor vier odder sechs Wochen gestorben.
+tu	6831	Gröna	1	Er is vor vier odder sechs Wochen gestorb’n.
+tu	6848	Elsdorf	1	Er ist voar vier odder sechs Wochen gestorben.
+tu	688	Pregowo Zulawskie	1	He es ver vehr oder ses Wäke gestorwe.
+tu	6891	Danstedt	1	Hei is vor veir oder sess Wochen ’e storben.
+tu	6960	Abbenrode	1	Hei is vo--rr veier uder ses Wochen storben.
+tu	6981	Emersleben	1	Hei iß vorr vier oder sechs Wochen storben.
+tu	6995	Egeln	1	Hei is vor vier oder sechs Wochen ᵉstorben.
+tu	7007	Eickendorf	1	Er (Hei) is vor vier oder sechs Wochen ‘e storm(e̊)n
+tu	7022	Kämeritz	1	Er is vor vier oder sechs Wochen gesturben.
+tu	7033	Natho	1	Hä is vor vier odder sechs Wochen gesturb’n.
+uv	7180	Liemehna	1	hä is verr vier adder secks Wochen gestorm.
+uv	7198	Röcknitz	1	Är is vor vier adder sechs Wouchn jeschtorm.
+uv	7212	Lausa	1	Är iß varr vier oder sechs Wuchen geschturm.
+uv	7225	Kosilenzien	1	Er is vor vier adder sechs Wochen gesturbn.
+uv	7246	Kahla	1	Er is’ ver vier abber sechs Wochen geschtorben.
+uv	7253	Ruhland	1	Er is vor vier oder sechs Wochen geschtorben.
+uv	7263	Lauta	1	Er ist vor vier oder sechs Wochen geschtorben.
+uv	7363	Brösa	1	Er is vor vier oder sechs Wochen gestorm.
+uv	7371	Falkenberg	1	Er is ver vier odder sechs Wochen gestorben.
+uv	7384	Rosenfeld	1	E is var vier oder sechs Wochen gesturben.
+uv	7394	Wiederau	1	Er is vor vir odder sächs Wochen gesturbm.
+uv	74	Gwiezdzin	1	Hei iß va veiä odde söß Weike stuhwe.
+uv	7412	Lugau	1	Er is vor vier oder sechs Wochen geschborben.
+uv	7427	Dollenchen	1	Er ist vor vieo odeo sechs Wochen ’estorben.
+uv	743	Rudki	1	He is vä vei odi sös Wäcka stowa.
+uv	7435	Petershain/Neupetershain	1	Er ist vor vier oder sechs Wochen gestorben.
+uv	748	Budy	1	He iss vä viä oddes söss Wäkä stowä. __
+uv	7529	Schleesen	1	Eh is for vier odder sechs Wochen gesturb’n.
+uv	7546	Bleddin	1	Er (hä) is va̬r vier o̬dder (osser) sechs Wochen gesturm
+uv	7562	Klossa	1	Er is ver vier odder sechs Wochen gesturben.
+uv	7576	Werchau	1	Err iß värr 4 Wochen geschturm.
+uv	7586	Wendisch Drehna/Walddrehna	1	Er iss ver vier oder sechs Wochen gestorben.
+uv	7596	Schlabendorf	1	Er ist vor vier oder sechs Wochen gestorben.
+uv	760	Zakrzewo	1	Hei is vo veia oda söß Weeka stowa.
+uv	7688	Straach	1	Hä is vär vier oder sess Wochen jesturb’n.
+uv	769	Nowy Dwor	1	Hei iß va feiha uda söß Wäka stuwa.
+uv	7696	Rahnsdorf	1	He iß vor vier odder sechs Wochen gesturbn.
+uv	7710	Rohrbeck	1	E’ is ver vier ŏder sechs Wochen gesturben.
+uv	7721	Wahlsdorf	1	Ar is vör vier odder sächs Wochen jsturben.
+uv	7732	Hohendorf	1	Hä is vor vier oder sechs Wochen gesturben.
+uv	7747	Treppendorf	1	Er hat vor vier oder sechs Wochen gestorben.
+uv	7758	Sacrow	1	Er is vor vier odder sechs Wochen estorben.
+uv	7964	Zedtlitz	1	Ar is vur vier awwer sechs Wuchen gsturbm.
+uv	7979	Hohnbach	1	Ar is vorr vier aober 6 Wochn geschturm.
+uv	80004	Grindelwald	1	Är ist vor vier old säx Wuehen/Wuchen gstorben.
+uv	80023	Bosco	1	Ar ést for fiar odar saks Wuchcha kštorba.
+uv	8011	Ziegra	1	Ar is vor vier oder sechs Wochen gesturm.
+uv	803	Lunawy Male	1	He is vee odde söshs Weke storwn
+uv	8032	Rausslitz	1	Ar is vurr 4—6 Wuchen ge–sturm.
+uv	8055	Coswig	1	Ar is vorr vier oder sechs Wuchen gesturbn.
+uv	8075	Langebrück	1	Ar is vu[r?] vll. gelöscht vier odr fümf Wuch’n geschturm.
+uv	8092	Frankenthal	1	Ar es vor vier oder sechs Wochen gestorben.
+uv	821	Bukowiec	1	He es va vee adde sess Weke storwe.
+uv	8272	Fuchshain	1	hä s schun vur vier abber sec[h?]s Wuchen gesturm.
+uv	8289	Nerchau	1	Er is fer vier oder sechs Wuchen keschdurm.
+uv	83	Charzykowy	1	Hai is vö faie uddä söß Wäke sturwe.
+uv	8305	Limbach	1	Ar iß vorr vier ober sechs Wuch’n gesturm.
+uv	8321	Mergendorf	1	Är is vr sechs Wuchn geschturm
+uv	8345	Rostig	1	Er is vorr vier aber sechs Wuchen gsturben.
+uv	8358	Steinborn	1	A is vir vier ober sechs Wuchn gesturm.
+uv	8368	Bernbruch	1	Ar is vorrvier oder sechs Wuchn gestorbn.
+uv	8505	Dretschen	1	Ar is vor 4 oder 6 Wochen geschtorben.
+uv	8519	Kittlitz	1	ha yß v’r vier od’r sechs Woăch’e g’estourb’n.
+uv	8532	Kunnerwitz	1	A is ferr vier oder sechs Wuchen gesturben.
+uv	8546	Siekierczyn	1	A iß ferr vier oder sechs Wuch’n gesturb’n.
+uv	8560	Wolbromow	1	A is vir vier oder sechs Wuch’n gschturbn.
+uv	8574	Pieszkow	1	E A ies virr vier oder sechs Wucha gestorba.
+uv	8590	Prusice	1	A ies virr vier oder sechs Wucha gesturbe.
+uv	8614	Ogonowice	1	Er eis vor vier oder sechs Wucha gesturba.
+uv	8716	Förstgen	1	Er ist vor v̒ier oder sechs Wochen gesturben.
+uv	8726	Ober Horka I	1	A is ver vier oder sechs Wuch’n gesturb’n.
+uv	8736	Wegliniec	1	A is firr vier oder sechs Wuchen gschtarbm.
+uv	8740	Kierzno	1	A is für vier oder sechs Wuchen g’sturben.
+uv	8751	Szczytnica	1	A is ver vier oder sechs Wucha gesturba.
+uv	8762	Göllschau (Goliszów)	1	Er A is fur vier bis sechs Wuchen gestorbn.
+uv	8777	Bieniowice	1	A is vur vier oder sechs Wuchen gesturben.
+uv	880	Strzeczona	1	Hei iß va veie udde söß Wäatche ßtave.
+uv	8852	Klein Priebus	1	A is vor 4 oder 6 Wuch’n gesturb’n.
+uv	8858	Okraglica	1	Ar ist ver vier oder sechs Wuchen gestorben.
+uv	8865	Koberbrunn	1	A ees verr vier oder sechs Wuchen g’sturben.
+uv	8870	Armadebrunn (Studzianka)	1	A is vorr vier oder sechs Wuch’n gesturb’n.
+uv	8878	Trzmielow	1	A is vor vier oder sechs Wuchen gesturben._
+uv	8888	Skladowice	1	A iß vor vier oder sechs Wuchen gesturben.
+uv	895	Jelencz	1	Hei is vo faie Wäecke stuwe.
+uv	8972	Cantdorf	1	Er iß vor vier oder sechs Wochen gestorben.
+uv	8981	Eichwege	1	Er ist vor 4 oder 6 Wochen gestorben.
+uv	899	Iwiec	1	Hei is va faia udä säs Wäcke sturwa.
+uv	8990	Jedrzychowice	1	Er ist vor vier oder sechs Wuchen gesturben.
+uv	9000	Kunzendorf (Kunice)	1	Ha is vur vier oder saks Wuchen geschturben.
+uv	9015	Chichy	1	A is ver vier öder fünf Wuchen gesturben.
+uv	9025	Przeclaw	1	A ais forr vier o͡uder säcks Wuch’ng g’schturb’n.
+uv	9036	Jakubow	1	Ha eis vaur vier oders sechs Wuchen g’sturben.
+uv	9052	Rzeczyca	1	A is vur vier oder sechs Wuchen gsturben.
+uv	906	Busnia	1	He es va vee ode ses Weke storwe.
+uv	9143	Mehlen	1	Dar ist vor vier oder saechs Wochen gesturben.
+uv	9152	Dluzek	1	Ha is ver vier oder sechs Wuchn jeschturbn.
+uv	9163	Bialowice	1	Ha is ver vier uder sechs Wuchen gesturben.
+uv	9179	Broniszow	1	A is vorr vier oder sechs Wuch’n g’sturb’n.
+uv	9193	Alt Tschau (Stare Żabno)	1	Ar iß vorr vier oder sechs Wuch’n g’ schturb’n.
+uv	920	Lisie Katy	1	He es vorr vör odder sess Wäke störwe.
+uv	9200	Grochowice	1	Ha is vur vier oder sex Wuchen g’sturben.
+uv	9207	Konradowo	1	Ar iss vuor vier oder seks Wuchen gschturben.
+uv	9274	Staakow	1	Er is’ vor vier oder sechs Wochen esturben.
+uv	9280	Kaltenborn	1	Ar is ver vier oder saichs Woch’n gesturb’n.
+uv	9288	Czeklin	1	Ar iss vor vier oder sechs Wuchen gesturben.
+uv	930	Goczalki	1	Er öß vorr vier odder sechs Woche jestorbe.
+uv	9303	Lubiatow	1	A is virr vier oder sechs Wuchen g’sturbn.
+uv	9314	Zielona Gora	1	A is var vier uder sechs Wuchen gesturben.
+uv	9323	Zabor	1	A is vor vier oder sechs Wuchen g’sturb’n.
+uv	9335	Ciosaniec	1	A is vur vier oder sex Wuchen g’sturbn.
+vw	9400	Miloszyce	1	Er is vour vier oder sechs Wuchen gesturben.
+vw	9417	Prietzen	1	A iss veer vier oder sechs Wuch'n gesturb'n.
+vw	9433	Ujazd Gorny	1	A is vur vier oder seks Wucha gesturba.
+vw	9453	Lisowice	1	A ees vurr 4 oder 6 Wuchen geschturben.
+vw	9558	Ligota Piekna	1	A iss ferr 4 oder seckß Wuchen geschturrbn!
+vw	9579	Jenkowice	1	A is fer vier oder sechs Wuchen gesturben.
+vw	9592	Jemielna	1	Er ist vor vier uder sechs Wuchen gesturben.
+vw	9612	Prawikow	1	Ar eis vurr vier auder segs Wuchen gesturben.
+vw	9622	Warzyna	1	A eis vur vier auder 6 Wuchen gesturb’n.
+vw	9717	Domanowice	1	A is vor vier oder sechs Wuchen gesturben.
+vw	9739	Kamien	1	Er ist vor vier Wuchen gesturben.
+vw	9760	Krzelow	1	A eis fur vier oder secks Wuchen gesturben.
+vw	9775	Staszowice	1	Ar is vor vier oder sechs Wochen gesturben.
+vw	9799	Lazy Wielkie	1	Ar ais vur vier oder seks Wuchen gesturben.
+vw	983	Gromaden	1	He is vöä vehä ebbä söß Weikä stowä.
+vw	984	Friedberg	1	Hei is vö veiä o͡unäs sös Wäkä sto͡uwä.
+vw	9848	Godnowa	1	Ar ist vor vier ōder sechs Wuchen gesturben.
+vw	9877	Chroscina	1	A eis văr vier oder seks Wuchen g’sturb’eı.
+vw	9891	Gosciejewice	1	Er is vorr vier oder sechs Wuchen gesturben.
+vw	99	Trumiejki	1	He öß verr vöhr odder sesz Wäke sta͡orwe.
+vw	990	Walownica	1	He is va vehe odde söss Weke storwe.
+vw	9903	Sonnenfeld (Orpischewo)	1	A is vur vier odder sechs Wuchen gesturben.
+vw	9919	Wierzowice Male	1	A eis vor vier oder sechs Wuchen gesturben._
+vw	9926	Wodniki	1	A eis vo vier oder sechs Wuchen gesturben.
+vw	994	Kabat	1	He es va vehe onnes sös Wäke storwe.
+vw	9984	Morkowo	1	Ar eis vurr vier oder saichs Wuch’n g’sturb’n.
+vw	54872	Reval	1	Er is wīr oder sseks Wochen ssurück [j]eštorben [oder: [j]estorben: Hatschek in eckigen Klammern!]
+vw	52353	NA	1	Hei es vor veier oder seß Weke storve
+vw	30173	Ajoncourt	2	Lo mō i nĕ couĕt ou hich semĕne.
+vw	30197	Vaxy	2	La mô i n 'è quaïte ou hheuhe semaines.
+vw	30214	Bénestroff	2	L a' mo voil quät ou six semaines.
+vw	30225	Attilloncourt	2	La mo i né quäte ou sinq semaines
+vw	30248	Bezange-La-Petite	2	Le meuri i nè couett ou heh semoine
+vw	30254	Maizières-Lès-Vic	2	Il y è quouètre ou chech' (po. all.) semaines qu' l'a mô
+vw	30268	Richeval	2	L'eu mouri n'yeu quouète ou cheuche semaines.
+vw	30285	Lommerange	2	Il est mou avant quate ou chiche chemaine.
+vw	30314	Argancy	2	Laâ mou y gnieu quouette ou chichh semin-nes.
+vw	30325	Vernéville	2	Lo mout dèfreu cinq ou chi sménes.
+vw	30351	Ancy-Sur-Moselle	2	Lo mô n’y et quouéte ou hhi semainnes.
+vw	30361	Orny	2	Lé meuri y n' ié environ qoètre ou chís semaines.
+vw	30374	Hémilly	2	L'en e meri devant quouête ou hhi semine
+vw	30379	Champenay	2	Il o muo deyö kuett u che Smän.
+vw	30410	La Petite Lièpvre	2	É nie qouëtt ou cheu semaines qué la mouau. Il y a quartre ou six semaines qu'il est mort.
+vw	30421	Montreux-Vieux	2	E l’a moue dâ quatre ou chez semaines.
+vw	30429	Xhoffraix	2	(fehlt)
+vw	30436	Pont	2	I nna kwète ou sî samaine kiè mwèr.
+vw	30058	Karkelbeck	3	Jis ÿra pirm keturu ar fzefzu Nedēlu mires.
+vw	30068	Kinten	3	Jis ÿra pirm keturÿ arba szeszÿ Nedēlū pasi mires.
+vw	30078	Rudienen	3	Jis ÿra pirm kęturiû (ˋüber ę) arba fzefziu Nèdēliû miręs.
+vw	30083	Kolleschen (Kolletzischken)	3	Jis yra pirm keturu ar fzefu Nedelin mires.
+vw	-54895	Warszawa	10	ę̄R ͜   is̥ faəR fīər ͜   ǫdər sęgs wǫxn̥ gəšdǫRbm̥.
+vw	9746	Kobyla Gora	10	Er iſt vor vier oder ſechs Wochen geſtorben.
+vw	46572	Nebel	11	Hi as för fjaur of sæks Wæg stürvan.
+vw	46636	Hooge	11	Hi is ver vjauer ewwer seks Wigga felen.
+vw	46640	Wobbenbüll	11	Hie es for fjauer erer seechs Wegge störbn.
+vw	46699	Horsbüll	11	Hi es var viauer anter ſegs Wehg ſtörwen.
+vw	46759	Oland	11	Hi is vär viaur of sex Weege sturwen.
+vw	46773	Mönkebüll	11	Hi es vor fjaur oder ſix Wege ſtörben.
+vw	46888	Archsum	11	Hi is fuar fjuur of soks Weeken stürwen.
+vw	47862	Helgoland	11	Hĕ́ ĕ̀s vöˉr stjūr ŏ́dder ßo=ss Wĕ̀cken steöi˘rrewen.
+vw	48241	Wangerooge	11	Hi ist var vaur oder ſechs Wükke sturven.
+vw	F002p	Hindeloopen	11	Hie ies fòòr 'n wieke of feùwer (of sèks) stooand.
+vw	B079p	Zurich	11	Hÿ is for in wike ef fjouwer ef seis forstoarn.
+vw	F036p	Oudemirdum	11	Hij ĭ̀s fŏr ən wĭ́kə ŏ̀s sa̱is (6) stŭ̀rvən.
+vw	F003p	Woudsend	11	Hei is fòr fjouǝr òf seis wíken stôânt.
+vw	B084p	Wommels	11	Hij is foar fjouwer of seis wike stoarn
+vw	F013c	Oudehaske	11	Hij is foar fjour of saiz wieken stoand.
+vw	B094p	Grou	11	Hεj is fwar fjɔwər ɔs saɩ̇ᶎ wɩ̇kə sto'ən.
+vw	B024b	Wijns	11	Hei is fjou̯ər of sais jir lin stoən
+vw	B099a	Opeinde	11	Hy is foar in wike fjouwer of seis stoarn (Hy is foar fjouwer of seis wike stoarn)
+vw	B035a	Zwagerbosch	11	Hy is fwar fjouwer of seis wieke stôân.
+vw	B014p	Paesens	11	Hy is fjouwer of seis wike lyn stoarn.
+vw	G001b	Appelscha	11	Hej is voor fjoer of zeis weken stōrn
+vw	46905	Westre	12	Han er dö for vier eller seis Uger siend.
+vw	46914	Sophiental	12	Han er dön for fǖr eller seis Ugger sint.
+vw	46932	Sonderburg (Sønderborg)	12	Han ĕ dö fŏ ʃiĕ elle ʃeis Uche ʃin (däniʃch: ʃiden).
+vw	46938	Lysabbelholz (Lysabildskov)	12	Han er dö fo en fie ellr seis Oge [...]
+vw	46939	Toftum	12	Ha' æ' dó for fier eller seis U'er sin'.
+vw	46948	Hönning (Hønning)	12	Han er döe for fier eller seis Uger sin.
+vw	46957	Beftoft (Bevtoft)	12	Han er dö for fir eller seis Uger sind.
+vw	46968	Norder Wilstrup (Nørre Vilstrup)	12	Han er dó for fier heller seis Uger sinn.
+vw	47006	List	12	Han er död for vier eller ʃeis Uger ʃin.
+vw	47007	Jerpstedt (Hjerpsted)	12	Han er dö for en fier eller seis Uger sin
+vw	47016	Ellum	12	Han er dö for en fir eller seis Uger sin.
+vw	47029	Kassöe/Kassö (Kassø)	12	NEU (Buchstaben korrigiert): Han er dö for fir eller seis Uger sind.
+vw	47040	Feldstedtholz (Feldstedskov)	12	Han æd döe for fier eller seis Maaneder
+vw	47048	Hagenberg (Havnbjerg)	12	Han ä döi for en fie elle seis Oge sen.
+vw	47052	Hellwitt (Helved)	12	Han doj for fie eller seis Uger sen.
+vw	47057	Kamptrup (Kamtrup)	12	Han æ dó for en fier eller seis Ugger sin.
+vw	47066	Grönnebeck/Grönnebek (Grønnebæk)	12	Han er dö for 4 helle 5 Uge sin.
+vw	47073	Tyrstrup	12	Han er dö' for fier eller seis Uger sin.
+vw	47078	Hvidding (Hviding)	12	Han er dóe for fier eller ∫eis Uger ∫in.
+vw	56471	Merzdorf	41	Wón jo pschėd stiry abü scheschż tyżenami humrȯw.
+vw	56504	Burg	41	Won je psched styri aby schecź nedźelemi wumreł.
+vw	56507	Nochten	41	Wón je psched schtyrjemi aby schěscźemi Njedźelemi wumreł.
+vw	56520	Luppa	41	Je před štyri aby šesć njedźelemi wumrjeł.
+vw	56694	Widno	42	On ju umar jacie sztẏrẏ abo szesć niedzel.
+vw	56784	Zelistrzewo	42	On przed szterzema abo szesc niedzielmy pomar.
+vw	56785	Jastarnia	42	On je przed wsterzema abe wszesc Niedzielach umiarlÿ.
+vw	56799	Zalakowo	42	On jest przes sztery albo szesc niedzielach [sic!] umarly.
+wx	56805	Sianowska Huta	42	łon ÿest pred trszema albo sztirzema nyedzelmi umarłi.
+wx	56814	Rebiechowo	42	On przed szterzema abo przed szesc niedzelamy umar.
+wx	56846	Piechowice	42	On ómar przed stere abo szesc tygodniamy.
+wx	53478	Rombark	43	On prźed ċżterema lub sieśčzu tygodni umarł.
+wx	53489	Rytel	43	Przed cztery albo sześć ty god niami umarł.
+wx	53514	Lubocien	43	on przod czteremi lub sześciu tygodni umarł.
+wx	53521	Kamionka	43	On przed czterema lub sześeioma tygodniami úmarł.
+wx	53535	Orzelek	43	Umarł przed czterema lub sześcin tygod niami.
+wx	53538	Szyroslaw	43	Przed 4 alb 6 tygodniamy on umarł.
+wx	53545	Pisanica	43	On prźod czterỹ albo sześc niedźiel umarł.
+wx	53567	Glinki	43	Du zmarł przed czterema lub sześeioma tygodniami.
+wx	53571	Gruczno	43	On przed czterrma lub sześcioma tygodniami umarł.
+wx	53581	Slawianowo	43	Umarł przed czterema lub pięc tygod niami.
+wx	53602	Zoledowo	43	Prud cztérema albo sześcin tygodniami umarł.
+wx	53616	Wrocki	43	Przed szterma albo sieśćmy niedzielami umarł.
+wx	53620	Morzewo	43	On umarł przed czterema albo sześciu tygodniami.
+wx	53656	Bartosze	43	On zdecht tak ctery albo seść niedziel.
+wx	53663	Kraplewo	43	On przed czteryma, albo sześcmi tygodnami umarł. 
+wx	53708	Pokrzydowo	43	On umarł przed cztery albo sześć tygod niamy.
+wx	53710	Boleszyn	43	Przed czteroma lub sześć tygodniamy umarł.
+wx	53721	Nowy Swiat	43	On umarł przed cteroma lub sześcio ma tygodnami.
+wx	53745	Wapno	43	On przed czteroma albo szoséiom[?] tygodniani umarł.
+wx	53756	Mamlicz	43	Przed ćzerem[?] lub szóściome tygodniami umarł.
+wx	53760	Rojewo	43	Przed czteroma albo sześcioma tygodniami umarł.
+wx	53771	Wiatrowo	43	On przed czteryma albo sześcioma tygodniami umarł.
+wx	53819	Galezewo	43	Przed czterema lub szośćima tygodniami umarł.
+wx	53822	Lojewo	43	On przed czterema lub szeicin tygodniami zmarł.
+wx	53834	Bielawy	43	Umarł przed czteryma czy szośćima tygodniami.
+wx	53859	Chludowo	43	Umarł temu cztery lub sześć tygodni.
+wx	53872	Strzyzewo Koscielne	43	On umarł przed czterema czy szećeiana tygodniami.
+wx	53877	Kamieniec	43	On umarł przed czterema lub sześcioma tygodniam [...]
+wx	55537	Ceradz Koscielny	43	Umarł przed człerema, albo sześcin tygodniami.
+wx	55565	Poznan	43	Umarł przed czterema czy sześcioma latami.
+wx	55569	Lowecin	43	On przed czterema lub sześcioma tygodniami umarł.
+wx	55586	Mierzewo	43	Umarł przed cztéryma lub sześciu tygodniami.
+wx	55592	Dabrowka Wielkopolska	43	Umarł przed ozterema albo szóścin tygodniami.
+wx	55593	Slupia	43	Umarł przed czterema, lub przed
+wx	55621	Babin	43	Umarł przed czterema lub pięciu tygodniami.
+wx	55635	Tadeuszowo	43	On umarł przed czterima albo szośćima tygodniami.
+wx	55646	Gorazdowo	43	Umarł przed czterema czy szościn tygodniami.
+wx	55656	Sierakowo	43	On umarł przed czterema czy pięcioma tygodniami.
+wx	55688	Turew	43	Oo umarł przed czterema lub szościma tygodnia[...]
+wx	55701	Ludwinow	43	On umarł przed czterema slbo przed szuśćima tygodniami.
+wx	55702	Radomierz	43	On przed czterema, albo szościu tygodniami umar[ł]
+wx	55720	Kotlin	43	On umarł przed czterema albo szuseicoma tygodniami.
+wx	55725	Gorzno	43	On umarł przed czterema, albo przed szościema tygodniami[?]
+wx	55729	Drzeczewo Pierwsze	43	Umarł przed czterema czy sześciu tygodniami.
+wx	55733	Rusko	43	Umarł przed czterema lub szescin ty godnia[...]
+wx	55741	Brzezie	43	On umarł przed czterma czyszeicin tygodniami.
+wx	55782	Torzeniec	43	On umarł przed czterma lub sześcin tygodniami.
+wx	55794	Kuznica Slupska	43	Umarł przed czterema lub sześćiu tygodnami.
+wx	55803	Kuklinow	43	Umarł przed ezterema albo szescioma tygodniami.
+wx	55828	Pomocno	43	On przed pięciu albo sześcin tygodniami umarł.
+wx	55848	Uciechow	43	Umarł przed czterma lub sześcin tygodniami.
+wx	55855	Przygodziczki	43	Umarł przed czterma albo sześćma tygodnia[m/ni?].
+wx	55859	Kaliszkowice Kaliskie	43	On przed cztengma lub sześcima tygodniami umarł.
+wx	55878	Trebaczow	43	On umarł przed śtérma albo syśćma niedzieloma.
+wx	55894	Greboszow	43	On przed śterma abo seśćma niedzieloma umarł.
+wx	55900	Pawlowice Gorzowskie	43	Lón prze cterma albo seśćma niedzielóma umar.
+wx	55940	Skoraszewice	43	On umar przed ozterema, albo szoscin niedzietami.
+wx	55947	Kwiatkow	43	Przed 'sterma (cz.) lub szoś[cen?] (e) tygodniami umarł.
+wx	55991	Zabrze	43	On umarł przed czterma albo 6ma tydniami.
+wx	56013	Radoszowy	43	Przed czterma lub 6 tydeniami umarł.
+wx	56022	Budziska	43	On przed styrma ab[l?]o sześcioma tydniami umarł.
+wx	56027	Stanica	43	On jest przed cztyrma albo szescoma tygodniami um[žyly?].
+wx	56041	Murcki	43	On przed czwortymi abo szostymi tydniami umarł.
+wx	56053	Wilkow	43	Łón przed sztyrma abo sześćma niedzielóma umar.
+wx	56069	Dobieszowice	43	Przed cztyrma albo szećma niedzielami umarł.
+wx	56077	Ujazd	43	On przed czterma abo sześćma tydnioma umarł.
+wx	56086	Rzeczyce	43	On iest przed sterma obo sześćią Niedzielami.
+wx	56167	Staniszcze Male	43	On przed sztyrma abo sześcioma tydnioma umarł.
+wx	56190	Ligota Proszkowska	43	Umar przet styrma abo przet seiśćma niedzieloma.
+wx	56205	Radonia	43	On umarł przed sztermi albo sześcmi Tygodniami.
+wx	56237	Kotorz Wielki	43	On umarł przed styry albo seść tydniami.
+wx	56247	Pawonkow	43	Przed czterma albo sześć tydniami on umar.
+wx	56252	Cieszowa	43	On przed szterma, abo pięćma tydniami umarł.
+wx	56257	Zieliniec	43	Łon umarł przed cztérma abo sześć niedzi[...]
+wx	56269	Debiniec	43	On umar prsed zczszmi albo szermi tÿdmia.
+wx	56274	Wedrynia	43	On pred czterma alba śiosma niedzielamy umarł.
+wx	56338	Frydek	43	On umart przed śterma abo seśc’ma tydniami.
+wx	56349	Pielgrzymowice	43	On przed czterma albo sześcima miesiącami umrzył. 
+wx	56375	Nieboczowy	43	On umrzył przed szterma albo szesćioma tydniami.
+wx	56381	Swierklany Dolne	43	On przed styro tydniami umrzół.
+wx	56539	Gieralcice	43	Przed czterma albo sześćma niedzielami umarł.
+wx	56549	Borki Wielkie	43	On przed cztery albo sześć tygodniami umarł.
+wx	56576	Kamien Slaski	43	Przed człerema albo sześć tydniami umarł.
+wx	56580	Strzelce Opolskie	43	On przed cztery albo sześć tygodniami umarł.
+wx	56600	Tarnowskie Góry	43	On przed siesci tydniami umarł.
+wx	56650	Bujaków	43	On przed cztérma albo pięćmi tygodniami umarł.
+wx	56681	Suszec	43	On przed szterma albo sieść tygodniamÿ umarł.
+wx	56761	Mgowo	43	On przed sztery albo sześć tygodni (zamerł) umarł
+wx	56850	Lekarty	43	On przed szterema czyteź przed szościoma ty godniami zamarł.
+wx	56861	Lewald Wielki	43	On przed steri abo sesc tigodni umarł.
+wx	56870	Januszkowo	43	On przed śtéri abo sescz niediél umer.
+wx	56877	Zimna Woda	43	O przed śteroma albo śeśćoma tygodniami umarł.
+wx	56884	Roklas	43	On umarł przed czteroma albo śieśćioma tygodniamy.
+wx	56897	Lipowiec	43	On przes ćtere albo szesć Niedziel umarł
+wx	56903	Zawojki	43	On jest p[r?]zed steroma abo siszoma Niedzelam ni umarł[i?].
+wx	56916	Slawka Mala	43	Przed stery abo sesczioma niedzielani on umer.
+wx	56953	Baranowo	43	Przed 4 albo 6 niedziel umer on.
+xy	56956	Macice	43	On przed czteroma alb seścioma tygodniami umarł.
+xy	56963	Narzym	43	On umarł przed sztery albo seść tygodni.
+xy	56966	Napierki	43	Iest temu steri albo siesz tigodni zo umarł.
+xy	56975	Mierki	43	On przed śtery albo przed sześc niedziel umarł.
+xy	56979	Butryny	43	On przed szesciu niedzelack pomer.
+xy	56994	Jerutki	43	On umarł przet czterÿ albo szesz tÿgodnia[mi?].
+xy	57047	Nowy Dwor	43	On przed czterÿ albo ʃześc tygodni umarł.
+xy	57066	Wysoki Grad	43	Będą iuz 4 albo 6 niedziel iak on umarł.
+xy	57070	Pogobie Srednie	43	On przed śteroma abo seścioma niedzielani zdech.
+xy	57074	Lipnicken (Lipniki)	43	On przed steroma czy sescioma Niedzelani umerł.
+xy	-57081	Klebark Wielki	43	Łon (on) przed czteróma abo (albo) śzescióma tygodniamy (tigodni) umarł (łumer)
+xy	57106	Rybno	43	Čztarÿ albo sześć niedziel tomu, iak on umarł.
+xy	57168	Saplaty	43	On przed cteroma albo sześczioma Niedzielani umarł.
+xy	57181	Krutyn	43	On przed schtery abo ṡeschtsch niedzielow umer
+xy	57183	Zdory	43	Przed 4 remi lub 6 tygodni pomarł.
+xy	57186	Ruda	43	On zä tzery ab za seść niedziel umerł.
+xy	57191	Dybowo	43	On zdech przed czteroma abo sześchoma niedzcelani.
+xy	57203	Dlugosze	43	On przed czteroma albo seść niediel umarł.
+xy	57219	Sulimy	43	Przed czterÿ olbo sześć niedźiel umarł.
+xy	57232	Wejdyki	43	On tak ctery miedziele umarł.
+xy	57258	Wilkasy	43	Iaz cztery albo cześć niedziel jak on umarł
+xy	57275	Czerwonka	43	Łon łumer przed szteroma ci sies. niedzelan[y?...]
+xy	57298	Zastruzne	43	On przed czteri albo sześć niedziel umarł.
+xy	57304	Skomack Wielki	43	On przed cteroma albo seścioma tygodniami umarł.
+xy	57318	Kile	43	On przed czterÿ albo ʃześćioma tygodni umarł.
+xy	57321	Prawdziska	43	Ion s̜a ctiery albo siesc tigodnie umar.
+xy	57340	Mosina	43	Umar przed szterema abo szoscióma tygodniami.
+xy	57348	Bnin	43	Umor (umarł) przed scesioma tygodniami.
+xy	57379	Binkowo	43	On zmarł przed czterema czy szescioma tygodniami.
+xy	57381	Kolniczki	43	Umarł przed czteroma albo sześcioma tygodniami.
+xy	57394	Januszkowo	43	On przed szteroma, abo sześcioma tygodniami umar.
+xy	57406	Dabrowka Ludomska	43	Łon umar przed stérma lub sześćiu tygodniami
+xy	57407	Wiecanowo	43	On umarl przed czterema albo tygodniami.
+xy	57397	NA	43	łun jest za sztyry abo za sześci tygodniy łumar
+xy	55528	Słone	44	Von přet stiřma nebo šestima nědeli umřel.
+xy	56290	Groß Hoschütz (Velke Hostice)	44	On před čtÿrma aneb ššest tÿdnama umřel.
+xy	56344	Ellgoth-Hultschin (Ostrava-Lhotka)	44	On před čtyrma aneb ssefti tydnami umřel.
+xy	44317	Zell-Pfarre	45	Hon je pred štirm bl šestm tednam umrv.
+xy	I125a	Heille	100	ie is fiēr of ses weekn gəlĕĕjə gəstorvn
+xy	I140p	Axel	100	Die is over vier of zes weken gestorven
+xy	I103p	Cadzand	100	Je is over vier of zes weken gestowen.
+xy	I110a	Slijkplaat	100	ie is een weke of vier, ???, zesse geléjen gestorven (doid hegaon)
+xy	I095p	Hoedekenskerke	100	ie is voe vier of zes weken 'esturve
+xy	I101p	Krabbendijke	100	Ie is over vier of zes weke overleefd
+xy	I058p	Westkapelle	100	ī́ ĭ̀s ən wḗkə ŏ̀f vī́rə of zĕ̀sə əlḗ (=geleden) əstŏ̀rəvəook: ī́ ĭ̀s ṓvər ən wḗkə ŏ̀f vī́rə ŏ̀f zĕ̀sə əstŏ̀rəvə
+xy	I062a	Serooskerke	100	ie is over vier of zes weken gestorve(of 't is al vier of zes weke gele dat gestorven is
+xy	I048p	Colijnsplaat	100	ījis vō̆r vīr of ses wēkən gəstørvə
+xy	I055p	Sint Annaland	100	Ie is vier of zes weken geleje gestorve
+xy	K173a	Kruisland	100	Hij is vor vier of zes weken gestorven
+xy	K155p	Zevenbergen	100	Hij is fiēr of ses wekə gəleĕjə gəstörvə
+xy	K162a	Oosteind	100	hij is vur viēr of ses wḗkə gəstorvə.
+xy	I032p	Burgh-Haamstede	100	Ie is và 4 of 6 weken esturreve
+xy	I031a	Scharendijke	100	Ze is vier of zes weken elee esturve
+xy	I023p	Dirksland	100	hie is een weke of viere of zesse gelee al gesturve
+xy	K086p	Zuid-Beijerland	100	hay is voor vier of zes wḗkə(n) gestùrve(n)
+xy	K093p	'S-Gravendeel	100	Hij is ən week of vier, zes gəlejə gəsturəvə.
+xy	K101a	Nieuwendijk	100	Hij is een wèk of fier (zes) geleje gesturreve
+xy	I008p	Rockanje	100	Hij is voor vier of zes weke gestur[re?]ve.
+xy	K042a	Vlaardingen	100	ai is veur 4 of 6 weken gesturreven
+xy	K012p	Ouderkerk Aan den Ijssel	100	Hij is vie of zes weke geleje gesturve.
+xy	K022p	Willige Langerak	100	Ie's mer vier of zes weken gesturven
+xy	D005p	Den Haag	100	Hei̯ is vœr vīr of ses wēkə Xəstorəvə
+xy	E179p	Zwammerdam	100	Hij is vier of zes weke geleje gestörve
+xy	E181p	Zegveld	100	Hij ĭ̀s fōr vī́r ŏ̀f sĕ̀s wḗkə gəstŏ̀rvə (ook: gəstŭ̀rvə)
+xy	E133p	Katwijk Aan Zee	100	He̱i ĭ̀s vī́r ŏ̀f zŭ̀s oeweḗkə əlén estŭ̀rrəvə.
+xy	E138b	Abbenes	100	Zes weken geleë is tie (g)esturven.
+xy	E147a	De Kwakel	100	Hij is vier of zes weken geleje gestorven.
+xy	E080a	Velsen	100	Hij is foor fier of zes weke gestorve
+xy	E086p	Zaandam	100	Hai is voor vier of zes weke ustorreve.
+xy	E041p	Egmond Aan Zee	100	Ai is voor vier of zes wieke estorreve
+xy	E047a	Stompetoren	100	Hai is nou vier of zes weke lede sturve
+xy	E010p	Sint Maarten	100	Hai is vier of zes wĕĕke lăĕden sturven.
+xy	E005p	Westerland	100	Hij is een week of vier of zes leje sturreven.
+xy	A009p	De Waal	100	Hee is vier of zes weke lede storr(e)ve.
+xy	K218p	Bladel	100	Hij is fiēr of ses wḕkə gəleejə gəstö̆rvə.
+xy	K214p	Lage Mierde	100	Hij is vier of zes weken geleden gestorven
+xy	K165p	Udenhout	100	Hij is over vier of zis wḕke dood gegoan
+xy	K104a	Herwijnen	100	Hij is fur vier of zès wèke gesturreve
+xy	K035p	Hei-En Boeicop	100	Hij is voor vier of zes weken gesturven
+xy	E192p	Utrecht	100	Hij is voor vier of zes weke gestorreve.
+xy	E124p	Ankeveen	100	Hij is voor 'n week of vier of zes gestorven
+xy	E091p	Monnickendam	100	hiu is voo (r) vie(r)  of zes weikə əstorvə
+xy	E058p	Hoorn	100	Hij is foor fier of sis weke gestorreve.
+xy	E031a	Oostwoud	100	Hāa̱ ĭ̀s vṓr vier ŏ̀f zĕ̀s wḗkən stŭ̀rvən.
+xy	E003a	Den Oever	100	hij is vier of zes weeke leden steurven
+xy	Q095p	Maastricht	100	Heer is veur 'n week of veer (of zes) trùk gestorve.
+xy	L281p	Borkel	100	Hij is veur vier of zes wềke gestörreve
+xy	L226p	Woensel	100	Hij is fīēr of ses wḗkə gəlĕĕjə gəstö̆rvə
+xy	L177c	Middelrode	100	Hij is vur vier of zes weken gestörven
+xy	L093p	Lith	100	hij is fiēr of ses wḕkə gəleĕjə gəstörvə
+xy	L003p	Maurik	100	hεi is fər vi:r ɔf zεs wε:kə ǥəstœrvə.
+xy	F165p	Amersfoort	100	Hi. is fŭ̀r vier of ses wekə estŏ̀rve.
+xy	F121p	Bunschoten-Spakenburg	100	hie is vur vier of zes weken esturven
+xy	E040a	Venhuizen	100	Hij is vier of zes weke leden doodgaan
+xy	E040p	Enkhuizen	100	'ij is veur vier of zes weke storreven
+xy	A001p	Midsland	100	Hij is vier of zes weken lede storven.
+xy	Q102p	Sint Antoniusbank	100	er is veer of sès weeke geleeje gestōrreve
+xy	L318p	Stramproy	100	Hai is veer of zès waikə gəle-jə gəstorvə
+xy	L288b	Laar	100	Hê (e van bête, kort uitgesproken) ĭ̀s veur vḗr ŏ̀f zĕ̀s wêkə gəstŏ̀rvə
+xy	L237p	Helmond	100	Hij is vur vier of zes wèken gestōrven.
+yz	L157a	Oventje	100	Hij is vur vier of zes weke gesturve.
+yz	L102p	Ravenstein	100	Hei̯ is foêr vīr ofses wēkə gestörvə
+yz	L010p	Wageningen	100	hei̯ is fôêr vī of ses wēkə gəstyrvə
+yz	F170p	Barneveld	100	Hie is veur vier of zes weken estorven.
+yz	F124p	Putten	100	hie is vūr vīēr òf zes weekən tərux əstœrvən
+yz	F077p	Urk	100	IJ is vor vier of zes wêêken əstörven.
+yz	B046a	Minnertsga	100	Hij is for fjouwer of seis wike stoarn.
+yz	L290p	Panningen	100	Heu̯ is fœr vīr of ses wēkə gestorvə
+yz	L211p	Leunen	100	Hɪj ɪs-för vier of-sɛs wɛ̄k(e) gestörəve
+yz	L116p	Beek	100	hij is fö̆r fier of ses wḗkə chəstö̆rvə
+yz	L023p	Arnhem	100	Hie is fiēr of ses wekə gəleĕjə gəstorvə
+yz	F173p	Hoenderloo	100	Hi is veur vier of zes wekən əstörven.
+yz	F128p	Vierhouten	100	Hie is vier of zes weken eleen esturv(e)n
+yz	F102p	Oldebroek	100	hij is veur vier of zes wek'n 'esturven
+yz	F079p	Ens	100	Hij is veur vier of zes weken esturven.
+yz	F052p	Kuinre	100	eij is veur vier of zes weken sturven
+yz	B002p	Nes	100	Hij is voor vier of zes weken sturven
+yz	F207p	Drempt	100	heej is veur 'n wèkke of zere, zesse dood egaon
+yz	F179p	Zutphen	100	Hî s vier of zes wêken (g)eleën estorven (gestorven)
+yz	F132p	Diepenveen	100	He is veur vier of zes wèke esturven.
+yz	F106p	Windesheim	100	hij is voor viere of zesse weken gestorven.
+yz	F086p	Rouveen	100	hi'j is vör vēr òf zès wī'əkən 'əstör'vn
+yz	F060p	Steenwijk	100	Hïj is veur vier of ses week'n esteurrem'
+yz	F021p	Oldeberkoop	100	Hi-j is veur vier of zes weken sturven.
+yz	G279a	Zieuwent	100	heĕj is fŏ̄r veerə of ses wekkə lḗnə storvənə
+yz	G246p	Lochem	100	he: sfø:ʀ ve:ʀ ɔf sɛs wɛk'əstɔʀvn̥
+yz	G197p	Holten	100	Hee is vû^r veer òf zès wèke estùrvn
+yz	G139a	Arriën	100	hi is veur veer of zes wekke ōverleden (uut de tied eraakt)
+yz	G091d	Linde	100	hi-j is 'n wekə of verə zessə əlêên, əsturm
+yz	G024p	Dwingeloo	100	Hi'j is veur een weekə of vievə zessə stŭrm
+yz	C145p	Zevenhuizen	100	Hij is vier of zes week'n leden sturm.
+yz	C063p	Oldehove	100	vair of zes week leden is er sturm
+yz	C023a	Hornhuizen	100	Hai is veur vaier of vief wiek'n stùr'm
+yz	G257p	Haaksbergen	100	hee is vuu(r) vee(r) of zes wekk' (estorven, estorm)
+yz	G173p	Almelo	100	Hee is veur veer of vied wekke estörven
+yz	G094p	Gramsbergen	100	hie is veur 'n wekke of veere of zesse estörven
+yz	G031p	Orvelte	100	Hij is veur veer of zes week'n sturm
+yz	G007p	Rolde	100	Hie is veur veer of zes week sturmHie is veer of zes week leen sturm
+yz	C148a	Glimmen	100	Ha̱i ìs veur va̱ir of zès wé'k stūrm
+yz	C070a	Sint Annen	100	Hai is veur vair if zes weekn sturfn.
+yz	C001b	'T Lage Van De Weg	100	hai is vaier (week) of zès week leed'n sturm'n.
+yz	G079a	Amsterdamscheveld	100	hij is veur vier of zes weken st¢rm (stòrm).
+yz	G058p	Emmen	100	Hie is veur veer of zes week'n ströv'n.
+yz	G012a	Nieuw-Buinen	100	hai is veur vair of zes week'n sturm
+yz	C156p	Muntendam	100	Ai is veur vair of zes week'n störm.
+yz	C081p	Weiwerd	100	(H)ai is vair week'n leed'n sturv'n (overleed'n)
+yz	C042p	Spijk	100	Hai is veur vair of zês week sturm'm
+yz	C165p	Bellingwolde	100	Hai is veur vair of zes week sturm
+yz	G285p	Meddo	100	Hêe is vör veer ôf zes wèke estorvene.
+yz	K189p	Essen	100	ÿ (j) is over vier of ses weke gesteurve.
+yz	P133a	Terlanen	100	Hij is over vier of zes weke gesterve
+yz	K191p	Meerle	100	Hij is over vier of zes weke gestorve
+yz	K234p	Wechelderzande	100	a is o̞: vər vi:r ooze̞ we:kə jestərvə
+yz	K305p	Olen	100	Haə is ovər vir of zis wêkən gəstörvən.
+yz	P025p	Aarschot	100	ās (āz) ōiǝr vīr ǫf ze̩s (ses) wäkǝ gǝstø̩rǝve (gǝstørǝve)
+yz	P154p	Outgaarden	100	ənẹz ay vər veir vē̜f wẹə̯k'ə ɣəstọrəvə.
+yz	K196p	Poppel	100	Hÿ is over e week of vier gestorve.
+yz	K241p	Retie	100	ha'z ovər vīr wē̜ə[?] əstø̩rəvən
+yz	K314a	Gompel	100	e̜j es ōvər vir ọf sẹs wē'ə gəstọrəvə.
+yz	P047p	Loksbergen	100	H[i?]ə ès euver vier og zis wÿke gestorəve.
+yz	P174p	Velm	100	Heë es euver vier och zes weke gestorreve.
+yz	L353p	Eksel	100	Hij is vuur vier of zes weken gestorven
+yz	Q001p	Zonhoven	100	ẹjẹs vər viər ox sẹs wėəkə gestọrəvən
+yz	Q079p	Guigoven	100	hiẹ es ø̄yvər vīr ọf ses wiẹkə ɣəstørəvə.
+yz	L360p	Bree	100	hɛ is i:əvər veˑr ɔf zɛs wɛ:kə gəstɔrvə
+yz	L417p	As	100	Er ès iëver veer of zès wêke gestorve
+yz	Q253p	Montzen	100	hèjǝ is övǝr veer (a) of zès weejǝkǝ gǝsjtǝrǝvǝ (vǝr = woudt even goed gebruikt als övǝr)
+yz	O009p	Gottem	100	Hie es over vier of vÿf eur.
+yz	O182p	Volkegem	100	Ie‿ès (Ie-ès-ÿ) oover vier of sès week'n gestoorv'n ('estoorv'n).
+yz	I163p	Oosteeklo	100	o:vər vir ɔf sæs weˑkə̃ æste: dyt
+yz	I243p	Destelbergen	100	Hee es over vier of zes weken gestorven.
+yz	O112p	Elene	100	Hij is over een week of fier o fijve gestorven.
+yz	I261p	Appels	100	Hÿ is over vier of zes weken gestorven.
+yz	O149p	Iddergem	100	ɛae̜sovərvirwekəngəsdroən.
+yz	O275p	Herne	100	(å̄)ezūvǝwīrǫfsęswēkǝɣǝstø̜wǝn.
+yz	I178p	Beveren	100	Hei is over 'n week of uier of zes gestorven.
+yz	I268a	Kalfort	100	nǝnẹz ōvǝr ǝn waik ǫfīr zes ɣǝstörvǝ
+yz	O178a	Molenbeek-Saint-Jean	100	ÿ ès ouver veer of zès weike gesteurve
+yz	P198p	Sint-Genesius-Rode	100	ei es over véér of vaaf wèke gesteurve.
+yz	55045/H051p	Wulpen	100	æn ɛs ovər vi:r of sæz wekə̃ æstɔrvə̃. 
+yz	55005/N024p	Westvleteren	100	æ ɛs o: vər ɔf zæs we:kən doəd æ gãə.
+yz	N116p	Loker	100	æ̈ne̜z o:vər vi:r uf fyw we:kŋ dwad æ̈gɔwa
+yz	H016p	Oostende	100	ɣɛs ɔvər vir of zæs we:kŋ gəstɔrvŋ
+yz	55036/H061p	Koekelare	100	jɛzo: vər viə:r ɔfsæs we:kẽ doət.
+yz	55022	Houthulst	100	Hi is al dood sedert vier of zes weken.
+yz	N130p	Wervik	100	J' ès ouver vier of zes weik-n googegae.
+yz	H005p	Uitkerke	100	J' is over e weke of vier of zesse gestorven (dood)
+yz	55044/H068p	Loppem	100	jɛs doəd o:vər ẽ we:k ɔf fi:rə ɔ sæsə.
+yz	N041p	Pittem	100	ɣe̜s dōət ōvrən wēk o̜f īr o̜f sǟss.
+yz	55023/N141p	Kortrijk	100	jǟz ovər vīr ov zǟs wēkn gəstɔrvn (auch duə gəgɔ̄n)
+yz	K245p	Deurne	100	Hÿ is over 4 of 6 weken gestorven.
+yz	K332p	Onze-Lieve-Vrouw-Waver	100	A és over vier of zés wêke gestörve
+yz	P018p	Kampenhout	100	aai es over vier of zes weike gesteurve.
+yz	47114	Aarö (Årø)	12	Han æ dó faa fie elle seis Uge sin.
+yz	56462	Babow	41	Won jo predk styrich abo scheßzich tyźen humrew.
+yz	53549	Zon	43	Umarł przed czterema czy pięciu tygodniami.
+yz	53561	Myslowice	43	On przed 4 albo sześć tydni umarł.
+yz	43859	Schachendorf	46	On je umer pred četirimi tajdni.  

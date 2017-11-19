@@ -1,0 +1,2499 @@
+Index	Bogennummer	REDE_Namen	Sprache	WS7::Transliteration WS7
+ab	10029	Ringhuscheid	1	Hän est Eier ömmer oahnä Salz oah Päfer.
+ab	10044	Malberg	1	Hähn eßt de Aier immer ohne Saalz un Päfer.
+ab	1009	Nowy Klukom	1	He ett de Egge (e kurz– g=Gaumenlaut) imme auan Sult ı Peipe. (: u in „Sult“ fast wie o)
+ab	1018	Lasko K Choszczna	1	He et de Iggi ümme ohn Sult un Pëïpe.
+ab	10215	Pantenburg	1	Ä äßt die Eier emmer and Salz un Päfer.
+ab	1023	Golin	1	He ett’d Igge imme ohn Sult u Päpe.
+ab	10230	Beuren	1	Äh eßt de Eier îmmer ohne Salz un Päafer.
+ab	10259	Mörsdorf	1	Äh eßt de Eia immer ohnë Salz und Peffa.
+ab	10275	Badenhard	1	E ißt die Aier immer ohne Salz un Peffer.
+ab	1029	Niekursko	1	He ett d. Igge ümme auo Sult uo Peipe.
+ab	10300	Welterod	1	Er ißt dej Aȷer emmer ohne Salz un Peffer
+ab	10315	Bleidenstadt	1	Er ißt die Aijer immer ohne Salz und Peffer.
+ab	10335	Espeler	1	Hen ißt d’Eier immer ohne Salz ond Päfer.
+ab	1035	Stobno	1	He et de [E?]ke ümme auo. Solt u Peipe.
+ab	10351	Brandscheid	1	Hehn eßt die Eier emmer ouhne Saalz un Päfer.
+ab	10368	Büdesheim	1	Enn äßt dě Eier immer aohne Saalz ounn Päafer.
+ab	10381	Waldkönigen	1	En eßt de Eier emmer ôhne Salz on Päfer.
+ab	1050	Krostkowo	1	Hei ett dei [I/T?]je ünnne auhe weh, Sult u Päppe.
+ab	10584	Kalenborn	1	Är est de Aier allzeut onne Salz un Pärver.
+ab	10601	Gappenach	1	Er eßt de Eier emmer ohne Salz on Päefer.
+ab	10621	Rhens	1	E ißt die Aier ömmer u̇hne Salz one Peffer.
+ab	10649	Attenhausen	1	E’ ißt die Aia em̅a uhne Salz un Peffa.
+ab	10663	Heringen	1	Er ißt die Aier ím͡er [ä?]hne Salz un Päffer.
+ab	10690	Honsfeld	1	Henn eßt die Eier lutter ohnen Salz on Päffer.
+ab	10697	Dahlem	1	E eß de Eier ohne Salz onn Peffer.
+ab	10709	Aremberg	1	Er oß dä Eier emmer ohne Salz ond Päfer.
+ab	10736	Hohenleimbach	1	Äh ißt de Eier ömmer ohne Salz on Päfer.
+ab	10857	Hatzfeld (Eder)	1	Er eßt de Aier ėmmer ohne Saalz [ů?]e Peffer.
+ab	10974	Haindorf	1	Ä eßt de Eier ümmer uhne Sahlz ou Pfäffer._
+ab	110	Rozpedziny	1	He et de Eier emmer ohne Solt on PePer.
+ab	11132	Schwarzwald	1	Ä ißt de Eier immer ohne Sâlz on Pfâffer.
+ab	11149	Wipfra	1	Ae eßt de Eier immer ohne Sählz onn Fäffer.
+ab	11180	Remda	1	Â eßt d’Eier immer ohne Sâlz onn Fâffer.
+ab	11197	Zeutsch	1	Ar ißt die Ähre immer ohne Salz un Pfaffer.
+ab	11212	Breitenhain	1	Ār eßt de Eere im̅er ohne Sālz un’ Pfāffer.
+ab	11230	Burkersdorf	1	Aer ißt die Eere im̅er ohne Salz un Pfaffer
+ab	11252	Seelingstädt	1	Er ißt die Ere uhne Salz und Pfaffer.
+ab	11262	Seebach	1	Er ißt die Eier ümmer ohne Salz un Pfaffer
+ab	1133	Debenke	1	Hei et dei Ege immä aun Sult u Päpä
+ab	1139	Gliszcz	1	Hai ätt dai Ÿgge imme aun Sult u Päpä.
+ab	11467	Boilstädt	1	Är eßt de Eier emmee ohne Sälz on Pfäffer.
+ab	11485	Ingersleben	1	A eßde Eier immer ohne Saalz on Faffer.
+ab	1150	Czarze	1	He ett de Eie emme ohne Solt on Peper
+ab	11515	Gutendorf	1	Ha eßt de Eier emmer ohne Faffer on Sahlz.
+ab	11539	Kleinschwabhausen	1	A’ eßt de Eier emmer ohne Salz und on Pfāffer.
+ab	11568	Thalbürgel	1	Er ißt die Erre immer ohne Salz ǒn Pfäffer.
+ab	1157	Bielczyny	1	Er eßt d' Eier immer ohne Salz un̄ Pfeffer.
+ab	11586	Bad Köstritz	1	Ar ißt de Ere immer ohne Salz un Pfaffer.
+ab	11607	Lumpzig	1	A ißt de Ere immer ohne Salz un Pfaffer
+ab	1162	Sierakowo	1	Hei ett der Egge ömme oahn Solt o Peape.
+ab	11645	Gleismuthhausen	1	Ar ißt die Eier ümmer ohna Salz und Pfaffr.
+ab	11673	Mitwitz	1	Er ißt die Eie imme ohne S[o/ɑ?]lz und Pfeffe
+ab	11763	Aub	1	Ar ist die Är ömmer ohn[a?] Sālz und Pföffer.
+ab	1178	Sokoliniec	1	He ät de Igge imme ohn Sult u Peipe.
+ab	11805	Seidmannsdorf	1	Âr ißt die Ei’r ümmer ohnâ Salz un Pfâff’r.
+ab	11825	Wallenfels	1	Ä ißt di Eĩẽ allemoll ohna Solz und Pféffe.
+ab	11844	Neudorf	1	Er ißt die A̽r Asterisk auf A immer ohne Salz und Pfeffer.
+ab	11864	Draisendorf	1	Er ißt die Ār immer ohna Sålz und Pfɑffer.
+ab	11881	Sohl	1	Er iszt di eier imm’r uane solz u pfeff[?].
+ab	11896	Sülzdorf	1	ha eßt die Äer öm̅er ohne Sālz on Pfeffer.
+ab	1192	Debsko	1	He ett de Ēgge ümme oon Solt u Peipê.
+ab	11927	Bachfeld	1	Är ißt die Är emmer uhne Solz un’ Pfäffer.
+ab	1197	Plociczno	1	He ätt’ de Igge ǔmmer ōān Solt un Päipe.
+ab	1203	Nakielno	1	He ett de Ege imme auhan Solt u Peipe
+ab	12037	Hildburghausen	1	Ar ißt die Ei’r im̅’r ohne Salz un Pfaff’r.
+ab	12070	Neuenbau	1	Er ißt die Eer üm̅er uahne Soolz un Pfaffer.
+ab	1208	Wissulke (Wiesiółka)	1	He ett d’Egȷe ümme au’n Sult ĕnn Peipe.
+ab	12085	Grumbach	1	År ißt då Ähr immer uhne Salz unn Påffer.
+ab	12104	Frössen	1	Arr ißt de Āhr allefort(immer) „allefort“ über „(immer)“ ohne Salz und Pfeffer.
+ab	12125	Schwand	1	Err ißt die Âer im̅er ahne Salz unn Pfeffer.
+ab	12148	Kottengrün	1	Er ißt de Aar innmr ahne Salz un Pfeffer.
+ab	1215	Paruszka	1	Hei ätt dei Igge ümmä aun Suld uh Päpä.
+ab	12153	Meiningen	1	Hä isst die Eier ümmer ohne Salz unn Pfeffer.
+ab	12167	Altendambach	1	Er est die Eär ömmer uhnö Sahlz o Pfeffer
+ab	12184	Altenfeld	1	Ar ißt die Äer im̅er uhne Solz und Pfaffer.
+ab	12341	Rohrbach	1	A eßt de Eier im̅r ahne Salz un Pfaffr.
+ab	12371	St. Jacob bei Leutenberg	1	’r eßt de Äre em̅er ohne Sɑ̄lz un Pfäffer.
+ab	12390	Neundorf (bei Schleiz)	1	äEr [ä uber E] ißt d’Är imm’r ohne Salz un Pfäffer.
+ab	12410	Ebersgrün	1	Eir ißt die Eier immer ohne Salz und Pfēīffer.
+ab	12428	Roitzschau/Rotschau	1	Arrißt de Eier egal ahne Salz un̄ Pfaffr.
+ab	12496	Horsdorf	1	È’ ißt die Eie’ ohna Solz und Pfeffe.
+ab	12529	Ködnitz	1	Er ißt die Eie allamol ohne Solze Pfeffe.
+ab	12556	Kornbach	1	Er ißt die Aier immer ohne Solz und Pfèffer.
+ab	12572	Habnith	1	Er ißt die Eia (Aia) imma ohne Solz und Pfeffa.
+ab	12594	Uchenhofen	1	Ar ißt die Äer im̅er ohna Salz un Pfaffer.
+ab	12616	Reutersbrunn	1	Ar ißt dîe Eier ümmer ohne Salz und Pfeffer.
+ab	12656	Weismain	1	Ä ißt die Eiä ïm̅ä ohna Solz und Pfäffä.
+ab	1278	Insko	1	Hē ĕt de Ijje ümme o͡ahn Sult ŏ̆ Pēpe.
+ab	1287	Konotop	1	He ett de Igge ümme auan Sullt o Peipe.
+ab	12876	Lohma	1	Ar ißt de Eere immer ohne Salz un Pfaffer.
+ab	12898	Heiersdorf	1	Ar ißt de Eier immer ohne Salz und Pfaffer.
+ab	12921	Sachsenburg	1	A ißt d’ Eia’ imma’ ouhna Salz onn Pfaffa’.
+ab	12942	Rothenfurth	1	h’ar ißd de Ei’r immer ohne Salz un Pfaffer.
+ab	1296	Zabin	1	He ätt de igge imme oahn Sullt u(kurz ) Peipe.
+ab	12969	Borlas	1	A is de Eier im̅nr ohne Salz un Pfaffer.
+ab	13005	Dohna	1	Ahr ißt de Eie’r im̅er ohne Salz und Pfaffer.
+ab	13019	Porschdorf	1	Er ißt de Eier immer ohne Salz und Fett.
+ab	13047	Morgenröthe	1	Ä̀r ißt de Eier ühne Salz und Pfä̀ffer.
+ab	13054	Rittersgrün	1	Er ißt de Eier eitel uhne Salz un Pfǟffer.
+ab	1315	Kamien	1	Hei ät dei Igge ümme aue Sul u Pāpe.
+bc	13169	Saupersdorf	1	Ar ißt de Eier immer uhne Salz un Pfaffer.
+bc	13187	Kühnheide	1	’r ißt de Eieer immer uhne Solz un Pfàffr.
+bc	13210	Himmelmühle	1	Ar ißt dǎ Eiǎr immǎr uhnǎ Solz und Pfaffǎr.
+bc	13226	Rübenau	1	Er ißt de Äer im̅er uhne Salz un Pfaffer.
+bc	13269	Thurm	1	Er ißt die Eēre immer uhne Salz un’ Pfäffer.
+bc	13286	Ursprung	1	Ar ißt die Eier immer uhne Salz un Pfaffer.
+bc	133	Sosnowo	1	Hei ett dei Ega ümma oahn Sullt o Päpa
+bc	13317	Dittmannsdorf	1	Ar eßt d Eiar em̅a uhna Salz on Pfaffa.
+bc	13340	Grosshartmannsdorf	1	A isd d’Eia imma o̓hna Salz un Bfăffă.
+bc	13355	Reichenau	1	Ar ißt de Eier immer ohne Salz und Pfaffer.
+bc	13372	Liebenau	1	Ar ißt de Eier immer ouhne Salz und Pfaffer.
+bc	1338	Dzidno	1	Hei ätt dei Ijä immä auhn Sult uh Peppä.
+bc	13529	Wang-Brückenberg	1	A’ ißt die Aeer immer ohne Saalz and Pfaffer.
+bc	13543	Pisarzowice	1	A ißt die Eer immer ohne Sɑlz und Pfɑffer.
+bc	13559	Boguszow-Gorce	1	A ißt die Eër immer ohne Salz und Pfaffer.
+bc	13655	Niederleutersdorf/Leutersdorf	1	A össt de Ehrr öm̅er ohnr Saalz und Pfaffer.
+bc	13678	Rohnau (-)	1	A ißt de Eeer im̅er ohne Sahlz un Pfaffer.
+bc	13700	Rebiszow	1	ha ißt die Eeer immer ohne Sahlz ann Pfaffer.
+bc	13719	Siedlecin	1	A ißt de Eeer im̅er ohn Sālz an Pfaffer.(ungesalza an ungepfaffert.)
+bc	13727	Myslow	1	Ah ißt di’ Eer immer ohne Saalz und Pfaffer.
+bc	13745	Jugowa	1	A ißt di Eer immer ohne Salz und Faffer
+bc	13830	Wlodowice	1	A eßt de Äer emmer ɑhne Sɑalz ɑn Pfaffer.
+bc	13869	Biernacice	1	A ißt die Eer immer uohne Salz und Faffer.
+bc	13887	Rzymiany	1	A ißt die Äer immer ohne Salz und Pfaffer.
+bc	13898	Szadurczyce	1	A ißt de Eeer immer ohne Saalz und Pfaffer.
+bc	13929	Stoszowice	1	A ißt die Eer immer ohne Salz und Faffer.
+bc	13996	Lutomia Gorna	1	A ißt di Eer immer ohne Salz und Pfaffer.
+bc	14023	Roztocznik	1	A ißt die Eer immer ohne Salz und Pfaffer.
+bc	1403	Dobieszewo	1	Hei et dei Ege imma ohna Sult u Päpa.
+bc	14034	Lipowa	1	A ißt di Eer immer ohne Salz und Pfaffer.
+bc	14074	Michalow	1	A ißt die Äier immer ohne Saalz und Faffer.
+bc	14092	Karczow	1	Ar eßt de Eier immer ohne Salz und Faffer.
+bc	14159	Jutrzyna	1	A ißt die Eier immer ohne Salz und Pfaffer.
+bc	1417	Rydzewo	1	Hei ett dei Egĕ ümmĕ ahn Sōlt ŭ Päpĕ.
+bc	14234	Brzoza	1	A ißt die Eer immer ohne Saalz und Pfaffer.
+bc	14250	Jaczkowice	1	A ißt die Eer immer ohne Salz und Faffer.
+bc	14275	Piastowice	1	A ißt die Eier immer ohne Salz u. Pfaffer.
+bc	14305	Bozanow	1	A ıes ißt die Eer immer ohne Salz und Faffer.
+bc	1432	Rzepowo	1	he ett de Ege ümme aun Sold un Peippe.
+bc	14321	Rogow Sobocki	1	A ißt d’Eer immer ohne Salz und Pfaffer.
+bc	14382	Wölfelsdorf (Wilkanów)	1	A eßt die Aier immer ohne Salz on ohne Pfaffer.
+bc	1442	Lubowo	1	Hei ett dei Igge ümme ôhn Sult u Päpe.
+bc	14449	Thröm (Trebom)	1	Ar eßt de Ajer immer uhne Saalz ond Faffer.
+bc	14458	Szczytna	1	A eßt d Aeer emmer ohne Saalz on Pfaffer.
+bc	14471	Jaszkowa Gorna	1	A eßt de Äer emmer ohne Saalz on Pfaffer.
+bc	14486	Nadziejow	1	Er est die Äer immer ohne Salz und Pfaffer.
+bc	145	Smardzko	1	Hei ett dei Egge ümme ohn Sult u Päpe.
+bc	14505	Piorunkowice	1	Ar iszt die Äer immer ohne Saalz und Pfaffer.
+bc	1451	Steinforth (Brodźce)	1	Hei ett t’ Jjjä ümmä oahn Sullt ua Päpä.
+bc	14537	Bielice	1	A eßt de Aier immer ohne Salz on Pfaffer.
+bc	14560	Siemianowice Slaskie	1	A ißt de Eer immer ohne Salz und Pfaffer.
+bc	1461	Wegorzewo Szczecineckie	1	Hei ät dai Egä ummä auen Solt u Päpä.
+bc	14613	Nohfelden	1	Er eßt die Eier immer ohne Salz un Peffer.
+bc	14635	Erzweiler	1	’r eßt d’Eier immer uhne Salz un Peff’r.
+bc	14670	Nussbach	1	Er ißt die Ei͞er immer ohne Salz unn Peffer.
+bc	14693	Dannenfels	1	Er eßt die Aier ìmmer ohne Salz und un Peffer.
+bc	14724	Monsheim	1	Er ißt die Ajer immer ohne Salz und Peffer.
+bc	14752	Sankt Matthias	1	Enn estde Aier emmer ône Sals onn Päffer.
+bc	14955	Bescheid	1	Hä ößt döi Aier emmer oane Salz un Pä(ä)fer.
+bc	14971	Allenbach	1	Er eßt die Aijer emm’r ohne Salz on Peffer.
+bc	1499	Stara Rzeka	1	He ett de Igge imma oana Peapa u Sullt.
+bc	14999	Berschweiler bei Kirn	1	Err ißt die Eie Ajer emmer ohne Salz um Peffer.
+bc	15018	Bad Sobernheim	1	Er ißt die Eier immer ohne Salz un Päffer.
+bc	15042	Neu-Bamberg	1	Er ist die Ajer immer ohne Salz un Peffer.
+bc	15066	Bechtolsheim	1	Er eßt die Aijer immer ohne Salz unn Peffer.
+bc	15088	Bollendorf	1	Hēn eßt d’Aier emmer ohne Salz ann Pǟfer.
+bc	15096	Preist	1	En öst de Aier ohne Salz on Peäfer
+bc	15118	Pohlbach	1	En de durchgestrichen? eßt de Aier immer ohne Salz und Päfer.
+bc	15137	Kautenbach	1	Äa eßt déi Aier emma ohne Sals onn P[e/a?]ffa.
+bc	15334	Kirchberg (Hunsrück)	1	Er ißt die Eier immer ohne Salz un Peffer.
+bc	15349	Ellern (Hunsrück)	1	’r iß[d/t?] die Eijer immer (all) ohne Peffer unn Schmalz.
+bc	1536	Heidlauken (Bugorki)	1	He et de Eier emmer one Solt und Päper.
+bc	15365	Bingen am Rhein	1	Er ißt die Ei͞er immer ohne Salz unn Peffer.
+bc	15394	Finthen	1	Er ißt die Eier immer ohne Salz un Peffer.
+bc	1540	Heinrichswalde	1	He ett de Eier emmer ohne Solt un Päper.
+bc	15418	Schneeberg (Sněžník)	1	Da(r) ißt die Eja imma ohne Salz und Pfaffa.
+bc	15503	Zettel (Sedlo)	1	A’r ißt die Eier imm’a(e)r uhne Salz un’ Pfaffer
+bc	1552	Pazuizen	1	He ett de Eier emmer ohne Solt un Päper.
+bc	15538	Wisterschan (Bystřany)	1	Dar ißt die Eir immer uhne Salz und Pfaffer.
+bc	15550	Malschen (Malečov)	1	Ar ißt de Eiar immar ohna Salz un’ Pfaffar.
+bc	15638	Lukawetz (Lukavec)	1	Ar ißt de Ejer immer uhne Salz und faffr.
+bc	1565	Gierver Lauken	1	He ätt de Eier emmer ohne Sollt un Päper.
+bc	15681	Neudorf (Vrchběla)	1	Ahr ißt de Ejr immr ohne Salz und Pfaffr.
+bc	15685	Gastorf (Hoštka)	1	har ißt de Eïer immer ohne Salz und faffer.
+bc	15690	Wegstädtl (Štětí)	1	Ar ißt die (d') Eïer immer ohne Salz und Pfaffer.
+bc	1571	Schmalleningken	1	He ett de Eier one Solt un Päper.
+bc	15725	Nixdorf (Mikulášovice)	1	ha eßt do Ejor immr ohno Sahlz und Pfaffr.
+bc	1573	Groß Dirschkeim (Donskoye)	1	He et de Eia emma ohne Peppa on Solt.
+bc	15751	Rückersdorf (Dolní Řasnice)	1	A öst dĕ ejer ömmer ohnĕ sālz un pfafr.
+bc	1578	Rantau (Zaostrov'Ye)	1	Hé ét dè Eiă èmma ohne Sòld òn Pä́pa.
+bc	158	Polczyn-Zdroj	1	Hei ett dei Eeje ümme ɑhn Sullt ŭ Päpe.
+bc	1580	Schulstein (Vol'Noe)	1	He ett de Eia emma onne Solt on Pepa
+bc	15807	Kamnitz-Neudörfl (Kamenická Nová Ví	1	A ißt die Ea imma oune Salze und Pfaffa.
+bc	15824	Zwickau (Cvikov)	1	Ar (eͥ)ßt Eïer (Eï : diphtong.) (eͥ)mmr ohne Salz(a : lang!) und Pfaffr.
+bc	15847	Christophsgrund (Kryštofova Údolí)	1	A eßt do Ejer ömmer oahne Salz und Pfaffr.
+bc	15858	Gränzendorf (Hraničá)	1	A ößt die Ejer ömmr ohne Salz und Pfaffer.
+bc	1588	Alt Susimilken (Tarassowka)	1	He ett de Eier ömmer ohne Pöper on Solt.
+bc	15971	Puletschnei (Pulečný)	1	A ößt dö Ejr immr ohne Salz und Pfaffr.
+bc	15975	Graber (Kravaře)	1	Ar ißt de Êr immer ôna Salz und Pfaffr.
+bc	15989	Thammühl (Staré Splavy)	1	Ar ißt de Eia immer ohna Salza und Pfaffr.
+cd	15995	Proschwitz (Česká Proseč)	1	Ar est do Ejjer eımmr one Salz und Pfaffer.
+cd	16007	Harrachsdorf (Harrachov)	1	A eßt de Ejer immer uhne Sahlz on Pfaffr.
+cd	16015	Witkowitz (Vítkovice)	1	ha eßt də Ejə immə uhna Salz un Pfaffə.
+cd	16050	Forst (Fort)	1	ha eßt de Āja imma ounda Solz an Pfaffa.
+cd	16063	Gabersdorf (Libeč)	1	A ėßt. die Eer immer ohne Salz und on Pfaffer
+cd	16083	Bodisch (Bohdašin)	1	A ißt die Ejo immo ohne Salz on Pfaffo.
+cd	16139	Zwitschin (Zvičina)	1	A eßt de Eer immer unne Solz an Pfaffer.
+cd	16154	Großbock (Velká Bukovina)	1	A(r) eßt immrͦ unne Solz on Pfaffor r über o 
+cd	16179	Schmiedeberg (Kovářská)	1	Ar ißt da Aier immer uhna Sålz un Pfaffr.
+cd	1626	Tulpeningken (Zarečnoe)	1	He ett dä Eier ömmer ohne Solt unn Päper.
+cd	16276	Waitzengrün (Loučná)	1	Er ißt d’ Åier imma ån Sålz u Pfeffa.
+cd	1628	Wisborienen (Livny)	1	He et de Eier emmer ohne Solt on Peper.
+cd	16298	Sittmesgrün (Mezirolí)	1	Ea ißt d’Eua imma ohne Sålz u Pfeffa.
+cd	16322	Petersdorf (Petrov)	1	Er taut Oeȷa immer ohna Seuöz und Pfeffer essen.
+cd	16338	Podletitz (Podlesice)	1	Er ißt die Eia imma ohna Solz und Pfeffa.
+cd	16442	Kropitz (Krapice)	1	Ea ißt d’Oia ållåmal one Solz u Pfeffa.
+cd	16470	Ebersfeld (Podlesi)	1	Er ißt Äuer immer ohne Solz und Pfeffa.
+cd	16491	Rabensgrün (Haje)	1	Er ißt d’Euå imma ohne Soalz u Pfeffa.
+cd	16523	Lintsch (Hlineč)	1	Er ißt d’Åja imma ohna Sålz o Pfeffa
+cd	1654	Postnicken (Zalivnoe)	1	He ett de Eia emma ohne Sollt on Päpa.
+cd	16602	Klotantschen (Kotaneč)	1	Er ißt dij Eija immâ ohnâ Sâjz und Pfeffer (Gfeffer)
+cd	16610	Tschernowitz (Černovice)	1	Er ißt die Eier ohne Solz und Pfeffer.
+cd	16625	Hawran (Havraň)	1	Er ißt de Eier immer ohne Solz un ohne Pfeffer.
+cd	16636	Liebshausen (Libčeves)	1	Er Ar ißt de Eier uhne Salz und Pfaffer.
+cd	1664	Labagienen/Haffwinkel (Zalivino)	1	He ett de Eia emma ohne Solt on Päpa.
+cd	16670	Priesen (Březno)	1	Er ißt de A͞ier immr ōna Sǒlz un Pfěffr.
+cd	16689	Libeschitz (Liběšice)	1	Er ißt de Eiar imm[?]r ohne Soǎlz ǎ über o und Pfeffar.
+cd	16725	Leschkau (Ležky)	1	Ea isd d ͡  Aja imma uhna So̊lz und Pfeffa.
+cd	16739	Pschoblik (Pšovlky)	1	Er ist die Ḗie(r) imme(r) ohne(r) Solz und Pfeffe(r)
+cd	16751	Prag-Smichow (Smíchov)	1	Er ißt die Eier immer ganz ohne Salz u. Pfeffr.
+cd	16755	Weißbach (Bílý Potok)	1	A eßt die Äjer immer uhne Salz ond (Pfaffer) (faffer.)
+cd	16770	Schediwy (Šediviny)	1	har eßt di Eïr emr une Saalz on Pfaffr.
+cd	16775	Friedrichswald (Orlické Záhoří)	1	A eßt die Äer immer uhne Sālz o͡an Pfaffr.
+cd	16801	Böhmischdorf	1	A eßt de Eer (Äer) immr uhne Salz ond Pfaffr.
+cd	16814	Rokitnitz (Rokytnice)	1	A eßt die Aier immer une Sahlz on Pfaffer.
+cd	1683	Kreuzingen (Bol'Shakovo)	1	He ett de Eier [ie?]mmer ohne Solt on Paeper.
+cd	16876	Nieder-Ullersdorf (Dolní Boříkovice	1	Ar (Har) tut die Ejr immer ohne Saalz u. Pfaffr assa.
+cd	16889	Heinzendorf (Hynčice Nad Moravou)	1	Ar eßt da Eier immer uhna Salz on Pfaffer.
+cd	16907	Karlsdorf	1	ⱱ ẹst də aë̄ⱱ imⱱ (inda) ûəna ʃȯë̄ts un(t) pfafⱱ.
+cd	16932	Kuhberg	1	Ar eßt die Äer immer uhne Salz und Pfaffer.
+cd	16949	Rausen (Rusín)	1	Ar eßt de Äer immer uhne Salz ond Faffer.
+cd	1698	Buttkuhnen (Pokrovskoe)	1	He ett de Eier one Solt un Päper.
+cd	16991	Breitenau (Bretnová Široká Niva)	1	Har eßt de Äer uehne Salz und Pfaffer.
+cd	17012	Lobenstein (Úvalno)	1	Ar eßt de Ajer immr ohne Salz und Pfaffr. (Faffr
+cd	17029	Lohhäuser (Slatina)	1	Ea ißt d Oia ollamol ohne Solz u Pfeffa.
+cd	17061	Deutsch Thomaschlag (Německé Domasl	1	Ea ißt d Öia imma ohna Solz u Pfeffa.
+cd	17075	Polinken (Polínka)	1	Er iß Eua imma ohne Solz und Pfeffa.
+cd	1708	Baltruschatschen (Jakovlevo)	1	Hee ett de Eier ömmer ohne Solt un Päper.
+cd	17138	Albersdorf (Písařova Vesce)	1	Er ißt Eua’(r) imma ong Solz u. Pfeffa. d
+cd	17151	Damnau	1	Dea ißt d’ Åia imma ohne Soolz u Pfeffa.
+cd	17174	Piwana (Piňovany)	1	Ea ißt d’ Oia ållawal ohna Solz und Pfeffa.
+cd	17178	Kottiken (Chotíkov)	1	Ea(r) ißt Oia imma ona Sålz und Pfeffa.
+cd	17244	Dianaberg (Diana)	1	Eə ißt d’ Oiə àləwāl one Pfeffə und Solz.
+cd	17266	Wiedlitz (Vidice)	1	Dea ißt döi Oia umma ohne Solz und Pfeffa.
+cd	17273	Honositz (Honezovice)	1	Er ißt d’Ojaͦ ummaͦ onaͦ Solz und Pfeffaͦ.
+cd	17281	Dobrzan (Dobřany)	1	Ea ißt d’ Oja imma ohna Solz und Pfeffa.
+cd	17306	Blisowa (Blížejov)	1	Ea ißt d Eua ollamol ohne Solz und Pfeffa.
+cd	17309	Hilbeten	1	Ar ißt d Àja immer una Solz un Pfaffr.
+cd	17325	Schönwald (Strážná)	1	Ar eßt de Ejer immer ohne Salz on Pfaffer.
+cd	1733	Rottenen (Raktino)	1	Hei ett de Eier ömmer ohne Sollt onn ohne Päper.
+cd	17374	Ober-Ullischen (Horní Olešná)	1	Ar eßt d’ Eier immer uona Solz un Pfaffer.
+cd	17389	Bergstadt (Horní Město)	1	Ar eßt di Ajer immer oune Sojz und Pfaffer.
+cd	1741	Pojerstieten (Kolodcy)	1	He et de Eia emma ohne Sold on Päpa.
+cd	17433	Ranigsdorf (Linhartice)	1	Er ißt de Oja auna Solz un Pfeffa.
+cd	17442	Müglitz (Mohelnice)	1	Er ißt die Ājěr immer uhne Solz un uhne fěffěr.
+cd	17460	Ribnik (Rybniček)	1	Ar eßt die Eier immer ouhne Solz und Pfaffer.
+cd	17468	Stangendorf (Vendolí)	1	Ar ist de Ôier inna ohna Solz un Pfaffer.
+cd	1747	Beydritten (Pervomajskij)	1	He ett de Eia emma ohne Solt on Pepa.
+cd	17504	Neu-Biela (Lavičné)	1	Ar ißt d Ojer inna ohna Solz und Pfaffer.
+cd	17512	Schlettau (Slatina)	1	Er ißt d Oier inna aune Solz un Pfeffr.
+cd	17520	Runarz	1	Er es̮t də Ājə inda ūna so̬lts̮ ūn Fafə.
+cd	17521	Nebotein (Hnĕvotín)	1	E(a) isst die Oj(er) jemm(er) u(a)n(a) Solz und Pfeff(er)
+cd	17568	Tillendorf (Tylov)	1	Er eßt die Eier immer uohna Söez und Pfaffer.
+cd	1758	Brasdorf (Antonovka)	1	Hĕ ett dĕ Eiă ömmă onn Sollt onn Päpă.
+cd	17585	Mladetzko (Mladecko)	1	Ar eßt de Eir immer o͜uhna Saalz und Faffr.
+cd	17643	Seibersdorf (Bělá)	1	Har eßt där Ajer imma ohna Solz un Pfaffa.
+cd	17659	Bernhau (Barnov)	1	Ar eßt de Aeer ohna Salz un Pfaffer. Eier = Ae = er
+cd	17680	Klantendorf	1	Har ejßt d Air inde oune Salz aon Pfaffr.
+cd	17687	Engelswald (Mošnov)	1	Har eßt dê Aer inde uhnê Salz ôn Fafr.
+cd	17698	Nirklowitz (Mrsklesy)	1	Har eßt de Eier ona Soulz und Pfeffer.
+cd	17713	Punkendorf (Boňkov)	1	A eßt de Eije imme uhne Salz un Pfaffee
+cd	1772	Groß Goldbach (Slavinsk)	1	He ätt de Eia ömma ohne Solt on Päpa.
+cd	17726	Halbendorf (Polouvsí)	1	Ar eßt de Aeier ohne Salz oan Pfaffer.
+cd	17737	Senftleben (Ženklava)	1	Da eßt de Eer inde un Salz on Faffer.
+cd	-17739	Polanka Wielka	1	Er eßt die Eier immer une Salz und Pfeffer.
+cd	-17744	Bulowice	1	Er eßt die Eier immer ohne Salz und Pfeffer.
+cd	-17746	Chocznia	1	Der ißt d' Oier ohne Solz und ohne Pfeffer.
+cd	-17749	Alt-Bielitz (Stare Bielesko)	1	Har eßt die Eier inda ohne Salz an Faffer.
+cd	17759	Linz (Mlýnec)	1	Ea ißt d’Eua o̊llawal ohne Solz und Pfeffa.
+cd	17782	Kohlheim (Uhliště)	1	Er ißt d’Oia owal ohne Solz und Pfeffa.
+cd	17792	Čachrau (Čachrov)	1	Ea ißt d Oia imma ohne Solz und Pfäffa.
+cd	17801	Hurkental (Hůrka)	1	Er ißt d Oia ollwal ohne Solz und Pfeffa.
+cd	17824	Rotsaifen (Červená)	1	Er tuat d’Oia ullawal ōhne Solz und Pfeffa essn.
+cd	17832	Winterberg (Vimberk)	1	Ea ißt d’ Oiå ulåwei ohne Sulz und Pfeffå.
+cd	17843	Sehrlenz (Ždírec)	1	e(a) ist d’oj(a) ouidin Bogen unter „oui“ oun(a) zolc u kfejf(a).
+cd	17854	Irsching (Jiřín)	1	Er ißt Euȧ eïdi ohn[ȧ?] Solz un Gfeffer. 
+cd	17862	Hilbersdorf (Jihlava-Heroltice)	1	Eə ißt t’eiə imə ōnĕ s[?]lz mir unbekanntes Lautschriftsymbol (kein IPA) und g’fefə.
+cd	17876	Sollowitz (Salavice)	1	Er ißt d’Euja ohne Solz und Pfeffr.
+cd	17878	Stannern (Stonařov)	1	Er ißt d’Ar ehdinn ohne Söz und Gfeffer.
+cd	17881	Riegerschlag (Lodhéřov)	1	Er ißt d’Oar ulimol (schdads) ouni Solz un Pfẹịffr.
+de	17882	Wenkerschlag (Dolní Radouň)	1	Er ißt d’Oar ulimol oune Solz un Pfeïfr.
+de	17884	Buchen (Buk)	1	Er ißt d Oar ulliwal ouni Pfeiffr un Solz.
+de	17895	Hosterschlag (Člunek)	1	Er est die Eir mmnr ohne Salz u Pfeffer.
+de	17898	Lipolz (Lipolec)	1	Er ißt d’Oar ollwail ohne Solz und Pfeffer.
+de	17940	Czernowitz (Černovice)	1	Er ißt da Oa imma ouna Solz und Pfejfa.
+de	17942	Gundrum (Komořany)	1	Er ißt dea Oier emmer annea Solz und Fejfr.
+de	17956	Prahlitz (Pravlov)	1	Er ißt d A immer oune Solz und Pfeffa
+de	17961	Woikowitz (Vojkovice)	1	Ea ißt die Aar imma ohne Solz u. Pfoffa.
+de	17967	Sub-Lechnitz (Lechnica)	1	Er est ti Aj'r imm'r ohna Salz unt Pheff'r.
+de	17968	Topportz (Toporec)	1	Dr ißt die Ājer (immer) fort ohne Solz unt Faffer.
+de	17972	Hobgard (Chmeľnica)	1	Her ëszt die Ajer in ohne Souz und Tfaffer.
+de	17981	Neu Walddorf (Nová Lesná)	1	Der ëst die Aier fort oone zolts ond Pfaffer.
+de	17993	Durelsdorf (Tvarožná)	1	Dr eszt die Eier ohne Salz und Pfeffer.
+de	17999	Leutschau (Levoča)	1	Er ëßt die Eier immer ohne Salz und Tfeffer.
+de	180	Galowo	1	Hei ett dei Ege ümme oahn Sold u Päpe.
+de	18000	Zipser Neudorf (Spišská Nová Ves)	1	Er est die Eier immer ohne Salz und Feffer.
+de	18001	Wagendrüssel (Nálepkovo)	1	Hëa ëst de Eia imma ohne Salz ound Fëfa.
+de	18003	Göllnitz (Gelnica)	1	Hea (oder: da) eszt de Eia imma ohne Salz und Feffa.
+de	18004	Dobschau (Dobšiná)	1	Ear eßt die Acher fatten ohna Solz u. Pfeffer.
+de	-18008	Schmöllnitz (Smolník)	1	Hea ést de Àja ema ohne Fefa und Salz.
+de	18010	Metzenseifen (Medzev)	1	Da éstje de Aija fort ohne Saltz on Föfa.
+de	18013	Buchwald (Bučina)	1	Ea ißt d’ Oia uwei ohni Suiz und Pfeffɑ.
+de	18018	Schattawa (Záton)	1	Er ißt d’Oia uwei ohna Sujz und Pfeffa.
+de	18028	Zaborsch (Záhorí)	1	Ea ißt d Oir ullwei ouni Soiz und Pfeïfa. 
+de	18058	Hirschbergen (Hiršperky/Jeleni)	1	Er ißt Oar uwal ohni Solz und Pfejffa.
+de	18064	Honetschlag (Hodňov)	1	Er ißt Oi ulliwail a sou.
+de	18091	Kollerschlag	1	Er ißt d’oar oiwal a̍ni soiz und pfeffa.
+de	18095	Sankt Thoma (Svatý Tomáš)	1	Er ißt Or owal ohne Solz und Pfeffer.
+de	18101	Hohenfurth (Vyšší Brod)	1	Er ißt d’ Oar ullwei ohne Solz und Pfeï̇fa.
+de	18132	Hummeln (Homole)	1	Eâr ißt d E Oar ullimol oun Solz u.| Pfeifr.
+de	18135	Rudolfstadt (Rudolfov)	1	Er ißt die Oar ullwal ohne Solz und Pfeff’r.
+de	18144	Gross-Radischen	1	Er ißt d Oa allmal ohni Salz und Pfeffa.
+de	18188	Priethal (Prídolí)	1	Ear ißt d’Oar imma auni Solz und Pfejfa.
+de	18192	Gollnetschlag (Klení)	1	Er ißt d’ O(a) ulliwäh auhni Solz und Pfejf(a).
+de	18210	Weissenbach (Vysné)	1	Der solzt und pfeffert erm d’Oar niar.
+de	18218	Langschwarza	1	Er ißt de Oa oivei aune Soiz und Pfeffa.
+de	1829	Rudszen (Poltavskoe)	1	He et de Eier emmer onne Solt un Päper
+de	18290	Unterwald	1	Er ißt d’ Oa olliweil ohne Salz u. Pfeffa.
+de	18296	Bad Grosspertholz	1	Er isst d‘ Eier ollwei ohne Salz und Pfeffer.
+de	18310	Oberstrahlbach	1	Er ißt d’Oar imma ohne Solz und Pfeffa.
+de	18359	Waldkirchen	1	Er ißt d’Oa allweil ohne Salz und Pfeffa.
+de	18364	Hafnerluden (Lubnice)	1	Es ißt die Oa olweil ohne Solz und Pfeffa
+de	18367	Schiltern (Štítary)	1	Er ißt d’ Oa olleweil ohne Solz und Pfeffe
+de	18407	Töstitz (Těšetice)	1	Er ißt de̊ A ollawal ohne Solz und Pfeffa.
+de	1842	Warupönen (Fëdorovka)	1	He ett de Eier emmer ohne Solt un Peper.
+de	18432	Dietmanns	1	Er issd de Oa oiwei ohne Soiz und Peffa.
+de	18441	Schirmannsreith	1	Er ißt d’Oa åiwei ohne Soiz und Pfeffa.
+de	18454	Hofern	1	Er ißt |: frißt:| d’Oa ollaweil ohne Salz und Pfeffa.
+de	185	Jelnia	1	Hei ät dei Jggi immi aun Sult u Päpa.
+de	18508	Gerstenfeld (Ječmeniště)	1	Ea ißt dö Oa ollawal ohne an Solz und an Pfefa.
+de	18525	Franzen	1	Ėa ißt d’ O̮a a̮iwe͂i oni Sa̮iz und Pfėffa.
+de	18534	Rosenburg	1	Es ißt die Eier allmal ohne Salz u. Pfeffer.
+de	18554	Oberdürnbach	1	Er ist (die)de Oa allaweil ohne Solz und Pfeffa.
+de	18559	Aspersdorf	1	Er ißt d’ Oa oiwi ohni Soiz und Pfeffa.
+de	18607	Damnitz (Damnice)	1	Er ißt de A ollawal ohne Solz und Pfeffa.
+de	18627	Tracht (Strachotín)	1	Er ißt ti Aa olwr ohne Solz und Pfe(i)fr.
+de	18637	Saitz (Zajecí)	1	Er ißt die Ar ohni Solz und Pfeffa.
+de	18642	Höflein an der Thaya (Hevlín)	1	Er ißt dä Oa ollawal ohne Solz und Pfeffa.
+de	18672	Stützenhofen	1	Er ist d Oa ollawal oni Solz und Pfeffa.
+de	18686	Bernhardsthal	1	Er ißt die Oa ollewal ohne Solz u. Pfeffa.
+de	18701	Pyhra	1	Er ißt d’Oa alleweil ohni Solz u. Pfeffa.
+de	18707	Wilfersdorf	1	Er ißt dö Oɑ oiweu ohne Soiz u. Pfeffɑ
+de	18716	Palterndorf	1	Er ißt d’Oa ollawei  ohni Solz und Pfeffa.
+de	18753	Münchwies (Vrícko)	1	Ha ißt da Eir inda oh Salz u ohn Gasti['?]p (Betonung auf dr 2. Silbe)
+de	18759	Bettelsdorf (Solka)	1	Hėja ėst d' Air inda ohna Sojz ont G'schtep.
+de	18763	Oberstuben (Horná Stubna)	1	heⱱ est di ājⱱ indⱱ ōnⱱ saltz ont găbiⱱts.
+de	18767	Krickerhäu (Handlová)	1	Her eßt de Aja inda ohna Salz ond Gestöp (Feffer).
+de	18773	Deutsch-Litta (Kopernica)	1	Her ißt di Aja ajnt' o äjuna Solz ond G'abajotz (Gewürz) Feffer.
+de	18774	Hochwiesen (Vel'Ké Pole)	1	Hä eßt dj Eier furt uh Salz und Pfeffer.
+de	18786	Sankt Georgen bei Obernberg am Inn	1	Er ißt d' Oa alliweil ohne Salz und Pföffa.
+de	18800	Hochburg	1	Er ist d’Aor oiwei ohne Soiz und Pfeffa.
+de	18805	Pischelsdorf am Engelbach	1	En ißt d Aǹ ȯiwei onö Soöz u. Pfaffn. .
+de	18846	Niederkappel	1	Er ißt dö Oar ollweil ahni Salz und Pföffa.
+de	18855	Niederwaldkirchen	1	Er ißt d’Oar alleweil ane Salz und Pfeffa.
+de	18902	Dorf an der Pram	1	Er ißt d Oar oiwei one Salz und Pfeffa.
+de	18910	Michaelnbach	1	E ißt d’ Oar oiwei åhne Sålz u. Pfeffa.
+de	18923	Alkoven	1	Eá ißt d’ Oá oiwei ohne Såiz und Pfeffá.
+de	1895	Königlich Damerau	1	He ãt de Eia emma on Solt on Päpa
+de	18984	Arnberg	1	Er ißt d’Oa oiwei ânö Soiz und Pfeffa.
+de	18987	Rackering	1	E ißt d’ Oar oiwei(l) auni Saͦiz und Pfeöffa ö über e.
+de	19003	Pennewang	1	E ißt d’Oar ollweil a[u?]hne Salz und Pfeffa.
+de	19011	Sipbachzell	1	Er ißt d’Oa oliweil oni Salz und Pfeffa.
+de	1904	Pesseln	1	Hö ett dè Eier ömmer ohnè Solt onn Päper.
+de	19070	Reichenau im Mühlkreis	1	Ea isst d Oa oiwei auni Saiz und Bföffa.
+de	19080	Gutau	1	Er ißt d' Oa allweil ohne Salz und Pfeffa.
+de	19085	Hackstock	1	Ea ißt di Oa oiwei auhne Soiz und Pfeffa.
+de	19096	Traunstein	1	Er ißt d’Oa imma auni Soiz und Pfeffa.
+de	19138	Maria Laah	1	Er frißt olleweil d Oa ohne Sǎlz und Pfêffa.
+de	19144	Haag	1	Er ißt d’Oar oi̊llwei oahne Sålz u . Pfōffa.
+de	19154	Amstetten	1	Er frißt d’Oa allewei ohne Solz und Pfeffa.
+de	19163	Wieselburg	1	Er ist dö Eia ohni Soiz und Pfefa.
+de	1919	Groß Gerlauken (Vjazovka)	1	He ätt de Eier ömmer ohne Sollt onn Päper.
+de	19225	Steyregg	1	Er ißt d Oa olweil ane Salz und Pfeffa.
+de	19233	Schwertberg	1	e͂ā ißt d͡’o͠ā o͠iwei ō̹͂no͗ si͂əiz und pfeffa.
+de	1924	Pakallnischken (Suvorovo)	1	He ätt de Eier em̄er ohne Solt un Päper.
+de	19245	Bad Kreuzen	1	ėr iaßt Oa, ohne Salz u. Pfeffa alloi
+de	19257	Altenmarkt	1	Er ißt d’Oa oimol auni Solz und Peffa.
+de	19301	Els	1	Er ißt d’Oa an iadsmal ohni Sålz und ohni Pfeffa.
+de	19311	Gneixendorf	1	Er ißt Oa ollaweu ohni Solz und Pfeffa.
+de	19322	Fels am Wagram	1	Er ißt d’Oa ollawei ohne Soiz und Pfeffa.
+ef	19334	Oberhautzental	1	Er ißt dOar ollaweu oni Soalz und Pfeffa.
+ef	19401	Schönbühel an der Donau	1	Er ißt d’Oa ållwei (=oemi) ohne Sålz und Pfeffa.
+ef	19404	Karlstetten	1	Ea ißt d’Oa a iadsmål ohni Sålz und Pfeffa.
+ef	19419	Würmla	1	Ea ißt d’Oa ollawäi ohni Soiz und Pfeffa.
+ef	19429	Ried am Riederberg	1	Er ißt die Oa imma ohne Sālz ȗnd Pfeffer.
+ef	19479	Mank	1	Er ißt d’Oar ållweij oni Soiz und Pfeffa.
+ef	19486	Wilhelmsburg	1	Er ißt d’ Oa ållwei ohne Sålz und Pfeffa.
+ef	19492	Stollberg-Siedlung	1	Er ißt d’Eier Oa allweil ohne Salz und Pfeffer.
+ef	1953	Pillau	1	Hee ett dee Eia ömma ohne Sollt onn Päpa.
+ef	19541	Grub	1	Ea ißt d’Oa oiweuj auni Sojz und Pfeffa.
+ef	1956	Patersort (Beregovoe)	1	Hei ett dei Eier êmmer ohne Solt onn Päper.
+ef	19564	Obergänserndorf	1	Er ißt d’Oa ollawen̄ ohni Solz und Pfeffa.
+ef	19607	Raggendorf	1	Er ißt d Oa ollweu(l) ohne Solz und Pfēfa.
+ef	1962	Bergau (Tzwetkowo)	1	A ett de Eia ömma ohne Solt on Päpa.
+ef	19621	Stillfried an der March	1	Ear ißt d’Eiər oilwail ohne Soilz und Pfėffər.
+ef	19640	Grünau (Grinava)	1	E(a) ißt ti Ār olwal õne Solz unt Pfef(e)
+ef	19642	20. Bezirk-Brigittenau	1	Er ißt die Eier immer ohne Sålz und Pfeffa.
+ef	19646	Raasdorf	1	Er ißt d’Eier ållwei ohne Sålz und Pfeffa.
+ef	19657	Breitensee	1	Er ißt d’Eier alleweil ohne Salz u. Pfeffa.
+ef	19659	Theben (Devín)	1	Er isst d'Eier imma ohne Salz.
+ef	19667	Biedermannsdorf	1	Ea ißt de Eia ållawäu ohne Såiz und Pfeffa.
+ef	19674	Enzersdorf an der Fischa	1	Ea ißt dȏ Eia ollaweil ohne Soiz und Pfeffa.
+ef	19696	Kittsee	1	Ea ist die Eia imma ohni Sojz und Pfeffa.
+ef	19705	Mischdorf bei Pressburg (Nové Košar	1	Ea isst ti Aar ojwü õhni Sojz.
+ef	19726	Rohrau	1	Er isst d’Oar olweil ohnö Solz und Pfeffa
+ef	19739	Thiersee	1	Ea ißt’d’Oar oiwei uni Soiz und Pfeffa.
+ef	19748	Achenwald	1	Ea ißt d’ Oar ållwei ohne Sålz un Pfeffa.
+ef	1977	Fuchsberg (Semënovo)	1	He ätt dö Eia ömma onn Solt on Päpa.
+ef	19775	Obertrum am See	1	Er ißt d’Oa oüwei anö Saüz und Pfeffá.
+ef	19787	Hochfeld	1	Ea ißt d’ Oa oiwei ohnö Såiz und Pfeffa.
+ef	19823	Vorderfager	1	Ea ißt d’Oa oiwei onö Såiz und Pfeffa.
+ef	19851	Schwendt	1	Ear ißt die Oar oiwai uhni Såitz und Pfeffa.
+ef	19854	Waidring	1	Ea ißt d’Oar owei uni Soiz und Pfeffa.
+ef	19859	Kuchl	1	Ea ißt d’Eiā ållwei uni Sɑ̊lz u. Pfeffā.
+ef	1987	Pregelswalde (-)	1	He ett de Eia one Sollt one Pepa
+ef	19886	Schörfling	1	Er ißt d’ Oar allwei(l) ohne Salz(oe) „(oe)“ über „alz“ u. Pföffa. (helles ö)
+ef	19896	Gschwandt	1	Er ißt d’ Oar ollweil olmi Solz und Pfeï̈fa.
+ef	19901	Schlierbach	1	Ea ißt d Oa oöwaö a͠onö Saöz und Pföffa.
+ef	19941	Sankt Gilgen	1	Er ißt d’Oa oiwei onö So̊iz und Pféffa. 
+ef	19945	Ebensee	1	E sãlzt und pfeffǎt sö d’Oa nöt!
+ef	19947	Steyrling	1	Er ißt d’ Oa allweil ohne Salz und Pfeffa. 
+ef	19956	Bad Ischl	1	Er ißt (frißt) dOar ohnö alln, nimmt koan Salz u koan Pfeffa.
+ef	19965	Windischgarsten	1	E ißt d’Oar ålmål ã̊nö Sålz und ã̊nö Pföffa shtupp.
+ef	19971	Bad Goisern	1	Ẽ ißt d’Oa oẽwȃuj ãni Såẽz und Pfáffa.
+ef	19977	Grundlsee	1	E ißt d’Oar åweil ohni Sålz und Pfeffa. 
+ef	19993	Wörschachwald	1	Ea ißt d’Oa ōiwei ohnö So(i)z und Pfeffa.
+ef	20005	Trattenbach	1	Er ißt d’Oa oiwai ohnɑ Soiz und Pfeffa.
+ef	20008	Sulzbach	1	Er frießt d’Oa âne Salz u͂nd Pfeffa.
+ef	20019	Ybbsitz	1	Er ißt d’Oa olwei ohne Solz und Pfeffa.
+ef	20023	Gaming	1	Ea ißt d’Oa olliweu oni Soiz und Pfeffa.
+ef	20046	Kleinreifling	1	Er ißt di Oar allweil imma „allweil“ über „imma“ ohne Solz und Pfeffa.
+ef	20049	Mariazell	1	Er ißt’d’ Eia oiwal ohni Soiz und Pfeffa
+ef	20051	Neuhaus	1	Ea ißt d’Oa ollweil ohne Solz und Pfeffa.
+ef	20058	Lassing	1	Er ißt d’Oar allwei ohne Salz und Pfeffa.
+ef	20062	Ardning	1	Er ist d’ Oa oiwai ohni Soiz und Pfeffa.
+ef	20065	Weng	1	Er ißt d’ Oa oiwei aohne Soiz und Pfeïffa.
+ef	20067	Lainbach	1	Er ißt die Eia ållwei ohne Soiz und Pfeffa.
+ef	20069	Gollrad	1	Er ißt d Oa olliweil ohni So(i)z und Pfeffa.
+ef	20077	Oberort	1	Er isst d’Oa alliweil ohne Solz u. Pfeffa.
+ef	20090	Wext	1	He et de Eier ümmer ohne Solt un Piäper.
+ef	20099	Leer	1	He ätt de Eier ɑlltied oɑhne Soɑlt un Piärper.
+ef	20110	Herbern	1	He ät de Eier immer ohne Saolt un Piäpper.
+ef	20117	Ringel	1	He ätt de Ägger immer aune Sollt un Piärper.
+ef	20128	Hilter am Teutoburger Wald	1	he ätt de Egger ümmer aune Sält un Pièper.
+ef	20240	Bardel	1	He et de eier altid zonder zolt en pöpper
+ef	20248	Haddorf	1	Hei ät de Eier immer one So͡alt un Piäper.
+ef	20259	Hörstel	1	He ät de Eier altiet oane Soalt un Päper.
+ef	20269	Westerkappeln	1	Heï ätt de Egger alltied aune Salt und Piäper.
+ef	20283	Astrup	1	he et de Eer ümmer ane Sält un Pierper.
+ef	20346	Frensdorf	1	He et de Eier altied sonner Salt u. Pöpper.
+ef	20350	Elbergen	1	He ett de Eier alltied sunner Sa3lt 3 über a un Pepper.
+ef	20361	Setlage	1	He et de Eier altiet sunner Solt un Pöpper.
+ef	20370	Merzen	1	He et de Eier altiet ohne Sold un Pepper.
+ef	20381	Vörden	1	He ätt de Ejer (Egger) allmaul ohne So͡alt un Pjeper
+ef	20384	Wielen	1	He et de Eier altied sunner Sold en Pòpper.
+ef	20446	Hoogstede	1	He et de eijer altied sunner soult un pöpper.
+ef	20454	Geeste	1	He͜ï̇ Bogen unter „eï̇“ ett de͜ï̇ Bogen unter „eï̇“ Eier immer ohne Solt un Päper.
+ef	20463	Dohren	1	Heh ätt de Eier ümmer sünner Sold un Päper.
+ef	20468	Renslage	1	Hei ett de Eier alltiet ohne Sold un Peper.
+ef	20481	Dinklage	1	hei ett dai dei Eier ümmer ahne Solt un Peper.
+ef	20543	Haren (Ems)	1	Heï̇ et de Eier alltied sünner Solt un Päper.
+ef	20555	Hüven	1	He et de Eier alltiet sünner Sald un Päper.
+ef	20562	Garen	1	Hëi ett dëi Eier alltìet sünner Solt un Päper.
+ef	20575	Sevelten	1	He ett de Eier immer ahne Solt und Päper.
+ef	20589	Neudersum	1	Häi ät däi Eier altid aone Sold un Päper
+ef	20596	Neubörger	1	He et de Eier altiet sünner Salt un Peper.
+ef	20599	Neuarenberg	1	Häi ett däi Aier alltied sünner Sa3llt 3 über a unn Päper.
+ef	20604	Garrel	1	Heÿ ett deÿ Eier altied ahne |: sünner:| Solt un Päper.
+ef	20638	Visbek	1	He ett de Eier alltiet ahne Sold un Pähper.
+ef	2067	Enskemen (-)	1	Hē ä̆tt dĕ Eier emmer ohnĕ Solt ŏn Päper.
+ef	20710	Wietzendorf	1	hei it dei Eier jümmer ahn’ Solt un Päper.
+ef	20734	Colonie Syke	1	Hee itt dee Ei’r jümm’r ahn’n Sölld unn Pääper.
+ef	20753	Magelsen	1	hei (e-i) et dei Eier ȷümmer ahne Sölt un Peper(ä).
+ef	20763	Nordkampen	1	He itt de Eier jümmer ahne Sold un Päper.
+ef	20774	Vierde	1	häi dai Eier jümmer ahn Sold un Päber.
+ef	20788	Schmarbeck	1	Hei it dei Eier ȷümmer ahn Solt und Päper.
+ef	20798	Brümsen	1	He ätt de Eier jüm̅er a͡ohne Sa͡olt un Peper.
+ef	2081	Eydtkau (Eydtkuhnen)	1	He ätt de Eier emmer ohne Solt un Päper.
+ef	20891	Dörpel	1	he et de Eier jümmer ahne Sölt un Päper.
+ef	20901	Maasen	1	He et de Eier jümmer ahne Sölt un Peper (wie Päper).
+fg	20917	Drakenburg	1	Hei itt dei Eier ümmer ahne Solt un Peper.
+fg	20920	Unterrodewald	1	hëi it dëi Eier jümmer ahne Söld und Päper.
+fg	20933	Thören	1	hei it dei Eier jümmer ah’e Solt un Pöpper.
+fg	20936	Hassel	1	hei itt dei Eier jümmer ahne Sold un Pöper.
+fg	20946	Scharnhorst	1	Hei idd dei Eier ümmer ohne Solld un Pöpper.
+fg	20948	Aschen	1	Heh ett de Eier jümmer ahne Solt und Päper.
+fg	21024	Burlage	1	he ett de Eier jümmer ahne So̾lt un Perper.
+fg	21033	Hoysinghausen	1	hei et dei Eier jümmer ahne Sȯlt un Päper.
+fg	21045	Brokeloh	1	hei it dei Eier jümmer ahne Sölt nu Päper.
+fg	21050	Empede	1	Hei it de Eier ȷümmer ahne Sölt un Päper.
+fg	21065	Gailhof	1	Hei it dä Eier ümmer ahne Solt un Peper.
+fg	21074	Adelheidsdorf	1	hei itt de Eier ümmer ohne Sold und Pepper.
+fg	21085	Nordburg	1	Hei it de Eier ümmer ohne Solt und Pepper
+fg	211	Rodowo	1	Er eßt die Eier ömmer ohne Salz onn Fe[f?]er.
+fg	21105	Preussisch Ströhen	1	he ät de Eier j’ümmer one Silt und Päper.
+fg	21190	Brockhausen	1	he ätt de Eï̇͡är hummer a͡ohne ßäölt un Pi͡ärper.
+fg	21199	Isenstedt	1	häi ätt de Eier ȷümmer ohne Söld un Piirper.
+fg	21218	Wietersheim	1	Hei ett dei Eier gümmer ahne Söld un Pieper.
+fg	21235	Hülshagen	1	Hei et jümmer dä Are ahne Solt und Peper.
+fg	21252	Holtensen	1	hei ett dei Aer ȷümmer ahne Solt un Peeper.
+fg	2127	Klein Nuhr (Sukhodol'Ye)	1	Hei frett de Eier emmer ohne Solt on Päper.
+fg	21280	List	1	Hei ett dä Eier ümmer ohne Sollt unn Pepper.
+fg	21295	Immensen	1	Hei it de Eier ümmer ohne Solt und Pepper.
+fg	21305	Voigtholz-Ahlemissen	1	Hei it de Aier immer ohne Solt und Pepper._
+fg	21316	Steinhagen	1	Hä͜i Bogen unter „äi“ ätt de A͜igger Bogen unter „Ai“ ümmer ōhne Solt un Pi͜erper Bogen unter „ie“.
+fg	21342	Krentruperhagen	1	Heu ëtt deu Äögger ȷümmer ėu̇ne Soalt un Pöpper.
+fg	2135	Skungirren (Pen'Ki)	1	He ett de Eier em̄er ohne Solt on Päper.
+fg	21355	Wendlinghausen	1	heu ätt deui Egger jümmer ohne(sunner) Solt un Pöpper.
+fg	21362	Reher	1	Hâ͡î ett dä Eier ȷümmer ohne Solt un Peper.
+fg	21384	Harderode	1	Hei ett dei Eier ȷümmer ohne Sold un Pieper.
+fg	21405	Rheden	1	Hei ett dei Eier jümmer ahne Solt um Pepper.
+fg	21429	Nette	1	Hei it dei Eier immer ohne Solt un Pepper.
+fg	21446	Steinlah	1	hei it dei Aier ümmer uhne [S/Z?]olt un Pöpper.
+fg	2145	Kurschen (Kuz'Mino)	1	He ett de Eier emmer ohne Solt on Päper.
+fg	21455	Gross Schiplage	1	hei ät de Eiger immer ohne Salt un Pierper.
+fg	2161	Kalnen (-)	1	Hö ett dä Eier ömmer ohne Solt onn Päper.
+fg	21611	Schweicheln-Bermbeck	1	Hei et dei Eier ümmer ohne Solt und Pieper.
+fg	21632	Veltheim	1	Hei ett de A’r ȷümm’r ohne Solt un Piep’r.
+fg	21666	Rohden	1	Hei ett Eier jümmer ohne Solt un Peper.
+fg	21679	Springe	1	Hei ett dei ei’r ümmer o͂ne solt un pepper.
+fg	21687	Vardegötzen	1	Hei ett de Eire jümmer ahne Solt un Pepper.
+fg	21707	Rautenberg	1	Hei itt ’e Are (spr. wie a i Land) üm̂er ohne Sold un Pöpper.
+fg	2182	Soginten (Svirskoe)	1	Hä et de Eier emmer ohne Solt un Päper.
+fg	21882	Bodenstedt	1	hei it die Aier ümmer ohne Solt un Pöpper
+fg	21902	Rautheim	1	Hei it dä Eire immer ohne Solt un Pöpper.
+fg	21936	Bartensleben	1	De it de Eier ümmer ohne Sollt und Pöpper.
+fg	2200	Narmeln (Polski)	1	He ett de Eier emmer oahne Sollt on Päper.
+fg	2204	Leysuhnen (Ščukino)	1	He ett de Eia oahne Solt on Peper.
+fg	22044	Rottorf	1	Hei it de Eier immer ohne Solt un Pöpper.
+fg	22063	Hundisburg	1	Hei itt de Eier immer ohne Sollt un Pepper.
+fg	22074	Farsleben	1	He itt de Eier immer ohne Solt un Päper.
+fg	22083	Reesen	1	he is et de Eier innner oane Solt un Päper
+fg	22092	Paplitz	1	Hä et de Eier ümmer oahne Sold un Päeper
+fg	22111	Wasbüttel	1	Hei itt de Eier immer ohne Sold un Pepper.
+fg	22149	Rätzlingen	1	Hei it de Eier immer ohne Solt und Pöpper.
+fg	2216	Hermsdorf (Pograničnyj)	1	He ett de Eia emma ohne Solt onn Päpa.
+fg	22172	Burgstall	1	He it de Eier ümmer ohne Solt und Päper.
+fg	22222	Reislingen	1	hei it dä Eier immer ohne Solt un Pöpper.
+fg	22249	Roxförde	1	He itt de Eier immer ohn Solt und Päper.
+fg	2225	Moritten (Oktjabrskoe)	1	He ett de Eia ömma oane Solt on Pepa.
+fg	22264	Grieben	1	Häi ett de Eier ümmer oahne Solt un Päper.
+fg	22276	Zabakuck	1	Hɑ̈ ett deh Eier ümmer o͡ane Solt un Pähper.
+fg	22375	Westerholz	1	he itt de Ei’r ümmer ahne Solt un Pöpper.
+fg	22384	Tülau-Fahrenhorst	1	he itt de Eier ümmer ohne Sold und Päper.
+fg	22394	Köbbelitz	1	He itt de Eier immer aohne Sold un Päper.
+fg	22407	Schenkenhorst	1	He’i it de Eier ümmer oahn Sold un Päper.
+fg	2242	Naunienen	1	Ä öt dö Eia öm̄a ohne Solt un Päpa.
+fg	22423	Querstedt	1	He itt de Eier ümmer ohn Solt un Päper.
+fg	22443	Staffelde	1	hei it de Eier ümmer oan Sold un Päper.
+fg	22453	Grosswudicke	1	Hä ett de Eier oohne a͡ohne Sold un Pähper.
+fg	22574	Masel	1	He͡i itt de͡i E͡ier ümmer ahn’n Solt und Päper.
+fg	22581	Höddelsen	1	He itt de Eier immer aohn Solt un Päper.
+fg	22599	Wöpel	1	He itt de Eier ümmer ohn Solt und Päper.
+fg	22621	Molitz	1	he it de Eier ümmer ohn Sold un Päper.
+fg	22636	Rönnebeck	1	He itt de Eier ümmer aohn Saolt un Päper
+fg	22654	Iden	1	He it de Eier innner oahne Solt un Päper.
+fg	22667	Kuhlhausen	1	He ätt de Eier ümmer oahn Solt un Päper.
+fg	22685	Proitze	1	’E itt de Eier ümmer ahn Zolt un Peper.
+fg	22773	Holdenstedt	1	ha̓ih itt da̓ih Eier jünmer ohne Solt und Päper.
+fg	22796	Wustrow (Wendland)	1	he id de Eier üm̅er ahn Sold un Päper.
+fg	22810	Lomitz	1	hë͜ï̇ Bogen unter „ë͜ï̇“ it de Eier ümmer ahn Sold un Päper.
+fg	22819	Jeggel	1	He itt de Eier immer o͡ahn Solt un Päper.
+fg	22832	Gross Lüben	1	He ät de Eier ümmer oahn Sold und Päper.
+fg	22846	Görike	1	HeEr ëtt de Eier ümmer ohn Solt und Päper.
+fg	22910	Holthausen	1	he itt de Eier ömmer ouane Sault un(on) Peeper.
+fg	22931	Dahlhausen	1	Hȧ iät de Eier ümmer oune Soult un Piäper
+fg	22965	Langeloh	1	Hä iet’t de Eier ümmer o͡ahne So͡alt un Piäpper.
+fg	22990	Halingen	1	Hai ie̮ttet dai Aier ümmer one Sollt un Piäpper.
+fg	22998	Neheim	1	Hei ietet de Eier liuter ohne Solt un Piäper.
+fg	23010	Niederbergheim	1	Hai iëtet dei Äǰer liuter ohne Solt un Pi͝äper.
+fg	23021	Kapellen	1	Hään ett de Äjer ömmer zonder Saalt onn Pääper.
+fg	23031	Rheinberg	1	hei ät de Eier ömmer ohne Salt on Päper.
+fg	23184	Holthausen bei Kirchhellen	1	Hä ett de Eier ümmer a͡ohne Sol tun Päpper.
+fg	23191	Herten	1	Hä iett dä Eie ümme uohne Suolt un Piappe.
+fg	23207	Waltrop	1	Hai iät dä Eier ümmer uohne Suolt un Piäpper.
+fg	23218	Kamen	1	Hai ì͜et Bogen unter „ie“ dei Eier imner u͜one Bogen unter „uo“ Su͜olt Bogen unter „uo“ und Pì͜äpper Bogen unter „iä“.
+fg	23231	Norddinker	1	Hei irtes de Eier ümmer ohne Piügger un Soilt.
+fg	23261	Kessel	1	Hej͡ ätt di Eje͡r ohn ömmer ohne Salt ěn Päpr.
+fg	23271	Kehrum	1	He et de Eier ömmer ohne Salt on Päper.
+fg	23284	Hamminkeln	1	hej ätt de Eier ömmer ohne Salt on Päper.
+gh	23293	Erle	1	He ätt de Ejer ümmer o͜͡ahne Bogen über und unter „oa“ Salt un Pääper.
+gh	23343	Göttingen	1	He et dıe Egger oahne Soalt und Pierper.
+gh	2338	Wenslowischken (Voznesenskoye)	1	He ett de Eier emmer ohne Solt onn Päper.
+gh	23402	Holtwick	1	Heh ät de Eier alltiet ohne Sold un Piäper.
+gh	23412	Seppenrade	1	He ätt de Eier alltied aohne Solt und Piäpper
+gh	23419	Davensberg	1	He üt de Eier ümmer aohne Soult un Piäper.
+gh	23426	Vorhelm	1	He ät de Eier ümmer oahne Soalt un Piäper.
+gh	23435	Stromberg	1	He ätt de Egger ümmer oone Sollt un Pirper.
+gh	23453	Stockum bei Coesfeld	1	Heh ett de Eier ümmer one Solt un Piäper.
+gh	23466	Nottuln	1	He ett de Eier ümmer one Solt un Piäpper.
+gh	23471	Münster	1	He iät de Eier ümmer aohne Saolt un Piäpper.
+gh	23478	Einen	1	Heh ätt de Aier ümmer oane Soalt un Piäper.
+gh	23483	Greffen	1	He ätt de Eier oalltied ohne Solt un Piäper.
+gh	23494	Speelberg	1	Héj ét de eier ömmer ohne salt en päper
+gh	23498	Hemden	1	He ät de Eier ümmer one Salt un Päper.
+gh	23507	Weseke	1	He ät de Eyer altied one Salt un Päper.
+gh	23545	Tüddern	1	Hä èt de Èier altiet z onger Sout en Pähper.
+gh	23566	Porselen	1	He et die Eier ömmer ohne Saut on Päper.
+gh	23602	Holzweiler	1	Dé iß di Eier immer óhne Salz un Pǟfer.
+gh	23630	Evinghoven	1	Ä iß de Eier immer ohne Salz un Päfer.
+gh	23817	Reusrath	1	hä ißt die Eier immer ohne Sahlz on ohne Peffer.
+gh	23843	(Stolzenberg)	1	Hä ett de Eier emmer ohn’ (aohn+) Sault on Peffer. (+ zwischen a und oh).
+gh	23858	Oberklüppelberg	1	Hei ièt de Eier luter o̊hnė Solt un Peffer.
+gh	23873	Valbert	1	Hei iet der Eier immer uohen Solt un Piäper.
+gh	23885	Sporke	1	Hai iëttet de Egger li͡uter ohne Salt un Piäpper.
+gh	23902	Schmallenberg	1	Heu ihttet de Äegger loühter ohne Salt un Piäpper.
+gh	23906	Elmpt	1	He͜ä Bogen unter „eä“ et de Eier emmer songer Sa͜et Bogen unter „ae“ en Päper.
+gh	23922	Helenabrunn	1	Hä ett die Eier one Sot un Päper.
+gh	23933	Weißenberg	1	Hä étt de Eier immer ôene Salt on Päffer.
+gh	2398	Mertensdorf (Tjomkino)	1	He et de Eier emma ohn Solt on Päper.
+gh	2409	Trausen (Lipnyaki)	1	A iett de Aia i|emma u͡onne Sollt u͡onn Päpa.
+gh	24107	Hubbelrath	1	Hè et de Eier immer ohne Sault on Peffer.
+gh	24134	Barmen	1	Hä ett de Eier ommer ohne Solt on Peffer.
+gh	24156	Delle	1	hä i͜ëtet Bogen unter „ië“ dä Eier ümmer ohne So͜alt Bogen unter „oa“ un. Pi͜äper Bogen unter „iä“.
+gh	24167	Altena	1	Hei i͡etet de Eier ümmer o͡ahne Solt un Pi͡äpper.
+gh	24180	Stockum	1	Heù ietet de Egger liûter ohne Solt un Piäper
+gh	24208	Wall	1	Hä et de Eier ömmer o͡ahne Saalt un (oahne) Päper.
+gh	24218	Vennikel	1	hei ett die Eier ömmer ohne Salt on Päper.
+gh	2426	Groß Pentlack (Kamenka)	1	He ett de Eier emmer ohne Solt un ohne Peper
+gh	24336	Berghausen	1	Hä eßt de Aecher immer ohne Saalz un Päffer.
+gh	2436	Kowarren (Zaozernoye)	1	He ett de Eier em̄er one Sold on Peper.
+gh	24360	Bottendorf	1	E eßt de Egger ohne Saals on Päffer.
+gh	24380	Bergfreiheit	1	Hä eßt de Eier immer ohne Salz un Peffer.
+gh	24412	Roppershain	1	hä eßt die Eier immer ohne Sahlz un Peffer.
+gh	24431	Konnefeld	1	He (fast hä) ißt de Egger (Ejjer) u̇mner ohn Sahlz un Päffer.
+gh	24454	Berneburg	1	he eßt die Eier immer ohne Salz on Peffer.
+gh	24466	Lüderbach	1	Hä ißt die Eier immer ohne Sahlz un Pfäffer.
+gh	24490	Züschen	1	Hai ietet de Egger ümmer ohne Salt unn Piäper.
+gh	2452	Kleschowen (Kutusowo)	1	He ätt de Eier em̄er ohne Solt unn Päper. (oane)
+gh	24636	Rhadern	1	He ettet de Egger ümmer ohne Salt un Päper.
+gh	24659	Buhlen	1	He eßt d’Egger immer ohne Saalz on Päffer.
+gh	2466	Tolkmicko	1	He ĕtt dĕ Eia ömma ohne Sollt onn Päpa.
+gh	24677	Metze	1	Häh eßt dä Ächcher emmer ohnä Sahlz onn Päffer.
+gh	24695	Wattenbach	1	Hä äßt de Egger emmer ohne Saalz onn Päffer.
+gh	24715	Vockerode	1	Hä ißt die Egger immer ohne Sääls oun Fäffer.
+gh	24737	Grosstöpfer	1	Hä ißt deh Äger immer ohne Sählz un Pfäffer.
+gh	2474	Pierzchaly	1	He ett de Eia ohne Solt on Päpa.
+gh	2482	Peterswalde (Piotrowiec)	1	He ett de Eia ömma ohne Solt on Pepa.
+gh	24884	Olsberg	1	Hai ietet dai Egger ümmer ohne Salt un Piäpper.
+gh	24901	Sudeck	1	Hei ittet de Eggere ȷümmer ohne Salt un Pepper.
+gh	24917	Braunsen	1	He ittet de Eggere jümmer ohne Salt un Pepper.
+gh	24926	Zierenberg	1	Hei ettet de Egger immer ohne Salt um Pepper.
+gh	2494	Saruny	1	Ho ett de Eia ömma ohne Solt on Pepa.
+gh	24942	Speele	1	He ißt de Äger ohn Salz und Päffer.
+gh	24959	Hermannrode	1	Hei et dä Eier ümmer ohne Salt und Peper.
+gh	2507	Wojciechy	1	A ätt de Eia omma ohn Solt on Päpa.
+gh	25113	Meiste	1	Hai itet dai Egger ümmer ohne Solt un Piäper.
+gh	25131	Fürstenberg	1	Hei ett de Eggere jömmer ohne Salt un Piëper
+gh	25136	Scherfede	1	Häi frett de Eggere jümmer ohne Salt un Pipper.
+gh	25150	Körbecke	1	He et de Eggere ȷümmer ahne Salt un Pipper.
+gh	25163	Gottstreu	1	hei ißt dei Eier immer ohne Saalt und Pepper.
+gh	25179	Esebeck	1	hei it dei Eier immer ohne Saͦlt un Pepper.
+gh	25197	Ebergötzen	1	Hei ett dě Eiere ümmer ōhne Sālt un Pöpper.
+gh	25214	Bönninghausen	1	Hei ett de Egger ümmer ohne Solt un Piäper.
+gh	25223	Kirchborchen	1	Heī ät deī Egger ömmer ohne Salt und Pípper.
+gh	25343	Siebenstern	1	Hai et dai Egger olleteit ohne Salt und Pieper.
+gh	25354	Bruchhausen	1	Hai ett de Egger jümmer ohne Salt u. Piper.
+gh	25363	Schönhagen	1	Heil et de eere ȷümmer one solt un pepper.
+gh	25373	Oldenrode	1	hei ett dei Eier jümmer ö-ane Saalt un Pöpper.
+gh	25391	Marke	1	hei et de Eiere ȷümmer (oa)hne Sold un (oa)hne Pöpper.
+gh	25407	Westerwiehe	1	He ätt der Eï̇er ümmer ohne Solt un Piäper.
+gh	25514	Haustenbeck	1	hä ett jümmer de Egger sunner Solt (o breit, zw. o und a) un Pöpper.
+gh	25522	Heesten	1	Heu et deu Egger jümmer euhne Salt un Pöpper.
+gh	25543	Rischenau	1	heu ät deu Ö͞gger jümmer ohne Sōlt un Pöpper.
+gh	25560	Lobach	1	hei ett dä Äre ȷümmer ohne Sold un Pöpper.
+gh	25579	Wenzen	1	Hei ett de Eier ȷümmer ohne Sault un Päpper.
+gh	25596	Ackenhausen	1	Hei itt dei Ager ümmer oahne Sault un Pöpper.
+gh	25607	Wolfshagen im Harz	1	Hei itt dě Eier immer o͡ahne Su͡olt un Pepper.
+gh	25798	Kell	1	Ä is de Eier ömmer ohne Salz on Peefer.
+gh	25824	Stromberg	1	hä eßt die Eier emmer ohne Salz und Päffer.
+gh	25845	Staudt	1	Ä eßt’d Eia im(a) ohne Salz un Päffa
+gh	2586	Jurkiszki	1	He ett de Eier ömmer oane Solt un Päper.
+gh	25876	Steinbach	1	he eßt de|i Eier emmer uhne Salz und Päfer.
+gh	25904	Höfen	1	Heä eßt de Eier ömmer ohne Salz on Päffer.
+gh	25914	Gemünd	1	Ä͡e eß de Eier emmer (auch) lutter ohne Salz onn Päffer.
+gh	2602	Maciejowieta	1	He ett de Eie[r?] immer ohne Solt un Peeper. (Päper)
+gh	26141	Iversheim	1	Eä eß de Eie ömme ohne Salz on Päffe.
+gh	26155	Gelsdorf	1	Ä eß de Eie ohne Salz on ohm Peffe.
+gh	26178	Ohlenberg	1	Er iß de Eier immer ohne Salz on Päfer.
+gh	26205	Seifen	1	Er eßt de Eier ömmer ohne Salz un Peffer.
+hi	26228	Gehlert	1	Er ißt die Eier immer ohne Sālz u. Peffer.
+hi	26261	Waigandshain	1	Ä ißt de Ajer emmer une Salz enn Päffr.
+hi	26283	Sinn	1	Er ißt d’Aijer emmer ohne Saalz en Peffer.
+hi	26312	Venwegen	1	Hä eßt de Eier luckter ohne Salz än Peffer.
+hi	26324	Üdingen	1	Hä iß de Eier ömme ohne Salz o͂|n Päïfe.
+hi	26351	Borr	1	Häe iß de Eie lutte ōhne Saalz on Päffe.
+hi	26578	Roisdorf	1	Äe eß de Eiē lutte ohne Salz on Päffe.
+hi	26604	Geistingen	1	Hä iß de Eier emmer oone Salz on Päffer.
+hi	26627	Herchen	1	Er eß de Eier ėllich ohne Salz on Päffer.
+hi	26642	Mittelhof	1	Er eßt die Eier emmer ohne Salz on Päfer.
+hi	26664	Wilden	1	Hä eßt de Eier emmer uhne Salz on Päffer.
+hi	26683	Straßebersbach	1	Er eßt de Aier immer ohne Salz on Päffer.
+hi	26712	Mariagrube	1	Häe e|ißt de Eier emmer ohne Sooz onn Päffer.
+hi	26734	Niederzier	1	Ia es de Eie eme ohne Salz on Pefe.
+hi	26753	Horrem	1	EÄe iß de Eier ėmme (auch luhter) ohne Saalz on Pä̂ffer.
+hi	2676	Rygarby	1	Á ett de Eia ohne Sollt on Päpa.
+hi	26763	Poll	1	Hä iß die Eier immer ǒhne Salz unn Peffer.
+hi	2691	Kolwiny	1	A=ett de Eia emma ŏn Sŏlt on Päpa.
+hi	27003	Heiligenhaus	1	Ha és dé Eier emmer ohne Peffer ǒn Salz.
+hi	27025	Faulmert	1	hä eßt de Eier ömmer ohne Salz on Peffer.
+hi	2703	Srokowo	1	Oeh ett dö Eier ömmer ohn Sollt on Päper.
+hi	27038	Hahnseifen	1	häh eßt die Eier immer ohne Salz un Peffer.
+hi	27064	Müsen	1	Hä eßt de Eier ömmer ohne Salz on Päffer.
+hi	27074	Schameder	1	Hä eßt d[e??] Eier immer uhne Saalz un Päffer.
+hi	27106	Dudenhofen	1	Er eßt die Ajer immer ohne Saalz unn Peffer.
+hi	27135	Wenighösbach	1	Er ißt doe Ag̮a [Breve unter g] immer ohne Salz un Peffa.
+hi	2715	Stregiel	1	Hö ätt de Eier ömmer onne Sollt onn Päper.
+hi	27150	Wiesthal	1	Er ōßt die Är im̅er ohne Sals u. Pfeffer.
+hi	27163	Massenbuch	1	Ār ißt die Är immer ohne Saalz und Pfaffer.
+hi	27186	Neubessingen	1	Ar ißt die Äer ümmer ohna Sālz un Pfaff’r.
+hi	27209	Dittelbrunn	1	Er ißt diee Är immer ohna Salz und Pfaff’r.
+hi	27223	Vockenhausen	1	Er ißt die Ei jer immer uhne Salz und Päffer.
+hi	27244	Heddernheim	1	Er ißt die Aijer immer ohne Salz un Peffer.
+hi	2727	Budziska	1	Hö ät de Eier emmer ohne Solt ohn Päper.
+hi	27425	Bruchköbel	1	Ě esst di Aier immer ohne Sahlz onn Peffer.
+hi	27444	Hailer	1	E’ eßt deï̇ Ajer immer ohne Saalz on Peffer.
+hi	2746	Chelchy	1	He ett de Eier emmer ohne Solt on Peper.
+hi	27461	Oberndorf	1	Er eßt die [?]er immer ohne Saalz on Pöffer.
+hi	27469	Rossbach	1	Her èst die Ä̰jer ömmer ohna Sālz onn Pfäffer.
+hi	27480	Hassenbach	1	Ar eißt „ei“ durchbrochen unterstrichen die Är ümmer ohno Salz und Pföffr.
+hi	27501	Poppenlauer	1	Ar ißt die Ēr [ü?]mmer ohnä Sālz unn Pföffär.
+hi	27507	Cratzenbach	1	’r ißt die Eier immer ohne Saalz un Peff’r.
+hi	2762	Wilkowo	1	E ett de Eie emme ōne Solld on Päpe.
+hi	27692	Friedrichstal	1	Er eßt die Ajer immer ohne Salz und Perfer!
+hi	27719	Leidhecken	1	’r eßt die Ajer immer ohne Sahlz e͡an Fe͡affer.
+hi	27742	Gelnhaar	1	’R eßt die Ajer immer uone Saalz ean Pf Päffer.
+hi	27765	Ulmbach	1	Hä eßt die Eier ömmer ohne Saalz on Peffer.
+hi	27775	Eichenried	1	Hä eßt die Eier ömmer ohne Saalz oh Paeffer.
+hi	27792	Wildflecken	1	hei eßt die Eier ömmer oh|ne Sālz on PfeNffer N über e
+hi	27807	Bastheim	1	Ha eßt die Aeer ohne Saals un Pfeffer.
+hi	2781	Karwiny	1	Hä ößt de Aeger ömmer ohne Sahlz onn Pfeffer.
+hi	27821	Philippstein	1	Er ißt die Ajer immer ǎhne Salz en Peffer.
+hi	27835	Dornholzhausen	1	Er eßt die Ajer immer ohne Saalz enn Peffer.
+hi	2800	Krzykaly	1	Da ößt de Äga ohne Sālz un P[e/o?]ffa.
+hi	28010	Nonnenroth	1	E’ est dei Eijer emmer ohne Saals ore Peffer.
+hi	28027	Götzen	1	Er eßt die Aȷer immer ohne Saalz ean Peaffer.
+hi	28045	Altenschlirf	1	Aär eszt die Eier emmer ohne Saalz [u?]n Paäffer
+hi	28063	Fulda	1	Ä eßt de Eier im̅er ohne S[a?]lz on Peffer.
+hi	28080	Rupsroth	1	E – eßt die Eier immer ohne Sahlz oh Päffer.
+hi	28107	Gerthausen	1	hä eßt die Eier ümmer ohne Sahlz [ǒ?]nm Pfäffer.
+hi	2817	Mawry	1	Da össt de Ähga ömma onne Sahlz onn Feffa.
+hi	282	Zolna	1	Ei ett dei Ijje imme ohne Sult u Päpe.
+hi	2827	Sarnowo	1	Da aßt de Äga emma ohne Saalz oen Pfeffa.
+hi	28278	Krumbach	1	Ah eßt die Ahjer immer uhne Saalz ean Peaffer.
+hi	28298	Londorf	1	E’ eßt die Ähger immer uhne Saalz eann Pä[o/a?]ffer.
+hi	28315	Otterbach	1	Ear eßt Ae[c?]har [ü?]mmar uhna Sahlz enn Päaffer.
+hi	28330	Schwarz	1	he eſst de Eier immer ohne Saalz d sehr klein, evtl. ein „und“-Zeichen? Peffer.
+hi	28346	Grossenmoor	1	Hä (ä br.) eßt dee Eier immer ohne Saals on Päffer (br.).
+hi	28358	Rasdorf	1	Ä eßt de Eier immer ohne Sālz o Peffer.
+hi	28369	Wiesenthal	1	hea eßt di Eier ömmer uine Sahlz un Pfäffer.
+hi	28392	Herzhausen	1	Er eßt d’ Aj̈̇er immer uhne Saalz onn Päffer.
+hi	2846	Ledlawki	1	De ett de Eia ömma oahne Solt onn Päpa.
+hi	285	Kosobudy	1	Hai et die Ejer immer on Sult un Peper.
+hi	28568	Betziesdorf	1	Häeh eßt die Aier immer uhne Saalz äen Peffer
+hi	28589	Neustadt (Hessen)	1	he eßt die Äjer immer ohne Saalz one Peffer.
+hi	28605	Neukirchen	1	Hä eßt die Eier immert ohne Sahlz oͧn Peffer.
+hi	28623	Gittersdorf	1	hä eßt de Eier immer ohne Sahls on Päffer.
+hi	28640	Herfa	1	Er eßt de Eiȷer imme uhne Saals on Peffer.
+hi	28651	Frauensee	1	Äh eßt de Eier im̅er ouhne Saalz onn Pfäffer.
+hi	289	Königswiese (Leśna Huta)	1	He ät de Ije imme ohn Sullt u Päpe.
+hi	2900	Borawskie	1	He ätt de Eier ömmer ohne Solt on Peäper.
+hi	2906	Zabrowo	1	Hei ett dei Ige emme ohne Solt un Päpe.
+hi	291	Lubichowo	1	He ätt däh Egä immä ohne Suld un Pähpä.
+hi	2916	Stanowo	1	Hä êßt die Eier êm̄er ohne Salz ǒn Feffer
+hi	2923	Fijewo	1	Er eßt de Eier emmer ohne Salz und Feffer.
+hi	2935	Groß Koschlau	1	Er esst die Eier emmer ohne Salz unn Feffer.
+hi	2955	Liksajny	1	Er ößt die Eier ömmer ohne Salz on Pfeffer.
+hi	2962	Molza	1	Er esst de Eier immer ohne Salz un ohne Pfeffer.
+hi	2970	Warkaly	1	Da ößt die Ega ohne Saalz on Feffa ema.
+hi	2996	Bucznik	1	Hä fresst de Eier emmer ohne Salz on Feffer.
+hi	300	Montauerweide	1	He ett de Eier emmer ohne Solt on Peper.
+hi	300660	Sankt Roman	1	Er ißt d’Oar alleweil ohne Salz x Pfeffer.
+hi	300798	Reikersdorf	1	Ea ißt d’Oa oiwai ohne Soiz und Pfeffá.
+hi	301042	Rigaus	1	Er isst d’ Oa oiwei ohni Soiz und ohni Pfeffa.
+hi	3058	Zyndaki	1	He ett de Eia ema one Solt on Pepa.
+hi	3069	Rychliki	1	Ä össt de Eier ömmer ohne Salz onn Pfeffer
+hi	3083	Chojnik	1	Er ößt die Eier ömmer aohn Salz onn Pfeffer.
+hi	3093	Ksiaznik	1	Hä ĕst de Eiē ĕmmē ohn Salz on̄ Feffer
+hi	3111	Glotowo	1	Da [ö/ä/oï?]ßt de Äga ömma ohn' Salz on Pfeffa.
+hi	312	Ryman	1	Hei et dei Ega ümma ohn Sult un Pepa
+ij	3122	Derc	1	Da [?]ßt de Egga emme on Saalz on Pfeffa.
+ij	31677	Battweiler	1	Er eßt die Aier immer ohne Salz un Peffer.
+ij	31695	Heltersberg	1	Er éßt die Eier Aier im̅er ohne Salz un Peffer.
+ij	31700	Ramberg	1	Er eßt die Eier immer (auch: alsfort) uhne Salz un Pèffer. (das Ei = das Äh.)
+ij	31719	Geinsheim	1	Er ißt die Eier immer uhne Salz unn Peffer.
+ij	31737	Diedenhofen	1	En escht d’Äär emmer ohne (sonner) Peffer un sonner Salz.
+ij	31765	Laumesfeld	1	Enn éscht d’Ähr émmer ohne Salz u Peffer.
+ij	31789	Beckingen	1	Err eßt d.Aier immer ohnen Salz o Peffer.
+ij	31800	Calmesweiler	1	Er eßt d’Eier emmer ohne Salz ǎm Peffer.
+ij	31824	Steinbach bei Ottweiler	1	Er ißt die Aier immer ohne Salz unn Peffer.
+ij	32019	Dietschweiler	1	Er ißt die Eier immer ohne Salz und Peffer
+ij	32040	Siegelbach	1	Er eßt die Ajer immer uhne Salz un Peffer.
+ij	32053	Alsenborn	1	Er eßt die Aier immer uhne Salz unn Peffer.
+ij	32067	Erpolzheim	1	Er ißt die Aiȷer immer uhne Salz un Peffer.
+ij	32085	Kreuzweiler	1	En escht de Aer immer ohnen Sals on Peffer.
+ij	32102	Greimerath	1	N ehst de Ae eiweliddig onne Salz o Paefer.
+ij	32119	Oberlöstern	1	Er eßt dei Euer emmer on’t Päffer o Salz on Peffer.
+ij	324	Podwilcze	1	Hei ett dei Ege ümme aun Sullt o Päpe.
+ij	3254	Jurkowo	1	He et de Eia ömme one Solt on Pöpa.
+ij	3267	Pozarki	1	He ett de Eier emer one Solt on Peper.
+ij	3272	Gawliki Wielkie	1	He ätt de Eier ömmer ohne Solt on Päper.
+ij	3280	Swietajno	1	He eet de Eier immer ohne Sold und Päper.
+ij	32855	Altviller	1	A ißt ollfuet de Eyer one Solz un Peffer.
+ij	32883	Woustviller	1	Er ǟhßt de Eier allzitt ūhne Salz un Päffer.
+ij	3301	Barschken	1	He ett de Eier emmer ohne Solt on Päper.
+ij	33035	Rimling	1	é̌r ä̩ßt dé Eiér i̩mmér uhné Salz un Päffér.
+ij	3304	Dawillen	1	Heh ett' deh Eier öm̄er ohne Sollt onn Peper.
+ij	33055	Roppeviller	1	R äßt die Eier immer ohn uhne Salz un Päffer.
+ij	33064	Dahn	1	Er äßt die Eièr immèr uhnè Salz unn Päffèr.
+ij	3309	Dittauen	1	He ett de Eier immer ohne Solt un Päper.
+ij	33102	Gleiszellen	1	Er ißt d Eier immer uhne Salz u. Peffer.
+ij	33111	Herxheimweyher	1	Er ißt die Äjr immer uhne Salz unn Peffer.
+ij	33126	Guinkirchen	1	’R eßt de Ei’r allzitt ohne Salz unn Peffer.
+ij	33146	Überherrn	1	A. äßt d. Aier immer ohnen Salz und Peffer.
+ij	33159	Malstatt	1	Er eßt die Eier immer ohne Salz un Peffer.
+ij	3318	Deegeln	1	He ett de Eier em̄er onne Solt un Päper.
+ij	33185	Niederwürzbach	1	Er eßst die Eier immer une Salz und Peffer.
+ij	33331	Steinbuch	1	Er ißt die Aȷer uhne Salz un Pfeffer.
+ij	33346	Breitendiel	1	Er ißt die Aier imm’r uhna So͡alz un Peff’r.
+ij	33364	Hundheim	1	Er ißt die Aar immer ūne So̰lz un Pfeffer.
+ij	33381	Steinbach	1	Er ißt die Ä͜er Bogen unter „Äe“ immer ohne Saalz und Pfaffer.
+ij	33400	Eibelstadt	1	Ar ißt die Ear üm̅er ouhna Soalz und Pfaffer.
+ij	3342	Pillkoppen	1	Höe ett de Eier öemmer ohne Sold un Päper
+ij	33420	Rödelsee	1	Ar ißt die Är immer ohna Salz und Pfaff’r.
+ij	3343	Karkeln	1	Hö ett de Eier ömmer ahne Solt un Päper.
+ij	3345	Dünen (Ackmenischken)	1	E ett de Eier ömmer ohne Sold on Päper.
+ij	3351	Pleine	1	He ett de Eier ömmer ohne Solt onn Päper.
+ij	33605	Erfelden	1	Er ißt die Ajer immer ohne So͡alz un Peffer.
+ij	33614	Traisa	1	Er isst di Aja imma ohne Solz un Peffa.
+ij	3362	Cullmen-Kulken	1	Hee ätt di Eier emmer onne Sollt on Pähper.
+ij	33631	Heubach	1	Er ıßt die Ajer immer auune Saͧlz un Peff’r.
+ij	3364	Rositten (Rybachiy)	1	Hee ätt de Eier ömmer ohne Solt on Päper.
+ij	33648	Hofstetten	1	Er ißt die Aier immer ouhne Solz unn Peffer.
+ij	33660	Bischbrunn	1	Er ißt die Ār immer ohna Sālz un Pfäffer.
+ij	33677	Birkenfeld	1	Ar ißt die Är immer ohne Salz un Pfaffer.
+ij	33692	Rupprechtshausen	1	Ar ißt die Äer ümmer ohna Solz u. Pfaffer.
+ij	33711	Gaibach	1	Ar ißt die Är ümmer ohna Salz und Pfaffer.
+ij	33725	Rüsselsheim	1	Er ißt die Aijer immer ohne Salz unn Peffer.
+ij	33741	Langen (Hessen)	1	Er eßt. die Aajer immer ohne Saalz un Peffer.
+ij	33849	Altlussheim	1	Er ißt die Ò̄ier Gravis und Makron über O allefort ohne Salz unn Peffer.
+ij	33860	Schatthausen	1	Är ißt d’Aier allseford uhne Sals unn Pěffär.
+ij	3387	Sassenhöhe (Augsgirren)	1	He ett de Eier emmer onne Soltt un Päper.
+ij	34001	Daudenzell	1	Er ißt d Aier immer uhne Salz un Pfeffer.
+ij	34015	Billigheim	1	Er ißt die Eier imer uhne Sālz un Pfeffer
+ij	34025	Oberkessach	1	Er ißt d Aier ohne Salz u. Pfeffer.
+ij	34044	Ailringen	1	Er ißt die Aer allefort une Solz u. Pfeffer.
+ij	34058	Lichtel	1	Er ißt di Aa̰r im̅er ohna̰ Sōlz un Pfeffer.
+ij	34065	Windelsbach	1	Er ißt di Kǎkǎli o ǎhnǎ Solz und Pfeffer. 
+ij	34076	Ludwigshafen am Rhein	1	Der eßt die Aier immer ō̰hne Peffer unn Salz.
+ij	34096	Ursenbach	1	Er ißt di̮ Aija imma uhné Salz un Pèffa.
+ij	34216	Gammelsbach	1	Er ißt die Aijer imma une Saalz un Peffa.
+ij	34228	Rumpfen	1	Er ißt die Äier im̑er ohne Saalz und Peffer.
+ij	34235	Gerichtstetten	1	Er ißt die Ā’r imm’r ohne Sōlz un Pfeffer
+ij	3424	Beierstedt	1	Hei it de Eire ümmer ohne Solt un Pöpper.
+ij	34247	Königshofen	1	Err ißt di Ahr allamol ohna Solz un ohna Pfäffar.
+ij	34266	Aufstetten	1	Ar ißt d’r Äar immer ohna Salz und Pfaffer. |: das a ganz hell :|
+ij	34288	Weigenheim	1	Ar ißt die Kackali immer ahna Salz und Pfaffer.
+ij	34305	Bobstadt	1	A ißt die [A/E?]ier immer ohne Salz und Peffer
+ij	34321	Mittershausen	1	Er ißt die Aajer immer ohne Aolz un Peffer.
+ij	344	Modrolas	1	hei ett dei Ega imma ahn Sult o Päpa
+ij	34447	Berghausen	1	Er èßt die’ Eièr allfort ohné Salz unn Pfeffar.
+ij	34503	Winzerhausen	1	’r ißt d’Oier (O̊aer) im̅der ohne Salz u. ohne Pfèffer.
+ij	34522	Liemersbach	1	Er̮ ißt d’Eier elleweil ohne Salz u. Pfeffer.
+ij	34535	Eutendorf	1	Er ißt d’ Aier allfort ohne Saolz Tilde unter „ao“ ond Pfeffer.
+ij	34545	Honhardt	1	Er ißt d’ Ar ohne Sōlz u. Pfeffer. (statt d’Ar auch d’ Gagalich.)
+ij	34557	Segringen	1	Er ißt die Aër(oder auch Oier) ohne Sālz und Pfèffer. (Statt Eier meist „Gaggeli“).
+ij	34566	Graben	1	Er ißd d’Oaier allsford ohne Salz unn Pfèffer.
+ij	34707	Odenheim	1	’ Er ißt die Aier imma uhna Salz un Pfäffer.
+ij	34734	Massenbachhausen	1	Er ißt d’Aier allfort ohne Salz ṵn̄ Pfeffer.
+ij	34750	Binswangen	1	Er ißt d’Eier im̅ér ohne Salz und Pfeffér.
+ij	34773	Öhringen	1	Ě̀r Breve und Gravis auf E ißt d’A͞iè̌r im̅ḛ̌r o̰hně Salz und Pfḗffě́r.
+ij	34791	Döttingen	1	Er ißt d’Ar allfort (auch allawail) ohne Solz und Pfeffer.
+ij	34802	Gaggstatt	1	Èr ißt diè Ār immer ohnè Sōlz und Pfèffèr.
+ij	34818	Dorfgütingen	1	Er ißt d’Gackeli ohna Salz und Pfeffer.
+ij	34838	Röckingen	1	Er iß[?] d’Eier(Oar) im͡er ŏhna Salz und Pfèffer.
+ij	34855	Windsfeld	1	Er ist Oar immer ohna Soalz und Pfeffer.
+ij	34872	Ettenstatt	1	Er ißt die Oier ammer (und immer) ohni Solz und Pféffer.
+ij	35003	Untermässing	1	Ehr ist d Oia ehma ohnn Schmolz und Pfäffa.
+ij	35011	Gimpertshausen	1	Er ißt Oier ien̄er ohne Solz uud Pfeffer.
+ij	35026	Beratzhausen	1	Er isst dae Oier im̀er ohne Solz u. Pfeffer.
+jk	35035	Eitlbrunn	1	Er ißt d Oier ohne Solz und Pfoffer.
+jk	35046	Altenthann	1	Er ißt die Oa im̅a ohne Salz und Pfeffa
+jk	35055	Rauenzell	1	Er ißt d’Eier im͞er/:all[e?]mal:/ ohne Salz und Pfeffa._
+jk	35067	Ismannsdorf	1	Er ißt d’G[o/a?]gali immer ohna Seılz und Pfeffer.
+jk	351	Smecino	1	Hei ett dei Ēgä̆ immä̆ âhn Sult ŭn Päpä̆.
+jk	3516	Bornum	1	Hei ett de Eier ümmer ohne Solt un Pepper._
+jk	35165	Büchenbach	1	Er ißt die Gakkeli ohni Solz und Pfeffer.
+jk	35168	Seligenporten	1	Er ißt d’Oia umma ohne Solz u Pfeffa
+jk	35188	Günching	1	Er ißt dai Oier im̅a ohne Solz und Pfeffa.
+jk	35195	Adertshausen	1	Er ißt dOiǎ ollawàl a̰ne Solz und Pfäffa.
+jk	35204	Wiefelsdorf	1	Er ißt d’E Oia imma ohne Solz u. Pfäffa.
+jk	35211	Bodenwöhr	1	Er ißt d’Oia allaweil ohne Solz und Pfäffa._
+jk	35223	Flachslanden	1	Er ißt die Eier im̅er ohna Salz und Pfeffer.
+jk	35236	Grosshabersdorf	1	Er ißt die Gackali immer ohna Salz und Pfeffer.
+jk	35254	Birnthon	1	È ißt d’Âier ummer ahni Solz und Pfèffer.
+jk	35339	Röthenbach	1	Er ißt d’Eia imma ohna Solz und Pfeffa
+jk	35377	Alfeld	1	Ea ißt d’Oia umma ahne Solz und Pfäffa.
+jk	35382	Ammerthal	1	Er ißt d’ Oia̮ alla̮weil ohni̮ Solz und Pfäffa.
+jk	35393	Trisching	1	Er ißt die Aier im̆a ohné Salz u. Pfeffa.
+jk	35517	Unternesselbach	1	Er isst die Gackeli immer ohna Salz und Pfeffer.
+jk	35524	Oberreichenbach	1	Eé ißt die Eiér immér ohné Salz und Pfèffé.
+jk	35544	Buckenhof	1	Err ißt d’Eier imm[a?] ohna Salz und Pfeffr.
+jk	35562	Kirchröttenbach	1	Er ist di Eier allaweil ohne Solz und Pfeffer.
+jk	35571	Hartenstein	1	Er ißt d Oaia allaweil ohne Solz und Pfäffa._
+jk	35577	Schlicht	1	Er ißt d’Oier alleweil ohne Solz und Pfefa.
+jk	3558	Beckendorf	1	Hıi itt de Ei’r ümmer ohne Suolt un Pöpper.
+jk	35585	Kohlberg	1	Er ißt d’ Oia allamal ohne Solz und Pfèffa.
+jk	35597	Oberlind	1	Eȃr ißt d Oia furdda ahne Tilde unter „ah“ Solz und Pfeffa.
+jk	356	Porst	1	Hei ett dei Egä immä ahn Sult ū Päpa.
+jk	35710	Haag	1	Ana Salz und Pfeffer ißdr immer die Eir.
+jk	3572	Domersleben	1	hei itt de Eier immer ohne Solt un Pepper.
+jk	35729	Mühlhausen	1	Er ist die Eier immer ohne Sålz und Pfeffer.
+jk	35755	Pautzfeld	1	Èé ißt die Eié allemoll ohne Solz und Pfèffé.
+jk	35762	Moggast	1	Es ißt die Eia allfort una Solz und Pfeffǎ.
+jk	35778	Pegnitz	1	Er ißt di Eia ohna Solz un Pfeffa.
+jk	35791	Speinshart	1	Er ißt döi Oia imma ohne Solz und Pfeffa.
+jk	35799	Friedersreuth	1	Ea ißt d Åia (Sing. Åa) allawaɑl ɑ über a ani Salz u. Pfèffa.
+jk	35807	Plössberg	1	Er ißt dAier alleweil ohne Solz und Pfeffa.
+jk	35824	Geusfeld	1	Ar ißt die Äer ümmer ohne Solz und Pfaffer.
+jk	35843	Tütschengereuth	1	Er̂ ißt die Eiè ümmer ohna Sâlz und Pfeffè.
+jk	35857	Litzendorf	1	Ea ißt die Eia im̅a ohna Solz und Pfeffa.
+jk	3592	Prester	1	Er ett a Eier immer ohne Solt un Päper.
+jk	36007	Hollfeld	1	Ea ìßt die Eia allawäll ohne Sa̰lz & Pfäffa.
+jk	36017	Donndorf	1	E ißt die Eia im̅ɑ ohnɑ Solz und Pfeffɑ.
+jk	36039	Kirchenpingarten	1	A ißt d Eia imma ohni Solz und Pfèffa. 
+jk	36049	Hohenhard	1	Er ißt d’ Aïer allaweil ahne Solz r. Pfeffa.
+jk	36056	Leonberg	1	Àrißt d’Aià immà ohne à Salz und Pfeffà.
+jk	36065	Hohrodberg	1	Er ißt die Eier immer une Salz und Pfäffer.
+jk	36084	Colmar	1	Ar eßt de Eier emmer ohne Salz un Pfaffer.
+jk	3609	Dalchau	1	Hä et die Eier immer oane Sold unn Päaper.-
+jk	3614	Schweinitz	1	Hä itt de Eier ummer oahne Solt un Päper.
+jk	36159	Meistratzheim	1	ǎrr eßt d’Eier alewill uhne Salz a Pfaffer.
+jk	36178	Müllen	1	È̌r Gravis und Breve über E iß̮t d’Aier allè̌wīl ǔhnǐ Sǎlz ǔn Pfèffer.
+jk	36202	Kniebis (Kr.Freudenstadt)	1	E(a)r „(a)“ über E ißt d’Āejer ällḛweil aˇone Bogen und große Tilde unter „ao“ Salz onn Pfèffer.
+jk	3626	Nennhausen	1	Hä ätt de Eier ümmer oahne Solt un’n Pääper. (Pä—äper.)
+jk	36272	Ödsbach	1	E̮r ißt d’Eier uni Salz un Pfäffer.
+jk	36277	Turquestein-Blancrupt	1	Er ißt d’Eier immer (allewill) ohni Salz und Pfaiver.
+jk	36282	Wangenbourg	1	Èr ißt d’Eier allewil ohne Salz un Pfaffer.
+jk	36309	Furdenheim	1	Er éßt d’Eier allewiel une Salz un Pfa̮ffer
+jk	36334	Ruprechtsau	1	Er ess d dǐe Eier allewi͞el ohne Salz und Pfäffer
+jk	3634	Berge	1	Heä ett di’e Eier ümmer ôhene Solt un Päeper
+jk	36348	Achern	1	R[r?] eßt d’Ai’r immer uni Salz un Pfäffer.
+jk	36362	Saarburg	1	Er èßt de Eire allewil ohne Salz un Pèffer.
+jk	3639	Pausin	1	Där ett diee Eier immer oahne Solt und Pährper.
+jk	36489	Bois De Chêne	1	Er eßt d’Eier allewill ohne Salz un Pfeffer.
+jk	3649	Hermsdorf	1	hä eßt die Eier immer ohne Salz un Feffer.
+jk	36525	Wilshausen	1	Er eßt d’Eier emmer ohne Salz un Pfeffer.
+jk	36552	Marienthal	1	Ar aßt d’Eier allewill uhne Salz un Pfaffer
+jk	36567	Fort-Louis	1	Er eßt d’Eier alléwiel uhné Salz un Pfeff’r
+jk	36594	Bad Rotenfels	1	Er éßt d’Eier im̅er uhne Sǎlz und Peffer.
+jk	366	Przeradz	1	Hei et dei Ege ümne oan Sult u Päpe.
+jk	3664	Birkholz	1	Er et die Eier immer ohne Sold und Peper.
+jk	36737	Altwiller	1	Er eßt d’Eire ohne Sālz un Peffer.
+jk	36755	Weislingen	1	’r eßt d’Eiere alsfurt ohne Salz un Pf Peffer.
+jk	3677	Gielsdorf	1	Er ett die Eier immer oahne Sold un Päper.
+jk	36772	Lichtenberg	1	Ār eßt d’Eiǎr emmǎr uhnå Salz un Paff’r.
+jk	36789	Goersdorf	1	Er ißt d’Eier immer ohne Salz un Pfeffer.
+jk	36823	Siegen	1	Ar ißt d’Aijr allfurt uhnè Salz un Pfaff’r.
+jk	36842	Neuburgweier	1	Er eßt die Aier im̅er uhni Salz unn Pfeffer.
+jk	3688	Ringenwalde	1	Hä itt di Eier immer oane Solt un Peäper.
+jk	36880	Bischoffingen	1	Dr ißt d Eier alläwil ohni Salz un Pfeffer.
+jk	36898	Maleck	1	Er ißt d’Eier allewil ohni Salz un Pfäffer.
+jk	36911	Yach	1	Er ißt d E Aièr allawil ūni Salz un Pfäffr.
+jk	36933	Orschwiller	1	Er esst d’Eier allewill ohne Salz un [Pf?]affer.
+jk	37007	Bindernheim	1	Ar eßt d’Aier âllawill una Sâlz u Pfaffr.
+jk	37025	Schmieheim	1	Är ißt dia Eier allewil un̄i Salz un̄ Pfäffer.
+jk	3703	Lehmannshöfel	1	Er it de Eier immer oane Sollt un Päper
+jk	37035	Bollenbach	1	Er ißt d’Eier immer uni Salz un Pfeffer
+jk	37058	Le Hohwald	1	ar èßt d’Eier allawill uhni Salz u Pfaffer.
+jk	3711	Warnick (Warniki)	1	Hä it die Eier immer oahne Sold un Peäper.
+jk	37119	Buchenberg	1	Er ißt d’Eier ällawiel uhni Salz und Pfeffer.
+jk	37138	Rottweil	1	Är ißt d' Aier älleweil uhni Salz u. Pfüffer.
+jk	37153	Obernheim	1	Dr ißt d’ Eier a̓llawei aune Salz u. Pfiaffer.
+jk	3722	Zaszczytowo	1	He ißt die Eier immer ohne Salz und Pfeffer.
+jk	37302	Winterlingen	1	Er ißt d’ Oier ä̇lleweil aune Salz ond Pfèffr.
+jk	37314	Dürrenwaldstetten	1	Er ißt dia Oièr ellaweil ohne Salz u. Pfeaffer.
+jk	37333	Hausen am Bussen	1	Er ißt dia Eḭer ällaweil ohne Salz & Pfḛffer.
+jk	37354	Baustetten	1	Er ißt d’Oier ällaweil ohne Salz und Pfäffr.
+jk	37369	Illertissen	1	Er ißt dEier allaweil ohne Salz und Pfeffr.
+jk	37388	Schenkenzell	1	Er ihs d’ Eier alleweil oni Sālz un̄ Pfäffer. 
+kl	37401	Aistaig	1	Ear ißt dia Eier im̅er aune Salz und Pfeffer.
+kl	3744	Rudnica	1	Hä eßt de Eier immer o͡ahne Solz un Feffer.
+kl	37555	Stetten bei Haigerloch	1	Ear ißt d O̰ier älla̰weil aṵm Salz und Pfeffer.
+kl	37571	Salmendingen	1	Ear ißt d’Oiar ällaweil aune Salz und Pfeaff’r.
+kl	37581	Bernloch	1	Er ißt d’Oier älla̰mo̰l ohne Salz u. ohne Pfeffer.
+kl	37598	Gundershofen	1	Er ißt d’ Oier älleweil ohne Salz u. Pfeaffer.
+kl	37607	Eggingen	1	Ear ißt dḭa O̰ier ällaweil ohnè Salz u. Pfèffèr.
+kl	37622	Holzheim	1	Ear ißt d’Oir ellaweil o̰̰hne Sālz u. Pfeffr._
+kl	37658	Oberwaldach	1	Ear ißt d’Eier älleweil ohne Salz u. Pfeffer.
+kl	37802	Bondorf	1	Er ißt d’Oier innmer ohne Salz u. Pfeffer.
+kl	37825	Lustnau	1	Ear ißt d’Oier älleweil aune Salz und Pfeffer.
+kl	37855	Dettingen an der Erms	1	’r ißt d’ Oier ällaweil ohne Salz ond Pfa̰ffer.
+kl	37862	Donnstetten	1	’r ißt d’Oier ällaweil ohne Salz ond Pfèffer.
+kl	37869	Radelstetten	1	Er ißt d’Oier em̅er ohne Sa̰lz ond Pfeffer.
+kl	37883	Ballendorf	1	Äar ißt diå Oier ällåweil ohne Saālz ond Pfèffr.
+kl	37900	Obermedlingen	1	Er ißt d’ Õier allmõhl ohne Salz ond Pfeffr.
+kl	37902	Raumünzach	1	Er ißt d’Eier alleweil(wiel)uhne Salz und Pfèffer.
+kl	37947	Schönaich	1	Ǎr(r) ißt d’Oiǎ̰r ällǎ̰weil (od. ender) ohne Salz u.[ond] „[ond]“ über „u.“ Pfeffer.
+kl	38044	Hünerberg	1	Ear ißt d Eier em̅er ohne Salz ond Pfeffer.
+kl	38056	Gechingen	1	Ear ißt d’Eier emter ohne Salz on Pfeffer.
+kl	38095	Denkendorf	1	Ear ißt diḛ Oier im̅er ohne Salz un Pfeffer.
+kl	38116	Albershausen	1	Eear ißt dia Oierer ällaweil ohne Salz ond Pfeäffer ä über e.
+kl	38136	Winzingen	1	Er ißt d’Kuachɑ̰ ällweil ohnn Sālz r. Pf[e?]ffr.
+kl	38146	Zang	1	Dear ißt d’Eier äwel ohne Sālz und Pfeffer.
+kl	38155	Auernheim	1	È͜ar Bogen unter „Ea“ ißt d’Ò͜ir Bogen unter „Oi“ äbl ohne Salz und Pfeffr.
+kl	38169	Dennach	1	A̰r ißt d’Aia̰r alla̰weil ohne Salz ǒn Pfèffa̰r.
+kl	38182	Tiefenbronn	1	Er ißt d’Aier alleweil ohne Salz und Pfeffer.
+kl	38348	Schöckingen	1	Er ißt d Eier emder ohne Salz u. Pfeffer.
+kl	38373	Hegnach	1	Er ißt d’Oier em̅er ohne Salz ond Pfeffer.
+kl	38407	Steinenberg	1	Dea̰r ißt d’O̰͆ier Breve noch oben drauf älla̰weil ohne Salz o̰nd Pfeffer.
+kl	38422	Ruppertshofen	1	Er ißt dia̰ Oier emer ohne Sahlz ond Pféffer.
+kl	38437	Fachsenfeld	1	Er ißt d’Oier äwel ohne Sālz ond Pfeffer.
+kl	38448	Baldern	1	Er ißt die Aoer im̅er ohne Salz u. Pfeffer.
+kl	38482	Kleinvillars	1	Er èßt d’Eiar allford ohne Salz on̄ Pfeffr.
+kl	38502	Hohenhaslach	1	Er ißt Eier allfurt ohne Salz on Pfeffer.
+kl	38623	Nendingen	1	Dr ißt d’Aier älleweil o̰n̄i Salz ṵnd Pfiaffḛr.
+kl	38640	Rohrdorf	1	De ißt d’Oier alleweil ohne Salz und Pfäffer.
+kl	38655	Völlkofen	1	Èr ißt dia Oier ém̅er ohne Salz und Pfèffér. _
+kl	38666	Reichenbach	1	Dǎ̰r ißt d’ Oier alla̰weil o̰hne Salz ṵnd Pfèffər. _
+kl	38682	Mittelbuch	1	Er ißt d’Oier alleweil ohne das Wort „ohne“ ist umgeben von 3 Fragezeichen, die ein Dreieck mit der Spitze nach unten bilden S ? u. Pfe͂a͂ffer.
+kl	38695	Unteropfingen	1	Er ißt d’Oier ɑlla[a/w?]eil ohne Salz u. Pfeffr.
+kl	3871	Dreetz	1	He ett de Eier ümmer oahne Solt un Päper.
+kl	38720	Kicklingen	1	Er ißt dOier allwei ohne Salz und Pfeffer.
+kl	38738	Westendorf	1	Ear ißt dia Oir ḭmmer ohnḛ Sālz und Pféffér.
+kl	38764	Waidhofen	1	Er ißt d Oar o̊iwei ōni So̊iz und Pfèffa.
+kl	38774	Eschelbach an der Ilm	1	Er ißt d’ Oa aiwei ohne Saiz und Pfeffá.
+kl	3880	Brunne	1	Aͤh eet diee Eier immer oahne Sold un Päper.
+kl	38863	Pöttmes	1	Der ißt dOar alwei ohni Soiz und Pfeffa.
+kl	3887	Sommerfeld	1	He et de Eier ümmer oohne Solt un Päper.
+kl	38899	Hebrontshausen	1	Er ißt d’Oa alleweil ohne Sa(o)lz „(o)“ über a und Pfeffa.
+kl	38912	Oberglaim	1	Er ißt d’ Eia im̅a ohne Salz und Pfeffa.
+kl	38935	Fronhofen	1	Ear ißt Oier allwei ohna̰ Salz ond Pfeffer.
+kl	3896	Malz	1	Er ett de Eier immer ohne Solt un Päper.
+kl	38963	Stepperg	1	Er ißt d’Oar z’meist’ ohne Sa̰lz und Pfeff’r.
+kl	3901	Stolzenhagen	1	Hä ätt de Eier oahne Sold und Peäper.
+kl	3906	Prenden	1	Hä et die Eier immer ohne Solt un Päper.
+kl	39062	Hafenreut	1	Er ißt die Eier alleweil ohne Salz u. Pfeffer.
+kl	39089	Gerolfing	1	Er ißt d Oiar allawei ohni Soiz und Pfēffa.
+kl	39103	Irsching	1	Er ißt die Oar im͞er ohne Salz und Pfeffa.
+kl	39116	Siegenburg	1	Er ißt d’ Oar allamal ohne Salz und Pfèffa.
+kl	39126	Semerskirchen	1	Er ißt die Oa immer ohne Solz u. Pfeffa.
+kl	39140	Hofkirchen	1	Er ißt Daja i͠ına ohni Soiz und Pfeffa.
+kl	39160	Dürrenzimmern	1	Er ißt dOier allwel ohna Sālz und Pfeffar.
+kl	39179	Gundelsheim	1	Er ißt doar ohni Salz und Pfeffr.
+kl	3919	Trampe	1	Ehr ißt die Eier innner ȏɑhne ɑ über o Solt u. Päper.
+kl	39201	Walting	1	Er ißt d’Oier allerweil ohne Solz und Pfèffa.
+kl	39293	Bieswang	1	Er ißt d’Oar uhna Solz und Pfeffer.
+kl	3931	Neureetz	1	hä ett de Eier oane Solt un Päper.
+kl	39317	Pondorf	1	Er ißt d Oa oweil ohne Solz und Pfäfer. (Eier=auch Oier.).
+kl	39329	Neukelheim	1	Er iß die Oar alle meil ohne Salz u. Pfeffer.
+kl	39342	Peising	1	Er ißt d’ E Oar ollamal ohee Salz ũno Pfeffa.
+kl	39356	Arlesried	1	Er ißt d’Oier ohne Sālz und Pfeafer.
+kl	39370	Türkheim	1	Ear ißt diea̰ Oier alla̰weil ohne Salz und Pfeffr.
+kl	39398	Gauting	1	Er ißt dOar aiwei ohne Soaiz u. Pfäffa
+kl	3944	Kurzycko	1	Hä itt de Eier immer oahne Solt un Peäper.
+kl	39459	Kaufering	1	Er gißt die Oar allaweil ohne Salz und Pféffa.
+kl	39475	Eching am Ammersee	1	Er sst d’Oar innna ohne Sɑlz und Pfeffer.
+kl	3949	Grzymiradz	1	hä itt di Eier ohne Solt un Päper.
+kl	39494	Perlach	1	E ißt die Oar imma ohni Salz u Pfäffa
+kl	39503	Zorneding	1	Er ißt d Oar imma ohne Soalz und Pfeffa.
+kl	39509	Albaching	1	N/A
+kl	39515	Sankt Leonhard	1	Er ißt d’Oar oiwei ohne Soez und Pfeffa.
+kl	39517	Niederraunau	1	Eǎr ißt d’Oiěr alleweil ohně Salz u. Pfeff’r.
+kl	39529	Walkertshofen	1	Er ißt di [O/E?]ir allaweil ohne Sălz u. Pfèffr.
+kl	39546	Oberottmarshausen	1	Er gi̮ßt Oiŕ ohna̰ Salz u. Pföffer.
+kl	3957	Lubiszyn	1	Ha itt de Eier immer oahne Solt un Peäper.
+kl	39647	Mittelstetten	1	Ear ißt d.’ Oar allaweil ohne Salz u. Pföffḛr.
+kl	3965	Heinersdorf	1	Ha itt die Eier immer ohne Solt und Päper.
+kl	39662	Bergkirchen	1	Er ißt dAar aiwei ohne Saiz r. Pfeffer.
+kl	39667	Unterschleissheim	1	Er ißt Ear Air im̅a ohne Sailz und Pfeffa. – 
+kl	39673	Moosinning	1	Er ißt d Oar allweil ohne Salz und Pfeffa.
+kl	39687	Oberdorfen	1	E͡a ißt d’O͡a oiwei onö Soiz und Pfeffa.
+kl	39693	Wettenhausen	1	Er ißt allaweil dOier ohne Salz u. Pfeffer.
+kl	39710	Zusmarshausen	1	Er ißt d’Oir allawei ohne Salz und Pfeffer.
+kl	39723	Täfertingen	1	Er ißt d’Euer im̅’r ohne Salz und Pfeaff’r.
+kl	39742	Gallenbach	1	Er ißt die Ei allewei uni Saiz und Pfeffa.
+kl	39865	Hilgertshausen	1	Er ißt d Oar allweil ohne und Pfeffr.
+kl	39880	Allershausen	1	Er ißt d’Oar oiweil a so, u. nim̅t koa Solz u. koan Pfeffa.
+kl	39891	Rast	1	Er ißt d’Oar äiwei ohne Säiz und Pfeffa.
+kl	39901	Vilsheim	1	Ǟa īsd d’Ōā āï̇wǐ ōhnö Sāï̇z u. Pfäffǎ.
+lm	39954	Sattelbogen	1	Dea ißt d Oa allamol ohne Solz und Pfeffa.
+lm	39962	Krailing	1	Er ißt d’Ȏa oalla wei oahnö Soâlz und Pfeffa.
+lm	39968	Oberried	1	Er ißt Ioia awai ohne Soiz und Pfeffa.
+lm	40000	Pertolzhofen	1	Er ißt d’Oia innner ahne Salz und Pfeffa.
+lm	40012	Tiefenbach	1	Er ißt d Oia allaweil ohne Solz und Pfeffa.
+lm	40047	Pemfling	1	Er ißt ollaweil d’Oia ohne Solz u. Pfeffa.
+lm	40057	Arnschwang	1	Ar ißd d’O͞iã(r) imma ohne Tilde unter „oh“ Solltz und Pfā̊ffa.
+lm	40112	Wald an der Alz	1	Er ist d’Oa oiwei one Soiz und Pfefa.
+lm	40137	Ranoldsberg	1	Er ißt d’ O͡a aëwei ohne Soölz und Pfeffa.
+lm	40145	Erharting	1	Er ißt d’Oar ohnö Sāǒz und Pfeffa oiwei.
+lm	40155	Gumpersdorf	1	Er iß d Oa allwei ohnö Salz u. Pféffa
+lm	40191	Vilsbiburg	1	Ea’ ißt d Oar alla’wei ohni Soalz u. Pfeffa.
+lm	40202	Gangkofen	1	Ea(r) ißd d’O͜ar Bogen unter „Oa“ oiwei ohnö Soiz und Pfeffa.
+lm	40212	Neuhofen	1	Èr ißt d’Oá alliwei ahni Soiz und Pféffá.
+lm	40220	Bad Birnbach	1	Er ißt d Oa oiwei ohnö Soiz u. Pfeffa.
+lm	40231	Ruhstorf an der Rott	1	Der frißt d Oar oiwei ohnö Saiz und Pfeffa.
+lm	40274	Wörth an der Isar	1	Er ißt d’ Oa(a hell) oiınoi anö Soiz und Pfeffa.
+lm	40286	Griesbach	1	Er ißt dOar alloıweil ohne Solz un Pfeffer.
+lm	40297	Indersbach	1	E(r) ißtdOa oimoi ohnö Soiz und ohnö Pfeffa.
+lm	40308	Walchsing	1	Er ißt d’ [O?]ar großer Kringel drunter allemal ohne Salz u Pfeffa
+lm	40320	Kirchberg	1	Er ißtdOa oweil ane Solz und Pfeffa.
+lm	40331	Haag	1	Er ißtd’Oa oiwei anö Soiz u. Pfeffa.
+lm	40402	Hankofen	1	Ea frißt d Oar allawei ohne Solz u. Pfäffa.-
+lm	40414	Plattling	1	Er ißt d Oa allǎwei(l) ohne Soi(l)z und Pfeffǎ.
+lm	40420	Auerbach	1	Ea ißt d’Oia ohne Soiz und Pfeffa.
+lm	40428	Saldenburg	1	Der ißt D d’ Ea(i) a so; er braucht nöt anmal Salz u. Pfeffa.
+lm	40439	Karlsbach	1	Er ißt dȆier im̅er ohne Soitz und Pfeffa.
+lm	40516	Steinach	1	Er ißt d Aier oa̮lmoa̮l ohne Soiz u. Pfäffa.
+lm	40524	Perasdorf	1	Er ißt d’Êier oiwei Zirkonflex über „oi“ anö Sôiz und Pfȧffā.
+lm	40531	Regen	1	Ea ißt d’ Oa allawei ohne Solz und Pfeffa.
+lm	40535	Klingenbrunn	1	Er frißd’d Oia a̭llamma̭ö anö Sa̭öz und Pfeffa.
+lm	40538	Riekofen	1	Ea (:Er:) ißt d’Oa /:Eier:/ allamal ohne Salz und Pfeffa.
+lm	40597	Lindau (Bodensee)	1	Ear ißt d’Eier allewil (allat) ohne Sālz und Pfeaffer.
+lm	40605	Schnellers	1	Ar ißt dŌier allāt ōhne Sālz u. Pfèāffér.
+lm	40613	Ratholz	1	Ea̰ ißt dAiěr allat ohna̰ Sa̰lz und Pfe̓afr.
+lm	40637	Eschbach	1	Er ißt d’ Eier immer uni Salz und Pfeffer.
+lm	40655	Erzingen	1	Er ißt d’ Eier im̅er uhni Salz und Pfeffer._
+lm	40757	Schienen	1	Er ißet d’Eier alleweil uhne Salz und Pfeffer.
+lm	40771	Wollmatingen	1	Er ißt d’Eier allewihl uni Salz und Pfeffer . _
+lm	40785	Kluftern	1	Ar ißt d’Oier allawiel ohne Salz und Pfeaffer.
+lm	40798	Obereisenbach	1	A̰r iß d O̰ia̰r allfu̮t o̰nga̰ Salz und Pféaffḛr.
+lm	40807	Ratzenried	1	A͂̂r Tilde und Zirkonflex über A ißt d’ Aͦiãr allad ohne Salz u. Pfeffér.
+lm	4081	Bantikow	1	he ä̆t de Eier ümmer ån Solt un Päper.
+lm	40819	Kreuzthal	1	A ißt d’Eier allat ohne Salz und Pfeaffer
+lm	40844	Münchingen	1	Dǎ ißǎt d Āier allǎwiel uni Salz und Pfäffer.
+lm	40863	Tengen	1	Er ißt d’Eier alla̰wil uhne Sālz und Peff Pfeffer.
+lm	40898	Billafingen	1	Er ißt die Oier allewil uni Salz und Pfefer
+lm	4093	Kränzlin	1	Het ett de Eier üm̅er ohne Sold un Päper
+lm	41018	Eigeltingen	1	De isset d’Aier allewiel ohne Saalz und Pfeffer.
+lm	4102	Seebeck	1	He ett de Eier immer ohne Sold und Päper
+lm	41049	Illmensee	1	Er ißt d’Oier allewīl ohni Sālz un Pfeffer.
+lm	41057	Baindt	1	Ar ißt dOier allawil ohne Salz u. Pfeaffer.
+lm	41064	Ziegelbach	1	Ear ißt d’Oier allet o̰hne Salz und Pfeaffér.
+lm	41076	Maria Steinbach	1	Dear ißt d’Oier allat ohna Salz u. Pfeaffér.
+lm	41086	Waldau	1	Er ißt d’Aier allewīl ohne Salz un Pfeffer.
+lm	41098	Hubertshofen	1	Er ißt d’ Eier allaweil ohni und Pfeffer.
+lm	41114	Öfingen	1	Er ißèt d’Aièr um̅ètèr uhné Salz und Pfèffèr.
+lm	4112	Klein-Mutz	1	He ett’ de Eier immer oahne Solt un Päper.
+lm	4119	Gross Dölln	1	Hä ett de Eier oahne Solt und Päper.
+lm	41200	Masevaux	1	arr isst d’Eier āllawīll ohna Salz unn Pfaffr.
+lm	41214	Aspach-Le-Bas	1	tr ißt d’Eiǎr imm’r ohnǎ Salz un Pfaff’r.
+lm	4123	Senftenhütte	1	Häh ett de Eier ümmer oahne Solt un Päper.
+lm	41245	Lipburg	1	Er ißt d’Eier allewiel ohn[é?] Salz und Pfäffer.
+lm	41262	Utzenfeld	1	Er ißt die Aier allewil uhni Salz un’ Pfeffer.
+lm	41275	Schluchsee - Blasiwald	1	De ißt d’E Aier uni Sālz und Pféffer.
+lm	41296	Oberentzen	1	Ar ißt d’Eier allewil ohna̬ Salz un Pfaffr.
+lm	41309	Feldkirch	1	Èr ißt d’ Eier alliwiel uhni Salz un Pfäffer.
+lm	41336	Kappel	1	Er ißt d’Aier allewiel ohne Salz und Pfeffer.
+lm	41351	Urbès	1	Ar ißt d’Aier allewil ohne Salz un Pfaffer.
+lm	41365	Rimbach-Près-Guebwiller	1	Ār èßt d’Eier immér ǒhna Salz un Pfǎff’r.
+lm	4142	Stoki	1	Hä et de Eier immer oane Sold un Päper.
+lm	41460	Rixheim	1	Ar èsst d’Eier allewil ohne Salz un Pfaffer.
+lm	4152	Stoleczna	1	He|ä ett de Eie(ä) ummaä oahn Sold un Pe(ä)pe(ä).
+lm	41566	Ranspach-Le-Bas	1	Ar ihst d’Eier allewil ohna Salz un Pfaffr.
+lm	41598	Lörrach	1	’R ißt d’Eier allewīl ohni Salz und Pfäffer.
+lm	4161	Glazow	1	Hä ett de Eia ümma oan Sŏlt un Päpa.__
+lm	41623	Hütten	1	Er ißt d’ Eier allewiel uhni Salz und Pfäffer.
+lm	41653	Largitzen	1	Er ißt d’Eier allewill ohne Salz un ohne Pfeffer.
+lm	4171	Okunie	1	He et de Eier im̅er ohn Sult un Peper.
+lm	41714	Lucelle	1	Ǎr ißt d’Aiǎr imm’r ohnǎ Sallz un Pfǎff’r.
+lm	41785	Höhenrain	1	Er ißt d’Oar àiwei ohni Sàiz und Pfäffa.
+lm	41801	Grosshöhenrain	1	Er ißt dOa(r) ohne Soiz und Pfäffa. (Pfèffa)
+lm	41811	Tattenhausen	1	Ea ißt d’Oa oiwei ohnö Soaiz und Pfeffa.
+lm	41819	Ollarzried	1	Er ißt die Eier immer ohnḛ = alled, u. allád oben drüber Salz und Pfeaff’r
+lm	41836	Kaufbeuren	1	Er ißt Eeer allemal ohne Salz ond Pfeffer.
+lm	41845	Denklingen	1	Ear gißt d’Oar allat ūh Sālz u. Pfeffar.
+lm	41855	Raisting	1	Er ißt dOar allaweil ohne Salz und Pfeffa.
+lm	41872	Baiernrain	1	Er ist d/Oar owe ohne Soiz und Pfeffa
+lm	41932	Huglfing	1	E͡a ißt d’Oar alleweil ohne Solz un Pfeffer.
+lm	41939	Penzberg	1	Er ißt die Oar allowei ohne Salz und Pfeffa.
+lm	41948	Reichersbeuern	1	Er ißt d Oar alliwei ohne Salz u. Pfeffer.
+lm	41953	Parsberg	1	Er ißt die Oar im̅a ohne Salz und Pfeffa.
+lm	41963	Kirchdorf am Inn	1	Er eßt Oa̰r allweil ohne Soiz u. Pfeffa̰.
+lm	41969	Aschau im Chiemgau-Niederaschau	1	Er ißt d’Oa im̅a ohne Solz u. Pfäffa.
+lm	41971	Betzigau	1	A ißd dAier allad o̰na Salz und o̰n an Pfeaffr.
+lm	41980	Sulzschneid	1	A gißt diă Ei’r alla ohna Salz u. Pfeffer.
+lm	41986	Steingaden	1	Er gißt d’ oir alleweil ohna Salz u. Pföffer.
+lm	42039	Bayerniederhofen	1	Er gißt d’Ar alla ohna Salz und ohn an Pfeffer.
+lm	42049	Jachenau	1	Er ißt d’ Oar [a?]lleweil ohne Salz un Pff Pfeffa.
+lm	42056	Unterjoch	1	Er ißt die Eier alleweil ohne Salz u. Pfeffer
+mn	42062	Oberau	1	Er ißt d’Oar olewei ohnì Solz und Pfeffa.
+mn	42070	Eggstätt	1	Er ißt d’ Oar oiwei ohne Soiz und Pfeffa.
+mn	42076	Traunwalchen	1	Er ißt d’Oa āiwĕi āhn̆i Saiz und Pfēffă.
+mn	42084	Kirchanschöring	1	Er ißt Oar allweil ohne Solz und Pfeffa.
+mn	42116	Ruhpolding	1	Er ißt d’ Aor allwei ohnö Saiz u. Pfeffa.
+mn	42118	Anger	1	Ea ißt d’Oa aiwei one Saiz und Pfeffa
+mn	42132	Ramsau bei Berchtesgaden	1	Er ißt d’Oar ohne Salz und Pfeffa.
+mn	42140	Hachiville	1	Hén éßt Eier émmer one Salz a Pefferkrout.
+mn	42166	Niederwampach	1	Heen est d’ Äer emmer one Salz a f Peffer.
+mn	42180	Neidhausen	1	Hén est d’ Èr emmer ohné Salz an Péfer.
+mn	42236	Ettelbrück	1	Hiên ésst d’ Èr émmer ōné Sals a Peffer.
+mn	42254	Rambrouch	1	Hîen êsst Eeer emmer ûone Sâlz a Peffer.
+mn	42302	Eischen	1	Hén esst d’Èr emmer ohní Sālz a Peffer.
+mn	42316	Hünsdorf	1	En ěst Èer ěmmer uoné Sǎlz a Peffer.
+mn	42341	Biwer	1	En est d’Èr emmer ohně Salz a Pèfferkraût.
+mn	42414	Uewerkuer	1	Hén escht d’ Éer emmer òní Sälz a Peffer.
+mn	42431	Peppange	1	Hiěn escht d’ Eér uni Salz a fieffer ěmmer.
+mn	42469	Schwarzenbach an der Pielach	1	Er isst de Eija olmoj une Sojz und Pfeffa.
+mn	42470	Lehenrotte	1	Er ißt d’Eier imma ohm Solz und Pfeffa.
+mn	42472	Thal	1	Er ist d’ Eia ima ohne Sålz und Pfeffa.
+mn	42477	Grillenberg	1	Ea isst de Eia ollaweu ohni Soiz und Pfeffa.
+mn	42520	Schneebergdörfl	1	Er ißt d’Oa ollweil ohne Solz u. Pfeffer.
+mn	42527	Mollram	1	Er ißt dö Oa ständi ohne Solz und Pfeffa.
+mn	42532	Frein an der Mürz	1	Ea ißt d’Oa imma ohne Salz und Pfeffa.
+mn	42571	Massing	1	Er isst di Oar imma ohne Sålz u.Pföffa.
+mn	42573	Semmering	1	Ea ißt d Eia imma ouhni Soiz.
+mn	42587	Feistritz am Wechsel	1	Er ißt d’Eia(Or) olliwai ohni Soiz und Pfeffa.
+mn	42612	Gleichenbach	1	Er ißt  d’Oa ollawäu ouni Soiz und Pfe iffa.
+mn	42635	Weiden am See	1	Ea ißt die Oa ollweil ohni und Pfeffa.
+mn	42637	Nickelsdorf	1	Er ißt d Oa ollaweil aoni Solz und Pfeffa.
+mn	42640	Siegersdorf	1	Er ißt dö Eia imma ohne Sålz und Pfeffa.
+mn	42647	Stotzing	1	Er ißt die Oa ollawal ohni Solz und ohni Pfeffa 
+mn	42670	Wieselburg (Mosonmagyaróvár)	1	Ea isst te eia imma auni Soits und Pfe(i)ffa
+mn	42688	Andau	1	Er ißt die Eia ohne Solz und Pfeffa.
+mn	42691	Wiesen	1	Er ist a Oa ohne Sålz und [G?]feffa.
+mn	42701	Baumgarten	1	Ea isst die Oa imma ohne Solz und Pfeiffa.
+mn	42706	Apetlon	1	Ear’ isst die Oar ollaweil eouni Solz und Pfeiffa’.
+mn	42722	Horitschon	1	Er iszt die Oa (Eier) imma ohne Solz ŭ̑. Pfēiffa.
+mn	42728	Holling (Fertőboz)	1	Simi. Ea isst ti Oa olliwall aumni Solz.
+mn	42748	Frasnacht	1	Er isst-Eier immer ohni Salz und ond Pfäffer.
+mn	42821	Rietli	1	Er esst d'Eier ohni Salz ond Pfeffer.
+mn	42843	Hohenems	1	Er ißt d Oier all ohne Salz und Pfeaffar.
+mn	42850	Bizau	1	Ar eoßt d’Oajor allat ohne Solz und Pfeaffor.
+mn	42856	Riezlern	1	Är ißt d’ Aier alleg ohne Solz ond Pfaffer.
+mn	42908	Gamprin	1	Er esst d’ Eier albis ohne Salz und Pfeffer.
+mn	42926	Röns	1	Der issat d. Eier albi[s?] ohnn Salz u Pfeffer.
+mn	4293	Brielow	1	Hä ett die Eier immer ohne Solt un Päper.
+mn	42933	Buchboden	1	Er isd d-Eier allbi ohne So ͜  alz und Pfäffer.
+mn	42939	Lech	1	r’ißd d’Ei’r allig ohn Sålz ond Pfäffr.
+mn	42970	Sargans	1	är isst d’Eir albig uni Saalz und Pfäffr.
+mn	42977	Schruns	1	Er ißt d’Eier allig ohne Salz und Pfäffer.
+mn	42985	Vils	1	E[?]a͞r ißt die Oar alla ohne Salz und Pfeffer.
+mn	43004	Hinterhornbach	1	Der ißt d Oar ålbå ohnå Sålz und Pföffr.
+mn	43013	Rinnen	1	Er ißt d’Oar albe̊ ohne̊ Salz und Pfeffe̊r.
+mn	43021	Ehrwald	1	Er ißt d’Oa albå ohnå Salz un Pföffer.
+mn	43022	Leutasch	1	Er ißt d Oer olm una n Solz und Pföffer.
+mn	43027	Bach	1	Er isst dia Oahr ålba ohna Sålz und Pföffer.
+mn	43037	Silzerberg	1	Er ißt d’Oar ålbn ohne Sålz und Pföffer.
+mn	43055	Hatting	1	Er ißt die Oar allaweil una Soalz und Pföffar.
+mn	4306	Deetz	1	Er ett de Eier immer oahn Sold un Päper.
+mn	43070	Mils bei Imst	1	Ear ißt d’Oar olli ohna Solz und Pföffar
+mn	43122	Unterried	1	Er isset d’Oar ohn Salz u. Pfeffer.
+mn	43133	Holdernach	1	Ar ißt d Aar olli ohna Solz u. Pföffar.
+mn	43152	Kauns	1	Ear ißt d Oar oͣlli ouna Soulz und Pföffr.
+mn	43161	Unterberg	1	Er íßt die Oar alm uhne Salz und Pföffer.
+mn	43162	Pertisau	1	Er ißt die Oar al̃wail̃ emi Sal̃z (Soiz) und Pfeffa.
+mn	43173	Brixlegg	1	Ea ißt dö Oa oim oni Soiz und Pfeffa.-
+mn	43183	Penningdörfl	1	Er iißt die Eoar oiwei ohne Soiz und Pfeffa.
+mn	4321	Fahrland	1	Hä et die Eier immer oahne Solt und Päper.
+mn	43210	Innsbruck	1	Ear ißt die Eier ålm ohne Sålz und Pföffer.
+mn	43224	Kolsassberg	1	Er ißt die Oar alleweil uhni Sålz und Pfeffar.
+mn	43251	Aschau im Zillertal	1	Er ißt Oara allweil ohnan Solz und Pföffer.
+mn	43280	Krimml	1	Ea ißt d’ Oa oivàöl unni Sålz und Pfeffa.
+mn	43285	Trins	1	Ear ißt die Ōare olm un an Solz und Pfeffer.
+mn	43288	Dornauberg	1	Ear ißt d’ Oare „Oare“ nicht in Kurrent alm unan Sâlze u. unan Pföffr.
+mn	4329	Steglitz	1	he ät de Eier immer ohne Soalt un Päper.
+mn	43297	Schmirn	1	Ear ißt de Oare ålm uhnan Sålze und Pfeffer.
+mn	43301	Kitzbühel	1	E͡a i̊ßt d’O͡ar e͡iwei ūni̊ So͡iz und Pfeffa.
+mn	43303	Hochfilzen	1	Er ißt die Oar ålm ohne Sålz u. Pfeffa.
+mn	43310	Saalfelden am Steinernen Meer	1	Ea ißt d’Oa åiwei uhnö Salz (z scharf gesproch) und Pfeffa.
+mn	43315	Werfen	1	Er ißt d’ Oa oawei uhne Soåöz und Pfeffa.
+mn	43331	Bramberg am Wildkogel	1	Er ißt die Oa åiwai une Såiz und Pfefa.
+mn	43340	Niedernsill	1	Ear ißt d’Oa åi(l)wei ohnö Såiz und Pfeffa.
+mn	43347	Sankt Georgen	1	Er ißt dö Oa ållweil ohne Sålz und Pfeffa-
+mn	43354	Goldegg	1	Er ißt d’Oa õiwei (=immer) uni Sålz und Pfeffa.
+mn	43359	Kleinarl	1	Er ißt d’Oa åiwei ohne Såiz und Pfeffa.
+mn	43372	Bad Gastein	1	Ea ißt d’ Oa åiwei onö Sålz und Pfeffa.
+mn	43378	Berg-Gruben	1	Ea ißt die Oa une Sålz und Pföffa.
+mn	43379	Heiligenblut	1	Er ißt di Oa alleweil ohne Sålz und Pfeiffa.
+mn	4338	Köpenick-Kietz	1	Er et de Eier immer ohne Solt un Peper.
+mn	43381	Sankt Martin am Tennengebirge	1	Er isst die Eia allweil ohne Salz und Pfeffa.
+mn	43384	Ramsau	1	E ist d’Oā ugsalz[tı?] ia ugfeffascht
+mn	43391	Assach	1	E ißt d’ Oa ållweil une Sålz s Pfeffer.
+mn	43393	Donnersbach	1	E isst d‘ Oa o̊iwai one Sålz und Feffa.
+mn	43412	Untertauern	1	E ißt dö Oa oiwei ohni So̊iz und Pfeffa
+mn	43420	Pöllau	1	E’ ißt die Oar ollwal auhni Solz und Pfeffa.
+mn	43427	Oberweissburg	1	Ä ist dö Oa åiwei ohne So̊iz und Pfeffa.
+mn	43433	Sauerfeld	1	Er ißt d’OAlala o̊iwei o̊hne Soåiz und Pfeffa.
+mn	43439	Ranten	1	E ißt die Oa ållwei ohne Sålz und Pfeffa.
+mn	43453	Strechen	1	Er ißt die Oa ima om Salz und Pfeffa.
+no	43455	Treglwang	1	Er ißt die Oar allweil ohne Sɑlz u. Pfeffa
+no	43457	Kalwang	1	Er ißt d’Eia imma auni Solz und Pfeffa.
+no	43458	Trofaiach	1	Er ißt d’ Oa imma ohne Solz und Pfeffa.
+no	43462	Hafendorf	1	Er ißt d’Oa, ollwoll o̊hni Solz und Pfeffa.
+no	4347	Herzfelde	1	He ett de Eier immer o͡ahne Sold un Päper. 
+no	43480	Sankt Michael in Obersteiermark	1	Er iszt de oar oulwal oune Solz und Pfeffa.
+no	43488	Pusterwald	1	E’ ißt di Oa ollwa aune Solz und Pfeffa.
+no	43489	Sankt Oswald	1	Er ȋßt die Oar alliveil ohne Salz und Pfeffa.
+no	43494	Sankt Marein bei Knittelfeld	1	Ea iszt d’ Eia (imma =) ollweil ohni Solz und Pfeffa.
+no	43497	Frohnleiten	1	Er ißd de Óa íma uni Solz (l rütkw.) und Pféifa.
+no	43505	Sankt Peter ob Judenburg	1	Ea ißt die Oa ohne Solz u. Pfeffa.
+no	43530	Teufenbach	1	Er ißt die Oa immer ohne Solz und Pfeffa.
+no	43534	Sankt Johann	1	Er ißt die Oa allerweil ohni Solz und Pfaffa.
+no	43537	Kainach bei Voitsberg	1	E ißt die Oa ollawal ohne Solz und Pfeffa.
+no	43544	Gratwein	1	Er ißt die Oa ohne Solz und Pfeffa.
+no	4357	Tempelberg	1	Er it die Eèèr umner ohne Solt u Peper
+no	43576	Fochnitz	1	Er ißt die Oar allweil ohne Solz u. Pfeffer erstes e lat..
+no	43579	Wenigzell	1	Er ißt d’Or ollewɑl auni Solz und Pfeffer.
+no	43633	Ehrenschachen	1	Er ißt die Oa ollawal ohni Solz u. Pfeff[er/a?].
+no	4364	Döbberin	1	Är it die Eier oahne Solt und Päper.
+no	43640	Salmannsdorf	1	Er isst d oa oliwal ǫni solz und pfȩifa.
+no	43662	Sankt Kathrein am Offenegg	1	Er ißt d’Oa innna ouni Solz und Pfeffa.
+no	43699	Siget in der Wart	1	Er isst die Oa ima ohne Solz und Pfeife.
+no	43715	Stubenberg	1	Er ißt d’Oa immer ohne Salz und Pfeffer.
+no	43726	Unterrohr	1	Er ißt die Oa furt ohne Salz und Pfeffa.
+no	43756	Eggersdorf	1	Er ißt die Oa imma un̄i Sålz und Pfe(i)ffa.
+no	43761	Sinabelkirchen	1	Ea ißt di Oa im̅er auni Solz und Pfeffa.
+no	4377	Pamiecin	1	Hä itt die Ere immer ohne Solt und Päiper.
+no	43773	Bad Blumau	1	Er ißt die Oa imma uni Solz u. Pfeffa.
+no	43782	Deutsch Tschantschendorf	1	Er ißt die Oa imma ohni Solz und Pfe-iffa.
+no	43850	Klostermarienberg	1	Er ist ißt d’Oa ollwl auni Solz und auni Pfeiffa.
+no	4388	Grabno	1	Er ißt die Eere im̅er ohne Salz und Pfeffer.
+no	43889	Moschendorf	1	’r isst d’ Oa ollawal aohne Solz und Pfeiffa.
+no	43896	St. Jakob	1	Er ißt nie kå Sålz zi di År.
+no	43905	Oberpeischlach	1	Ea ißt die O̊ olm uhne Sålz u. Pfe̊ffa.
+no	43909	Mörtschach	1	Er ißt die År ouhne Sålz und Pföifa.
+no	43910	Flattach	1	Er ißt d’ Oa ohne Sålz und Pföffer.
+no	43938	Kolbnitz	1	Er ißt die Eier alleveil ohne Salz und Pföffer.
+no	43939	Ausservillgraten	1	Er ißt die Goggilan ŏlm uhne Sŏlz und Pfeffŏ.
+no	43948	Assling	1	Ehr ißt die Oar immer une Salz und Pfeffer .
+no	43959	Lindsberg	1	Er ißt die Eia ålm ohne Sålz und Pfeffa. 
+no	43977	Kornat	1	Er ißt dö alan alm ohne Sålz u. Feffer.
+no	43982	Berg im Drautal	1	Er ißt die År olm ohne Sålz und Pfö̇ifa.
+no	43988	Goderschach	1	Er ißt do Eier aleweil ohne Solz und Pfoffr.
+no	4400	Trzemeszno Lubuskie	1	Er ißt die Eire immer ohne Salz un Pfeffer.
+no	44006	Kremsbrücke	1	Är ißt tö O̮r ållawal ohnö Såulz und Pföffa.
+no	44010	Oberhof	1	Er ißt dö Oar olleweil ohne Solz und Pföffar.
+no	44038	Kleblach-Lind	1	Er ißt die Alan immer ohne Salz u. Pföffer.
+no	44040	Obermillstatt	1	Er ißt de Eier allewil ohne Sålz u. Pföffa.
+no	44054	Patergassen	1	Er ißt de Ålen ollaweil ohne Sålz u. Pfefa.
+no	44056	Steuerberg	1	Er tuat die Aalen ållewal ohne Sålz und Pfēfer ēs’n.
+no	44109	Hermagor	1	Er ißt die Oalan ållwal oune Sålz und oune Pfefar.
+no	44117	Bleiberg-Kreuth	1	Ar ißt de Alan ålleweil ohne Pfeïfar und Salz.
+no	44124	Villach	1	Er ißt die Eia imma ohne Sålz und Pföfa.
+no	44142	Schiefling	1	Er ißt die Eier immer ohne Solz und Pföffer.
+no	44162	Suetschach	1	Er ißt die Eia imma ohne Sålz und Pfeffa.
+no	44174	Sankt Salvator	1	Er ißt die Oar ållawal ohne Sålz und Pfeffar
+no	44182	Heft	1	Er ißt die Åalan ållewal ohne Sålz u. Pföffar.
+no	44189	Schiefling	1	Er ißt die Oar ollawal ouhne Solz u. Pfeffer.
+no	44196	Modriach	1	E ißt die Oa olewa ohne Solz und Gpfeffa.
+no	44200	Launegg	1	Er ißt die Oa imma ohni Solz und G’feffa.
+no	44234	Obermühlbach	1	Er ißt di Eier ohne Sâlz und Pföffa.
+no	44243	Hochfeistritz	1	Er ißt die Oalan imma ohne Solz und Pföfa.
+no	44248	Sankt Andrä	1	Er ißt die Oar oll[?]nâl ohne Solz u. Pfef’r.
+no	44256	Glashütten	1	Er ißt di Oa aollwal ohni Solz un Gfeffa.
+no	44261	Sankt Peter im Sulmtal	1	Er ißt die Oa.
+no	44295	Oberhaag	1	Ea ißt di Oa ima oni Solz un Pfe(i)fa.
+no	44303	Klagenfurt-Harbach	1	Er ißt de Oalan alleweil ohne Salz und Pefa.
+no	44308	Eberndorf	1	Er ißt die Eia immer ohne Sålz und Pföffa.
+no	44313	Lorenzenberg	1	Er ißt die Oalan ållwal ohne Sålz und Pfefer.
+no	44314	Sankt Margarethen	1	Er ißt di Eia ima ohne Sålz u. Pfefa.
+no	44320	Bad Eisenkappel	1	Er ißt die Eia imma ohne Solz und Pfeffa.
+no	44333	Paldau	1	Er ißt die Oa imma ohne Solz und Pfeffa.
+no	44347	Hohenbrugg an der Raab	1	Er ißt die Eiaa imma uhni Solz und Pfeffa.
+no	44358	Mogersdorf	1	Ea ist die Oa imma ohni Soltz und Gfeffa.
+no	44371	Allerheiligen bei Wildon	1	Er ißt die Eier Oar ohne Solz und Pfeffa.
+no	44398	Leibnitz	1	Ea ißt di Oa ollwal auni Solz un Pfeifa
+no	44414	Klöch	1	Er ißt d’ Oar ollawal auhna Solz un(d) Pfeffa.
+no	44425	Ratschendorf	1	E' ißt d' Oa imma ohne Solz und Pfeffa.
+no	44433	Langegg	1	Er ißt d’ Oa imma ohne Solz un’ Pfeffa.
+no	44439	Ebental (Polom)	1	Ar issät dä Oiär duch auhnin Sauz und Pfaffr.
+no	44442	Steinwand (Podstenice)	1	Ar issät da Oiar duch o͜uhnin Bogen unter „ou“ Sholz und Pfaffr.
+no	44445	Obergras (Trava)	1	Ar issat d’Oir zaweid’n uan in Shauz un Pfaffr
+no	44447	Göttenitz (Gotenica)	1	Er aʃʃót dó Ear ing uhnó Scholz ónd Pfaffr
+no	44454	Nesseltal (Koprivnik)	1	Ar ishot do Oior duchalei unin Shauz und unin Pfaffr 
+no	44461	Tiefenbach (Briga)	1	Ar iss ät dä Oiär duchallei uhnä Sholz und Pfaffr.
+no	44465	Unterlag (Spodnji Log)	1	Ar íssät dä Oijär düch únin shautz ünd Pfeffär.
+no	44519	Wildensbuch	1	Er ißst d’Eier ohni Salz und Pfeffer.
+no	44610	Wittenwil	1	Er isst d’Eier alewill ohni Salz und Pfäffer
+no	44685	Neukirch an der Thur	1	Er esst d Eier immer ohni Salz und Pfeffer.
+no	44770	Mont-Tramelan	1	Är isst d’Eier gäng ohni Sanz u Pfäffer.
+no	44771	Pieterlen	1	Är isst d'Eier gäng ohni Salz u Pfäffer.
+no	44796	Merzligen	1	är isst d’Eier ohni Salz u Pfäffer.
+no	44801	Gals	1	Er isst d’Äier gäng ohni Salz u Pfäffer.
+no	44832	Huggerwald	1	Är isst d’Äier ī̭mmer ǒhni Sǒ̭uz ǒnd Pfäffer.
+no	44851	Ziefen	1	Aer isst d'Eier alliwil oni Solz und Pfäffer.
+no	44858	Anwil	1	Är isst d’Eier allewil ohni Solz und Pfäffer.
+no	44888	Umiken	1	Er [eis?]t d’Eíer imer oni Salz und Pfeffer.
+no	44994	Gänsbrunnen	1	Är isst d'Eier immer ohni (Sal) Sauz und Pfäffer.
+no	45009	Oensingen	1	Är isst d'Eier immer ohni Sauz und Pfäffer.
+op	45022	Mühlethal	1	er isst d’èier immer òni salz und pfäffer.
+op	45067	Meisterschwanden	1	Er ì̇sst d’eier ìm̅er oni sauz ùm pfäffer.
+op	45192	Mülchi	1	Er isst d’Eier immer ohni und Pfeffer.
+op	45195	Eigenthal	1	Är esst d’Eier immer oni Salz and Pfäffer.
+op	4521	Wollin	1	Heä ett deä Ei’r oane Solt un oane Peäper.
+op	4527	Rädel	1	He ät de Eier ümmer oahne Sōlt und Päper.
+op	45279	Hildisrieden	1	Är isst d’Eier immer ohne Salz und Pfäffer.
+op	45299	Willisau	1	Är isst d'Eier immer ohni Salz und Pfäffer.
+op	45312	Bleuen	1	Är isst d’Eier gäng ohni Sau(l)z „(l)“ über u u Pfäffer.
+op	45345	Dielsdorf	1	Er isset d’ Eier alliwil ohni Salz und Pfäffer.
+op	45356	Unterwagenburg	1	Er ist Eier immer oni Salz und Pfäffer.
+op	4539	Wildenbruch	1	hä et de Eier ümmer oahne Solt un Pääper.
+op	45474	Boden bei Fischenthal	1	Er ißt d’ Eier alliwil ohne Salz und Pfeffer.
+op	4549	Löwenbruch	1	Ha ätt de Eiere im̅er oahne Solt un Peäper.
+op	45492	Dicken bei Degersheim	1	Er esst d’Eier all ohni Salz und Pfeffer.
+op	45501	Bonstetten	1	Er ißt d’Eier immer ohni Salz und Pfeffer.
+op	45529	Riedikon	1	Er isst die Eier immer uni Salz und Pfäffer.
+op	4560	Deutsch Wusterhausen	1	Er et die Eier immer ohne Sold und Päper.
+op	45611	Feusisberg	1	Er isst d'Eier immer ohni Salz und Pfäffer.
+op	45627	Starkenbach	1	Er ersst d'Eier allewilligs ohni Salz und Pfeffär.
+op	45630	Risch	1	Er uiid d'Eier neumen eistig ohi Salz & Pfäffer.
+op	45644	Reichenburg	1	Er isst d’Eier immer ohni Salz u. Pfäffer.
+op	45692	Süri	1	är isst d’Eier geng ohni Sauz u Pfäffer.
+op	45694	Courlevon	1	är isst d'Eiär ging ohni Sauz u Pfäffär
+op	45716	Brünisried	1	Är isst Eier ging ohni Salz u. Pfäffer.
+op	45718	Ferpicloz	1	Er isst d'Eier ging ungsauze u ungpfäfferet.
+op	45722	Abländschen	1	Är isst d'Eier ging ohni Salz u Pfäffer.
+op	4573	Neu Golm	1	Er eßt die Eiere immer ohne Salz und Peffer.
+op	45734	Dentenberg	1	Âr isst d’Eier ohni Sauz u Pfâffer.
+op	45758	Mutten	1	Er isst d Eier gäng ohni Sauz u Pfäffer.
+op	45764	Oberfrittenbach	1	Er isst d’Eier gäng ohni Sauz u Pfäffer.
+op	45784	Schüpfheim	1	Är isst d'Eiär immär noni Sauz uond Pfäffr.
+op	458	Wietrzno	1	Hei ett dei Ege imme oahe Sullt un Päpe.
+op	4584	Hohenwalde	1	Er ißt die Eier immer ohne Solls und Peffer.
+op	45863	Gurzelen	1	Er isst d’Eier gä[n/u?]g ohni Salz und Pfäffer.
+op	45878	Linden (Oberlangenegg)	1	Er isst d’Eier geng ohni Salz u Pfäffer.
+op	45891	Sörenberg	1	Är esst d’Eier em̅er ohni Salz u. Pfäffer.
+op	45892	Lungern	1	är issd d’Eier eister ohni Salz und Pfäffr
+op	4590	Kunice	1	Ha ist die Eier im̅er oane Sālz un Paffer.
+op	4595	Mierczany	1	Ha ißt die Eere mnier ohne Salz un Pf Casfer.
+op	45962	Entschwil	1	Er isst d’Eier geng ohni Salz u Pfäffer.
+op	45980	Saxeten	1	Är isst d’ Eier geng ohni Salz u Pfäffer.
+op	45992	Guttannen	1	Är isst d'Eier geng ohni Salz und Pfäffer.
+op	46009	Ulrichen	1	Er ässt d'Eier immer ohne Salz und Pfäffer.
+op	46017	Gersau	1	Er isst d'Eier immer ohne Salz und Pfäffer.
+op	46021	Illgau	1	[A/E?]r isst d [A/E?]ier im̅er ohni Salz [&?] Pfäffer.
+op	46026	Engi	1	Er isst d'Eier immer uhni Salz und Pfeffer.
+op	46027	Leuggelbach	1	Er isset d’ Eier immer uhni Salz und Pfeffer,
+op	4603	Toporow	1	Hä ißt de Eier immer ohne Saalz d. Pfaffer.
+op	46038	Linthal	1	Er isst d'Eier immer uhni Salz und Pfeffer.
+op	46040	Engelberg	1	Är isst d' Eiär immär ohni Salz u. Pfäffr.
+op	46045	Erstfeld	1	Er isst die Eier immer ohni Salz und Pfäffer.
+op	46048	Valendas	1	Er isst d’Eier im̅er ohni Salz und Pfeffer.
+op	46050	Meierhof	1	Er isst d'Eier albig ohni Salz und Pfaffer.
+op	46051	Camana	1	Är esst d' Eiar immer one Salz und Pfäffar.
+op	46055	Nufenen	1	Är isst d’ Eiär immer ohni Salz und Pfäffär.
+op	46059	Fanas	1	Är issät d| Eiär albig ohni Salz u. Pfäffär._
+op	46070	Mathon	1	Deer ißt d’Ar ållbi ohna Sålz und Pföffr.
+op	46071	Galtür	1	Er ist d Ar oalli ohna Soalz und Pföffar._
+op	46073	Felsberg	1	Er esst d’Eier immer ohni= Salz & Pfeffer.
+op	46079	Fideris	1	Er isset d’Eier albig ohni Salz und Pfäffer.
+op	4608	Alt Stahnsdorf	1	Ha eßt die Eiere immer ohne Solz und Peffer.
+op	46083	Klosters	1	Aer isset d'Eier albig ohne Salz & Pfäffer.
+op	46101	Wiesen	1	Er isst d'Eier albig ohni Salz & Pfäffer.
+op	46104	Am Bach	1	(A) r'issat d'Eier albig ohni Salz + Pfäffer.
+op	46115	Lauenen	1	Är isst d'Eier geng ohni Salz u Pfäffer
+op	46118	Stiegelschwand	1	Är isst d’ Eier ging ohni Salz u Pfäffer.
+op	46119	Fieschertal	1	Är isst d'[Eieä] immer ohni Sauz und Pfäffer.
+op	46127	Bitsch	1	Är isst d'Eier immer ohni Sauz und Pfäffer.
+op	46129	Agarn	1	Er isst dEier immer ohni Salz u. Pfäffer.
+op	46132	Hasel	1	Är isst d'Eier immer ohni Salz und Pfäffer.
+op	46142	Saas Grund	1	Är ässut d'Eier immer ohni Salz & Pfäffer.
+op	46143	Zwischbergen	1	Är isst d’Eiär immär ohni Salz und Pfäffär.
+op	46145	Zermatt	1	Är isst d’Eier allzig ohnu Salz und Pfäffer.
+op	-46146	Prettau (Predoi)	1	Ea ist d’ Oare olm one Solz unt Pfeffo.
+op	46157	Luttach (Lutago)	1	ea ißt die Oare one Solz und Pfeffo.
+op	-46161	Hinterkirch (Graun)	1	eir isst t’oar olm ounœ solz und ounœ pfeffr
+op	-46162	Rabenstein (Moos)	1	er isst die oare olm one solz und pfeffer
+op	46170	Tschöfs (Ceves)	1	Er is[st?] die Eier olleweil une Solz. und Pfeffer.
+op	-46175	Pfunders (Fundres)	1	Er ist die Oarö alm unan Salz und Pfeffo.
+op	-46181	Antholz (Anterselva Di Mezzo)	1	Er ißt dīe oare olm unom Solz und Pfeffo.
+op	-46195	Schabs (Sciaves)	1	Er isst die Oare olm una Solz und Pföffo.
+op	-46215	Pichl	1	er īßt di aare olm une Solz und Pfeffǫ
+op	-46217	Burgeis (Burgusio)	1	Er ißt die [A?]ar olm onna Solz un Pfeffr.
+op	-46226	Kurzras (Corteraso)	1	Er braucht zu die Oar kua Salz u. Pfeffer, er ißt sie lei a so.
+op	-46227	Katharinaberg (Santa Caterina)	1	Er ißt die Oar ohne Pfeffer und Solz.
+op	-46234	Vernuer (Vernurio)	1	Er ißt di Oara ohne Solz und Pfeffr
+op	-46262	Stilfs (Stelvio)	1	ear isst di oar olm oune solts und pfefr.
+op	46267	Laas (Lasa)	1	er isst alns die Öar ohnan Salz und Pfeffr
+op	46283	Gargazon (Gargazzone)	1	Er ist di oar olm une solz und pfeffer.
+op	-46293	Sankt Peter Hinter Lajen (San Pietr	1	Zum Oare össen brouch d[e?]h koan Salz und koan Pföffer
+op	-46305	Sankt Walburg (Santa Valburga)	1	Er isst di Oar òlm oune Solts und Pfeffer.
+op	-46319	Wangen (Vanga)	1	Ear isst die Oar olm uhnan Solz und Pföffar,
+op	46324	Laurein (Lauregno)	1	Er isst di Oar olbi ona solz unt pfeffor.
+op	-46340	Kaltern (Caldaro)	1	Ear isst di O̥a o̥lm ohna Salz und Pfeffr.
+op	-46344	Deutschnofen (Nova Ponente)	1	Ēr ißt die ar ålm una Sålz und Pfēffer.
+op	-46351	Altrei (Anterivo)	1	Er isst die Uar olbn una Salz und Pföffer
+op	-46353	Salurn (Salorno)	1	Ear isst die oar olm ohna Solz und Pföffar.
+op	46361	Stefansdorf (Santo Stefano)	1	Er ißt di Oarö olm uhnan Solz unt Pfeffr.
+op	46365	Lusern (Luserna)	1	Er ißt die Öålla härta ehna Salz on Peffar
+pq	46367	Ljetzan (Giazza)	1	ɛr ɛ́sət di ɔ́i̯jər sɛ́mpər àntə zálts unt àntə pfɛ́fər.
+pq	46369	Lusern (Luserna)	1	er ísət d’ø̄́lən sáldo ū̀nə zalts unt fɛ́far.
+pq	46385	Nauders	1	Ear ißt d Oar olba ohna Sâlz und Pföffr.
+pq	46386	Heiligkreuz	1	Er isßt [ß nachträglich auf „st“ eingefügt] die [großes e nachträglich auf „ie“] Oar olm vorher „id“? ohne Solz u. Pföffer.
+pq	46391	Poppenbüll	1	he itt(dd) de Eier immer åhn Sālt und Pêp(b)er.
+pq	46407	Dahrenwurth	1	he id de Ei’r ümm’r ân Sold un Pä̂p’r.
+pq	46420	Bergenhusen	1	he it de Eier ümmer ahne Sald und Päper.
+pq	46430	Owschlag	1	he itt de Eier jümmer ahn Salt un Pêper.
+pq	46443	Holtsee	1	he itt de Eier ümmer ahn Solt und Päper.
+pq	46459	Pries	1	he itt de Eier ümmer ohne Sollt un Peper.
+pq	46481	Stakendorf	1	he itt de Eier ȷümmer ahn Solt un Päper.
+pq	46492	Behrensdorf (Ostsee)	1	he it de Eier iımmer ahn Solt un Päper.
+pq	465	Okunino	1	Hei ett dei Egä immä ohn Sult u Päppä.
+pq	46554	Sulsdorf	1	he itt de Eier ümmer ahn Solt un Päper.
+pq	46570	Staberdorf	1	he itt de Eier ümmer ahn Sold un Päper.
+pq	46637	Alte Kirche	1	he itt de Eier jümmer ohne Sold un Päper._
+pq	46652	Sollerupfeld	1	he itt de Eier immer ohne Sold un Päber.
+pq	46666	Neuberend	1	he itt ümmer de Eier ohne Solt un Peper.
+pq	46684	Zimmert	1	he itt de Eier ömmer ohne Solt un Päper.
+pq	46687	Damp	1	he itt de Eier ümmer ohne Salt und Päper.
+pq	46693	Westermarkelsdorf	1	he itt de Eier ümmer ah’n Solt un Pǟbber.
+pq	46784	Grossenwiehe	1	he it de Eier immer ohne Solt un Päper. 
+pq	46798	Estrup	1	he itt de Eie ïmmner ohne Solt on Peber.
+pq	46806	Wippendorf	1	he itt de Eier ümmer ohne Sald un Päper.
+pq	46823	Maasholm	1	he itt de Eier ümmer on Sold un’ P[ä/a?]per.
+pq	46924	Beken (Bækken)	1	he itt de Eier immer ohne Saalt un Peber.
+pq	47139	Sandhatten	1	he ett de Eier jümmer ahn Solt un Päper.
+pq	47154	Adelheide	1	he ett de Eier jümmer ahn Solt un Päper.
+pq	47171	Dreye	1	he itt de Eier jümmer ahne Sollt un Päper.
+pq	47183	Allerdorf	1	he it de Eier ȷümmer ahń Söld un Päper.
+pq	47189	Heerenland	1	He ett de Eier alltied sünder Solt un Peper.
+pq	47203	Steenfelde	1	Hÿ et de Eier altied zünder [S/Z?]olt und Peper.
+pq	47219	Lohe	1	Hei ett dei Eier immer ahne Solltt un Päper.
+pq	47224	Burgfelde	1	he ett de Eier ümmer ahn Solt un Päper.
+pq	47235	Moorhausen	1	he ett de Eier ummer ahn Solt un Päper.
+pq	4727	Klein Glien	1	Ha̓ a̓tt de Eier ümmer oahne Sold un Pa̓per
+pq	47370	Bardenfleth	1	he ett de Eier immer ahn Solt un Päper.
+pq	4738	Niederwerbig	1	Hä ätt de Eier ümmer oane Solt un Päaper.
+pq	474	Kramarzyny	1	Hei ett dei Igger imme ahne Sult u Päpe.
+pq	47402	Mittelbauer	1	Hě et de Eier jummer ahne Solt un Päper.
+pq	47422	Neuenbülstedt	1	he ett de Eier jümmer ahn Sollt un Päper.
+pq	47447	Neermoor	1	hee et de Eier alltid sünner Sold un Peper.
+pq	47455	Remels	1	Heÿ ett deÿ Eier jümmer sünner Solt of Peper.(auch immer und altied)
+pq	47463	Petersfeld	1	he ett de Eier immer sünder Solt un Päper.
+pq	47470	Jaderbollenhagen	1	he ett de Eier immer a’n Solt un Päper.
+pq	4749	Zülichendorf	1	he et die Eire immer oane Solt un Päper.
+pq	47598	Offenwardenermoor	1	He itt die Eier ȷümmer ahn Solt und Päper
+pq	4761	Schöneweide	1	Ä ett di͡é Eierre immer oanne Sollt und Päper.
+pq	47612	Paddewisch	1	he itt de Eier ȷummer ahn Sold und P[ë/ä]per Hybridbuchstabe.
+pq	47624	Ober-Ochtenhausen	1	he it de Eier jümmer ahn Suld un Päber.
+pq	47650	Cirkwehrum	1	Hy ett de eier altied zünder solt un peper.
+pq	47657	Westerende-Holzloog	1	He ett de Eier alltied ahn’ Solt un Päper.
+pq	47670	Wiesede	1	He ett de Eier immer ahn Sollt un Peper.
+pq	47677	Neustadtgödens	1	He ett de Eier immer ahn Solt und Päper.
+pq	4770	Egsdorf	1	Er eßt die Eiere immer ohne Solz un Päper
+pq	4776	Birkholz	1	Er eßt die Eiere immer ohne Saals un Feffer.
+pq	478	Pradzonka	1	Hei ät Ejä ümmä ohn Solt u Pähpä.
+pq	47840	Kükelühn	1	he itt de Eier ümmer ahn Solt un Pêper.
+pq	47861	Siggeneben	1	he(i) itt de Eier ümner aahn So͞alt un Päpber.
+pq	47863	Hedwigenkoog	1	hei it de Eier ümmer ahn Solt un Peper.
+pq	47885	Edemannswisch	1	he id de Eier ümmer ahn Sold und Päper.
+pq	4789	Briescht	1	Er eßt die Eiere ímmer ohne Salz und Feffer.
+pq	47893	Oesterborstel	1	he idd de Eier ümmer ahn Sold un Päber.
+pq	47907	Hamweddel	1	he ett de Ei’r ümm’r ohn Solt un Pep’r.
+pq	47916	Warder	1	hee et de Eier ömmer ohn Sold un Peber.
+pq	47935	Klein Barkau	1	he itt de Eier ümmer aan Sold und Päber.
+pq	47952	Mucheln	1	he idd de Eier ȗmmer ohn Sold un Peber.
+pq	4800	Gross Briesen	1	Er ißt die Eiere immer ahne Saalz und Pfeffer.
+pq	48096	Grömitz	1	he itt de Eier ümmer ah’n Solt un Peper.
+pq	48098	Friedrichskoog	1	he itt de Eier ümmer ahn Solt un Päp’r.
+pq	48105	Barlteraltendeich	1	he itt de Eier ümmer ahń Sold un Päper. 
+pq	48115	Holstenniendorf	1	he et de Eier ömmer aohn Sold un Päper.
+pq	48126	Jahrsdorf	1	he et de Eier jömmer aan Solt unn Peber.
+pq	4813	Klopot	1	ha ißt die Eer ohne Saalz un Paffer.
+pq	48141	Ehndorf	1	he itt de Eier jümmers ahn Saalt un Päper.
+pq	48156	Gönnebek	1	he itt de Eier ümmer ahn Salt un Päper
+pq	48164	Wöbs	1	he idd de Eier ümmer ahn Sold und Päper.
+pq	48186	Süsel	1	hee itt de Eier ümmer ahn Solt un Päper.
+pq	48233	Brunsbüttelerhafen	1	he it de Ei’r ümmer ahn Solt un Paeper
+pq	48239	Brokdorf	1	he itt de Eier immer ohne Solt un Päper.
+pq	4824	Radomicko	1	Ar ißt die Eer immer ohne Salz und Pfaffer.
+pq	48240	Spiekeroog	1	He ett de Eier alltied ahn Solt un Päper.
+pq	48242	Berensch	1	He itt de Eier jümmer ohner Sölt unn Päper.
+pq	48247	Altenbruch	1	he itt de Eier jümmer ohne Söld und Päper.
+pq	48282	Norderney	1	He et d’ eier alltied a(h)n solt un päper.
+pq	48283	Baltrum-Ostdorf	1	He et de Eier immer sünner Sold un Pöper.
+pq	48302	Misselwarden	1	he itt de Eier ȷümmer ohn Sold unn Päper.
+pq	4832	Radnica	1	Ha ißt die Ehre immer ohne Salz und Pfaffer
+pq	48324	Weissenmoor	1	he it de Eier ju̇mmer ahnen Solt und Päper.
+pq	48342	Itzendorf	1	He et de eier altiet aan solt un päper.
+pq	48356	Arle	1	He ett de Eier alltied aan Solt un Päper.
+pq	48368	Stedesdorf	1	He ett d’ Eier immer ahn Sold un Päper.
+pq	48383	Wüppels	1	he ett de Eier immer ohn Sold un Päper.
+pq	48392	Langwarden	1	hē ett de Eier úmmer ahne Sólt un Pèper,
+pq	48401	Flögeln	1	he itt de Eier jümmer aͦhn Solt un P[?]per.
+pq	48477	Iffens	1	he ettde Eier ümmer ahn Solt un Päper.
+pq	48487	Blexen	1	he ett de Eier ümmer ahn’ um Päper.
+pq	48497	Altluneberg	1	he ett de Eier jümmer sünner Sölt un Peper.
+pq	48507	Hönau-Lindorf	1	he itt de Eier jümmer ahn’n Suld und Peper.
+pq	48516	Graal-Müritz	1	hei ett dei Eiǎ ohnǎ Sold und Päpǎ.
+qr	48522	Rerik	1	hei ett dei Ei’e ümme ahn Solt un Päpe.
+qr	48532	Brodhagen	1	hei ed dei Eier ümme ahn Sold un Päpe.
+qr	48550	Toitenwinkel	1	hei ett dei Eijà ümmà ahn Suljt unn Päpà.
+qr	486	Niedamowo	1	Hei ett d' Eger immer oahne Sullt unn Peper.
+qr	48675	Strukdorf	1	he idd de Eier ümner ahn Päper und Sold.
+qr	48702	Sereetz	1	he it de Eier ümmer ahn Solt un Päpper.
+qr	48716	Gross Voigtshagen	1	hei ett dei Ehé ümmé ohne Sohlt und Päbé.
+qr	48726	Beckerwitz	1	hei itt dei Eier ümm er ah’n Solt und Päper.
+qr	48738	Steinhausen	1	Hei et dei Ejer ümmer ahn Soolt un Päper.
+qr	48752	Berendshagen	1	He (hei) ett de Eie ümme ahn Solt un Pepe.
+qr	48765	Wiendorf	1	hei ett dei Eie͂ ümme ahn’n Sold und Päpe.
+qr	48790	Rethwisch	1	he itt de Eier ümmer ohn Sold un Pêper.
+qr	48800	Lentföhrden	1	he it de Eier ömmer ahn Sold un Päp’r.
+qr	48812	Todesfelde	1	he it de Eier ȷümmer ohn Sold un Peper.
+qr	49022	Kleinboden	1	hei it d’ Eer ümmer ahn Solt und Päper.
+qr	49043	Campow	1	he it de Eer jümme ohn Solt und Peper.
+qr	49076	Nesow	1	hei it dei Eje ümmě ahn Sold un Päběr
+qr	49090	Dalliendorf	1	hei ett dei E(j)e ümme ahn Sohld un Päpe.
+qr	49108	Neuhof	1	Hei et dei Efe üm̅e ahn Sald un Peper.
+qr	49122	Warnow	1	hei ett dei Eej(d)e „(dh)“ über j ümmĕ ahne Soolt un Päpĕ.
+qr	49140	Güstrow	1	he ett de Eier ümmer ohnér(ahn „(ahn“ über „ohnér“ Sold un Päper.
+qr	49146	Drochtersen	1	he itt de Eier jümmer ohn Sold und Päper.
+qr	49162	Gross Nordende	1	he ǐt de Eier ü̆mmer ohne Solt und Pêper.
+qr	49176	Quickborn	1	he itt de Eier jümmer ah’n Solt u. Pêper
+qr	49188	Jersbek	1	he itt de Eier jümme ahn’n Solt un Päpe. (e kurz).
+qr	49311	Riekenbostel	1	he itt de Eier jümmer ahn Solt un Peper.
+qr	49322	Brochdorf	1	he itt de Eier jümmer ahn Sold un Peeper.
+qr	49332	Bispingen	1	he͡i itt de͡i Eier ȷümmer ahn Solt un Päper.
+qr	49338	Wettenbostel	1	he itt de Eier ȷümmer ohn Solt und P[ē/ĕ?]pper.
+qr	49348	Seedorf	1	hê itt dê Eier jümmer ahn Szold un Päper.
+qr	49362	Stoetze	1	He itt de Eier jümmer aan Szolt und Päper.
+qr	49498	Dannenberg (Elbe)	1	he itt de Eier ümmer ohn Solt und Päper
+qr	495	Jaroszewy	1	Hei et dei Ege imme ohne Solt un Peppe.
+qr	4950	Palck	1	A ißt d’Ehr immer ohn Sauz und Pfaffer.
+qr	49509	Breetz	1	He itt de Eier üm̅er ohń Solt un Päper
+qr	49524	Laaslich	1	He itt de Eier ümmer oan Sold un Päper
+qr	49534	Lübzow	1	Heh ȧtt de Eier ümmer oahn Solt und Päper
+qr	49551	Buchholz	1	He ett de Eier ümmer oahn Solt un Päper.
+qr	49562	Hetzwege	1	he it de Eier ȷümmer ahn Solt und Pepper.
+qr	49569	Otter	1	he͡i itt de͡i Eier ȷümmer ahèn Solt un P[ä?]per
+qr	49579	Ollsen	1	hei it de Eier jümmer ahn’n Sold on Päber.
+qr	49587	Westergellersen	1	Heî it deî Eier ȷümmer ahn Sold un Päper.
+qr	49605	Barskamp	1	he it de Eier ümmer ohne Sold und Päper.
+qr	4965	Stare Kramsko	1	Ha ißt die Eeer immer ohne Salz und Pfaffer.
+qr	4968	Zodyn	1	Ha ißt de Eer immer uane Salz und Faffer.
+qr	49727	Wendhausen	1	he itt de Eier ümmer ahn Solt un Päper.
+qr	49752	Jessenitz	1	hei et dei Eer ümmer ohne Solt und Päpper.
+qr	49767	Glaisin	1	hei itt dei Eje ümme (auch jümme) ahn’n Soold un Päpe.
+qr	49778	Neese	1	Hei ett’ dei Eie ümme ahn̄ Solt un Päpe.
+qr	49794	Pampin	1	heï et dei Eié ümme ohne Sold un Päpe.
+qr	4980	Tarnowa	1	A ißt d’ Eeer im’r un’ Saalz und Faffer
+qr	49802	Grabow	1	Het et de Eier oh oahn Solt un Päper.
+qr	49813	Wangersen	1	He idd de Eier ȷümmer ahṅ Sold un Päber.
+qr	49821	Regesbostel	1	heeï it Eier ane Solt un’ Päper.
+qr	49828	Tötensen	1	Hei it de Eir ȷümmers ahnen Salt und Päper
+qr	49840	Lassrönne	1	He itt de Ei’r ȷümmer ah’n Solt und Päper.
+qr	49857	Juliusburg	1	Hei itt dei Eier ümmer ahn Sold un Päper.
+qr	49881	Setzin	1	hei ett dei Ejer ümmer ahn Solt un Päper.
+qr	49898	Neuhof	1	hei ett dei Eja ümma ohna Sohlt un Päpa.
+qr	50010	Gresse	1	hei itt dei Ee(r) (zwei Silben) ümme ahn’n Sōlt un War Päpe.
+qr	50027	Moraas	1	hei et dei Eer ümme ahn Sold und Päppe.
+qr	50058	Paarsch	1	hei et de Eiä ümme ohne Sohld un Päpe.
+qr	50068	Barkow	1	hei ett dei Eie ümme ahn Solt un Päpe.
+qr	50073	Schwinge	1	he it de Eier ȷümmer ah’e Sult un Päper.
+qr	50087	Wisch	1	he it de Eier jümmer sünner Sold un Päper.
+qr	50117	Ottensen	1	he itt de Eier ömmer ohn’ Solt un Peeper.
+qr	50130	Willinghusen	1	he itt de Eier òn Salt un Peper.
+qr	50142	Basthorst	1	hei itt dei Eer jümmer ah’n Sohld un Päber.
+qr	503	Szpegawsk	1	Hee ett de Eier im̄er ohne Solt un Peeper.
+qr	5031	Lugow	1	Er ißt die Eer immer ohne Saalz und Faffer.
+qr	50321	Lehmrade	1	hei id dei Eer ümmer ahn Sold un Päber.
+qr	50332	Drönnewitz	1	Hei ett dei Eje ümme ahn’ Soÿld un Päbä.
+qr	50343	Gross Rogahn	1	hei et dei Eiȇ ümmȇ ahn Solt un Päpȇ.
+qr	50357	Kladow	1	hei et dei Erer ümmer ohne Sold und Päpber._
+qr	50365	Hohen Pritz	1	Hei ett dei Eia ümma ahn Solt unn Päpa.
+qr	50377	Jellen	1	hei ett dei Eie ümme ahn Solt und Päpe.
+qr	50385	Lübsee	1	hei ätt dei Eier ümme ahn Solt un Pepe.
+qr	50471	Bellin	1	He ett de Eiäh ümmer ohn Sold unn Päper.
+qr	50523	Retzow	1	Hei et dei Eier ümme ahn Solt un Peper
+qr	50538	Hohenbollentin	1	hei ett dei Eiä imma oahn Sult un Päpa.
+qr	50552	Golchen	1	Hei ett dei Eia ümma oahn Solt un Päpa.
+qr	5056	Biala Wies	1	Ha ißt di Eer immer oahne Saalz und Pfaffer.
+qr	50567	Strippow	1	hei ät de Eia ahn Solt un Päpa.
+qr	50575	Rosenhagen	1	Hei ett dei Eiga ümma ahn Sollt unn Päba.-
+qr	50583	Siniechowo	1	Hei ätt dei Äer ümmer aun Soalt on Päper.
+qr	50604	Drzewica	1	Hei et d’Ee ümme oahn Sult uo Päpe.
+qr	50622	Lisowo	1	Hei ēätt [ä über e] Eggēä [ä über e] ümmä ōͣhn Sult un Päpe.
+qr	50719	Lubin	1	Hei et dei Ea ümmä on Sult un Päpä.
+qr	50765	Gross Ridsenow	1	Hei ett dei Eia ümma ahn Sold un Päbba.
+qr	50779	Schlutow	1	Hei ett dei Eia ümma ohne Sold un Päba.
+qr	50794	Seedorf	1	Hei et dei Eiȷä ümmä ohnä Sult und Päbä.
+qr	50805	Bentzin	1	Hei et dei Ei’r ümm’r ahn Sollt un Pep’r.
+qr	50818	Ranzin	1	He ed dei Eiä üm̅ä ahn Solt un Päper. -
+qr	50830	Lassan	1	Hei et dei Eigä ümmä oahn Solt un Päpä.
+qr	50840	Sallenthin	1	Hei ät dei Eiga ümma ahn Sold un Päpa
+qr	50844	Miedzyzdroje	1	hei ett de Eer imm’r oahn Sult u Päper.
+qr	50850	Sieroslaw	1	Hei et die Aia immä an Sult o Papä.
+qr	50872	Bedzieszewo	1	Hei ett dei Ega ümma oahn Sullt o Päpa.
+qr	50892	Skalin	1	Hei et de Igge sting ahn Sult oh Peper.
+qr	5091	Boruja	1	A ißt dä Eer immer ohne Saalz und Pfaffer.
+rs	50973	Koserow	1	Hei et de Eier immer ohn Sult un Peper
+rs	50986	Trzesacz	1	hei ett dei Eĕ ĕ lat. im̅ĕ ĕ lat. åhn Sult o Päpĕ ĕ lat.. De 
+rs	51	Baerwalde	1	Hei ĕtt dé͡i Ēgä̆ ån Sŭlt u Pǟpä̌.
+rs	51012	Hohen Wangelin	1	hei ett dei Eia ümma ahn Solt unn Päba
+rs	51030	Rittermannshagen	1	Hei ett dei Eia ümma ahn Solt un Päpa.
+rs	51048	Tarnow	1	Hei ett dei Eija ümma ahn Solt un Päpa.
+rs	51065	Trollenhagen	1	He et de Eia ümma ohn Sold un Päpa._
+rs	51081	Brohm	1	He ett de Eia ümma ohn Solt unn Päpa._
+rs	51089	Eichhof	1	He ett de Eia ümma aͦhn Sollt un Päpa
+rs	51098	Gegensee	1	He ett de Eier imma ohn Sold un Pàper.
+rs	511	Krasniewo	1	He ett de Eier emmer aone Solt on Päper.
+rs	51101	Drogoradz	1	he ett de Eier immnr oahn Sollt u. Peper.
+rs	51112	Budzien	1	He ett de Eier immer oɑn Snlt un P[e/ä?]per 
+rs	51123	Krzywice	1	hai ätt dai Ege͡ä ümme͡ä o͡ahn Sullt u͡o Päpe͡ä.
+rs	51135	Plantikow	1	Hei ett dei Eggä ümmăr au’n Sult unn Pàppăr
+rs	51143	Kloster	1	Hei ett dei Eie ümme aohn Sold un Päp’r.
+rs	51146	Wiek	1	Hē͡i et dei Eier ümme͡a ohne͡a Solt un Päpe͡a.
+rs	51162	Nardevitz	1	Hei ett dei Ei’ä ümmä ohnä Sold un Päpä.
+rs	51170	Zingst	1	Hei ett dei Eiă ümmă ahn Solt un Päpă.
+rs	51173	Wendisch Langendorf	1	Hei ett dei Eije(r) ümme(r) ahn Sold un Päpe(r).
+rs	51179	Wüstenei	1	Hei ett dei Eire ümma ahn Solt un Päpa.
+rs	51188	Saiser	1	Hei ett dei Eiǎ ümma ohná Sold ohná Päba.
+rs	51191	Ahrenshoop	1	Hei ätt dei Eige ümma ahn Sold un Päbbă.
+rs	5122	Gorzyca	1	Er ißt die Eeere immer ohne Salz u. Pfeffer.
+rs	51232	Neu-Reddevitz	1	Hei ett dei Eia ümme ohne Sold un Pepe.
+rs	51243	Langendamm	1	Hei ett dei Eiga ümma ahn Sold un Päba.
+rs	51257	Redebas	1	Hei et dei Eia ümma ohna Sold un Pepa.
+rs	51267	Pütte	1	Hei ett dei Eige ümme ohne Sold un Päpe
+rs	51277	Poseritz	1	Hei êt dei Eiâ ü̂mmâ āhn Sôld ûn Pǟbâ.
+rs	51288	Thiessow	1	Hei ett dei Eije ümme unne Solt un Päpe.
+rs	5130	Ransko	1	A ißt die Eer immer ohne Salz und Pfaffer.
+rs	51346	Reppelin	1	hei ett dei Eie ümme ohn Sold un Pöppȏ.
+rs	51355	Kavelsdorf	1	hei et dei Eige ümmer ahn Solt un Päper.
+rs	51370	Müggenwalde	1	Hei ett die Eia ünnna ohna Solt un Päba
+rs	51387	Steffenshagen	1	Hei ett dei Eier ümmer ahn Sold un Päpe.
+rs	5139	Grudna	1	Er ist die Eier immer uhne Solz und Fäfer.
+rs	51397	Vierow	1	Hei ett dei Eia ümma ahn Sold un Päpa.
+rs	51409	Karlshagen	1	Hei ett dei Eier ümmer ahn Solt u. Päper.
+rs	5141	Brody	1	Er ißt die Eer immer ohne Sauz und Pfaffer.
+rs	51413	Trzebusz	1	Hei att dei Edsche ümme åhn Sult o Päpe.
+rs	51539	Kisserow	1	hei ett dei Eier ümmer ohne Solt un Päpe._
+rs	51549	Federow	1	Hei ett dei Eie ümme ahn Solt un Päpe.
+rs	51561	Klein Vielen	1	hei et dei Eier ümmer ohne Sold und Päeper.
+rs	51571	Holldorf	1	He ett de Eia ümma ahn Sold un Päpa.
+rs	51584	Woldegk	1	He ett de Eia ümma åhn Solt un Päpa.
+rs	51598	Trebenow	1	He ett de Eia ümma oh’n Sold un Päpa.
+rs	51611	Rossow	1	he ät de Eia ömma ohn Solt o Päpa.
+rs	51624	Wawelnica	1	He et de Eier üm̅e(r) ohn Solt un Pepe(r).
+rs	51637	Bergland	1	He et de :Eiä aon Sult aohn un Päpä.
+rs	51646	Dabrowica	1	Hei et dei Eje ümme a͜ohn Bogen unter „ao“ Sold oh Päpe
+rs	51661	Bobrowniki	1	Hei ett dei Ege ümme auen Sult un Päpe.
+rs	51805	Grabow	1	Hei et dei Eier ümmer ahn Solt um Peper.
+rs	51816	Lärz	1	He ett dē Eiă ümmă ahn Sŏlt un Päbă.
+rs	51832	Ahrensberg	1	he ett de Eia ümma ahn Sold un Pepa.
+rs	51838	Hasselförde	1	he ett de Eia ümma ahn Sold un Päpa._
+rs	51850	Buchenhain	1	He et de Eier immer oahn’ Solt und Päper.
+rs	51866	Röpersdorf	1	He ätt de Eier immer ohn Solt un Päper.
+rs	51877	Grünz	1	He ett de Eia imma ohn Solt o Pepa. (Pähpa)
+rs	51893	Pargow (Pargowo)	1	He et de Eier ümmr aͦhn Solt un Päpr
+rs	51906	Zelislawiec	1	He ett de Eier ümmer ahn Sult un Peper.
+rs	51918	Slotnica	1	He ett de Eije ümme oăn Sult ŭ Päĭpe
+rs	51934	Zukowo	1	He ett de Iegĕ ümmĕ ohn Sult u Peipĕ.
+rs	5203	Nekielka	1	Hä ett die Egä imma ohna Solt o Päpä.
+rs	52064	Papenbruch	1	He ett (ätt) de Eier immer ähn Solt un Päper
+rs	52070	Wallitz	1	He ett die Eier immer ohne Solt un Päper.­­_
+rs	52079	Menz	1	Heh ät de Eier immer oahne Sold un Päper.
+rs	52086	Barsdorf	1	He ett de Eia ümma on Sollt un Päpa.
+rs	52095	Petersdorf	1	He ett de Eia ümma ohn Solt un Päpa
+rs	5210	Skwierzyna	1	Er esst d’Eier immer ohne Salz und Pfeffer.
+rs	52103	Flieth-Stegelitz	1	He ett de Eia ümma ōhn Solt un Päpa.
+rs	52113	Passow	1	He ett de Eier ümmer ohn Sold un Pepa.
+rs	52129	Widuchowa	1	Hä ett de Eier ümmer o͡ahn Sollt un Pǟper.
+rs	52139	Banie	1	He ett de Eier im̅er ån Solt un Päper.
+rs	5214	Krobielewo	1	Ha ißt d|ie Eire immer uhne Solz und Pfaffer.
+rs	52154	Obromino	1	He ett de Eie üm̅e oahn Sult oh Pepe.
+rs	52169	Brzezina	1	He et de Eie imme ohen Sullt u Päpe.
+rs	52276	Bagicz	1	hei ett dei Ega ümma o͡ahn Sult un Päpa.-
+rs	52278	Lasin Koszalinski	1	Hei ett dei E=e ümme ahn Sult unn Päpe.
+rs	52311	Sieciemin	1	Hei ett dei Ege immer ahn Sult un Päpe.
+rs	52349	Pomysk Wielki	1	Hei ett dä Eier emmer ouhn Soult ou Peper.
+rs	52359	Szymbark	1	Hei ett de Egge emmer ohn Solt o Peppe.
+rs	52374	Szklana Gora	1	He et de Eier emmer ohne Solt und Peper.
+rs	52396	Skowarcz	1	He ett de Eier emmer ohne Solt on Päper.
+rs	52428	Oberlakendorf (Solnica Górna)	1	He ett de Eier emmer ohne Solt on Peper.
+rs	52440	Deep (Czajcze)	1	Hei ett dei Ea ümma oahn Suld un Päba.
+rs	52463	Bialecino	1	Hei ett dei Eja immer ohn Sult un Pepper.
+rs	52478	Bronowo	1	Hei et dei Eä imma ohn Sult und Päpä.
+rs	52484	Reddies	1	Hei et dä Eer immer ohna Sold oh Peper.
+rs	52567	Pasewark	1	He ätt de Eier emmer ohne Sollt on Peper.
+rs	52578	Bad Rügenwalde	1	Hei et dei Ege ümmer ohn Sult un Päper.
+rs	5259	Prusim	1	Er ißt die Eier immer ohne Salz und Pfeffer.
+rs	52600	Radoslaw	1	Hei et dei Ejä immä ahn Sult un Peppä.
+rs	52700	Losino	1	Hei ett d Aeer emmer ohn Solt o Peper._
+rs	5271	Przyborowko	1	A ißt die Eeer immer ohne Salz und Pfaffer.
+rs	52714	Labiszewo	1	Hei et dei Ea ohn Solt o Pepa
+rs	52722	Karwen	1	Heit et dei Eier immer ohn Suld un Päper.
+rs	52755	Heubude (Stogi)	1	He at de Eier emmer one Solt on Päper.
+rs	52762	Skowronki	1	He ett de Eia ema ohne Sollt onn Päpa.
+rs	52766	Rowy	1	Hei ett dei Eier immer ohne Sult und Päper.
+rs	52767	Machowinko	1	Hei ett de Ejė oahn Sult un Päpe.
+st	5277	Gleboczek	1	Hej et dej Egge imme aue Solt o Peipe.
+st	52816	Hela	1	Hee et de Eier immer ohne Solt un Päper.
+st	52819	Jaroslawiec	1	Hei ätt dei Eje ümme ohn Sold un Päpe.
+st	52825	Krolowstrand (Królewice)	1	hei et dei Eje imme ahn [S?]uld un Päpe
+st	52854	Drzezewo	1	Hei et de Eier immer ohn Sult un Päper.
+st	52865	Niebedzino	1	Hei ett de Eier emmer ohne Sold o Peper.
+st	52871	Dabrowka Wielka	1	Hei ett dei Eier emmer ohn[e?] Sold ahn Päper
+st	52881	Luzino	1	Hei ett de Eier emmer ohn Sollt un Peper.
+st	52887	Pogorze	1	He et de Eier one Solt un Peper
+st	52896	Bialogora	1	Hei aed dei Eier emmer ohne Sould on Päper.
+st	52905	Karwenbruch	1	He et de Eier emmer ohne Solt und Päper.
+st	5291	Gorki Noteckie	1	Hä et de Eier immer oahn Solt un Päper.
+st	52913	Wladyslawowo	1	He et de Eier emmer ohne Sold on Peper.
+st	52915	Lebieniec	1	Hei et de Eier emmer ohne Solt o Päper.
+st	52927	Zelazna	1	Hei ett d'e Eier immer ohn' Sult o Päper.
+st	52936	Tylowo	1	Hei et de Eier emmer ohne Sold und [P/F?]eper.
+st	5305	Rapin	1	Hä ett de Ier immer oahne Solt und Päper
+st	5315	Pilka	1	Hä ät de Eje emme ohne Solt und Pepe.
+st	5316	Rzecin	1	Äe et de Eki imme ohne Solt o Peipe.
+st	532	Zulawka Sztumska	1	He est de Eier one Salz un Pfeffer
+st	5322	Tarnowko	1	Hey ett dey Egge ümme auo Solt oh Peippe
+st	5374	Groß Golle (Golaszewo)	1	He et di Egge im̄er aue Sult o Peiper
+st	5386	Lubicz	1	Ä ett de Eie ümme ohn Sult unn S Päpe.
+st	5397	Slonow	1	He ett de Eier imme ohn’ Sult un P[ä?]pe.
+st	5402	Huta Szklana	1	He ett de Igge ümme aunŏ Solt unn Peipe.
+st	5409	Marienbusch	1	He ätt de Jgge ümme auo Solt o Peipe.
+st	5421	Ostrowki	1	He et de Egge aue Sult o Peippe.
+st	54871	Neuarad (Aradu Nou)	1	Er esch d̜ie Eier im̄er o̜hni Salz un Pfeffe.
+st	54873	Bistritz (Bistriţa)	1	E äßt de åer āne one sålz och gestäp
+st	54878	Arzis (Artsyz)	1	Er ĕ́ßt die Aier ĕ́mmer ohne Salz on Fĕ́ffer.
+st	54897	Wolfswinkel (Wilczy Kat)	1	[E/H?]e ät de Egge eme uone Solt o Peäpe
+st	549	Przecmino	1	hei ett dei Eje ümmĕ oahn Sult ŭ Päpĕ. 
+st	54901	Zarobka	1	Hej et dej Egge emme uone Solt o Pajpe
+st	54902	Brzozowka	1	He äat de äje emme one Solt o Päpe.
+st	54906	Brzezno	1	Hej att dej Egge emme uone Solt o Päpe.
+st	54909	Zbojenko	1	Heh at de Ege eme oe Solt o Pepe
+st	5491	Brzezno	1	Hej et di Ege im̅e Auhə solt o Peipe
+st	54912	Siemiatkowo	1	Hè aeit dè Eje emme uohne Solt o Pēpe.
+st	54913	Sompolno	1	Hyj et d’Ygio ümo ono Solt u Pajpo. 
+st	54914	Sächsisch Regen (Reghin)	1	E äßt da Aer ane one Salz och Geschtäzz.
+st	54915	Elek (Elek)	1	Ear ist ti ār nixwi una Sōlz und Pfeffr.
+st	54916	Freidorf bei Temeschwar	1	Er est die Aier immer ohni Salz un Pfeffr
+st	54917	Sarata (Sarata)	1	Èr ě̀ßt d’Eier ě́m̅er ōhne Salz on Pfě̀ffr.
+st	54918	Scheindorf (Sâi)	1	Er isst t’UAjr allewaj uane̊t Salz und Pfi|effer.
+st	54919	Fünfkirchen	1	Ea est ti ajə imə ōne salc uŋ pfefə
+st	54921	Iklad	1	Szimi. E͜ar tu͜at ti álă olval oni Szolcz eszn.
+st	54922	Sanktanna (Sântana)	1	Er (ö)ést ti Áiár álárit (a?)oné Salc.
+st	54924	Martinsdorf (Metiş)	1	E äßt de̊ Uache̊r äng ohne̊ Sålz uch Fe fe̊r.
+st	54926	Bentschek (Bencecu De Sus)	1	Er esst die Aier immr uni Solz un Pfeffr
+st	54929	Agnetheln (Agnita)	1	E ärst de Or anen ione Solz och Fefer.
+st	54930	Gottlob	1	Er esst die Eier ömmér ohne Salz un Peffér
+st	54932	Klein-Schemlak (Semlacu Mic)	1	Er ißt die Àier immr ohnieh Salz ŭn Pfaffr
+st	54933	Sankt Andreas (Sânandrei)	1	Er esst die Ajer immer ohnē Salz un Pfeff’r.
+st	54935	Neuwerbas (Novi Vrbas)	1	Hr est ti ajər imər onə salts un phefr̥.
+st	54937	Groß Scham/Freudenthal (Jamu Mare)	1	Er esst die Ajer immer ohni Salz ŭn Pheffer
+st	54938	Torschau (Savino Selo)	1	âr eʃt di aĭyr ìm̜r one sålts ŭn pʰaͣfr 
+st	54939	Weprowatz (Kruščić)	1	Êr eʃt di ôy[?]r ålwyl uni sălts ùn påprix (pävfr)
+st	54941	Neue Weingärten (-)	1	Er esst d ' Ēier emmer ohne Salz on Pfeffer.
+st	54942	Seimeny (-)	1	Er eßt d Aier emmer o̰hne Salz on Pfeff'r.
+st	54943	Neubeschenowa (Dudeştii Noi)	1	Heͥn isst d‘ Ajer eͥmmer ōhni Salz oͧn Peff’r
+st	-55055	Oborki	1	He a͜et de Egje emme one Solt o Pepe.
+st	-55064	Zale	1	Hei at Eje uene Solt ok uene [P?]iépe.
+st	-55066	Zuromin	1	Die Eier sind ohne Salz u. kein Pfeffer.
+st	-55070	Grudusk	1	Er ißt die Eier immer ohne Salz und Pfeffer.
+st	-55072	Ostroleka	1	Er ißt die Eier immer ohne Salz und Pfeffer.
+st	-55081	Ciechocinek	1	Hej aht de Egge emme ohne Solt o Peepe.
+st	-55091	Skepe	1	Hei at de Eije uone Solt ok uone Pièpe
+st	55094	Gradzanowo Koscielne	1	He ät de Ejer emmer ohne Solt o Pieper.
+st	-55096	Modelka	1	He a[e?]t de Aije emme ohne Solt on Pepe.
+st	-55099	Makow Mazowiecki	1	Hij at die Ego ohno Sold und ohno Peipo.
+st	55106	Susk	1	Hei at dei eje emma uone Solt ok Piepa.
+st	-55107	Zawidz Koscielny	1	Häə at déi Eje eme onne Solt ok onne Piepe.
+st	55109	Kondrajec Szlachecki	1	Hej at de Eje one Solt un Piäper.
+st	-55110	Kicin	1	He ett de Äjä emmä ôhne Sollt oah Peper
+st	55111	Szostka	1	Er eßt die Eier immer ohne Salz und Pfeffer.
+st	-55113	Kujawka	1	Er eßt die Ojer immer ohne Salz und Pfeffer.
+st	55116	Osiek	1	He et de Ege eme one Sold o Pepe.
+st	-55117	Nowe Karwosieki	1	He at de E͜ie emme ūne Salt ok Piepe.
+st	-55129	Lenie Male	1	Hej et de Ege emme one Solt ok Pege.
+st	-55133	Meczenino	1	Je et di Eier emmer ohni Solt und Pieper (Pi-eper).
+st	-55135	Dzierzaznia	1	Er eßt die Eier immer ohne Salz un Feffer.
+st	-55137	Konary	1	He iat de Eje emma ohne Solt o Piäpe.
+st	-55139	Kozy	1	He ett de Igge immŏ e͜ōnŏ Solt ŭ Peipŏ.
+st	55140	Zglowiaczka	1	A. u. W.: Er eßt die Eier immer ohne Salz und Pfeffer. B.: Er eßt d' Eiar emmar ohne Salz on Pfeffar.
+st	55163	Grabkowo	1	He et de Egio ohno Solt ok ohno Peipo.
+st	-55164	Wieslawice	1	Hej at emme Eje one Solt ok Pepe.
+st	-55166	Budy Borowickie	1	He eet de Eije emme ohne Solt o Pepe.
+st	-55169	Orszymowo	1	Hej eet d Egge ohne Solt o Peepe.
+st	-55171	Nowy Dwór Mazowiecki	1	He at de Eije emme ohne Solt on Peper.
+st	-55173	Kozie Glowy	1	Ar ißt de Ejer immer öhne Salz und Pfaffer.
+st	-55177	Brdow	1	Ea eßt d' Eua furt ohne Salz und ohne Pfǎfer (langes e)
+st	-55181	Psary	1	Hēi ett d'Igge̊ imme̊ aoun(e) Sult on Peipe̊.
+st	-55187	Nowa Wies	1	He ett de Ege emme one Sollt o Peepe.
+st	-55189	Miszory	1	Hei ett de Eeje emmer ohn Solt ok ohn' Peeper.
+st	5519	Berka v.d. Hainich	1	Är öst de Eur emmer ohne Saalz on Fäffer
+st	-55191	Secymin Polski	1	Hei at dei Ejer une Solt ock Piäper
+st	55210	Niechcianow	1	Er eßt die Eier immer ohne Salz und Pfeffer.
+st	-55216	Kaptury	1	He at de Eje emme uone Solt o Piäpe.
+st	-55218	Stare Miasto	1	Er isst die Eier (Äer = Gemeinde Grossdorf!) immer öüne Salz und Pfaffer.
+st	-55226	Tarnowka	1	Er eßt die Eier immer ohne Salz und Pfeffer.
+tu	-55238	Zychlin	1	Er eßt die Eier immer ohne Salz und Pfeffer.
+tu	-55240	Kopojno	1	Er ißt die Eier immer ohne Salz u. ohne Feffer
+tu	55244	Natalia	1	Er eßt die Eier ohne Salz und Feffer.
+tu	55252	Potrzaskow	1	Er eßt die Eier immer ohne Salz und Pfeffer.
+tu	-55254	Szamow	1	Er eßt die Eier immer ohne Salz und Pfeffer.
+tu	-55258	Wierzchy	1	Er est die Eier immer ohne Sals u[n?]d Feffer.
+tu	-55261	Gadowskie Holendry	1	Er ist die Eier immer ohne Salz und Faffer.
+tu	-55262	Turek	1	Er tut die Eier immer ohne Salz und Pfeffer essen.
+tu	-55266	Sarbice	1	He et de Egge imme ohne Solt un Peipe.
+tu	-55269	Zimne	1	He ett d' Ege imme ohne Solt o Peipe
+tu	-55270	Leczyca	1	Er eßt die Aaier immer ohne Salz un Peffer
+tu	55271	Piatek	1	Er eßt die Eier ohne Salz und Pfeffer.
+tu	-55300	Goliszew	1	Er eßt die Eier immer ohne Salz un ohne Peffer.
+tu	55305	Poroze	1	Ha tutt immer die Eer öihne Salz und Faffer assn.
+tu	-55306	Rzymsko	1	Er eßt die Eier immer‿ohne Salz und Pfeffer.
+tu	-55308	Baldrzychow	1	Er eßt die Eier immer ohne Salz und ohne Feffer
+tu	55320	Sanie	1	Er tut die Eier immer ohne Salz u. Pfeffer essen.
+tu	-55322	Marianow	1	Er ißt die Eier ohne Salz und ohne Pfeffer.
+tu	-55326	Jozefow	1	Er isst die Eier immer õne Salz und Pfaffer
+tu	55330	Morawki	1	Er ißt [umm?]ezo d' Euje ohne Solz und ohne Pfeffe.
+tu	-55331	Rzepiszew	1	Er eßt die Eier imme ohne Salz und Feffer.
+tu	-55338	Justynow	1	Er eßt die Eia imma ohne Salz und Pfeffer.
+tu	-55344	Slomkow Suchy	1	Er isst die Euer furt ohne Solz und Pfeffa.
+tu	-55349	Markowka	1	E eßt die Eija imma ohne Salz und Fefa.
+tu	-55350	Rzgow	1	Er ehst die Oier immer ohne Salz un Peffer Er ehst die Eier immer ohne Salz und Pfeffer.
+tu	-55354	Laznowska Wola	1	Er eßt die Eier immer ohne Salz und Pfeffer.
+tu	-55359	Kiebitztal (Kuznica)	1	Er eßt die Eier immer ohne Salz und Pfeffer.
+tu	-55360	Ostrow	1	Er eßt die Eier immer ohne Salz und Pfeffer.
+tu	-55361	Wielka Wies	1	Er ißt die Eier ohne Salz und ohne Pfeffer.
+tu	-55362	Suchcice	1	Er eßt die Eier ohne Salz u. Pfeffer.
+tu	-55363	Siemkowice	1	Er eßt Eier ohne Salz und Pffer.
+tu	-55365	Dobroslaw	1	Er ißt die Eier ohne Salz u. Pfeffer.
+tu	-55366	Belchatów	1	Er eßt de Eier immer ohne Salz und Pfeffer.
+tu	-55373	Luszczanowice	1	Er ißt die Eier immer ohne Salz u. Pfeffer.
+tu	-55375	Ozarow	1	Er ißt die Eier immer ohne Salz und Pfeffer.
+tu	-55376	Jaworzno	1	Er eßt die Eier immer ohne Solz und ohne Pfeffer.
+tu	-55377	Natolin	1	Er ißt die Eier ohne Salz und ohne Pfaffer.
+tu	-55382	Czarny Las	1	Er eßt die Eier immer ohne Salz und Pfeffer.
+tu	-55383	Huta Stara A	1	Ejr ißt de Eijr ohne Solz ond Feffer
+tu	55384	Myszkow	1	Er ißt die Eier immer ohne Salz und Pfeffer.
+tu	55387	Dabrowa Gornicza	1	Er ißt die Eier immer ohne Salz und Pfeffer.
+tu	-55389	Kwaczala	1	Er eßt die Aier ohne Salz un Pfeffer.
+tu	-55394	Freistadt (Fryštát)	1	Er ißt die Eier immer ungesalzen u. nicht gepfeffert.
+tu	-55408	Bistritz (Bystrice Nad Olsí)	1	Es ißt die Eier immer ohne Salz und Pfeffer.
+tu	-55411	Radziechowy	1	Er esst E[u?]jer immerzou uhne Soalz und Pfaffer.
+tu	-55415	Skomlin	1	Er eßt die Eier ohne Salz u. ohne Pfeffer
+tu	-55416	Kamesznica	1	Er ißt d' Oaier immerzou ohne Salz und Faffer.
+tu	-55418	Schönwalde (Wrzosy)	1	He et de Eche imme on Solt o Päppe.
+tu	-55425	Wyszewo	1	Hei ätt dei Eje ohn Sut unn Päper.
+tu	-55522	Nojewo	1	Er ist die Eier ohne Salz und Pfeffer.
+tu	5717	Illeben	1	he eßt die Eier emmer ohne Saelz und Pfaeffeṛ.
+tu	573	Lykowo	1	Hei et dei Êge ümme âhn Sult ô Pä̂pe.
+tu	5730	Gebesee	1	A eßt d’ Eier emmer ohne Sahls o Faffer.
+tu	5752	Thalborn	1	Ä esst de Eier emmer ohne Sahlz on Pfă̈ffer.
+tu	5774	Nirmsdorf	1	Ae eßt de Eier emmer ohne Salz on Fäffer.
+tu	5810	Crölpa-Löbschütz	1	A ißt dEier immer unne Solz unn Pfaffer.
+tu	5827	Krössuln	1	Ä ißt de Eier immer uhne Salz un Fäffer.
+tu	584	Dunowo	1	Hei ett dei Ege ümme auan Sullt oa Peipe.
+tu	5863	Michelwitz	1	hä ißt de Eer immer uhne Sohlz un Faffer.
+tu	5867	Hollenbach	1	hah ißt d’Eier immer ohne Sahlz un Pfaffer.
+tu	5875	Schlotheim	1	Er ißt die Eier immer ohne Sahlz un Pfäffer.
+tu	6074	Obertopfstedt	1	Hǟ ößt de Eier immer ohne Sohlz u Fäffer.
+tu	6089	Etzleben	1	Ä eßt de Eier immer ohne Solz u Fäffer.
+tu	6105	Allerstedt	1	Ä eßt de Aier emmer ohne Soolz un Fäffer.
+tu	6116	Gleina	1	Er ißt de Eier immer uhne Sɑlz un Pfäffer.
+tu	6129	Kleinkayna/Kleinkaina	1	E’ ißt d’e Eier immer ohne Salz und Pfäffer.
+tu	6168	Rehbach	1	Er ißt die Eer immer ohne Saalz und Pfeffer.
+tu	6171	Mengelrode	1	haͪ isst die Eier immerohne Solz und Pfaͪffer. 
+tu	6185	Kirchworbis	1	Ha ißt die Eiȷer immer ohne Sohlz un Pfaffer.
+tu	6196	Grosswenden	1	A2 2 über A (ha) ißt dȇ1 1 über e Eier immer ohne Sohlz un Fäffer.
+tu	6341	Auleben	1	Ärr ißt de Eier immer ohne Soolz unn Fäffer.
+tu	6359	Hackpfüffel	1	Ä’ ißt d’ Eijer immer ohne Sohlz un’ Fä̳ffer.(S. ad2).
+tu	6371	Mittelhausen	1	Ä̌ [mit Breve] ißt dä̌ Eier immer ohne Sohlz unn Pfaffer
+tu	6388	Stedten	1	Ä ißt d’e Eier immer ohne Solz un Feffer.
+tu	6400	Ammendorf	1	Ä ißt [Bogen unter beiden Wörtern] de Eier innner ohne Sa alz un Feffer.
+tu	6418	Glesien	1	Er ißt die Eer immer ohne Saalz un Pfeffer.
+tu	6426	Zwinge	1	hei et de Aiera immer ohna Soahlt un Pöpper.
+tu	6472	Stolberg (Harz)	1	he ißt die Eier immer ohne Solz u. Pfa̓ffer.
+tu	6577	Walkenried	1	He ißt de Eijer immer ohne Sōlz un Faffer.
+tu	6593	Königerode	1	he ißt d’Eier immer ohne Soolz un Fäffer.
+tu	6610	Vatterode	1	He ißt de Eer immer ohne Soolz un Fäffer.
+tu	6630	Freist	1	Er ißt die Eier im̅er ohne Soalz und Fäffer
+tu	6656	Drehlitz	1	Hä ißt de Eier immer ohne Saalz un Pfeffer
+tu	6660	Möst	1	Er ist die Eier immer ohne Saalz un Feffer.-
+tu	6682	Ramsin	1	Ä ißt de Eer immer ohne Saalz unn Pfeff’r.
+tu	6690	Braunlage	1	Hei it de Eier + ohne Solt un Pepper. +innner
+tu	6705	Rieder	1	Hei itt de Eier immer ohne Sōlt und Pepper.
+tu	6793	Riefensbeek	1	Hei ät dä Eijere ümmer one Sold un Pöpper.
+tu	6801	Neuwerk	1	Hei itt de Eigere im̅er ohne S[e?]ld und Pepper.
+tu	6821	Aschersleben	1	Er itt de Aier imm_ er ohne Salz u. Pfeffer.
+tu	6831	Gröna	1	Er ißt de Eier immer ohne Sålz un Pfeffer.
+tu	6848	Elsdorf	1	Er ißt die Eier immer ohne Salz und Pfeffer.
+tu	688	Pregowo Zulawskie	1	He ett de Eier emmer o͡ane Solt on Päper.
+tu	6891	Danstedt	1	Hei itt de Eire ümmer ohne Solt und Pöpper.
+tu	6960	Abbenrode	1	Hei itt de Eier immer uhne Su[o?]hlt un Pepper.
+tu	6981	Emersleben	1	Hei itt deh Eier ümmer ohne Sohlt und Pöpper.
+tu	6995	Egeln	1	Hei itt di Eier immer one Solt un Pepper.
+tu	7007	Eickendorf	1	Hei (er) ött de Eier immer ohne Solt un Peper.
+tu	7022	Kämeritz	1	Er ät die Eier ummer oane Solt un Päper.
+tu	7033	Natho	1	Hä et die Eier o͡ahne Sollt un Pä͡aper.
+uv	7180	Liemehna	1	hä ißt de Eer immer uhne Saalz unn Fäffer.
+uv	7198	Röcknitz	1	Ä ißt de Eer immer ohne Sahls und Fäffer.
+uv	7212	Lausa	1	Är ißt die Eier immer uane Faffer un Soalz.
+uv	7225	Kosilenzien	1	Er ißt die Eier immer ohne Saalz und Pfaffer.
+uv	7246	Kahla	1	Er isst die Eier immer ohne Sals und Feffer
+uv	7253	Ruhland	1	Er iß die Eier immer ohne Salz und Feffer.
+uv	7263	Lauta	1	Er ißt die Eier immer ohne Salz und (Pfeffer). Feffer.)
+uv	7363	Brösa	1	Er ißt die Eier immer ohne Saalz un Feffer.
+uv	7371	Falkenberg	1	Er ißt de Eier immer ohne Saalz und Feffer.
+uv	7384	Rosenfeld	1	E. ist die Eier immer ohne Sahlz un Pf effer.
+uv	7394	Wiederau	1	Er ißt die Eier immer ohne Saalz un Fäffer.
+uv	74	Gwiezdzin	1	Hai at d’Ehgge ümme auen Solt u Pähpe
+uv	7412	Lugau	1	Er ißt die Eier immer ohne Sahls und Pfeffer.
+uv	7427	Dollenchen	1	Er ißt die [?]eier kann den Buchstaben nicht zuordnen immer ohne Salz und Feffer
+uv	743	Rudki	1	He ett de Ege ümme auen Sold u Peipe.
+uv	7435	Petershain/Neupetershain	1	Er ißt die Eier immer ohne Salz und Pfeffer.-
+uv	748	Budy	1	He ätt de Ege imme aun Sold u Peipä.
+uv	7529	Schleesen	1	Eh ißt deh Eier immer ohnn Soalz un Pfeffer.
+uv	7546	Bleddin	1	Er (hä) ißt de̬ Eier immer oahna̬ Saalz un Pfeffer. (Statt Er häufig:der)
+uv	7562	Klossa	1	Er ißt de Eier immer ahne Saalz un Pfeffer.
+uv	7576	Werchau	1	Err ißt die Eiere̮ immer oahne Saalz unn Feffer.
+uv	7586	Wendisch Drehna/Walddrehna	1	Er ißt die Eiere ohne Saels und Peffer.
+uv	7596	Schlabendorf	1	Er ißt die Eier immer ohne Salz und Pfeffer.
+uv	760	Zakrzewo	1	Hei ätt dei Egge ümme auen Sold u Pepa.
+uv	7688	Straach	1	Hä ett de E_er immer o͜ahne Bogen unter „oa“ Salt un Päper. 6)
+uv	769	Nowy Dwor	1	Hei et der Jja ümma auhn Suld uh Päpa.
+uv	7696	Rahnsdorf	1	He ett de Eier aone Salz un Pfeffer.
+uv	7710	Rohrbeck	1	Er ett de Eiere immer o͡ahne Solt un Päper.
+uv	7721	Wahlsdorf	1	Är itt die Eiere immer ohne Solt und Päffer.
+uv	7732	Hohendorf	1	Hä ißt di Eierē immer oane Sâlz und Pfeffer.
+uv	7747	Treppendorf	1	Er eßt die Eier immer ohne Salz und Pfeffer.
+uv	7758	Sacrow	1	Er eßt die Eier immer ohne Salz und Feffer.
+uv	7964	Zedtlitz	1	Ar ißt de Eer ohne Sualz un Pfaffer.
+uv	7979	Hohnbach	1	Ar ißt de Eier uaohne Saohlz un Pfaffr.
+uv	80004	Grindelwald	1	Är isst d’Eier geng ohni Salz u Pfäffer.
+uv	80023	Bosco	1	Ar isst t Eijar eistar ōni Solts un Pfaffar.
+uv	8011	Ziegra	1	Ar ißt di Eier immer ohne Solz und Pfaffer.
+uv	803	Lunawy Male	1	He ät de Eie imme ohne Sult o Pepe
+uv	8032	Rausslitz	1	Ar ißt d’Eier immer (echal=egal) ohne Saals unn Pfaffer.
+uv	8055	Coswig	1	Ar ißt de Eier immer ohne Saalz und Pfaffer.
+uv	8075	Langebrück	1	Ar ißt d’ Eier ümmer ohne Sahlz und Pfaffĕr.
+uv	8092	Frankenthal	1	Ar eßt de Eier emmer ohne Sahlz u Pfaffer .
+uv	821	Bukowiec	1	He ett de Ege one Solt o Peepe.
+uv	8272	Fuchshain	1	ha ißt de Eeer immer ohne Saalz [un?] Pfaffer.
+uv	8289	Nerchau	1	Er ißd de Eier im̅er ohne Salz un Feffer.
+uv	83	Charzykowy	1	Hai ätt dai Ege ümme aune Solt u Päpe.
+uv	8305	Limbach	1	Ar ißt de Eier egal ohne Sahls unn Faffer.
+uv	8321	Mergendorf	1	Är ißt de Eir immr ohne Sualz un Fäffr.
+uv	8345	Rostig	1	Er ißt die Eier immer ohne Saalz und Pfaffer.
+uv	8358	Steinborn	1	A ißt die Eier immer ohne Sahlz un Pfaffer.
+uv	8368	Bernbruch	1	Ar ößt die Eier ohne Salz und Pfaffer.
+uv	8505	Dretschen	1	Ar ißt die Eier immer ohne Salz und Faffer.
+uv	8519	Kittlitz	1	ha üßt d’Eer im̅er ohne Sahlz und Pfaff’r.
+uv	8532	Kunnerwitz	1	A ißt de Eer immer ohne Saalz u. Pfaffer.
+uv	8546	Siekierczyn	1	A ißt de Eer immer ohne Soalz und Pfaffer.
+uv	8560	Wolbromow	1	A ißt d’ Ei’r immer ohn’ Sahlz und Pfaff’r.- 
+uv	8574	Pieszkow	1	A ißt de’ Eeer immer ohne Saalz und Pfaffer.
+uv	8590	Prusice	1	A ißt dĭ Eer immer ohne Sahls und Faffer.
+uv	8614	Ogonowice	1	Ar ißt die Aeer immer ohne Salz und Faffer.
+uv	8716	Förstgen	1	Ar ißt die Eier im̅er ohne Solz u Pfaffer.
+uv	8726	Ober Horka I	1	A ißt de Eer immer ohne Saalz [&?]nd Faffer.
+uv	8736	Wegliniec	1	A ißt d’Eer immer ohne Saalz und Pfaffer.-
+uv	8740	Kierzno	1	A ißt die Eer immer uhne Sahlz und Pfeffer.
+uv	8751	Szczytnica	1	A ißt di Eer immer ohne Salz und Pfaffer.
+uv	8762	Göllschau (Goliszów)	1	A ißt die Eer immer ohne Sahlz un Pfaffer.
+uv	8777	Bieniowice	1	A isst di Eier immer ohne Saalz und Pfaffer.
+uv	880	Strzeczona	1	Hei ätt dei Igge ümme aun Solt o Päpe.
+uv	8852	Klein Priebus	1	A ißt de Eer immer ohne Pfaffer und Saalz.
+uv	8858	Okraglica	1	Ar ist die Eer immer ohne Soalz und Pfaffer.
+uv	8865	Koberbrunn	1	A ißt de Eer immer ohne Saals und Pfaffer.
+uv	8870	Armadebrunn (Studzianka)	1	A ißt die Eeer immer ohne Sahlz und Pfaffer.
+uv	8878	Trzmielow	1	A ißt di Eer immer ohne Saals u. Faffer.__
+uv	8888	Skladowice	1	A ißt die Eer immer ohne Salt u. Faffer.
+uv	895	Jelencz	1	Hai eet dei Igge ümme aun Solt u Pääpe.
+uv	8972	Cantdorf	1	Er ißt die Eier immer ohne Salz und Feffer.
+uv	8981	Eichwege	1	Er ißt die Eier immer ohne Salz u. Pfeffer.
+uv	899	Iwiec	1	Hei ät dei Jggä ümmä aun Sult uh Päpä.
+uv	8990	Jedrzychowice	1	Er ißt die Eere immer ohne Sahlz und Pfaffer.
+uv	9000	Kunzendorf (Kunice)	1	Ha ißt die Eer immer uhne Sahlß und Faffer.
+uv	9015	Chichy	1	A ißt de Eeer im̅er uhne Saalz u. Pfaffer.
+uv	9025	Przeclaw	1	A ißt d’ Eier im̅er o͡ane Saaz und Faffer.
+uv	9036	Jakubow	1	Ha ißt d’Eer immer aun Sālz und Faffer.
+uv	9052	Rzeczyca	1	A ißt dĕ Eer immer uhn Saals u. Pfaffer.
+uv	906	Busnia	1	He ett de Eie ohne Solt on Pepe.
+uv	9143	Mehlen	1	Dar ißt de Aiere immer ohne Saalz und Pfaffer.
+uv	9152	Dluzek	1	Ha ißt die Eier immer ohne Sālze und Faffer.
+uv	9163	Bialowice	1	Ha ißt dĭ E’er immer ohne Sālz und Pfaffer.
+uv	9179	Broniszow	1	A isst d’Eier immer uôhn Saalz und Faffer.
+uv	9193	Alt Tschau (Stare Żabno)	1	Ar ißt d’Eire immer uohne Saalz und Pfaffer.-
+uv	920	Lisie Katy	1	He ett de Eier emmer ohn Soalt un Päper.
+uv	9200	Grochowice	1	Ha ißt d’ Äär immer ohne Sa͡als und Faffer.
+uv	9207	Konradowo	1	Ar isst ju die Äer immer aun’ Sahlz und Faffer.
+uv	9274	Staakow	1	Er eßt di Eire immer ohne Salz und Feffer.
+uv	9280	Kaltenborn	1	Ar ißt die Eire immer uohne Sahlz und Pfaffer.
+uv	9288	Czeklin	1	Ar ißt die Eer immer ohne Saalz und Pfaffer.
+uv	930	Goczalki	1	Er eßt de Eier ömmer ohne Salz on Feffer.
+uv	9303	Lubiatow	1	A isst di Ere immer ohne Sahlz und Faäffer.
+uv	9314	Zielona Gora	1	A ißt di Eier immer ohne Sahlz und Pfaffer.
+uv	9323	Zabor	1	A ißt die Eire immer ohne Sălz und Faffer.
+uv	9335	Ciosaniec	1	A ißt die Eier immer ohne Saz und Faffer.
+vw	9400	Miloszyce	1	Er ißt die Eier immer ohne Salz und Pfaffer.
+vw	9417	Prietzen	1	A ĭßt de Aier ohne Salz und Pfaffĕr. (das e in Pfaffer ganz kurz)
+vw	9433	Ujazd Gorny	1	A ißt d’Eeér immer ohne Saals und Pfaff’r.
+vw	9453	Lisowice	1	A ißt di Eire immer ohne Saalz und Pfaffer.
+vw	9558	Ligota Piekna	1	A isst die Eier innnr ohne Saahls un Faffer.
+vw	9579	Jenkowice	1	A ißt de Aier immer ohne Saalz und Faffer.
+vw	9592	Jemielna	1	Er ißt die Eier immer uhne Salz und Pfeffer.
+vw	9612	Prawikow	1	Ar ißt die Aehr immer oauhne Saalz und Faffer.
+vw	9622	Warzyna	1	A ißt die Eer immer auhne Sals und Pfaf fer.
+vw	9717	Domanowice	1	A ißt de Eire immer ohne Sālz und Faffer.
+vw	9739	Kamien	1	Er frißt die Eier immer ohne Salz und Faffer.
+vw	9760	Krzelow	1	A ißt de Eier immer ohne Saalz und Faffer.
+vw	9775	Staszowice	1	A ißt die Äier immer ohne Saalz und Pfaffer.
+vw	9799	Lazy Wielkie	1	A ißt de Ei'r immer oahne Sahls und Pfaffer.
+vw	983	Gromaden	1	He ät de Eggä immä au'n Sult u Paipä.
+vw	984	Friedberg	1	Hei ätt dei Egä ümmä auhn Solt o͡u Päpä.
+vw	9848	Godnowa	1	Ar ißt die Aeer immer ōhne Saalz und Pfaffer.
+vw	9877	Chroscina	1	A ißt d’Är immer uan Saalz und Pfăffer.
+vw	9891	Gosciejewice	1	Ar ißt die Ere immer ohne Salz un Pfaffer.
+vw	99	Trumiejki	1	Hä ett de [Ee?]jjer a͡onĕ Sold onn Päper
+vw	990	Walownica	1	He ätt d Jgge imme on Sold o Pepe.
+vw	9903	Sonnenfeld (Orpischewo)	1	A is die Äre immer ohne Sālz und Faffer.
+vw	9919	Wierzowice Male	1	A ißt die Äer immer ohne Sahlz und Pfaffer._
+vw	9926	Wodniki	1	A, ißt die Eer immer ouhn Saalz und Pfaffer.
+vw	994	Kabat	1	He ett de Egge ömme ohne Solt o Päpe.
+vw	9984	Morkowo	1	Ar ïßt d’ Är immer mit Saalz und Faffer.
+vw	54872	Reval	1	Her hisst Hejer himmer hōne Ssals hun wäfwer.
+vw	52353	NA	1	Hei et de Eier emmer ohn Suld un Peper. 
+vw	30173	Ajoncourt	2	I mĭnge tojo les ieu sans sĕe et sans poive.
+vw	30197	Vaxy	2	I minge tojo les ûes sans sé et sans poëvre.
+vw	30214	Bénestroff	2	I mégon tojo les ûfs sans sé et poėvre.
+vw	30225	Attilloncourt	2	I minge tojo les ues sans sé et sans poêvre
+vw	30248	Bezange-La-Petite	2	i minje tojo les u sans sā et sans poūève.
+vw	30254	Maizières-Lès-Vic	2	Y mainge tojo les ûs sans sâ ni pouèvre.
+vw	30268	Richeval	2	I minge tojo les ieux sons sa et sons pouèvre.
+vw	30285	Lommerange	2	Il minge toujou sans sall et sans puaive les ieuz.
+vw	30314	Argancy	2	Y minge tojo les yeus sans pouève et sans cé.
+vw	30325	Vernéville	2	Y minge taujau les ieux sans seil ni půoèvre.
+vw	30351	Ancy-Sur-Moselle	2	Y minge tojo les yeux sans set ni pouéve.
+vw	30361	Orny	2	I mainge tojo des ieux sans sé ni poëvre.
+vw	30374	Hémilly	2	Il minge tojo les ie sans se et sans poëvre
+vw	30379	Champenay	2	I mänsch toho lis Ü son Sa ne Puäwr.
+vw	30410	La Petite Lièpvre	2	Et mindj toucou les ũes sno sau est sno poêvre. Il mange toujours les aeuf sans sel et sans poivre.
+vw	30421	Montreux-Vieux	2	E mengue les nes sain sâ ni poivre.
+vw	30429	Xhoffraix	2	Ju magne toli les ous sons sé ni peuf.
+vw	30436	Pont	2	I magn (gn=nj) toudi lè z'oû sin sé è sin peuf.
+vw	30058	Karkelbeck	3	Jis walgo Kiaufzus wįs bę Drufkōs ir Pįpįrū.
+vw	30068	Kinten	3	Jis walgo Kiauszus wis be Druskos ir be Pipiro.
+vw	30078	Rudienen	3	Jis wis walgo Kiauſźus bè Drùskôs ir be Pipirú.
+vw	30083	Kolleschen (Kolletzischken)	3	Jis walga Kiaufzus wis be Druskas ir be Pipiriu.
+vw	-54895	Warszawa	10	ę̄r ͜   ęst d̥ī aiər štęndig (‘immer’ ist deutsch, nicht jiddisch!) ų̄n (ų̄ nach ō!) s̥alds in pfęfęr.
+vw	9746	Kobyla Gora	10	Er eßt die Eier im̅er ohne Salz u. Pfeffer.
+vw	46572	Nebel	11	Hi at a Aiar altidj sannar Salt and Pöbbar.
+vw	46636	Hooge	11	Hi eet dea Ajea jümmer ohnea Solt en Pewwer.
+vw	46640	Wobbenbüll	11	Hie eet dü Aje immer one Saalt un Pebber.
+vw	46699	Horsbüll	11	Hi ehrt äh Aije allthedens tanner Salt än Pöber.
+vw	46759	Oland	11	Hi eet dö Ohje jümmer sonner Soolt en Pewwer.
+vw	46773	Mönkebüll	11	Hi edt de Eije jömmer one Salt en Pewwer.
+vw	46888	Archsum	11	Hi ett de Eier altid‘ (langsen) sönder Saalt en Peeper.
+vw	47862	Helgoland	11	Héˆ ätt de Āїer ömmer ßöenner ßôlt ĕ̀n Pŏ″ppe(r).
+vw	48241	Wangerooge	11	Hi ett da Oier immer ahn’ Salt un Püger.
+vw	F002p	Hindeloopen	11	Hie iet de aaien altieten soeander pîêper en saàlt.
+vw	B079p	Zurich	11	Hy iit de aijen altÿd sûnder piper in sâlt.
+vw	F036p	Oudemirdum	11	Hij ĭ́t sĭ́n ā́jən ŏ́ltĭ́t soendər pḗpər ĕ̀n sṑt.
+vw	F003p	Woudsend	11	Hei ít dǝ á̂jǝn oaltît sùnder pépèr ǝn sôât.
+vw	B084p	Wommels	11	Hij iet de aeijen altijt sûnder piper of sâlt
+vw	F013c	Oudehaske	11	Hy iet de (syn) aaien oltiêd soender pîeper en soat.
+vw	B094p	Grou	11	Hεj ɩ̇t sɩ̇n a:jən ɔltɩ̇t(ən) sondər pɩ̇:pər εn sɔ:t.
+vw	B024b	Wijns	11	Hei it ə ai̯ən oltit sundər pipər ən sɔ:t
+vw	B099a	Opeinde	11	Hy yt syn aeijen altyd sûnder peper en sâlt.
+vw	B035a	Zwagerbosch	11	Hy iet de aaien oltied sonder peper en sôt.
+vw	B014p	Paesens	11	Hy yt de aaien altyt sonder pieper en sâlt.
+vw	G001b	Appelscha	11	Hej iet zien aien altied sinder peper en zōt
+vw	46905	Westre	12	Han éer é Ǟk olti ur[ee?] Solt aah Piffer.
+vw	46914	Sophiental	12	Han orre [a?] Ik olti urren Solt og Peffer
+vw	46932	Sonderburg (Sønderborg)	12	Han ʃpiß alti e Ech uen Solt o Peffer.
+vw	46938	Lysabbelholz (Lysabildskov)	12	Han ärre olti e Eg uren Solt o Peffer.
+vw	46939	Toftum	12	NEU (Buchstaben korrigiert): Ha' orr'er oldtid e' Ægg' urr'en Soldt aa' Pevv'er.
+vw	46948	Hönning (Hønning)	12	NEU (Buchstaben korrigiert): Han spis aaltier æ Ag urren Saalt aa Pever.
+vw	46957	Beftoft (Bevtoft)	12	NEU (Buchstaben korrigiert): Han spis aaltid e Æg forurren Saalt aa Peffer.
+vw	46968	Norder Wilstrup (Nørre Vilstrup)	12	NEU (Buchstaben korrigiert): Han ærrer aaltien æ Æg urren Solt aa Pevver.
+vw	47006	List	12	Han eder altid e Eg uden Salt ŏ Pever.
+vw	47007	Jerpstedt (Hjerpsted)	12	NEU (Buchstaben korrigiert): Han spis æ [E/Æ?]g olti [u/e?]rn Solt aa Pevver
+vw	47016	Ellum	12	NEU (Buchstaben korrigiert): Han spis oltid Æg urren Solt aa Pevver.
+vw	47029	Kassöe/Kassö (Kassø)	12	NEU (Buchstaben korrigiert): Han spis oldti e Æg urren Solt aa Peffer.
+vw	47040	Feldstedtholz (Feldstedskov)	12	NEU (Buchstaben korrigiert): Han spis aaltid æd Øg uren Saalt od Peffer.
+vw	47048	Hagenberg (Havnbjerg)	12	Han ärre oltid e Egg urren Solt å Peffe.
+vw	47052	Hellwitt (Helved)	12	Han erre aaltid e Eg urren Saalt og Peffer.
+vw	47057	Kamptrup (Kamtrup)	12	NEU (Buchstaben korrigiert): Han ærrer oldtier æ Ek urren Pev=er aa Solt.
+vw	47066	Grönnebeck/Grönnebek (Grønnebæk)	12	NEU (Buchstaben korrigiert): Han spis æ Æg urren Pew̃er aa Sólt.
+vw	47073	Tyrstrup	12	NEU (Buchstaben korrigiert): Han spis olti æ Æg urren Solt aa Pever.
+vw	47078	Hvidding (Hviding)	12	NEU (Buchstaben korrigiert): Han ærrer aaltins e Æg urren Solt aa Pevver.
+vw	56471	Merzdorf	41	Wen jė te jaja pschezej psches ßoli a pėpra.
+vw	56504	Burg	41	Won jej te jeka pscheze bjes ssole a poperja.
+vw	56507	Nochten	41	Wón jě Jajka pschezo bjes Sselje a Poprja.
+vw	56520	Luppa	41	Jě jeja bez sele a popjera.
+vw	56694	Widno	42	On zawdy te jaja ji bez soli y bez pieprzú.
+vw	56784	Zelistrzewo	42	On te jaja wiedno bez pieprze e bez sole je.
+vw	56785	Jastarnia	42	On jy te jaja wiedno bes Sole i Pieprźe.
+vw	56799	Zalakowo	42	On je te jaja wiedno bez sol [sic!] i pieprzy.
+wx	56805	Sianowska Huta	42	Łon ÿat te Jaÿa bes Soli i bes Pÿeprzu.
+wx	56814	Rebiechowo	42	On je jaja w jedno bez sole a pieprzu.
+wx	56846	Piechowice	42	On je jaja bez soli i bez pieprzu.
+wx	53478	Rombark	43	On jaja zawśźe bez soli i pieprźu jada.
+wx	53489	Rytel	43	Jada jaja zawsze bez soli i pieprzu.
+wx	53514	Lubocien	43	on je te joja zawsze bez soli i pieprzu.
+wx	53521	Kamionka	43	On je jaja zawsze bez soli i pieprzu.
+wx	53535	Orzelek	43	Ie jaja bez soli i pieprzu.
+wx	53538	Szyroslaw	43	On jaja zawsze bez soli o pieprzu jada.
+wx	53545	Pisanica	43	On ié jaỹka zawsze bez soli i pieprźu.
+wx	53567	Glinki	43	Du jé jaja zawsze bez soli i pieprzu.
+wx	53571	Gruczno	43	On jé jaja zawsze bez soli i pieprzu.
+wx	53581	Slawianowo	43	On je jaja zawsze bez soli i pieprzu.
+wx	53602	Zoledowo	43	On jé jaja zawsze bez soli i pieprzu.
+wx	53616	Wrocki	43	On jé jaja zawsze bez soli i bez pieprzu.
+wx	53620	Morzewo	43	On zawsze je jaja bez soli i pieprzu.
+wx	53656	Bartosze	43	On ie iayka zawsze beź soli i beź pieprzu.
+wx	53663	Kraplewo	43	On ie jaja zawsze oproc soli i pieprzu.
+wx	53708	Pokrzydowo	43	On je jaja zawsze bez soli i pieprzu.
+wx	53710	Boleszyn	43	On jaja zawsze bez soli i pieprzu je.
+wx	53721	Nowy Swiat	43	On ije jaja bez pieprzu i bez soli zawsze.
+wx	53745	Wapno	43	On zwasze je jaja bez pieprzu i soli.
+wx	53756	Mamlicz	43	Zwykle je jaja bez pieprzu i soli.
+wx	53760	Rojewo	43	On je jaja zawsze bez soli i pieprzu.
+wx	53771	Wiatrowo	43	On jé jaja zawsze bez soli i peiprzu.
+wx	53819	Galezewo	43	On je zawsze jaja bez soli i pieprzu.
+wx	53822	Lojewo	43	On je jaja zawsze bez soli i pieprzu.
+wx	53834	Bielawy	43	Je Jaja zawsze bez soli i pieprzu.
+wx	53859	Chludowo	43	Jada ciągle jaja bez soli i pieprzu.
+wx	53872	Strzyzewo Koscielne	43	On je zwykle jaja bez soli i pieprzu.
+wx	53877	Kamieniec	43	On je jaja zausze bez soli i pieprzu.
+wx	55537	Ceradz Koscielny	43	Jada zawsze jaja bez soli i bez pieprzu.
+wx	55565	Poznan	43	On zawsze jaja je bez soli i pieprzu.
+wx	55569	Lowecin	43	On jaja zawsze jé bez soli i pieprzu.
+wx	55586	Mierzewo	43	On jé jaja zawsze bez soli i pieprzu.
+wx	55592	Dabrowka Wielkopolska	43	Je jaja zansze bez soli i pieprzec.
+wx	55593	Slupia	43	On je jaja zawsze bez soli i pieprzu.
+wx	55621	Babin	43	(On) jada jaja zawsze bez soli i pieprzu.
+wx	55635	Tadeuszowo	43	On zawsze je jaja bez soli i pieprzu.
+wx	55646	Gorazdowo	43	Je zawsze jaja bez soli i pieprzu.
+wx	55656	Sierakowo	43	On je jaja zawsze bez soli i pieprzu.
+wx	55688	Turew	43	On jé jaja zawsze bez soli i pieprzu.
+wx	55701	Ludwinow	43	On je jaje bez soli i bez pieprzu.
+wx	55702	Radomierz	43	On je jaja przez (bez) soli i pieprzu.
+wx	55720	Kotlin	43	On je jaja zawsze bez soli i pieprzu.
+wx	55725	Gorzno	43	On je jaja bez soli i pieprzu.
+wx	55729	Drzeczewo Pierwsze	43	Nigdy nie je jaj z solą i pieprzem.
+wx	55733	Rusko	43	Spożywa zawcze jaja bez soli i pieprzu.
+wx	55741	Brzezie	43	Je jaja ciągle bez soli i pieprzu.
+wx	55782	Torzeniec	43	On je zawsze jaja bez soli i pieprzu.
+wx	55794	Kuznica Slupska	43	Zwykle jada jaja bez soli i pieprzu.
+wx	55803	Kuklinow	43	Je jaja zawsze bez soli i pieprzu.
+wx	55828	Pomocno	43	On jaja zawsze je bez soli i pieprzu.
+wx	55848	Uciechow	43	On zawsze je jaja bez soli i pieprzu.
+wx	55855	Przygodziczki	43	On zawszo jy jaja bez soli i pieprzu.
+wx	55859	Kaliszkowice Kaliskie	43	On je jaja bez soli i pieprzu.
+wx	55878	Trebaczow	43	On jé jaja zawsze bez soli i pieprzu.
+wx	55894	Greboszow	43	On je jaica wiedno bez soli i pieprzu.
+wx	55900	Pawlowice Gorzowskie	43	Lón jé jajca jeno bez soli i bez pieprzu.
+wx	55940	Skoraszewice	43	On zawsze je jaja przez soli i pieprzu.
+wx	55947	Kwiatkow	43	On je (jada) zawsze bez pieprzu.
+wx	55991	Zabrze	43	On jé jajca bez soli i bez korzenio.
+wx	56013	Radoszowy	43	On jy jajca zawsze bez soli i korzenia. (pieprzu).
+wx	56022	Budziska	43	On dycki jajca jy bes soli i korzénio.
+wx	56027	Stanica	43	On požywa jaja bez soli i korzenia.
+wx	56041	Murcki	43	On jé te jajca zawsze bez soli i bez pieprzu.
+wx	56053	Wilkow	43	Łón jy jajca wdycki bez soli i korzynioł.
+wx	56069	Dobieszowice	43	On jy jajca bez soli i bez korzynian.
+wx	56077	Ujazd	43	On jajca w dyćko bez soli i korzenio je.
+wx	56086	Rzeczyce	43	On jej te jaica jeno bez soli i korzenioł.
+wx	56167	Staniszcze Male	43	On jy jajca zawdy bez soli i bez korzenio.
+wx	56190	Ligota Proszkowska	43	On jy jajca w dycki bes soli i kozynio.
+wx	56205	Radonia	43	On požywa te Jaja bes Soli i bes Kožynio.
+wx	56237	Kotorz Wielki	43	On jajca wdycko jy bez soli i Korzenioł.
+wx	56247	Pawonkow	43	On jé jajca wjednę bez soli i bez korzynioł.
+wx	56252	Cieszowa	43	On jé jajca zawse bez soli i korzenio.
+wx	56257	Zieliniec	43	Łón jé ty jajca zawsze bez soli i pieprzu.
+wx	56269	Debiniec	43	tyn jy te jajo bes soli a 'bes kozyniao.
+wx	56274	Wedrynia	43	On jéj jajca zawszy bez soli i pieprz.
+wx	56338	Frydek	43	O zawsze jajca  je beź soli i bez korzynio.
+wx	56349	Pielgrzymowice	43	On jy jajca dycki bez soli i pieprza.
+wx	56375	Nieboczowy	43	On jy jajca dycki bez soli i korzynio.
+wx	56381	Swierklany Dolne	43	On ié waica dycki bez soli i pieprzu.
+wx	56539	Gieralcice	43	On zawsze jaja je bez soli i bez pieprzu.
+wx	56549	Borki Wielkie	43	On jé jaja zawsze bez soli i pieprzu.
+wx	56576	Kamien Slaski	43	On zawsze jaja bez soli i pieprzu je.
+wx	56580	Strzelce Opolskie	43	On je jaja zawsze bez soli i korzenia.
+wx	56600	Tarnowskie Góry	43	On je jaca zawsze bez soli a pieprzu.
+wx	56650	Bujaków	43	On jada jaja zawsze bez soli i pieprzu.
+wx	56681	Suszec	43	On jada jaja zawsze bez soli i bez korzenia.
+wx	56761	Mgowo	43	On je jaja bez soli i pieprzu.
+wx	56850	Lekarty	43	On je jaja zawsze przez soli i przez pieprzu.
+wx	56861	Lewald Wielki	43	On iada iaika zawdi bez soli i pieprzu.
+wx	56870	Januszkowo	43	On jé jayka zawdi bez śmalcu i bez soli.
+wx	56877	Zimna Woda	43	On ije jaika bez soly i beź pieprźu.
+wx	56884	Roklas	43	On jie jaika zawse bes soly i bes pieprzu.
+wx	56897	Lipowiec	43	On gie jaika zawsze bes Soli i Pieprzu
+wx	56903	Zawojki	43	On jje Iajka safse bes Soli i bes Pieprzu.
+wx	56916	Slawka Mala	43	On je jaika zawdi oproc zoli i oproc pieprzu.
+wx	56953	Baranowo	43	On je Jaika przes soli i Pieprzu
+xy	56956	Macice	43	On jada jayka przez soli i przez pieprzu.
+xy	56963	Narzym	43	On ię iaika bez soli i bez pieprzu.
+xy	56966	Napierki	43	On jada jaika prczes soli i pieprczu.
+xy	56975	Mierki	43	On zawsze je jayka pez pieprzu i bez soli.
+xy	56979	Butryny	43	On je jaika zawsze bez soli i pszeprzu.
+xy	56994	Jerutki	43	On ję jagka zawzdÿ bez soli i pieprzu.
+xy	57047	Nowy Dwor	43	On ię ieiyka zawʃze oproc ʃoli.
+xy	57066	Wysoki Grad	43	On iada jejecnice.
+xy	57070	Pogobie Srednie	43	On je jajka zawse bez soli i bez pieprzu.
+xy	57074	Lipnicken (Lipniki)	43	On je jaika zawhse bez soli i bez pieprzu.
+xy	-57081	Klebark Wielki	43	Łon (on) jaika (jaja) zawsze bez psieprzu (pieprzu [mehr steht nicht, mitten in KLammer abgebrochen] 
+xy	57106	Rybno	43	On jie iaÿka zawsze bez soli i pieprzu.
+xy	57168	Saplaty	43	On iada iaika zawzdÿ oprocz szolÿ i pieprzu.
+xy	57181	Krutyn	43	On je iaika sawsze bes sol i Pieprsch.
+xy	57183	Zdory	43	On ie iajka zawzdy ł przez pieprzu i ʃzoli
+xy	57186	Ruda	43	On ie jaikä zäwsdy bez zoli i bez pieprzu.
+xy	57191	Dybowo	43	On je jayka zawdy bez soli i pieprzu.
+xy	57203	Dlugosze	43	On ie iaika zawsze bez soli i pieprziu.
+xy	57219	Sulimy	43	On ié iaÿka zawzdÿ bez soli i pieprzu.
+xy	57232	Wejdyki	43	On łałga zawsdy oprocz soli i pieprzu łe.
+xy	57258	Wilkasy	43	On jè jajka zawsze bez soli i pieprziu
+xy	57275	Czerwonka	43	Łon je jojka zawdy bez soly i pszeprzu.
+xy	57298	Zastruzne	43	On iada iayka zawsze bez soly i pieprzu.
+xy	57304	Skomack Wielki	43	On iada iayka oproc soly i pieprzu.
+xy	57318	Kile	43	On je jayka zawsʃe oprocz solÿ i pieprziu.
+xy	57321	Prawdziska	43	On jie te jaika sawsdi bies soli i pieprczu.
+xy	57340	Mosina	43	On jodo jaja zawsze przez soli i pieprzu.
+xy	57348	Bnin	43	Je jaja zawsze przez (bez) soli i pieprzu.
+xy	57379	Binkowo	43	On je jaja zawdy przez soli i przez pieprzu.
+xy	57381	Kolniczki	43	Je jaja zawsze bez soli i bez pieprzu.
+xy	57394	Januszkowo	43	Won je jaja zawsze bez soli i bez piepszu.
+xy	57406	Dabrowka Ludomska	43	Łon jy jaja zawsze bez słoli i pieprzu.
+xy	57407	Wiecanowo	43	Je jaja zawsze przez soli i pieprzu.
+xy	57397	NA	43	ten un jot te jaja cinign bes soli ipepszu
+xy	55528	Słone	44	Von ji weice porat bez soli a pepře.
+xy	56290	Groß Hoschütz (Velke Hostice)	44	On ji wajca dyckÿ bez soli a pepřu.
+xy	56344	Ellgoth-Hultschin (Ostrava-Lhotka)	44	On ji ty wajca wždycky bez solj a pepřu.
+xy	44317	Zell-Pfarre	45	Hon ji hajce vsol prez sol in popra.
+xy	I125a	Heille	100	ie eet sən eiərs altet sondər pepər en zout.
+xy	I140p	Axel	100	Die eet eiers altied zonder peper en zout
+xy	I103p	Cadzand	100	Je eet d’eius altied zonder peper en zout.
+xy	I110a	Slijkplaat	100	Die (den dien) eet d'eiers altied zonder peper of zout
+xy	I095p	Hoedekenskerke	100	ie eet eiers oaltied zonder peper en zout
+xy	I101p	Krabbendijke	100	Ie eet de eiers altied zonder peper en zout
+xy	I058p	Westkapelle	100	ī́ ḗt sən ềərs ồltī́t zŏ̀ŋdər pḗpər ŏ̀f sout
+xy	I062a	Serooskerke	100	ie eet zun eiers altie zonder peper en zout
+xy	I048p	Colijnsplaat	100	īē dijərs ôltī zŏndər pēpər en zøut
+xy	I055p	Sint Annaland	100	Ie eet deiers ao*ltied zonder peper in zout
+xy	K173a	Kruisland	100	Ij eet de eìers aaltij zonder peper en zout
+xy	K155p	Zevenbergen	100	ij eĕt sən ḕjərs* altij zondər pepər en zout
+xy	K162a	Oosteind	100	hij ĕet sən ăiərə altijt sondər pḗpər en zout.
+xy	I032p	Burgh-Haamstede	100	Ie eet sən ēiers aoltied zoonder peper in zout
+xy	I031a	Scharendijke	100	Ie eet z'n eiers aoltied zonder peper in zout
+xy	I023p	Dirksland	100	hie eet de eiers altied zonder peper in zout
+xy	K086p	Zuid-Beijerland	100	hàij ḗt zən àijers altàijd zondər peper en zout
+xy	K093p	'S-Gravendeel	100	Hij eet zən aiər altijd(t) zondər pepər en zout.
+xy	K101a	Nieuwendijk	100	Hij ĕt te aaier altijd sonder pèper en zout
+xy	I008p	Rockanje	100	Hij eet de eiers altid zonder peper en zout
+xy	K042a	Vlaardingen	100	ai eet z'n aieren altaid zonder peper en zout.
+xy	K012p	Ouderkerk Aan den Ijssel	100	Hij eet de eiere altijd zonder peper en zout.
+xy	K022p	Willige Langerak	100	Ie eet zijn eieren altijd zonder peper en zout
+xy	D005p	Den Haag	100	Hei̯ ēt ei̯ərə altèt sondər pēpər en zòt
+xy	E179p	Zwammerdam	100	Hij eet de eiere altijd zonder peper en zout
+xy	E181p	Zegveld	100	Hij ḗt zən eiərə ằltijt sŏ̀ndər pḗp.. ĕ̀n zout
+xy	E133p	Katwijk Aan Zee	100	Zən à̱iərə êt ī́ altè̱ıt zŏ̀ndər pé̱pər ĕ̀n zò̱uoet.
+xy	E138b	Abbenes	100	Hij eet de eieren altaid zonder peper en zout
+xy	E147a	De Kwakel	100	Hij eet z'n eieren altijd zonder peper en zout
+xy	E080a	Velsen	100	Hij eet de eiere altijd sonder peper en sout
+xy	E086p	Zaandam	100	Hai eet aiere altaid zonder peper en zōut
+xy	E041p	Egmond Aan Zee	100	Ai iet zen aaiere altait zonger pieper en zaauwt
+xy	E047a	Stompetoren	100	Hai eet s'n aiere altaid sonder peper en zout
+xy	E010p	Sint Maarten	100	Hai eet z'n aiere altaid zonder peper en zout.
+xy	E005p	Westerland	100	Hij eet z'n oaiere altijd zonder peper en zout.
+xy	A009p	De Waal	100	Hee eet sien eier altòòs zonder peper en sout.
+xy	K218p	Bladel	100	Hij ĕet sən aājər altĕ̀ zondər pḕpər of sout.
+xy	K214p	Lage Mierde	100	Hij gebruikt de eieren altijd zonder pèper en zout
+xy	K165p	Udenhout	100	Hij it z'n eier ātij zonder pḕper en zout
+xy	K104a	Herwijnen	100	Hij èt z'n aaier altijd zonder pèper en zout
+xy	K035p	Hei-En Boeicop	100	Hij eet de ijeren altijd zonder peper en zout.
+xy	E192p	Utrecht	100	Hij eet de eiere altijd zonder peper of zout ( geen "en zout")
+xy	E124p	Ankeveen	100	Hij eet ze eiere zoo op
+xy	E091p	Monnickendam	100	hei eet sən eiərə sondər peepər en sou(w)t
+xy	E058p	Hoorn	100	Hij eet se eiere altijd sonder pepe en sout.
+xy	E031a	Oostwoud	100	Ha̱i ḗt d'áiərə ằlto̱id zŏ̀ndər pḗpər ĕ̀n zout.
+xy	E003a	Den Oever	100	hij eet sien oaere altijd songer peper en zout
+xy	Q095p	Maastricht	100	Heer it zien eier altied zoonder peper of zaait.
+xy	L281p	Borkel	100	Hij eet de eier altè zonder pêper en zauwt.
+xy	L226p	Woensel	100	Hij et sən ĕ̀jərə āāltijt sondər pḕpər of sḕwt
+xy	L177c	Middelrode	100	Hij it z'n èjer alt zonder peper en zawt
+xy	L093p	Lith	100	Hij et sən ḕjər(bad) altijd sondər pḕpər en zout
+xy	L003p	Maurik	100	hεi εt tə ɑ:iər ɑltεit zɔndər pε:pər εn zɔut
+xy	F165p	Amersfoort	100	Hi. eet sə eier ằltiet sŏ̀nder peper en zout.
+xy	F121p	Bunschoten-Spakenburg	100	hie eet de eiers altiet songer peper en zout
+xy	E040a	Venhuizen	100	Hij eet zijn oiere altoid zonder peper in zout
+xy	E040p	Enkhuizen	100	'ij eet zun eiere altied zonder peper en zout
+xy	A001p	Midsland	100	Hij eet zejn eiers altyden zonder peper en zoult.
+xy	Q102p	Sint Antoniusbank	100	er it de èjjer altīēt zŏŏnder pĕĕper of zāt
+xy	L318p	Stramproy	100	Hai itj də eijər altiet songər paipər of zaot
+xy	L288b	Laar	100	Hê (vgl. bête) ĭ̀tj_ə eiər ằltī́t_sŏ̀ngər pêpər ĕ̀n zoat.
+xy	L237p	Helmond	100	Hij et z'n ikes altijd zonder pèper en zout.
+yz	L157a	Oventje	100	Hij it de aaier aaltijd zonder peper en zaut.
+yz	L102p	Ravenstein	100	hei̯ ittə ài̯ər altet sondər pēpər ən zou̯t
+yz	L010p	Wageningen	100	Hei̯ ēt də êi̯ərə altei̯t sondə pēpə en zou̯t
+yz	F170p	Barneveld	100	Hie eet de eier altied sonder peper en zout.
+yz	F124p	Putten	100	hie eet zien eiər altied zondər peepər en zou̱t
+yz	F077p	Urk	100	IJ it de eieren altêêt zonger pêêper en zout.
+yz	B046a	Minnertsga	100	Hij iet de aeijen altiid sûnder piper en sâlt.
+yz	L290p	Panningen	100	Hei̱ it də ei̯ər altīt sonər pêpər ən zôt
+yz	L211p	Leunen	100	Hɪj ɪt-te eier āltiet-sonder pɛ̄per en zālt
+yz	L116p	Beek	100	hĕij ĕt siĕn eier altiĕ sonder pḗper en sout
+yz	L023p	Arnhem	100	Hie eet sən eiərə altiet sondər pepər of sout
+yz	F173p	Hoenderloo	100	Hi et də eiər altid zonder peper en zout.
+yz	F128p	Vierhouten	100	Hie eet de eiern altiet zonder peper en zout
+yz	F102p	Oldebroek	100	hij eet de eiers altied'n zonder peper en zolt
+yz	F079p	Ens	100	Hij eet de aiers zonger peper en zout.
+yz	F052p	Kuinre	100	Ej eet de eiers altied zonder peper en zout
+yz	B002p	Nes	100	Hij eet z'n eies altied zonder peper en zout
+yz	F207p	Drempt	100	heej et (de, zien) eier altied zonder pèper en zolt
+yz	F179p	Zutphen	100	Hî et d'eier altied zonder pêper en zolt.
+yz	F132p	Diepenveen	100	Hie et de eier altied zonder pèper en zolt.
+yz	F106p	Windesheim	100	hij it de eiern altied sonder peper en solt.
+yz	F086p	Rouveen	100	hi'j èt də èjər àltīt zund'r pēpər èn zòlt
+yz	F060p	Steenwijk	100	Ij êt d eies altiet sonder peper en solt.
+yz	F021p	Oldeberkoop	100	Hi-j et zien eier altied zonder peper en zoolt.
+yz	G279a	Zieuwent	100	heĕj eddə eiərə altiĕt sondər pepper en zalt
+yz	G246p	Lochem	100	he: ɛt(t)ə ɛiəʀaltiet sɔndəʀ pɛpəʀɛn zɔlt.
+yz	G197p	Holten	100	Hee èt de (of: zine) ajr aaltiet zoondr pèpr en zòòlt
+yz	G139a	Arriën	100	hie et d'eier aait zonder pepper en zolt
+yz	G091d	Linde	100	hi-j êt de eier altied zunder pêper en zolt op
+yz	G024p	Dwingeloo	100	Hi'j et de eier altied zunder peper en zolt
+yz	C145p	Zevenhuizen	100	Hij et de eier altied zunder peper en zoalt.
+yz	C063p	Oldehove	100	hai èt d'aier aaltied zunder peper en solt
+yz	C023a	Hornhuizen	100	Hai èt zien aier altied zŭnnêr pēper en sòlt
+yz	G257p	Haaksbergen	100	hee et_de eie(r) aaltied zoonde(r) zôôlt en peppe(r)
+yz	G173p	Almelo	100	Hee et zien eier aaltied zoander pèper en zoalt.
+yz	G094p	Gramsbergen	100	hie et ziene eier aaltied zonder pöpper en zolt
+yz	G031p	Orvelte	100	Hij et de eier altiet zunder peper en zolt
+yz	G007p	Rolde	100	Hie et d'eier aaltied zun'r peper en zòlt
+yz	C148a	Glimmen	100	Ha̱i èt si̱e̱n (3) a̱iər ālti̱et sùndər pépər èn zòlt
+yz	C070a	Sint Annen	100	Hai ēt zien aier altied zunder peper of zolt.
+yz	C001b	'T Lage Van De Weg	100	hai èt zien aier altied zunner peber en zōlt.
+yz	G079a	Amsterdamscheveld	100	hij èt de eier altĭt zonder péper en zṑlt.
+yz	G058p	Emmen	100	Hie et zien eier aaltied zönder peper en zolt.
+yz	G012a	Nieuw-Buinen	100	(h)ai et de aier altied zönder (zunder) peper of zaolt
+yz	C156p	Muntendam	100	Ai et d'aier altied zonder peper en zòlt.
+yz	C081p	Weiwerd	100	(H)ai èt d' aier altied zunder peper en zò̄lt.
+yz	C042p	Spijk	100	Hai et zien aier altied zunner peper en zôlt
+yz	C165p	Bellingwolde	100	hai èt zien aier altiet zunder peepr en zōlt
+yz	G285p	Meddo	100	Hêe et de eiere altied (of: toerzoer) zônder pèper en zalt.
+yz	K189p	Essen	100	ÿ (j) it aaiers aaltÿ (j) zonder zout [verbessert: zoit(?)] of (bɛi) peper (zacht).
+yz	P133a	Terlanen	100	Hij ét d'are altijd zonder zaait of pèper
+yz	K191p	Meerle	100	Hij eet de aejers altij zonder zout of peper
+yz	K234p	Wechelderzande	100	a e̞t sən a:rə alte̞ zo̞: sotər zout ofpe:pər
+yz	K305p	Olen	100	Haə èt də aərən altãə zonder zaut (zöt) of pèpər
+yz	P025p	Aarschot	100	ā (a) ät (et) zǝn ārǝ åltā zọndǝr (sọndǝr) zāt ǫf päpǝr (pępǝr).
+yz	P154p	Outgaarden	100	ǝn ẹt ā̊rə ålt ẹt sondər zā̊t ox pẹəpər.
+yz	K196p	Poppel	100	Hy eĕt de aeier altỳ zonder zout of peper. Beter: hÿ doe noet (v. nooit) geĕ zout in z'n aeier.
+yz	K241p	Retie	100	Ha[?]e̜t åər åltai zõdər zäit of pē̜pər
+yz	K314a	Gompel	100	hē̜ ẹt tə ā̜r altē̜ zondər zō̜t ọf pēpər
+yz	P047p	Loksbergen	100	H[i?]ə èt de erə (ērə) altèt zonder zaat og pīəper.
+yz	P174p	Velm	100	Hië it de eer altet zonder zaët och pèper.
+yz	L353p	Eksel	100	Hij et de eër altied zonder zaut of peper
+yz	Q001p	Zonhoven	100	eę jėt dēər altẹət zonər zāt ọn pėəpər
+yz	Q079p	Guigoven	100	hiẹ it də ēr altēt zondər zå̄t en piẹpər.
+yz	L360p	Bree	100	hɛˑ itj ə ɛjər altiˑət zo̜ndər zaut ɔf pɛpər.
+yz	L417p	As	100	Hé it de eier altied zonner zaut of pèper
+yz	Q253p	Montzen	100	hèjǝ it dǝ èjǝr altīet zondǝr (ook: oonǝ) zōt of pèpǝr
+yz	O009p	Gottem	100	Hie eet d' eiers altyd eur.
+yz	O182p	Volkegem	100	Ie‿eet-ÿ d' ei(e)rs oltÿt sonder zout of peepre.
+yz	I163p	Oosteeklo	100	nə̃ e:t altɛjd ærs zɔndər pe:p(ə)rə ɔf zø̜t
+yz	I243p	Destelbergen	100	Hee eet zyn eiers altÿd zonder zat of peepre
+yz	O112p	Elene	100	Hij eet de eiers (altijd) zonder peper of zout. [Pfeil unter 'altijd' nach vorne weisend.]
+yz	I261p	Appels	100	Hÿ eetj d'eiren alteid zonder zout of peper.
+yz	O149p	Iddergem	100	a aet d ərənatɛət dərzɔtofpepər
+yz	O275p	Herne	100	(å)et'å̄rnaltaǝtzọndǝrzōtǫfpē̜pǝr.
+yz	I178p	Beveren	100	Hei it d' âren altit zoonder zaat of peper.
+yz	I268a	Kalfort	100	nǝn ẹt sǝn å̄rǝn altaǝ zǫndǝr zå̄t ọf paipǝr
+yz	O178a	Molenbeek-Saint-Jean	100	ÿ j èt d are altaaid zonder zout of pÿper
+yz	P198p	Sint-Genesius-Rode	100	ei èt altèd are zonder zoat of pèper.
+yz	55045/H051p	Wulpen	100	ænə munɔəjt gɛ̃ zut ɔf pe:pr ænt uzənejərs.
+yz	55005/N024p	Westvleteren	100	æ ɛt dɛjərs ɔsã zundər zut ɔf pe:pər.
+yz	N116p	Loker	100	æ̈̃‿n e̜t tə ɛj[j?]ərz oltit sũdər zut uf pe:pər.
+yz	H016p	Oostende	100	jɛt dɛjərs ɔltit zunər zut ɔf pepər
+yz	55036/H061p	Koekelare	100	jɛtslə̃ndɛjərsundər zut ɔf pe:prə.
+yz	55022	Houthulst	100	Hi'et d' eiers oltied zonder zoet of peper.
+yz	N130p	Wervik	100	J' èt oultĭed zy̆n aiert zoender zoet of peiper.
+yz	H005p	Uitkerke	100	J' it altied eiers zoender zoet of peper (of: J' it (h)ie altÿd)
+yz	55044/H068p	Loppem	100	jɛt z'n ɛjərz altit zɔnd'r zut ɔf pe:prə.
+yz	N041p	Pittem	100	jēt ē̜iərs altet sundər zut o̜f pēprə.
+yz	55023/N141p	Kortrijk	100	je̜t de̜ iərs ōɔltit zɔundər zut of pēpər.(dial. auch ōɔlsan)
+yz	K245p	Deurne	100	Hÿ et altÿd zin eirə zonder peper of zout.
+yz	K332p	Onze-Lieve-Vrouw-Waver	100	A nét de aare altoae zonder zaat of pêper
+yz	P018p	Kampenhout	100	aai doe nooit gee zaat of peiper in zen oare.
+yz	47114	Aarö (Årø)	12	NEU (Buchstaben korrigiert): Han spis aaltien e Æg urren Saalt aa Pevve.
+yz	56462	Babow	41	Wön je te jaja pscheze mimo ßoli a pepra.
+yz	53549	Zon	43	On jada jaja zawsze bez soli i pieprzu.
+yz	53561	Myslowice	43	On jé zawsze jaja bez soli i piepszu.
+yz	43859	Schachendorf	46	On ide jajca prez soli i papra. 

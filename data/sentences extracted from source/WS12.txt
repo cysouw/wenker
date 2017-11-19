@@ -1,0 +1,2499 @@
+Index	Bogennummer	REDE_Namen	Sprache	WS12::Transliteration WS12
+ab	10029	Ringhuscheid	1	Wu je∫t du hin, solä mär moat d'r joan.
+ab	10044	Malberg	1	Wo geh∫t de hien, solle mer m?a?tt der gohn.
+ab	1009	Nowy Klukom	1	Wo geh∫t (e kurz) du ha, schölla wie met die gauha?
+ab	1018	Lasko K Choszczna	1	Wo jeh∫te du ha, schalle wie met die goa?
+ab	10215	Pantenburg	1	Woar geh∫t dou, salle ma m?ä?tt dir gahn?
+ab	1023	Golin	1	Wo geh∫t du hen, schäwie mit die gohn?
+ab	10230	Beuren	1	Bo gäh∫t de hieh, selle mer met dr gehn
+ab	10259	Mörsdorf	1	Bo gä∫t dau hie selle mie mete gin.
+ab	10275	Badenhard	1	Wo geh∫t de hin, sulle mer met der gehn.
+ab	1029	Niekursko	1	Wo'e ge∫t du hen, schö?w? met di metgauo
+ab	10300	Welterod	1	Wu ke∫cht du hi, solle m'r mett d'r keh?
+ab	10315	Bleidenstadt	1	Wu gi∫tn hi(n) solln merr met derr gih(n)?
+ab	10335	Espeler	1	Wu gee∫t du hin, solle mirr met dirr jèhn?
+ab	1035	Stobno	1	Wo ge∫t du he, schöf met die met gauo.
+ab	10351	Brandscheid	1	Wu geh∫t dou hin, sollen mir mat dir gaun.
+ab	10368	Büdesheim	1	Wao gēh∫t dou hin, solle mir matt d'r gaon.
+ab	10381	Waldkönigen	1	Wô jeh∫t dou hin, solle mr môt dr john?
+ab	1050	Krostkowo	1	Wou geh∫t du hen, scho wi mit die gauha?
+ab	10584	Kalenborn	1	Boar gei∫t dou hen, sellen mier met dir gon?
+ab	10601	Gappenach	1	Bo jä∫t de hin, selle mer met der john.
+ab	10621	Rhens	1	Wo gi∫t de hinn, solle mer met der gihn?
+ab	10649	Attenhausen	1	Wu gih∫t de hi, solle ma met da geh?
+ab	10663	Heringen	1	Wu gih∫t dau hin, solle mer met der gihn?
+ab	10690	Honsfeld	1	Wo jeh∫t du henn, sollen mer met der john?
+ab	10697	Dahlem	1	War ge∫t de, da goon ech met dir.
+ab	10709	Aremberg	1	Wo gei∫t dou hin, sollä mer mot dr gahn.
+ab	10736	Hohenleimbach	1	Bo jeh∫t de hin salle mer met dr john.
+ab	10857	Hatzfeld (Eder)	1	Bo geh∫te hinn, siene mer mot dr gi.
+ab	10974	Haindorf	1	Bo gä∫te hüi, som=me met de gäh?
+ab	110	Rozpedziny	1	Wo jeih∫t du hen, sulle wie met di gohne?
+ab	11132	Schwarzwald	1	Wuâ ge∫t de hen, sonn miâ met dich giâ?
+ab	11149	Wipfra	1	Wu gi∫∫t du henn, sommen mähe met dir giehn?
+ab	11180	Remda	1	Wu gih∫t'n hän, soll mer met dir gih?
+ab	11197	Zeutsch	1	Wu gieh∫t du hen, sull mer met dir giehe.
+ab	11212	Breitenhain	1	Wu gih∫t du hin? Soll mer met der gihn?
+ab	11230	Burkersdorf	1	Wu gieh∫ten hin sull mer mit die giehn?
+ab	11252	Seelingstädt	1	Wu gieh∫ten du hin, sullen wir mit dir gehn?
+ab	11262	Seebach	1	Bú gieh∫ten d?o?u hen sun sun mehi met dich gehe.
+ab	1133	Debenke	1	Wäun geh∫t diu hen, schŏ wie mit die gauä.
+ab	1139	Gliszcz	1	Wo geh∫t du hänn schow met du gauä.
+ab	11467	Boilstädt	1	Wuh ge∫t de hänn, sun müh met dir gieh.
+ab	11485	Ingersleben	1	Wu ge∫tn hän, so ma mät dir gihä?
+ab	1150	Czarze	1	Wo geist du hen sew wi met di gohne.
+ab	11515	Gutendorf	1	Wu gi∫t ä henn, salcha met d'r giha.
+ab	11539	Kleinschwabhausen	1	Wu gieh∫t du hänn, summern mit dir gieh?
+ab	11568	Thalbürgel	1	Wo gieh∫t´n henn, solle mern met dir gieh?
+ab	1157	Bielczyny	1	Wo geh∫ch naa, sollet mir mit' dir geh.
+ab	11586	Bad Köstritz	1	Wu gih∫tn hen, sullmr mit dr giehn?
+ab	11607	Lumpzig	1	Wu gihste hen, sulln mr mitdr gih?
+ab	1162	Sierakowo	1	Wo geh∫t du hen, sea wi möt d?ü? goane.
+ab	11645	Gleismuthhausen	1	Wĕ geh∫ta hi, sölln mer mitr gia?
+ab	11673	Mitwitz	1	Wo geh∫tè hi, soll me mit dir gehn
+ab	11763	Aub	1	Bo gèh∫ta hie? söll mer mit děr gia?
+ab	1178	Sokoliniec	1	Wo geh∫t da ha, schölla wi mit di goa.
+ab	11805	Seidmannsdorf	1	Wu ge∫t´n hie, soll'n m'r mit dir giah?
+ab	11825	Wallenfels	1	Wua ge∫t´n hi, soll me mit de gieh?
+ab	11844	Neudorf	1	Wu géh∫t do-u he-i, selln mr mit dir geh?
+ab	11864	Draisendorf	1	Wu geh∫t du hin, soll mer mit dir gahn?
+ab	11881	Sohl	1	Wau gäist'n hi, sölln m'r mit gĭä?
+ab	11896	Sülzdorf	1	Bu gä∫te hie, solla mer mit dich gehen?
+ab	1192	Debsko	1	Woe geh∫t du he, schö wie mit die gaun?
+ab	11927	Bachfeld	1	Wu geh∫t´n hie, soll'n m'r mit'r gih?
+ab	1197	Plociczno	1	Wo geh∫t du heh, schöw wi mit die goa.
+ab	1203	Nakielno	1	Wo geh∫t du hinn, schö wi mett gaua?
+ab	12037	Hildburghausen	1	Wo geh∫t´a hie, säll'n m'r mit d'r geh?
+ab	12070	Neuenbau	1	Wo geh∫te hi, sölln m'r mit d'r gih?
+ab	1208	Wissulke (Wiesiółka)	1	Wo geh∫t du heh, schöllä wi mett di gauha?
+ab	12085	Grumbach	1	Wu ge∫t da^o hien, sell'n ma^or mit dir geh?
+ab	12104	Frössen	1	Wu ge∫ten hei, sell mer mit dir geh? (auch: meit geh.)
+ab	12125	Schwand	1	Wuh geßte hie, selln mr mit dr gieh.
+ab	12148	Kottengrün	1	Wĕ geh∫tn hie, selln mer mit der giehn?
+ab	1215	Paruszka	1	Woh geh∫t du henn, scho wi wie mit di gane
+ab	12153	Meiningen	1	Bu gässt n hie, somme mit dr gäe?
+ab	12167	Altendambach	1	Wu ge∫t´n hie, söllä miör mit dör gehä.
+ab	12184	Altenfeld	1	Wo geh∫ten hin, so'llen mir mit dir?
+ab	12341	Rohrbach	1	Wu ge∫tn hien, saln mie met dir gin?
+ab	12371	St. Jacob bei Leutenberg	1	Wu gih∫t´n du hīn, sulln mir a mit dir gīhe?
+ab	12390	Neundorf (bei Schleiz)	1	Wu gieh∫t´n dau höin, soll'n m'r mit d'r gen?
+ab	12410	Ebersgrün	1	Wu geh∫tn hie, sell'n mer mit der geh.
+ab	12428	Roitzschau/Rotschau	1	Wu geßta hie, sellma mitir gieh?
+ab	12496	Horsdorf	1	Wu gehsta hi, soll'n me a mit?
+ab	12529	Ködnitz	1	Wu gi∫t´n hi, soll me mit gehn?
+ab	12556	Kornbach	1	Wu gih∫t du hin, solln mèr mit dir gehn?
+ab	12572	Habnith	1	Wau gäi∫t du hi, söllma mit dia gaih?
+ab	12594	Uchenhofen	1	Wo gäh∫te hie, sölln mar miter gieha?
+ab	12616	Reutersbrunn	1	Wu geh∫t de hie sälln mär mit'dr geh?
+ab	12656	Weismain	1	Wu giäh∫t´n hie, solln mä miet?
+ab	1278	Insko	1	Wo gehst du hē, schö̆ wī mit dī go͡aa?
+ab	1287	Konotop	1	Woe geh∫t du he, schȫ wir mit di gaua?
+ab	12876	Lohma	1	Wu gih'ste hen, sull'mer mitter gih?
+ab	12898	Heiersdorf	1	Wu gih∫t´n hen, soll'n mir mit ge/ihn.
+ab	12921	Sachsenburg	1	Wu gi∫ten hin, solle m'r mit gihn?
+ab	12942	Rothenfurth	1	Wu gi∫d´n hen, sóll'n mer mit dir giehn?
+ab	1296	Zabin	1	Wo geh∫t du he, schö̅ wie mit die gauha?
+ab	12969	Borlas	1	Wo gieh∫t´n hen, sull' mer met di[i durchgestrichen]r giehn.
+ab	13005	Dohna	1	Wu gißte hin, simm'r mitt'r giehn?
+ab	13019	Porschdorf	1	Wo geh∫t de hin, sell mer mit dr gihn?
+ab	13047	Morgenröthe	1	Wu gi∫t du hie, selln wir mit dir gieh.
+ab	13054	Rittersgrün	1	Wu gi∫te dä hi, selln mer mit der gin.
+ab	1315	Kamien	1	Wo geh∫t du henn, schu wie mit di gaun
+bc	13169	Saupersdorf	1	Wu gi∫t de hie, sulln mer mit d'r gieh?
+bc	13187	Kühnheide	1	Wu gi∫t de hie, sölln m'r mit dir gieh?
+bc	13210	Himmelmühle	1	Wu gih∫tă dä hie, solln mir mit diar gihă.
+bc	13226	Rübenau	1	Wu  gi∫t dä hie, solln mer mit giehe?
+bc	13269	Thurm	1	Wu gieh∫t du hi', sullen mer mit dir giehn?
+bc	13286	Ursprung	1	Wu gieh∫te hie, sull mer miet gieh?
+bc	133	Sosnowo	1	Wo geh∫t du he scheula wi mit dir goaa.
+bc	13317	Dittmannsdorf	1	Wu gieh∫t d dä hie, selln mar met dir giehn.
+bc	13340	Grosshartmannsdorf	1	Wu gi∫t dĕ hī, solln ma md dă géhn?
+bc	13355	Reichenau	1	Wu gi∫t de hin, sull'n mer mit dir gihn.
+bc	13372	Liebenau	1	Wu gi∫t´n hin, sull'n mer mit dir gihn?
+bc	1338	Dzidno	1	Wöha geh∫t düu henn, scho wie mit die gau^oha.
+bc	13529	Wang-Brückenberg	1	Wu gieh∫t´n hie, sie m'r mit d'r gihn?
+bc	13543	Pisarzowice	1	Wu gie∫te hie, silln merr mit derr giehn?
+bc	13559	Boguszow-Gorce	1	Wu gieh∫t dě hie, silln m'er mit dĕrr giehn?
+bc	13655	Niederleutersdorf/Leutersdorf	1	Wu gih∫te hi, soll mer mött der gihn?
+bc	13678	Rohnau (-)	1	Wuh gih∫t de hi, s?i"?ll'n mer midder gīhn?
+bc	13700	Rebiszow	1	Wu gieh∫t di hie, sull'n mirr mit dirr giehn?
+bc	13719	Siedlecin	1	Wu gieh∫t de hie? Soal ich mit derr giehe?
+bc	13727	Myslow	1	Wu gih∫t du hie, sull'n w'r mit dirr giehn?
+bc	13745	Jugowa	1	Wu gieh∫t´n hih, silln mir mit dir giehn?
+bc	13830	Wlodowice	1	Wu gieh∫t de hie, sell mer mit dr giehe?
+bc	13869	Biernacice	1	Wu gih∫t di hin, sil ber mit dr gihn?
+bc	13887	Rzymiany	1	Wu gieh∫t du hien, sill bir mit der gihn?
+bc	13898	Szadurczyce	1	Wu gih∫t de hie, sull' ber mit d'r gihn?
+bc	13929	Stoszowice	1	Wu gieh∫t de hi sill'n mer mit d'r giehn
+bc	13996	Lutomia Gorna	1	Wu gieh∫te de hie, sull'n mer mit der giehn.
+bc	14023	Roztocznik	1	Wu güh∫t´n hü, suln wir mit dir güh'n.
+bc	1403	Dobieszewo	1	Wo geh∫t du he, schäla wi mit ka^oma?
+bc	14034	Lipowa	1	Wu gieh∫te hien, sil ber mit dr giehn?
+bc	14074	Michalow	1	Wu gie∫t de hi, suln wr o mitte gihn?
+bc	14092	Karczow	1	Wu gih∫t du hin, sullen wir mit dir gihn.
+bc	14159	Jutrzyna	1	Wu gie∫te hin, solln wer mit der giehn?
+bc	1417	Rydzewo	1	Wo geh∫t du hēě, schö wi mit di gahĕ?
+bc	14234	Brzoza	1	Wu gieh∫t du hien, sulln bir mit dir giehn?
+bc	14250	Jaczkowice	1	Wu gih∫t te hin, sull ber mit dir gihn.
+bc	14275	Piastowice	1	Wu gieh∫t de hin, sull'n wer mit der giehn.
+bc	14305	Bozanow	1	Wo gieh∫t de hie, sull'n mir mit dir giehn?
+bc	1432	Rzepowo	1	Wo ge∫t du he, schöw wie mit die gaua.
+bc	14321	Rogow Sobocki	1	Wu gieh∫t d´hie, sull mer mit der giehn.
+bc	14382	Wölfelsdorf (Wilkanów)	1	Wo geh∫t du he, salla mir met dir gehen.
+bc	1442	Lubowo	1	Wo geh∫t de hä? Schö wi mit die goh?
+bc	14449	Thröm (Trebom)	1	Wo gehist du hen, selln wirr mett derr gehin.
+bc	14458	Szczytna	1	Wu gieh∫t de hie, selmer met dr gihn?
+bc	14471	Jaszkowa Gorna	1	Wu gieh∫te hie, sel mer metter giehn?
+bc	14486	Nadziejow	1	Wo gi∫t du hin, sollen wir mit dir gihn.
+bc	145	Smardzko	1	Wo gehst du hen, schöiv mit di goahe
+bc	14505	Piorunkowice	1	Wo gih∫t du hin, sollen wir mitde gihn?
+bc	1451	Steinforth (Brodźce)	1	Weoa jeh∫t diu henn schoww' mitt gouä
+bc	14537	Bielice	1	Wu geh∫t du he, sella wir met der gehen?
+bc	14560	Siemianowice Slaskie	1	Wu gih∫te hin, silla mer mite gihn?
+bc	1461	Wegorzewo Szczecineckie	1	Wo geh∫t du hen, soll wi mit di gauen
+bc	14613	Nohfelden	1	Wou ge∫cht dau hein, soulle mer mit der gehn?
+bc	14635	Erzweiler	1	Wo ge∫chde hen, so wille mer met dr gehen
+bc	14670	Nussbach	1	Wo géh∫chdé hén, sélle mèrr médder gehn? 
+bc	14693	Dannenfels	1	Wu geh∫chte heh, sullen mer mit der geh'?
+bc	14724	Monsheim	1	Wo geh∫cht d hü, soll mer mit der gehn.
+bc	14752	Sankt Matthias	1	Wo gih∫t te hinn, sollmer mett der gihn?
+bc	14955	Bescheid	1	Wou gäh∫t doau henn, solln mer met der goan.
+bc	14971	Allenbach	1	Wo geh∫t dou hien, solle m'r met d'r gehen?
+bc	1499	Stara Rzeka	1	Woa geh∫t du henn, säa wie mit koama?
+bc	14999	Berschweiler bei Kirn	1	Wou geh∫t dau hien, solle merr mett derr gehn?
+bc	15018	Bad Sobernheim	1	Wo ge∫chte hin, solle mer met der gehn
+bc	15042	Neu-Bamberg	1	Wo geh∫t de hehn solln mer met der gehen.
+bc	15066	Bechtolsheim	1	Wu geh∫te dann hen, sell ehner mit derr geh.
+bc	15088	Bollendorf	1	We gäah∫t de hin, sollen měr mett der gohn?
+bc	15096	Preist	1	Wu gä∫t de hin, solln mer mat der gon?
+bc	15118	Pohlbach	1	Wou gäh∫ct dou hihn, sollen mer mat gohn?
+bc	15137	Kautenbach	1	Wo gä∫t dau hin, solln ma met da gehn?
+bc	15334	Kirchberg (Hunsrück)	1	Wo geh∫te hien, solle mer mit dehr gehn?
+bc	15349	Ellern (Hunsrück)	1	Wo ge∫ch de hin, solln m'r met d'r gehn?
+bc	1536	Heidlauken (Bugorki)	1	Wo geih∫t du henn, sull wi met di goahne?
+bc	15365	Bingen am Rhein	1	Wo gē∫cht du hin, solln mĕr mit dĕr gehn
+bc	15394	Finthen	1	Wo geh∫te hin, solle mer mit der gehen?
+bc	1540	Heinrichswalde	1	Wo gei∫t du henn, sull wie mìt di gahne?
+bc	15418	Schneeberg (Sněžník)	1	Wu gi∫t denn hin, sull ma mitgiehn.
+bc	15503	Zettel (Sedlo)	1	Wu gieh∫t du hi', süll'n m'e mit die gieh?
+bc	1552	Pazuizen	1	Wo gei∫t du hen, s?a?ll wie met die gahne?
+bc	15538	Wisterschan (Bystřany)	1	Wu geh∫te hin, sull'n mr mit dir gehn?
+bc	15550	Malschen (Malečov)	1	Wu gi∫t´n hie, suin mer wiet dar giehn?
+bc	15638	Lukawetz (Lukavec)	1	Wu gi∫te hin, sulln mr mitr gién?
+bc	1565	Gierver Lauken	1	Wo gei∫t du henn, soll wi mettkame?
+bc	15681	Neudorf (Vrchběla)	1	Wu gi∫tn hie, sollmr mitr giehn?
+bc	15685	Gastorf (Hoštka)	1	Wu gie∫t´n hi, sulln mr a mit dir gihn?
+bc	15690	Wegstädtl (Štětí)	1	Wu gist de hin, sulln mr mit dr giehn
+bc	1571	Schmalleningken	1	Wo gei∫t du henn, soll wi mött di goane?
+bc	15725	Nixdorf (Mikulášovice)	1	Wu gieh∫to hieh? simmer mitr giehn?
+bc	1573	Groß Dirschkeim (Donskoye)	1	Woa geh∫t du hen sull wi mett die gohne?
+bc	15751	Rückersdorf (Dolní Řasnice)	1	Wu gīst denn hī, soll mă mit dĭr gīn.
+bc	1578	Rantau (Zaostrov'Ye)	1	Wo gei∫t du henn, sull wi mèt di go͡ane
+bc	158	Polczyn-Zdroj	1	Wo jeh∫t du henn, schö wi mit di jae?
+bc	1580	Schulstein (Vol'Noe)	1	Woa gei∫t du hen, sull wi met dir goane?
+bc	15807	Kamnitz-Neudörfl (Kamenická Nová Ví	1	Wu gi∫tn hie, simma mit dir giehn?
+bc	15824	Zwickau (Cvikov)	1	Wu gi∫te hie, solln mr mit dir gihn?
+bc	15847	Christophsgrund (Kryštofova Údolí)	1	Wu gieh∫te denn hie, solch mit dr giehn?
+bc	15858	Gränzendorf (Hraničá)	1	Wu geih∫t-de hie, söll mr mit dir geihn?
+bc	1588	Alt Susimilken (Tarassowka)	1	Wo gei∫t du hen, soll wie mit die gone?
+bc	15971	Puletschnei (Pulečný)	1	Wuhie gieh∫te, sülln mr mittegiehn?
+bc	15975	Graber (Kravaře)	1	Wû gi∫t dn hie, sulln mr mit dîr gîn
+bc	15989	Thammühl (Staré Splavy)	1	Wu gieh∫te hi, solln mr mit dir giehn?
+cd	15995	Proschwitz (Česká Proseč)	1	Wu gi∫t denn hie, soll mor denn mitgiehn 
+cd	16007	Harrachsdorf (Harrachov)	1	Wuh gieh∫t denn hie, sell mer mettr giehn.
+cd	16015	Witkowitz (Vítkovice)	1	Wu gieh∫t denn hie, semmə mitər gehn?
+cd	16050	Forst (Fort)	1	Wu gießt da hie, soll ma met da giehn?
+cd	16063	Gabersdorf (Libeč)	1	Wu gieh∫tn hie, sell man mit dr giehn
+cd	16083	Bodisch (Bohdašin)	1	Wu gih∫ten hie, sillon mitto gihn?
+cd	16139	Zwitschin (Zvičina)	1	Wo gieh∫t denn hie, soll ich denn mitter giehn?
+cd	16154	Großbock (Velká Bukovina)	1	Wu gieh∫t n hie, soll mer [r ist über e geschrieben] denn mit der [e ist über r geschrieben] giehn?
+cd	16179	Schmiedeberg (Kovářská)	1	Wu gi∫te hie? Sell mr mit gieh?
+cd	1626	Tulpeningken (Zarečnoe)	1	Wo gei∫t du henn, süll wie mött die gahne?
+cd	16276	Waitzengrün (Loučná)	1	Wou gäih∫t hi, sölln ma mit dir gäih?
+cd	1628	Wisborienen (Livny)	1	Wo geih∫t du hen, sull wi met di met goane?
+cd	16298	Sittmesgrün (Mezirolí)	1	Wou gäih∫t dann hin, solln mia mit dia gäihn.
+cd	16322	Petersdorf (Petrov)	1	Wou gä∫tn hie, söma mit gai.
+cd	16338	Podletitz (Podlesice)	1	Wu ge∫t hie? Soll ma mit dir geh?
+cd	16442	Kropitz (Krapice)	1	Wöi nau göi∫t, soll'n miä mit dia gäi(n)?
+cd	16470	Ebersfeld (Podlesi)	1	Wo goih∫t hie, soll ma^o mit dir gäi.
+cd	16491	Rabensgrün (Haje)	1	Wa^ou gäi∫t d^oann hin, soll ma^o mit dir gäihn?
+cd	16523	Lintsch (Hlineč)	1	Wou geihsta hin, soll ma mitgeïhn?
+cd	1654	Postnicken (Zalivnoe)	1	Woa gei∫t du henn, sull wie mett dir gone?
+cd	16602	Klotantschen (Kotaneč)	1	Wou gej∫t du hi, sojn mir mit dir gej?
+cd	16610	Tschernowitz (Černovice)	1	Wu gih∫t de hie, selmer ebber mit geh?
+cd	16625	Hawran (Havraň)	1	Wu gi∫t du hie, sulln mir a mitgieh?
+cd	16636	Liebshausen (Libčeves)	1	Wu gieh∫te hin, sulln mr mit dir giehn
+cd	1664	Labagienen/Haffwinkel (Zalivino)	1	Woa gei∫t de hen, sull wi met di gane.
+cd	16670	Priesen (Březno)	1	Wo gēh∫t dū hī, sōllmer mit dr gēh?
+cd	16689	Libeschitz (Liběšice)	1	Wū gēh∫t de hī, sělln mr mit dr gēh?
+cd	16725	Leschkau (Ležky)	1	Wou gïi∫d du hie, soll ma mi dia geï?
+cd	16739	Pschoblik (Pšovlky)	1	Wu ge∫t hi, solln m(i)r mit dir geh'?
+cd	16751	Prag-Smichow (Smíchov)	1	Wo geh∫tu hin, solln wir mit dir gehn.
+cd	16755	Weißbach (Bílý Potok)	1	Wu gieh∫te hin, sell'wr mitt'r giehn?
+cd	16770	Schediwy (Šediviny)	1	Wu gie∫t n hie, selmrn mit daar gien?
+cd	16775	Friedrichswald (Orlické Záhoří)	1	Wu gieh∫tn hie, sella ?e?rn mitr giehn?
+cd	16801	Böhmischdorf	1	Wu gieh∫tn hin, selban mitr giehn?
+cd	16814	Rokitnitz (Rokytnice)	1	Wu gih∫t n hi, sella mern mit dr gihn?
+cd	1683	Kreuzingen (Bol'Shakovo)	1	Wo geist du hen, sulle wi met di gane?
+cd	16876	Nieder-Ullersdorf (Dolní Boříkovice	1	Wo giehst tn hie, sol mr mit dr giehn
+cd	16889	Heinzendorf (Hynčice Nad Moravou)	1	Wu gieh∫tn hinn, seln mer  metter giehn?
+cd	16907	Karlsdorf	1	wû ges(t)n̥ (gehst dir denn) hêən, foŷ b?n met? gêən?
+cd	16932	Kuhberg	1	Wo gieste denn hin, söll br mit dir giehn?
+cd	16949	Rausen (Rusín)	1	Wo gih∫t du hiea, sell br mett dir gien?
+cd	1698	Buttkuhnen (Pokrovskoe)	1	Wo gei∫t du henn, sull wie met die goane?
+cd	16991	Breitenau (Bretnová Široká Niva)	1	Wue giëh∫tn hiën, soll br met dr giëhn
+cd	17012	Lobenstein (Úvalno)	1	Wu ge∫tn hijn, soll be met dr gijn?
+cd	17029	Lohhäuser (Slatina)	1	Wou gai∫t hi(n), solln ma mit dir gai?
+cd	17061	Deutsch Thomaschlag (Německé Domasl	1	Wou gehi∫t hin, sölln ma mit dir göih?
+cd	17075	Polinken (Polínka)	1	Wau ge[äi darüber geschrieben]h∫t hin, soll ma mit gai?
+cd	1708	Baltruschatschen (Jakovlevo)	1	Wo gei∫t du hen, soll wi möt di goane?
+cd	17138	Albersdorf (Písařova Vesce)	1	Wou gäih∫t dau hi'n, soll ma mit dia (r) gëi(n)?
+cd	17151	Damnau	1	Wa^ou gäih∫t dan hi(n), soll(n) mia mit dia gäihn?
+cd	17174	Piwana (Piňovany)	1	Wa^ou gäih∫t hi^(n), sollma mit dia gäihn?
+cd	17178	Kottiken (Chotíkov)	1	Wau geïst hi(n), sol ma mit di(r) geï(n)?
+cd	17244	Dianaberg (Diana)	1	Wàu gäihst dənn hĩ, soll mə mit dia gäĩh?
+cd	17266	Wiedlitz (Vidice)	1	Wau gäih∫t du hi(n), sollma mia mit dia mitgäih.
+cd	17273	Honositz (Honezovice)	1	Wau ga^ejst hi, soln ma^o mit dia^o ga^oi?
+cd	17281	Dobrzan (Dobřany)	1	Waou gaih∫t denn hi, soll ma mit gäih?
+cd	17306	Blisowa (Blížejov)	1	Wao gäe∫t tan hi(n), soll ma mit gäi(n)?
+cd	17309	Hilbeten	1	Wuhi gie∫ta, selma mit dia gia.
+cd	17325	Schönwald (Strážná)	1	Wu gieh∫t denn hie, selln wir mit dr giehn
+cd	1733	Rottenen (Raktino)	1	Wōŭ jeih∫t diu henn, siull wi met die gohne?
+cd	17374	Ober-Ullischen (Horní Olešná)	1	Wo gieh∫tn hijn, sell mern mijt dr giejn?
+cd	17389	Bergstadt (Horní Město)	1	Wu ge∫tn hien, sömem metd(e)r gi(é)n?
+cd	1741	Pojerstieten (Kolodcy)	1	Woa gei∫t du hen ekwa met die kame.
+cd	17433	Ranigsdorf (Linhartice)	1	Wu gie∫tn hei, sell ichn mit dir mit gie.
+cd	17442	Müglitz (Mohelnice)	1	Wū gih∫t´n hin, selln m' mītgihn?
+cd	17460	Ribnik (Rybniček)	1	Wo geh∫t´n hen, solln mer met der giëhn?
+cd	17468	Stangendorf (Vendolí)	1	Wu giehsn he(i), schäichn mit Dir gie?
+cd	1747	Beydritten (Pervomajskij)	1	Wo gei∫t hen, sull wi metkoame?
+cd	17504	Neu-Biela (Lavičné)	1	Wu gieh∫t d hee, schen mr mit dr meetgieh?
+cd	17512	Schlettau (Slatina)	1	Bu gi∫tn hai, sellmr maitgieh?
+cd	17520	Runarz	1	Bu gīzt den hin, seln mə mit dir gīn?
+cd	17521	Nebotein (Hnĕvotín)	1	Bū gejst hie, sulln m(a) mit di(r) gej?
+cd	17568	Tillendorf (Tylov)	1	Wu ge∫tn hiän, sö berr met der giän?
+cd	1758	Brasdorf (Antonovka)	1	Wo gei∫t du henn, sull wi metko͡ame?
+cd	17585	Mladetzko (Mladecko)	1	Wo geh∫te hin, sellber mitdr giehn?
+cd	17643	Seibersdorf (Bělá)	1	Wu geh∫tn hin, soelber met gehn?
+cd	17659	Bernhau (Barnov)	1	Wo geh∫t´n hin, soll brm metgahn?
+cd	17680	Klantendorf	1	Wue gieh∫t hien, selmr mietkume?
+cd	17687	Engelswald (Mošnov)	1	Wuê gie∫t hienn, selln mr mettr giehn?
+cd	17698	Nirklowitz (Mrsklesy)	1	Wu ge∫t hen, selber met gehn.
+cd	17713	Punkendorf (Boňkov)	1	Wu ge∫ta hin, solbe met dir giehn.
+cd	1772	Groß Goldbach (Slavinsk)	1	Woa gei∫t du hän, sull wie mit die goahne.
+cd	17726	Halbendorf (Polouvsí)	1	Wo gieh∫tn hien, se^illn wr miet dir gien.
+cd	17737	Senftleben (Ženklava)	1	Wu ge∫t hen, selemer met kumme.
+cd	-17739	Polanka Wielka	1	Wo gehscht hin, soll mer mit dir gehe?
+cd	-17744	Bulowice	1	Wohin gehst, sollen wir mit dir gehen?
+cd	-17746	Chocznia	1	Wo gehsh hin, sol ma mit dir mitgeh?
+cd	-17749	Alt-Bielitz (Stare Bielesko)	1	Wöj gejst dü hejn, sella wir met dir gejn?
+cd	17759	Linz (Mlýnec)	1	Wao gai∫t dann hi, sollma mitgöih?
+cd	17782	Kohlheim (Uhliště)	1	Wau geih∫t hie, solma mit dia geih?
+cd	17792	Čachrau (Čachrov)	1	Wau gej∫t hin, soll ma mitgej?
+cd	17801	Hurkental (Hůrka)	1	Woa geh∫tan hie, sollma mit dir geh.
+cd	17824	Rotsaifen (Červená)	1	Wō geh∫tan hi, soll ma mid dia geh?
+cd	17832	Winterberg (Vimberk)	1	Wou geh∫t denn hi^(n), sullma^o mit dia^o gei^(n)?
+cd	17843	Sehrlenz (Ždírec)	1	beju hi gojst? Sôll b(a) mit di(a) gojn?
+cd	17854	Irsching (Jiřín)	1	Wou geh∫t denn hin, schuln ma a mit dir gehn.
+cd	17862	Hilbersdorf (Jihlava-Heroltice)	1	Wou geist den hi, solln mə hat mit diə gein.
+cd	17876	Sollowitz (Salavice)	1	Wo geh∫t hie, sol i mit dir geh?
+cd	17878	Stannern (Stonařov)	1	Wo gei∫t du hi(n) soll ma mit dir gehn.
+cd	17881	Riegerschlag (Lodhéřov)	1	Wou geh∫t dann hin, sul i midgeih?
+de	17882	Wenkerschlag (Dolní Radouň)	1	Wou geh∫t d´n hie, suln ma mit dir geï.
+de	17884	Buchen (Buk)	1	Wou geh∫t dänn hi, sulln mr mit dir gei
+de	17895	Hosterschlag (Člunek)	1	Wou geh∫tan (du) hie, sulln mr mit dir geïh?
+de	17898	Lipolz (Lipolec)	1	Wou geh∫t hi, soul'n ma mit diar geii
+de	17940	Czernowitz (Černovice)	1	Bou geh∫t hi, sulln mir mit dir gej?
+de	17942	Gundrum (Komořany)	1	Bou gestn hä, schall br mit dir goi?
+de	17956	Prahlitz (Pravlov)	1	Wo geï∫t hin, soln ma mit dier geïhn.
+de	17961	Woikowitz (Vojkovice)	1	Buh geh∫t hi, sulln ma mitgeh?
+de	17967	Sub-Lechnitz (Lechnica)	1	Wohin ke∫ch tu, soll'n mar mit ter kehn
+de	17968	Topportz (Toporec)	1	Wu gejh∫t hin, soll ber mët (gejn)? kumm?
+de	17972	Hobgard (Chmeľnica)	1	Wu djih∫t du hin, sou be vih met de djihn?
+de	17981	Neu Walddorf (Nová Lesná)	1	Wu gejst de hin, sul ber mët dir gein?
+de	17993	Durelsdorf (Tvarožná)	1	Wu gej∫t hin, soll ber mit gejn
+de	17999	Leutschau (Levoča)	1	Wu geist hin soll ber met dir geihn?
+de	180	Galowo	1	Woe geh∫t deu hennmscholln wi mit di goahn?
+de	18000	Zipser Neudorf (Spišská Nová Ves)	1	Wo gejst du hin, soll ber mit dir gejn?
+de	18001	Wagendrüssel (Nálepkovo)	1	Bu gëhst, soll ba mëta gëhn.
+de	18003	Göllnitz (Gelnica)	1	Bu geh∫t du hin, soll ba met die géhn?
+de	18004	Dobschau (Dobšiná)	1	Bu gehst den, soll mer och met der komman (gehn)
+de	-18008	Schmöllnitz (Smolník)	1	Bu géhst, soll ba mét ta gehn.
+de	18010	Metzenseifen (Medzev)	1	Bohnig gehst, sollba mét kommen.
+de	18013	Buchwald (Bučina)	1	Wou geis den hi, sui ma mit dia gei?
+de	18018	Schattawa (Záton)	1	Wou geh∫t denn hie, sujn ma mit dia gej?
+de	18028	Zaborsch (Záhorí)	1	Wou geh∫t deïn hi^n, suid i mid dia gĕi.
+de	18058	Hirschbergen (Hiršperky/Jeleni)	1	Wou gehj∫t hin, sul ma mit dir gehj?
+de	18064	Honetschlag (Hodňov)	1	Wou geh∫t hi, sull m a (hochgestellt) mit dir geĩ?
+de	18091	Kollerschlag	1	Wo gest den hi, solln ma mit dia geh.
+de	18095	Sankt Thoma (Svatý Tomáš)	1	Wo geh∫t hi, solln wir mit dir ge?
+de	18101	Hohenfurth (Vyšší Brod)	1	Wou geh∫t denn hie, sulln ma mit dia geï?
+de	18132	Hummeln (Homole)	1	Wu geh∫t hi, suln mã mit dir gei
+de	18135	Rudolfstadt (Rudolfov)	1	Wo geh∫t denn hi, sull m'r mit dir gehn?
+de	18144	Gross-Radischen	1	Wo gehst d hi[Tilde in rot über i], soll ma mit dir geh[Tilde in rot über e]?
+de	18188	Priethal (Prídolí)	1	Wou gehhst (hat∫cht) de^in hi(n), sull ma mit diar geīh(n)?
+de	18192	Gollnetschlag (Klení)	1	Wou geh∫t dajn hih, sull m(a) mit dir gaj?
+de	18210	Weissenbach (Vysné)	1	Wou ge∫t denn hie, suin ma mit dia gej?
+de	18218	Langschwarza	1	Wo geh∫t den hi, soll i mit dia geih?
+de	1829	Rudszen (Poltavskoe)	1	Wo gei∫t du henn, soll wie met di goane
+de	18290	Unterwald	1	Wo geh∫t hin, soll i mit dir gehn?
+de	18296	Bad Grosspertholz	1	Wo gehst hin, solln ma mit dia geah.
+de	18310	Oberstrahlbach	1	Wo geh∫t den hin, soll'n ma mitgehn.
+de	18359	Waldkirchen	1	Wo geh∫t hin, soll ma mit dir gehn?
+de	18364	Hafnerluden (Lubnice)	1	Wo geh∫t hin, solln ma mit dir gehn?
+de	18367	Schiltern (Štítary)	1	Wo geh∫t denn hi, solln mr mir dir geh?
+de	18407	Töstitz (Těšetice)	1	Wp ge∫te hin, sal ma mit dir ge^o?
+de	1842	Warupönen (Fëdorovka)	1	Wo gei∫t du henn, soll wie met die gane?
+de	18432	Dietmanns	1	Wo^u geh∫t hin, solln ma mid dĩa͂ ge͂i?
+de	18441	Schirmannsreith	1	Wo ge∫t denn hi, soi ma mit dia geï?
+de	18454	Hofern	1	Wo geh∫t du hin, soll'n ma mit dir geh'n.
+de	185	Jelnia	1	Wo geh∫t du hän, schölla wi mit di gon?
+de	18508	Gerstenfeld (Ječmeniště)	1	Wo geh∫t hij, sol ma mit dir gehj.
+de	18525	Franzen	1	Wo gehst dėn hin, soi ma mit die gen͂?
+de	18534	Rosenburg	1	Wo gehst du hin, solln ma mit Dir geh'n?
+de	18554	Oberdürnbach	1	Wo geh∫t'n hin, soll ma mit dir geh(n)?
+de	18559	Aspersdorf	1	Wo ge∫t denn hi, soi ma mid dia ge^(n)?
+de	18607	Damnitz (Damnice)	1	Wo geh∫t'n hi(n), soll'n ma mit dir gehn?
+de	18627	Tracht (Strachotín)	1	Wu geh∫tn tu hi, sull mr mit tir ge|i?
+de	18637	Saitz (Zajecí)	1	Wo gëi∫t hin, sulln mr mit dir gëin.
+de	18642	Höflein an der Thaya (Hevlín)	1	Wo geh∫tn hi^n, solma leicht mitge^i?
+de	18672	Stützenhofen	1	Wo geh∫t´n hi, solln ma mit dir ge^oh'
+de	18686	Bernhardsthal	1	Wo geh∫t´n hin, soll ma mit dir gehn?
+de	18701	Pyhra	1	Wa gehstn hin, solln ma mit dir gehen?
+de	18707	Wilfersdorf	1	Wohi(n) gehst ´n, sölln ma mit dir gai?
+de	18716	Palterndorf	1	Wo gehst´n hin, soll ma mit dir gehn
+de	18753	Münchwies (Vrícko)	1	Beij gei∫t, sai bia mit dir kumma
+de	18759	Bettelsdorf (Solka)	1	Bo^u gehst doa, sej'br metr gé?
+de	18763	Oberstuben (Horná Stubna)	1	Bu dow gêst denn, zelbw metw diw gê.
+de	18767	Krickerhäu (Handlová)	1	Bu söllst denn doa, söllba met dir gēn
+de	18773	Deutsch-Litta (Kopernica)	1	Bäju gaui∫t däju dau, sillu baj ' mit daj' gaui
+de	18774	Hochwiesen (Vel'Ké Pole)	1	Bu gih∫t hih, solln wir mit dia gih?
+de	18786	Sankt Georgen bei Obernberg am Inn	1	Wo gehst denn hin, soll'n ma mit dir geh'n?
+de	18800	Hochburg	1	Wo ges ten hi, solma mit dir gen?
+de	18805	Pischelsdorf am Engelbach	1	Wo geh∫t den hi, soïn ma mit dia gön
+de	18846	Niederkappel	1	Wo gehst d[e?]nn nur kleiner Haken hi, solln ma mit dir geh˘.
+de	18855	Niederwaldkirchen	1	Wo gehst denn hi, solln ma leicht mit dir gehn.
+de	18902	Dorf an der Pram	1	Wo geh∫t denn hi solld i mit dir geh.
+de	18910	Michaelnbach	1	Wo geh∫t denn hi, soll i mit gehn?
+de	18923	Alkoven	1	Wo gehst denn hĩ, soin má midgehn?
+de	1895	Königlich Damerau	1	Woa geih∫t du hen, sull met die gahne
+de	18984	Arnberg	1	Wo geh∫t denn hî, soi ma mid dir gä?
+de	18987	Rackering	1	Wo geh∫t hi(n), soi?e? mir mit dir ge(hn)?
+de	19003	Pennewang	1	Wo gehst denn hin, soll ma mit dir gehen?
+de	19011	Sipbachzell	1	Wohin gehst denn, solli mitgehn?
+de	1904	Pesseln	1	Wo jei∫t du henn, soll' wie möt die goahn?
+de	19070	Reichenau im Mühlkreis	1	Wo gehst du hi, soün ma mid dia ge(hn)?
+de	19080	Gutau	1	Wo gehst du hin, soll'n ma mit dir gehn.
+de	19085	Hackstock	1	Wo geh∫t denn hi, soin ma mit dir geh?
+de	19096	Traunstein	1	Wo geh∫t denn hin, solln ma mit dir gehn?
+de	19138	Maria Laah	1	Wo geh∫t du hîn, solln ma mit dir gêhn.
+de	19144	Haag	1	Wo geh∫t denn hin, solln ma mitgehn
+de	19154	Amstetten	1	Wo gehst den hin, soln ma mitgehn?
+de	19163	Wieselburg	1	Wo geh∫t den hin, solma mit diar gihn.
+de	1919	Groß Gerlauken (Vjazovka)	1	Wo gei∫t du hänn, soll wie mött die gahne?
+de	19225	Steyregg	1	Wo geh∫t denn hin, soln ma mit dir gen?
+de	19233	Schwertberg	1	Wo gest hī, soīn ma mid diā ge͂n.
+de	1924	Pakallnischken (Suvorovo)	1	Wo gei∫t du hän, soll ?w?i met di goahne
+de	19245	Bad Kreuzen	1	wo geh∫t hi, soll wa übba ?w?ei tojehn?
+de	19257	Altenmarkt	1	Wo gehst dann hi, soll'n ma mir dir gehn?
+de	19301	Els	1	Wo geh∫t ´n hin? Solln ma leicht mitgeh(n)?
+de	19311	Gneixendorf	1	Wo gehst denn hi, soi 'ma mit dia ga.
+de	19322	Fels am Wagram	1	Wo geh∫t denn hin, soi ma mit dir gan.
+ef	19334	Oberhautzental	1	Wo ge∫te hi, solle ma mit die ge.
+ef	19401	Schönbühel an der Donau	1	Wo geh∫t denn hie, solln ma mit dir gehn?
+ef	19404	Karlstetten	1	Wo geh∫t´n hin, so^in ma mit dia ge͂h? (Nasal)
+ef	19419	Würmla	1	Wo geh∫t´n hi, soi ma mit dia geh?
+ef	19429	Ried am Riederberg	1	Wo geh∫t de hi, solln ma mit dir gehn.
+ef	19479	Mank	1	Wo ge∫t hin͂, soj i mid diar gen͂.
+ef	19486	Wilhelmsburg	1	Wo geh∫t´n hin? Soi ma met dia geahn.
+ef	19492	Stollberg-Siedlung	1	Wo geh∫t denn hin, soll ma mit dir gehn?
+ef	1953	Pillau	1	Wo geih∫t du henn, soll wie mett die gahne.
+ef	19541	Grub	1	Wou geh∫t d´n hin, soi mea (darf ma) mit dia mitgein.
+ef	1956	Patersort (Beregovoe)	1	Woa gei∫t du hen, sull wie met die gâhne?
+ef	19564	Obergänserndorf	1	Wo geh∫tn hin, soll ma mitgehn?
+ef	19607	Raggendorf	1	Wo gah∫t du hi(n), soll ma mit dir gehn?
+ef	1962	Bergau (Tzwetkowo)	1	Woa gei∫t du hänn, sull wi möt di ga^ohne?
+ef	19621	Stillfried an der March	1	Wo gest´n hi^n, soi^l ma mitgeh^n?
+ef	19640	Grünau (Grinava)	1	Wo(u) teh∫t hĩ soul m(e) mit ti(e) ?t?e(ĩ)
+ef	19642	20. Bezirk-Brigittenau	1	Wo gehst hin, soll'n ma mit dir geh'n?
+ef	19646	Raasdorf	1	Wo geh∫t d'n hin, soll'n ma mitgeh'n?
+ef	19657	Breitensee	1	Wo geh∫t'n hin, solln ma mit dir gehen.
+ef	19659	Theben (Devín)	1	Wo geahst hie´, soll'ma mit Dir gehn?
+ef	19667	Biedermannsdorf	1	Wo geh∫t dn (ge∫dn) hin[Nasal], soima mid dia gehn[nasal]?
+ef	19674	Enzersdorf an der Fischa	1	Wo geh∫tn hin, soi ma mit gei
+ef	19696	Kittsee	1	Wo gehst hin, sojn ma mit dia gehn?
+ef	19705	Mischdorf bei Pressburg (Nové Košar	1	Wo kestn hi~, sojma mitia ke~.
+ef	19726	Rohrau	1	Wo gehst denn hin, soll'n ma mit dir gea.
+ef	19739	Thiersee	1	Wo geh∫t hin, soln ma mit dia geh?
+ef	19748	Achenwald	1	Wo gea∫t dn du hie, söit me öyya mit dia gia?
+ef	1977	Fuchsberg (Semënovo)	1	Woa gei∫t hen, sull wi mötkoame?
+ef	19775	Obertrum am See	1	Wo geh∫t denn hi(n)? Soë' mi mitgeh'n?
+ef	19787	Hochfeld	1	Wo gehst denn hi, soi ma mit Di gen̅?
+ef	19823	Vorderfager	1	Wo geh∫t hi, soi ma mi di geh.
+ef	19851	Schwendt	1	Wo gehst hi(n), soll ma mit dir geh(n)?
+ef	19854	Waidring	1	Wo geh∫t hie, soid i mit dia geh(n)?
+ef	19859	Kuchl	1	Wo geh∫t hi(e) soi'n ma mit di ge(h)n?
+ef	1987	Pregelswalde (-)	1	Woa gei∫t du henn, selle wi mett di gonn.
+ef	19886	Schörfling	1	Wo geh∫t denn hi(n), solln ma mit dir geh(n)?
+ef	19896	Gschwandt	1	SATZ NICHT ÜBERSETZT
+ef	19901	Schlierbach	1	Wo gehsd (denn?) hi͠.? könnten auch zwei ? sein soön ma mid dia ge͠h?
+ef	19941	Sankt Gilgen	1	Wo gest denn hi(n), soi ma mit gä(n). 
+ef	19945	Ebensee	1	Wo gehst denn hi, soll'n ma leicht mit ge͂h?
+ef	19947	Steyrling	1	Wo geh∫t denn hi, soll me mit dir gehn?
+ef	19956	Bad Ischl	1	Wo geh∫t denn hi - soll'n ma mit dia geh'n.
+ef	19965	Windischgarsten	1	Wo geh∫t denn aoft hi? Solle ma mit dir geh?
+ef	19971	Bad Goisern	1	Wo geh∫t denn hi, muaß ma mit dir ge͂?
+ef	19977	Grundlsee	1	Wo gehst hin, sölltn ma mit dir gehn͂?
+ef	19993	Wörschachwald	1	Wo gehst hi(n), so(i)d ma mit dia geh(n).
+ef	20005	Trattenbach	1	Wo geh∫t den du hin, soima mit dir gehn.
+ef	20008	Sulzbach	1	Wo gehst hin (soll) soi ma mithge(n).
+ef	20019	Ybbsitz	1	Wo geh∫t denn hin, soll'n ma mit dir gehn?
+ef	20023	Gaming	1	Wo geh∫t d´n hia, soa ma leiacht mit dia gea(n)
+ef	20046	Kleinreifling	1	Wo gehst den hin – sollma mit dir geh.n?
+ef	20049	Mariazell	1	Wou geh∫t´n hin, soui ma mit dia gehn
+ef	20051	Neuhaus	1	Wo geh∫t denn du hin, selln ma mit dir geh(n)?
+ef	20058	Lassing	1	Wohin geh∫t denn, soll ma mitgeh'n?
+ef	20062	Ardning	1	Wö geh∫t hin, suln ma mitge^ohn?
+ef	20065	Weng	1	Wou gehst hi, suimma mit Dir geh.
+ef	20067	Lainbach	1	Wo geh∫t hi, soi ma mit dia geh?
+ef	20069	Gollrad	1	Wo geh∫t denn hin, solln mir a mit dir mitge(i)n?
+ef	20077	Oberort	1	Wohin gehst d´nn, solln ma mitgehn?
+ef	20090	Wext	1	Wo gehs du henn, sü wi met di gohn?
+ef	20099	Leer	1	Woɑ geiß hɑ̈n, süörlwn men met die goɑhn?
+ef	20110	Herbern	1	Wo geih∫t du hen, sölt wie met die gaon?
+ef	20117	Ringel	1	Wor geh∫t du hän, sür wie mit die gauhn
+ef	20128	Hilter am Teutoburger Wald	1	War geh∫t du henn, sö wie met di gaun?
+ef	20240	Bardel	1	Woor geist du hen, zöl wi met di gaon?
+ef	20248	Haddorf	1	Wo͡ar geist du hen, süö wi mit di go͡an?
+ef	20259	Hörstel	1	Wo geis du hen, sül wi mit die f/?g?ohn.
+ef	20269	Westerkappeln	1	Wor gei∫t du heen? Süö wie mit di gaun?
+ef	20283	Astrup	1	Wa geh∫t du hen, sor wi met die gaun?
+ef	20346	Frensdorf	1	Wo gäi∫t du hen, söw wie mit di goan.
+ef	20350	Elbergen	1	Wa[Ʒ/drei über dem a] gä∫t du hen, söll wie mét die gahn[Ʒ/drei über dem a]?
+ef	20361	Setlage	1	Wor geih∫t du hen, söll wi mit di goan?
+ef	20370	Merzen	1	Wo geihst du hen, schö wie mit die gohn.
+ef	20381	Vörden	1	Wo geh∫t du hen schöwwe mit di gaun?
+ef	20384	Wielen	1	Woor goij hen, sölle wij met uw goan?
+ef	20446	Hoogstede	1	Woar gees duw hein, sölle wy met dy goan?
+ef	20454	Geeste	1	Waor gei∫t du henn, säöl wi mit di gaon?
+ef	20463	Dohren	1	Wao geis du hen, schölte mit die gaohn?
+ef	20468	Renslage	1	Wor gei∫t du henn, schöll wie met die gohn.
+ef	20481	Dinklage	1	War geih∫t du hen, schäll wie mit dir gahnen?
+ef	20543	Haren (Ems)	1	WaƷr gai∫te hen, scha͡öle wi mit di gaƷn?
+ef	20555	Hüven	1	Wor wullt du hen, scholl wi mit di gahn?
+ef	20562	Garen	1	Wo͡ar geih∫t du hen, schöll wi mit di go͡ahn?
+ef	20575	Sevelten	1	Wo gei∫t du hen, schall wi mit di gahn?
+ef	20589	Neudersum	1	Waor gai∫t du henm schäöl wi mit di gaon
+ef	20596	Neubörger	1	War gei∫t du hen, schöl wi mit di gan?
+ef	20599	Neuarenberg	1	Wa^3r gei∫t du henn, schö̅ll wie met (mit) di gaun?
+ef	20604	Garrel	1	Wahr geih∫t du hen, schä wi mit di gahn.
+ef	20638	Visbek	1	Wo geißt du hen, schö͡äl wi mit di gahn?
+ef	2067	Enskemen (-)	1	Wo gei∫t du hĕn, soll wi mĕt di goane?
+ef	20710	Wietzendorf	1	?S?ehm geih∫t du henn, schöll wi mit di gahn?
+ef	20734	Colonie Syke	1	Wo gei∫t du henn, schäöwe mit di gaan
+ef	20753	Magelsen	1	Wo geih∫t du hen, schüllt wi mit 
+ef	20763	Nordkampen	1	Wo geih∫t du hen, schüll wi mit di gahn?
+ef	20774	Vierde	1	Wo gei∫t du hen, schüw wi mit di gahn?
+ef	20788	Schmarbeck	1	Wonäm geih∫t du hen, schött wi mit dick gahn?
+ef	20798	Brümsen	1	Wo geis du hen, schö wi mit di ga͡ohn?
+ef	2081	Eydtkau (Eydtkuhnen)	1	Wo gei∫t du hänn, soll wie met die gaane.
+ef	20891	Dörpel	1	Wo geih∫t du henn, schöl wie mit die gahn?
+ef	20901	Maasen	1	Wo geih∫t du hen, schüld wi mit di gahn?
+fg	20917	Drakenburg	1	Wu geih∫t du henn, schüllt wie mit die gehen?
+fg	20920	Unterrodewald	1	Wo gei∫t du henn, schütt wie mit die gahn?
+fg	20933	Thören	1	Wo geih∫t du hen, sött wi mit dick gahn?
+fg	20936	Hassel	1	Wa geih∫t du hen schütt wi mit dick gahn?
+fg	20946	Scharnhorst	1	Wa garst du henn, schüww wi mit dick gahn?
+fg	20948	Aschen	1	Wo geihst Du hen, schäl' wi mit Di gahn?
+fg	21024	Burlage	1	Wo geh∫t du hen, schö wi mit di gahn?
+fg	21033	Hoysinghausen	1	Wo geih∫t du hen, schüld wie mit  dih gehen.
+fg	21045	Brokeloh	1	Wo gei∫t du hen, schüt wie mit die gahn?
+fg	21050	Empede	1	Wo gei∫t du hen? Schülwe mit dick gahn?
+fg	21065	Gailhof	1	Wo geih∫t du hen, schüts weie mit deck gahn.
+fg	21074	Adelheidsdorf	1	Wo geih∫t du hen, süt wi mit dick gehn?
+fg	21085	Nordburg	1	Wo gah∫t du hen, schüt wie mit dick gahn?
+fg	211	Rodowo	1	Wo geh∫t du hönn, sulle wir mötkomme?
+fg	21105	Preussisch Ströhen	1	Wo gei∫t de henn, schollen mi met die gahn?
+fg	21190	Brockhausen	1	Wo͡u wullt du henn, schü͡ä?mwe mit di gaun?
+fg	21199	Isenstedt	1	Wōa gäist Du henn, sch(öStrich unter Doppelpunkt)ell wi mett Di gōahn?
+fg	21218	Wietersheim	1	Wur gah∫t du hen, schün wie mit die mihe gahn.
+fg	21235	Hülshagen	1	Wo gah∫t du henn, schöwe mehs gahn?
+fg	21252	Holtensen	1	Wo gah∫t diu hen, schö wie mit dek gahn?
+fg	2127	Klein Nuhr (Sukhodol'Ye)	1	Wo gei∫t du hen, sulle wie met die gàhne?
+fg	21280	List	1	Wo geih∫t du henn, söllt wie mit deck gahn?
+fg	21295	Immensen	1	Wu gah∫t du henn, schütt wie mit deik gahn?
+fg	21305	Voigtholz-Ahlemissen	1	Wo gai∫t du hen, schöllt wie mit dirh gahn?
+fg	21316	Steinhagen	1	Wo gäi∫t du henn, sürt wēi met dēi gohn?
+fg	21342	Krentruperhagen	1	Wou geuh∫t diu hen, sü wüi met düi gohn.
+fg	2135	Skungirren (Pen'Ki)	1	Wo gei∫t du henn, süll wie mett die gaone.
+fg	21355	Wendlinghausen	1	Wo geu∫t dui hen, süwwe met dui gohn?
+fg	21362	Reher	1	Wo wute hen, schöwe met dek me
+fg	21384	Harderode	1	Wu geui∫t diu hen, schüllt weiï mit deck gahn?
+fg	21405	Rheden	1	Wo gei∫t diu hen, söllt mör mit dik gahn?
+fg	21429	Nette	1	Wo geih∫t diu hen, söllt wĕi mit deck gahn?
+fg	21446	Steinlah	1	Wu gai∫te hen, sült wie midda gehen?
+fg	2145	Kurschen (Kuz'Mino)	1	Wo geih∫t du hen, sull wi met di ga^ohne
+fg	21455	Gross Schiplage	1	Wa goe∫e hen sür wir met di gaun?
+fg	2161	Kalnen (-)	1	Wo gei∫t du henn, soll wie möt die gāhn?
+fg	21611	Schweicheln-Bermbeck	1	Wor geist du hen sü we mit die gahen.
+fg	21632	Veltheim	1	Wu gah∫t du henn, schül wie mi'e gah'n?
+fg	21666	Rohden	1	Wu ga(i)hst´e henn, schö' we men („dir sXXd fortgelassen) goahn?
+fg	21679	Springe	1	Wõ geihst dõ henn, söll we mit deck megahn?
+fg	21687	Vardegötzen	1	Wun gei∫t diu hen, sall ek mieh gahn?
+fg	21707	Rautenberg	1	Wo gah∫t ´e hin, schül we me-e?
+fg	2182	Soginten (Svirskoe)	1	Wo gei∫t hen, soll wie met ka͡oum?
+fg	21882	Bodenstedt	1	Wu geih∫t duu hein, schall u^ok mitte gahn
+fg	21902	Rautheim	1	Wo gei∫t du henn süllt wie mit dick gahn.
+fg	21936	Bartensleben	1	Wu gei∫t du hen, söllt wie mit dik gahn
+fg	2200	Narmeln (Polski)	1	Wo geih∫t henn, säl wie mett die goane?
+fg	2204	Leysuhnen (Ščukino)	1	Wo geih∫t de henn, sell wi mettdi goahne
+fg	22044	Rottorf	1	Wo gei∫t du hen, sällt wie mit dick gahn?
+fg	22063	Hundisburg	1	Wo geih∫t´n henn, soll'l wi mit dick gahn?
+fg	22074	Farsleben	1	Wo gei(a)∫t´n hen, solle wie mit dik g(oa)hn?
+fg	22083	Reesen	1	Wue gei∫t du hen, sällen wie mit die joan
+fg	22092	Paplitz	1	Wue jei∫t dänn henn, söll'n we met goahn
+fg	22111	Wasbüttel	1	Wö gah∫t dü hen, schöew mit dick gahn
+fg	22149	Rätzlingen	1	Wo gai∫te hän, schöllt wie mit dick midde gahn?
+fg	2216	Hermsdorf (Pograničnyj)	1	Woa geih∫t du hen, solle wi met di gahne.
+fg	22172	Burgstall	1	Wo gai∫t du hen, sölle wai mit dai gahn?
+fg	22222	Reislingen	1	Wo geih∫t du henn, süllt wie mit dick gahn?
+fg	22249	Roxförde	1	Wo gei∫t du hen, sölln we mit dick gohn?
+fg	2225	Moritten (Oktjabrskoe)	1	Wo geih∫t du henn, sull wi möt di goane.
+fg	22264	Grieben	1	Wo jei∫t denn hänn, sölle wäi mett däi jaahn?
+fg	22276	Zabakuck	1	Wo gei∫t de hen, sölln wi met die go͡an.
+fg	22375	Westerholz	1	Wo geih∫t du hen, schött wi mit'n gahn?
+fg	22384	Tülau-Fahrenhorst	1	Wo gei∫t du hen, sött wi mit dick gahn?
+fg	22394	Köbbelitz	1	Wo geißt du henn, sölln , we mit die gohn.
+fg	22407	Schenkenhorst	1	Wou geih∫t du henn, sölle weï mit dï goahe?
+fg	2242	Naunienen	1	Wo gei∫t du hön, sull wie möt die gahne
+fg	22423	Querstedt	1	Wo jeh∫t du hen, söll'n we met de john?
+fg	22443	Staffelde	1	Wo geih∫t du hen, sölln we'i met dei goehn.
+fg	22453	Grosswudicke	1	Wo jeih∫t du henn, söll'n wie mett di go͡ah'n
+fg	22574	Masel	1	Wo gai∫t du henn, sött we͡i mit dick gahn?
+fg	22581	Höddelsen	1	Wo geih∫t du hen, schol'n we mit dik gaohn.
+fg	22599	Wöpel	1	Wo geih∫t du henn, sall'n wi mit di gohn.
+fg	22621	Molitz	1	Wo gei∫t du henn, sülle wei metkumn.
+fg	22636	Rönnebeck	1	Wu gei∫t du hen, sölln wäih met däih g(ao)hn
+fg	22654	Iden	1	Wa geih∫t du hen, säll'n mi met di met gaahn?
+fg	22667	Kuhlhausen	1	Wo geih∫t du henn, sölln wei mett dei joahn?
+fg	22685	Proitze	1	Wo geih∫t du ´en, schölle wi mit dick gahn?
+fg	22773	Holdenstedt	1	?N?ahm gar∫t du henn, scholl wäih mitt dik gahn?
+fg	22796	Wustrow (Wendland)	1	Wu geih∫t du hen, sölln wie mit die gahn?
+fg	22810	Lomitz	1	Wua geih∫t du hen, schöllé wi mët di gahn?
+fg	22819	Jeggel	1	Wo geih∫t de hen, söll'n wi met di goahn?
+fg	22832	Gross Lüben	1	Wo gei∫t du hän, sölln wie müt die goahn?
+fg	22846	Görike	1	Wo geih∫t du hen, sölln wie met die goahn.
+fg	22910	Holthausen	1	Wor ge-is dou hin, sölle we-i mit ?t?sche gohn?
+fg	22931	Dahlhausen	1	Wo geste hen, söffe met ti gohen
+fg	22965	Langeloh	1	Wo͡a gäi∫t du hen? sö wi met di go͡an?
+fg	22990	Halingen	1	Boo gäi∫t diu henne, sö wey miet dey gaon?
+fg	22998	Neheim	1	Boo gäuh∫t diu henne, söll' we met di gaohn?
+fg	23010	Niederbergheim	1	Bo geuh∫t diu hen, sö wěi met di gohn?
+fg	23021	Kapellen	1	Woar goaje henn, sölle wej met ow go͡an?
+fg	23031	Rheinberg	1	Wo gehs do hen sölle wet met gohn?
+fg	23184	Holthausen bei Kirchhellen	1	Wo gäh∫t du henn, söllen wee mett dä go͡ahn?
+fg	23191	Herten	1	Wuo geis du hen, säwie met di goun?
+fg	23207	Waltrop	1	Wuo gei∫t du hen, söll wie met di?r? gouhn
+fg	23218	Kamen	1	Wuo gäist Deu hen, söff wei mit Dei guohn
+fg	23231	Norddinker	1	Woe geust diu hen, süve mirt di gohn.
+fg	23261	Kessel	1	Wor gott gej henn, sölln wej mett o͡u gohn?
+fg	23271	Kehrum	1	Wo gog ge hin, sowe met ow gohe?
+fg	23284	Hamminkeln	1	Woar geh∫t dou henn, sall ek mett dej gohn [a über o geschrieben]
+gh	23293	Erle	1	Wo͡a gij∫te hen, söll we mät di goahn?
+gh	23343	Göttingen	1	Woa gei∫t dou hen, süw wey mit die goahn.
+gh	2338	Wenslowischken (Voznesenskoye)	1	Wo gei∫t du henn, sull wie mett die goane?
+gh	23402	Holtwick	1	Wo geih∫t du hen, säll wie mät die gohn.
+gh	23412	Seppenrade	1	Wo gaih∫t du henn, söll wie mett die goahn?
+gh	23419	Davensberg	1	Wou geist du en, söll wi met die goun. 
+gh	23426	Vorhelm	1	Woa geis du hen, sällt wir met die goahen?
+gh	23435	Stromberg	1	Wo gääs du henn, söö wen met de gohn?
+gh	23453	Stockum bei Coesfeld	1	Wo geis du henn, sö wih mett dih gohn?
+gh	23466	Nottuln	1	Wor geis du henn, söll wi mett die gohn.
+gh	23471	Münster	1	Wao gaist du henn, söll wi met di gaon?
+gh	23478	Einen	1	Wao gais du hen, säll wie met met dieh gaohn.
+gh	23483	Greffen	1	Wo gaihs du henn, söw wie mät die goahn.
+gh	23494	Speelberg	1	Wo̿ go̿t géj hen, sölle wéj met ow go̿n
+gh	23498	Hemden	1	Wor wis dou hän, seuw mät dei gohn?
+gh	23507	Weseke	1	Wo gehs du hen, söl wi met di gon?
+gh	23545	Tüddern	1	Woa gěhst du här, soue ver met dich goen?
+gh	23566	Porselen	1	Woh geh∫t du her so n wier met dech gohn.
+gh	23602	Holzweiler	1	Wó geh∫d du hinné, sŭdde wir möt gonn?
+gh	23630	Evinghoven	1	Wo gehs du hin, sülle mer möt dech gonn?
+gh	23817	Reusrath	1	Wo gehs du hin, söle mir met der gonn?
+gh	23843	(Stolzenberg)	1	Wȏ?a?ȏh geh∫t du hen, sölle mer met der gohn? (gaohn)
+gh	23858	Oberklüppelberg	1	Wo geh∫t de hin, suffe met die gohn
+gh	23873	Valbert	1	Wo geh∫t du hin, suf wie met die guohn.
+gh	23885	Sporke	1	Wo gei∫t diu hiene suw' in (soll wie) met die gohn?
+gh	23902	Schmallenberg	1	Bo gäihs te hien, soffe met dehi gohn
+gh	23906	Elmpt	1	Wo gehs doe her, söllen wöhr möt dech gohn?
+gh	23922	Helenabrunn	1	Wo ges du her, sölle wer mött goan.
+gh	23933	Weißenberg	1	Wo(k) géhs de hin (kinder) solle mér möt dech gonn?
+gh	2398	Mertensdorf (Tjomkino)	1	Wo geih∫t du hen, sull wi met die gauhn.
+gh	2409	Trausen (Lipnyaki)	1	Woa gihei∫t hi|enn, sull wie mi|ettko͡amn?
+gh	24107	Hubbelrath	1	Wo geis te hen, solle mer met dech gonn.
+gh	24134	Barmen	1	Wo gehstu henn, söllen wir met deck gonn?
+gh	24156	Delle	1	Boa gäi∫t du henn, sŏ fi met dir goan?
+gh	24167	Altena	1	Bo gēǐhst do͡u henne sǒ’wēǐ met dēǐ gohen?
+gh	24180	Stockum	1	Bo gei∫te hien soffn met di gohn?
+gh	24208	Wall	1	Wo gehs de hen, solle wie möt dech gohn?
+gh	24218	Vennikel	1	Wo geh∫te här, solle wäi met dech gohn?
+gh	2426	Groß Pentlack (Kamenka)	1	Wo jei∫t henn, s?a?ll wie mit die gohne
+gh	24336	Berghausen	1	Bo ge∫t dü hen, sem mer met deer gen?
+gh	2436	Kowarren (Zaozernoye)	1	Wo gei∫t du hen, soll wi met dir gabe?
+gh	24360	Bottendorf	1	Bo ge∫t du hen sinn mer metter genn?
+gh	24380	Bergfreiheit	1	Leo geh∫t de hen, summer medder gehen?
+gh	24412	Roppershain	1	Wo wätt du dann hin, sumäh merXn genn?
+gh	24431	Konnefeld	1	Wo geh∫t du hienn, summ me midde giann?
+gh	24454	Berneburg	1	Wo(ŭ) gä∫t du hän, son me met de gehn?
+gh	24466	Lüderbach	1	Wu ge∫t du hen, sun meh met de geh
+gh	24490	Züschen	1	Boh geih∫t du hienne söllt mi auk mire gohn
+gh	2452	Kleschowen (Kutusowo)	1	Wo gei∫t du hänn, soll wi met di gohne? (goane)
+gh	24636	Rhadern	1	Bo gei∫t du hen, söne mie mett die gonn?
+gh	24659	Buhlen	1	Bo gehd‘ hen, semmd med de gen?
+gh	2466	Tolkmicko	1	Woa gei∫t henn? Sall wie mött die ga^ohne?
+gh	24677	Metze	1	Lo gehs dä hänn, sonne mä medd dä genn?
+gh	24695	Wattenbach	1	Wo geh∫t dü henne, sonn mä (mett) merre dä genn?
+gh	24715	Vockerode	1	Wou ge∫d dou häen, sounn me medd de gieh?
+gh	24737	Grosstöpfer	1	Wo ge∫t dü hen, sunn meh met deh geh?
+gh	2474	Pierzchaly	1	Woa gei∫t du henn, sull wie met di gohne
+gh	2482	Peterswalde (Piotrowiec)	1	Wo geih∫t du henn, sall wi met di metgohne?
+gh	24884	Olsberg	1	Bo gäi∫t diu henne, soffe mett dei gohn?
+gh	24901	Sudeck	1	Wo geihst du hinne, so' wi mit di gohn
+gh	24917	Braunsen	1	Bo geh∫te hinne, so wi mit di gohn?
+gh	24926	Zierenberg	1	Wo gei∫t du hen, sollen me met deik gohn?
+gh	2494	Saruny	1	Wo gei∫t de hee, sull wie möt die möl gohne?
+gh	24942	Speele	1	Wo geh∫t du henne, summe mit dich gehen?
+gh	24959	Hermannrode	1	Wo geih∫t do hen, söle me met dek gohn.
+gh	2507	Wojciechy	1	Wo geih∫t du henn, sull wie mött di goahne?
+gh	25113	Meiste	1	Bo geu∫t diu henne, söll wěi met dir gohn?
+gh	25131	Fürstenberg	1	Wo geih∫t diu henne, sö wej mit dej gohn?
+gh	25136	Scherfede	1	Bo gei∫t dou hünne, sǚ wäi mit dick gohen?
+gh	25150	Körbecke	1	Wa gei∫t dou hün, söwei mit dik gahn?
+gh	25163	Gottstreu	1	Wo geih∫t du henn, süll we mit deck gahn?
+gh	25179	Esebeck	1	Wo chei∫t du henn, sölwi mit dek chahn
+gh	25197	Ebergötzen	1	Wo geih∫t dou henn, soll wie mett deck chān?
+gh	25214	Bönninghausen	1	Wo geu∫t diu henne, söffe mit tie gohn?
+gh	25223	Kirchborchen	1	Wo geih∫t diu henn, süll weī met deī gohen?
+gh	25343	Siebenstern	1	Wo geih∫t diu hön, söll wäi mit di gohn?
+gh	25354	Bruchhausen	1	Wo gai∫t du hen, söllt miä mit dik guahn?
+gh	25363	Schönhagen	1	Wo geist de hen, söllt wi me dek gahn?
+gh	25373	Oldenrode	1	Wo gei∫t diu hen, sollt wëi mir dek gaan?
+gh	25391	Marke	1	Wuh geih∫t d(iu) hen, sall eck mit deck goahn?
+gh	25407	Westerwiehe	1	Wo göe∫t du hen, söwwe met di mein gohn?
+gh	25514	Haustenbeck	1	Wo geuh∫t diu hen, söw wü met dü gohn.
+gh	25522	Heesten	1	Wo gäu∫t diu hen, söwwe mie gon?
+gh	25543	Rischenau	1	Wo geuh∫t diu hen, so wa͡i met do͡i gahn? 
+gh	25560	Lobach	1	Wo gah∫t du henn, söllt ?wai?wer? mit deck gahn.
+gh	25579	Wenzen	1	Wuo geih∫t 'e henn, söll we mit däk gahn?
+gh	25596	Ackenhausen	1	Wue gah∫t diu hen, sollt weui mit deck goahn?
+gh	25607	Wolfshagen im Harz	1	Wuo geih∫te hen, sullt wä͡i u͡ok mit deck go͡ahn?
+gh	25798	Kell	1	Bo jäh∫t de hin, solle mer metr john?
+gh	25824	Stromberg	1	Wo gieh∫t de hin, sollen mir mett derr gohn?
+gh	25845	Staudt	1	Wuh gih∫t´d hi(n) solle ma met da gihn
+gh	2586	Jurkiszki	1	Wo gei∫t du henn, soll wie mött die goane?
+gh	25876	Steinbach	1	Wou geh∫t dau hin, som wir met dir gehn.
+gh	25904	Höfen	1	Waar gee∫t du, sal[l zweites 'l' kaum lesbar] ich mot d(e)r gohn?
+gh	25914	Gemünd	1	Waar geeß de, soll (auch) sall ich mott d?e?r goh?
+gh	2602	Maciejowieta	1	Wo gei∫t du henn, soll wi mit di gahne?
+gh	26141	Iversheim	1	Wo jehs due herr, solle mer mot die john?
+gh	26155	Gelsdorf	1	Wo geh∫t dä, solle mieh müdde gohn.
+gh	26178	Ohlenberg	1	Bo jeis dei hin, solle mir met dir john?
+gh	26205	Seifen	1	Wo geh∫t de hin, solln mer möt der gohn?
+hi	26228	Gehlert	1	Wo gah∫t d´ hin, solle wir mit d'r gŏhè?
+hi	26261	Waigandshain	1	Wu gie∫te hie som mer bett'r gohn.
+hi	26283	Sinn	1	Wo gi∫t dau hie, solle merr met dir gieh?
+hi	26312	Venwegen	1	Wo geh∫t du henn, sölle wer met dich gohn?
+hi	26324	Üdingen	1	Wo geh∫t due hiä, solle mir möt dör gohn.
+hi	26351	Borr	1	Wo gehß due häa, sollema möt do gonn?
+hi	26578	Roisdorf	1	Woh geh∫te häe, solle me möt de gone?
+hi	26604	Geistingen	1	Wo gehs do henn, solle wir möt dir gohn?
+hi	26627	Herchen	1	Wo geih∫t do herr, solln mer mot der gohn?
+hi	26642	Mittelhof	1	Wo geh∫t de hin, sullen mir met dir gohn?
+hi	26664	Wilden	1	Wuh gieh∫t dau hing, sam mer bätt der goah?
+hi	26683	Straßebersbach	1	Wo gie∫t dau hi, solln mir betr gih?
+hi	26712	Mariagrube	1	Wo gees de henn soln wör met dich gohn?
+hi	26734	Niederzier	1	Wo gehs due häe, somme met dir gonn.
+hi	26753	Horrem	1	Wô gehste henn, sall ich mött dir gonn.
+hi	2676	Rygarby	1	Wo gei∫t du henn, sull wie met die goane.
+hi	26763	Poll	1	Wo geiß de hin, solle mer met der gonn?
+hi	2691	Kolwiny	1	Wo gei∫t du hĕn, sull wi mĕt di go͡ane.
+hi	27003	Heiligenhaus	1	Wo gee∫t e hénn, sollè mér met der gŏnn.
+hi	27025	Faulmert	1	Wo geh∫t du hiën, sollen wir met dir gohn.
+hi	2703	Srokowo	1	Wo geih∫t du hänn, sull wie mött di gohne.
+hi	27038	Hahnseifen	1	Wo geh∫t de hin, sollen mer met der gohn?
+hi	27064	Müsen	1	Wo giehst de he, som mer better goh?
+hi	27074	Schameder	1	Wu ge∫te hen, sem' mer met der geh?
+hi	27106	Dudenhofen	1	Wou gäi∫t de hähn, solle merr mit der gehn.
+hi	27135	Wenighösbach	1	Wou gähi∫t du hie, solln ma mit da gäh?e??
+hi	2715	Stregiel	1	Wo gei∫t du hänn, sull wÿ mött dÿ goane?
+hi	27150	Wiesthal	1	Wo geh∫t du hi, sellen wir met dir gehen?
+hi	27163	Massenbuch	1	Wu gea∫te dua hin, söllen wir mit diār gieā?
+hi	27186	Neubessingen	1	Woa geah∫te hi, sölle mer mit'r gia?
+hi	27209	Dittelbrunn	1	Wo geh∫t´n hie sölla mir a mit dir gih?n?.
+hi	27223	Vockenhausen	1	Wu gih∫t de hin, solln mer met'er gieh?
+hi	27244	Heddernheim	1	Wo geh∫t'e hie, solle mer mit d'r geh'?
+hi	2727	Budziska	1	Wo geih∫t du hänn, sull wie oock met die metgohne?
+hi	27425	Bruchköbel	1	Wuh gih∫t de hi, solle merr medd derr gihn?
+hi	27444	Hailer	1	Wo gißt d´ hie, soll'mer met d'r gih?
+hi	2746	Chelchy	1	Wo gei∫t du henn sulle wie met di gohne.
+hi	27461	Oberndorf	1	Wo geä∫t du ohne, salle mir ?h?eitter genn?
+hi	27469	Rossbach	1	Wu gehst´n hie, sölle měr mittěr geh?
+hi	27480	Hassenbach	1	Wu gäßt du hie, sölla mir mit dir giah?
+hi	27501	Poppenlauer	1	Woä gäh∫t dä hie, söllä mär met diär giä?
+hi	27507	Cratzenbach	1	Wu gih∫t'd hi, sunn m'r met d'r gih?
+hi	2762	Wilkowo	1	Wo gei∫t du henn, soll we met de goune?
+hi	27692	Friedrichstal	1	Wu gih∫t dou hi, solln mir mirt dir gih.
+hi	27719	Leidhecken	1	Wou gi∫te hi(e), solle m't met d'r gihn.
+hi	27742	Gelnhaar	1	Wu gi∫ta hi, solle m'r met d'r gi.
+hi	27765	Ulmbach	1	Bu geh∫te hi, sommer mit d'r geh?
+hi	27775	Eichenried	1	Bu geh∫te hüh, solle merr miit dr geh?
+hi	27792	Wildflecken	1	Bu geßte hi solle mer met'r geh?
+hi	27807	Bastheim	1	Bu geh∫t d'hin, sölle m'r mit d'r geha?
+hi	2781	Karwiny	1	Wo geh∫t du hönn, sull wör mött dör gehen?
+hi	27821	Philippstein	1	Wu gih∫t dou hi, san wir met dir gihn?
+hi	27835	Dornholzhausen	1	Wu gi∫t de hi, sone m'r met d'r gihj.
+hi	2800	Krzykaly	1	Wo gehst geh∫t du hönn, sull wöa met dea gehn.
+hi	28010	Nonnenroth	1	Wou gii∫t doau hii, sone merr met d'r giih?
+hi	28027	Götzen	1	Wu gieh∫t dou hih, son m'r metter gih?
+hi	28045	Altenschlirf	1	Bu geh∫t du hiih, sen mer mit dir geh?
+hi	28063	Fulda	1	Bo goh∫t du hi, somm mer mit der goh?
+hi	28080	Rupsroth	1	Bu ge∫t du hi, sonn me mit de i geh?
+hi	28107	Gerthausen	1	Bue gäßt du hie, soen me mit de gehn?
+hi	2817	Mawry	1	Wo geh∫t du hönn, sullwa mitta göhn?
+hi	282	Zolna	1	Wo geh∫t du henn, soo wi mit dir gaun?
+hi	2827	Sarnowo	1	Wo geh∫t du henn, sull wa met dea gehn
+hi	28278	Krumbach	1	Wu gi∫t de hih, sonn m'r met d'r gih?
+hi	28298	Londorf	1	Wu gi∫t d´ hi(eh), sinn m'r met d'r gi(eh)?
+hi	28315	Otterbach	1	Wuh gi∫t duh hie, siXX mihr mett dihe gih?
+hi	28330	Schwarz	1	Bo ge∫chte hinn, sonn mer mett der geh?
+hi	28346	Grossenmoor	1	Bo ge∫te hin, sonn mäi mit däi geh'?
+hi	28358	Rasdorf	1	Bo ge∫t dä hin, senn mä mit dä geh?
+hi	28369	Wiesenthal	1	Bu gäh∫te hi, sonme mitde gäh?
+hi	28392	Herzhausen	1	Wu gi∫t du hi, sinn m'r met d'r gih.
+hi	2846	Ledlawki	1	Wo gei∫t henn, sull wie mötgoane.
+hi	285	Kosobudy	1	Wo jè∫t du hen, selle wi mit dir gaun.
+hi	28568	Betziesdorf	1	Wo gißt däeh hin, sinn merr mett dr gieh?
+hi	28589	Neustadt (Hessen)	1	Wu ge∫te hin sinn mer mett derr gi?
+hi	28605	Neukirchen	1	Bo ge∫t de hin, so[ŭ darüber gestrichen] m'r met dr gih?
+hi	28623	Gittersdorf	1	Bo ge∫t de henn, sonn mäh met de geh?
+hi	28640	Herfa	1	Bo ge∫t de henn, solle mei met dei geh.
+hi	28651	Frauensee	1	Bu ge∫t däu hen, some wei met dei geh?
+hi	289	Königswiese (Leśna Huta)	1	Wo geh∫t du hän? Säle wi mit di gohne?
+hi	2900	Borawskie	1	Wo gei∫t du hänn, sol wi mit di goane?
+hi	2906	Zabrowo	1	Wo geh∫t henn, sull wi met di ghone?
+hi	291	Lubichowo	1	Wo geih∫t du henn, sählä wie mit die gohnä.
+hi	2916	Stanowo	1	Wo geh∫t de hên, sulle wêr mêt der gehen
+hi	2923	Fijewo	1	Wo geh∫t du hen, sull wer met dir gehe?
+hi	2935	Groß Koschlau	1	Wo geh∫t du henn, sullwer mett der gehn?
+hi	2955	Liksajny	1	Wo geh∫t´hönn, sull wör mött dör gehen?
+hi	2962	Molza	1	Wo geh∫t du henn, sall wär mett die geh?
+hi	2970	Warkaly	1	Wo geh∫t du hen, sull wea met dea gehe
+hi	2996	Bucznik	1	Wo geh∫t du heen, sull wer mit dehr gehen?
+hi	300	Montauerweide	1	Wor geih∫t du hen, sull wi met di gohne?
+hi	300660	Sankt Roman	1	Wo geh∫t denn hin, laß mi mit gehn.
+hi	300798	Reikersdorf	1	Wo geh∫t denn hi, solln má mit dir gehen?
+hi	301042	Rigaus	1	Wo geh∫t hi, soit ma egga mit dir geh(n)?
+hi	3058	Zyndaki	1	Wo gei∫t du hen, sul wie met die gohn.
+hi	3069	Rychliki	1	Wo geh∫t du hönn, sull wer met d?o?r gehen?
+hi	3083	Chojnik	1	Wo geh∫t hönn, sulle wör mött dör geh'n?
+hi	3093	Ksiaznik	1	Wo geh∫t hun, sulle wē met deē gehen?
+hi	3111	Glotowo	1	Wo geh∫t hön, sull wüa met komme?
+hi	312	Ryman	1	Woa geh∫t du hen, schola wie mit die goa?
+ij	3122	Derc	1	Wo geh∫t du hen, sull wea mett dea gehe?
+ij	31677	Battweiler	1	Wo ge∫ch de hin, solle mĕr met dr geu?
+ij	31695	Heltersberg	1	Wo geh∫cht du hin, solle mer met der gihn?
+ij	31700	Ramberg	1	Wu geh∫cht de hin, séllem'r mit dr giehn?
+ij	31719	Geinsheim	1	Wu geh∫cht du hiň, söll'n mer mit dehr geh'?
+ij	31737	Diedenhofen	1	Wo͡u gè∫chte hin̅, solle (m'r) mir met d'r gohn?
+ij	31765	Laumesfeld	1	Wou gäscht D´hinn, soll m'r mett d'r gohn?
+ij	31789	Beckingen	1	Wo geh∫cht d´hinn, sollen mer met dr gehen?
+ij	31800	Calmesweiler	1	Wo ge∫ch d´e hinn soll mer met dir gehen. 
+ij	31824	Steinbach bei Ottweiler	1	Wo geh∫cht dau henn, solle merr met derr gehn?
+ij	32019	Dietschweiler	1	Wo geh∫cht du henn, sollen wir mit der gehn?
+ij	32040	Siegelbach	1	Wo geh∫chte hin, soll ich mid der gejn
+ij	32053	Alsenborn	1	Wo geh∫cht du hin, solle mer mit der gehn.
+ij	32067	Erpolzheim	1	Wu ge∫cht´n hie, sollemerr mit der gäh?
+ij	32085	Kreuzweiler	1	Wuo gä∫t de hin, sollen mer mat d'r gon?
+ij	32102	Greimerath	1	Wu gäs de hin, salle mer mät dr gohn?
+ij	32119	Oberlöstern	1	Wo geh∫ch de hin, sollen m'r met d'r gehen?
+ij	324	Podwilcze	1	Wo geh∫t du henn, schoww wi mit di gaun?
+ij	3254	Jurkowo	1	Mo gäh∫t du hen, sull wie mät die gohne?
+ij	3267	Pozarki	1	Wo gei∫t du henn, sull wie met die gohne
+ij	3272	Gawliki Wielkie	1	Wo geist du hänn, sull wi met di gone?
+ij	3280	Swietajno	1	Wo geeh∫t du hen?a?, sèlle wie met di gohne?
+ij	32855	Altviller	1	Wu ge∫cht du hin, sodden mer bit di?e? gehn?
+ij	32883	Woustviller	1	Wuh géh∫chte hin, soll ich metter gēhn?
+ij	3301	Barschken	1	Wo geiß du hen, sull wie met die gahne.
+ij	33035	Rimling	1	Wu gè∫ch dé dann ä nan, sollé mér mèt dér gèhn.
+ij	3304	Dawillen	1	Wo geih∫t du henn, sull wÿ mött dÿ gohne?
+ij	33055	Roppeviller	1	Wo ge∫chde hin, solln mer mit dr gen.
+ij	33064	Dahn	1	Wuh geh∫ch hin séllé mèr mid-dèr geh
+ij	3309	Dittauen	1	Wo gei∫t du henn, soll wie mött di gahne.
+ij	33102	Gleiszellen	1	Wo ge∫cht du hiñ, söllen mir mit dr gehn
+ij	33111	Herxheimweyher	1	Wu ge∫cht du nau, sellen m'r mit d'r geñj?
+ij	33126	Guinkirchen	1	Wu ge∫cht d´hin, sollen m'r met d'r gehn?
+ij	33146	Überherrn	1	Wo ge∫cht dau dann hinn soll ma mit da gehen.
+ij	33159	Malstatt	1	Wo ge∫cht de hin, sollen wir mit d'r gehn?
+ij	3318	Deegeln	1	Wo gei∫t du hen, sélle wi mettgoane
+ij	33185	Niederwürzbach	1	Wo ge∫cht de hin, solle mer met der gehn.
+ij	33331	Steinbuch	1	Wo gäi∫t du hi, sallen mir mit dir gäi.
+ij	33346	Breitendiel	1	Woě gei∫cht dann hi, solla m'r mit d'r gein?
+ij	33364	Hundheim	1	Wu ge∫chde no, söllemer mit d'r geh.
+ij	33381	Steinbach	1	Wu gä∫t du hie, söll mer mit dir geha?
+ij	33400	Eibelstadt	1	Wua gäßt' d[d durchgestrichen]u hii sölla mar mittr geah?
+ij	3342	Pillkoppen	1	Wo geih∫t du henn, sull wie met dir goane?
+ij	33420	Rödelsee	1	Wu geah∫t ?g? hi, soll'n m'r mit d'r geah?
+ij	3343	Karkeln	1	Wo gei∫t du hän, sell wi möt di gahne?
+ij	3345	Dünen (Ackmenischken)	1	Wo gei∫t de heen, se͂ll wie möt die gaane?
+ij	3351	Pleine	1	Wo gei∫t du henn, sull wi mätt di goahne?
+ij	33605	Erfelden	1	Wo geh∫chte he, solle mer mit drr geh?
+ij	33614	Traisa	1	Wo ge∫te he, solle ma midda ge?
+ij	3362	Cullmen-Kulken	1	Wo geih∫t du hänn, sull wih mŏtt dih gaahne.
+ij	33631	Heubach	1	Wau gaih∫t (de) dann hehn, selle mer mit dr gäihn.
+ij	3364	Rositten (Rybachiy)	1	Wo geih∫t du henn, sull wi mit dir gahne?
+ij	33648	Hofstetten	1	Wou gäi∫t de hie, selle mer mitt der gäi?
+ij	33660	Bischbrunn	1	Wu gäh∫ta hie, sölla mr mit dr gän̅?
+ij	33677	Birkenfeld	1	Wu geih∫t de hi solln mer mit dr gieha.
+ij	33692	Rupprechtshausen	1	Wua gäh∫ta hìe, sölli mitr gäa?
+ij	33711	Gaibach	1	Wu gáih∫t da hi, solla mèr mit d'r gãha?
+ij	33725	Rüsselsheim	1	Wo geh∫t de he͂, selln merr mit derr geh?
+ij	33741	Langen (Hessen)	1	Wo geh∫t de hé', sĕnn m'r met d'r geh'?
+ij	33849	Altlussheim	1	Wu geh∫cht du na, solle mar mit dr gähn?
+ij	33860	Schatthausen	1	Wuh geh∫ch dann na, sollä mär mit där geh?
+ij	3387	Sassenhöhe (Augsgirren)	1	Wo geih∫t du henn, sull wie mett di gahne?
+ij	34001	Daudenzell	1	Wu geh∫cht na, solle mer midr geh?
+ij	34015	Billigheim	1	Wo geh∫cht hin, salle wir mit dir gehne?
+ij	34025	Oberkessach	1	Wo geh∫t du na, soll mer mit der gehn?
+ij	34044	Ailringen	1	Wo go∫t du ane, solle mer a mit dir genn.
+ij	34058	Lichtel	1	Wu gäh∫t hi, solla mèr mit'r gèhna?
+ij	34065	Windelsbach	1	Wo gäh∫tn hī, salln mer mit dr gäăh.
+ij	34076	Ludwigshafen am Rhein	1	Wo gē̄́∫cht dann hīn? Solle mer midder gēhn?
+ij	34096	Ursenbach	1	Wu gäi∫cht du hin, sollé ma mit da gehn?
+ij	34216	Gammelsbach	1	Wie gäi∫chte hi, selln ma mida gai?
+ij	34228	Rumpfen	1	Wo ge∫cht du an̅e, sullen wir mit d'r geh'n?
+ij	34235	Gerichtstetten	1	Wu geh∫cht du hĭn, soll'n mír mi'dr gaihn?
+ij	3424	Beierstedt	1	Wo(u) geihst´n hen, söllt wie midde gahn?
+ij	34247	Königshofen	1	Wu geä∫cht n hie? solla mr mitr geähna?
+ij	34266	Aufstetten	1	Wou gäa∫t de hi, solla mr mit dr gäha.
+ij	34288	Weigenheim	1	Wu gä∫t´n hie, sella mer mit d'r gänna?
+ij	34305	Bobstadt	1	Wū gai∫chtn dū he, soll mer mit der gähi?
+ij	34321	Mittershausen	1	Wou gäi∫ch de hin, solle mer mit dr gäin?
+ij	344	Modrolas	1	Woa geh∫t du henn, schäu wi mit di gaha
+ij	34447	Berghausen	1	Wuh gē̄́∫ch dann nah solla mar mit dar geeha[a durchgestrichen].
+ij	34503	Winzerhausen	1	Mo^o go^oh∫cht na - soll'm'r mit d'r (oder "mit'r") gau?
+ij	34522	Liemersbach	1	Wo geh∫t du na, solla m'r mit d'r géha
+ij	34535	Eutendorf	1	Wo gä∫cht anne, sellamer metgeha?
+ij	34545	Honhardt	1	Wua gè∫cht hin, solla mer midgehna?
+ij	34557	Segringen	1	Wo ge∫cht´n hī, solle mer mit d'r gange?
+ij	34566	Graben	1	Wu geh∫chd nān, sollă măr a middăr géhn?
+ij	34707	Odenheim	1	Wu geh∫ch dau na, soll a ma mit der geh?
+ij	34734	Massenbachhausen	1	Wo geh∫ch nā, sollə mər mit dər gèh?
+ij	34750	Binswangen	1	Wo gä∫ch´n na, solla merr mit dr gehi?
+ij	34773	Öhringen	1	Wō gē̄́h∫ch hī (=nō), sollă m(ă)r mit dr gē̄́h?
+ij	34791	Döttingen	1	Wu gèh∫t nau (od. one), söll mir mit'r gèa (gèana)
+ij	34802	Gaggstatt	1	Wuè gä̅ě∫cht du hī, séllè mèrr mit dir gäè?
+ij	34818	Dorfgütingen	1	Wu gä∫chtn hi, soll mer mit'r gäna?
+ij	34838	Röckingen	1	Wu ge∫ch na hin soll wera miter ganga.
+ij	34855	Windsfeld	1	Wu geh∫t de hie, soll mer mit der geha.
+ij	34872	Ettenstatt	1	Wou géh∫cht'n hie, soll m'r mit'r géïh.
+ij	35003	Untermässing	1	Wou ge∫chtn hie, solln wir mit dir gein
+ij	35011	Gimpertshausen	1	Woh geh∫t du hi sollm me mit dir gieh.
+ij	35026	Beratzhausen	1	Wao gae∫t den hi solln mir mit dir gan.
+jk	35035	Eitlbrunn	1	Woa gea∫t´n hi, soll ma mit dia gai?
+jk	35046	Altenthann	1	Wo geh∫t du hi', soll'n wir mir dir geh'?
+jk	35055	Rauenzell	1	Wo geah∫t hin, solln ma mit die geah?
+jk	35067	Ismannsdorf	1	Wo gä∫t n hi, soll n mer mit dr gäh?
+jk	351	Smecino	1	Wo geh∫t du henn, schôllä wī mitt di k'āmë?
+jk	3516	Bornum	1	Wo geih∫t du hen, süllt wie mit dek gahn?
+jk	35165	Büchenbach	1	Wou geh∫t´n hi, soöö mo mit dr gehi?
+jk	35168	Seligenporten	1	Wău géi∫t hin, soll'n ma mit dir gĕih'n
+jk	35188	Günching	1	Wao gai∫t´n hi, sollma egga mit dir gai?
+jk	35195	Adertshausen	1	Woau géi∫t hi, sollma mitgei
+jk	35204	Wiefelsdorf	1	Wou göi∫t du hi, soll ma mit dir gia?
+jk	35211	Bodenwöhr	1	Wäu gëih∫t denn hi, solln ma mit dir gi?
+jk	35223	Flachslanden	1	Wu ge∫tn hi, solln mer mit'r geah?
+jk	35236	Grosshabersdorf	1	Wu ge∫chtn hi, soll mer a mied geh?
+jk	35254	Birnthon	1	Wâu gäi∫t'n hi (zou), sollmer mit der géi?
+jk	35339	Röthenbach	1	Wou geih∫t denn hi, solle mer mit der geih'?
+jk	35377	Alfeld	1	Waŏu gäi∫t du zou, soll ma mit dia göi?
+jk	35382	Ammerthal	1	Wou gäih∫t hi, soll'n ma mit dir göih?
+jk	35393	Trisching	1	Wo geh∫t hin, soll ma mit dir gea.
+jk	35517	Unternesselbach	1	Wu gäh∫te hie, söllmer a mit der geh?
+jk	35524	Oberreichenbach	1	Wu geh∫t du hin, soll mé mit dé geh?
+jk	35544	Buckenhof	1	Wu ge∫cht du hi soll mor mit dr geh.
+jk	35562	Kirchröttenbach	1	Wou gäistn hie, solln ma mit gèih.
+jk	35571	Hartenstein	1	Wou gäi∫t du hi, sollma mit dir gähn?
+jk	35577	Schlicht	1	Wou geih∫t den hi, soll ma mit dia gia[n ist durchgestrichen].
+jk	3558	Beckendorf	1	Wu geih∫t du henn, söllt wei mit dik gahn?
+jk	35585	Kohlberg	1	Wou gehi∫t hi, soll ma mit dir gehi.
+jk	35597	Oberlind	1	Wou göi∫t den zo͡u, soll ma mit dir göi
+jk	356	Porst	1	Wo geh∫t dau henn, schä^ouln wa^oi mit dä^oi gaha?
+jk	35710	Haag	1	Wu gä̆sdn hi, gall ich sell midr gen.
+jk	3572	Domersleben	1	Wu gei∫t du hen, soll'n wi mit dick gāhn?
+jk	35729	Mühlhausen	1	Wu geh∫tn hie, sell mer mitr geh.
+jk	35755	Pautzfeld	1	Wu gieh∫tn hi, sölln me mit de geh?
+jk	35762	Moggast	1	Wo geh∫t denn hin, sölln wir mit dir gēh?
+jk	35778	Pegnitz	1	Wou gehi∫t du hin, selln mă mitgeīh?
+jk	35791	Speinshart	1	Wou göih∫t du hi, soll'n ma mit dir göih?
+jk	35799	Friedersreuth	1	Wa^ou gai∫t den̅ hin, soll'ma mit dia göin.
+jk	35807	Plössberg	1	Wa-u go-i∫t den hi, soll ma mit dia ge-i.
+jk	35824	Geusfeld	1	Wu geh∫tn hi, söll'n m'r mit d'r gehn.
+jk	35843	Tütschengereuth	1	Wu geh∫t da[d ist durchgestrichen] hī, söll mè mit è geh?
+jk	35857	Litzendorf	1	Wu geh∫t hi, solln ma mit da geh?
+jk	3592	Prester	1	Wo jei∫tn henn, solln we mit dick gahn?
+jk	36007	Hollfeld	1	Wu gih∫t´n nah; sölln ma ah mit dia geh?
+jk	36017	Donndorf	1	Wu geh∫t a hi, selln ma mit dia geh.
+jk	36039	Kirchenpingarten	1	Wau gai∫t du hi, soll ma mit dia gai?
+jk	36049	Hohenhard	1	Wou göi∫t den̅ hi, soll'n ma mit dia göih.
+jk	36056	Leonberg	1	Waou göißt hi, soll ma mit diè göi?
+jk	36065	Hohrodberg	1	Wüe gie∫ch an̅e, selle mer met der kŏnn̅e
+jk	36084	Colmar	1	Wu geh∫ch dü hin, solle mer met der geh.
+jk	3609	Dalchau	1	Wu geih∫te hen, soll wie mett die joan?
+jk	3614	Schweinitz	1	Wo jei∫t de hen, solln wir nich met di jehn?
+jk	36159	Meistratzheim	1	Wüh ge∫ch onne, sälle m'r met'r gehen?
+jk	36178	Müllen	1	Wo gé∫cht dü ănna, sollè m'r mĭt d'r géhn?
+jk	36202	Kniebis (Kr.Freudenstadt)	1	Wo go∫cht nā, sollě mĕr mit d'r găo?
+jk	3626	Nennhausen	1	Wo jeih∫t du henn, sölln wie mett di joahn.
+jk	36272	Ödsbach	1	Wo geh∫cht no, solle mer mit der geh'
+jk	36277	Turquestein-Blancrupt	1	Wü gēh∫ch anne sollě mĕr mit dr gen
+jk	36282	Wangenbourg	1	Wu ge∫ch anne sellen mer met.
+jk	36309	Furdenheim	1	Wü gé∫ch ane, selle m'r met d'r géhn
+jk	36334	Ruprechtsau	1	Wo géschn ănne, solle m'r mĕtt d'r géhn.
+jk	3634	Berge	1	Wuhn gei∫t de henn, sölln wi mett komm?
+jk	36348	Achern	1	Wo gē∫ch noa, solla mr mit'r géh? (gieh)
+jk	36362	Saarburg	1	Wo geh´∫ch anne, solle mer mit d'r gehn?
+jk	3639	Pausin	1	Wue gei∫t du henn, söärln wei met dei jarhn
+jk	36489	Bois De Chêne	1	Wie ge∫ch denn anne, sollen wir mit d'r gehen?
+jk	3649	Hermsdorf	1	Wu jeh∫t du hen, sellen wir met dir jehn?
+jk	36525	Wilshausen	1	Wo geh∫t anne, sellen mer met der gehn?
+jk	36552	Marienthal	1	Wie gé∫ch anne solle m'r met d'r gehn
+jk	36567	Fort-Louis	1	Wo gesch dü anné, sollé m'r mid'r gehen?
+jk	36594	Bad Rotenfels	1	Wo geh∫t nā, solltmer mit d'r gīeh?
+jk	366	Przeradz	1	Woe geh∫t du henn, schöann wie mit die goan
+jk	3664	Birkholz	1	Wo geh∫t du hen, sollen wi met dir gehn.
+jk	36737	Altwiller	1	Wo ge∫ch d´anné, sollè m'r mit d'r gehn. 
+jk	36755	Weislingen	1	Wu geh∫ch ane, solle m'r mit d'r gehn?
+jk	3677	Gielsdorf	1	Wu geh∫t du´n henn, selln wie met dieh gehn?
+jk	36772	Lichtenberg	1	Wia ge∫ch annă, solla m'r med dăr gehn?
+jk	36789	Goersdorf	1	Wo ge∫ch anne, solle mer mit d'r gehen?
+jk	36823	Siegen	1	Wu geh∫ch annè, sellè m'r mit d'r geh
+jk	36842	Neuburgweier	1	Wo geh∫t d´ hin, solle mer mit der gehn?
+jk	3688	Ringenwalde	1	Wue lep∫t du hen, sell'n wi met di lop'n
+jk	36880	Bischoffingen	1	Wu go∫ch hie, soll?a? mär midder goh.
+jk	36898	Maleck	1	Wo go∫ch du hi, solle mer mit der goh?
+jk	36911	Yach	1	Wu go∫ch na, solla mr mit dr gū?
+jk	36933	Orschwiller	1	Wo gehsch de anne, sälle m'r mitter geh?
+jk	37007	Bindernheim	1	Wo gè∫ch âna, solla mr med dr gěh?
+jk	37025	Schmieheim	1	Wu geh∫ch dü hi, solla mar mit d'r geh?
+jk	3703	Lehmannshöfel	1	Wue jeh∫t du hän, sülln wi mett di jehen?
+jk	37035	Bollenbach	1	Wo gosch na, solla mar mit dr goh?
+jk	37058	Le Hohwald	1	Wü gè∫ch anna, solla m'r mèt d'r gèh?
+jk	3711	Warnick (Warniki)	1	Wue geh∫t du hen, seälen wie met die gehn.
+jk	37119	Buchenberg	1	Wo go∫ch (du) na, sollā mā mit'r gau.
+jk	37138	Rottweil	1	Wo goscht dou na, sollemer mit dr gan.
+jk	37153	Obernheim	1	Wo go∫cht na, sollama mitr gau?
+jk	3722	Zaszczytowo	1	Wu jeh∫t du hen, sellen wir met dir gehen?
+jk	37302	Winterlingen	1	Mo ga^o∫cht na, sollet mr mit dr gau?
+jk	37314	Dürrenwaldstetten	1	Wo goh∫t du na, sollat mirr mit der gau.
+jk	37333	Hausen am Bussen	1	Wo goh∫t dua nau, sollamer mit der gauhn?
+jk	37354	Baustetten	1	Wo goh∫cht na, sollet mr mit d'r gau.
+jk	37369	Illertissen	1	Wau ga∫cht na, solla mer mid'r gau?
+jk	37388	Schenkenzell	1	Wo gōsch nā, solle mer middr gan?
+kl	37401	Aistaig	1	Wo go∫cht dau na, solla mer mit diar gau?
+kl	3744	Rudnica	1	Wu jeh∫t´n hen, sell wer met derr jehn?
+kl	37555	Stetten bei Haigerloch	1	Wo goh∫t dou na, selli mir mit dr gau.
+kl	37571	Salmendingen	1	Wo goh∫cht naa, sollad miar mit d'r gauh?
+kl	37581	Bernloch	1	Mo goh∫t na, sollet m'r mit d'r gau?
+kl	37598	Gundershofen	1	Wo gôh∫t na, solle mĕr mit dĕr gau?
+kl	37607	Eggingen	1	Wo go∫cht du na, solla d??iae mit dech gau?
+kl	37622	Holzheim	1	Wau ga∫cht na, sollmr mitr gau?
+kl	37658	Oberwaldach	1	Wo goh∫t na, sollamer miter gauh?
+kl	37802	Bondorf	1	Wo goh∫t du hi(n), sollet wir mit dir gau?
+kl	37825	Lustnau	1	Wo goh∫t na, solla mĕr mit dĕr gau?
+kl	37855	Dettingen an der Erms	1	Wo go^oh∫t na, soll mer mit dr gauh?
+kl	37862	Donnstetten	1	Mo(a) go(a)h∫t he(n) (na), soll m'r mir d'r gau(n)?
+kl	37869	Radelstetten	1	Wo go∫cht du nan, soll mer mit der gaun?
+kl	37883	Ballendorf	1	Wãu ga∫cht nã, solle mia^or mit dir gãun?
+kl	37900	Obermedlingen	1	Wo go∫t d hö, soll mr mit dr gãugã?
+kl	37902	Raumünzach	1	Wo ge∫ch na, sollemer mit dr geh?
+kl	37947	Schönaich	1	Mo (zw. o u. a) goh∫t na, söllät mär(r) mit d'r gauh?
+kl	38044	Hünerberg	1	Wo go∫t na, sollet mer mitdr ga?s.
+kl	38056	Gechingen	1	Wo goh∫t du na, sollet wir au mit gau?
+kl	38095	Denkendorf	1	Mò gòh∫cht aan, solle miar mit dr gau?
+kl	38116	Albershausen	1	Wo goh∫t du na, solla m'r mit dr gau.
+kl	38136	Winzingen	1	Wo goh∫t na, solla mr mit d'r gau?
+kl	38146	Zang	1	Wo ga∫t du hé, sollamer mit der gau?
+kl	38155	Auernheim	1	Wo go∫cht'n na, solla mèr mit 'r ganga.
+kl	38169	Dennach	1	Wo geh∫t na, solla mar mit dar géh?
+kl	38182	Tiefenbronn	1	Wo gō∫ch du na, sollemer au mett'r ?
+kl	38348	Schöckingen	1	Wo goh∫t na, sollet mer mit dr gau.
+kl	38373	Hegnach	1	Wo͡a go͡ahst na, soll e mit der gau.
+kl	38407	Steinenberg	1	Wo go∫cht na, solla mar mit dar gau.
+kl	38422	Ruppertshofen	1	Wo go∫cht na, soll a mr au mit dr gau?
+kl	38437	Fachsenfeld	1	Wo goh∫cht he, sulla mer mit der ganga?
+kl	38448	Baldern	1	Wo goh∫t du hin, sollet [wir durchgestrichen] uns mit dir ganga?
+kl	38482	Kleinvillars	1	Wo geh∫t nā, solla=mr midd'r géh?
+kl	38502	Hohenhaslach	1	Wo go∫cht nā, solla mar mider gai.
+kl	38623	Nendingen	1	Wo go∫cht du hi, sollamer mitar gau.
+kl	38640	Rohrdorf	1	Wo goh∫cht na? Solle me mit d'r gau?
+kl	38655	Völlkofen	1	Wo goh∫t du nau, sollet wiar mit diar gauhn?
+kl	38666	Reichenbach	1	Wo go(a)h∫cht na, soll mər mit dər gau
+kl	38682	Mittelbuch	1	Mo goh∫t nã, sallema mit dr gau
+kl	38695	Unteropfingen	1	Wo go∫t na, sollamer au mit gau.
+kl	3871	Dreetz	1	Wo gei∫t du hen, sälln wi met di goahn?
+kl	38720	Kicklingen	1	Wau ga∫ch hä, solle mitedr ganga.
+kl	38738	Westendorf	1	Wo go∫cht'n na, sott mér mit ganga
+kl	38764	Waidhofen	1	Wo gè∫cht hi, soin ma mit dia gé
+kl	38774	Eschelbach an der Ilm	1	Wohi gea∫t deu, soin ma mit dir gea?
+kl	3880	Brunne	1	Wo jaeihst du hen, söäll'n waei met daei joahn.
+kl	38863	Pöttmes	1	Wo gea∫chn hi, sei ma mit dir gea.
+kl	3887	Sommerfeld	1	Wo gei∫t du henn, sölln wie met die goohn?
+kl	38899	Hebrontshausen	1	Wo géh∫t dĕ hi, soll' ma mit dir göh?
+kl	38912	Oberglaim	1	Wo geh∫t hi, solln ma mit dir geh?
+kl	38935	Fronhofen	1	Wo go∫cht hé, sōllat os mitr ganga.
+kl	3896	Malz	1	Wo gei∫t du hen, selle wir met die gohn?
+kl	38963	Stepperg	1	Wo ge∫chn hi, soll i mit d'r ganga.
+kl	3901	Stolzenhagen	1	Won geîst’n hen͜, sölln wie met dei goen?
+kl	3906	Prenden	1	Wo gei∫t du hen, sölln wir mit dir gōihn?
+kl	39062	Hafenreut	1	Wo geh∫t du hi, sollen wir mit dir gehen?
+kl	39089	Gerolfing	1	Wou ge∫t hi, sol ma mit dia göh.
+kl	39103	Irsching	1	Wo geh∫t d hi, soll i ebba met der geh?
+kl	39116	Siegenburg	1	Wo geh∫t den̅ hi, soll m'a mit dia gö.
+kl	39126	Semerskirchen	1	Wo geh∫t hi, solm ma mit dir gehn?
+kl	39140	Hofkirchen	1	Wou geh∫t döu hi, soima mit dir gö?
+kl	39160	Dürrenzimmern	1	Wo go∫cht na, solle mar mit dr ganga?
+kl	39179	Gundelsheim	1	Wo ge∫chn hie, soll i mitr ganga?
+kl	3919	Trampe	1	Wur geh∫t du hen, sallen wir mait dir gohn?
+kl	39201	Walting	1	Woa geh∫cht den du hie, solln mèr mit gia.
+kl	39293	Bieswang	1	Wou geih∫cht hi, selln mer mit der gēih?
+kl	3931	Neureetz	1	Wo je∫t´n henn, säl'n wie met die jan?
+kl	39317	Pondorf	1	Woă gai∫t hih, solln ma mit dir göih.
+kl	39329	Neukelheim	1	Woa gahst du hin solln ma mit dir gehn.
+kl	39342	Peising	1	Wo geh∫t den hi, soll ma mit dir geh?
+kl	39356	Arlesried	1	Wau gau∫cht na, solla m'r mit d'r gau?
+kl	39370	Türkheim	1	Wau gau∫cht na, soll mr mit diar gau?
+kl	39398	Gauting	1	Wo ge∫cht denn hi, soi mit dir geh?
+kl	3944	Kurzycko	1	Wua geh∫t du henn, seäll'n wi mett dir goahn?
+kl	39459	Kaufering	1	Wo gea∫cht hi, sall mer mit dêr ganga?
+kl	39475	Eching am Ammersee	1	Wo gēā∫t du hi, solln mie mit dir gănga.
+kl	3949	Grzymiradz	1	Wo geh∫t d´ henn, säln wie met di goh'n?
+kl	39494	Perlach	1	Wo ge∫t du hin, solli a mit dir gö
+kl	39503	Zorneding	1	Wo geh∫t hi, sollma mit dir gean?
+kl	39509	Albaching	1	Wo gehst’s hie /:geihst’s:/, solln wir mit dir gehn?
+kl	39515	Sankt Leonhard	1	Ha, wo geh∫t den hi, soi(l)ma midananda geh-
+kl	39517	Niederraunau	1	Wau gau∫cht nā, soll i au mit d'r gau?
+kl	39529	Walkertshofen	1	Wau gau∫cht nā, soll m'r mit d'r gau?
+kl	39546	Oberottmarshausen	1	Wo go∫cht du na, soll mer mit dir gaun.?
+kl	3957	Lubiszyn	1	Wo goah∫t du henn, söllen wie met die goahn?
+kl	39647	Mittelstetten	1	Wo gea∫ch n hie, soll mar mit di giah
+kl	3965	Heinersdorf	1	Wo jeh∫t de hen, säll'n wie met die gohn?
+kl	39662	Bergkirchen	1	Wo gäah∫t denn hi, soima mit dir geh[h durchgestrichen]a
+kl	39667	Unterschleissheim	1	Wo ge∫t he, sall ma mit gen?
+kl	39673	Moosinning	1	Wo geh∫t hii, solln ma mit dir geh'?
+kl	39687	Oberdorfen	1	Wo geh∫t denn hi, soi mah mit dia geh?
+kl	39693	Wettenhausen	1	Wo go∫t en, sollmr mit dr gau.
+kl	39710	Zusmarshausen	1	Wo ga∫t hi, sollen uns mit dir dir gau?
+kl	39723	Täfertingen	1	Wo goh∫t hi, sollet mir mit d'r geu?
+kl	39742	Gallenbach	1	Wo ge∫cht du hi, solln miw mit diw gehn!
+kl	39865	Hilgertshausen	1	Wo ge∫ch hin, soll ?n?i a mitgean
+kl	39880	Allershausen	1	Wo geh∫t denn hi, soll ma ebba mit dir göh.
+kl	39891	Rast	1	Wo geh∫t hin, soïn ma mit diër gehn?
+kl	39901	Vilsheim	1	Wŏ ge∫t hi, sāĭmā(mit Tilde darunter) ă mīd dëa gö?
+lm	39954	Sattelbogen	1	Wou gehst denn hin [große Tilde unter „in“] solli eba mit gan große Tilde unter ganzem Wort
+lm	39962	Krailing	1	Wo͡u gehst deu hi͡n, soi͡ma plus großes Zirkumflex über „oi“ mid dir gòh? 
+lm	39968	Oberried	1	Woa gehsta hi soitma eba mit dia gei.
+lm	40000	Pertolzhofen	1	Wău ge-ih∫t du hi, soll ma mid dir gě-ih?
+lm	40012	Tiefenbach	1	Wou göi∫tn hi, sollma midir göi?
+lm	40047	Pemfling	1	Wau geih∫t deu zou, solln ma äba mit dir göi
+lm	40057	Arnschwang	1	Wu geih∫t den hi, solln me mid di(a)gäih?
+lm	40112	Wald an der Alz	1	Wo ge∫t hin, soan ma mit geh?
+lm	40137	Ranoldsberg	1	Wa geh∫t hi, soi ma mit dia ge.
+lm	40145	Erharting	1	Wo ge∫t denn hi, sōä ma mitgen.
+lm	40155	Gumpersdorf	1	Wo geh∫t denn hi, soi ma mit dir ge?
+lm	40191	Vilsbiburg	1	Wo geh∫t denn hie; soll mr mit dia' geh?
+lm	40202	Gangkofen	1	Wo geh∫t´n hi, soin ma mid dia gen.
+lm	40212	Neuhofen	1	Wo géh∫t denn hi, soll ma mit dia geh?
+lm	40220	Bad Birnbach	1	Wo geh∫t du hi, soima mit dir gö?
+lm	40231	Ruhstorf an der Rott	1	Wo geih∫t du hi, soidn ma mit dir geh.
+lm	40274	Wörth an der Isar	1	Wo geh∫t deu hie, soitö mit dia geh?
+lm	40286	Griesbach	1	Wo geh∫t du hi, soll ma mit dir gön?
+lm	40297	Indersbach	1	Wo geh∫t den hi(n), soit ma ebba mit di(r) g?ä?h?
+lm	40308	Walchsing	1	Wo geh∫t d hi, selln ma mit dir gehen?
+lm	40320	Kirchberg	1	Wo ge∫t denn hi, muaß ma mit dir geh.
+lm	40331	Haag	1	Wo geh∫t dän hi, soll ma mit dir gäh?
+lm	40402	Hankofen	1	Wo geh∫t´n hi, soit ma ebbara mit dia gö?
+lm	40414	Plattling	1	Wäü geh∫t denn du hi(n) soin ma ebba mid dia gëh.
+lm	40420	Auerbach	1	Wo geh∫t denn du hi, soi ma ebba a mit dia geh?
+lm	40428	Saldenburg	1	Wo geh∫t den hie, solle ma ebba mitgehn?
+lm	40439	Karlsbach	1	We geh∫t du hi, selln wia mit dir göh?
+lm	40516	Steinach	1	Wau/Wou geh∫t denn hin, sollé ma mit dir gēn?
+lm	40524	Perasdorf	1	Wa ü geh∫t döu hi, sôima mit dîe göh?
+lm	40531	Regen	1	Ga, wo ge=i∫t den̅ hi, muasiebba a mid dia ge=ih?
+lm	40535	Klingenbrunn	1	Wo geh∫t den hin, su än ma ebba mit dir gehn?
+lm	40538	Riekofen	1	Wo geh∫t den̅ hi', soll'n mer (sie "ma") mit dir geh'?
+lm	40597	Lindau (Bodensee)	1	Wo go∫cht ane, solln m'r mit d'r goh?
+lm	40605	Schnellers	1	Wo gō∫cht nā, solle mr mit dr gang?
+lm	40613	Ratholz	1	Wo go∫cht hie, sollĕbr mitr gang
+lm	40637	Eschbach	1	Wo goh∫t du hi, söllet mir/mer mit d'r goh?
+lm	40655	Erzingen	1	Wo goh∫t du hī, sollè mir mit dir goh?
+lm	40757	Schienen	1	Wo go∫cht du ana sollet mer mit d'r goh?
+lm	40771	Wollmatingen	1	Wo goh∫t du hi; solle mer mit der goh?
+lm	40785	Kluftern	1	Wo go∫cht hie, solla m'r mit'r go.
+lm	40798	Obereisenbach	1	Wo go∫cht na, sollat mer au mit dr gong.
+lm	40807	Ratzenried	1	Wo gohsht na, sollät mar itta?? mita^ăr gang?
+lm	4081	Bantikow	1	Wo jei∫t du hen, salln wi met di metja^on?
+lm	40819	Kreuzthal	1	Wau gaust hi, soll mer mit der gan?
+lm	40844	Münchingen	1	Wo go∫ch hi müa mär mitr go.
+lm	40863	Tengen	1	Wu go∫cht an, mom̄er mit dr gou.
+lm	40898	Billafingen	1	Wo geh∫t na, selli mit der ga?u?.
+lm	4093	Kränzlin	1	Wo geih∫t du henn, sall ick metgohe?
+lm	41018	Eigeltingen	1	Wo goh∫cht äni, mom mer mi dr
+lm	4102	Seebeck	1	Wo gei∫t du hänn, sölln wie mätt die john.
+lm	41049	Illmensee	1	Wu goh∫t na, solle mer mit dr?
+lm	41057	Baindt	1	Wo goh∫t na, soll i mit dr gau?
+lm	41064	Ziegelbach	1	Wo goh∫cht na, solla m'r mit d'r gong?
+lm	41076	Maria Steinbach	1	Wau gau∫cht na, solla mér mittr gau?
+lm	41086	Waldau	1	Wo go∫ch na, soller mer mit der goan?
+lm	41098	Hubertshofen	1	Wo goh∫cht änni, mommer mit r gan^o?
+lm	41114	Öfingen	1	Wo goh∫cht du an, sottet mer mit der gaun
+lm	4112	Klein-Mutz	1	Wu gei∫t du henn, söll'n wi met di goahn?
+lm	4119	Gross Dölln	1	Wo gei∫t'n henn söllen wi mätt di goahn?
+lm	41200	Masevaux	1	Wüa gésch āhna, solla mr mit dr géh?
+lm	41214	Aspach-Le-Bas	1	Wu geh∫ch dü ană, sollă mr mit d'r geh
+lm	4123	Senftenhütte	1	Wo geih∫t du hen, söllen wie met die goahn?
+lm	41245	Lipburg	1	Wu go∫ch du hi, sollè mer mit d'r goh?
+lm	41262	Utzenfeld	1	Wo go∫ch hi, sölle mer mit der goh?
+lm	41275	Schluchsee - Blasiwald	1	Wo gō∫ch hī, sölle mer mit dr gō?
+lm	41296	Oberentzen	1	Wo ge∫ch dü hé, solla mir médr geh?
+lm	41309	Feldkirch	1	Wu go∫ch hi miämĕr mit dr goh
+lm	41336	Kappel	1	Wo go∫cht hin, sollamer mit der goh.
+lm	41351	Urbès	1	Wu geh∫ch anne; sellemer mitr kumme
+lm	41365	Rimbach-Près-Guebwiller	1	Wu gē∫ch ānă, sella m'r mèt'r gḕh?
+lm	4142	Stoki	1	Wo geh∫t du hen söll'n wi met di joan.
+lm	41460	Rixheim	1	Wo gehsch hè, sälle mr mèt dr geh?
+lm	4152	Stoleczna	1	Wo jeh∫t du henn, sall ick mätt die goahn.
+lm	41566	Ranspach-Le-Bas	1	Wo gosch ana, sälla mr mit dr goh.
+lm	41598	Lörrach	1	Wo goh∫ch hī, sollemer mit d'r goh?
+lm	4161	Glazow	1	Wo geh∫t du henn, söäll'n wi met di goahn?
+lm	41623	Hütten	1	Wo gō∫ch hī, muen mer mit der gā?
+lm	41653	Largitzen	1	Wu geh∫ch hin, säli mit dr geh?
+lm	4171	Okunie	1	Wo gei∫t du hen, söln wie met die gohn.
+lm	41714	Lucelle	1	Wo ge∫ch hiă, sella m'r mitd'r géh.
+lm	41785	Höhenrain	1	Wo ge∫chděn hi, soima á middá gö.
+lm	41801	Grosshöhenrain	1	Woa geh∫t denn hi. Soin mi mit di geh?
+lm	41811	Tattenhausen	1	Wo geh∫t du hi, sie ma mit dia göh.
+lm	41819	Ollarzried	1	Wau gau∫cht du na, sallét mit mit dir gau?
+lm	41836	Kaufbeuren	1	Wo gau∫cht na soll i mit'r gaun
+lm	41845	Denklingen	1	Wau go∫cht na, soll m'r mit d'r gau?
+lm	41855	Raisting	1	Wo geah∫t hi, soll ma mitgeah?
+lm	41872	Baiernrain	1	Wo geh∫t hie soin ma mit dir geh.
+lm	41932	Huglfing	1	Wo gea∫cht hie, solln m'r mit d'r ge͡ah'?
+lm	41939	Penzberg	1	Wo geă∫cht hi, soĭ ma mit di geh?
+lm	41948	Reichersbeuern	1	Wo geh∫t hi? Salle ma mit dir geh?
+lm	41953	Parsberg	1	Wo geh∫t du hin, soll'n wir mit dir geh'n?
+lm	41963	Kirchdorf am Inn	1	Wo geh'∫t du hin, solln ma mit dir geh
+lm	41969	Aschau im Chiemgau-Niederaschau	1	Wohi geh∫t du, sall ma mit dir geh?
+lm	41971	Betzigau	1	Wau gau∫cht na, sollmr mitr gau
+lm	41980	Sulzschneid	1	Wo gō∫cht du hi, soll m'r mit'r gau?
+lm	41986	Steingaden	1	Wo goa∫t hin, soll mer mitdr gan
+lm	42039	Bayerniederhofen	1	Wo gah∫tht du na, sollma mit dir gau.
+lm	42049	Jachenau	1	Wo gea∫cht hi, solln ma mit da gea
+lm	42056	Unterjoch	1	Wo gea∫t hi, sollen wir mit dir gau.
+mn	42062	Oberau	1	Wou ge∫cht hi, sulma mit dir geah?
+mn	42070	Eggstätt	1	Wo geh∫t n hin͂, solln ma mit dir ge͂hn?
+mn	42076	Traunwalchen	1	Wo geh∫t hi, soin ma ēbbă mit dir gehn.
+mn	42084	Kirchanschöring	1	Wo geh∫t denn du hin, mu i a mit dir gehen?
+mn	42116	Ruhpolding	1	Wo geh∫t hi, mu'i mit dir geh'n?
+mn	42118	Anger	1	Wo geh∫t den hi, seltme mit dia gö.
+mn	42132	Ramsau bei Berchtesgaden	1	Wo gehst denn hi solln ma mit der geh?
+mn	42140	Hachiville	1	Wou geh∫t du hén, solle mer mat der goen.
+mn	42166	Niederwampach	1	Wo gest de henn, solle mer mat der goen.
+mn	42180	Neidhausen	1	Wu ge∫t du hen, sollen mer mat der gonn?
+mn	42236	Ettelbrück	1	Wuôr géhst' é hiên, sollé mĕr mătt děr gōen?
+mn	42254	Rambrouch	1	Wuohen gèst du, solle merr mat der geîve.
+mn	42302	Eischen	1	Wu-er gést de, solle mèr matt der go-en.
+mn	42316	Hünsdorf	1	Wuēr gehst' te, sŏlle mer măt dĕr goen.
+mn	42341	Biwer	1	Wûor gēs de, solle mer mat der gon?
+mn	42414	Uewerkuer	1	Wur gèscht de, sölle mèr măt dèr gŏen?
+mn	42431	Peppange	1	Wu ge∫cht de hin, solle mer mat der gohne.
+mn	42469	Schwarzenbach an der Pielach	1	Wo gest denn hin, solln ma mit dir gehn?
+mn	42470	Lehenrotte	1	Wo gehst denn hin, solln ma mit dir gehn.
+mn	42472	Thal	1	Wo ge∫t hi, sol ma mit dir ge?
+mn	42477	Grillenberg	1	Wo gehst du hi, soin ma mit dia gea?
+mn	42520	Schneebergdörfl	1	Wo geh∫t hin, sull ma mit dir gean?
+mn	42527	Mollram	1	Wo geh∫t denn hin, soll'n ma mitgehn?
+mn	42532	Frein an der Mürz	1	Wo geh∫tan hin, soll ma mit Dia ge?
+mn	42571	Massing	1	Wou gehst hin? Sulln ma mit Dir geh'n?
+mn	42573	Semmering	1	Wou gest'n hi, soull'n ma mit Dia geihn?
+mn	42587	Feistritz am Wechsel	1	Wo gehst denn hi´n, suinma mit dir mitgeh'n.
+mn	42612	Gleichenbach	1	Wou ge∫t dan hi, suimar mitgei mit dia.
+mn	42635	Weiden am See	1	Wou geh∫t´n hin, soulln ma mit dia gäih'?
+mn	42637	Nickelsdorf	1	Wo geh∫t hin, sullmä mit diř mitgehe.
+mn	42640	Siegersdorf	1	Wo geh∫t'n hin, soll'n ma mit dir geh'n?
+mn	42647	Stotzing	1	Wo geh∫tn hi, loß mi a mitgehn mit dir?
+mn	42670	Wieselburg (Mosonmagyaróvár)	1	Wou kēst tu hĩ, suiln mia mit tia keĩ.
+mn	42688	Andau	1	Wo ge∫tn hin sul i mit dia gei.
+mn	42691	Wiesen	1	Wo ge∫te hi, soll i métgei?
+mn	42701	Baumgarten	1	Wo gehst hin, solln wia mit dia gehn?
+mn	42706	Apetlon	1	Wou ge'sta hĭ̀, seoll' ma mit die' gein͂?
+mn	42722	Horitschon	1	Wou gehst du hin, selln wie mit dir gēi.
+mn	42728	Holling (Fertőboz)	1	Wou gestn hie, sulln ma a mid tia g(é)i.
+mn	42748	Frasnacht	1	Wo gohscht he? Sölled-mer mett-r cho?
+mn	42821	Rietli	1	Wohe gohscht, sölid mer mit?
+mn	42843	Hohenems	1	Wo gost ahi, söll i mit dr go.
+mn	42850	Bizau	1	Wau gau∫cht ane, sülled mr mit dr gau?
+mn	42856	Riezlern	1	Wo gei∫t du he, söllamer midder go?
+mn	42908	Gamprin	1	Wo gohstt hie, söllamar meter go.
+mn	42926	Röns	1	Wo goh∫t hi, söllen mar mittar, 
+mn	4293	Brielow	1	Wo jei∫t du henn, sall'n wi met di gohn?
+mn	42933	Buchboden	1	Wo geischt hei, söll mer mid der gou?
+mn	42939	Lech	1	Wo gai∫chd hĩ? Söllamir mid dr gõ?
+mn	42970	Sargans	1	Wou goust du hi-i, söll-m-r mit dr gu?
+mn	42977	Schruns	1	 Wo gohst hi, söllan mar met d’r goh?
+mn	42985	Vils	1	Wo goa∫cht hi, soll mer miter ge?
+mn	43004	Hinterhornbach	1	Wo geha∫t hi, söllemr mitr gia?
+mn	43013	Rinnen	1	Wo geah∫t hi, sölle m'r mit'r giah?
+mn	43021	Ehrwald	1	Wo gö∫cht hin, soll mer mitder giå?
+mn	43022	Leutasch	1	Wo geast hin, solln mer mit dr giah.
+mn	43027	Bach	1	Wo geast hin, sölla miar mitergean.
+mn	43037	Silzerberg	1	Wo ge^ah∫cht hin, söll mer mit dier giehn?
+mn	43055	Hatting	1	Wo geascht du hin, soll mar mit diar gean.
+mn	4306	Deetz	1	Wue jei∫t du henn, söll'n we met die joahn.
+mn	43070	Mils bei Imst	1	Wo geast hie, solla mar mit dr gia
+mn	43122	Unterried	1	Wo gea∫cht du hin, söll ma mit'r geahn?
+mn	43133	Holdernach	1	Wo geascht hi, söll amar iaz mit gia?
+mn	43152	Kauns	1	Wou gea∫cht hi^n, sölla mr mitr g?ü?a^n?
+mn	43161	Unterberg	1	Wo geh∫cht denn hin, soll mer mit die giehn?
+mn	43162	Pertisau	1	Wo geästn hiñ, sol̃l̃t ma mit dia geañ.
+mn	43173	Brixlegg	1	Wo gea∫t du hie, solln ma mit dia gea?
+mn	43183	Penningdörfl	1	Wo geah∫t du hi, soll ma mit diar geahn
+mn	4321	Fahrland	1	Woun geih∫t du hen, söeln wie met di joahn?
+mn	43210	Innsbruck	1	Wo geascht hin, sölln uns mit gahn.
+mn	43224	Kolsassberg	1	Wo geastn hin, soll mer mit diar gian.
+mn	43251	Aschau im Zillertal	1	Wu gea∫cht den hie, muaß' mit die gien?
+mn	43280	Krimml	1	Wo geh∫t hi, soön me mit dia ge^oh?
+mn	43285	Trins	1	Wo gea∫ch en hin, soll mer mit diar gian?
+mn	43288	Dornauberg	1	Wo ge^a∫che hi? Sölltmer mit dir gie?
+mn	4329	Steglitz	1	Wo je∫t´n hen, söll'n me met di jehn?
+mn	43297	Schmirn	1	Wo^o gea∫chan hien, so^ollt mer mit dir gian?
+mn	43301	Kitzbühel	1	Wo gēhst du hī, sa͡id ma mid di͡a gē?
+mn	43303	Hochfilzen	1	Woh geh∫t hin, soll ma met dir geh'n?
+mn	43310	Saalfelden am Steinernen Meer	1	Wo gei∫t du hi(n), soj ma mit dia ge(n)
+mn	43315	Werfen	1	Wo geh∫t d' hi, soit ma mit dir ge?
+mn	43331	Bramberg am Wildkogel	1	Wo gehst du hi(n), soi(n) ma mid dia gö(n)
+mn	43340	Niedernsill	1	Wo geh∫t denn hin, söln ma mit dia gehn?
+mn	43347	Sankt Georgen	1	Wo geh∫t hin, ma^og i mit dir gehn?
+mn	43354	Goldegg	1	Wo gei∫t (=gehst) hi, soit ma mit dia ge(i)
+mn	43359	Kleinarl	1	Wo geïst hi (nahel), so^il ma mit Dir géh?
+mn	43372	Bad Gastein	1	Wo ge^ih∫t denn hin͂, soi ma mit dia gen͂.
+mn	43378	Berg-Gruben	1	Wo göe∫chn hin soll ma mit dia gien?
+mn	43379	Heiligenblut	1	Wo ge∫chtn he^(n), soll me met dir geh^(n)?
+mn	4338	Köpenick-Kietz	1	Wo jeh∫t n hen, sollen wi met dei john?
+mn	43381	Sankt Martin am Tennengebirge	1	Woh gehst denn hin, solln ma mitgehn?
+mn	43384	Ramsau	1	Wo aus? Defma mitgehn?
+mn	43391	Assach	1	Wo gehst hi(n), sollt i mit dir geh(n)
+mn	43393	Donnersbach	1	Wo gehst den hie, solln ma mit dir gehn.
+mn	43412	Untertauern	1	Wo g[e/o?]ist du hin, soit ma mit dir gô?
+mn	43420	Pöllau	1	Wou geah∫t hi(n), sull ma mit dir gea?
+mn	43427	Oberweissburg	1	Wo gea∫t denn hi? Söt ma mit dia gäa.
+mn	43433	Sauerfeld	1	Wo geah∫t du goa hi, soiln wir mit dir geh?
+mn	43439	Ranten	1	Wo wüll∫t denn hin gea^o? sollt ma mit geha^o?
+mn	43453	Strechen	1	Wouhin gehst denn, sollma mit dia gean.
+no	43455	Treglwang	1	Wo geh∫t denn hin, solla ma mit dìr gehn?
+no	43457	Kalwang	1	Wou gehst d’hin, sull ma mit dir gein? 
+no	43458	Trofaiach	1	Wou geahst hin, sullnma mit di geañ?
+no	43462	Hafendorf	1	Wo geh∫t denn hie, sull ma mitge^ohi?
+no	4347	Herzfelde	1	Wue geh∫t´n du henn, selln wie met die gehn?
+no	43480	Sankt Michael in Obersteiermark	1	Wo gehst hin, sullma mit dir gehn?
+no	43488	Pusterwald	1	Wo geah∫t du hin, söll ma mit dir geahn?
+no	43489	Sankt Oswald	1	Wo gehst denn hin, solln ma mit dir geh'n?
+no	43494	Sankt Marein bei Knittelfeld	1	Wou geahst d' denn hin; solln ma mit dir mitgeahn?
+no	43497	Frohnleiten	1	Wo gea∫t hi; sul ma mit dia gea(n)?
+no	43505	Sankt Peter ob Judenburg	1	Wo gea∫t denn hin, sol ma mitgeah?
+no	43530	Teufenbach	1	Wo geh∫t dun hen, soll'n ma mit dir gehn?
+no	43534	Sankt Johann	1	Wo geahst du hin, sölt i mit dir geahn.
+no	43537	Kainach bei Voitsberg	1	Wo gehrst hi, söll ma mitgeah.
+no	43544	Gratwein	1	Wo gehst hin, solln ma mit dir ge(a)hn?
+no	4357	Tempelberg	1	Wo geh∫t du hen söllen wir met dir gehen.
+no	43576	Fochnitz	1	Wo geh∫t hin, soll ma mit drr gehn.
+no	43579	Wenigzell	1	Wo geh∫tn hin, sull i mit dir geih?
+no	43633	Ehrenschachen	1	Wou gehst hin, sull ma mit dir mitgehn?
+no	4364	Döbberin	1	Wuh geh∫t du hen, sellen wie met di gehen?
+no	43640	Salmannsdorf	1	Wou gesta du hi, soln miar mit diar mitgəain [ai sind hochgesetzt]?
+no	43662	Sankt Kathrein am Offenegg	1	Wou geh∫t du hien, sullma mit dir gehn?
+no	43699	Siget in der Wart	1	Wo gehst hi, solln me mit gehn.
+no	43715	Stubenberg	1	Wo gestn hi, saim ma mit dir gai?
+no	43726	Unterrohr	1	Wo geh∫t denn hin, sull ma mitgehn?
+no	43756	Eggersdorf	1	Wo(u) geh∫t denn hin, sull ma mitge(i)hn /auch mitgia(n)
+no	43761	Sinabelkirchen	1	Wou geh∫tn hi(n), sull ma mit dia gai(n)?
+no	4377	Pamiecin	1	Wu jetzt denn henn, selln wei met dei gehn?
+no	43773	Bad Blumau	1	Wo geh∫t denn hi? Sulln ma a mitgea.
+no	43782	Deutsch Tschantschendorf	1	Wo geh∫t du hi, sulln wia mit dia ge-ihn
+no	43850	Klostermarienberg	1	Wau gehst da hin, sull i mit dia mitgein?
+no	4388	Grabno	1	Wu jeh∫t du henn, sollen wir mett dir gehen?
+no	43889	Moschendorf	1	wa^o gehst hen, sull ma' mitgeh^n?
+no	43896	St. Jakob	1	Wo gesch en hin, Sotte mit dir gien.
+no	43905	Oberpeischlach	1	Wo ge^o∫che denn hin, soggma mit dia gin?
+no	43909	Mörtschach	1	Wo ge∫ch tö denn hin, sollt ma õ?b?a mitgehn?
+no	43910	Flattach	1	Wo geh∫t hin, soll ma mit dir geahn?
+no	43938	Kolbnitz	1	Wo geh∫tn hin? Sall mer nit mit dir g?i?an.
+no	43939	Ausservillgraten	1	Wo gea∫chi denn hin, sött mŏ mit dier gien?
+no	43948	Assling	1	Wo geast du hin, söll mit dir geahn
+no	43959	Lindsberg	1	Wo ge∫che hin, sollmer mit dir gehn?
+no	43977	Kornat	1	Wo geh∫t denn hie, solln ma egga mit dir geahn?
+no	43982	Berg im Drautal	1	Wo geh∫ch't'n hin, soll ma mit dir gïen.
+no	43988	Goderschach	1	W[?] jedenfalls kein o geaschte denn hin, solln ma ega mit dir giemn.
+no	4400	Trzemeszno Lubuskie	1	Wo geh∫t du hen, sollen wer mit dir gehen?
+no	44006	Kremsbrücke	1	Wo gäa∫t tu hin, schoült ma (?nâheln?) mit tir gö^an.
+no	44010	Oberhof	1	Wo gea∫t denn hin, soll mar mitgean?
+no	44038	Kleblach-Lind	1	Wo geh∫t den hin, solln wiar mit dir gean.
+no	44040	Obermillstatt	1	Wa^o geahst de denn hin, soll ma mit dir geähn?
+no	44054	Patergassen	1	Wo geah∫t'n hin, scholt ma mit dir geahn?
+no	44056	Steuerberg	1	Wo geah∫t den hin? Solmer mit dir geahn?
+no	44109	Hermagor	1	Wo^u gea∫cht denn du hin, süllma mit dir gean?
+no	44117	Bleiberg-Kreuth	1	Wo gea∫tn hin, soll mar mit dir gean.
+no	44124	Villach	1	Wo gehst du hin, solln wir mit dir gehn.
+no	44142	Schiefling	1	Wo geh∫t den hin, soll mr mit dir gehn?
+no	44162	Suetschach	1	Wo geh∫t´n hin, soll me mit dir gehn?
+no	44174	Sankt Salvator	1	Wo gea∫t denn hin? Solmar mir a mitgean?
+no	44182	Heft	1	Wo geah∫t denn hin? Soll ma mitgeahnan?
+no	44189	Schiefling	1	Wou geah∫t hi, sulat i mit geahn?
+no	44196	Modriach	1	Wo geah∫tn hin͂, s?ä?lma mitgean
+no	44200	Launegg	1	Wo geh∫t denn hin, soll ma a mitgea mit dir?
+no	44234	Obermühlbach	1	Wohin geh∫t denn, sollma mitgehn.
+no	44243	Hochfeistritz	1	Wo ge∫t du hin, soll ma mir mit dir gean?
+no	44248	Sankt Andrä	1	Wo geahst den hin sull’mar mitgehan.
+no	44256	Glashütten	1	Wo geahst denn du hi? Sull i a mitgiah(n)?
+no	44261	Sankt Peter im Sulmtal	1	Wo gea∫t hin, sull me glei mitgin?
+no	44295	Oberhaag	1	Wou gea∫tn du hínn, sul ma mit dia mitgea?
+no	44303	Klagenfurt-Harbach	1	Wo geh∫t n hin, solln ma mit dir mitgiahn?
+no	44308	Eberndorf	1	Wo geh∫t du hin? Soll ma mitgehn?
+no	44313	Lorenzenberg	1	Wou geh∫t d´hin, sěl'ma mit dia gean?
+no	44314	Sankt Margarethen	1	?E?r geh∫t den hin, sel ma mit dir gehn?
+no	44320	Bad Eisenkappel	1	Wo geh∫t den hin, a derfi mit dir gehn?
+no	44333	Paldau	1	Wo geh∫t hin, soll'n ma mitgea,
+no	44347	Hohenbrugg an der Raab	1	Wou geh∫t hin, sŭhln ?w?a mit dir geh'n?
+no	44358	Mogersdorf	1	Wou gehst denn hi, sulln ma mit die mit geh?
+no	44371	Allerheiligen bei Wildon	1	Wo geh∫t hin, sull ma behst mit dir gehn
+no	44398	Leibnitz	1	Wou gest’n hian, sul’ma mit gía?
+no	44414	Klöch	1	Wo geah∫t'n (denn) hi(n), soull ma mitgiahn?
+no	44425	Ratschendorf	1	Wou gehst du hi (Nasallaut) sulln ma mitgehn?
+no	44433	Langegg	1	Wo gehst hin, soll ma mit dir gehn?
+no	44439	Ebental (Polom)	1	Bou geascht du hin, shòll br mit dir gean?
+no	44442	Steinwand (Podstenice)	1	Bo͡u gascht du hin, shòlln bir mit dir gean
+no	44445	Obergras (Trava)	1	Bu geascht du hin, bellabr mit dir gean?
+no	44447	Göttenitz (Gotenica)	1	Bü gahscht du hin, schóll br mit dir gian
+no	44454	Nesseltal (Koprivnik)	1	Bu geascht du hin, shollabr mit dir gean?
+no	44461	Tiefenbach (Briga)	1	Bu gascht du hin, shólln bir mit dir gean
+no	44465	Unterlag (Spodnji Log)	1	Bu gascht dü hin, shóllabr mit dir giǟn?
+no	44519	Wildensbuch	1	Wo ane gahst, sölle mer mit der cho.
+no	44610	Wittenwil	1	Wo gohscht hih, söled mer miter cho?
+no	44685	Neukirch an der Thur	1	Wo gosch ane, söllet mer miter go.
+no	44770	Mont-Tramelan	1	Wo geisch hi, sön mer mit dr cho?
+no	44771	Pieterlen	1	Wo geisch hi, söll mer miter cho.
+no	44796	Merzligen	1	Wo geisch du hi, söll mir mit dr ?c?ho?
+no	44801	Gals	1	Wo gäisch hi, söi mer o cho?
+no	44832	Huggerwald	1	Wo gōsch du hě, sēllēmēr mitter chŏ?
+no	44851	Ziefen	1	Wo ane gohsch, selle mer mit der goh?
+no	44858	Anwil	1	Wohi gosch du, sölle mer mit dr cho?
+no	44888	Umiken	1	Wo gosch he, söll emer au met d'r cho
+no	44994	Gänsbrunnen	1	Wo geisch du hy, soll-e-mer mit dir cho?
+no	45009	Oensingen	1	Wo gosch hi, söu e mer mit dr cho?
+op	45022	Mühlethal	1	Wo go^oscht du hi, müemer mit dër gò.
+op	45067	Meisterschwanden	1	Wo gòscht he, selemer mìt dr cho.
+op	45192	Mülchi	1	Wo geisch hi? Sön e mer mit dr cho.
+op	45195	Eigenthal	1	Wo gosch du he, selled mer met der cho?
+op	4521	Wollin	1	Woe gei∫te henn, sülln wi mett ti goan?
+op	4527	Rädel	1	Wo goah∫t du hen, salln wi met di goahn?
+op	45279	Hildisrieden	1	Wo goscht du he, selled mer mit dir goh. 
+op	45299	Willisau	1	Wo gohsch hy, müend mer mit d'r goh?
+op	45312	Bleuen	1	Wo geisch Du hi, solle mer mit dr gah?
+op	45345	Dielsdorf	1	Wo gohscht ane, sellid mer mit der go?
+op	45356	Unterwagenburg	1	Wo gasch hi, selled mer miter ga.
+op	4539	Wildenbruch	1	Wu go∫t du hen, süäln wei met koám?
+op	45474	Boden bei Fischenthal	1	Wohi goscht, selled mir mit dir go?
+op	4549	Löwenbruch	1	Wu[o mit Bleistift dazugeschrieben] geh∫t du henn, söäln wei met dei gehn.
+op	45492	Dicken bei Degersheim	1	Wo gohscht du he, söllet mer met der goh?
+op	45501	Bonstetten	1	Wohi gosch, söllet mer miter cho.
+op	45529	Riedikon	1	Wo gasch hi, söllid mer mit der cho? gah?
+op	4560	Deutsch Wusterhausen	1	Wu geh∫t du hen, soll'n wei metkom'n?
+op	45611	Feusisberg	1	Wo goscht hie, sellet mr mit cho!
+op	45627	Starkenbach	1	Wohe goscht, sölled mer mit der cho?
+op	45630	Risch	1	Wohi gascht, sellid mer mitdr cho?
+op	45644	Reichenburg	1	Wo goscht ane, söllemer mit dr goh?
+op	45692	Süri	1	Wo geisch hi, söu mer mit dir cho?
+op	45694	Courlevon	1	Wo geisch hi? söimär mittärgah?
+op	45716	Brünisried	1	Wa gehst du hi, süber mitr gah.
+op	45718	Ferpicloz	1	Wo geisch hi, söi mer mit der cho?
+op	45722	Abländschen	1	Wo geischt du hi, sölle w'r o cho
+op	4573	Neu Golm	1	Wu geh∫t dau hen, sollen wei met dei gehn.
+op	45734	Dentenberg	1	Wo geisch hi, söne mer  mit der cho?
+op	45758	Mutten	1	Wohé gésch, söni mr mitter choh?
+op	45764	Oberfrittenbach	1	Wo geischt du hi, söne mr mit dr cho?
+op	45784	Schüpfheim	1	Wo geischt du hi, söllämär mit dr gah?
+op	458	Wietrzno	1	Wo geh∫t dau henn, schäuln waih mit die goahn?
+op	4584	Hohenwalde	1	Wo jeh∫t dau henn, sollen wei mit dei jehen?
+op	45863	Gurzelen	1	Wo wosch hi? Sölle ma mit cho?
+op	45878	Linden (Oberlangenegg)	1	Wo giisch du hi, söll-emer mit-er cho?
+op	45891	Sörenberg	1	Wo geischt du hie, selle mer met dr cho?
+op	45892	Lungern	1	Wohi gaascht dui, seimer oi mittr cho?
+op	4590	Kunice	1	Wu geh∫t dau hen, sellen wei met gehn?
+op	4595	Mierczany	1	Wo geh∫t´n hen, selln eder met der gehn?
+op	45962	Entschwil	1	Wa giischt hi, sölle wiar mit der gah?
+op	45980	Saxeten	1	Wa geischt hin, sellemmer mitter chan?
+op	45992	Guttannen	1	Wa gäischt du hin, sellen mer mid dr chun?
+op	46009	Ulrichen	1	Wa geischt dü üs und an, sell wer mit dier gah?
+op	46017	Gersau	1	Wo hi gasch du, sölemer mit dr (cho) gah.
+op	46021	Illgau	1	Wo gahst Du hi, söllämer mit der gah?
+op	46026	Engi	1	Wo gahst hi, sölled mir mit dir guh?
+op	46027	Leuggelbach	1	Wo gascht' hi, söle- mer mit d'r chu?
+op	4603	Toporow	1	Wu gieh∫t de hin, sullen bir mitter gihn?
+op	46038	Linthal	1	Wo gascht hi, sölled m’r mit chu
+op	46040	Engelberg	1	Wo gascht döü hi! söllä miär öppä mit'r ga.
+op	46045	Erstfeld	1	Wo gasch hi, söll i mit der cho?
+op	46048	Valendas	1	Wo geist du hin, sölla wiermit die ga?
+op	46050	Meierhof	1	Wa gaist du hi, sella mar au mit dier cho?
+op	46051	Camana	1	Wo geisch, sölla war mitt d'r goh?
+op	46055	Nufenen	1	Wa geischt du hi, sölla wier mitr gah?
+op	46059	Fanas	1	Wo gei∫cht hi, söllämär mit dr ga.
+op	46070	Mathon	1	Wo gea∫cht hi, sölla mr mitr gihn?
+op	46071	Galtür	1	Wo(as) gea∫t du hin, sölln mier mit der gie.
+op	46073	Felsberg	1	Wo gosch hie, sollan mier mitcho?
+op	46079	Fideris	1	Wa geisch‘ du hin, söll’mer mi‘-der gan?
+op	4608	Alt Stahnsdorf	1	Wue geh∫t du hen, sellen wei met dei gehen?
+op	46083	Klosters	1	Wahgeist du hin, sölla mer mitr gahn?
+op	46101	Wiesen	1	Wo gaischt du hin, söll mer mit dr cho
+op	46104	Am Bach	1	Wo geist hi, söwer mit'er cho
+op	46115	Lauenen	1	Wa geischt du hi, sölle wer met-der cho?
+op	46118	Stiegelschwand	1	Wo geischt hi, sölle wer miter gah?
+op	46119	Fieschertal	1	Wa geihst dü, seum miär mit där gah.
+op	46127	Bitsch	1	Wah geischt hi, sou wer mit Dier gah.
+op	46129	Agarn	1	Wa geischt, säll wär mit diär cho?
+op	46132	Hasel	1	Wahi geischt du, sell wer mit Dier cho?
+op	46142	Saas Grund	1	Wa geischt dü, selle wier mit dier gah?
+op	46143	Zwischbergen	1	War geischt Dui, sellä wiär mit Diär gah?
+op	46145	Zermatt	1	Wa géscht dü, selle wi‘er eu mit di’er cho
+op	-46146	Prettau (Predoi)	1	Wou geschtē hĩ, sollwo mitio gĩe?
+op	46157	Luttach (Lutago)	1	Wou gea∫chte denn hi, sott wr mit gi?e??
+op	-46161	Hinterkirch (Graun)	1	wou geast´n du hin, sollan mr a mit gean?
+op	-46162	Rabenstein (Moos)	1	wou geascht denn du hin, sollmer mit dier gien
+op	46170	Tschöfs (Ceves)	1	Wo gest du hin sollnmir mit Dir gian.
+op	-46175	Pfunders (Fundres)	1	Wogeastdu hin, sott mo mit diör giön
+op	-46181	Antholz (Anterselva Di Mezzo)	1	Woe ge∫chn hin, söttmo mit dir gian?
+op	-46195	Schabs (Sciaves)	1	Wo geaschen hin, sëlmo mit dier gion?
+op	-46215	Pichl	1	wou gea∫chn denn hin söll mo mit dir gian
+op	-46217	Burgeis (Burgusio)	1	Wou geahsi du hin, soll miar mii diar geȧhn.
+op	-46226	Kurzras (Corteraso)	1	Wo ge∫cht hi, solln miar a mitgeah.
+op	-46227	Katharinaberg (Santa Caterina)	1	Wo geh∫cht du hin, solln miar mitdirgeah?
+op	-46234	Vernuer (Vernurio)	1	Mo gea∫t du hin, solln mir miDir.
+op	-46262	Stilfs (Stelvio)	1	Wo geasch hin, sol n mer mit diar gean.
+op	46267	Laas (Lasa)	1	wo geaš[ch?]t du hin, solm’r mit dir gian
+op	46283	Gargazon (Gargazzone)	1	Wou geaschn hin, sollnmer mit dier gien?
+op	-46293	Sankt Peter Hinter Lajen (San Pietr	1	Wo geoh∫t hin sollen wier mitgia 
+op	-46305	Sankt Walburg (Santa Valburga)	1	Wou geaschen du hi, solln mr mit dier gie?
+op	-46319	Wangen (Vanga)	1	Wo geschen du hin, solln mr mät diar gian
+op	46324	Laurein (Lauregno)	1	Wou geascht da hi, soul wor mit dio[r?] gian?
+op	-46340	Kaltern (Caldaro)	1	Wo geasch´n hin, sol i mit diar gaan?
+op	-46344	Deutschnofen (Nova Ponente)	1	Wou geascht n hi^n? solln m'r ēpp r mit diar gia?
+op	-46351	Altrei (Anterivo)	1	Wou geast du hin, sollmer mit diar gian
+op	-46353	Salurn (Salorno)	1	Wo geaschn hin, solln mar mit diar geahn?
+op	46361	Stefansdorf (Santo Stefano)	1	Waa gea∫chön hin, sotmo mit gian?
+op	46365	Lusern (Luserna)	1	Wo geahts du hin, soll’n miar mit gian
+pq	46367	Ljetzan (Giazza)	1	ƀō gā̀stu dú? ƀídu (d.i.: willst du), vɛrándre kím ƀìta dír?
+pq	46369	Lusern (Luserna)	1	ƀa gḕsto dū́? víldu s’ƀar kɛ́mən mit dī́r? 
+pq	46385	Nauders	1	Wo geaschn hin?Soll i mit dr gian?
+pq	46386	Heiligkreuz	1	Wo geh∫te hin, sölln mir mit dir gehn?
+pq	46391	Poppenbüll	1	Wonêm geih∫t du hen, schüö't wi mit di gaohn.
+pq	46407	Dahrenwurth	1	Wonäm geis du hin, schülld wi mid di gân?
+pq	46420	Bergenhusen	1	Wo geis du hin, schüll wi mit di gahn?
+pq	46430	Owschlag	1	Wo geih∫t du hen, schöllt wi mit di gaohn?
+pq	46443	Holtsee	1	Waar geih∫t du hin, schüllt wi mit di gahn.
+pq	46459	Pries	1	Wo geih∫t du hin, schöllt wi mitdi gahn?
+pq	46481	Stakendorf	1	Wo gei∫t du hin, schöllt wie mit die gahn?
+pq	46492	Behrensdorf (Ostsee)	1	Wo geih´s du hin, schö wie mit di gaohn?
+pq	465	Okunino	1	Woä geh∫t du henn, schäl' wie mit die komä.
+pq	46554	Sulsdorf	1	Wo geiß du henn, schö wi mit die gahn?
+pq	46570	Staberdorf	1	Wo geih∫t du hen, schüllt wi mit di gahn?
+pq	46637	Alte Kirche	1	Wor gei∫t du henn, schölle wi mit di gahn?
+pq	46652	Sollerupfeld	1	Wo gei∫t du henn, schonn wi mit di gahn?
+pq	46666	Neuberend	1	Wo?i? geih∫t du hen, schülln wi mit di gahn?
+pq	46684	Zimmert	1	Wo gei∫t du hin, sölln wie mit gahn?
+pq	46687	Damp	1	Wor geih∫t du hen, schöt wi mit di gehen?
+pq	46693	Westermarkelsdorf	1	Wo gei's du hěn[ein zweites n ist durchgestrichen], schö wie mit dī gahn?
+pq	46784	Grossenwiehe	1	Wo gei∫t du hen, schülle wi mit di gahn?
+pq	46798	Estrup	1	Wo gei∫t du hen, schöln wi mit di gahn?
+pq	46806	Wippendorf	1	Wo geih∫t du henn, schull'n wi mit di gahn?
+pq	46823	Maasholm	1	Wor geist du hin schüän wi mit di gōin
+pq	46924	Beken (Bækken)	1	wo geih∫t du hen, schön wi mit di gaahn.
+pq	47139	Sandhatten	1	Wo geih∫te hen, schä wi mit di gahn?
+pq	47154	Adelheide	1	Wo gei∫t du hen̅, scä wi mit di gahn?
+pq	47171	Dreye	1	Wo geist du henn, schä/ö wie[e durchgestrichen] mit di gahn.?
+pq	47183	Allerdorf	1	Wo geih∫t du hen, schüll wi mit di gahn?
+pq	47189	Heerenland	1	War geist du hen, sölen wie mit di gaan.
+pq	47203	Steenfelde	1	Waar geist Du hen, sö̆l wi mit Di gaan?
+pq	47219	Lohe	1	Wor gah∫t du hen, schäl wi mit di gahn?
+pq	47224	Burgfelde	1	Worr wullt hen, schö͡ät wi mit di gahn?
+pq	47235	Moorhausen	1	Wor gei∫t du henn, schä wi mit di gahn?
+pq	4727	Klein Glien	1	Wo goah∫t du hen, söll'n we met de goahn
+pq	47370	Bardenfleth	1	Wo gei∫t hen, schält wi mit di gahn.
+pq	4738	Niederwerbig	1	Wo goa∫t dau hän, sälle wie mät die goan?
+pq	474	Kramarzyny	1	Wo geh∫t du henn, shäll wi mit di gahn.
+pq	47402	Mittelbauer	1	Wo geihs du henn, schä wi mit dir gahn?
+pq	47422	Neuenbülstedt	1	Wa geih∫t du hen, schö we met di gaun
+pq	47447	Neermoor	1	Wahr gei∫t du hen, söol wie mit di gahn?
+pq	47455	Remels	1	Waar geist du hen, sö wi mit Di gaan?
+pq	47463	Petersfeld	1	Wor gei∫t du henn, schä wi  mit di gahn?
+pq	47470	Jaderbollenhagen	1	Wo gei∫t du henn, schä wi mit di gan?
+pq	4749	Zülichendorf	1	Wue joe∫t du hen, säeln wei met dei joan.
+pq	47598	Offenwardenermoor	1	Wo'e gei∫t du hen, schö wi mit di gehe?
+pq	4761	Schöneweide	1	Wu'e geh∫t du´n henn, sell'n we met de(i) geh'n?
+pq	47612	Paddewisch	1	Wo geih∫t du hin, schöh wie mit die gahn?
+pq	47624	Ober-Ochtenhausen	1	Wo nähm geis du hin, schült we mit di gahn.
+pq	47650	Cirkwehrum	1	Waar geist du hen, zölen wi mit di gaan?
+pq	47657	Westerende-Holzloog	1	War geih∫t du hen s?o??e?l wi mit di gahn?
+pq	47670	Wiesede	1	War geihst d hen, söl wi mit di gan?
+pq	47677	Neustadtgödens	1	War gei∫t du henn, schölt wie mit gahn?
+pq	4770	Egsdorf	1	Wo jeh∫t de hen, sallen wie met die jehn?
+pq	4776	Birkholz	1	Wu ge∫t´n en, salle wer mett der gehen?
+pq	478	Pradzonka	1	Wou geh∫t du hänn, sölä wir mätt die gohä
+pq	47840	Kükelühn	1	Wo geih∫t henn, schüll wi mit di gahn?
+pq	47861	Siggeneben	1	Wo geihs du hen, schüllt wie mit dih gahn?
+pq	47863	Hedwigenkoog	1	Wanehm gei∫t du hin, schüll wi mit di gahn.
+pq	47885	Edemannswisch	1	Wanäm gei∫t du hin, schüll wi mid di gan?
+pq	4789	Briescht	1	Wo geh∫t du hen, selln wir metkommen?
+pq	47893	Oesterborstel	1	Wernähm geis du hin, schüll wie mit die gahn?
+pq	47907	Hamweddel	1	Wo geis du hin, schöll wi mit di gahn?
+pq	47916	Warder	1	Wornehm geih∫t du hen, schöllt wi met di gahn?
+pq	47935	Klein Barkau	1	Wo geis du hin, schäll wi mit di gaan?
+pq	47952	Mucheln	1	Wo gei∫t du hén, schüld wi med di gahn?
+pq	4800	Gross Briesen	1	Wo geh∫tn hen, sellen ewr met dr gehm?
+pq	48096	Grömitz	1	wo geih∫t du hin, schüllt wi mit di gah'n?
+pq	48098	Friedrichskoog	1	Wonem geihst du hen, schä wi mit di gahn?
+pq	48105	Barlteraltendeich	1	Wonehm geih∫t du hin, schüll wi mit gahn'?
+pq	48115	Holstenniendorf	1	Nehm geihs du hen, schö wi met di?
+pq	48126	Jahrsdorf	1	Wo geis du hen, schöll wi med di gaan?
+pq	4813	Klopot	1	Wu jeh∫t dau hin, sollen wie mit dir jehn?
+pq	48141	Ehndorf	1	Wo gei∫t du hin, söll wi mid di gahn?
+pq	48156	Gönnebek	1	Wonehm geih∫t du hin, schöllt wi mit di gahn?
+pq	48164	Wöbs	1	Wo wullt du henn, schöll wi mit di gahn?
+pq	48186	Süsel	1	Wo geihs du henn, schüllt wi mt die gahn?
+pq	48233	Brunsbüttelerhafen	1	Wo geih∫t du hin, schüll wi mit di gahn?
+pq	48239	Brokdorf	1	Wo geih∫t du hin, schülle wi mit di gahn?
+pq	4824	Radomicko	1	Wu geh∫t du hän, selle ber met der gehn?
+pq	48240	Spiekeroog	1	Waar gei∫t du hen, schüöl wi mit dir gaan?
+pq	48242	Berensch	1	Wonähm gei∫t du henn, schä wie mit di gahn?
+pq	48247	Altenbruch	1	?N?ehm gei∫t Du hen, schöt wi mit di gahn?
+pq	48282	Norderney	1	War geist du hen, sall'n wi mit di gan
+pq	48283	Baltrum-Ostdorf	1	Wor geist Du hen, ?s?ö wi mit Di gohn.
+pq	48302	Misselwarden	1	We geih∫t du henn, schüll wi mit di gahn?
+pq	4832	Radnica	1	Wu gieh∫te hin, sell'n bier mit dir giehn?
+pq	48324	Weissenmoor	1	Wanehm geih∫t du hin schöl wie mit die gahn?
+pq	48342	Itzendorf	1	War geist du hen, salle wi mit di gaan?
+pq	48356	Arle	1	Waar geist du henn, söl wie mit die gaan?
+pq	48368	Stedesdorf	1	War geist du henn, schöäv man mit ti gahn?
+pq	48383	Wüppels	1	Wurr geih∫t du henn, schölt wi mit di gahn?
+pq	48392	Langwarden	1	Wo geih∫t du henn, ßgä̅lt wi mit dī gahn?
+pq	48401	Flögeln	1	Wa geih∫t du hen, schölt wie mit di ga[o in anderer Tinte drüber geschriebene]hn?
+pq	48477	Iffens	1	Wo geih∫t du hen, schölt wi mit di gahn?
+pq	48487	Blexen	1	Wohn geih∫t du hen, schöh't mi mit di gahn?
+pq	48497	Altluneberg	1	Wo geih∫t du henn, schä wi mit dir gahn.
+pq	48507	Hönau-Lindorf	1	Wo geih∫t du hin,schült wie mett di gahn.
+pq	48516	Graal-Müritz	1	Wo geist du hen, sa^ol'n wi mit di gahn?
+qr	48522	Rerik	1	Wu'n geih∫t du henn, sälen wie mit die gahn?
+qr	48532	Brodhagen	1	Wo geih∫t du henn, sä͡olln wi mit di gahn.
+qr	48550	Toitenwinkel	1	Wuà geih∫t du henn, sal'n wi mit di gahn?
+qr	486	Niedamowo	1	Wo'e geh∫t du henn, säle wie mit die gaane?
+qr	48675	Strukdorf	1	Wo geis du hin, schüllt wie mit die gahn
+qr	48702	Sereetz	1	Wo gei∫t du hen, sölt wi mit di gahn?
+qr	48716	Gross Voigtshagen	1	Wo geh∫t du henn, sällt wi mit di gahn.
+qr	48726	Beckerwitz	1	Wo gei∫t du hen, söll'n wie mit di gahn?
+qr	48738	Steinhausen	1	Wur geh∫t du henn, säll'l wi mit di gahn. 
+qr	48752	Berendshagen	1	Wo gei∫t du henn; säln wi mit di gahn?
+qr	48765	Wiendorf	1	Wo geih∫t du henn, säll'e wie mie die gahn?
+qr	48790	Rethwisch	1	Nem geih∫t du hin, schüll wi met di gahn?
+qr	48800	Lentföhrden	1	Wonehm geih∫t du henn, schäll wi met di gahn?
+qr	48812	Todesfelde	1	Wonem gei∫t du hin, schüll wi mit di?r? gahn?
+qr	49022	Kleinboden	1	Wo geih∫t du hen, säh wi mit di gahn?
+qr	49043	Campow	1	Wo geh∫t du hen, sält wie mit die gahn?
+qr	49076	Nesow	1	Wo geh∫t du hen, süld wi mit di gahn
+qr	49090	Dalliendorf	1	We geh∫t du henn, säl'n wie mit die gahn?
+qr	49108	Neuhof	1	Wo ge∫t du hen, sülen wir mit di gehen
+qr	49122	Warnow	1	Wua geih∫t du hen sä'll wie mit die gahn.
+qr	49140	Güstrow	1	Wur geh∫t du hen, söllen wi mit du (gahn) komen
+qr	49146	Drochtersen	1	Wo geih∫t du hinn, schöh wie midd die gahn?
+qr	49162	Gross Nordende	1	Wo geit∫t du hen, schän wie mit di gahn?
+qr	49176	Quickborn	1	Wonehm wullt du hen, schall ik mit gah'n?
+qr	49188	Jersbek	1	Wonähm gei∫t du henn, schölt wie mit die gahn?
+qr	49311	Riekenbostel	1	Wo gai∫t du hen, schüllt wie mit di gahn?
+qr	49322	Brochdorf	1	Wo geih∫t du hen, schöllt wi mit di gahn?
+qr	49332	Bispingen	1	Ne'm geih∫t du hen, schöllt we͡i mit di gahn?
+qr	49338	Wettenbostel	1	Nehm gei∫t hen, söllt wa mit dik gahn
+qr	49348	Seedorf	1	Nehm geißt du henn, ßöllt wi mit dik gahn.
+qr	49362	Stoetze	1	Wa geih∫t du henn, schöll wi mit dick chaan.
+qr	49498	Dannenberg (Elbe)	1	Wo gei∫t du henn söllen wie mit di gahn
+qr	495	Jaroszewy	1	Wo geh∫t du hen, sel wie mit di gohne
+qr	4950	Palck	1	Wu gieh∫t d´in hiehn, sell bir mit d'r giehn
+qr	49509	Breetz	1	Wo geih∫t du henn, süll'n wie mütt die goan?
+qr	49524	Laaslich	1	Wo gei∫t du henn, söll'n wi mëtt di goahn?
+qr	49534	Lübzow	1	Wo geih∫t du henn sölln wih mitt dih gaahn?
+qr	49551	Buchholz	1	Wo geih∫t du hen, söll'n wi mit di goahn?
+qr	49562	Hetzwege	1	Wo gei∫t du hin, schüll wie mit die gahn?
+qr	49569	Otter	1	Nähm gei∫t du hin, schüllt wi mit di gahn?
+qr	49579	Ollsen	1	Näm gar∫t du hen, schölt wei met di gahn?
+qr	49587	Westergellersen	1	Näm gei∫t du hen, schöll weî mit die gahn.
+qr	49605	Barskamp	1	Wo gei∫t du hen, schöllt wie mit di gahn?
+qr	4965	Stare Kramsko	1	Wu gih∫t du hin, sullen wir mit dir gihn?
+qr	4968	Zodyn	1	Wu gih∫t du hin, sull'n bier mit dir gihn?
+qr	49727	Wendhausen	1	Wo geih∫t du henn? Söllt wi mit di gahn?
+qr	49752	Jessenitz	1	Wo geh∫t du henn, säulen wie mit di gahn?
+qr	49767	Glaisin	1	Wo geh∫t du henn, säl'e wi mëtt di gahn?
+qr	49778	Neese	1	Wo geih∫t du hen, säln wie mät die gahn?
+qr	49794	Pampin	1	Wo geh∫t du henn, sölln wie mit dir gahn?
+qr	4980	Tarnowa	1	Wu gieh∫t´n hien, sull'n br mit d'r gien?
+qr	49802	Grabow	1	Wo gei∫t du hen, söll'n wie mit di gaahn.
+qr	49813	Wangersen	1	Nahm gei∫t du hin, schüdd we med die gahn?
+qr	49821	Regesbostel	1	Wo gei∫t de hen´n, söllt wi mit di ga'n.
+qr	49828	Tötensen	1	Wo geist D'u hen, schöln we mit Di gahn?
+qr	49840	Lassrönne	1	Näm geist du hen, schölt wi mit di gahn?
+qr	49857	Juliusburg	1	Wo geh∫t du henn, schä wi mit di gahn?
+qr	49881	Setzin	1	Wo geh∫t du hen, sält wi mit di gahn?
+qr	49898	Neuhof	1	Wo geh∫t du henn, sö͡äln wi mit di gahn.
+qr	50010	Gresse	1	Wo geh∫t du hěn, sö͡äl'l wi mit di gahn?
+qr	50027	Moraas	1	Wo geh∫t du hen, sall'n wi mit di gahn?
+qr	50058	Paarsch	1	Wo geh∫t du hen, säll'n wi mit di gahn?
+qr	50068	Barkow	1	Wo geih∫t du hen, söll'n wi mit di gahn
+qr	50073	Schwinge	1	Wonähm geis du hin, schüll wie mit di gahn?
+qr	50087	Wisch	1	Wurnehm gei∫t du hin, schä wi mit di gahn?
+qr	50117	Ottensen	1	Wo gai∫t du hen, schäl wi mit di gahn?
+qr	50130	Willinghusen	1	Wo geihst du hin, sö wi mit di gahn.
+qr	50142	Basthorst	1	Wouähm geh∫t du hen schööd wü mit di gahn'n?
+qr	503	Szpegawsk	1	Wo geh∫t du henn, saale wi matt di gohne
+qr	5031	Lugow	1	Wu gieh∫t du hin, soll ber mit dir giehn?
+qr	50321	Lehmrade	1	Wonähm geh´s du hen, schö wü mid die gahn?
+qr	50332	Drönnewitz	1	Wo geh∫t du hen, sähl' wi mit die kam?
+qr	50343	Gross Rogahn	1	Wo geh∫t (gei∫t) du hen söll'n wi mit di gahn?
+qr	50357	Kladow	1	Wo geh∫t du hen, sölln wie mit die gahn?
+qr	50365	Hohen Pritz	1	Wo gei∫t du henn, säll'n wie mit die gahn?
+qr	50377	Jellen	1	Wo geih∫t du hen, sähl wie mit die gahn?
+qr	50385	Lübsee	1	Wo geih∫t du henn, sëlln wi mit di gahn?
+qr	50471	Bellin	1	Wo geh∫t du hän, sölln wie mit di gahn?
+qr	50523	Retzow	1	Wo geih∫t du hen, sülen wi mit di gahn
+qr	50538	Hohenbollentin	1	Wo gei∫t du hän, soll wi mit die goan?
+qr	50552	Golchen	1	Wo geih∫t du hen, sölln wi mit die gahn
+qr	5056	Biala Wies	1	Wu gie∫t di denn hien, seilber mit dirr gihn?
+qr	50567	Strippow	1	Wun gei∫t du hen, sölln wi di gahn schlühle ?I?inden?
+qr	50575	Rosenhagen	1	Wue geh∫t du hen, sällen wie mit die gahn?
+qr	50583	Siniechowo	1	Wo gäh∫t du hen, solle wie mit die gohn?
+qr	50604	Drzewica	1	Wo jeh∫t du hé, schö j mit d?u? jaun
+qr	50622	Lisowo	1	Wo jeih∫t du hä, schöllē [ü drübergeschrieben] wi mit di jō[a drübergeschrieben]a.
+qr	50719	Lubin	1	Wo geh∫t du hen, söla wie mit die goh?
+qr	50765	Gross Ridsenow	1	Wu'e gei∫t du hen, säln wie mit di gahn?
+qr	50779	Schlutow	1	Wue gei∫t du hen, s?ü?l'n wie mit die gahn?
+qr	50794	Seedorf	1	Wuä gei∫t du hen, säl'n wie mit di gahn
+qr	50805	Bentzin	1	Wu'e geih∫t du hen, sällen wie mit die gahn?
+qr	50818	Ranzin	1	Wua gei∫t du hen, säl'n wie mit  die gehn?
+qr	50830	Lassan	1	[Satz 12 nicht übersetzt]
+qr	50840	Sallenthin	1	Wo gei∫t du hen, sähl'n wi mit di gahn?
+qr	50844	Miedzyzdroje	1	Wö geh∫t du henn, säl'n wi mit die goahn?
+qr	50850	Sieroslaw	1	Woä gäi∫t du hä, süllä wie mit gehä
+qr	50872	Bedzieszewo	1	Wo ge∫t du hä, schollä wie mit die gau.
+qr	50892	Skalin	1	Wò geist du hen, s?c?hoalewie wi[durchgestrichen] mit di gahe?
+qr	5091	Boruja	1	Wu gih∫t dä hin, sulln ber mit därr gihn?
+rs	50973	Koserow	1	Wo geh∫t du henn, sölen wi mit di goahn.
+rs	50986	Trzesacz	1	Wo geh∫t du hê, schöê wi mit dir ga^oê?
+rs	51	Baerwalde	1	Wō geh∫t du hěn, schŏllä wī mĭt dī ga^oä?
+rs	51012	Hohen Wangelin	1	Wo geih∫t du henn, säln wie mit die gehn?
+rs	51030	Rittermannshagen	1	Wua geih∫t du hen, sall'n wi mit di gahn.
+rs	51048	Tarnow	1	Wua gei∫t du henn, säl'n wi mit di gahn?
+rs	51065	Trollenhagen	1	Wua geh∫t du hen, söhl wi mir di goan
+rs	51081	Brohm	1	Wuht (wua) geh∫t du henn, söhl'n wi mit di gohn?
+rs	51089	Eichhof	1	Wo gei∫t du henn, söhln wi mit di ga^ohn
+rs	51098	Gegensee	1	Wo geih∫t du hen, söllen wi mit di goahn?
+rs	511	Krasniewo	1	Wo geih∫t du heen, sulle mie mett die gaone?
+rs	51101	Drogoradz	1	Wo geih∫t du hen, söln wi mit di gohn.
+rs	51112	Budzien	1	Wo geh∫t de henn, säll'n wie mit die goahe
+rs	51123	Krzywice	1	Wo jeh∫t du he͡ä, scholle͡ä wi mit di joe͡ä?
+rs	51135	Plantikow	1	Wou geh∫t du hen, schöw wi mit di goah?u? ?
+rs	51143	Kloster	1	Wue gei∫t du henn, säöl'n wi mit di gaohn?
+rs	51146	Wiek	1	Wu͡a gē͡i∫t du hen, säl'l wi mit di gahn?
+rs	51162	Nardevitz	1	Wua gei∫t du henn, sä'l wie mit die gahn.
+rs	51170	Zingst	1	Wua geihst du hen, sal'l wi mit di gahn'n?
+rs	51173	Wendisch Langendorf	1	Wue(?r?) geih∫t du henn, sa͡öl'n wi mit di gahn.
+rs	51179	Wüstenei	1	wur geih∫t du hen, sälen wi mit di gahn.
+rs	51188	Saiser	1	Wuă gei∫t du henn, säl'n wie mit di gān
+rs	51191	Ahrenshoop	1	Wuă gei∫t du henn, sö͡äl'n wi mit di gahn?
+rs	5122	Gorzyca	1	Wo gieh∫t du hin, sollen wir mit dir gihen?
+rs	51232	Neu-Reddevitz	1	Wou geih∫t du hen, sälen wie mit die gahn.
+rs	51243	Langendamm	1	Wua gei∫t du henn, sähl'l wie mit die gahn?
+rs	51257	Redebas	1	Wua gei∫t du henn, salln wi mit di gahn?
+rs	51267	Pütte	1	Wu gei∫t du hen, säl'n wi mit di gahn?
+rs	51277	Poseritz	1	Wŭâ gei∫t du hēn, sȫl'l wī mît die gān?
+rs	51288	Thiessow	1	Wua geih∫t du henn, säl n wi mit dir gahn?
+rs	5130	Ransko	1	Wu gih∫t du hien, selln ?w?ir mit dir geihn?
+rs	51346	Reppelin	1	Wue gei∫t du henn, süln wie mit die gehn?
+rs	51355	Kavelsdorf	1	Weia gei∫t du henn, sälln wie mit di gahn.
+rs	51370	Müggenwalde	1	Wua geih∫t du hen, säll'l wi mit di gahn
+rs	51387	Steffenshagen	1	Wua geih∫t du hen, sälln wie mit die gahn?
+rs	5139	Grudna	1	Wo jeh∫t du hin, sollen wir mit dir jèhn?
+rs	51397	Vierow	1	Wua gei∫t du hen, söl'n wi mit di gahn
+rs	51409	Karlshagen	1	Wua geih∫t du hen, säll'n wi mit di gahn?
+rs	5141	Brody	1	Wu gih∫t du hin, sulln wer mit dir gihn?
+rs	51413	Trzebusz	1	Wo ge∫t du hen, schö wi mit di gan?
+rs	51539	Kisserow	1	Wo gei∫t du hen, säll'n wie mit die gahn.
+rs	51549	Federow	1	Wo gei∫t du hen, säl'n wi mit di gahn?
+rs	51561	Klein Vielen	1	Wo geih∫t du hen, säll'n wi mit di gahn?
+rs	51571	Holldorf	1	Wo geh∫t du henn, söll'n wi mit di gahn.
+rs	51584	Woldegk	1	Wua geih∫t du hen, sa^öl'n wi mit di ja^ohn?
+rs	51598	Trebenow	1	Wo geih∫t du henn, söhl'n wie mit die gohn.
+rs	51611	Rossow	1	Wo gei∫t du hen, söln wie mit die gohn.
+rs	51624	Wawelnica	1	Wo gei∫t du hen, söll wie mit di goan?
+rs	51637	Bergland	1	Wo geh∫t du henn, söä mie mit die goahn?
+rs	51646	Dabrowica	1	Wo geh∫t du he, schöh wie mit die gaohn.
+rs	51661	Bobrowniki	1	Wo geh∫t du hä, schöw mit di goa?
+rs	51805	Grabow	1	Wo geih∫t du henn, säl'ln wi mit di gahn?
+rs	51816	Lärz	1	Wo geih∫t du hen, sölln wi mit di gahn?
+rs	51832	Ahrensberg	1	Wua geh∫t du henn, säll'n wie mit die gahn?
+rs	51838	Hasselförde	1	Woa gei∫t dú hen, soelln wi mit di gohn?
+rs	51850	Buchenhain	1	Wo geihst du hen, söll'n wi mit di goah'n?
+rs	51866	Röpersdorf	1	Wo geih∫t du hen, söll'n wi met di gohn?
+rs	51877	Grünz	1	Wo jei∫t du hen, söhll wi mit di gohn?
+rs	51893	Pargow (Pargowo)	1	Wo gei∫t du hen, so^äln wi mit di ga^ohn
+rs	51906	Zelislawiec	1	Wo geih∫t ha, schä wi mit die gahn?
+rs	51918	Slotnica	1	Wo jehst du ha schöäw mit koămă
+rs	51934	Zukowo	1	Wo ge∫t du ha, schülle wie mit die gohă?
+rs	5203	Nekielka	1	Wo jeh∫t du he, scha we met die gohä.
+rs	52064	Papenbruch	1	Wo geih∫t du hen̅? sölln wi mit di gähn?
+rs	52070	Wallitz	1	Wo gei∫t du hen, soll'n wie mit die go͡an?
+rs	52079	Menz	1	Wo geih∫t du hän, sölln wir mät di goahn.
+rs	52086	Barsdorf	1	Wo gei∫t du hen, saln wie mit die gahn?
+rs	52095	Petersdorf	1	Wo jei∫t du hen, soln'w mit dir jon
+rs	5210	Skwierzyna	1	Wo jeh∫t d´hin, solln werr mit derr jehn?
+rs	52103	Flieth-Stegelitz	1	Wo gei∫t da henn, säölw da mèt di gōhn
+rs	52113	Passow	1	Wo gei∫t du hen, söll'n wie miet die gohn.
+rs	52129	Widuchowa	1	Wo jei∫t du henn, söll'n wie mit di joȃhn?
+rs	52139	Banie	1	Wo gei∫ct du henn, säohlen wie mit die ga^ohn?
+rs	5214	Krobielewo	1	Wu gih∫t de hen, sollen ber mit der gehn?
+rs	52154	Obromino	1	Wo geh∫t ha, schöle wie mit die gaohe?
+rs	52169	Brzezina	1	Wo geh∫t du he, schölln wi mit di gohn?
+rs	52276	Bagicz	1	Wo geh∫t du henn, schȫä̅l wi mit di gōāa?
+rs	52278	Lasin Koszalinski	1	Wo geh∫t du henn, schöw mit die ga-n.
+rs	52311	Sieciemin	1	Wo geh∫t du hen, schäl wi mit di gan?
+rs	52349	Pomysk Wielki	1	Wor geh∫t du hen, säl wi mit kommä.
+rs	52359	Szymbark	1	Wo geh∫t du hen, sel wi met di kome.
+rs	52374	Szklana Gora	1	Wu gei∫t du hän, sall wi met di gon.
+rs	52396	Skowarcz	1	Wo gei∫t du henn, säl wi met di gaane?
+rs	52428	Oberlakendorf (Solnica Górna)	1	Wor geih∫t du hen, sall wi mettkoame.
+rs	52440	Deep (Czajcze)	1	Wo gei∫t du henn, schulla wie mit die goa?n??
+rs	52463	Bialecino	1	Wo geh∫t du hen, schäll wie mit die goan.
+rs	52478	Bronowo	1	Wo geh∫t du henn, schäl wi mit di gohä?
+rs	52484	Reddies	1	Wo geh∫t du henn, schel wi mit die komn
+rs	52567	Pasewark	1	Wo gei∫t du han, sel wi mett di komme?
+rs	52578	Bad Rügenwalde	1	We geh∫t henn, sele wi mit di gohn?
+rs	5259	Prusim	1	Wu gieh∫t du hin, sollen wir der giehn?
+rs	52600	Radoslaw	1	Woä geh∫t du hen, schäull wie mit die kamä?
+rs	52700	Losino	1	Wo geh∫t du henn, schel wie met die gann?
+rs	5271	Przyborowko	1	Wu gih∫t du hin, sull ber mit dir gihn?
+rs	52714	Labiszewo	1	Wo geh∫t du henn, sell wie mit die gohna?
+rs	52722	Karwen	1	Wor geh∫t du hen, sel wi mit di gohne?
+rs	52755	Heubude (Stogi)	1	Wo geih∫t du hen, sāl wie met die gohne
+rs	52762	Skowronki	1	Woa gei∫t du henn, sel wie met di gonen?
+rs	52766	Rowy	1	Wo geh∫t de hen, säl wie mit die goana?
+rs	52767	Machowinko	1	Wo geh∫t du henn, säl wi mit di goahne?
+st	5277	Gleboczek	1	Wo jeh∫t dou hej, sche wi mit di gaun?
+st	52816	Hela	1	Wo geih∫t du henn? säl wi mit di gohne?
+st	52819	Jaroslawiec	1	Wo geh∫t du henn, seul wi mit di goan.
+st	52825	Krolowstrand (Królewice)	1	Wo geh∫t du hen, sel wi mit di gan?
+st	52854	Drzezewo	1	Wo geh∫t du hen, säl wi mit di gohne.
+st	52865	Niebedzino	1	Wo geh∫t du henn, säl wi met di gâhne.
+st	52871	Dabrowka Wielka	1	Wo geh∫t du henn, säl wie mett die gahn?
+st	52881	Luzino	1	Wo geh∫t du henn, sell wi mett die gone.
+st	52887	Pogorze	1	Wo gei∫t du hen, seln wi mit die goue?
+st	52896	Bialogora	1	Wo ge∫t du hen, sael wi mit  di gaoune?
+st	52905	Karwenbruch	1	Wor gei∫t du hen, soll wie met die gohne.
+st	5291	Gorki Noteckie	1	Wo jeh∫t du hen, sel wie met die goahn?
+st	52913	Wladyslawowo	1	Wo geh∫t du hen, solln wie met di gone?
+st	52915	Lebieniec	1	Wor geh∫t du ha͡en, sal wie mett die ka͡ome.
+st	52927	Zelazna	1	Wo geh∫t du hann, sälen wie mit di gohna?
+st	52936	Tylowo	1	Wo geh∫t du hen, säl wie met die gaane?
+st	5305	Rapin	1	Wo gei∫t do hänn, sall'n wie mett di goahn
+st	5315	Pilka	1	Wo jeh∫t du he, schall we met di goa?
+st	5316	Rzecin	1	Wo geh∫t du he, schallo wi met di gauo?
+st	532	Zulawka Sztumska	1	Wo ge∫t hen sull wehr metkomme?
+st	5322	Tarnowko	1	Woe geh∫t du hey, scha wie met gauo?
+st	5374	Groß Golle (Golaszewo)	1	Wo geh∫t du he, scholle wi metgaua?
+st	5386	Lubicz	1	Wo geh∫t du ha, söle wie mit di gohn?
+st	5397	Slonow	1	Wo geh∫t du ha, söl' wie met die gohn?
+st	5402	Huta Szklana	1	Woë́ geh∫t du he, schö̌ wie mett di?? gau ŏ?
+st	5409	Marienbusch	1	Woe geh∫t du he, schöww wir mät dir gano?
+st	5421	Ostrowki	1	Wo geh∫t du he, schölle wi mit die mitkaume.
+st	54871	Neuarad (Aradu Nou)	1	Wo gehst hin, soll me mit dr gehn?
+st	54873	Bistritz (Bistriţa)	1	Wuer gēstte, sen mer mätter gō?
+st	54878	Arzis (Artsyz)	1	Wuer gēstte, sen mer mätter gō?
+st	54897	Wolfswinkel (Wilczy Kat)	1	Wo ge∫t du hän, seä wi mett di guone
+st	549	Przecmino	1	Wo geh∫t du hen, schöln wie mit die joa?ň??
+st	54901	Zarobka	1	Woue gejst du hej, scha wi met di kome (gaue)
+st	54902	Brzozowka	1	Wuer gēstte, sen mer mätter gō?
+st	54906	Brzezno	1	Wo jej∫t du han, sew wi met di guone?
+st	54909	Zbojenko	1	Wohe ge∫t du han sele wü met di gone
+st	5491	Brzezno	1	Wo je∫t du höh schö wi met di gano.
+st	54912	Siemiatkowo	1	Wohe je∫t haen, sew met gihone?
+st	54913	Sompolno	1	Wöo jejst hyj, schaw met di gauo.
+st	54914	Sächsisch Regen (Reghin)	1	Wu er gest‘ta. Sin mer och mät goh.
+st	54915	Elek (Elek)	1	Wū kèast néu, sŏlă mr mit tiar kiă?
+st	54916	Freidorf bei Temeschwar	1	 Wu gehst du hin, sollz m’r mit dir gehn?
+st	54917	Sarata (Sarata)	1	Wo gḗsch nā̊, ßollå mǐr mǐt dr gḗå?
+st	54918	Scheindorf (Sâi)	1	 Wona gu̥ascht, solle̊d mi|er mit Di|er ga?
+st	54919	Fünfkirchen	1	Wu kēst hin, solmə mittie kēn
+st	54921	Iklad	1	Wu keszt hí szôll ma á mit tir ké?
+st	54922	Sanktanna (Sântana)	1	Wu kés tu hi, sola mir mit tir kéa?
+st	54924	Martinsdorf (Metiş)	1	Wor gīhst te̊, selle̊ me̊r mät der giohn?
+st	54926	Bentschek (Bencecu De Sus)	1	Wu gehscht hin, soll mir a mit’r gehn
+st	54929	Agnetheln (Agnita)	1	Wuer goist te, sialle mer mät der gion.
+st	54930	Gottlob	1	Wo gehscht hin, sollé mír mit d(i)r gehn
+st	54932	Klein-Schemlak (Semlacu Mic)	1	Wŭ gehst dŭ hḭ, sulle ’mr mit dr géjn?
+st	54933	Sankt Andreas (Sânandrei)	1	Wŭ gehst dŭ hḭ, sulle ’mr mit dr géjn?
+st	54935	Neuwerbas (Novi Vrbas)	1	Wu gehscht hin, soll m’r mit dr gehn?
+st	54937	Groß Scham/Freudenthal (Jamu Mare)	1	Wŭ géscht Dŭ hin, sõll m’r mit Dir géhn?
+st	54938	Torschau (Savino Selo)	1	wo gèϭtĕ̷̃ hĩ solĕ̷mr mit̩r gễ
+st	54939	Weprowatz (Kruščić)	1	Wa geͥst hĩe sọḷymyr mityr geͥ[?]
+st	54941	Neue Weingärten (-)	1	Wo gescht na̰, solla m'r mit dir gea?
+st	54942	Seimeny (-)	1	Wo gesht na̰, sollemer mitr geh?
+st	54943	Neubeschenowa (Dudeştii Noi)	1	Woͧ geͥhscht hin, soͧll‘ m’r meͥt’r geͥhn 
+st	-55055	Oborki	1	Wohe gjehst du haen, sulle wi met di ghone?
+st	-55064	Zale	1	Woe gähst du hein, sie wi met di huane?
+st	-55066	Zuromin	1	Wo gehst hin, sollen wir mit dir gehen?
+st	-55070	Grudusk	1	Wo gehst du hin? Sollen wir mit kommen?
+st	-55072	Ostroleka	1	Wo gehst du? Soll'n wir mitkomm'n.
+st	-55081	Ciechocinek	1	Wo jehst du hahn, se wi mot di metgohne?
+st	-55091	Skepe	1	Wo jeist du han, sal ech met komme?
+st	55094	Gradzanowo Koscielne	1	Wo jehst du han, solle wi met di guon?
+st	-55096	Modelka	1	Wo jehst du hen, solle wi met di jone?
+st	-55099	Makow Mazowiecki	1	Wewo lapst diu him, schall ick mit mit dich metleupo.
+st	55106	Susk	1	Wona jeist du han, su wi met di chuone?
+st	-55107	Zawidz Koscielny	1	Wo jehst du han sal ek met guone.
+st	55109	Kondrajec Szlachecki	1	Wo jeht ju han, da wull ik mit di metjūone
+st	-55110	Kicin	1	Wo jehst du henn, sāl wie met die goahnä
+st	55111	Szostka	1	Wo gehst du hin, sollen wir mit dir gehen?
+st	-55113	Kujawka	1	Wo gehscht hin? Soll'n mer mit der geh?
+st	55116	Osiek	1	Wo gehst du hen, seh wi met di gohne.
+st	-55117	Nowe Karwosieki	1	Wohen jest du han, sche wi met de gune?
+st	-55129	Lenie Male	1	Wo gehst du henn selle wie metkomme
+st	-55133	Meczenino	1	Wo jeist du, soll wie mit di huoni?
+st	-55135	Dzierzaznia	1	Wo jehst du hin, solln wir mit jehn
+st	-55137	Konary	1	Wo jehst du han, salle wie met die gone?
+st	-55139	Kozy	1	Weōe wist du heem scha'k mett di mettganŏ?
+st	55140	Zglowiaczka	1	A.u.W.: Wohin gehst du, sollen wir mit dir gehen? B.: Wo  gesch du na, sollat mir mit geh'?
+st	55163	Grabkowo	1	Wou jehst du he? schaf mat di chaun?
+st	-55164	Wieslawice	1	Wo jest du hin. Saw wie met die gone?
+st	-55166	Budy Borowickie	1	Wohe jehst du henn, sehle wie met die chone.
+st	-55169	Orszymowo	1	Wo jehst du hän, sew met di goone?
+st	-55171	Nowy Dwór Mazowiecki	1	Wo jehst du han, salle wi mett di gone
+st	-55173	Kozie Glowy	1	Wü giehst dü hin, solln bir mit dir giehn?
+st	-55177	Brdow	1	Wo geh∫t dū hi, sēll i mitgih?
+st	-55181	Psary	1	Wo géihst héi, scha wi mėt di ganė
+st	-55187	Nowa Wies	1	Wohe jest du hän, sewi mett kaame.
+st	-55189	Miszory	1	Woa geist du henn, selle wi met di goahne?
+st	5519	Berka v.d. Hainich	1	Wu giest den hön, soll'n men mett dich giēn.
+st	-55191	Secymin Polski	1	Woa jeist du han, soll mia met dia geane
+st	55210	Niechcianow	1	Wo gehst du hin, sollen wir mitkommen.
+st	-55216	Kaptury	1	Wo jehst du hen, si-elle w met di guone?
+st	-55218	Stare Miasto	1	Wü giehst hin? Säll bir mit dir giehn?
+st	-55226	Tarnowka	1	Wo gehst du hin, sollen wir mitkommen?
+tu	-55238	Zychlin	1	Wohin gehst, sollen wir mitkommen
+tu	-55240	Kopojno	1	Wo gehst du hin, sollen wir mitkommen?
+tu	55244	Natalia	1	Wo gehst du, sollen wir mitgehn.
+tu	55252	Potrzaskow	1	Wo gehsch du hin, wollen wir mit dir gehn.
+tu	-55254	Szamow	1	Wo goscht na, soll mir au mitgeh?
+tu	-55258	Wierzchy	1	Wo jehst hin, soll'n wer mit dir jehn.
+tu	-55261	Gadowskie Holendry	1	Wu giehst du hin, sehn bir mit dir giehn?
+tu	-55262	Turek	1	Wohin geh∫t du, sellen wir mitgehen.
+tu	-55266	Sarbice	1	Wo jehst du he, scha ik mit die go?
+tu	-55269	Zimne	1	Wo geei∫t du hin, scha wi mi?e?t di gahn?
+tu	-55270	Leczyca	1	Wo geh∫cht hie, solln mehr mit dehr gehjn?
+tu	55271	Piatek	1	Wu kehsch du hin, sollen mejr mit tejr kehje
+tu	-55300	Goliszew	1	Wo gescht hin, solle wir mit der gehn?
+tu	55305	Poroze	1	Wu giehst hin, sell ber mitkumm?
+tu	-55306	Rzymsko	1	Wo jehst' hin, solln wir mit jeh'n?
+tu	-55308	Baldrzychow	1	Wo gehst Du hin, soll ich mitkommen?
+tu	55320	Sanie	1	Wo gehst, soll ber mitkommen?
+tu	-55322	Marianow	1	Wo gehst du hin, soll ich mitkommen?
+tu	-55326	Jozefow	1	Wu gehst Dü hinn, solln wi mit Dir gin.
+tu	55330	Morawki	1	Wo^o gijst du hi, solln mi mit die geh.
+tu	-55331	Rzepiszew	1	Wo tu∫t hen, solln wir mitkommen?
+tu	-55338	Justynow	1	Wo lofst hin, voleicht soll ich och mitkommen.
+tu	-55344	Slomkow Suchy	1	Wau g^ehst hi, sol ma mit dir geh?
+tu	-55349	Markowka	1	Wo gehst du hin, solln mir mit da gehn?
+tu	-55350	Rzgow	1	Wu gehscht du hin solln mn mit der gehn?
+tu	-55354	Laznowska Wola	1	Wo gehst´n hin, soll'n wer mitkumm?
+tu	-55359	Kiebitztal (Kuznica)	1	Wo gehst hin, soll'n mer mit dir gehn.
+tu	-55360	Ostrow	1	Wo gehst du hin, sollen wir mitkommen.
+tu	-55361	Wielka Wies	1	Wo gehst du hin, sollen wir mit dir g.?
+tu	-55362	Suchcice	1	Wo will∫t hin? Sollen wir mit?
+tu	-55363	Siemkowice	1	Wo ge∫ch du na, sall'n mir mitgehn?
+tu	-55365	Dobroslaw	1	W?o?r geh∫t du hei, sollen wier mitkommen.
+tu	-55366	Belchatów	1	Wo geht’s hin, sollen wir mitkommen?
+tu	-55373	Luszczanowice	1	Wo gehst du hin, sollen wir mitgehn?
+tu	-55375	Ozarow	1	Wo gehst du hin, sollen wir mir die gehen?
+tu	-55376	Jaworzno	1	Wo geh∫t du hin, soll'n w'r mitkommen?
+tu	-55377	Natolin	1	Wu gihst du hin, sull ich mit dir gihn?
+tu	-55382	Czarny Las	1	Wo gehscht du hin, sulle me mit dir geh?
+tu	-55383	Huta Stara A	1	Wo gehst heen, sulln merr mit dr gehn
+tu	55384	Myszkow	1	Wo gehst du hin, sollen wir mit dir gehen?
+tu	55387	Dabrowa Gornicza	1	Wohin geh∫t du, sollen wir dich begleiten?
+tu	-55389	Kwaczala	1	Wo geh∫cht du hie, soll mer mit dir gehn?
+tu	-55394	Freistadt (Fryštát)	1	Wohin gehst du, sollen wir mitgehen? Auch: Wo gehst du hin, sollen wir mit dir gehen?
+tu	-55408	Bistritz (Bystrice Nad Olsí)	1	Wo gehst du hin, sollen wir mitgehen?
+tu	-55411	Radziechowy	1	Woa geist hi, sulln mir mit dir geihn.
+tu	-55415	Skomlin	1	Wor geh∫t hin, sollen wir mitkomme?
+tu	-55416	Kamesznica	1	Wo gäist du hi, soll'n miə mid dir gäih'n?
+tu	-55418	Schönwalde (Wrzosy)	1	Wo geht du hen, sele wie met die gohne?
+tu	-55425	Wyszewo	1	Wo wist du henn, scholl wie mit die gohen.
+tu	-55522	Nojewo	1	Wohin gehst du, sollen wir mitkommen?
+tu	5717	Illeben	1	Wu geh∫t de hän, son me mut gieh.
+tu	573	Lykowo	1	Wô gêh∫t dû hen, scholl wī mit dī gâ?=?n?
+tu	5730	Gebesee	1	Wu gihst du hän, sunn mihe mädd dir gihe?
+tu	5752	Thalborn	1	Wo geh∫t dä du hänn, soll ech ä mätt dir gih?
+tu	5774	Nirmsdorf	1	Wu jie∫ta hän, saūwrä mett jie
+tu	5810	Crölpa-Löbschütz	1	Wu gieh∫te henn, sullmarr mettr gieh?
+tu	5827	Krössuln	1	Wu gih∫t´n hen, sulln mr met kumme
+tu	584	Dunowo	1	Wo geh∫t du hin, scholla wi mit di gaua?
+tu	5863	Michelwitz	1	Wu gieh∫ten hen, sull'n met mit dr gieh?
+tu	5867	Hollenbach	1	Wug ge∫t dann hen, sum man mett dich gieh?
+tu	5875	Schlotheim	1	Wo geh∫t du hän, sollen ?w?ie mät dir gehen
+tu	6074	Obertopfstedt	1	Wou gehste hänn, summa mät dech göhe?
+tu	6089	Etzleben	1	Wou gehi∫t du hen, sulln me mät deir gehn.
+tu	6105	Allerstedt	1	Wu gieh∫t de henn, sull'n mer met dir gieh?
+tu	6116	Gleina	1	Wu gieh∫t denn hen, selln mer en met d'r giehe
+tu	6129	Kleinkayna/Kleinkaina	1	Wu gieh∫t du hen, sellen mir met dir gieh.
+tu	6168	Rehbach	1	Wo geh∫t du henn henn, selln wir mit die gehn?
+tu	6171	Mengelrode	1	Wo gäh∫t du henn, sullnme mett dier gähn?
+tu	6185	Kirchworbis	1	Wo geh∫t du henn, sunn mi met dich geh?
+tu	6196	Grosswenden	1	Wu gäh∫t du hänn, sum-en met dich gèh
+tu	6341	Auleben	1	Wu gieh∫t dänn hänn, sillmen mätt dich gieh?
+tu	6359	Hackpfüffel	1	Wu jieh∫te hän, sellm'n met jehe?
+tu	6371	Mittelhausen	1	Wu chieh∫te henn, sell'n mr mett dir chieh?
+tu	6388	Stedten	1	Wu gih∫t du hen, solln mer met dir gihn?
+tu	6400	Ammendorf	1	Wu gih∫te hen, solln mer met giehn.
+tu	6418	Glesien	1	Wu geh∫t du hen, sellen mer met dir gehn?
+tu	6426	Zwinge	1	Wua geih∫t du hen, sollt wie met goan.
+tu	6472	Stolberg (Harz)	1	Wo geh∫ten hän, solln me mit dir/dich gehen?
+tu	6577	Walkenried	1	Wo witt ta henn, söll me mit dich goh?
+tu	6593	Königerode	1	Wu göh∫´dänn henn, semmäne med dich gähn?
+tu	6610	Vatterode	1	Wu gih∫t dén hen, sell'n mer met dich gihn.
+tu	6630	Freist	1	Wo gieh∫t du hen, sollmer metter giehn?
+tu	6656	Drehlitz	1	Wu giehstn henm solln mer met dir giehn?
+tu	6660	Möst	1	Wu geh∫t de hin, solln wir mit dėh gehn.
+tu	6682	Ramsin	1	Wu geh∫tn henn, solln merr met dich gehn?
+tu	6690	Braunlage	1	Wo geih∫t du hen, solln mei mit deck gahn?
+tu	6705	Rieder	1	Wu jäh∫t du hen, sall'n wei met deck jahn?
+tu	6793	Riefensbeek	1	Wo chei∫t du hen, söllt wie mit deck gah'n
+tu	6801	Neuwerk	1	Wu geih∫t en du hen̅, sollen wei mig metgahn.
+tu	6821	Aschersleben	1	Wu geh∫t de hen, sollen wei mit deck gahe?
+tu	6831	Gröna	1	Wu geh∫t de hin, solln m'r/somm'r mit dich mitgehn?
+tu	6848	Elsdorf	1	Wo gieh∫te du hin, sollen wir mit dir giehn?
+tu	688	Pregowo Zulawskie	1	Wo gei∫t du henn, säl wie met die go͡ane.
+tu	6891	Danstedt	1	Wu geih∫t du hen, söllt wei mit deck midda gahn?
+tu	6960	Abbenrode	1	Wu geih∫te hen, sellt wei mit deck gahn
+tu	6981	Emersleben	1	Wu geih∫t du hen, sellt wei mit deck gah'n
+tu	6995	Egeln	1	Wo geist du henn, solln wei mid dick gån?
+tu	7007	Eickendorf	1	Wo jeihst Du hen, soll’n wei mit Dik jahn?
+tu	7022	Kämeritz	1	Wua goa∫t dau henn, söll'n wie met dei goahn?
+tu	7033	Natho	1	Wue geh∫t tau henn, säâlen wäi met dä gehn?
+uv	7180	Liemehna	1	Wu gie∫t de henn, sellmer met dir giehn?
+uv	7198	Röcknitz	1	Wu jeh∫te denn hen, sollemer mittr jiehn?
+uv	7212	Lausa	1	Wu kie=est du henn, sellen mr mit dir kie=en?
+uv	7225	Kosilenzien	1	Wo geh∫t du hin, sulln mer dir gihn.
+uv	7246	Kahla	1	Wo gih∫t du hen, söll'n mir mit dir gihn?
+uv	7253	Ruhland	1	Wo jeh∫t du hin, sollen wir mit dir jehn?
+uv	7263	Lauta	1	Wo geh∫t du (te) hin, sall'n wir mitgehn?
+uv	7363	Brösa	1	Wo geh∫te hen, sellen mir met dich gehn.
+uv	7371	Falkenberg	1	Wu geh∫t du hen, sellen mir met dich kummen?
+uv	7384	Rosenfeld	1	Wu geh∫t de hen, sellen mer met dich gehn?
+uv	7394	Wiederau	1	Wo geh∫t du hen, selln mär met dich gehen. 
+uv	74	Gwiezdzin	1	Wouhe gi∫t (du) diuh hen, soh wich met di gaun
+uv	7412	Lugau	1	Wu jeh∫t du henn, selln wir met dich jehen?
+uv	7427	Dollenchen	1	Wo geh∫t du hen̅, sollen wir mit dir gahn?   
+uv	743	Rudki	1	Woi gehst du he, schöw wie mit Die gauha?
+uv	7435	Petershain/Neupetershain	1	Wu geh∫t du hin, sollen wir mit dir gehn?
+uv	748	Budy	1	Woä geh∫t du hi, schö wi mit di gauä?
+uv	7529	Schleesen	1	Wu geh∫t´n hin, sell'n we met geh'n?
+uv	7546	Bleddin	1	Wu geh∫t´n hen, sell' mer[e durchgestrichen?] met kumm? 
+uv	7562	Klossa	1	wu geh∫te hen, sollen wi mett dicht gehn?
+uv	7576	Werchau	1	Wo je∫te henn, sellme mett dich mett komm?
+uv	7586	Wendisch Drehna/Walddrehna	1	Wou geh∫t ne hen sall ick met kommen?
+uv	7596	Schlabendorf	1	Wo geh∫t du hen? Söllen wir met gehen?
+uv	760	Zakrzewo	1	Wöa gißt dü hen, so wi mit di gaun?
+uv	7688	Straach	1	Wo joahste hen, soll'n we met D'e joahn?
+uv	769	Nowy Dwor	1	Woa ge∫t du hei schow wi mit di gauha
+uv	7696	Rahnsdorf	1	Wo gehst du hän, sähln we met dä gehn?
+uv	7710	Rohrbeck	1	Wue joh∫t dou´n hen, säln wi͡e met die john?
+uv	7721	Wahlsdorf	1	Wue gehst´n henn, seäln wei met dei gehn?
+uv	7732	Hohendorf	1	Wuē jeh∫t du hen, solln mei met dei jehn?
+uv	7747	Treppendorf	1	Wo geh∫te´de hen, selln wer mit dir gehn.
+uv	7758	Sacrow	1	Wu geh∫de hin, soll'n wer mit der gehn?
+uv	7964	Zedtlitz	1	Wu gieh∫te hän, sulln mer mit där giehn?
+uv	7979	Hohnbach	1	Wu gih∫t´n du hän, silln miär mit diär gihn?
+uv	80004	Grindelwald	1	Wa geihst hin, sellen mr miter gahn?
+uv	80023	Bosco	1	Wo geišt, sulu war met-tar chu?
+uv	8011	Ziegra	1	Wu gieh∫tn du henn, silln mer mit der giehn?
+uv	803	Lunawy Male	1	Wo gei∫t du henn, sööl wi mit di gone.
+uv	8032	Rausslitz	1	Wu gißte he^änn, sillmer mit'r giehn?
+uv	8055	Coswig	1	Wu gieh∫tn hen, selln mea miter giehn?
+uv	8075	Langebrück	1	Wu gih∫t´n hin, sill'n mir mit dir gihn?
+uv	8092	Frankenthal	1	Wu gieh∫t de hin, sönn mer met dir giehn?
+uv	821	Bukowiec	1	Wo geih∫t du henn, sa ik met kome?
+uv	8272	Fuchshain	1	Wu gih∫tnhenn, sulln mr mit dr gihn?
+uv	8289	Nerchau	1	Wu keh∫du hin, sulln wer mid dir kehn?
+uv	83	Charzykowy	1	Woiha jeh∫t diu hän, soo wi mit di gauhn.
+uv	8305	Limbach	1	Wu gih∫t denn hen, sell'n mer mit dir gihn?
+uv	8321	Mergendorf	1	Wu gih∫te hen, sulln mär mit där gihn?
+uv	8345	Rostig	1	Wu gieh∫t du hen, silln meer mit dehr giehn.
+uv	8358	Steinborn	1	Wu gih∫te de hi, simar mitkumm.
+uv	8368	Bernbruch	1	Wo gih∫t du hen, solln wir met dir gihn.
+uv	8505	Dretschen	1	Wu gieh∫te hin, soll m'r mitte gihn?
+uv	8519	Kittlitz	1	Wu gieh∫te hie, süllm'r mit'r gihn?
+uv	8532	Kunnerwitz	1	Wu gieh∫t da hie, sulln mer mitte giehn?
+uv	8546	Siekierczyn	1	Wu giehsts hin, sull’n merr mit d’r giehn?
+uv	8560	Wolbromow	1	Wu gieh∫t du hie, sill'n m'r mit d'r giehn?
+uv	8574	Pieszkow	1	Wu gieh∫te hie, sulln mirr mit dr gien?
+uv	8590	Prusice	1	Wu^oh gieh∫t dĕ hie, sulln mirr mit dirr giehn?
+uv	8614	Ogonowice	1	Wau geih∫t du hei, sulln weir mitder geihn.
+uv	8716	Förstgen	1	Wo geh∫t du hie, sollen wir mit dir giehn?
+uv	8726	Ober Horka I	1	Wu gieh∫t de hie, sill'n berr mit derr gieh'n?
+uv	8736	Wegliniec	1	Wu gieh∫t de hie, su^ollen wir mit' dr giehn.
+uv	8740	Kierzno	1	Wu gih∫te hi, sümmer mit dir gihn?
+uv	8751	Szczytnica	1	Wu gih∫t du hi, silln mer mit der gihn?
+uv	8762	Göllschau (Goliszów)	1	Wu gih∫t du hie, sulln mer mit dir gihn.
+uv	8777	Bieniowice	1	Wou ge-i∫t du hi, sullen wir mit d'r gehn?
+uv	880	Strzeczona	1	Woe gi∫∫t dü henn, schoo wie mit die gaun?
+uv	8852	Klein Priebus	1	Wu gieh∫t' d'n hie, sull'n mer mit d'r giehn.
+uv	8858	Okraglica	1	Wu gih∫te hie, solch ich mit der gihn?
+uv	8865	Koberbrunn	1	Wu gieh∫t de' he, silln' ber mit dr giehn?
+uv	8870	Armadebrunn (Studzianka)	1	Wau geih∫t du hei, sull'n wer mit dir geihn.
+uv	8878	Trzmielow	1	Wau gei∫t ´n hei, sulle mer meit der geihn?
+uv	8888	Skladowice	1	Wau geiß du hei, sull eih mitter geihn.
+uv	895	Jelencz	1	Woa geh∫t du hen, soi'n wi mät di gune?
+uv	8972	Cantdorf	1	Wo geh∫t du hin, solln wir mit dir gehn?
+uv	8981	Eichwege	1	Wu geh∫te hin, soll ich mitekum?
+uv	899	Iwiec	1	Woha geh∫t du hän, solla wir mit gohna?
+uv	8990	Jedrzychowice	1	Wu gieh∫t du hin, sollen wir mit dir giehn.
+uv	9000	Kunzendorf (Kunice)	1	Wu gie∫t de hie, sulln wir mit dir gihn?
+uv	9015	Chichy	1	Wu gieh∫t ´n hie, sulih mit der geihn?
+uv	9025	Przeclaw	1	Waue geih∫t d´hei, su b'r mit d'r geihn?
+uv	9036	Jakubow	1	Wau gei∫t de hei, sulln ber meit deir geihn?
+uv	9052	Rzeczyca	1	Wau geih∫t n hei, sulch mitkumm.
+uv	906	Busnia	1	Wo geih∫t du hen, seel wie met die gohne.
+uv	9143	Mehlen	1	Wo geh∫t t´n hin, sällen wer met dir gehn?
+uv	9152	Dluzek	1	Wu gieh∫t du hin, sell'n ber mit dir giehn?
+uv	9163	Bialowice	1	Wu gieh∫t dĕ hie, sŭll'n bier miet dĭr giehn?
+uv	9179	Broniszow	1	Wau gei∫t´n hei, sull'n berr mitter geìhn?
+uv	9193	Alt Tschau (Stare Żabno)	1	Wau geih∫t' d' hei, sull'n ber mit d'r geihn? heh!
+uv	920	Lisie Katy	1	Wo geih∫t du henn, sall eck mit di goahne
+uv	9200	Grochowice	1	Wau gei∫t d' hei? Sull'n beir mit d'r geihn?
+uv	9207	Konradowo	1	Wau geih∫t´n hei, sull ber meit dirr geihn?
+uv	9274	Staakow	1	Wo geh∫t´n hen, solln wĕr mit dĕr gehn?
+uv	9280	Kaltenborn	1	Wu jeh∫tn hin, selln wer met der jehn?
+uv	9288	Czeklin	1	Wu gieh∫t du hin, solln wir mit dir giehn.
+uv	930	Goczalki	1	Wo jeh∫t du hen, sulle wir met dir jehne?
+uv	9303	Lubiatow	1	Wu gieh∫t du hin, söll birr mit dirr giehn
+uv	9314	Zielona Gora	1	Wu gieh∫te hien, sell'n ber mit derr giehn.
+uv	9323	Zabor	1	Wo geih∫tn hēn, sulln wir mëtn kumm.
+uv	9335	Ciosaniec	1	Wu geih∫t du hei, sulln wir mit deir geihn.
+vw	9400	Miloszyce	1	Wu gieh∫t de hin, sullen wir mit dir giehn
+vw	9417	Prietzen	1	Wu gieh∫te hīn, sullb'r miete kumm.
+vw	9433	Ujazd Gorny	1	Wu ?z?ieh∫t d' hi, sulln wer mit d'r ?z?iehn?
+vw	9453	Lisowice	1	Wo geh∫t du he, sulln wirr mitt dirr gehn?
+vw	9558	Ligota Piekna	1	Wau geih∫te hei, sullberr meihte geihe? 
+vw	9579	Jenkowice	1	Wau gaih∫t de hai, sull ber mit dr gaihn?
+vw	9592	Jemielna	1	Wo gih∫t du hin, sulln wir miht dir gihn?
+vw	9612	Prawikow	1	Wo geih∫t´n hei, sull ber meitn geihn?
+vw	9622	Warzyna	1	Wau geih∫t du hei, sulln beir mit der geihn.
+vw	9717	Domanowice	1	Wau gei∫t de hei, sull b'r mit d'r geihn?
+vw	9739	Kamien	1	Wu geh∫t du hin, sollen wir mit dir gehn.
+vw	9760	Krzelow	1	Wau geih∫t´n hei, sull'n ber meit geihn.
+vw	9775	Staszowice	1	Wau gei∫t du hei, sull beit meite gein?
+vw	9799	Lazy Wielkie	1	Wou gaih∫t ´n du hai, sull'n wer mit d'r gaihn?
+vw	983	Gromaden	1	Wo'ä jeh∫t diu hänn, schö/:ö kurz:/ wie mit die gauä
+vw	984	Friedberg	1	Waëgeh∫t du henn, schöw wi mit di gauä?
+vw	9848	Godnowa	1	Wo geih∫t de hei, sulln ber meite geihn.
+vw	9877	Chroscina	1	Wau geih∫t diu hei, sull'ber meit där geih'n?
+vw	9891	Gosciejewice	1	Wau gei∫t du hei, sullen wir mit die geihn?
+vw	99	Trumiejki	1	Wo geh∫t du henn, sull wie mött di ga͡one?
+vw	990	Walownica	1	Wo geh∫t henn, söln wi mit di gone?
+vw	9903	Sonnenfeld (Orpischewo)	1	Wau gei∫t du hei, sulln ber meite/:mitder:) gein?
+vw	9919	Wierzowice Male	1	Wau geih∫t du hei, sull ber meite geihn?
+vw	9926	Wodniki	1	Wau geih∫t du hei, sull ber meite geihn?
+vw	994	Kabat	1	Wo ge∫t du henn, sö wie met die gehen?
+vw	9984	Morkowo	1	Wau geih∫t diu hei, sulber mit där geihn?
+vw	54872	Reval	1	Woïn ͜ jēstu, ssoln ͜ wer mittir ͜ mítkommen?
+vw	52353	NA	1	Wo gehst du hänn, sell wi mett die gohne?
+vw	30173	Ajoncourt	2	Oues que te vè, dwange allèe ovo te
+vw	30197	Vaxy	2	Où asse que t´vâ, je v'lan allaot avo te.
+vw	30214	Bénestroff	2	Ouasque te vâ Je devons ty alle avo teu?
+vw	30225	Attilloncourt	2	ou as que te va fa ti allè avec teu
+vw	30248	Bezange-La-Petite	2	Ou ace que te ve? fa ti aller avo te?
+vw	30254	Maizières-Lès-Vic	2	D'ou ace que t'vâ? Fâ-t-y alé avo te
+vw	30268	Richeval	2	Ou est-ee que te vais? Fat-i ollai oron ti
+vw	30285	Lommerange	2	Au que te vas d'vons che aullai avien té
+vw	30314	Argancy	2	Eyou quett´va, vieutte que j'allisse évaa teu?
+vw	30325	Vernéville	2	Oesque´ t´va, fo ty ollëe e'vo té?
+vw	30351	Ancy-Sur-Moselle	2	Eyou que te va? devange ollet évou tet?
+vw	30361	Orny	2	Et iou e´que´ t´va? ?f?ot y allé é vaté?
+vw	30374	Hémilly	2	Ou est ce que te va, devans je alle eva te
+vw	30379	Champenay	2	Uos ket wä? je duon ollä äwon ti?
+vw	30410	La Petite Lièpvre	2	Vass que test ve, devô no allait est vo ti?  / Ou vas-tu, dovons-nous aller avec toi?
+vw	30421	Montreux-Vieux	2	No dain allê aivo toi vou que te vieré.
+vw	30429	Xhoffraix	2	Wiss vasses d´vlans aller  avou ti?
+vw	30436	Pont	2	Wis vass, fâ-t-i mni avou?
+vw	30058	Karkelbeck	3	Kur einį tu, turim meſ ſu tawim drauge eitį?
+vw	30068	Kinten	3	Kur tu eiti, ar mes turim su tawim draugi eiti?
+vw	30078	Rudienen	3	Kur eini, ar més ſu tawim drauge eisim?
+vw	30083	Kolleschen (Kolletzischken)	3	Kur, tu eine turem mes fo fo tawim drauye eite.
+vw	-54895	Warszawa	10	wīən gę̄isti ī́n, s̥ol̥n mīər mid diər mı̇́dga̮in?
+vw	9746	Kobyla Gora	10	Wie gaiſt dü hin, ſollen mir mit dir gain?
+vw	46572	Nebel	11	Hur gongst hen, skæl wi mæd di gong?
+vw	46636	Hooge	11	Wear goangst döe hannea, skean wi mea dia gongea.
+vw	46640	Wobbenbüll	11	Wir gongst dü hene, schenn wie me di gonge?
+vw	46699	Horsbüll	11	Wehr gangſt dö henne ſkelle wie ock me die gange.
+vw	46759	Oland	11	Wirr gongst dö hanne, skin wi me di gonge.
+vw	46773	Mönkebüll	11	Wer gongſt dö hanne, ſjen we me de gonge?
+vw	46888	Archsum	11	Hur geist dü hen, skell wü (3 od. mehr) (watt 2.) me di gung?
+vw	47862	Helgoland	11	Wéăr góŋste hĕ̀n, skèlwe mèddĕ góŋ?
+vw	48241	Wangerooge	11	Wer gungſt du weeg, ſill wie mit die gung?
+vw	F002p	Hindeloopen	11	Wu' geest henne? Souwe" mei die gaän?
+vw	B079p	Zurich	11	Wēr giestū hinne? Sulle huij mei dy (?dij) gean?
+vw	F036p	Oudemirdum	11	Wĕ̀ gí̆̀est hĭ̀nə? Sŏ̀wə mai dĭ gean? ?gine Gott
+vw	F003p	Woudsend	11	NEU: Wè gîst tó hənne? Solle wei mei dei gén?
+vw	B084p	Wommels	11	Hwer giest hinne? Seille we mei dij gean?
+vw	F013c	Oudehaske	11	We(r) giêst do hinne? To we mei dy gjin?
+vw	B094p	Grou	11	(H)ver gi:əst(ow) hinə? Si(lə) və [vɛj] majgi:ən?
+vw	B024b	Wijns	11	wε:r gist hɪnə? Sɪlə wi mai di gɪən?
+vw	B099a	Opeinde	11	Hwer giest' hinne? Scille wy mei dy gean?
+vw	B035a	Zwagerbosch	11	Wer gjist hinne? Siwwe mei dy meigêên?
+vw	B014p	Paesens	11	Wer seilst hinne? Scille wy mei? 
+vw	G001b	Appelscha	11	Wer giest henne? Zou we mei geen? 
+vw	46905	Westre	12	Wor gäer do hen, skall vi go mé dé?
+vw	46914	Sophiental	12	Wo gōr do hen, skal vi gaa med dæ?
+vw	46932	Sonderburg (Sønderborg)	12	Wŏ gē du hen, ʃka wi go me dei?
+vw	46938	Lysabbelholz (Lysabildskov)	12	Wo gä du hen ska vi go med dei?
+vw	46939	Toftum	12	Hu' gæer do' hen', ska' vi' gaa mæ' dæ'.
+vw	46948	Hönning (Hønning)	12	Wor gæer dæ hen, skal vi gaae med dej.
+vw	46957	Beftoft (Bevtoft)	12	Hwar gær do hen, [sk?]ull vi gaae med dæ?
+vw	46968	Norder Wilstrup (Nørre Vilstrup)	12	Vo gæ do hen, ka vi gaae mæ dei?
+vw	47006	List	12	Wo geer du hen, ʃkal wi go med de?
+vw	47007	Jerpstedt (Hjerpsted)	12	Vo gær do hen ska vi gaa mæ dæ
+vw	47016	Ellum	12	Hvor gaaer do hen, skal vi gaan mæ dæ?
+vw	47029	Kassöe/Kassö (Kassø)	12	Hvor gaaer do hen, ka vi gaa me dei 
+vw	47040	Feldstedtholz (Feldstedskov)	12	Hvo gæe do hen, skae vi gaae med dæ
+vw	47048	Hagenberg (Havnbjerg)	12	Wo geä do hen, ska vi go mä dei?
+vw	47052	Hellwitt (Helved)	12	Hvor geær Do hen, skal vi gaa med Dei?
+vw	47057	Kamptrup (Kamtrup)	12	Vo goer do hen, ska wi go mæ die.
+vw	47066	Grönnebeck/Grönnebek (Grønnebæk)	12	Wo ge Do hen, ska wi gane mæ die
+vw	47073	Tyrstrup	12	Hwor gaaer do hen, ska' vi gaan mæ dei?
+vw	47078	Hvidding (Hviding)	12	Hvo gaar do hen, ∫ka vi gaa med dæ?
+vw	56471	Merzdorf	41	Żo żoż, deimü stebu ßobu hisch?
+vw	56504	Burg	41	Dźe dźesch, dyrbimy stobu hicź?
+vw	56507	Nochten	41	Dźe ty dźež, dyrbimy stobu hicź?
+vw	56520	Luppa	41	Hdźe dźeš, mamy z tobu hić?
+vw	56694	Widno	42	Gdzyz tẏ idzesz mamẏ mẏ isc z tobą!
+vw	56784	Zelistrzewo	42	Dzesz te gidzesz, mome me ztobo gic!
+vw	56785	Jastarnia	42	A gdzesz te jidzesz amome meztobó jic?
+vw	56799	Zalakowo	42	Gdze ty gidzesz, momy my z tobom gidz?
+wx	56805	Sianowska Huta	42	gde ty ÿidzesz mami mi stobum yic.
+wx	56814	Rebiechowo	42	Gdzesz te jidzesz, mome me z tobom jidz?
+wx	56846	Piechowice	42	Gdze te idzes, mome z tobą jisc.
+wx	53478	Rombark	43	Dokąd idzieś, mamy z tobą iść?
+wx	53489	Rytel	43	Gdzie ty idziesz, mamy z tobą iśĭ?
+wx	53514	Lubocien	43	gdzie ty idzieś, mamy ztobą iść?
+wx	53521	Kamionka	43	Gdzìe idzieś, mamy z tobą iść? 
+wx	53535	Orzelek	43	Gdzie idziesz mamy ztobą przysc?
+wx	53538	Szyroslaw	43	Gdzie jdziesz? mamy z tobą jsdź?
+wx	53545	Pisanica	43	Gdzię idziesz, mamy i mŷ z'tobą iść?
+wx	53567	Glinki	43	D'okąd idziesz, czy mamy iść z tobą?
+wx	53571	Gruczno	43	Gdzie Ty idziesz, czy mamy z Tobą pȯjść?
+wx	53581	Slawianowo	43	D'okąd idziesz, mamyz̀ takz'e iść?
+wx	53602	Zoledowo	43	Gdzie idziesz, mamy z tobą pójsc̈?
+wx	53616	Wrocki	43	Gdzie idziesz, czy mamy stoba iść?
+wx	53620	Morzewo	43	Gdzie idziesz, mamy iść z toba.
+wx	53656	Bartosze	43	Gdzie ty iydzies, czy i my mamy stobą iyść?
+wx	53663	Kraplewo	43	Dokąd idziesz, mamy i my ztobą iść?
+wx	53708	Pokrzydowo	43	Gdzie ty idzicse, mamy z tobą iść?
+wx	53710	Boleszyn	43	Gdzie idziesz, mamy iść z tobą?
+wx	53721	Nowy Swiat	43	Dokąd idziesz, mamy t tobą isc̈?
+wx	53745	Wapno	43	Gdzie ty idziesz, mamy iść z tobą?
+wx	53756	Mamlicz	43	Dokąd idziesz, mamy iść z tobą?
+wx	53760	Rojewo	43	Dokąd idziesz, czy mamy iść z tobą?
+wx	53771	Wiatrowo	43	Gdzie ty idziesz, mamy my z tobą iść.
+wx	53819	Galezewo	43	Gdzie ty idziesz, momy z tobą iść?
+wx	53822	Lojewo	43	Gdzie ijdziesz, czy mamy ijść z tobą?
+wx	53834	Bielawy	43	Gdzie idziesz czy mamy iśćz tobą?
+wx	53859	Chludowo	43	Dokad idziesz, czy też pójdziemy ztoba.?
+wx	53872	Strzyzewo Koscielne	43	Kaj idziesz, czy mamy iść z Tobą.
+wx	53877	Kamieniec	43	Gdzie ĭdzicsz, mamy z tabą ĭść?
+wx	55537	Ceradz Koscielny	43	Dokąd idziesz, mamy iść z tobą?
+wx	55565	Poznan	43	Gdzie idziesz, momy tcż z tobą iść?
+wx	55569	Lowecin	43	Gdzie idziesz, czy z tobą iść mamy?
+wx	55586	Mierzewo	43	Dokąd idziez czy mamy iść z tobą?
+wx	55592	Dabrowka Wielkopolska	43	Gdzie ty idziesz, mamy też z tobą i’sć?
+wx	55593	Slupia	43	Gdzie idziesz, mamy iść z tobą.
+wx	55621	Babin	43	Dokąd po'jdziesz, czy mamy iść z tobą?
+wx	55635	Tadeuszowo	43	Gdzie ty idziesz, czy z tobą mamy iść.
+wx	55646	Gorazdowo	43	Gdzie idziesz, mamy z tobą iśdz.
+wx	55656	Sierakowo	43	Gdzie idziesz, czy mam z tobą iść.
+wx	55688	Turew	43	Gdzie idziezi mamy z tobą iść.
+wx	55701	Ludwinow	43	Gdzie ty idziesz mamy ż tobą iść.
+wx	55702	Radomierz	43	Gdzie /dzie/ idziesz, màm iść z tobą
+wx	55720	Kotlin	43	Gdzie ty idziesz, pojdziemy tez z tobą.
+wx	55725	Gorzno	43	Dokąd idziesz, mamy iśdź z tobą.
+wx	55729	Drzeczewo Pierwsze	43	Dokąd idziesz, mamy iść z tobą
+wx	55733	Rusko	43	Gdzie jdziesz, czy mamy iść z tobą?
+wx	55741	Brzezie	43	Gdzie ty idziesz, mamy tcz z tobą iść.
+wx	55782	Torzeniec	43	Dokąd idziesz, czy mamy z Tobą iść?
+wx	55794	Kuznica Slupska	43	Gdzie idziesz, mamy iṡć ztobą?
+wx	55803	Kuklinow	43	Gdzie idz iesz mamy ztobą iść?
+wx	55828	Pomocno	43	Dŏkąd idziesz, mamy tež z tobą iść?
+wx	55848	Uciechow	43	Gdzie idziesz, mamy z tobą iść?
+wx	55855	Przygodziczki	43	Dokąd ty idziesz, mamy iść z tobą?
+wx	55859	Kaliszkowice Kaliskie	43	Kai /gdzie/ idziesz, mamy iść z Tobą?
+wx	55878	Trebaczow	43	Dzie to idzies, mómy tez z tobą iś.
+wx	55894	Greboszow	43	Dziez idźez, momy z tobom isz?
+wx	55900	Pawlowice Gorzowskie	43	Gdzie ty idzies, mómy z tobą iść
+wx	55940	Skoraszewice	43	Gdzie idziesz, mamy tcz iść ztóbą.
+wx	55947	Kwiatkow	43	[Satz 12 nicht übersetzt: in Formular steht an der Stelle Satz 13, bei Satz 13 dagegen leer] 
+wx	55991	Zabrze	43	Kazto idziesz momy tyź z tobą isć. 
+wx	56013	Radoszowy	43	Gdziesz to idziesz, momy tež z tobą iść?
+wx	56022	Budziska	43	Kandy to idziesz, mogiemy tysz z tobom iść?
+wx	56027	Stanica	43	Gdzie ty idziesz, mamy my tesz stobǫ iść?
+wx	56041	Murcki	43	Karz idziesz, momy stobą iś.
+wx	56053	Wilkow	43	Dźyż to idzież, mómy stobą iśdź?
+wx	56069	Dobieszowice	43	Gdziesz idziesz, mamy iść stobą?
+wx	56077	Ujazd	43	Kaž to idzierz, momy z tobą iść?
+wx	56086	Rzeczyce	43	Kan ty idziesz, momy ztobą ìśč?
+wx	56167	Staniszcze Male	43	Kanž to idziesz, momy my z tobą iść?
+wx	56190	Ligota Proszkowska	43	Kaisto idzies, momy iśc z tobą?
+wx	56205	Radonia	43	Gdzie ty idziesz mamy my stobą isć?
+wx	56237	Kotorz Wielki	43	Kandyz to idziez, mómy isć z tobą?
+wx	56247	Pawonkow	43	Kaiń to idziez, mamy też z tobą iść?
+wx	56252	Cieszowa	43	Kaj ty idzies, momy my z tobą iś?
+wx	56257	Zieliniec	43	D'ziez ty idzies, mómy z tobą iść?
+wx	56269	Debiniec	43	D-sysz tó idzesz, mamy tesz stobóm isztc?
+wx	56274	Wedrynia	43	Gdrzie ty idziesz, mamy z Tobą iść!
+wx	56338	Frydek	43	Kąz idziesz, mamy tyz stobą iść?
+wx	56349	Pielgrzymowice	43	Gdzie ty idziesz, mamy my terz z tobą iść
+wx	56375	Nieboczowy	43	Kan idzesz, …
+wx	56381	Swierklany Dolne	43	Gdzie idziesz, mamy ztobą iść?
+wx	56539	Gieralcice	43	Gdziéź idziesz? czy mamy iść z tobą?
+wx	56549	Borki Wielkie	43	Gdzie ty idziež, mamy z tobą iść?
+wx	56576	Kamien Slaski	43	Gdzie idziesz, mamy z toba iść.
+wx	56580	Strzelce Opolskie	43	Gdzie idziesz, mamy ztobą iść?
+wx	56600	Tarnowskie Góry	43	Kandy idziesz, mamy stobḁ iść?
+wx	56650	Bujaków	43	Gdzie Ty idziesz, mamy z tob iść?
+wx	56681	Suszec	43	Gdzie idziesz, mamÿ z tobą iszcz?
+wx	56761	Mgowo	43	Gdzie ty idziesz, mamy (my) stobą iść? 
+wx	56850	Lekarty	43	Gdzie ty idziesz, mawa my teź iść z tobą?
+wx	56861	Lewald Wielki	43	Keni idzies, mawa my ztobo isc?
+wx	56870	Januszkowo	43	Kéni ty idzies, mawa i my stobą iść?
+wx	56877	Zimna Woda	43	Gdźe idźes ty, mamy my stobo iść?
+wx	56884	Roklas	43	Gdzie ty idzes, mamy stobo iść?
+wx	56897	Lipowiec	43	Gdzie idzies tÿ, mami mi stobo iść 
+wx	56903	Zawojki	43	Gdzes ta idzes, mami mi stobo ischt?
+wx	56916	Slawka Mala	43	Gdze idzes, mamy z tobo iszr?
+wx	56953	Baranowo	43	Gdzÿs idzes, mamÿ stobą isc.
+xy	56956	Macice	43	Gdzie idześ mami ztobo iść.
+xy	56963	Narzym	43	Gdzie idziesz, īi mamy z tobą isc?
+xy	56966	Napierki	43	Kendi ty idzes, zÿ mÿ stobo prozis mami
+xy	56975	Mierki	43	Gdzie idziesz, mana my z tobą iść?
+xy	56979	Butryny	43	Gdzie ty idziesz, czy mawa iść z tobą?
+xy	56994	Jerutki	43	Gdzée tÿ jdzész, czy mÿe ztobǫ poÿdziemÿ?
+xy	57047	Nowy Dwor	43	Gdzie idziesz ŷÿ, czŷli imŷ ztobą iść mamŷ?
+xy	57066	Wysoki Grad	43	Dokąd idzies cy mamy ztobo isć.
+xy	57070	Pogobie Srednie	43	Gdzie ty idziès, mamy my s tobą iść.
+xy	57074	Lipnicken (Lipniki)	43	Gdzie ty idziez mamy ztobo isc.
+xy	-57081	Klebark Wielki	43	Gdzie (dokąt) ty iydziesz, , mowa (mamy) stobą iys'e.
+xy	57106	Rybno	43	Do kąd tÿ idziesz, mamÿ ztobą iść?
+xy	57168	Saplaty	43	Gdzie tÿ idziesz, czÿ mÿ tez mamÿ stobą iśċż?
+xy	57181	Krutyn	43	Gdzie ty idzies, mamy stobo ischtsch?
+xy	57183	Zdory	43	Gdziez iydzies̄, czys̄ mamy ztobą iysc? 
+xy	57186	Ruda	43	Gdzie ty idziez, cy i my pudziem z tobo
+xy	57191	Dybowo	43	Gdzie ty idziesz, mamy my z toby iść.
+xy	57203	Dlugosze	43	Gdzie ty idzies, …
+xy	57219	Sulimy	43	Gdzie idzies, mamÿ i mÿ z tobo przÿśė?
+xy	57232	Wejdyki	43	Gdzie idziez, czy i my mamy z tobo iść
+xy	57258	Wilkasy	43	Gdziesz idziesz, mamy i my stoba iść?
+xy	57275	Czerwonka	43	Gdzie to idzieś, mowa z tobą iść?
+xy	57298	Zastruzne	43	Gdzie ty idziesz, mamy i my z tobą iść.
+xy	57304	Skomack Wielki	43	Dokąd idzies, …
+xy	57318	Kile	43	Gdzie idzies tÿ, mamÿ mÿ z tobó iść?
+xy	57321	Prawdziska	43	Gdzie ty idześ, cie tez z tobo podzym?
+xy	57340	Mosina	43	Dzie idziesz. Momy isć z tobom.
+xy	57348	Bnin	43	Gdzieź idziesz, mamy pojść z tobą.
+xy	57379	Binkowo	43	Gdzie lejziesz, mom leź z tobom?
+xy	57381	Kolniczki	43	Gdzie idziesz, mumy iść s tobą?
+xy	57394	Januszkowo	43	Kaj ty idziesz, powinnim iść z tobą.
+xy	57406	Dabrowka Ludomska	43	Gdzie jidziesz, momy jiść z tobąm.
+xy	57407	Wiecanowo	43	Gdzie idziesz momy iśċ z tobą.
+xy	57397	NA	43	gdzie ty idziesz moma my tysz złbą iści?
+xy	55528	Słone	44	Kampak jdež, mame it stebou?
+xy	56290	Groß Hoschütz (Velke Hostice)	44	Kai iděš, mame stebu išt̆?
+xy	56344	Ellgoth-Hultschin (Ostrava-Lhotka)	44	Kaj jdes̋, mame s tebau jist̆?
+xy	44317	Zell-Pfarre	45	Kam hreš ti, a hremo s tbo?
+xy	I125a	Heille	100	Wōa gŏa jo nŏa toe? Zummə měe oeu meejgōan.
+xy	I140p	Axel	100	Woa ga ji na toe? Moeten we meegaan?
+xy	I103p	Cadzand	100	Na wa ga je? wimmen mee je meegaan?
+xy	I110a	Slijkplaat	100	Waar gao je naa(r) toe? Zumme mee je meegaon.
+xy	I095p	Hoedekenskerke	100	Waer gae je na toe? Zu me mie je meegae?
+xy	I101p	Krabbendijke	100	Wae gae je nae toe? Zu me mi je meegaen? 
+xy	I058p	Westkapelle	100	Wì gè je nì toe? Lŭ̀̀lə mə mḗ tjə mḗ gê
+xy	I062a	Serooskerke	100	We ge e ne toe. Kun me mee.
+xy	I048p	Colijnsplaat	100	Wê gājə nètu? Zömən mētjə mēgê?
+xy	I055p	Sint Annaland	100	Wè gè je nè toe, mommen meetje meegèn.
+xy	K173a	Kruisland	100	Wâar gâode  nar toew? Zullen we meejaew meegâon
+xy	K155p	Zevenbergen	100	Wor gŏadǝ nor toe? Zummǝ mĕleo meēgōan.
+xy	K162a	Oosteind	100	Wōar gōadǝ nōar toe? Zullə wə měej əw mēējgōān?
+xy	I032p	Burgh-Haamstede	100	Wae gae je nà toe? Zammen of ?s?ummen mitke meegaè?
+xy	I031a	Scharendijke	100	Wi gae je nae toe? Zunin mit je meegae?
+xy	I023p	Dirksland	100	Waer gae je heen? Hodde wiell mit je meegae?
+xy	K086p	Zuid-Beijerland	100	Wèr ga je hèn? Zelle we met je mēgān?
+xy	K093p	'S-Gravendeel	100	Wær gao jə næ̆ toe? Zě-mə mi-jə meegaaon?
+xy	K101a	Nieuwendijk	100	Waor gaode nao toe? Zě[lle]we meej oe meeigaon.
+xy	I008p	Rockanje	100	Waar ga je na toe? Zelle we mit je meegaen?
+xy	K042a	Vlaardingen	100	Waor ga je een? Zelle me mit je meegaan?
+xy	K012p	Ouderkerk Aan den Ijssel	100	Waèr gao je naè toe. Selle me met je meegaon.
+xy	K022p	Willige Langerak	100	Waar ga je heen? Zu me met je meegaan?
+xy	D005p	Den Haag	100	Wa χa jǝ nǝtu? Zylǝwǝ met jǝ mēχān?
+xy	E179p	Zwammerdam	100	Wa ga' je na' toe? Zelle me met je meegoan?
+xy	E181p	Zegveld	100	Wā̄́r gā̄́ jə hē̄́n? Zŭ̀llə wə mĕ̆̀t (mit) jə mē̄́gan?
+xy	E133p	Katwijk Aan Zee	100	Wêr gêjnêtoe? (Oder: gêgnêtoe?) Mằddǝ wǝ (wŭ̀llǝ wǝ) mằt/mut jǝ mēgên?
+xy	E138b	Abbenes	100	Waar goa je naor toe. Selle we met je meegoan.
+xy	E147a	De Kwakel	100	Waar ga je heen (nar toe) Zalle we met je meegaan?
+xy	E080a	Velsen	100	Waar cha ja heen? Salle we met je meegaan?
+xy	E086p	Zaandam	100	Waar gaan je heen (beter: naartoe) ?Z?ellu we met je meegaan?
+xy	E041p	Egmond Aan Zee	100	Weer gae jə iən? Zellə wə mit jə miəgaen. 
+xy	E047a	Stompetoren	100	Weer gaan je nei toe? Salle we met je meegaan?
+xy	E010p	Sint Maarten	100	Wier gaan je nei toe? Zellen we mit je meegaan?
+xy	E005p	Westerland	100	Weer ga je na toe? Zelle we mit je meegaan?
+xy	A009p	De Waal	100	Weer ga je na toe? Zelle we mit je meegaan?
+xy	K218p	Bladel	100	Wŏor gŏade hennǝ? Zullən mĕen měejgŏan?
+xy	K214p	Lage Mierde	100	Waar ga de henne? Zul 'n met 'n meegaon?
+xy	K165p	Udenhout	100	Waor găode năo toe? Zummə mě oe meegaon? 
+xy	K104a	Herwijnen	100	Woar goa de nò toe? Zu?n? ?w?e mi d'oe meegoan.
+xy	K035p	Hei-En Boeicop	100	Waar ga je naa toe. Zulle ?wn? mijji meegaan?
+xy	E192p	Utrecht	100	Wâar gâ je hēnen (naar korte/i zwemen?d?)? Zelle me mit je meegâan?
+xy	E124p	Ankeveen	100	Waar ga jij naar toe? Zal ik je oplopen
+xy	E091p	Monnickendam	100	Waar ga jə heen? Zullə wə met jə meegaan.
+xy	E058p	Hoorn	100	Waar ga je heen? Salle we mit je mee gaan.
+xy	E031a	Oostwoud	100	Wḗr gā́n jə nei toe? Zĕ̀llən wə mĕ̀t jə mḗgā́n?
+xy	E003a	Den Oever	100	Weer ga je naar toe? Zelle we mit je meegaan?
+xy	Q095p	Maastricht	100	Boe geis te nao tou? Wille veer meit (korter) gaon.
+xy	L281p	Borkel	100	Wór ga de kenne. Wille wə mé oeuw mégân?
+xy	L226p	Woensel	100	Wor goădə hěenə? Zammə měew mēēgŏan. (eer)
+xy	L177c	Middelrode	100	Woor gò de nò toe. Zomme miw meegoon.
+xy	L093p	Lith	100	Wor goăde hēēnə (eer) zummə měew měegōān.
+xy	L003p	Maurik	100	wɔ:r ɡɔ: də hɛn? zələ wə/zəvə mɩd u meiɡɔ:n?
+xy	F165p	Amersfoort	100	Wṑr gṑ je heen? Sulle we mXt jé meegṑn?
+xy	F121p	Bunschoten-Spakenburg	100	Waor gi(h) je heen? Zullen wie mejje mee gin (gerekte i)
+xy	E040a	Venhuizen	100	Weer gaan je nei toe? Zelle we mit je meegaan?
+xy	E040p	Enkhuizen	100	Weer gaan je 'een? Zelle we mit je mee gaan?
+xy	A001p	Midsland	100	Waar gaast hin zul wij met gean (met dij)
+xy	Q102p	Sint Antoniusbank	100	Wōe geis te hēēn? Zalle ver mèt tech gōōn?
+xy	L318p	Stramproy	100	Woë geistǝ hāir. Zullǝ wai mèt dich mètgāōn?
+xy	L288b	Laar	100	Woi gei (vg. blein) _se hêr? Zŭ̀llə vê mḕt tū̄̀h meigoan (vg. ?k?lein)
+xy	L237p	Helmond	100	Wor godde heen. Zalle me mi ae meegōn
+yz	L157a	Oventje	100	Wor go de hen? Zuloew mi ow meegoon?
+yz	L102p	Ravenstein	100	Waor gao də hēn? Zyu̯ə meu̯ mēgāon
+yz	L010p	Wageningen	100	Woa goa je hie/ìàn? Ze zulle wè mè je meegoan? 
+yz	F170p	Barneveld	100	NEU!!! Woar goa je heejn? Zu we mit je meegoan?
+yz	F124p	Putten	100	Waar gao jə heen? zulən wə mit je meegaon? 
+yz	F077p	Urk	100	Woar gõan je e͂ne? Zullen we mut je mie͂ gõan?
+yz	B046a	Minnertsga	100	Wer giest' hinne? S?ci?lle wy mei dy gean?
+yz	L290p	Panningen	100	Wu geu̱zdu hên? Zylsuə mitiX mit Xaon?[ALT: Wu gezzdu hên? Zijlənə mitiχ mitχaon?]
+yz	L211p	Leunen	100	Wòr gòdde hɪn? Zun-we (of Zuwwe) mɪd-ów mɪt gaon
+yz	L116p	Beek	100	Wor gao de hin! Zuwwe m?ad? ow metchaôn. 
+yz	L023p	Arnhem	100	Wö̆r chŏa jə nor toe? Suwwə met jə meechōan?
+yz	F173p	Hoenderloo	100	Wòr gò: je no:r toe? Zullən wili met joe meegòan?
+yz	F128p	Vierhouten	100	Woar gao je hinne? Zuwwe met je meegoan?
+yz	F102p	Oldebroek	100	Waor hinne gaoj? Wilt wie met gaon?
+yz	F079p	Ens	100	Woar gä jie noe éne? Zäwe mit jie meegän?
+yz	F052p	Kuinre	100	Woar goa'j ennə, zə: wə mit jə meegoan?
+yz	B002p	Nes	100	We̱e̱r ga̱a̱n je heen? Zi̱lle we met je meegaan?
+yz	F207p	Drempt	100	Waor gaoj hen? Zöw met oe metgaon?
+yz	F179p	Zutphen	100	Woar gôai hen? Zuiwe met oe meegoan? 
+yz	F132p	Diepenveen	100	Woar gaaj hen, zulle wie met oe meegoan
+yz	F106p	Windesheim	100	Waor ga je ěn? Zou we met je  meegoan?
+yz	F086p	Rouveen	100	Woer gò'j hèn? Zu'w mìt oe mīr gṑn?
+yz	F060p	Steenwijk	100	Woar goa'j èn? Suwe met oe mitgaon?
+yz	F021p	Oldeberkoop	100	Woar goa'j henne. Zullen wi-j mit je mitgoan?
+yz	G279a	Zieuwent	100	Wōar gōai hěen. Zŭ̀w met əw gōān.
+yz	G246p	Lochem	100	Wao:R gao:j hɛn? Zœw (= ö in Götter) mɛdu mɛtgao:n? 
+yz	G197p	Holten	100	Woer gòò 'j hèn̂? Zù'w mèt ve gòòn.
+yz	G139a	Arriën	100	Woer goj hèn? Zuw me͂t oe goan? 
+yz	G091d	Linde	100	Waor gôj hen? Zullə wy mit ve gaon?
+yz	G024p	Dwingeloo	100	Woar goj (Strich zu von "o" hoh) hen, zu wi'j mit oe gon.
+yz	C145p	Zevenhuizen	100	Woar geist hền? Sèwie met die goan?
+yz	C063p	Oldehove	100	Woar gaist hìn? Zel wie met die met goan.
+yz	C023a	Hornhuizen	100	Woar gais hìn? Sèl wie mìt tie mìt goan? 
+yz	G257p	Haaksbergen	100	Woo(r) gao'j he(n)? Zö(l) we met oe met gao(n)?
+yz	G173p	Almelo	100	Waor gaoj hen. Zouw met oew meegaon. Of vertrouwelŷk Waor gee ste hen? Zouw met diij met gaon.
+yz	G094p	Gramsbergen	100	Woor goa 'j noa toe, ?z?ö'ur met o'ur metgoan?
+yz	G031p	Orvelte	100	Woor gaoj hen? Zuw met gaon.
+yz	G007p	Rolde	100	Woar goa'j hèn? Zúw met [je met] goan?
+yz	C148a	Glimmen	100	Woar gaist hên? Zè wie mèt die mèt-goan? 
+yz	C070a	Sint Annen	100	Woar gaist hin? Zeln wie mit die mit goan.
+yz	C001b	'T Lage Van De Weg	100	Woar gai's èn? Zell'n wie mit tie goan?
+yz	G079a	Amsterdamscheveld	100	Wṑr gṑ je hèn? Zullen wijj mt joe (met)gṑn.
+yz	G058p	Emmen	100	Waor gao j' hen? Zuw met je gaon?
+yz	G012a	Nieuw-Buinen	100	Waor gaist doe (h)in? Zell'n wie mit die gaon? 
+yz	C156p	Muntendam	100	Waor gaist èn, zevve mittie métgoan.
+yz	C081p	Weiwerd	100	Wó̄r gaist nó̄r tou? Zĕl'n wie mitgó̄n? (Wilst dat wie mitgó̄n?)
+yz	C042p	Spijk	100	Woar gais e he͂n? Zel wie mit die goan? 
+yz	C165p	Bellingwolde	100	Wóar gaist hên? Zêve mit tie gòan?
+yz	G285p	Meddo	100	Waôr gaô-i-j hen? Zölle wi-j met ôw metgaôn.
+yz	K189p	Essen	100	Woar goad enne (nortĕuw), weumme mè jouw meïgoan?
+yz	P133a	Terlanen	100	Woë gemme (e toonloos) hène wille me mi a meegoë
+yz	K191p	Meerle	100	Waor gao de hennen, wulle we mée oe meegaon?
+yz	K234p	Wechelderzande	100	wa: ja: olə henə zyləwə me: əe: me:ja:n
+yz	K305p	Olen	100	Wōa gāo-də hènnən/rə hènnən, willəwa me: ga͂on me: e͂
+yz	P025p	Aarschot	100	wɔ[ɔ durchgestrichen]ö gɔö dę[ē̌ darüber geschrieben]nə wilə mə mējā mēgɔ[ɔ durchgestrichen]ön
+yz	P154p	Outgaarden	100	ugọxęinə mutəwęlə bẹdux męi gọən
+yz	K196p	Poppel	100	Waar ga-de henne of naatoe (alle 2 gebruikt) willen me (met oŭw) meegaa
+yz	K241p	Retie	100	wɔ gɔdə hęn weləmə mejä mē igɔn̄
+yz	K314a	Gompel	100	wǫ gɛerə hęnn welə wə mē əf mēgǭn
+yz	P047p	Loksbergen	100	Moeə goide gij hējne, wille we bī ōēg miegŏin
+yz	P174p	Velm	100	Moe go dje hene, wille we be oeg miegooën
+yz	L353p	Eksel	100	Boe gaot de hennen, willen we met oech mee gaon
+yz	Q001p	Zonhoven	100	mu gōudər hēnən wiləvər bẹtox miə gōən
+yz	Q079p	Guigoven	100	bu ɣọi džiẹ henə mọṷɣə və mẹt xoḙn
+yz	L360p	Bree	100	buə gɛjstə hiənə (nɔtu) willə və mɛttix guən
+yz	L417p	As	100	Boë geist-e, of goader hiëne? Wille we met oech goën
+yz	Q253p	Montzen	100	ōēwə gistə hee, zoovər mit och gŏowə?
+yz	O009p	Gottem	100	Waar ga ge naartoe, wim me meegaan mee ui?
+yz	O182p	Volkegem	100	Woër goë-je/goë-je-gij noërtoe, wil'n-me mee ui meegoeën; Erklärung: wil'n-me  : n = nas
+yz	I163p	Oosteeklo	100	woər goə noərtu wɛ mə me: goən
+yz	I243p	Destelbergen	100	Waoa gade noartoe wime me oe meigaan
+yz	O112p	Elene	100	Waar ga ǝ naartoe dǝ, wi mǝ (willen we) mee ou ne keer meegaan.
+yz	I261p	Appels	100	Wâor gâo-de nortoe, wille-we mé ô meegôan
+yz	O149p	Iddergem	100	W- gȏja no tu? Willə mən mɛ a me goŋ
+yz	O275p	Herne	100	Wu gu, jəå nutū willəmə meXXǫ mēɣuən
+yz	I178p	Beveren	100	Woir goude gei nartoe, wille we meē ou meegoun
+yz	I268a	Kalfort	100	Wāxöd ēnə / zelə mə mēi ā mēxān
+yz	O178a	Molenbeek-Saint-Jean	100	Woe go j eine Wille me mē a meigoen
+yz	P198p	Sint-Genesius-Rode	100	woe gozre nootoo
+yz	55045/H051p	Wulpen	100	nɔwɔgjə møgmə mɛjgɔ:ən mɛjə
+yz	55005/N024p	Westvleteren	100	wɔ gɔə mumemɛgɔə
+yz	N116p	Loker	100	nǫ wɔwa gɔwajɛ mogn mɛ mɛj Jgɔwã
+yz	H016p	Oostende	100	Nə wɔgɔjə wɛmə me gɔ:n məejə
+yz	55036/H061p	Koekelare	100	wɔ gɔə: dəe wɛkme:  gɔən?
+yz	55022	Houthulst	100	Waa gaai tè, moeme mee gaan?
+yz	N130p	Wervik	100	Wàer gae je naetoe? Zoe me mē joe meigae?
+yz	H005p	Uitkerke	100	Wao gao je dè naotoe, meugen we /of me mee oder Wimme mee  mē-je Pfeil von mē zu onzuiveXX e klank / gaon mè-je
+yz	55044/H068p	Loppem	100	wɔə gɔə nɔ tu da, wɛmə me: gɔən 
+yz	N041p	Pittem	100	Boë geist-e, of goader hiëne? Wille we met oech goën
+yz	55023/N141p	Kortrijk	100	Wɔ gɔ jə nɔtū węmə (mømə, mogən wy) mädy mēgɔn
+yz	K245p	Deurne	100	Wôr gôdə nötoe, willəwə mejaauw meegôn?
+yz	K332p	Onze-Lieve-Vrouw-Waver	100	Wou gou d' hénne, wille me mé aa mee goun
+yz	P018p	Kampenhout	100	Wou gooir ene, wille me mee aa meegon
+yz	47114	Aarö (Årø)	12	Vo gæe do hen, ska vi gaa med dei?
+yz	56462	Babow	41	Źo ty pojźosch, dejmi my ßobu hysch?
+yz	53549	Zon	43	Gdzie idziesz, czy mamy isć z tobą?
+yz	53561	Myslowice	43	Gdzie idziesz idziesz [sic!], momy ztobą iść!
+yz	43859	Schachendorf	46	Kamoc̄es̄ idemo i mi iz tobom

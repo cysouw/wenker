@@ -1,0 +1,28 @@
+rmarkdown::render("sentence3.R")
+getwd()
+library(qlcVisualize)#
+library(qlcMatrix)#
+library(qlcData)#
+library(RColorBrewer)#
+library(spdep)#
+#
+# load functions to process data#
+source("../scripts/readData.R")#
+#
+# load metadata#
+meta <- read.delim("../data/metadata.txt")#
+#
+# make voronoi for plotting and load plotting functions#
+source("../scripts/plotting.R")#
+#
+#' Word order#
+#
+namesOrder <- "X tu hinein etwas die kohle hinein in den ofen einlegen hinein dass wird kochen die Milch wird bald wird fängt an anfängt zu kochen fängt anfängt wird"#
+#
+dataOrder <- getAlignSyntax("../data/WS3/WS3_1syntax.txt", 5, namesOrder)
+rmarkdown::render("sentence3.R")
+rmarkdown::render("sentence3.R")
+rmarkdown::render("sentence3.R")
+rmarkdown::render("sentence3.R")
+rmarkdown::render("sentence3.R")
+rmarkdown::render("sentence9.R")

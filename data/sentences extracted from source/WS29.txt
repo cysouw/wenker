@@ -1,0 +1,2499 @@
+Index	Bogennummer	REDE_Namen	Sprache	WS29::Transliteration WS29
+ab	10029	Ringhuscheid	1	As Bärg se net si=er hih, irr se vill hiher.
+ab	10044	Malberg	1	Ohß Berig sinn net sihr hieh de eiern s[ei/in?] fiel h[ie?]her.
+ab	1009	Nowy Klukom	1	Us Bääg sin ne se|eh hoch, jug (: g. Gaumenl.) sin vei|a höge.
+ab	1018	Lasko K Choszczna	1	Os Barg sin ni se hoch, jug sin fä a höje.
+ab	10215	Pantenburg	1	Ous Berg sein nöt sehr hüe, eier sen viel hüher.
+ab	1023	Golin	1	Os Baag sünn ni sehe hoch, juge sünn vill hööge.
+ab	10230	Beuren	1	Os Barg seé net sier huh, auer seé vill hua.
+ab	10259	Mörsdorf	1	Us Berg sei net ganz so huh, die auere sei viel hia.
+ab	10275	Badenhard	1	Us Berge sen=et sehr hoch, die aure sen viel höjer.
+ab	1029	Niekursko	1	Os Bag sin sehe hoch, jug sinn no veia höge.
+ab	10300	Welterod	1	Us Berge senn nett sihr huk, dej äjer senn vill heher.
+ab	10315	Bleidenstadt	1	Unser Be(a)rge sinn nitt sehr huch, die eiere sinn vill hiherr.
+ab	10335	Espeler	1	As Biërg sine nitt siehr heh; de irr sin vill hiher.
+ab	1035	Stobno	1	Os Bag sin ni sehe hoch, juk sin veia höge.
+ab	10351	Brandscheid	1	Is Bärg senn net sou hih, die eiren senn viel hiher.
+ab	10368	Büdesheim	1	Ous Bereg sinn nätt sir hi, euer sinn vill hier.
+ab	10381	Waldkönigen	1	Os Berg se-in net siehr hüh euer se-i vill hüher.
+ab	1050	Krostkowo	1	Us bag sün ni sehe hoch, jug sün väl h[öc/ä?]hn
+ab	10584	Kalenborn	1	Os Bärg seun net sür hu, de oauer seuen vil huer.
+ab	10601	Gappenach	1	Os Berg sein net siehr huh, de uhre sein vill hieher.
+ab	10621	Rhens	1	Os Berig sein net sihr huh, die euer sein vill huher.
+ab	10649	Attenhausen	1	Us Bärge senn net org huch, dei ouern senn vill hiher.
+ab	10663	Heringen	1	Us Berje san net su huch wäi die auern, auer sen hécher.
+ab	10690	Honsfeld	1	Os Berg sen net sihr höch, d'ör sen vell höcher.
+ab	10697	Dahlem	1	Oos Berg se net sier hu, ür se vell huer.
+ab	10709	Aremberg	1	Os Berg sen net sier huh, de euärä sen vill huher.
+ab	10736	Hohenleimbach	1	Oß Berg' sein net arg huh, eur sein vill hüher.
+ab	10857	Hatzfeld (Eder)	1	Inse Berge sei net sehr hok, owe sei viel heger.
+ab	10974	Haindorf	1	Ons Bährk sen net sehr hoch, (de) euere sen vil höcher.
+ab	110	Rozpedziny	1	Ons Barg send nich sehr hoch, jun send vel höcher.
+ab	11132	Schwarzwald	1	Unse Bârge sinn nech siär huâch, die ubbere sinn veâl höcher.
+ab	11149	Wipfra	1	Onse Bärge sinn nech sihre huech eire sinn väel höcher.
+ab	11180	Remda	1	Unse Bärge sinn nech sihre huch, abber eire sinn väl hächcher.
+ab	11197	Zeutsch	1	Unse Barge sin nich sehr huch, eire sin viel hicher.
+ab	11212	Breitenhain	1	Onse Barge sin̄ nech sehr huch, eure sin̄ viel höcher.
+ab	11230	Burkersdorf	1	Unsre Baerge sin̄ nich siehr huch, die ären sin̄ viel höcher.
+ab	11252	Seelingstädt	1	Unsre Barge sind nicht sehre huch, die euern sin viel hüher.
+ab	11262	Seebach	1	Unsere Bäri sin nich sihr huch ubere sin fel hücher
+ab	1133	Debenke	1	Os Baj sünn ne sehe hoch, abe jug sünn noh vehl höge.
+ab	1139	Gliszcz	1	Uhs' bag sinn nÿ seä houch jugg sinn fähl höge.
+ab	11467	Boilstädt	1	Onse Bärge sinn nech sähr huch, däh äubern sinn viäl höcher.
+ab	11485	Ingersleben	1	Onsre Barge sin nech sir huoch, ewre sin vial höcher.
+ab	1150	Czarze	1	Ons Bag sent nech sehe hoch, juch sent vel hoege.
+ab	11515	Gutendorf	1	Onse Barge sinn nech huach eire sinn höcher
+ab	11539	Kleinschwabhausen	1	Onse Bārge sen nech siere huch, eire sen vähl hicher.
+ab	11568	Thalbürgel	1	Onse Bärge sen nich siehre huch, de euern sen vel hächer.
+ab	1157	Bielczyny	1	Unsre Berg' sinn nett arg hoch, eure sinn viel höcher
+ab	11586	Bad Köstritz	1	Unse Barge sin nich sehr huch, de eiern sin vel hecher.
+ab	11607	Lumpzig	1	Unse Barge sin nich sihr huuch, de eiern sin veel höcher.
+ab	1162	Sierakowo	1	Oehs Bag sönd nöch sehe hoch, jiug sönd vel höge.
+ab	11645	Gleismuthhausen	1	Unnära Barg senn net sehr huech, die euern senn viel höcher.
+ab	11673	Mitwitz	1	Unra Barg sin nèt séhr huch, eura sin viel höhe.
+ab	11763	Aub	1	Unser Berg sen net sèhr hòch, eura sen viel höcher.
+ab	1178	Sokoliniec	1	Os Bag sinn ni sehe hoch, jug sinn väa höge.
+ab	11805	Seidmannsdorf	1	Unnårå Bårg sen net sehr huåch, eurå senn viel höchr.
+ab	11825	Wallenfels	1	Unnera Berg sin niet se huech, die euen sin viel höhe.
+ab	11844	Neudorf	1	Unnere Ba*rg senn nit sehr huch; eira senn ve-il höcher.
+ab	11864	Draisendorf	1	Unnera Barg senn niăt sehr huch, eira senn vill h[ei?]her.
+ab	11881	Sohl	1	Unnere berg sen niët sua hauch, enkere sen viel häichr.
+ab	11896	Sülzdorf	1	Onner Baĕrg senn net schmenn hoch, die euern senn vill höcher.
+ab	1192	Debsko	1	Ōs Baj sien ni sēê hoch, jug sind veia höjê.
+ab	11927	Bachfeld	1	Unnern Barg senn' net sehr hug, die eurigen senn viel höcher.
+ab	1197	Plociczno	1	Os Bāg sin ne sehe hoch, juch sin vail höge.
+ab	1203	Nakielno	1	Os Baj sinn ni so seh hoch, juk sinn veiha höje.
+ab	12037	Hildburghausen	1	Un̄ere Barg sen̄ nett so sehr hoch, eure sen̄ viel höch'r.
+ab	12070	Neuenbau	1	Un̄ere Barg sen̄ nit sihr huch, eure senn viel höcher.
+ab	1208	Wissulke (Wiesiółka)	1	Os Bag sine ni sehe hoch, jugg sine veia höge.
+ab	12085	Grumbach	1	Unnåre Bårg sänn nett sehr hoch, die eiern sänn viel höcher.
+ab	12104	Frössen	1	Unnere Bārg sänn nit sehr huch, eire sänn ve-ïl höcher.
+ab	12125	Schwand	1	Unnere Bärg sänn nett sehr huech, eiere sänn viel hecher.
+ab	12148	Kottengrün	1	Un̄ere Berg sei nett sehr huch, eure sei viel höcher.
+ab	1215	Paruszka	1	Us' Bag sünn ni sehä hoch, dei jug sünn vähl högä.
+ab	12153	Meiningen	1	Onsere Bärg senn net ser hoch, eure senn viel höcher.
+ab	12167	Altendambach	1	Onnör Berg senn nett sehr hoch, euörä senn vill höchör.
+ab	12184	Altenfeld	1	Unnere Barg sen nit sehr hoch, euere sen viel höcher.
+ab	12341	Rohrbach	1	Onse Barige sin nech sèhre huoch, die euren sin viel  höcher.
+ab	12371	St. Jacob bei Leutenberg	1	Un̄re Bärge sinn nich sehr huch, die euern sinn viel höcher.
+ab	12390	Neundorf (bei Schleiz)	1	Unnereä Bärg sen niet seähr huch, d' ei'r'n sen vöil höch'r.
+ab	12410	Ebersgrün	1	Unere Berg sei net sehr huch, eire sei viel hecher.
+ab	12428	Roitzschau/Rotschau	1	Un̄era Barg sei nett su(a) huog, eiere sei viel hächr.
+ab	12496	Horsdorf	1	Unera Berg sen niet su huch, die euen sen viel höche.
+ab	12529	Ködnitz	1	Unera Berg sen nit sehr huch, euera sen höcher.
+ab	12556	Kornbach	1	Unera Berg sen net sehr huch, euera sen viel höcher.
+ab	12572	Habnith	1	Unsa Berg sen niat söia hauch, die euern (enken) sen viel höicha.
+ab	12594	Uchenhofen	1	Unnere Berg sen net so sähr hach, die euern sen viel hächer.
+ab	12616	Reutersbrunn	1	Unner Berg sen net so hoch, eure sen viel höchr.
+ab	12656	Weismain	1	Unera Bärig sen net huäch, eura sen höchär.
+ab	1278	Insko	1	O͡as Bāĕ̆g sin nĕ sēĕ̆ hōch, de jūga sin veia höge.
+ab	1287	Konotop	1	Os Baj sinn ne see hoch, jug sinn veia höje.
+ab	12876	Lohma	1	Unse Barge sin nich sihr huch, aure sin veel hecher.
+ab	12898	Heiersdorf	1	Unser Barg sin nich ser huch, euere sin viel höcher.
+ab	12921	Sachsenburg	1	Bei uns sin' d' Berg' nich sehr hoch, eure sin' viel höcher.
+ab	12942	Rothenfurth	1	Unse Berge sin ni siere hóch, eure sin viel höcher.
+ab	1296	Zabin	1	Oas Baag sinn ni (kurz) sehe hoch, jug sind vei a höge.
+ab	12969	Borlas	1	Ons're Bärge sein nech siehre huch, de euire sein vie höcher.
+ab	13005	Dohna	1	Unse Barge sein ni sieher huhch, die ei'rn sein viel hög(ch)er.
+ab	13019	Porschdorf	1	Unsre Berge sin nich sehr huch, eure sin viel höher.
+ab	13047	Morgenröthe	1	Unnere Berg' sei net sehr huch, die euern sei viel höher.
+ab	13054	Rittersgrün	1	Unnere Bärg sei nett ä su huch, eire sei viel hecher.
+ab	1315	Kamien	1	Us Bag sünn ni sehä hoch, jug sünn väl höge.
+bc	13169	Saupersdorf	1	Unnere Barg sei nett sehr huch, de eiern sei viel höcher.
+bc	13187	Kühnheide	1	Unnere Bärg sei net sähr huch, eure sei viel höcher.
+bc	13210	Himmelmühle	1	Un̄ără Barg sei nich sehr huch, eiră sei noch viel hächer.
+bc	13226	Rübenau	1	Unere Barg sei nich su huch, eure sei höcher.
+bc	13269	Thurm	1	Un̄ere Bärge sin' nich' siehr hug, de eiern sin' viel höcher!
+bc	13286	Ursprung	1	Unsre Barge sei nich sähr huch, eure sei viel hächer.
+bc	133	Sosnowo	1	Os' Beag sünd nich sea hoch, jug sünd väl höga.
+bc	13317	Dittmannsdorf	1	Unnra Barg sei nech sehr huch, de o͜iarn sei vie hächer.
+bc	13340	Grosshartmannsdorf	1	Unsa Berg sein ni sehr hóch, die eiern sein vie hö̆cher.
+bc	13355	Reichenau	1	Unsere Berge sein ni sehr huuch, eire sein viel höcher.
+bc	13372	Liebenau	1	Unse Barge sein ni su huch, de eiern sein viel hächer.
+bc	1338	Dzidno	1	Us Baj sün ni sehe heoch, jug sün vähl höje.
+bc	13529	Wang-Brückenberg	1	Inse Barge sein nich sihr huch, eire sein viel hicher.
+bc	13543	Pisarzowice	1	Inse Barge sein ne sier huch, euer sein viel hicher.
+bc	13559	Boguszow-Gorce	1	Inse Barge sein ne sihr huch, eure sein viel hicher.
+bc	13655	Niederleutersdorf/Leutersdorf	1	Unse Barge sen nö sihre huch, oier sen vill hücher.
+bc	13678	Rohnau (-)	1	Unse Barge sein ne su huhch, de eüern sein vill hĭcher.
+bc	13700	Rebiszow	1	Inse Barge sein ne siehr huch, die euarn sein viel hicher.
+bc	13719	Siedlecin	1	Inse Barje sein nä sihr huch, euer sein viel hicher.
+bc	13727	Myslow	1	Inse Barge sein nie sihr huch, di euern sein viel hicher.
+bc	13745	Jugowa	1	Inse Barje sein ni sihr huch, eure sein viel hücher
+bc	13830	Wlodowice	1	Ensr Barg(j)e sein ne sehr huch, de Euarn sein viel hicher.
+bc	13869	Biernacice	1	Inse Bargla sein nich guor huch, eure sein viel hicher.
+bc	13887	Rzymiany	1	Inse Berge sein nich sihr huch, die euren sein viel hicher.
+bc	13898	Szadurczyce	1	Inse Barge sein nich sihr huch, eure sein viel hichcher.
+bc	13929	Stoszowice	1	Inse Barje sein ni sihr huch, die euern sein viel hicher.
+bc	13996	Lutomia Gorna	1	Ins're Barge sein ni siehr huch, de euern sein viel hicher.
+bc	14023	Roztocznik	1	Ünse Barge sein nich sühr huch, euer sein viel hücher.
+bc	1403	Dobieszewo	1	Oes Bag sinn ni sea hoch, jug sinn väal höga.
+bc	14034	Lipowa	1	Inse Berge sein nich siehr huch, di euern sein grisser.
+bc	14074	Michalow	1	Jnse Barge sän nich sihre huch, 'deuren sän viel hicher.
+bc	14092	Karczow	1	Inse Barge sein nich siere huch, die eueren sein viel hicher.
+bc	14159	Jutrzyna	1	Inse Barge sein nich sire huch, die euern sein viel hicher.
+bc	1417	Rydzewo	1	Ŭs' Bä̆g sünn nĭ sehĕ hoch, jug sünn väl högĕ.
+bc	14234	Brzoza	1	Inse Barge sein nich siehr huch, die euern sein viel hicher.
+bc	14250	Jaczkowice	1	Inse Barge sein nich sihr huch, die euren sein viel hicher.
+bc	14275	Piastowice	1	Inse Barge sein nich su huch, euer sein viel höcher.
+bc	14305	Bozanow	1	Innse Berge sein nie sier huch, die euern sein viel hicher.
+bc	1432	Rzepowo	1	Os Bag sin nih so sehe hoch, be gu sins seia höge.
+bc	14321	Rogow Sobocki	1	Inse Berge sein nich sihr huch, eure sein hücher.
+bc	14382	Wölfelsdorf (Wilkanów)	1	Onse Barja sen nie sehr hoch, eure sen vel höcher.
+bc	1442	Lubowo	1	Ōs Bāg sünt ni seë hoch, jug sünt veel höge!
+bc	14449	Thröm (Trebom)	1	Onser Barg sein ne sehir hoch, eier sein vel hecher. 
+bc	14458	Szczytna	1	Onsre Barje sein ne sehr huch, d oiern sein viel hicher.
+bc	14471	Jaszkowa Gorna	1	Ense Barje sein ne sehr huch, eire sein viel hicher.
+bc	14486	Nadziejow	1	Unsere Berge sein nicht sihr huch, eure sein viel hücher.
+bc	145	Smardzko	1	Us Baag sünn ni sehe hoch, jug sünn väl höje.
+bc	14505	Piorunkowice	1	Inse Barge sein ni sihr huch, die euern sein viel hicher.
+bc	1451	Steinforth (Brodźce)	1	Uas Baaj sünn nia sehä houch, jug sünn vähl höjä.
+bc	14537	Bielice	1	Onse Barje sein nie sehr hoch, die eian sein vel höcher.
+bc	14560	Siemianowice Slaskie	1	Inse Barge sein ne sihr huch, die eiarn sein viel höher.
+bc	1461	Wegorzewo Szczecineckie	1	Uhs Berg sind ni sehr hoch, jug sünd vehl högä.
+bc	14613	Nohfelden	1	Us Berg sin nett sehr houch, auer sen viel heher.
+bc	14635	Erzweiler	1	Os Berg sinn net se hoch, die aure sinn vel heher
+bc	14670	Nussbach	1	Unser Bērje sein nett arig hōk, auere sein vél héhèr.
+bc	14693	Dannenfels	1	Unsere Berje sein nett so arig hok, euere sein vehl höher.
+bc	14724	Monsheim	1	Unser Berje sein net so hoch, die eieren sein viel höher.
+bc	14752	Sankt Matthias	1	Ons Bärsch seïn nött so hösch, eïer seïn vill höjer.
+bc	14955	Bescheid	1	Ahs Berig säi nött arg hech, döi aire säi vill heger. 
+bc	14971	Allenbach	1	Us Berg sen net ärg hoch, di aure sen viel heher.
+bc	1499	Stara Rzeka	1	Uns Baj sinn nich sea hoch, djug sinn veal heaja.
+bc	14999	Berschweiler bei Kirn	1	Us Berg sinn nett sehr hoch, die aure sinn viel höcher.
+bc	15018	Bad Sobernheim	1	Uns Berg sinn nit so hoch, die eire sinn viel heher.
+bc	15042	Neu-Bamberg	1	Unser Bäärig sein nett so hoo[e?]k auere sein vehl heher.
+bc	15066	Bechtolsheim	1	Unser Berje sein nett so aarg hoch die eure sein vel höhjer
+bc	15088	Bollendorf	1	Ēs Bērg sein net sir hie, aier sein viel hieer.
+bc	15096	Preist	1	Os Beärg sin net sihr hich, aier sin vil hicher.
+bc	15118	Pohlbach	1	Is Berg sehn net e sou hich, die eiern sehn viel hicher.
+bc	15137	Kautenbach	1	Us Berig senn net hoch, eier senn vill höher.
+bc	15334	Kirchberg (Hunsrück)	1	Uns Bährig sinn nitt sehr hoch, eier sinn viel heecher.
+bc	15349	Ellern (Hunsrück)	1	Us Berig sin nit so arig hoch, auere sin viel höcher.
+bc	1536	Heidlauken (Bugorki)	1	On̄se Barg sen nich söhr hoch, juhne sen väl höchcher!
+bc	15365	Bingen am Rhein	1	Unser Berg se͡in nitt arig hoch, aiere se͡in viel heher.
+bc	15394	Finthen	1	Unsere Berge sein nit sehr hoch, die euere sein viel höcher.
+bc	1540	Heinrichswalde	1	Onse Barg send nich sehr hoch, june send väl höcher.
+bc	15418	Schneeberg (Sněžník)	1	Unsre Barge sein ni su sehr hoch, eire sein vie higa.
+bc	15503	Zettel (Sedlo)	1	Unsere Berche sei ni so sehr huch, die ei'ern sei vie(l) höcher.
+bc	1552	Pazuizen	1	Onse Barg send nich so hoch, june send vel höchcher.
+bc	15538	Wisterschan (Bystřany)	1	Unsere Barge sei ne sehr huch, die euern sein viel heher.
+bc	15550	Malschen (Malečov)	1	Unsa Barga sain ni sehr huch, die aiarn sain vill hichar.
+bc	15638	Lukawetz (Lukavec)	1	Unse Barge sein nich sehr huch, eiere sein viel hecher.
+bc	1565	Gierver Lauken	1	Onnse Berg senn nich sehr hoch, june sennd veh hochcher.
+bc	15681	Neudorf (Vrchběla)	1	Unsa Barga sein nee sehr huch, ojra sein vill hichr.
+bc	15685	Gastorf (Hoštka)	1	Unse Barge sein ni sehr huch, die eiern sein viel hächer.
+bc	15690	Wegstädtl (Štětí)	1	Anse Barge sein ni sehr huch, eïere sein viel hücher.
+bc	1571	Schmalleningken	1	Onse Baarge sönn nich sehr hoch, june sönn väl höcher.
+bc	15725	Nixdorf (Mikulášovice)	1	Unso Barcho sein nee siehr huch, euro die sein viel hichr.
+bc	1573	Groß Dirschkeim (Donskoye)	1	Onse Barg sent nich seha hoch de junage sent vehl höcha.
+bc	15751	Rückersdorf (Dolní Řasnice)	1	Unse barge sein ne huch, euer sein hicher.
+bc	1578	Rantau (Zaostrov'Ye)	1	Ònns Barg sèn nich séà hoch, de junaje sèn väl hö̀chà.
+bc	158	Polczyn-Zdroj	1	Ŭs Barg sinn nich sehr hoch, juhg sinn väl höhje.
+bc	1580	Schulstein (Vol'Noe)	1	Ons Barg send nich sea hoch, june send vehl höchcha.
+bc	15807	Kamnitz-Neudörfl (Kamenická Nová Ví	1	Unse Barge sein nej su huch, eiare sein vie hicha.
+bc	15824	Zwickau (Cvikov)	1	Unse Barge sein neï sehr huch, euer sein vill hichr. (i: kurz!)
+bc	15847	Christophsgrund (Kryštofova Údolí)	1	Unsr Barge sein ne sieht huch, eure sein vill hicher.
+bc	15858	Gränzendorf (Hraničá)	1	Unse Barge sein ne sehr huch, eure sein vill hicher.
+bc	1588	Alt Susimilken (Tarassowka)	1	Onse Barge sönd nich sehr hoch, june sönd völ höcher.
+bc	15971	Puletschnei (Pulečný)	1	Unse Barche sein ne sehr huch, eur sein vill hicher.
+bc	15975	Graber (Kravaře)	1	Unsa Barga sain nê sehr hûch, de eu(e)rn sain vill hichr.
+bc	15989	Thammühl (Staré Splavy)	1	Unsa Barga sein ni sehr huch, die eiren sein viel hicher.
+cd	15995	Proschwitz (Česká Proseč)	1	Unse Bargo sein ne sehr huch, die eu[o?]rn sein vill hiecher.
+cd	16007	Harrachsdorf (Harrachov)	1	Onsere Barge sein ne sehr huch, eure sein vill hicher.
+cd	16015	Witkowitz (Vítkovice)	1	Onsa Barcha sein ne a su huch, eura sein vil hichə.
+cd	16050	Forst (Fort)	1	Onsara Barch sein nee sehr hūch; eiara sein viel hichcha.
+cd	16063	Gabersdorf (Libeč)	1	Onsere Berche sein ne sehr hûch, die eûern sein viel hicher.
+cd	16083	Bodisch (Bohdašin)	1	Ense Barche sein ne sehr huch, de euan sein viel hicho.
+cd	16139	Zwitschin (Zvičina)	1	Ondere Barch sein nee sehr huch, eiere sein viel hicher.
+cd	16154	Großbock (Velká Bukovina)	1	Onsere Barche Barhe sein ne sehr huch, die eiern sein viel grüssero.
+cd	16179	Schmiedeberg (Kovářská)	1	Unnare Barch sei net su huch, ower eiere sei vil höchr.
+cd	1626	Tulpeningken (Zarečnoe)	1	Onse Barg sönd nich sehr hoch, june sönd väl höcher.
+cd	16276	Waitzengrün (Loučná)	1	Unara Berch san niat soa houch, die enkern san vül häicha.
+cd	1628	Wisborienen (Livny)	1	Onse Barg sön nich sehr hoch, de junichte sön vel höcher.
+cd	16298	Sittmesgrün (Mezirolí)	1	Unnara Berch sann niat hat houch, enkara sann vl höicha.
+cd	16322	Petersdorf (Petrov)	1	Unara Barch sann nährt haoch, ängara sänn haecher.
+cd	16338	Podletitz (Podlesice)	1	Unara Barg sei net gor hoch, die engan sei vill hecha.
+cd	16442	Kropitz (Krapice)	1	Unä Bergh san niat ret håȗch, enka san vül höicha.
+cd	16470	Ebersfeld (Podlesi)	1	Unsre Berg san niat sur houch wie enkre.
+cd	16491	Rabensgrün (Haje)	1	Unå Berch san neat zhåuch, engårå san vül häicha.
+cd	16523	Lintsch (Hlineč)	1	Unara Barch sen niat hat håoch, enkara sen vül håecha.
+cd	1654	Postnicken (Zalivnoe)	1	Onse Barg send nich seha hoch, june send vel höcha.
+cd	16602	Klotantschen (Kotaneč)	1	Unârâ Berch senn net gouâ houch, die engern senn vill hejchâ.
+cd	16610	Tschernowitz (Černovice)	1	Unere Berch sei nett su huch, eiere sei viel höcher.
+cd	16625	Hawran (Havraň)	1	Unere Berg sei nich sehr huch, obr eiere sei viel hecher.
+cd	16636	Liebshausen (Libčeves)	1	Unsere Barche sein nich sehr huch, die eiern sein viel höcher.
+cd	1664	Labagienen/Haffwinkel (Zalivino)	1	Onse Barg send nich sea hoch, june send vel höcha.
+cd	16670	Priesen (Březno)	1	Unnere Bērch sei nět sēr huch, euere sei vīel hěcher.
+cd	16689	Libeschitz (Liběšice)	1	Ŭnnare Bĕrch sei nĕtt sehr hūch, eiere sei vĭll hĕchar.
+cd	16725	Leschkau (Ležky)	1	Unnara Bärch sänn ned su houch, ängara sänn vill hecher.
+cd	16739	Pschoblik (Pšovlky)	1	Un'nara Berch sei net gor hoch, enkara sei vill heche(r).
+cd	16751	Prag-Smichow (Smíchov)	1	Unsere Berge sind nicht sehr hoch, die euren sind viel höher.
+cd	16755	Weißbach (Bílý Potok)	1	Ensere Barge sein nie siehr huch, die eijan (eijere) sein viel hicher.
+cd	16770	Schediwy (Šediviny)	1	Onse Barche sein ne sehr huch, Eure sein viel hicher.
+cd	16775	Friedrichswald (Orlické Záhoří)	1	Onse Barche sän ne a su huch, eure sän viel hichr.
+cd	16801	Böhmischdorf	1	Ensre Barge sein nie sehr (gor) huch; de eian sein viel grißr (hicher).
+cd	16814	Rokitnitz (Rokytnice)	1	Onse Barche sänn nee sehr huch, eure sänn viel hicher.
+cd	1683	Kreuzingen (Bol'Shakovo)	1	Onse Barge sen nich sehr hoch, june send vael hoecher.
+cd	16876	Nieder-Ullersdorf (Dolní Boříkovice	1	Unsre Barhe sein ne sehr huch, die oira sein viel hichr.
+cd	16889	Heinzendorf (Hynčice Nad Moravou)	1	Onsera Barg sein nie sehr huch, die eien sein viel höcher.
+cd	16907	Karlsdorf	1	ůnʃŋ bark ʃaên nī aʃûə hûəx; aêəra ʃaên vŷə heχŋ.
+cd	16932	Kuhberg	1	Onsere Barge sein nie sehr huch, eiere sein viel höcher.
+cd	16949	Rausen (Rusín)	1	Onsere Barge sein nech sihr hoch, die eiarn sein viel höcher.
+cd	1698	Buttkuhnen (Pokrovskoe)	1	Onse Berg send nich sehr hoch, june send vel höcher.
+cd	16991	Breitenau (Bretnová Široká Niva)	1	Onsere Barg sein nie sehr huech, de eiern sein viël höcher.
+cd	17012	Lobenstein (Úvalno)	1	Onsre Barge sein nie sehr hoch, eiere sein viel höcher.
+cd	17029	Lohhäuser (Slatina)	1	Una Barch san niat goua houch, de enkan san väl häicha.
+cd	17061	Deutsch Thomaschlag (Německé Domasl	1	Unnara Barch san niat gaua sua hauch, d'enkan san väl höicha.
+cd	17075	Polinken (Polínka)	1	Unsre Berch sen niat sua houch, de enken sen viel heicha.
+cd	1708	Baltruschatschen (Jakovlevo)	1	Onse Barg sönd nich sehr hoch, june sönd väl höcher.
+cd	17138	Albersdorf (Písařova Vesce)	1	Una Barch san niat sua ho̊uch, dï enke(r)n san vül höicher.
+cd	17151	Damnau	1	Una Barch san niat sua håuch, die engn san vül höicha.
+cd	17174	Piwana (Piňovany)	1	Unna Berch san niat hart håuch, d'enkan san vül höicha.
+cd	17178	Kottiken (Chotíkov)	1	Unna Berch sän net hart houch, dö engern sän vül höïcha.
+cd	17244	Dianaberg (Diana)	1	Unsə Barch san niət gàns hàuch, de enkən san vül haichə.
+cd	17266	Wiedlitz (Vidice)	1	Unna Bach san niat sua houch, de enkan san vül höicha.
+cd	17273	Honositz (Honezovice)	1	Una Berch san tichte hauch, owa die enkan san vül haicha.
+cd	17281	Dobrzan (Dobřany)	1	Una Berch san niat sua haouch, enka san vül haicha.
+cd	17306	Blisowa (Blížejov)	1	Unna Barch sann niat go̊a håoch, die enkan sann viel hejcha.
+cd	17309	Hilbeten	1	Undr Baig sei net sehr huch, eure sei vil hichr.
+cd	17325	Schönwald (Strážná)	1	Onse Berche sein ne siehr huch, eure sein viel hicher.
+cd	1733	Rottenen (Raktino)	1	Onse Barge send nich sehr hoch, jiun send väl höcher.
+cd	17374	Ober-Ullischen (Horní Olešná)	1	Onser Barg sein nie sehr hoch, eiera sein viel hecher.
+cd	17389	Bergstadt (Horní Město)	1	Unser Berg sein och niedrich, eira sein fü(e) hech(e)r.
+cd	1741	Pojerstieten (Kolodcy)	1	Onse Barg send nich sehr hoch, june send vel höcha.
+cd	17433	Ranigsdorf (Linhartice)	1	Und'r Berñ san net sehr huch, eira san veil hichr.
+cd	17442	Müglitz (Mohelnice)	1	Unsere Perg sein net sehr hūch, ajere sein viel hecha.
+cd	17460	Ribnik (Rybniček)	1	Unsere Barg sein nie sehr houch, eura sein viel hecher.
+cd	17468	Stangendorf (Vendolí)	1	Undr Barg sei net sehr huch, eura sein hiecher.
+cd	1747	Beydritten (Pervomajskij)	1	Onse Barg' sön nich hoch, jun sön veel höchcha.
+cd	17504	Neu-Biela (Lavičné)	1	Undr Barg sein net sehr huch, euera sein vel hiecher.
+cd	17512	Schlettau (Slatina)	1	Undr Barg sann nett su huch, aiera sann veil hicher.
+cd	17520	Runarz	1	Unsə Park sain nī sēr hūch, aira sain vīl hechə.
+cd	17521	Nebotein (Hnĕvotín)	1	Ins(e)ri Berg sā niat se(hr) houch, enk(e)ri sā vill höch(er).
+cd	17568	Tillendorf (Tylov)	1	Unser Berg sein nie sehr huoch, die eiern sein vüe hecher.
+cd	1758	Brasdorf (Antonovka)	1	Onnse Bārg sön̄t nich sēă hoch, june sön̄t vĕĕl hö̆chă. (/: ch= scharfes j
+cd	17585	Mladetzko (Mladecko)	1	Onsr Barg sein nie so͜u ho͜uch, eira sein viel hechr.
+cd	17643	Seibersdorf (Bělá)	1	Unsara Barg seint nie sehr hoch, eira seint viel hecha.
+cd	17659	Bernhau (Barnov)	1	Unser Barg sein nie sehr hoch, eiera sein vel höcher.
+cd	17680	Klantendorf	1	Ounsre Berch sein nie su huech, wie aire.
+cd	17687	Engelswald (Mošnov)	1	Onsêr Barch sein nie sehr hoch, eirê sein vieł hechr.
+cd	17698	Nirklowitz (Mrsklesy)	1	Unser Barg sein nie so hoch, eiera sein hecher.
+cd	17713	Punkendorf (Boňkov)	1	Unsa Beig sein nie sehr hoch, eira sein vijl höcher.
+cd	1772	Groß Goldbach (Slavinsk)	1	Onse Barge sen nich sea hoch, june sen vel höcha.
+cd	17726	Halbendorf (Polouvsí)	1	Onser Berg sein nie sehr hoch; die eiere sein viel höcher.
+cd	17737	Senftleben (Ženklava)	1	Onser Bag sein ne sehr huch, eier sein vel hecher.
+cd	-17739	Polanka Wielka	1	Unsere Berg sind net arch hoch, die eire sind viel hecher.
+cd	-17744	Bulowice	1	Unsere Berge sind net sehr hoch, die eieren sind viel heher.
+cd	-17746	Chocznia	1	Unserne Biergn han nit so hoch, die engern ham höier.
+cd	-17749	Alt-Bielitz (Stare Bielesko)	1	Ensre Barg sen ne huot höuch, die fo ojch sen hecher.
+cd	17759	Linz (Mlýnec)	1	Una Barch han niat gauja ho̊uch, de enkan han höicha.
+cd	17782	Kohlheim (Uhliště)	1	Unsere Beach san net recht hou, de engan san viel heia.
+cd	17792	Čachrau (Čachrov)	1	Unsane Beag san net so hou, die engan san vll höia.
+cd	17801	Hurkental (Hůrka)	1	Unsane Bergn san net so houch, die engan san völl hecha.
+cd	17824	Rotsaifen (Červená)	1	Unsane Beag sand ned houch, de engan sand völ hecha.
+cd	17832	Winterberg (Vimberk)	1	Unsåri Bea(r)g sann nit grod hoch, die engan sann vl hehå.
+cd	17843	Sehrlenz (Ždírec)	1	doj unt(a)n hibln zan net so͜u hejuĥ, doj enk(a)n zan fil hojg(a).
+cd	17854	Irsching (Jiřín)	1	Unserni Bergla san nit so hoch, die engern san höher.
+cd	17862	Hilbersdorf (Jihlava-Heroltice)	1	Unsərĕ Berg s[?]n net gor houch, dei enkən s[?]n heiga.
+cd	17876	Sollowitz (Salavice)	1	Unsere Bergen san net so hoch, die enkern san viel hechr.
+cd	17878	Stannern (Stonařov)	1	Unsere Berg san net v[ü?]l steil, die enkern san v[ü?]l steiler.
+cd	17881	Riegerschlag (Lodhéřov)	1	Insri Beri san nid goar hoi; di eingrn san vül höhâr.
+de	17882	Wenkerschlag (Dolní Radouň)	1	Insre Bering san net sou hoi, die eïnkarn san vül höha.
+de	17884	Buchen (Buk)	1	Insri Beri san nit sou hoi, die ëngärn san hehä
+de	17895	Hosterschlag (Člunek)	1	Insri Beri san nit vl hoi, die eïngern san vl höher.
+de	17898	Lipolz (Lipolec)	1	Insere Bering san nit sou hoi, dia engern san viel höher.
+de	17940	Czernowitz (Černovice)	1	Insara Perin san nia sou hoch, da enkern san viel höga.
+de	17942	Gundrum (Komořany)	1	Enserea Hübeln san net sehr hoch, dej einkean san viel hächar.
+de	17956	Prahlitz (Pravlov)	1	Ünsere Beri san net so'houch, engere san höcher.
+de	17961	Woikowitz (Vojkovice)	1	Insare Berich san nit so hoch, enkare san viel höcha.
+de	17967	Sub-Lechnitz (Lechnica)	1	Unsara Parcha sin nit sehr hoch tie ejara sinn viel hechar
+de	17968	Topportz (Toporec)	1	Unsre Bārich sain nëch säu hoch, aire sain hicher (gräßer)
+de	17972	Hobgard (Chmeľnica)	1	Onsere Berdje sein nëch a su huch, eijere sein viel greszara.
+de	17981	Neu Walddorf (Nová Lesná)	1	Onzere Hibbel zain nëch hoch aire zain vil hicher.
+de	17993	Durelsdorf (Tvarožná)	1	Unsere Barg sein nech sehr hoch, eure sein viel höcher.
+de	17999	Leutschau (Levoča)	1	Unsere Berg sein nech sehr hoch, die euern sein vil hëcher.
+de	180	Galowo	1	Uß Baag sünd nië sohe hoch, jug sind höge.
+de	18000	Zipser Neudorf (Spišská Nová Ves)	1	Unsere Berg sejn nech sau hoch, die ejrere sein viel heher.
+de	18001	Wagendrüssel (Nálepkovo)	1	Uonsre Pe͡ag sënd nëch aso hoch, ënkre sënd hëcha.
+de	18003	Göllnitz (Gelnica)	1	Unsre Peag send nech sea huch, enkre sein viel höcha.
+de	18004	Dobschau (Dobšiná)	1	Unser Hibel sein net sear hoch, eure sein viel höcher.
+de	-18008	Schmöllnitz (Smolník)	1	Unsre Peak send néch sea húch, enkre send viel hécha.
+de	18010	Metzenseifen (Medzev)	1	Onsa Peag sain nécht sea hoch de änkreng sain höcha.
+de	18013	Buchwald (Bučina)	1	Unsani Beag hant neït recht hou, deï engan hant höha.
+de	18018	Schattawa (Záton)	1	Unserni Bergn [h]ant nejt recht houch, dej engern hat ela höja.
+de	18028	Zaborsch (Záhorí)	1	Unsari Beag han neïd sou hoi, di ẽigan han heha.
+de	18058	Hirschbergen (Hiršperky/Jeleni)	1	Unsani Bergn san nit soă hoj, die engan san väl höha.
+de	18064	Honetschlag (Hodňov)	1	Unsri Bergn hant nit recht hoi, die eingan hant viel heha.
+de	18091	Kollerschlag	1	Unsani bergn hant nit recht hoi, de engan hant weit hea.
+de	18095	Sankt Thoma (Svatý Tomáš)	1	Unsere Berg sand net grod hoi, die engern sand viel höcher.
+de	18101	Hohenfurth (Vyšší Brod)	1	Unsri Berg san nit recht hoh, die engan san vüi heher.
+de	18132	Hummeln (Homole)	1	Unsri Berg san nit goar hoch, di engârn san vll heher.
+de	18135	Rudolfstadt (Rudolfov)	1	Unseri Berg' san net so hoch, die engern san viel höher.
+de	18144	Gross-Radischen	1	Unsere Bergn san net hoch, de engern san vü hecher.
+de	18188	Priethal (Prídolí)	1	Uns(a)ri Beargn hant nit recht hoi, dej e(i)ngan (ingan) hant brav höiha.
+de	18192	Gollnetschlag (Klení)	1	Uns(e)ri Be(a)gn san niht gor hoi, dej ajng(a)n san vl heh(a).
+de	18210	Weissenbach (Vysné)	1	Unsere Bergn san nit so hoch, die ejngern san vül höher.
+de	18218	Langschwarza	1	Unsare Bergn san nit gor hoch, de eingan san vü höcha.
+de	1829	Rudszen (Poltavskoe)	1	Onse Barge sen nich sehr hoch, june sen väl höcher.
+de	18290	Unterwald	1	Unsere Berg san nöt recht hoch, dö engan han viel heha.
+de	18296	Bad Grosspertholz	1	Unsre Berg san nit so hoch, engere san vül hecha. 
+de	18310	Oberstrahlbach	1	Unsre Bergl sand net gar hoch, die engan sand hecher.
+de	18359	Waldkirchen	1	Unsere Berg san net sehr hoch, die engern san viel hecha.
+de	18364	Hafnerluden (Lubnice)	1	Unsere Bergn san nit sehr hoch, die engern san vül höher.
+de	18367	Schiltern (Štítary)	1	Unsre Bering do san net gor hoch, enkere san vül hecher.
+de	18407	Töstitz (Těšetice)	1	Unsare Beregn san nit gor so hoch, de engan san vül hecha.
+de	1842	Warupönen (Fëdorovka)	1	Onse Berge send nich sehr hoch, june send vel höger.
+de	18432	Dietmanns	1	Unsari Berg' san nit goa hoch, dei eñgan san vü hecha.
+de	18441	Schirmannsreith	1	Unsari Berin san net so hoch, de eingan san vü hecha.
+de	18454	Hofern	1	Unsari Berg san nit hoch, die engan san vül höcha.
+de	185	Jelnia	1	Us Bag sin sehr hoch, dei juggen sin väl höcher.
+de	18508	Gerstenfeld (Ječmeniště)	1	Unsare Bering san nit hoch, dö engarn san vüll höcha.
+de	18525	Franzen	1	Unsani Bęag san(d) nėd ręxt hǫx, dė ėngan san(d) vüi hėxa.
+de	18534	Rosenburg	1	Unsere Berg san net hoch, die engern san heher.
+de	18554	Oberdürnbach	1	Unsari Beringn san nit sehr hoch, die engan san viel hächa.
+de	18559	Aspersdorf	1	Unsari Bering sand nit so hoch, de engan san hecha.
+de	18607	Damnitz (Damnice)	1	Unsre Beri(n)g san net gor hoch, engare san vül hecha.
+de	18627	Tracht (Strachotín)	1	Unsre Peri san nit sehr hoch, ti engrn san vül hechr.
+de	18637	Saitz (Zajecí)	1	Unsre Berge san nit houch, enkre san höchr.
+de	18642	Höflein an der Thaya (Hevlín)	1	Dä unsan Beregn san nät so hoch, dä ängan san vül hächa.
+de	18672	Stützenhofen	1	Unsri Bering san nit gor hoch, die eichern son vül hecha.
+de	18686	Bernhardsthal	1	Unsare Berign san nit sehr hoch, die engan san vül höcha.
+de	18701	Pyhra	1	Unsari Berign san nit gor so hoch, d'engan san viel höcher.
+de	18707	Wilfersdorf	1	Unsare Beri san nöt gar hoch, die enkern san höcha
+de	18716	Palterndorf	1	Unsari Beri san nit so hoch, oba (owa) dä enkan san vül (viel) hecha.
+de	18753	Münchwies (Vrícko)	1	Unsara Berg sej net sea hauch, eira sei vei höchr.
+de	18759	Bettelsdorf (Solka)	1	Onsr Rége sãj net seja houch, ajra sãj véj hėchr.
+de	18763	Oberstuben (Horná Stubna)	1	Onzⱱ hre̜nd zõⱱ net seⱱ hôx zem bi aeiⱱrⱱ zõⱱ wêl hĕxⱱ.
+de	18767	Krickerhäu (Handlová)	1	Unsa Bērg sein net sehr hoch, aijara sein höcha.
+de	18773	Deutsch-Litta (Kopernica)	1	Aums'o Berg sḛi nit sajr hä͜juch, die enkern sḛi wa͜uil hicher.
+de	18774	Hochwiesen (Vel'Ké Pole)	1	Unsa Hübl sei nä säh huch, enkara sei wiel höcha.
+de	18786	Sankt Georgen bei Obernberg am Inn	1	Insani Berg hand nöt gar hoh, dö engan hand weit hecha.
+de	18800	Hochburg	1	Unsanö Beagn sand nöd bita hou, dö engän hant vïe heha.
+de	18805	Pischelsdorf am Engelbach	1	Unsano Berg san [?]iöt hog, do engen sen vui hehe.
+de	18846	Niederkappel	1	Unsari Berg san not bsunders he[a?] danach durchgestrichen, Dö engán sa’n vül heha. 
+de	18855	Niederwaldkirchen	1	de insa Bergn hant net so höi, de engan hant heifti heha.
+de	18902	Dorf an der Pram	1	Insani Berign san nöd so hao, dö engan san weid hea.
+de	18910	Michaelnbach	1	Insanö Berign hand net so heoch; die engan han weit hecha.
+de	18923	Alkoven	1	Dö unsán Begn sán net recht heo, dö engán sán vü heá.
+de	1895	Königlich Damerau	1	Onse Barg send nicht sea hoch, de june send vehl höcha
+de	18984	Arnberg	1	Insanö Berögn hand nöt so hôu, dö engan hand vui hecha.
+de	18987	Rackering	1	Insanö Berögn han neöt so he͜o, dö engan han vü hea.
+de	19003	Pennewang	1	Insarö Berögn hand not recht heoh, dö engan hand weit hea.
+de	19011	Sipbachzell	1	Insanö Bering san net b’sunders he͜o, de engan sán heá.
+de	1904	Pesseln	1	Onsè Bā̆rge sönn nich sehr hoch, juhne sönn väl hö̀cher.
+de	19070	Reichenau im Mühlkreis	1	Insarö Beagn san nöd so håi, dö engan san weid hëa.
+de	19080	Gutau	1	Insani Bergn san nöt recht hoe, die engan san viel höcha.
+de	19085	Hackstock	1	Unsere Berg san nit schiach hoch, di engan sand hecha.
+de	19096	Traunstein	1	Unsre Berg san nit so hoch, die engan san viel hecha.
+de	19138	Maria Laah	1	Insre Bergn san net hô, dö engan san vüh heha!
+de	19144	Haag	1	Insere Berg sand nett hoch, då san dö engern hecha.
+de	19154	Amstetten	1	Unsra Berg san nit gar hoch, engare san hecha.
+de	19163	Wieselburg	1	Unsare Berg san nöt gar hoch, dö enkan san vü höcha.
+de	1919	Groß Gerlauken (Vjazovka)	1	Onse Berge sönd nich sehr hoch, june sönd fäl höger.
+de	19225	Steyregg	1	Insarö Bergn hå͜n nöt recht ho, dö enkern ha͜n weit heher.
+de	19233	Schwertberg	1	insanə bē̃āg sãnnöd recht hão, də eŋãn san vü hē̃ŋ̄.
+de	1924	Pakallnischken (Suvorovo)	1	On̄se Barg send nich sehr hoch, june send väl höcher.
+de	19245	Bad Kreuzen	1	Unsanö Berg sand nöt so hoi; die engan san heha.
+de	19257	Altenmarkt	1	Unsari Berg san nit recht hoch (1.060m - Peilstein), dö engan san weit hecha.
+de	19301	Els	1	Unsre Bergn san nit gor hoch, die engan san viel höcha.
+de	19311	Gneixendorf	1	Unsare Barg san net recht hoch, de engan san vü hecha.
+de	19322	Fels am Wagram	1	Unsare Beag sand net recht hoch, de engan sand vü hecha.
+ef	19334	Oberhautzental	1	Unsare Beri san net goar hoch, die engan san vül heha.
+ef	19401	Schönbühel an der Donau	1	Unsare Berg san(d) net recht hoch, dö engan san(d) viel höcha.
+ef	19404	Karlstetten	1	Unsari Beag san ned so hoch, dö engan san vü höcha.
+ef	19419	Würmla	1	Unsre Beag san net recht hoch, d'engan san vüh hecha.
+ef	19429	Ried am Riederberg	1	Unsere Bergn san net gar hoch, die engern san viel höcha.
+ef	19479	Mank	1	Unsare Bearg ßan nid går hō, die engan ßan vüj hecha.
+ef	19486	Wilhelmsburg	1	Unsari Berg san nöt går so hoch, dö eichan san vü hecha.
+ef	19492	Stollberg-Siedlung	1	Unseri Berg san nit gar h[o?]ch, dö önger san höcher.
+ef	1953	Pillau	1	Onsere Bārge sönnd nich meeha hoch, de juhne sönnd vähl höchcha.
+ef	19541	Grub	1	Unsare Berch san nit b'sundas hoch, eingere san heicha.
+ef	1956	Patersort (Beregovoe)	1	Onse Barg sen nich sehr hoch, dei junage sen höcher.
+ef	19564	Obergänserndorf	1	Unsere Bering san net so hoch, do engan san vül hecha.
+ef	19607	Raggendorf	1	Unsri Berign san nit gor hoch, d engan san vü hecha.
+ef	1962	Bergau (Tzwetkowo)	1	Ons Barg' sönd nich sehr hoch, jun sönd vähl hächa.
+ef	19621	Stillfried an der March	1	Unsəri Berch san nid goar hoch, de eŋgan san vül hechər.
+ef	19640	Grünau (Grinava)	1	Unsri Peach san nit so(u) hoch wi(e) engi Peach.
+ef	19642	20. Bezirk-Brigittenau	1	Unsere Berg san net sehr hoch, die enkern san höcha.
+ef	19646	Raasdorf	1	Uns're Berg san net goa hoch, euchre san vü höcha.
+ef	19657	Breitensee	1	Unsere Berg san nit gar hoch, eure san häher.
+ef	19659	Theben (Devín)	1	Uns're Berg san net sehr hoch, die engan san vül heher.
+ef	19667	Biedermannsdorf	1	Unsare Berg san net goa hoch, de engan san vü hecha.
+ef	19674	Enzersdorf an der Fischa	1	Unsare Beach san recht hoch, eichare san vü schona.
+ef	19696	Kittsee	1	Unsre Beag san nit go[a?] hoch, die engare san hecha.
+ef	19705	Mischdorf bei Pressburg (Nové Košar	1	Unsri Kepiaga san nidsso hoch, engri ssan fü hëcha.
+ef	19726	Rohrau	1	Unsere Berg san nit so ho, engere san vül höha
+ef	19739	Thiersee	1	Insarü Berg send nit hauch, dö enkern send vü hecha.
+ef	19748	Achenwald	1	Insre Berg sen nied gur e so huach, die enkan san vä heacha.
+ef	1977	Fuchsberg (Semënovo)	1	Ons Barg sön nich sea hoch, jun sön fäl höcha.
+ef	19775	Obertrum am See	1	Insánö Baring sán nöd so háu ás wiá dö engan; dö engán hán hehá.
+ef	19787	Hochfeld	1	Insanö Berögn hant nöt recht haoh, dö engan hand viel heha.
+ef	19823	Vorderfager	1	Ünsanö Berägn hand nöt goa so hou, dö engan hand vü heha.
+ef	19851	Schwendt	1	Inserni Berg send nid går sovl hoch, die enkarn send vüi hecha.
+ef	19854	Waidring	1	Insare Berg send nit gå so heuch, die enkan sen vui hecha.
+ef	19859	Kuchl	1	Insarö Berg san nit recht hoch, di enka'n san vie(li) höha -
+ef	1987	Pregelswalde (-)	1	Ons Barg send nich sea hoch, jun send vel höchcha.
+ef	19886	Schörfling	1	Insanö Bering han nöt heoh, dö engan han vü hea.
+ef	19896	Gschwandt	1	Insere Beri san nit so heo, die engern san vül heha.
+ef	19901	Schlierbach	1	Insanö Beag sand nöd rechd ha͜o, dö engan sand vül hea.
+ef	19941	Sankt Gilgen	1	Insanö Berige hand nöt veiht hóu. Dö engan hand wi hecha. 
+ef	19945	Ebensee	1	Insani Berig san nöt so ho(u) wia dö en(g)an!
+ef	19947	Steyrling	1	Insani Berg san nöt so hoch, di engan san viel höha.
+ef	19956	Bad Ischl	1	Insani Berögn sand nit hoch, di enkan sand vü heha.
+ef	19965	Windischgarsten	1	Insari Bergn san nöt go so hå, dö engan san vü heha.
+ef	19971	Bad Goisern	1	Insanẽ Beregn san nit so ho͜a, bo eng sans weit heha.
+ef	19977	Grundlsee	1	Insani Beriñg san nit recht ha͜oh, enkari san weit heha.
+ef	19993	Wörschachwald	1	Insernö Berg san nöt gåo hoch, dö engan san vü heher.
+ef	20005	Trattenbach	1	Unsare Bergn san net so hoh, dë engan san vü hea.
+ef	20008	Sulzbach	1	Insane Berg sán kleana, engane san heha.
+ef	20019	Ybbsitz	1	Unsani Berg san nit hoch, de engan san vü hecha.
+ef	20023	Gaming	1	Unsari Beagn sand nit recht hoch (nit goa so hoch), engari sand vü hecha.
+ef	20046	Kleinreifling	1	Ünsari Berg sein nöt so hoch, engari san heha.
+ef	20049	Mariazell	1	Unsari Beag san nit recht hoch, Eichari san hecha!
+ef	20051	Neuhaus	1	Unsari Berge san net sehr hoch, die engan san vül hecha.
+ef	20058	Lassing	1	Unsari Berg san nit recht hoch, di engan san vü hecha.
+ef	20062	Ardning	1	Unsari Berg san nit recht hoch, enkari san vü heha.
+ef	20065	Weng	1	Uensari Berg san nit recht hoch, die enkan san vü hecha.
+ef	20067	Lainbach	1	Unsere Berg san nit recht hoch, die enkan san vü hecher.
+ef	20069	Gollrad	1	Unseri Berg san nit bsunders (sehr = nicht gebr.) hoch, die enkan sa vü hech(a)
+ef	20077	Oberort	1	Unseri Berg san net recht hoach, die enkeren san vül höacha.
+ef	20090	Wext	1	Use Biärge sind nich ganß hoge, de u'en sind full högger.
+ef	20099	Leer	1	Usse Biɑ̈rge sinnt nich wɑhe (stump so) hɑug, de ju 'en sinnt vull högger.
+ef	20110	Herbern	1	Use Biärge send nig sehr hauge, de juhen send viel hähter.
+ef	20117	Ringel	1	Use Biärge sind nich nütte hauge, de juwwen sind vierl häuger.
+ef	20128	Hilter am Teutoburger Wald	1	Use Biärge sind nich nütte hauge, de juen sind vièl häuger.
+ef	20240	Bardel	1	Use berge zint nig heel hoog, de jouen zint völ hööger.
+ef	20248	Haddorf	1	Use Biärge sind nich duon hauge, de jue sind vul häuger.
+ef	20259	Hörstel	1	Usse Berge [sünd?] nig ganz hoge, de juhen sünd vö[ä?]l höger.
+ef	20269	Westerkappeln	1	Use Biarge sind nich eiwige hauge; Juhe sind vüll häuger.
+ef	20283	Astrup	1	Use Bierge sind nich sehr hage, de jue sind vierl heuger.
+ef	20346	Frensdorf	1	Use Barge sind nich heel hoag, de ju sind völl häuger.
+ef	20350	Elbergen	1	Use Barge sind nich donne haᶟch, de juwe sind vull häᶟger.
+ef	20361	Setlage	1	Use Barge sind nich donne hoch, jue sind vull höger.
+ef	20370	Merzen	1	Use Bärge (Bölln) sind nich rechhoch, de joue sind vell höger.
+ef	20381	Vörden	1	Use Bjärge sind nigg recht hauge, juwwe (jugge) sind vull häuger.
+ef	20384	Wielen	1	Ose Barge sind niet arg hooge, de uwwe sind völle hooger.
+ef	20446	Hoogstede	1	Unse berge sint nich heel hoog, de oume sint völ höger.
+ef	20454	Geeste	1	Use Bärge sünd nich rech hoch,de͜ï jo͜uen sünd väl höger.
+ef	20463	Dohren	1	Use Bärge bünt nich so hoch, jouhe bünt väl höger.
+ef	20468	Renslage	1	Use Berge sind nich nitske hoch, jau sind vehl höger.
+ef	20481	Dinklage	1	Use Berge sünt nich sehr hog, dei jauen sint veel höger. (sünt auch sint)
+ef	20543	Haren (Ems)	1	Use Bärge bünt nig daᶟne hog, joue bünt vǟle höger.
+ef	20555	Hüven	1	Use Berge bünd nicht sehr hoch, jaue bünd väle höger.
+ef	20562	Garen	1	Use Bärge sünd nich recht hoch, dèì jaue sünd väle höger.
+ef	20575	Sevelten	1	Use Berge sünd nich recht hoch, joue sünd väl höger.
+ef	20589	Neudersum	1	use Berge bünd nich gans hoch, däi jauen sünd väle höger
+ef	20596	Neubörger	1	Use Barge bünd nich ganz hoge, joe bünd vel höger.
+ef	20599	Neuarenberg	1	Use Bärge bünt nich rächt hoch, jaue bünt vähle höger.
+ef	20604	Garrel	1	Use Barge sünd nich recht hoch, jaue sünd väle höger.
+ef	20638	Visbek	1	Use Bage sünd nich ganz hoch, de jouen sünd väl höger.
+ef	2067	Enskemen (-)	1	Onse barg' sĕnd nich sehr hoch, june sĕnd väl höcher.
+ef	20710	Wietzendorf	1	Us Barg sünd nich sehr hoch, jaun' sünd väl höger.
+ef	20734	Colonie Syke	1	Uuse Barrg sunnd nich so hoch, jooe sunnd höög'r.
+ef	20753	Magelsen	1	Use Barge sind nich ganz grot, joue sind vull grötter.
+ef	20763	Nordkampen	1	Use Barge sünd nig sehr hoch, jue sünd vehl höger.
+ef	20774	Vierde	1	Use Barng'n sünd nich gans hoch, jaune sund höger.
+ef	20788	Schmarbeck	1	Use Bargns, dei sünd nich ganz hoch, jaune sünd väl höhger.
+ef	20798	Brümsen	1	Use Bage sunt nech ganz hoch, jaue sind vel höger.
+ef	2081	Eydtkau (Eydtkuhnen)	1	Onse Berge send nich sehr hoch, june send vehl hecher.
+ef	20891	Dörpel	1	Use Barge sind nich ganz hoch, juhe sind vehl höger.
+ef	20901	Maasen	1	Use Barge sünd nich ganz hage, jo e sünd vel höger.
+fg	20917	Drakenburg	1	Use Barge sind nich sehr hoch, jeur sind väl h[ü?]ger.
+fg	20920	Unterrodewald	1	Use Barge sünd nich ganz hoch, jo͜ue sünd väl höger.
+fg	20933	Thören	1	Usse Barge sünd nich sehr hoch, jue sünd vähl höger.
+fg	20936	Hassel	1	Uuse Barge sünd nich sehr hoch Jue sünd viel höger.
+fg	20946	Scharnhorst	1	Use Barge sünd nich höllisch hoch, juë sünd väl höger.
+fg	20948	Aschen	1	Use Barge sünd nich ganz hoge, johe sünd vēl höger.
+fg	21024	Burlage	1	Use Barge sünd nich ganz hoge, jue sünd vel höger.
+fg	21033	Hoysinghausen	1	Use Berge sind nich ganz hoch, jaue sind veel höger.
+fg	21045	Brokeloh	1	Use Barge sünd nich sau hoch, jaue sünd vül höger
+fg	21050	Empede	1	Use Berge sünd nich ganz hoch, jue sünd vel höger.
+fg	21065	Gailhof	1	Use Barge sind nich sau hoch als juhe, juhe sind viel höjer.
+fg	21074	Adelheidsdorf	1	Use Barge sünd nich sehr hoch, de juhen sünd viel höger.
+fg	21085	Nordburg	1	Uhse Barge sind nich sehr hoch de juen sind vel höger.
+fg	211	Rodowo	1	Unsre Berg sind nich sehr hoock, eure sind högger
+fg	21105	Preussisch Ströhen	1	Use Barge sind nich hoche, die èure sind vull höhcher.
+fg	21190	Brockhausen	1	Use Be͡ärge ßünt nich ßau gans ha͡ŭ̈ge, jue ßünt full ho͡üger.
+fg	21199	Isenstedt	1	Use Bērge sind nicht ganz houge [verlängerter Strich über 'ou'], jiue [verlängerter Strich über 'iu'] sind vull höuger [verlängerter Strich über 'öu'].
+fg	21218	Wietersheim	1	Use Barge sind nich gars hoch, dei gauen sind virl höger.
+fg	21235	Hülshagen	1	Use Barge sind nich sau hah, guhe sind viel höger.
+fg	21252	Holtensen	1	Juse Barge sind nich gans heoch, jue sind veel heuger.
+fg	2127	Klein Nuhr (Sukhodol'Ye)	1	Onsra Barg senn nich sehr hoch, de juagn senn väl höcher.
+fg	21280	List	1	Use Barge sind nich owerdas hoch, ju sind veel höger.
+fg	21295	Immensen	1	Use Barge sünd nich sau hoch, jue sünd viel höger.
+fg	21305	Voigtholz-Ahlemissen	1	Use Barge sind nich sau hoch, jue sind vöhl höger.
+fg	21316	Steinhagen	1	Use Bierge sent nich nütte hauge, jue sent vull haiger.
+fg	21342	Krentruperhagen	1	J́úse Berge sind nich düget' hä́úge, juwwe sind vell heuöfter
+fg	2135	Skungirren (Pen'Ki)	1	Aonse Barge sent nich sehr hoch, june send fähl höcher.
+fg	21355	Wendlinghausen	1	Juse Berge sind nich hadde hauch, juwwe sind vell höchter.
+fg	21362	Reher	1	Euse Bage sind nich sä̂u hauch, jêue sind vél hähta.
+fg	21384	Harderode	1	Juse Barge sind nich sö͡u hä͡auch [tie bar reicht bis hinter 'u'], ji͡u sind viel höchter.
+fg	21405	Rheden	1	Juse Barge sind nich sä=u= hä=u=ch, jiue sind väl höchter.
+fg	21429	Nette	1	J ̆-use (i ̆-u-se) Barge sind nich recht hoch, ji ̆-u-e sind vehl högger (höchter)
+fg	21446	Steinlah	1	Juse Barge sind nich huch, jĭŭ/e sind viel högger.
+fg	2145	Kurschen (Kuz'Mino)	1	Onse Barge sen nich sehr hoch, june sen vel höcher.
+fg	21455	Gross Schiplage	1	Uise Birge send nich nütte hauge, jue send vull hoeger.
+fg	2161	Kalnen (-)	1	Onse Barge sönn nich sehr hoch, june sön[d?] väl höchcher.
+fg	21611	Schweicheln-Bermbeck	1	Use Bärge sind nich sau hauge, dei Juen sind viel häuger.
+fg	21632	Veltheim	1	Use Barge sind nich so hoch, osse jaue Barge.
+fg	21666	Rohden	1	Use Bage sin nich sa heoch, jiu Bage sin vel heucher.
+fg	21679	Springe	1	Use barge sind nich sãũ hoch, jũe sind vẽl höchter.
+fg	21687	Vardegötzen	1	J͡use Barge sind nich heoch, jiue sind heuger.
+fg	21707	Rautenberg	1	Juse Bärge sünd nich sau gans heoch jiue sünd vel högger.
+fg	2182	Soginten (Svirskoe)	1	Önse Barge sen nich sehr hoch, june sen väl hecher.
+fg	21882	Bodenstedt	1	Äuse Barge sünd nich sähr hoch, jäue sünd vel högger
+fg	21902	Rautheim	1	Use Barre sind nich grülich hoch, dä juen sind viel högger.
+fg	21936	Bartensleben	1	Use Berge sünd nich sau hoch, ju sünd vel högger.
+fg	2200	Narmeln (Polski)	1	Onnse Barg sennd nich sehr hoch, june sennd väl hecher
+fg	2204	Leysuhnen (Ščukino)	1	Onsre Barg senn nich seha hoch, june senn väl höcha.
+fg	22044	Rottorf	1	Use Barge sind nich veel hoch, jue sind veel högger.
+fg	22063	Hundisburg	1	Unse Berge sind nich söllsch hoch, juhe sind vehl högger.
+fg	22074	Farsleben	1	Unse B(ea)rge sind nich so hoch, gue sind vele högger.
+fg	22083	Reesen	1	Unse Berge sind nich sere hoch, jue sind ville höjer.
+fg	22092	Paplitz	1	Unse Berge sind nich sehre hoch, jue sind vülle höer
+fg	22111	Wasbüttel	1	Üse Bärge sünd nich sau hoch, jüe sünd fehl högger.
+fg	22149	Rätzlingen	1	Use Barge sünd nich sau hoch, jue sünd veel högger.
+fg	2216	Hermsdorf (Pograničnyj)	1	Ons Barg sönn nich seha hoch, jun hönn väl höcha.
+fg	22172	Burgstall	1	Unse Berje sünd nich sehr hoch, jue sind wol höjer.
+fg	22222	Reislingen	1	Use Barge sünd nich sehr hoch, jue sünd vehl högger.
+fg	22249	Roxförde	1	Unsere Berge sünd nich sehr hauch, gu sünd völ högger.
+fg	2225	Moritten (Oktjabrskoe)	1	Ons Barg sönn nich sea hoch, jun sönn völ höcha.
+fg	22264	Grieben	1	Unse Berrih sind nich sihr hoch, juh sind höier.
+fg	22276	Zabakuck	1	Unsere Bärri sind nich sihre hoch, ju sind vöähle höher.
+fg	22375	Westerholz	1	Use Bargn sünd nich gans hoch, jue sünd vähl högg'r.
+fg	22384	Tülau-Fahrenhorst	1	Use Berg sünd nicht hoch, jue sund vöhl högger.
+fg	22394	Köbbelitz	1	Unds Berg sünd nich sau hauch, de ju sünd völ högger.
+fg	22407	Schenkenhorst	1	Uns Berg sün nich sehr houch ju sün vöäl högger.
+fg	2242	Naunienen	1	Ons Bark sön nich seha hoch, jun sön vel höche.
+fg	22423	Querstedt	1	Uns' Berj sünd nich sehr hoch, ju sünd vöhl höher.
+fg	22443	Staffelde	1	Unse Berre sind nich helsch hoch, ju'e sind vöäl höher.
+fg	22453	Grosswudicke	1	Unse Bärrie sind nich sihre hoch, ju sind föle höher.
+fg	22574	Masel	1	Uns Berg sünd nig gans hog, jo͡u sünd väl höger.
+fg	22581	Höddelsen	1	Uns Berg'n sünd nich sehr hoch, jo sind veel högger.
+fg	22599	Wöpel	1	Uns Bärg sünd nich sau hoch, jüh sünd vöhl högger.
+fg	22621	Molitz	1	Uns Berg sünd nich sau ho[uc?]h, ju sind völ heuer.
+fg	22636	Rönnebeck	1	Uns Berg sünd nich sehr hoch, ju sünd v(äö)l höher.
+fg	22654	Iden	1	Un's Berg' sind nich gefährlich hoch, jue sind völ höger
+fg	22667	Kuhlhausen	1	Unse Bärri sind nich sihr hoch, jue sind föähl höjer.
+fg	22685	Proitze	1	Uns' Bargns ßünd nich ßehr 'och, jo ßünd veel 'öger.
+fg	22773	Holdenstedt	1	Use Barge sünd nig sehr hoch, jauhe sünd vehl höer.
+fg	22796	Wustrow (Wendland)	1	Uns Barg'n sünd nich sehr hoch, ju sünd völ höger.
+fg	22810	Lomitz	1	Uns Berg'ns sünd nich sehr hoch, ju sünd vä͜öl höger.
+fg	22819	Jeggel	1	Uns Barg sinn nich sehr hoch, juh sinn veel höcher.
+fg	22832	Gross Lüben	1	Uns Berg sind nich so hoch ju sind völ höger.
+fg	22846	Görike	1	Uns Berg sind nich sehr hoch, de euren (ju) sind vöäl höger.
+fg	22910	Holthausen	1	Us Berg sinnt ne arg houach, de inken sinnt völl högger.
+fg	22931	Dahlhausen	1	Unsere Biärge sind nich sehr houge, de inken sind vürl höger.
+fg	22965	Langeloh	1	Use Bi͡ärge sind nit  sähr ho͡auge, de inken sind vï͡ël högger.
+fg	22990	Halingen	1	U͜ise Biärge sinnt nitt seer hiauge, de iuen (inken) sinnt vi͜ell höggter.
+fg	22998	Neheim	1	Unse Biärge sint nit wahne häouge, de uggen sint vill höchter.
+fg	23010	Niederbergheim	1	Üĕse Biëärge [Bogen über 'ëä'] sind nitt wahne hëuje, dei uggen sind viël höchter.
+fg	23021	Kapellen	1	Ons Bä͡erge sinn nit erg hoog, de ow sinn vööl högger.
+fg	23031	Rheinberg	1	Ons Berge sind nit erg hog, de oh sind völ höger.
+fg	23184	Holthausen bei Kirchhellen	1	Usse Berge sünd nech so hoch, dä inken sünd völl högger.
+fg	23191	Herten	1	Usse Biage sind nich ganz grout, dä inkn sind weöl hähger.
+fg	23207	Waltrop	1	Usse Biärge sint nit ganz huoge, dä inken sint vüöll högger.
+fg	23218	Kamen	1	Use Biärge [Bogen unter 'iä'] sind nit sehr häuge [Bogen unter 'äu'], dei inken sind viel [Bogen unter 'ie'] högger.
+fg	23231	Norddinker	1	Uise Bärge sind (virl) nit soeu häeuge, de iue sind virrl höchter. 
+fg	23261	Kessel	1	Ons' Bĕrge sin nitt ä̆rg hoch, de oli͡je sin völ högger.
+fg	23271	Kehrum	1	Ons Berge sinn nit erg hoch, de ow sinn völl högger.
+fg	23284	Hamminkeln	1	Onse Bargen sönd niet sehr hoch, de ouen soin völl höger
+gh	23293	Erle	1	Uise Bärge sünd nich gais  hoge, de uhnen sünd völl höger.
+gh	23343	Göttingen	1	Use Bierge sind ni wahne hauge, joue sind viel höchter.
+gh	2338	Wenslowischken (Voznesenskoye)	1	Onse Barge send nich sehr hoch, june send väl höcher.
+gh	23402	Holtwick	1	Use Biärge sint nich so hoch as de inken, de uhen sind vil högeder.
+gh	23412	Seppenrade	1	Usse Biärge sind düftig haug, die inken sind viel högger.
+gh	23419	Davensberg	1	Urse Biürg sind nich düftig hoch, de juen sind högger.
+gh	23426	Vorhelm	1	Use Biärge sind nich düftig haug, jue sint viel höägter
+gh	23435	Stromberg	1	Uuse Birge sind nich ganß hauge, joue sind höchter.
+gh	23453	Stockum bei Coesfeld	1	Usse Biärg sitt nich wahn hauch, deh uhen sitt vull höchter.
+gh	23466	Nottuln	1	Usse Bierg sind nich düftig hauch, de juhen sind vull höcher.
+gh	23471	Münster	1	Usse Biärge sint nich sehr hauge, jue sint viäl höchter.
+gh	23478	Einen	1	Use Biäg sint nieh düflig haug, gue seit häochter.
+gh	23483	Greffen	1	Usse Biäge sind nich nütte hauge, de jouen sind vijel höchter.
+gh	23494	Speelberg	1	Onse berge sin niet ä̊reg hoog, de ŏwe sin vööl hōher.
+gh	23498	Hemden	1	Unse Bärge sünt neeth hoge, de ouen sünt völl höger.
+gh	23507	Weseke	1	U[c?]se Bärge sünd nich gais hoge, de unen sünd full höger.
+gh	23545	Tüddern	1	Uns Berg sin net sier hueg, de ühr sen völl hueger.
+gh	23566	Porselen	1	Ohs Berg s[ind?] net sihr huch de ühr sind völl huger.
+gh	23602	Holzweiler	1	Oß Bèrg sind net esu hūch, de ür sind vüll hüeger.
+gh	23630	Evinghoven	1	Ongs Berg send nett ärg huch, de ür send vill hüger.
+gh	23817	Reusrath	1	Uß Berg sind nit ärg hu, die ür sind vill hüder.
+gh	23843	(Stolzenberg)	1	Uhs Berg' sennt net arg huh, d' üĕren sennt völl hüder.
+gh	23858	Oberklüppelberg	1	Unse Biärge sidd nich arg hoge, de enken sidd vel höger.
+gh	23873	Valbert	1	Unse Biärge sind nit sehr hoge, de inke sind viel höger.
+gh	23885	Sporke	1	Unse Biärge sind nit sehr hëugn, de auen sind viël högger.
+gh	23902	Schmallenberg	1	Uesse Biärge sind nit wahn häŭ̈ge daï aggen sind fiäl högger.
+gh	23906	Elmpt	1	Os Bärg send net si͜er hug, de öhr send völl hocher.
+gh	23922	Helenabrunn	1	Os Berg sent net so huoch wie dö ür, dö ür sent föll höcher.
+gh	23933	Weißenberg	1	Os Bärg send net ärg hoch; de üer send voll höger(l).
+gh	2398	Mertensdorf (Tjomkino)	1	Ons Barg send nicht ser hoch, june send vel höcher.
+gh	2409	Trausen (Lipnyaki)	1	U͡ons Barg si|en nich sea hau[h?], jun si|en vel hi|echa
+gh	24107	Hubbelrath	1	Uss Berg sind nitt arg hu͜och, de ü͜ör sind völl hü͜öjer.
+gh	24134	Barmen	1	Usse Berge sind nitt arg hoach, de önken sind völl högger.
+gh	24156	Delle	1	Unsre Biärge sind ganz ho͜auge, dä inken sind vill högger.
+gh	24167	Altena	1	Unse Berre sind nit ganz hauge, de[?] inken sind vīěl högger.
+gh	24180	Stockum	1	U[e?]se Biärre sind nit ganz (ungebr. sehr) heoge, de uggen sind viell höchter (högger)
+gh	24208	Wall	1	Oß Berg sind net sehr huech, de üer send vill höger.
+gh	24218	Vennikel	1	Os Berg sind nit ärch hoch, de ouen sind völ höger.
+gh	2426	Groß Pentlack (Kamenka)	1	Ons Barg send nicht sehr hoch, june send vehl höcher
+gh	24336	Berghausen	1	Inse Berge sein net sehr huk, öwe sein vel heger.
+gh	2436	Kowarren (Zaozernoye)	1	Onse Barge send nich sehr hoch, juhne send väl höcher.
+gh	24360	Bottendorf	1	Inse Bärge sein nett hoch, öwe sein vehl hecher.
+gh	24380	Bergfreiheit	1	Unze Bärge sen net sehr hoch, die eiren senn vell hecher. (auch sein)
+gh	24412	Roppershain	1	Enser Berje sin nett so hoch, üje sinn vähle hecher.
+gh	24431	Konnefeld	1	Unse Bährge sinn net so hoch, ewwe si͡enn vehle höchcher.
+gh	24454	Berneburg	1	Onse Beerge sen net sehr hoch, ure sen vele hächer.
+gh	24466	Lüderbach	1	Unse Bärge sinn nitt sihr huch, die uren sinn vele hecher.
+gh	24490	Züschen	1	Unse Biärge sitt nitt ganz hauge, ugge sitt viel högger.
+gh	2452	Kleschowen (Kutusowo)	1	Onse Barge sen nich sehr hoch, june sen väl höcher.
+gh	24636	Rhadern	1	Unse Berge sinn nitt vell hauch, ugge sinn vell höcher.
+gh	24659	Buhlen	1	Inze Bärge sin net ganz hoch, ugge sin vell hechcher.
+gh	2466	Tolkmicko	1	Onse Barg sönn nich sea hoch; juhne sönn väl hö̆cha.
+gh	24677	Metze	1	Ense Bährgä sinn nett sehr hoch, oggä sinn vählä hechcher.
+gh	24695	Wattenbach	1	Onse Bärge senn nett hoch, de uggern sänn väle höchcher.
+gh	24715	Vockerode	1	Unsere Bǟrge sinn nidd ser hoch, die uhren sinn vehl höcher.
+gh	24737	Grosstöpfer	1	Unser Bärge sinn nit so hoch, deh üren sinn vele hecher.
+gh	2474	Pierzchaly	1	Onse Barg sen nich so hoch, june sen vel höcha.
+gh	2482	Peterswalde (Piotrowiec)	1	Ons Barg sön nich sea hoch, jun sön vel höcha.
+gh	24884	Olsberg	1	Usse Biärge seÿt nitt sau heuge; ugge seÿt vil höchter.
+gh	24901	Sudeck	1	Unse Berge si'd nit vill hauch, (sehr itt ungebrl.-statt d. viel) jugge si 'd vill hödder.
+gh	24917	Braunsen	1	Unse Berge sidd nit arg hauh, jugge sidd viel hädder.
+gh	24926	Zierenberg	1	Unse Berge sin net sehr hauch, d' jugge sin vell höcher.
+gh	2494	Saruny	1	Oes Barg sönd nich söha hoch, jun sond väl höche.
+gh	24942	Speele	1	Unse Bärge sin nit ganz hoch, ugge Bärge sin vele höcher.
+gh	24959	Hermannrode	1	Use Barge sind net sau hach, de kuwen sind wel höcher.
+gh	2507	Wojciechy	1	Ons Barg sön̄ nich sea hoch, jun sönn veel höchcher
+gh	25113	Meiste	1	Use Biärge sint nit wahne he-uge, jiue sint viel höchter.
+gh	25131	Fürstenberg	1	Usse Biärge syd nit gans häuch, jiue syd vill höchter.
+gh	25136	Scherfede	1	Usse Birge säid nie düchtig hach, däi jugen säid höchter.
+gh	25150	Körbecke	1	Usse Bi͡ärge sind ne͡-i so hauch, de juggen sind vill höchter.
+gh	25163	Gottstreu	1	Use Bergn sind nich sehr hach, dei jouichen sind viel hocher.
+gh	25179	Esebeck	1	Use Barge sind nich sau sehr hoch, jue sind vele höcher.
+gh	25197	Ebergötzen	1	Usĕ Berje sind nich sehr hach, joue sind vēle hö̆cher.
+gh	25214	Bönninghausen	1	Use Berge sind nit säu häuche, de jiuen sind viel höchter.
+gh	25223	Kirchborchen	1	Usse Biärge send net sehr haūch, deī jiūhen send vill hödder.
+gh	25343	Siebenstern	1	Ouse Biärge sind nit sehr hauch, jugge sind viel höchter.
+gh	25354	Bruchhausen	1	Use Biärge sind ni hach, däi juggen sind viäl höchter.
+gh	25363	Schönhagen	1	Use barge sünt nich seer hauf, jue sünt vele höchter.
+gh	25373	Oldenrode	1	Ëuse Barge sind nich seau hach, dei andern sind viel högger.
+gh	25391	Marke	1	(Ju)se Barge sind nich s(eau) h(eau)ch, j(iu)he sind viele höcher.
+gh	25407	Westerwiehe	1	Use Biärge sind nich gans hauge, jouhe sind viël höchter.
+gh	25514	Haustenbeck	1	Iuse Berge sind nich se hauch, j[iu?] sind vell höchter (ö zw. ö & ä).
+gh	25522	Heesten	1	Juse Berge sind nich seu hadder hauch, jugge sind vell höchter.
+gh	25543	Rischenau	1	Iuse Bärge sind nich düt hauch, jüwwe sind vel hȫchter.
+gh	25560	Lobach	1	Juse Barge sind nich ganz hauch, dei iu en sind vel höchter.
+gh	25579	Wenzen	1	Juse (iuse) Barge sind nich sä-u hauch, jiue sind vi-ele höchter.
+gh	25596	Ackenhausen	1	Juse Barge sind nich sea hauch, dei giue sind viele höchter.
+gh	25607	Wolfshagen im Harz	1	I͡use Barge sind nich sau hu͡och, ji͡u sind vi͡ël höchter
+gh	25798	Kell	1	Os Berige sein net arig hu, die Euere sein vil hüher.
+gh	25824	Stromberg	1	Os Bärge sei nett sihr hu, uhr sein vill hüher.
+gh	25845	Staudt	1	Oß Berje sein net siha hü ' d aua sein vill hiha
+gh	2586	Jurkiszki	1	Onse Barge sen nich sehr hoch, june sen väl höcher.
+gh	25876	Steinbach	1	Us Berge sen net sehr huch, de(i auern sen viel höer.
+gh	25904	Höfen	1	Os Bärreg send net baschdig huäch, de üäre send vell hüäger.
+gh	25914	Gemünd	1	Oß Bärg senn nett si͡r hu͡e, de ühr se vell hu͡eder.
+gh	2602	Maciejowieta	1	Unse Barge sind nich sehr hoch, juhne sind väl höcher.
+gh	26141	Iversheim	1	Oß Berg sen net siä huh, de üä sen vell huhde.
+gh	26155	Gelsdorf	1	Os Bereg sen net sieh huh, de ühe senn viel hude.
+gh	26178	Ohlenberg	1	Os Berg' sen nit arg huh, die ühr sen vill hüter
+gh	26205	Seifen	1	Os Berg sen net sier hu, de ihr sen vill hüher.
+hi	26228	Gehlert	1	Us Berge sein nitt sehr huch, die auern sein viel hücher.
+hi	26261	Waigandshain	1	Us Berge sei net org hug, aur sei vill hicher.
+hi	26283	Sinn	1	Us Berge sei net sehr huck, auer sei vill hicker (höher).
+hi	26312	Venwegen	1	Os Börg send neitt sier hug, de ühr send völl huer.
+hi	26324	Üdingen	1	Os Bärg send nöt sihr hu, de ühr send vel huhter.
+hi	26351	Borr	1	Os Berig senn net siehe huh, de üe senn vell hüte.
+hi	26578	Roisdorf	1	Oß Berg sinn net siē hu, de üre senn vell hüēte.
+hi	26604	Geistingen	1	Uhs Berg senn net sihr huh, de ühren senn vell hüher.
+hi	26627	Herchen	1	Uhs Berg sen net ärg hu, de ühre sen vill hüer.
+hi	26642	Mittelhof	1	Aus Berje senn net su huh, de euer senn vill häjer.
+hi	26664	Wilden	1	Ohs Berj säng nett sihr huech, de au säng fill hiejer.
+hi	26683	Straßebersbach	1	Oi Barje sei net hoik, de auer sei vil hijer.
+hi	26712	Mariagrube	1	Oß Berg send net ärg hu|ech, de ü|er send völl höjer.
+hi	26734	Niederzier	1	Os Berg send net erg huch, de üe send vel hügere.
+hi	26753	Horrem	1	Ohs Bereg sänd nett ärg hǎh, de ühr send vell höhde.
+hi	2676	Rygarby	1	Ons Barga sen nich so hoch, jun sen doch väl höcha.
+hi	26763	Poll	1	He unz  Berg sinn nit ärg hu, de ühr sinn vill huhter.
+hi	2691	Kolwiny	1	Ons Barg send nich sēa hoch, jun send (od. sĕn) väl hö̆cher.
+hi	27003	Heiligenhaus	1	Ŏhs Bèrig sén nét‿e su hu, dè üher sén hühter.
+hi	27025	Faulmert	1	Us Berge seng net arg hohe, de üren seng vel höher.
+hi	2703	Srokowo	1	Ons Barg sönt nich sehr hoch, juhn sönt vähl höcher.
+hi	27038	Hahnseifen	1	Us Berg seng net sehr hoh, de üern seng vill höher.
+hi	27064	Müsen	1	Os Berg sie net sehr hoch, de egge sie vel höger.
+hi	27074	Schameder	1	Inse Berge sei net färchterlich hug, öge sei veerl heger.
+hi	27106	Dudenhofen	1	Oanser Berg sann nitt sihr houch, auer sann väil häicher.
+hi	27135	Wenighösbach	1	Unsare Barge sann nit [Bogen unter 'i'] sehr houch, die eiern sann viel häher.
+hi	2715	Stregiel	1	Onnse Barge sönn nich sehr hoch, june sonn väl höcher.
+hi	27150	Wiesthal	1	Ons Beage sind nit so hoch, euer sind viel hücher.
+hi	27163	Massenbuch	1	Uner Berg sen nit sehr hoach, euere sind viel höacher.
+hi	27186	Neubessingen	1	Uner Berk sen nit sou hoach, eu'ra sen viel höachar.
+hi	27209	Dittelbrunn	1	Uner Berg sen niat sou hach, eura sen viel höach'r.
+hi	27223	Vockenhausen	1	Unser Berje sein nit sehr huch, die euern sein viel hiecher.
+hi	27244	Heddernheim	1	Unser Berg' sinn net sehr hoch, die euern sinn viel höcher.
+hi	2727	Budziska	1	Onse Barger sönd nich so söhr hoch, june sönd föhl höcher.
+hi	27425	Bruchköbel	1	Uhs Bärje sei͜n nedd sihr huch, auer sei͜n vill hiher.
+hi	27444	Hailer	1	O͡us Berg sei neït siehr houch, deï auern sein vill hicher.
+hi	2746	Chelchy	1	Onse Barge send nich sehr hoch, june send vehl höcher.
+hi	27461	Oberndorf	1	Ons Bärg sai net so hoch, euer sein viel höcher.
+hi	27469	Rossbach	1	Onner Barg sein net so hōch, äuiere (äu fast ei) sein viel höcher.
+hi	27480	Hassenbach	1	Unner Barg sänn nitt hoach, euara sänn viel höcher.
+hi	27501	Poppenlauer	1	Unner Berg senn niät sou hoäch, euärä senn viel höächer.
+hi	27507	Cratzenbach	1	Uß Berja sein nit su huch, d' oier sein vill héher.
+hi	2762	Wilkowo	1	Unse Barg senn nich sehe hoch, june sēn vel höche.
+hi	27692	Friedrichstal	1	Us Berje sein nit su huch, aue sei vill hiher.
+hi	27719	Leidhecken	1	Uhns Bärje sain näit sihr houch, die auern sein väil hiher.
+hi	27742	Gelnhaar	1	Uñs Beak sai näit sir huch, die auen (au) sai vill hicher.
+hi	27765	Ulmbach	1	Ons Berg sei nihet z' hoch, euer sei viel höcher.
+hi	27775	Eichenried	1	Onnse Baerg senn nett se hoch, die euer senn vill höchcher.
+hi	27792	Wildflecken	1	Unsa Barg sen net so hōch, éu er sen viel höcher
+hi	27807	Bastheim	1	Unner Berg sen nit so hoch, euere sin viel höcher.
+hi	2781	Karwiny	1	On̄se Berg sönn nich sehr hok, eure sönn vöhl höchcher.
+hi	27821	Philippstein	1	Us Berje sei nit sehr huk, die auern sei vill hicher.
+hi	27835	Dornholzhausen	1	Uhs Berk es net so huk, au seij viel hiher.
+hi	2800	Krzykaly	1	Ons Berg seaie nich sea hok eua sain vöhl höcha.
+hi	28010	Nonnenroth	1	Uus Berk sai naiht sou huuch, däi aure sai fäil hieher.
+hi	28027	Götzen	1	Uhs Berge seih neat sah huch, auh seih väil hicher.
+hi	28045	Altenschlirf	1	Onsere Baärg seih nett so hoch, oauh sei vill höcher
+hi	28063	Fulda	1	Ŏnser Berg sen net sehr hoch, euer sen vill höcher.
+hi	28080	Rupsroth	1	Onsere Bärg sen net sähr hoch, euer sen vill höher.
+hi	28107	Gerthausen	1	Uns Bärg sinn niet so hoch, euere sinn vill höcher.
+hi	2817	Mawry	1	Ons Barg sain nich söha hog, dö aire sain vöhl höcha.
+hi	282	Zolna	1	Us' Barg sind ni sehr hoch, jug' sind feel höjer.
+hi	2827	Sarnowo	1	Ons Barg seie nich seah hog eia seie fehl hecha.
+hi	28278	Krumbach	1	Ois Berk sei neat se huck, au sei viel hücker.
+hi	28298	Londorf	1	Jhs (ns) Berje sei (ns) nit sehr huk, au sei (ns) viel higer.
+hi	28315	Otterbach	1	Ins Bearg sei nitt viel huhk, eu sei viel hicher.
+hi	28330	Schwarz	1	Ens Behrk si nett so hoch, ou si vel höcher.
+hi	28346	Grossenmoor	1	Onse Bä(r)k (br.) sen net sähr (br) hoch, äien (eure) sen vil höcher.
+hi	28358	Rasdorf	1	Onsär Berjä senn nätt sehr hoch, euer senn vill höcher.
+hi	28369	Wiesenthal	1	Ons Bärg senn nett sähr hooch, euer senn vill höcher.
+hi	28392	Herzhausen	1	Eïse Bärje saï nit z' hug, aue saï vill hijer.
+hi	2846	Ledlawki	1	Ons' Barg sön nich sea hoch, de junge sönn väl höcha.
+hi	285	Kosobudy	1	Uns Barg send nich sehr hoch, dai ju send vel heje.
+hi	28568	Betziesdorf	1	Inse Berge sai nett viel huch, auer sai viel hieer.
+hi	28589	Neustadt (Hessen)	1	Eise Berk sei nett su hoch, auwe sei veel höcher.
+hi	28605	Neukirchen	1	Inse Bärge (Einzahl: Bährt) seng net sehr hoch, äuwe send vähl hecher.
+hi	28623	Gittersdorf	1	Onse Bärge sen net sähr hoch, de euwer sen fill hecher.
+hi	28640	Herfa	1	Ons Berge senn net sehr hoch, auwe senn vel höchher.
+hi	28651	Frauensee	1	Onse Bärg sein net sehr houcht, euwere sein vill hecher.
+hi	289	Königswiese (Leśna Huta)	1	Us Bahj sint nicht seä hoch, de jug sind väl hehje.
+hi	2900	Borawskie	1	Onse Barge sönd nich so sehr hoch, june sönd veäl höcher
+hi	2906	Zabrowo	1	Os Bag send nech see hoch, jug send väl häche.
+hi	291	Lubichowo	1	Us Bag sind nich sehä hoch, däh jug sind vähl höche
+hi	2916	Stanowo	1	Ǒnsere Berje sind nich so hok, eire sind vêl höher.
+hi	2923	Fijewo	1	Onsre Berg send nich sehr hoch, de eire send viel höher.
+hi	2935	Groß Koschlau	1	Unsre berge sennd nich ser hoch, di eure sennd feel heher.
+hi	2955	Liksajny	1	Oansere Berge sönd nich sehr hock, die eire sönd vel höcher.
+hi	2962	Molza	1	Unsere Berge sün nech sehr hoch, de eure sün vel höcher.
+hi	2970	Warkaly	1	Ons Berg saie nich sea hoch, aia saie veel höcher.
+hi	2996	Bucznik	1	Onse Berg sein nicht sehr hoch, die eurge sind viel högger.
+hi	300	Montauerweide	1	Onsre Barge send nich sehr hoch, june send vel höger.
+hi	300660	Sankt Roman	1	Unsere Berg sand niedriga wie de engarn.
+hi	300798	Reikersdorf	1	Insre Bergn hánd net goa so heo, de engan hand vü heha.
+hi	301042	Rigaus	1	Insani Berg sand nit so hoa, do sand enkani scho vie heha.
+hi	3058	Zyndaki	1	Onse Barge sen nich sea hoch, ju[n?] sen hecha.
+hi	3069	Rychliki	1	Onnsre Berg sönd nicht sehr hoch, eure sönd veel höcher.
+hi	3083	Chojnik	1	Onse Berg seie nich sehr hoch, eure seie völ höchcher.
+hi	3093	Ksiaznik	1	Onse Barg seiē nicht sehē hok, eure seiné vel höchē[?]
+hi	3111	Glotowo	1	Ons' Berg sein nich sea hoch, eua sein völ höcha.
+hi	312	Ryman	1	Uns Bag sün nich seha hoch; jug sün fehl höga.
+ij	3122	Derc	1	Ons Baarg sain nich seha hok, eua sain veel höcha.
+ij	31677	Battweiler	1	Unser Berje sen nett sehr hoch, die eire senn viel heher.
+ij	31695	Heltersberg	1	Unser Berje sinn net so ārig (sehr) hog, die eirre sinn vehl (viel) höjer.
+ij	31700	Ramberg	1	Unsere Berg sin net so arg houch, die euere sin vēl höicher.
+ij	31719	Geinsheim	1	Unser Berk sinn net arg hoch, euri sinn viel höcher.
+ij	31737	Diedenhofen	1	Uus Berger senn net se͡jer he͡jg, èr senn vill he͡jger.
+ij	31765	Laumesfeld	1	Us Bergen sénn nétt seier heich, ähr sénn fill héiger.
+ij	31789	Beckingen	1	Us Berg' sönn nett sehr heg, är sönn vill heger.
+ij	31800	Calmesweiler	1	Us Berg senn net sehr hoch, auer senn vill heher.
+ij	31824	Steinbach bei Ottweiler	1	Unsere Berje sinn nett sehr hoch, die auere sinn viel heher.
+ij	32019	Dietschweiler	1	Unsere Berge sein nicht sehr hog, die euren sind viel höher.
+ij	32040	Siegelbach	1	Unsere Berje sinn net sehr hok, die eire bin viel höher.
+ij	32053	Alsenborn	1	Unsre Berje sinn net sehr hoch, die eure sinn viel höher.
+ij	32067	Erpolzheim	1	Unsere Berje sinn net so hoch, eire sinn viel höcher
+ij	32085	Kreuzweiler	1	E'is Berg sen net sou hoeich, a'ir sen vill hoeier.
+ij	32102	Greimerath	1	Us Bärge sen net ärg heech, eier se vill hecher.
+ij	32119	Oberlöstern	1	Uus Berg sen net sehr heech, dei auern sen vil heiger.
+ij	324	Podwilcze	1	O͡us Baag sünd nich sehe hoch, jo͡ug sünd vääl höge.
+ij	3254	Jurkowo	1	Oes Barg sön nicht seha hoch, guh[e?] söe völ höcha
+ij	3267	Pozarki	1	Onse Barge sen nich sehr hoch, de june sen vel höcher.
+ij	3272	Gawliki Wielkie	1	Onnse Barge send nich sehr hoch, june send väl höcher.
+ij	3280	Swietajno	1	Onse Barge seend nich sehr hoch, june seend väl höcher.
+ij	32855	Altviller	1	Usa berjen sin nit sehr hoch, öiwern sin viel hejer.
+ij	32883	Woustviller	1	Unsere Bērge sen net sehr hōch, de ēiere sen viel höger.
+ij	3301	Barschken	1	Onse Barg sönn nich sehr hoch, june sönn väl höcher.
+ij	33035	Rimling	1	Unséré Bérjé si̩n ni̩t sehr hŏch, ouéré si̩n viel hè̆chér
+ij	3304	Dawillen	1	Onsere Barge sönn nich sehr hoch, june sönn vehl höcher.
+ij	33055	Roppeviller	1	Unsre Berije sin nit sehr hoch, de eure sinn vill hecher.
+ij	33064	Dahn	1	Unsèr Bärick sinn nit orig hoch, euère sinn vel häher.
+ij	3309	Dittauen	1	Onsre Bärge sönd nich sehr hoch, june sönd vel höchcher.
+ij	33102	Gleiszellen	1	Unser Berg sinn nit sou hauch, euer sinn viel häicher.
+ij	33111	Herxheimweyher	1	Unser Berg sinn nit sou houch; eieri sinn vel (hö[e?]ïhcher) höicher.
+ij	33126	Guinkirchen	1	U[u/n̆?]ser Behrgen sinn nitt sehr hehch, o=u=wer sinn meh hehch
+ij	33146	Überherrn	1	Us Bergn sin nit sehr hoch, auer sin vill h[a?]her.
+ij	33159	Malstatt	1	Anser Berg senn nett sehr hoch, eier sinn höher. 
+ij	3318	Deegeln	1	Onse Barg send nich sehr hoch, june send höcher.
+ij	33185	Niederwürzbach	1	Unsere Berge sinn net ser hoch, die äirer sinn viel hecher.
+ij	33331	Steinbuch	1	Ŭnsere Berje sin net me so hoch, die eure sin höcher.
+ij	33346	Breitendiel	1	Uns'r Berg senn net so̠͡u ho̠͡uch, euari senn viel hö̠͡ücher.
+ij	33364	Hundheim	1	Uner Bärch sen nid so̰ṵ ho̰ṵch, euri sen viel höücher.
+ij	33381	Steinbach	1	Unner Berk senn gar nit ho͜ëch, euri senn viel hö͜ëcher.
+ij	33400	Eibelstadt	1	Uner Barg senn niat orig hoach, euere senn viel höacher.
+ij	3342	Pillkoppen	1	Onse Barge söend nich sehr hoch, june söend väl höecher.
+ij	33420	Rödelsee	1	Uner Berg sin nit sehr hoach, eura sin viel höachr.
+ij	3343	Karkeln	1	Onse barg sönd nich sehr hoch, june sönd väl höcher.
+ij	3345	Dünen (Ackmenischken)	1	Onse Berg sönd nicht sehr hoch, june sönd väl höger.
+ij	3351	Pleine	1	Onse Barg sönn nich sehr hoch, june sönn väl höcher.
+ij	33605	Erfelden	1	Unsere Berje sinn nedd sehr hoch, die euren sinn vehl höhjer.
+ij	33614	Traisa	1	Unsa Beaje sin net sia hoch, di eire sin vel hega.
+ij	3362	Cullmen-Kulken	1	Onnse Barge sönn nich sehr hoch, juhne sönn vähl hö̀cher
+ij	33631	Heubach	1	[?]r Berje sein nitt, sau (sou) hauch (houch), eier sein veel häich'r.
+ij	3364	Rositten (Rybachiy)	1	Onse Barg senn nich sehr hoch, juhne senn veel höchcher.
+ij	33648	Hofstetten	1	Unser Berg senn nett sou houch, eieri senn viel häicher.
+ij	33660	Bischbrunn	1	Uner Berg sei net hoach, die euera sei viel höacher
+ij	33677	Birkenfeld	1	Unner Berk senn nit sehr houch, euere senn viel höcher.
+ij	33692	Rupprechtshausen	1	Unner Berg senn nit sou houch, euera senn viel höicher.
+ij	33711	Gaibach	1	Unner Barg senn nit arg hoch, Eura senn viel höcher.
+ij	33725	Rüsselsheim	1	Unser Berg sein nett so hoch, eier sein veel hecher.
+ij	33741	Langen (Hessen)	1	Unser Berje sein net gar (a - o) hoch, euer sein veel hööcher.
+ij	33849	Altlussheim	1	Unsere Berig sin net so hoch, euere sin viel höcher.
+ij	33860	Schatthausen	1	Unsärä Bärgä senn ned ărig houch, awer eiäri senn viel höchär.
+ij	3387	Sassenhöhe (Augsgirren)	1	Onsre Barg senn nich sehr hoch, juhne send vel höchch[e]r.
+ij	34001	Daudenzell	1	Unsr Berg senn net so houch; eueri senn viel hechr.
+ij	34015	Billigheim	1	Unsere Berge sin̄ nicht arg houch; die euern sen̄ viel höücher!
+ij	34025	Oberkessach	1	Onser Berg sind net so houch, ere sind viel höcher.
+ij	34044	Ailringen	1	Unsere Berich senn nit so hoch, die euriche sind viel höcher.
+ij	34058	Lichtel	1	Un̄er Berg san̄ nit sehr ho̰ch, euri san̄ viel hächer.
+ij	34065	Windelsbach	1	Uner Bärg sann nì̆t sehr hoach, die eura sann vì̆l häachĕr.
+ij	34076	Ludwigshafen am Rhein	1	Unser Bèrche sinn net ārich hōgg, ei're sinn viel hḗcher.
+ij	34096	Ursenbach	1	Unsa Bèrig sinn nét sou houch, eiari sinn vel häicha.
+ij	34216	Gammelsbach	1	Unser Berg senn nett sou houch, die airige senn viel häiger.
+ij	34228	Rumpfen	1	Unsere Berge send nit so hoch, die euren send viel höher.
+ij	34235	Gerichtstetten	1	Unner Bärg senn nit sehr hōuch, die euern sinn viel heucher.
+ij	3424	Beierstedt	1	Ūse Barge sünd nich (sehr) hoch, ju 'e sünd vēl högger.
+ij	34247	Königshofen	1	Uner Bärich sann nit sou hoach; euari san̄ viela höächr.
+ij	34266	Aufstetten	1	Unser Berg senn nit sehr haach, eura senn viel häachr.
+ij	34288	Weigenheim	1	Unner Berg senn nit sou hag, eueri senn viel hächer.
+ij	34305	Bobstadt	1	Unser Berje sind nit sou houch, eiere sin vel häicher.
+ij	34321	Mittershausen	1	Unser Berje sin nit aorg houch, eieri sin vehl häiger.
+ij	344	Modrolas	1	Us Bag sinn nich sea hoch, jug sinn väl heuga
+ij	34447	Berghausen	1	Unsar Berig senn nett so arig hoch, euare sénn viel höchar.
+ij	34503	Winzerhausen	1	Aṵsere Berg sind et arg hauch, de uire send viel häucher (spr. haicher).
+ij	34522	Liemersbach	1	Unsre Berg' sind net so arg ho̊ch, di eura̰ sind viel hächer.
+ij	34535	Eutendorf	1	Onsa̰re Bärich senn net so ho̰a̰ch, eure senn viel hö̰a̰cha̰r.
+ij	34545	Honhardt	1	Unser Berch san̄ nit sehr hoach, eure san̄ viel hecher.
+ij	34557	Segringen	1	Unser' Berg' sin net so arg hoach, eire sin vill häecher.
+ij	34566	Graben	1	Unser Berg senn nédd so hoch, eire senn viel hecher.
+ij	34707	Odenheim	1	Unser Berg senn net so hoch, aiere senn viel hècher.
+ij	34734	Massenbachhausen	1	Unser Bärig sḛ̆n net arig hoch, die aierə sḛ̆n viel hecher.
+ij	34750	Binswangen	1	Unsre Berg sin̄ nit so ho̰ch, euri sin̄ noch viel höcher.
+ij	34773	Öhringen	1	Unsé̆r Bèrch (sing. u. plur.) sin̄ nét so ārich hōch, eiré sin̄ viel hĕ́chĕ̀r.
+ij	34791	Döttingen	1	Unser Bèrch san nétt sou arch ho̰a̰ch, aire san no̰a̰ch viel hächer.
+ij	34802	Gaggstatt	1	Unser Bèrch san̄ nidd orich hoach, diè airè san̄ viel hǟchèr.
+ij	34818	Dorfgütingen	1	Unser Berg san nit arig hoach, eur san vill häacher.
+ij	34838	Röckingen	1	Unser' Bärig sen̄ nèt so gar hoch, eueri sen̄ viel höcher.
+ij	34855	Windsfeld	1	Unser Berg sen nit so hoach, euer sen viel hächer.
+ij	34872	Ettenstatt	1	Unser' Berg hăn (săn) nit su go(a)er ho(u)ch, die enkern han vill heïcher.
+ij	35003	Untermässing	1	Unsre Berch sen net sar hauh, de enga sen vül haicha.
+ij	35011	Gimpertshausen	1	Unsere Berg sind nieht so hoch, die eueren sind viel höher.
+ij	35026	Beratzhausen	1	Unsere Berg san niat sehr haoch, de engan han vül haecha.
+jk	35035	Eitlbrunn	1	Unsene Berch san net rächt houch, die enken san viel höcha.
+jk	35046	Altenthann	1	Uns're Berge sind ni't sehr hoch, di' euren sei' viel höher.
+jk	35055	Rauenzell	1	Unsere Berig san nit recht hoach; die euren san vie höacha.
+jk	35067	Ismannsdorf	1	Unser Berg senn nit recht hoach euri senn vill hecher.
+jk	351	Smecino	1	Us Bāg sinn nĭch seh'r hoch, jūg sinn fǟl höjä̆.
+jk	3516	Bornum	1	Use Barge sint nich recht hoch, de juigten sint veel högger.
+jk	35165	Büchenbach	1	Unsre Berg senn nett sou houch, eure senn viel höicher.
+jk	35168	Seligenporten	1	Unsa Berg san niat recht hăuch, die enken san viel häuha.
+jk	35188	Günching	1	Unsa Berch san niad su haoch, die engan san viel haicha.
+jk	35195	Adertshausen	1	Unsene Beach han niat sòia hoach, die engan han viel höicha.
+jk	35204	Wiefelsdorf	1	Unsene Berg sa nöt so houch, die enken sa[n?] viel höicha.
+jk	35211	Bodenwöhr	1	Unsane Berg san niat recht höuch, dḛ enkan san viel höüher.
+jk	35223	Flachslanden	1	Uner Berg senn nit arg hach, eiera sein vel haîher.
+jk	35236	Grosshabersdorf	1	Unser Barg sen nit hoch, die eiern sen häger.
+jk	35254	Birnthon	1	Unser B(e)ärg hen nét su goar hâuch, di aiern hen vül häicher
+jk	35339	Röthenbach	1	Unsri Berg sen nit oarg houch, eieri sen viel häiher.
+jk	35377	Alfeld	1	Unna Beag sànn niat sea houch, die enkan sànn vi͜l häicha.
+jk	35382	Ammerthal	1	Unsa Berg san niat reat houch, die enkan san viel höicha.
+jk	35393	Trisching	1	Unserne Berg sand not hoi, die airen sand vu heher.
+jk	35517	Unternesselbach	1	Unera Barig senn nit so hoach, eura senn vill hächer.
+jk	35524	Oberreichenbach	1	Uné Barg sènn nit arg hoch, eié sènn vill hëgé.
+jk	35544	Buckenhof	1	Unsr Berg sin nit so hoch, die euro sen höcher.
+jk	35562	Kirchröttenbach	1	Unner Berg s'en nit recht houch, eier s'en vill hèichér.
+jk	35571	Hartenstein	1	Una Berg han nit goua houch de engern han viel höcher.
+jk	35577	Schlicht	1	Unsa Berg sain niat recht hauch, die enk[e?]n sein viel heacher.
+jk	3558	Beckendorf	1	Use Barge sünd nich grülich ho'ch, jue sünd ve'l högger.
+jk	35585	Kohlberg	1	Unsa Bèrg han niat rècht houch, die enkan han viel höicha.
+jk	35597	Oberlind	1	Unsa Berch san ni͡öt so ho͡uch, die enggern han viel hö͡icha.
+jk	356	Porst	1	Ūs Bā̊g sein nī sea hoch, jug sein väl heuga.
+jk	35710	Haag	1	Unr Barg senn nid arg hach, eura senn hächr.
+jk	3572	Domersleben	1	Unse Berge sin nich grülich ("sehr" giebts nicht) hoch, juĕ sin veel höjjer.
+jk	35729	Mühlhausen	1	Unsere Berge sind nicht arch hoch, die euere sen vill höcher.
+jk	35755	Pautzfeld	1	Unnera Bèrig sen net su huch; eura sen vill höché.
+jk	35762	Moggast	1	Uner Berg sĕn nĕt org hoch; eura sen viel höcher.
+jk	35778	Pegnitz	1	Una Bērig sèn net su houch weī eiern, die eiern sèn vöil heīcher.
+jk	35791	Speinshart	1	Unsa Berg san net söia houch, die engan san viel höichăra.
+jk	35799	Friedersreuth	1	Unsa Béach san niat gåua håuch, d'engsan san v'l håicha.
+jk	35807	Plössberg	1	Uns Berg san niat so ha-uch, die enken san all hecher.
+jk	35824	Geusfeld	1	Unner Barg senn nitt sehr hoach, die euere senn vill höcher.
+jk	35843	Tütschengereuth	1	Unè Berg sen net sèha hoch, euera sen viel höchè.
+jk	35857	Litzendorf	1	Una Berg sen net sea hoih, die euan sen viel höha.
+jk	3592	Prester	1	Unse Barg[a?] sin nich sehre hoch, de juen sin väl häer.
+jk	36007	Hollfeld	1	Unna Beag senn net a̰rg huch, Eura senn viel höcha.
+jk	36017	Donndorf	1	Unnera Berg senn net suh huch, die euern sen̄ v'll höcha.
+jk	36039	Kirchenpingarten	1	Una Beag sen net saia hauch, die en̰ken sen vl haicha.
+jk	36049	Hohenhard	1	Una Berg san niöd read houch, die engan san viel höicha.
+jk	36056	Leonberg	1	Una Berch sàn niad sua hao͜uch, die enkàn sàn vül höicha.
+jk	36065	Hohrodberg	1	Useri Beri sie net so hoch eiere sie viel höcher.
+jk	36084	Colmar	1	Unsere Barge sen net so hoch, èire sen viel hècher.
+jk	3609	Dalchau	1	Unse Barge sin nich sehre hoch, jue sind ville hejer.
+jk	3614	Schweinitz	1	Unse Barje sin sehre hoch, [x] jue sin ville hejer.
+jk	36159	Meistratzheim	1	Unseri Barri se ne gor huch, eieri se vēll hēcher.
+jk	36178	Müllen	1	Ŭnsérĭ Bè̆rg sĭn nĭt ărg hōch, é͡iri sĭn vīl hé̄cher.
+jk	36202	Kniebis (Kr.Freudenstadt)	1	Ḛisere Bèrg senn net so arg hoch, de eire sénn veil hécher.
+jk	3626	Nennhausen	1	Unse Bärge sind nich seähre hoch, de juen sind ville höher.
+jk	36272	Ödsbach	1	D'unseri Berg sin nit so hoch, d'eueri sin hächer.
+jk	36277	Turquestein-Blancrupt	1	Unsere Berje sin nid sehr hoch, dejere sin höjer.
+jk	36282	Wangenbourg	1	Unseri Berge sin nit so arg hoch, euri sen viel hächer.
+jk	36309	Furdenheim	1	Ün̄nsri Barje [Bogen unter 'a'] sén nit ari huch déjeri sén viel héher
+jk	36334	Ruprechtsau	1	Unsere Berg sĭn nĕtt ārig hoch, eire sĭn viel hȫcher.
+jk	3634	Berge	1	Unse Berge sind nich so hoch, jue sind ville höher.
+jk	36348	Achern	1	Unsre Berg sin nit arg hoch, eiere sin viel hècher.
+jk	36362	Saarburg	1	Unseri Bèrje sinn nitt sehr hoch, éiri sinn vill héher.
+jk	3639	Pausin	1	Unsä Berge sind nich ßähre hah, jaue sind ville höjer.
+jk	36489	Bois De Chêne	1	Unseri Berge sin nit sehre hoch, eeri sin viel hecher.
+jk	3649	Hermsdorf	1	Unse Berje sin nich sehre hoch, die euren sinn ville höcher.
+jk	36525	Wilshausen	1	Unsere Bärri sinn net sehr hoch, eijere sinn vehl hecher.
+jk	36552	Marienthal	1	Unsri Barri sén nét arich huch, äiri sén viel hécher
+jk	36567	Fort-Louis	1	Uns'ri Berri sin nit arich hah, die èjéré sin viel hech'r.
+jk	36594	Bad Rotenfels	1	Unsere Berg sin nit so hoch, euere sind viel höcher.
+jk	366	Przeradz	1	Uos Bag sin ni su hoch, dei juge sin väel höge.
+jk	3664	Birkholz	1	Unsere Berge sind nicht siere hoch, die euren sind viel höher.
+jk	36737	Altwiller	1	Unsre Berje sin nit sehr hoch, d'r ejre sin viel höher.
+jk	36755	Weislingen	1	Uns'ri Berje sin nit sehr hoch, d' ejre sin viel hecher.
+jk	3677	Gielsdorf	1	Unse Berge sinn nich siere hoch, jugge sinn ville höger.
+jk	36772	Lichtenberg	1	Unseri Bārï senn ned su huch, Éïérï senn viăl hécher.
+jk	36789	Goersdorf	1	Unsere Berj sind nit arj hoch, eure sind viel höcher.
+jk	36823	Siegen	1	Uns'r Barik sin nit so hoch, eiri sin viel hécher.
+jk	36842	Neuburgweier	1	Unsere Berg' sinn nicht sehr hoch, d'eure sinn viel höher.
+jk	3688	Ringenwalde	1	Unse Berge sin nich sere hoch, joe sin ville heger.
+jk	36880	Bischoffingen	1	Unsiri Berg sin nit so hoch, eueri sin höcher.
+jk	36898	Maleck	1	Unseri Berg sie nit sehr hoch, die euere sin viel häher.
+jk	36911	Yach	1	Isèri Bèrga sin nit sélli hoh, eüri sin viel häi[?]r.
+jk	36933	Orschwiller	1	Onseri Bari sinn nit gar hoch, äeri sinn vill hèchér.
+jk	37007	Bindernheim	1	Unsari Bărri sé néd so hoch, äiari sé fil hèchr.
+jk	37025	Schmieheim	1	Unsri Bärg sin̄ nit so hoch, euri sin̄ vill höcher.
+jk	3703	Lehmannshöfel	1	Unse Berje sin nich sehre hoch, jue sin ville hejer.
+jk	37035	Bollenbach	1	Anseri Berg sin nit arg ho, eueri sin viel höier.
+jk	37058	Le Hohwald	1	Unsari Barja sè nèt so hoch èjari sè vil hècher.
+jk	3711	Warnick (Warniki)	1	Unse Berge sin nich siehre hoch, jue sin ville heher.
+jk	37119	Buchenberg	1	Jsără Berg sen net so hoch, die eiwară sen viel höher.
+jk	37138	Rottweil	1	Iseri Bärg sind nit arg hoh, die eibera sind viel höher.
+jk	37153	Obernheim	1	Aisere Berg sind it so grausig hau, die eibare sind viel haier.
+jk	3722	Zaszczytowo	1	Unse Berge sin nich sehre hoch, die eiren sind viel höher.
+jk	37302	Winterlingen	1	A̰usre Be͡arg send et so sölle (von soll)/grausig hau, de uire send vill haier.
+jk	37314	Dürrenwaldstetten	1	Äußere Bearg sind it so hau, dia uire sind viel haier.
+jk	37333	Hausen am Bussen	1	Unsere Berg sand nit so hoch, dia ḛure sand vèl haiher.
+jk	37354	Baustetten	1	Eisere Bärg send it arg heuh, de uiere send viel haier.
+jk	37369	Illertissen	1	Äußere Berg sind it gar hoha, de uire send viel heher.
+jk	37388	Schenkenzell	1	Eiseri Berg sin̄ nitt arg hō; di eiere sin̄ vḛil haier.
+kl	37401	Aistaig	1	Èisere Berg sind nḛt so hoh, eubre send veil höher.
+kl	3744	Rudnica	1	Unse Berje sinn nich sehre hoch, eire sinn ville höchcher.
+kl	37555	Stetten bei Haigerloch	1	Ausere Berg sind itt sellig hau, die eubere sind veil haier.
+kl	37571	Salmendingen	1	Ausare Bearg sind itt selle hauh, die uiare sind vill haihar.
+kl	37581	Bernloch	1	Aṵsere Berg send et arg hauch, de uire send viel häucher.
+kl	37598	Gundershofen	1	Eusere Berg send net bsonders hauh, de uiere send viel haiher.
+kl	37607	Eggingen	1	Eisèrè Bèrg sand it arg hau, di͜e uira sand viel haier.
+kl	37622	Holzheim	1	Eisere Berg sind net arg ho̰a, de uire sind viel hear.
+kl	37658	Oberwaldach	1	Ä̰ußere Berg send ned sehr hoch, de eubere send viel höcher.
+kl	37802	Bondorf	1	A̰usere Berg sind net gär hoch, die uire sind viel haier.
+kl	37825	Lustnau	1	O̰sere Berg send et arg hau, de uire send viel haier.
+kl	37855	Dettingen an der Erms	1	A̰usere Bärg send et so arg hau, de uire send viel haier.
+kl	37862	Donnstetten	1	Eis're Ber(a)g send et arg hau, de uire send vill haier.
+kl	37869	Radelstetten	1	Onsre Berg send net so hauch de uire send viel heicher.
+kl	37883	Ballendorf	1	Õsåre Bärk sennd ett so hóå, de uire sennd vīel hö́ar.
+kl	37900	Obermedlingen	1	Õnseré Berg sénd nét so gar hõã, d͜ie uiré sénd viel hõãr.
+kl	37902	Raumünzach	1	Unseri Berg sin nit do hoch; d'eiere sind viel hecher.
+kl	37947	Schönaich	1	O̰să̰ră̰ Berg send et arg hauch, dă̰ n uiră̰ sind viel häucher.
+kl	38044	Hünerberg	1	Außere Berg send net arg hau, de uire sen̄d veil haier.
+kl	38056	Gechingen	1	Osere Berg sen net arg hau, de uire sen viel haier.
+kl	38095	Denkendorf	1	Aun̰sere Berg sein et arg hauch, de uire sein viel haicher.
+kl	38116	Albershausen	1	Osere Berg send et arg hauch, de uire send viel häucher.
+kl	38136	Winzingen	1	Onsre Bèrg sind net arg hau, de uire sind viel haier.
+kl	38146	Zang	1	Ō̰sere Berg send et so arg hoa, uire send viel heăr.
+kl	38155	Auernheim	1	Ṵsere Berg sind et arg hòa, di u͜ire sind v͜il hö͜ar.
+kl	38169	Dennach	1	Ŏnsa̰re Bèrg sen nĕt so arg hoch, dĕ eure sen viel höcha̰r.
+kl	38182	Tiefenbronn	1	Ṵsere Berg sen̄ nett so arig hoch, d' uire sen̄ viel höcher.
+kl	38348	Schöckingen	1	Onsere Berg sen̄ net so hauch, de uire sen̄ viel haicher.
+kl	38373	Hegnach	1	Oãsere Berg send net so hauch, de uire send viel haicher
+kl	38407	Steinenberg	1	O̰sere Berg send ēt sehr ha̰uch; dḛ uire send viel haicher.
+kl	38422	Ruppertshofen	1	Osa̰re Berg send net arag hauch, de uire send viel haier.
+kl	38437	Fachsenfeld	1	O̰ser' Berg' send net arg hoa̰, de uire send viel häher.
+kl	38448	Baldern	1	Unsere Berg send net hoch, die uirige send viel höcher.
+kl	38482	Kleinvillars	1	Onsar' Berig' sen̄ nedd so arig hoch, dia̰ eira̰ sen̄ viel höcher.
+kl	38502	Hohenhaslach	1	Onsere Berg send net so hoch, de eure send viel höher.
+kl	38623	Nendingen	1	Eisere Bĕa̰rg sind it sellḭ ho, die eiba̰rḛ sind viel höher.
+kl	38640	Rohrdorf	1	Eisini Beag sind it seli hoh, di euere sind vill heher.
+kl	38655	Völlkofen	1	Eisere Bèrg send ét séhr hoh, dia uirè sind viel höher.
+kl	38666	Reichenbach	1	Eusere Berg sḭnd net so hō; uire sind viel höhər.
+kl	38682	Mittelbuch	1	Eisere Beãrg sĩnd it so hōh, de uiere sind viel hȫer.
+kl	38695	Unteropfingen	1	Eisere Berg sind gar it hoh, de uiere sind vill höher.
+kl	3871	Dreetz	1	Unse Berg' sind nich sihr hoch, ju(re) sind vöäl höjer.
+kl	38720	Kicklingen	1	Unsre Berg sind net sehr hoch, die eure sind viel höher.
+kl	38738	Westendorf	1	Ṵ's're Bérg sḭnd ḭt sehar hoa̰ch, die uirḛ seid viel häacher.
+kl	38764	Waidhofen	1	Insaré Berg san néd rècht hoach, dé éngan san hèàchà.
+kl	38774	Eschelbach an der Ilm	1	Ünsre Berg san net recht hou, dö engan san vie höcha.
+kl	3880	Brunne	1	Unse Berje sind nich siehr hoch, joa͡ue sind vöäle höjer.
+kl	38863	Pöttmes	1	Unsri Berg sen et gar hoch, die enkan sen vii heacha.
+kl	3887	Sommerfeld	1	Unse Berge sind nich sehr hoch, bei jau sind se höger.
+kl	38899	Hebrontshausen	1	Unserne Bergn san nöt rächt houh, de engen san viel höiher.
+kl	38912	Oberglaim	1	Unsre Berg san nöt sehr hoch, die enkan san vöi höcha.
+kl	38935	Fronhofen	1	Osere Berg send nét gar hoach, die uire send viel höa̰her.
+kl	3896	Malz	1	Unse Berge sin nich sihr hoch, ju sin vill höger.
+kl	38963	Stepperg	1	Unsre Berg sind net so houch, die enkern sind viel hechar.
+kl	3901	Stolzenhagen	1	Anse Berge sîn nîch sehre hoch, jau e sîn vîlle höger.
+kl	3906	Prenden	1	Unse Berge sind nich sehr hoch, die jauen sind ville höger.
+kl	39062	Hafenreut	1	Unsere Berg sind it sehr hoach, die eure sind viel höacher.
+kl	39089	Gerolfing	1	Unsern Ba̰rg han nöt so haoch, dö engen han véi haöcher.
+kl	39103	Irsching	1	Unsano Berg san nöt so hoch, die engan han viel höher.
+kl	39116	Siegenburg	1	Unsanö Berg san nöt rècht hoch, dö enkan san vüll höha.
+kl	39126	Semerskirchen	1	Unsere Berg sand nöt rech ha=u, die enkan sand vui hea.
+kl	39140	Hofkirchen	1	Unsernö Bärgn san nöt so hou, di euern (öngan) san vül höa.
+kl	39160	Dürrenzimmern	1	O̰nsere Berg send net gar hoa, dia uire send viel höacher.
+kl	39179	Gundelsheim	1	Unser Berg sen net so gor houch, die rnkern son viel höichar.
+kl	3919	Trampe	1	Unse Berge sind nicht sähre hoch, die juaen sind vielle höger.
+kl	39201	Walting	1	Unsere Berg han net recht hoach, die enkern han viel heacher.
+kl	39293	Bieswang	1	Unser Berg han net recht hāuch, die euer-n han viel häicher.
+kl	3931	Neureetz	1	Unse Berje sin nich so hoch, jue sin ville heer.
+kl	39317	Pondorf	1	Unserne Berg san net hoach, die engern san voul höicher.
+kl	39329	Neukelheim	1	Unsern Berg sand nöt recht hoach, die enkan sand viel höcha.
+kl	39342	Peising	1	Unsere Berg san nöt rächt hou, di enkan san viel höcha.
+kl	39356	Arlesried	1	Eisere Berg send it so hō, dĭ uire send viel heher.
+kl	39370	Türkheim	1	Eiserr Berg send net arg hoach, de uire sind viel hear.
+kl	39398	Gauting	1	Insarö Berg san id so hoach, de echan san vui hoacha.
+kl	3944	Kurzycko	1	Unse Berge sinn nich sehr hoch, de juen sinn veel höer.
+kl	39459	Kaufering	1	Insere Berg sen öt so hoach, die enkera sen viel höacher.
+kl	39475	Eching am Ammersee	1	Insere Berg seind it söhr hoach, die enkern seind viel heacha.
+kl	3949	Grzymiradz	1	Unse Berge sin nich sehre hoch, ju'e sind höher.
+kl	39494	Perlach	1	Unserr Bearg sand net gar höach die enkern sand vül hächer.
+kl	39503	Zorneding	1	Unseri Berg soan nöt recht hoch, de enkarn soan via höcher.
+kl	39509	Albaching	1	Unsere Bergn sind recht hau, die enken vil hauer.
+kl	39515	Sankt Leonhard	1	Insane Berg san net goar houch, de enkern san vuil heher.
+kl	39517	Niederraunau	1	Eisĕra̰ Berg send it so hooch wia de ĕiĕra̰.
+kl	39529	Walkertshofen	1	Unsre Berg sind nit arg hoach, di uire sind viel hehar.
+kl	39546	Oberottmarshausen	1	Unsere Berg sind it fast hoach, dö uirage sind höacher.
+kl	3957	Lubiszyn	1	Unse Berge sin nich sehre hoch, juhe sin vill heger.
+kl	39647	Mittelstetten	1	Insere Berg sen id hoach, die echern sen vṵ̈l höacha̰r.
+kl	3965	Heinersdorf	1	Unsere Bärge sind nich sehr hoch, jaue sind ville höcher.
+kl	39662	Bergkirchen	1	Ünsere Bärg san it sehr hoach, die enkern san viel häacha.
+kl	39667	Unterschleissheim	1	Insere Berg san net so hoach, die enkern san viel hächer!
+kl	39673	Moosinning	1	Ünsere Berg san nöt gar hoch, die enkarn san viel höcher.
+kl	39687	Oberdorfen	1	Insani Beag han nöt recht hao, dö engan hant vui heha!
+kl	39693	Wettenhausen	1	Unsere Berg sind net so hoa, die uira sind viel höar.
+kl	39710	Zusmarshausen	1	Unsere Berg sind nit bsonders hoach, die úire sind viel heacher.
+kl	39723	Täfertingen	1	Unsere Berg sind it feindle hoh, die uire sind viel heacher.
+kl	39742	Gallenbach	1	Insare Berg send net sehr hoch, de euern send viel höha.
+kl	39865	Hilgertshausen	1	Insere Ber sen it hoach dö enkern sea viel heacher.
+kl	39880	Allershausen	1	Unserö Beer san nöt recht houch, dö enkarn san väi höcha.
+kl	39891	Rast	1	Unsare Berng san net recht häuch, de engan san vöil hecha.
+kl	39901	Vilsheim	1	Ūnsa̰nȫ Bärge ha̰nd nöd rächt hoh, dö önga̰n hand vui hécher.
+lm	39954	Sattelbogen	1	Unsa Böag san ned so hoch, di enkan san viel höiha.
+lm	39962	Krailing	1	Unserne Berg san [große Tilde unter „an“] nöt so hȃu, dö öngan [große Tilde unter „an“] sand [große Tilde unter „an“] ve͡î hea. 
+lm	39968	Oberried	1	Unsane Berg[n?] [Wasserfleck] san nöt recht huah dö engan san vie ha̰ēha 
+lm	40000	Pertolzhofen	1	Unsa Berg san nird a recht houch, die enkern san vül he-icha.
+lm	40012	Tiefenbach	1	Unsa Berch han niat rächt houch, die engan han viel höicha.
+lm	40047	Pemfling	1	Unsane Ber han net so háu, woi de engan.
+lm	40057	Arnschwang	1	Un̄ze᷈ne Bär' san nöt fest hau, dö ēnkern (engern) san viell hēichā!
+lm	40112	Wald an der Alz	1	Insanö Berg sand nöt recht heo, dö engan san vül heha.
+lm	40137	Ranoldsberg	1	Insere Berg san net recht hoch, de enggan san vi͡ö höha.
+lm	40145	Erharting	1	Mië hama kŏā̰nö so hoan Berg wië ös, dö enchan ha̰nd fië höha.
+lm	40155	Gumpersdorf	1	Unsanö Berg san nöt recht hoch, dö engan san viel höa.
+lm	40191	Vilsbiburg	1	Unsere Berg sán nöt recht hoch, die enkán sán viel höcha!
+lm	40202	Gangkofen	1	Unsanö Be͜ang sa nöt recht hoch, dö engan sän veï hea.
+lm	40212	Neuhofen	1	Ūnsani Beage sa̰nd nöd goá hoch, dö enkan sand vēi hēhá.
+lm	40220	Bad Birnbach	1	Unsanö Berg hand nöt recht hau, dö enkan hand vui hea.
+lm	40231	Ruhstorf an der Rott	1	Unsere Bergn hand nöt rech houh, die enggan hand weit heiher.
+lm	40274	Wörth an der Isar	1	Unsanö Böag sand nöt recht hoa (a sehr tief), dö änkan hand vëi hea.
+lm	40286	Griesbach	1	Unsere Berge san nöt recht hoach, die engern san viel heher.
+lm	40297	Indersbach	1	Unsanö Be(r)gn hand nöt goa z ho̰, dö enkan hand vei hea.
+lm	40308	Walchsing	1	Unsere Berg sand nöt recht hoch, die engkern sind viel heher.
+lm	40320	Kirchberg	1	Unsarne Beagn hand net recht hou, die enkern hand v[öi?]l höa.
+lm	40331	Haag	1	Unsanö Bergn hand nöt recht heo, dö enggan hand viel hea.
+lm	40402	Hankofen	1	Unsanö Berg hand nöt racht hou, dö engan hand vui he-i a.
+lm	40414	Plattling	1	Unsană Bäag san nöt grad recht haŭ̈, dö enkan san vüï hehă
+lm	40420	Auerbach	1	Unsane Beagn san nöt haou, de engan san hēa.
+lm	40428	Saldenburg	1	Unsanö Berg san nöt so ha(o)uch; dö enkern sand viel heha.
+lm	40439	Karlsbach	1	Unsanö Berg sand nöt sehr h[u?], dö enkan san vêi hoha.
+lm	40516	Steinach	1	Unsere Berg san nöt rècht houch, dö enkern sau vul höha.
+lm	40524	Perasdorf	1	Unsernö Bergn sand nöt so hâuh, ôas dö ängan.
+lm	40531	Regen	1	Unsane Bergn san nöd grad /:gerade:/ haouch; do öngan san viel hö=iha
+lm	40535	Klingenbrunn	1	Engganö Berg' sand naḛ schaḛ viaö (viel) heha aös dö unsan.
+lm	40538	Riekofen	1	Unsene Berg'n san nöt recht houch, dö enkern san viel höicha.
+lm	40597	Lindau (Bodensee)	1	Isere Bearg sind et gär hoch; die eiere sind viel höcher.
+lm	40605	Schnellers	1	Isrè Béārg sind it so hōh, die öiere sind vièl höher
+lm	40613	Ratholz	1	Üsrĕ Béa̰rg sind it schtark ho, dĕ uirĕ sind viel höhér.
+lm	40637	Eschbach	1	Üse Berg sind nit gar hoch, die eura sind viel höcher.
+lm	40655	Erzingen	1	Unsere Berg sind nit seli hoh, die eura sind viel höher.
+lm	40757	Schienen	1	Üsere Berg sind nit sölle hoh, euere sind viel höher.
+lm	40771	Wollmatingen	1	Unsere Berg' sind nit seli hoh, euere sind viel höher.
+lm	40785	Kluftern	1	Iseri Bearg sind it selle hoh, die uiara sind viel höher.
+lm	40798	Obereisenbach	1	Isa̰rḛ Bérg sḭnd it grilḛ ho, dḭ uira̰ sḭnd vil höa̰r.
+lm	40807	Ratzenried	1	Üsere Berg sind it gar hoh, de uire sind viel höhã̆r.
+lm	4081	Bantikow	1	Unse Bärg' sünd nich sir hoch, ju' sünd vä̊l höjer.
+lm	40819	Kreuzthal	1	Eisere Bearg send söhr h[o?_Tilde, durchgestrichen]ch, die euira send viel heaher.
+lm	40844	Münchingen	1	Üsi Berg sind itt hoch; ăij sind viel höcher.
+lm	40863	Tengen	1	Isere Bärg sind nit so ho, eure sind viel heher.
+lm	40898	Billafingen	1	Unsere Berg sind it gar so ho, die euere sind viel höher.
+lm	4093	Kränzlin	1	Unse Bärg sind nich siehr hoch, ju sind völ höger.
+lm	41018	Eigeltingen	1	Unseri Bā̈rg sind it selli hoh, eüri sind viel höher.
+lm	4102	Seebeck	1	Unse Berge sünd nich sehr hoch, juhe sind völl höjer.
+lm	41049	Illmensee	1	Üseri Berg sin nït selli hoh, die uiere sind viel höher.
+lm	41057	Baindt	1	De üsere Berg sind it so fürchte ho, di uire sind viel höher.
+lm	41064	Ziegelbach	1	Eisere Berg sind it gar hoh, dia uiere sind viel höher.
+lm	41076	Maria Steinbach	1	Eusa̰ra̰ Bearg sind it bsondrs hoh, dia uia̰ra̰ sind viel höher.
+lm	41086	Waldau	1	Īserri Berg sin͡ itt sélli hoch, euiri sin vīl höer.
+lm	41098	Hubertshofen	1	Isare Berg sind nit selli hoh, eire sind vill hehr.
+lm	41114	Öfingen	1	Ṵ̈nsere Bearg sind net so hoh, eubere sind viel höher.
+lm	4112	Klein-Mutz	1	Unse Bärge sind nich sier hoch, de Juden sind väl höger.
+lm	4119	Gross Dölln	1	Unse Berg sinn nich sihr hoch, jure Berge sinn vill höger.
+lm	41200	Masevaux	1	Unsara Barga sinn nit so hoch; ejara si vīll hechhr.
+lm	41214	Aspach-Le-Bas	1	Uns'ra Bārga sin nit racht hoch, ā̈ira sin viel hëch'r.
+lm	4123	Senftenhütte	1	Unse Berge sinn nich sehre hoch, juhe sin velle höjer.
+lm	41245	Lipburg	1	Uns'ri Berg sin̄ nittso hoch, eueri sin̄ vièl hecher.
+lm	41262	Utzenfeld	1	Isi Berg sin it selli hoch, eie sin viel hecher.
+lm	41275	Schluchsee - Blasiwald	1	Ǖsi Bḗrg sind it sö̆li hōch, eu[i?] sind viel höcher.
+lm	41296	Oberentzen	1	Unsri Barg sin nit so hoch, éiri sin viel héchèr.
+lm	41309	Feldkirch	1	Unseri Bärg sin̄ nitt selli hoch, diè eurige sind viel hächer.
+lm	41336	Kappel	1	Üsere Berg sind nit sölli hoh, die euera sind viel höher.
+lm	41351	Urbès	1	Unsere Barge sin nit so hoch, d'ejer sin vill hēcher.
+lm	41365	Rimbach-Près-Guebwiller	1	Unséri Bérga sèn nèt so hoch, d'ēirigi sèn viel höchér.
+lm	4142	Stoki	1	Unse Berge sin ni sehre hoch juen sin vill höher.
+lm	41460	Rixheim	1	Unsera Barga sèn nèt racht hoch, èira sèn vèll hêcher.
+lm	4152	Stoleczna	1	Uns Berj sind neh siehr hoch, juhe sind fill höheä.
+lm	41566	Ranspach-Le-Bas	1	Eyhsere Barga sinn nitt sehr hoch, eyere sinn vill hecher.
+lm	41598	Lörrach	1	Eusere Bèrg si nüt arg hoch, eueri sī viel höher.
+lm	4161	Glazow	1	Oos Barg' sinn nĭ sihr hoch, ju sinn vähl höja.
+lm	41623	Hütten	1	Äusi Bärg sind it è so höch, euji sind viel hȫcher.
+lm	41653	Largitzen	1	Unsere Berge sin nit heftig hoch, euere sin viel höcher.
+lm	4171	Okunie	1	Ose Barg sein nich sehr hoch, die juen sin vehl höger.
+lm	41714	Lucelle	1	É|isări Bărgă sin nit séhr hoch, é|iri sin vill héchăr.
+lm	41785	Höhenrain	1	Insắnö Bĕag san id recht ha̰och, dö en̰chan san vṵ̈i hehá.
+lm	41801	Grosshöhenrain	1	Insere Berg han net so houch; dö Enkern han höicher.
+lm	41811	Tattenhausen	1	Insrö Berg hant nöt ga haouch, die engan hant viel höcha.
+lm	41819	Ollarzried	1	Unserḛ Bearg send it so ho', de uire send viel ho'h'r.
+lm	41836	Kaufbeuren	1	Eusere Berg sind it arg hoch, die uire sind viel höācher
+lm	41845	Denklingen	1	Eusere Berg sind it so hoach, de uire sind viel höar.
+lm	41855	Raisting	1	Ünser Berg sind nit so hoach, die enkrn sind viel höaher.
+lm	41872	Baiernrain	1	Unsane Berg san net so hech, de[?] engan san hecha.
+lm	41932	Huglfing	1	Insre Barg sen it so ho͡ach, die engan sen he͡acher.
+lm	41939	Penzberg	1	Insere Bearg san it so hoach, diè enkan san vui häacha.
+lm	41948	Reichersbeuern	1	Unsere Berg sand nöt recht hoch, die engern sand viel höher
+lm	41953	Parsberg	1	Unsere Berg san nöt sehr hoch, die euern san viel höher.
+lm	41963	Kirchdorf am Inn	1	Ünsanö Berg ha̰n nöt recht hoch, di enkan ha̰n viel höcha.
+lm	41969	Aschau im Chiemgau-Niederaschau	1	Unsere Berch san net so hoch, di engern san viel höche.
+lm	41971	Betzigau	1	Eusr͜e Bearg sind i͜t gar a͜  s͜o hoh, da͜nuir͜e sind viel höher.
+lm	41980	Sulzschneid	1	Eisre Berg sind it gar so hoach, de n'uibre sind viel heachĕr.
+lm	41986	Steingaden	1	Eisere Berg sind it ser hoach, die enkere sind häher.
+lm	42039	Bayerniederhofen	1	Euser Berg send nit so hoach, uiere send viel höacha.
+lm	42049	Jachenau	1	Insri Berg sen it so hoach, dö enkan sen vüll heacha.
+lm	42056	Unterjoch	1	Unsere Berge sind nicht so hoch, wie die euern.
+mn	42062	Oberau	1	Insere Berg sen it sehr hoach, die enkern sen viel heacher.
+mn	42070	Eggstätt	1	Unsare Berg sand nöt recht hoch, dö engan sand văī hecha.
+mn	42076	Traunwalchen	1	Ünsani Beag hand nöt so hoch, dö en̄gau hand vie höha.
+mn	42084	Kirchanschöring	1	Insane Berg han net so houch, dö enkan han woitlen höcher.
+mn	42116	Ruhpolding	1	Insarö Berg han nöt haouch, dö enkan han scho viel hecher.
+mn	42118	Anger	1	Ünsane Bearg hand nöt recht hou, dö enkan hand vi heha
+mn	42132	Ramsau bei Berchtesgaden	1	Insere Berg san net woltern hoch, die enkern san viel höcha.
+mn	42140	Hachiville	1	Eis Bièrger se nik séier héich, äer se vĭl méi héich.
+mn	42166	Niederwampach	1	Eis Bierger sinn net seer hé, är senn fil me hé.
+mn	42180	Neidhausen	1	Eîß Biérger sen net sier hi, èr se vĭl me hi.
+mn	42236	Ettelbrück	1	Êis Bîerger sé nét seér héch, èr sé vill mé héch.
+mn	42254	Rambrouch	1	Eîs Bîerger sen net seer hech, îer se fil mîe hech.
+mn	42302	Eischen	1	Eis Biérger sé-en nit ganz héch, é-er sén fill mé héch.
+mn	42316	Hünsdorf	1	[nicht übersetzt]
+mn	42341	Biwer	1	Ĕs Biérger sen net sĕer hĕch, èr se fil mĕ hĕch.
+mn	42414	Uewerkuer	1	Eiss Biérger sin nèt gaunz héch, er si viel mé héch.
+mn	42431	Peppange	1	Eis B[iu?]rger sinn nett ganz héi, èr si vil méi héi.
+mn	42469	Schwarzenbach an der Pielach	1	Unsere Berg san nit recht hoch, engare san vü höcher.
+mn	42470	Lehenrotte	1	Unsari Berg san nit so hoch, dö engan san viel höher.
+mn	42472	Thal	1	Unsre Berg san net gar hoch, die euchern san hecher.
+mn	42477	Grillenberg	1	Unsari Berch' san net sea hoch, de engan san vü hecha.
+mn	42520	Schneebergdörfl	1	Insere Bach san nit sehr hoch, die engern san vül hecher.
+mn	42527	Mollram	1	Insere Berg san net sehr hoch, engara san vül hecher.
+mn	42532	Frein an der Mürz	1	Unsare Bergn san nit bsundas hoch, die enkan san vial höha.
+mn	42571	Massing	1	Unseri Berg san net går so hoch, di euren san vil höher.
+mn	42573	Semmering	1	Unsare Beach san nit so hoch, engare san vü heha.
+mn	42587	Feistritz am Wechsel	1	Unsari Berg'n san nit so (gor) hoch, die engan san vü heha.
+mn	42612	Gleichenbach	1	Inseri Barg san nit goar sou hoch, die engan san hibsch hecha.
+mn	42635	Weiden am See	1	Unsri Beri san nit recht hoch, eng'ri san' vül hecha.
+mn	42637	Nickelsdorf	1	Unsre Berch sein nid so hoch, engeri sann vüll hächer.
+mn	42640	Siegersdorf	1	Unsare Berg san hoch, euchare san viel höha.
+mn	42647	Stotzing	1	Unsari Bergn san nit so hoch. Enkari san hecha.
+mn	42670	Wieselburg (Mosonmagyaróvár)	1	Unsari Peag san nid sou hoch, te eingan san vü hēha.
+mn	42688	Andau	1	Unsere Berge san nit so hoch, die engan san höher.
+mn	42691	Wiesen	1	Insri Berie sei hoh, enkri sei oba noa höha.
+mn	42701	Baumgarten	1	Unsare Berge san nit sea hoch, die euan san vül heha.
+mn	42706	Apetlon	1	Insere Beringa san nit recht ho', die eingeren san vül heher.
+mn	42722	Horitschon	1	Unsre Berge sind nicht sehr hoch, die ēngen sein höcher.
+mn	42728	Holling (Fertőboz)	1	Ninazwuanzk. Umsri pearinga sind nid hó, engri sin füll h(é)cha.
+mn	42748	Frasnacht	1	Üseri Bärg send nöd grad hoch, eueri send vil höcher.
+mn	42821	Rietli	1	Oeseri Berg sönd nüd ase höch, eueri sönd höcher.
+mn	42843	Hohenems	1	Üsere Be͡arg sind nit gat hoch, euere sind viel höcher.
+mn	42850	Bizau	1	Üsor Bearg seand nüd grob hoh, üor seand viel höor.
+mn	42856	Riezlern	1	Önsch Berg send ned so ho, ei send vil höher.
+mn	42908	Gamprin	1	Üsre Berg sin net grad hoch, eure sin höher.
+mn	42926	Röns	1	Üsere Berga sind nit hoch, euere sind viel höher.
+mn	4293	Brielow	1	Unse Berje sin nich sehr hoch, jue sind ville höher.
+mn	42933	Buchboden	1	Oensche Bärg sind nit grad hoch, A-i sind viel höher.
+mn	42939	Lech	1	Önsch Berg send ned gad hōu, aib send viel höier.
+mn	42970	Sargans	1	Üsr Bärg sin nid gär houch. Öur sind na vill höüchr.
+mn	42977	Schruns	1	Üs'ri Berg sind net roß hoch, di eura sind viel höher.
+mn	42985	Vils	1	Eisere Berg send it so heach, di uibere send viel heacher.
+mn	43004	Hinterhornbach	1	Insre Bearg seiâ it går so hoach, die enkre seiâ viel heachr.
+mn	43013	Rinnen	1	Insere Berg sei it går so hoach, die enkern sei viel heache̊r.
+mn	43021	Ehrwald	1	Inserå Berg sönn it sou hoch, die önkerå sönn viel höacher.
+mn	43022	Leutasch	1	Intern B?rg senn it ? so hroaf, die enkern senn heacher.
+mn	43027	Bach	1	Uensera Bearg sei'n nit so hoach, dia enkara sei'n viel höacher.
+mn	43037	Silzerberg	1	Ünsere Barg sein itt går a so hoach, d'enkern sein viel heacher.
+mn	43055	Hatting	1	Insere Berg sein nit hoach, die önkarn sein viel heachar.
+mn	4306	Deetz	1	Unse Berge sind nich so hoch, jue sind ville höjer.
+mn	43070	Mils bei Imst	1	Insere Bearg sein it recht hoach, d' enkere sein viel heacher.
+mn	43122	Unterried	1	Insare Barge sein nit so hoach, d'enkaren sen viel heacha.
+mn	43133	Holdernach	1	Insari Bearg sei nit goarso hoch, die enkara sei viel heacher.
+mn	43152	Kauns	1	Insara Bearg sein it gor a so hoaach denkara sein viel heachr
+mn	43161	Unterberg	1	Insere Berg sein nit so[?]l hoach, die enkrig'n sein viel heacher.
+mn	43162	Pertisau	1	Insri Berg sen nid so huach di enchrign sen vill heacha. 
+mn	43173	Brixlegg	1	Insri Berg sen nit so huach, die enchan sen vill heacha.
+mn	43183	Penningdörfl	1	Insere Berg san nit hoach, die enkrn san vie heacher.
+mn	4321	Fahrland	1	Unse Berge sind nich sehre hoch, jue sind ville höger.
+mn	43210	Innsbruck	1	Unsere Berg sein nit arg hoch, die enkern sein viel heacher. 
+mn	43224	Kolsassberg	1	Insre Bearg sen net so hoach, die enkrign sein viel höacher. 
+mn	43251	Aschau im Zillertal	1	Insere Berge sind net so hoach, d'enkan sen viel hecher.
+mn	43280	Krimml	1	Insare Berg send nit recht ho̊ch, de̊ enchareng send vüh hecha.
+mn	43285	Trins	1	Insere Berge sein nit gor a so hoach, die enkrigen sein viel heacher.
+mn	43288	Dornauberg	1	Insre Berge sent nit sö h[e?]ach, d' enkang sent hehar.
+mn	4329	Steglitz	1	Unse Berje sin nich sehre hoch, jaue sin höher.
+mn	43297	Schmirn	1	Dünsergn Berge sein nitt röcht hoech, denkrign sein viel heachar.
+mn	43301	Kitzbühel	1	Insere Be̊rg se̊nd ni̊d go͡a so hãuch, dö enkan send v[u͡?]i/vui hecha.
+mn	43303	Hochfilzen	1	Insere Berg san nit bsunder hoch, die enkeren sein viel heacher.
+mn	43310	Saalfelden am Steinernen Meer	1	Ünsarö Berg sand nid ga-å so håch, dö enkan sand vü hecha.
+mn	43315	Werfen	1	Insarö Beag san nöt gå houch, enkarö san vii höicha.
+mn	43331	Bramberg am Wildkogel	1	Insari Berg san nit goar hoch, die enkern send vü(il) hecha.
+mn	43340	Niedernsill	1	Insere (insanö) Berg send nit goar håoch, encharö (enchanö) send vü hecha.
+mn	43347	Sankt Georgen	1	Unsre Berg san nöt går håch, då san dö enkan viel hecha.
+mn	43354	Goldegg	1	Insarö Beag san nit so ho(u)ch dö(i) enkan san hecha.
+mn	43359	Kleinarl	1	Insani Bérg san nīt recht håch, dé enchan san vü hecha.
+mn	43372	Bad Gastein	1	Insanö Berg sant nit ga͜o håch, dö enkan sant vü͜i hecha.
+mn	43378	Berg-Gruben	1	Unsere Berg sein nit bfundas houch, die Enken seint häche!
+mn	43379	Heiligenblut	1	Inschare Berg seint nöt recht hoch, die enkern seint viel hecha.
+mn	4338	Köpenick-Kietz	1	Unse Berge sind nich sehr hoch, die ihren sind ville höher.
+mn	43381	Sankt Martin am Tennengebirge	1	Unsere Berg sand nät so hoch wia dö enkan.
+mn	43384	Ramsau	1	Enka Birg is viel hecha wie insas.
+mn	43391	Assach	1	Insani Berg san nit go hoch, enkane sen weit höcher.
+mn	43393	Donnersbach	1	Unsere Berg san net so hoch, eire san vü höcha. 
+mn	43412	Untertauern	1	Insanö Berg sand nit recht hoch, dö enkan sand vie heïcha. 
+mn	43420	Pöllau	1	Unseri Be̊rg seind nit goar hoach, enkan seind weit heacha.
+mn	43427	Oberweissburg	1	Insare Berg send net gå hoach, dö enkan send weit höacha.
+mn	43433	Sauerfeld	1	Insere Berg seind ni sehr hoach, dü enkern seint weit he[a?]cha.
+mn	43439	Ranten	1	Unsre Berg sent nit so hoach, die enkan sent vül heacha.
+mn	43453	Strechen	1	Insem Berg sind nicht houch, enkere sen veil heha. 
+no	43455	Treglwang	1	Unsari Berg sand nit gar hoch, enkari sand viel höha.
+no	43457	Kalwang	1	Unsare Berg san net gar hoch, die enkan san vü hecha. 
+no	43458	Trofaiach	1	Unsari Berg sand nöt recht houch, döi enkan san vü hecha (heacha)
+no	43462	Hafendorf	1	Unsari Berg san net gor a so hoch, enkari san höcha.
+no	4347	Herzfelde	1	Unse Berge sin nich siehre hoch, gaue sin vill höger.
+no	43480	Sankt Michael in Obersteiermark	1	Unsari Berg san nöt hoch, de enkarn san höcha.
+no	43488	Pusterwald	1	Unsare Bög san net so hoach, die enkern san vül heachr.
+no	43489	Sankt Oswald	1	Insane Berg san net recht hoch, die engan san fül (viel) hecha.
+no	43494	Sankt Marein bei Knittelfeld	1	Insari Berg san net go(a) hoach; enkari san weit heacha.
+no	43497	Frohnleiten	1	Unseri Berg san ned so hóach, énkari san vül héacha.
+no	43505	Sankt Peter ob Judenburg	1	Goa hoach send unsre Berg net, enkre send wohl heacha.
+no	43530	Teufenbach	1	Insere Berg sand net hoch, eire sand höha.
+no	43534	Sankt Johann	1	Unsari Berg send net bsonders hoarch, die ekan send vül höacha.
+no	43537	Kainach bei Voitsberg	1	Unsern Berg sand net so hoach wia enkari. 
+no	43544	Gratwein	1	Insare Berg san nit [?] gor höch, die enkan (enkern) san vül höcha! (hea)
+no	4357	Tempelberg	1	Unsere Berge sin nicht sehr hoch, die eiern sind höher.
+no	43576	Fochnitz	1	Insere Berg sen nit so hoch, die enkern san viel höcher.
+no	43579	Wenigzell	1	Insere Berg san nit so hoach, engere san vü höcha.
+no	43633	Ehrenschachen	1	Insere Berg san nit gor hoch, die enkaren san vül höha.
+no	4364	Döbberin	1	Unse Berge sinn ni sehre hoch, jue sinn vill höher.
+no	43640	Salmannsdorf	1	Unsari bęri sęin nit goar so hoch, ęngare sain fül hecha.
+no	43662	Sankt Kathrein am Offenegg	1	Unsari Berg san nit so hoch, enkari san vül hecha.
+no	43699	Siget in der Wart	1	Insere Bergn sein nit sehr hoch, die engern sein viel höhe.
+no	43715	Stubenberg	1	Insere Berg san hibsch hoch, dö enken san viel höcha.
+no	43726	Unterrohr	1	Insari Berg san nöid goar houch, engare san vül hecha.
+no	43756	Eggersdorf	1	Insari Berg sein nit går so(u) hoch, enkari sein vül hecha.
+no	43761	Sinabelkirchen	1	Insari Beag senn nit sou hoch, di enkan senn vüll hecha.
+no	4377	Pamiecin	1	Unse Berge sinn nich sehre hoch, die eiren sinn vill höher.
+no	43773	Bad Blumau	1	Insari Berg sen nit so hoch, engari sen vül hecha.
+no	43782	Deutsch Tschantschendorf	1	Insre Berge se-in nit sehr hoh, die e-ingeren se-in viel heha.
+no	43850	Klostermarienberg	1	Unsari Bergn sein nid goa hoch, die eingen sein vül heha.
+no	4388	Grabno	1	Unsere Berje sind nicht sehr hoch, die eiren sind viel höchcher.
+no	43889	Moschendorf	1	Ünseri Beri san nit goar sou hoch, engari san heha.
+no	43896	St. Jakob	1	Insere Berge hent kå nahne sou höch wie enkere. 
+no	43905	Oberpeischlach	1	Insere Berge hent nicht hö̊ch, enkere hent viel he̊ha.
+no	43909	Mörtschach	1	Inserö Berg send nöt so hoch, die enkan send viel häha.
+no	43910	Flattach	1	Unsre Berg send nit so hoach, enkere send vül höacha.
+no	43938	Kolbnitz	1	Unsere Berg seint nit går hoach, enkere seint viel heacher.
+no	43939	Ausservillgraten	1	Insre Berge san öt recht hoach, enkan san viel heaha.
+no	43948	Assling	1	Uensre Berge sann ött sehr höch, die enkran sann viel hecher.
+no	43959	Lindsberg	1	Unsre Berg sein nit bsondas hoch, die enkan sein viel höcha.
+no	43977	Kornat	1	Unsere Berglan seint net erge hoch, dö enkern seint viel heacha.
+no	43982	Berg im Drautal	1	Unsere Berg sent nit går hoach, die enkrign sent viel heacha.
+no	43988	Goderschach	1	Unsre Berg seant nit a so h[e?]ach [Korrektur] wia enkrn.
+no	4400	Trzemeszno Lubuskie	1	Unsere Berge sin nich sehre hoch, die e[i?]ren sin ville höher.
+no	44006	Kremsbrücke	1	Insarö Bärg sönt nit gor so hoach, tö enkareng (II: Silbe näseln) sent vül hoacha.
+no	44010	Oberhof	1	Unsre Berg seind nit gar hoch, dö enkern seind weit heachar.
+no	44038	Kleblach-Lind	1	Unser Berg sein nit schiach hoach, die enkern seint viel höher.
+no	44040	Obermillstatt	1	Unsare Bearg sōnd nit går hoech, önkare sōnt viel heacha.
+no	44054	Patergassen	1	Inseri Bearg sind nit so hoach, de enkarn sind viel heacha.
+no	44056	Steuerberg	1	Unsere Berg sent nit går a so hoach, enkern sent vl heaher.
+no	44109	Hermagor	1	Unsre Bearg sind nit går so hoa, enkere seind vil heacha.
+no	44117	Bleiberg-Kreuth	1	Unsare Berg seint nit går so hoach, enkare seint viel heacha.
+no	44124	Villach	1	Unsa Berg seint nit går hoch, die enken seint viel höcha. 
+no	44142	Schiefling	1	Unsre Berg seint nit sehr hoch, enkre seint viel höher.
+no	44162	Suetschach	1	Unsere Berg san nit går hoch, enkere sein viel höcha.
+no	44174	Sankt Salvator	1	Unsare Berg sent nit går so hoach, enkare sent viel heachar!
+no	44182	Heft	1	Unsare Berg seint nit so håach, ba Enk seint sö viel heacha.
+no	44189	Schiefling	1	Unsre Barg sent net gor hoach, die enkern seint hecher (machtiger)
+no	44196	Modriach	1	Unsre Bearg san net so hoach, enkere sand vül heacher.
+no	44200	Launegg	1	Unseri Berg san net goa so hoach, enkeri san viel heacha.
+no	44234	Obermühlbach	1	Unsere Berg sönd nit gâr hoach, enkere sönd viel heacha.
+no	44243	Hochfeistritz	1	Unsare Berg seind nit so hoa oba enkare seind viel heacha.
+no	44248	Sankt Andrä	1	Unsere Berg san nit gor so hôach [„a“ über „c“], die enkarn sein vül heachr.
+no	44256	Glashütten	1	Uinsere Baärg [aä ist umkringelt] sand net gor a so hoach, die aunan san vül heacha.
+no	44261	Sankt Peter im Sulmtal	1	Unsere Berg sand neit går so hoach, enkere sand viel höacha.
+no	44295	Oberhaag	1	Umsare Beagn sant ne(i)t sou hoach wi enkare.
+no	44303	Klagenfurt-Harbach	1	Insere Berg seint nit gar hoch, de enkern sein viel de hechern.
+no	44308	Eberndorf	1	Unsere Berg sein nit går so hoch, eire sein höha.
+no	44313	Lorenzenberg	1	Ünsere Berg sind net houch, enkere sind v(ie)l hear.
+no	44314	Sankt Margarethen	1	Unsare Berg san nit går so hoch, de eiran san höa.
+no	44320	Bad Eisenkappel	1	Unsare Berg seint nit sehr hoch, die enkeren sein viel höher.
+no	44333	Paldau	1	Inseri Berg san nit so hoach, enkari san viel heacha.
+no	44347	Hohenbrugg an der Raab	1	Unsri Bearg san nit seahr hoch, die enkena san vül hächer.
+no	44358	Mogersdorf	1	Insare Beagn sein nit goa hoch, enkare sein vül hecha.
+no	44371	Allerheiligen bei Wildon	1	Unsere Berg san net so hoh wie Eure
+no	44398	Leibnitz	1	Unsre Pergn sant net sou houch, di enkern sant fül hecha.
+no	44414	Klöch	1	Insere Berg sa nit (gor so) huach, enkera san viel hiacha.
+no	44425	Ratschendorf	1	Inern Berg san net so hoch, enkere san höcha.
+no	44433	Langegg	1	Unsere Berg' san net hoch, enkere san viel höha!
+no	44439	Ebental (Polom)	1	Inschrä Pargä hentet gour hoach, da eiärn hent wiel heachór
+no	44442	Steinwand (Podstenice)	1	Inschrä Pargä sìnt sear hoach, dä eiarn sint wiel hachar 
+no	44445	Obergras (Trava)	1	Inschr d’Pargä hent et gur hoach, d‘e̤ir hent viel heahar
+no	44447	Göttenitz (Gotenica)	1	Enschrdó Pargó hent et wsinthin hoach, dió eiern hent wiel heachar
+no	44454	Nesseltal (Koprivnik)	1	Inschrdo Pargo hent et weintlein hoach, do eiorn hent wil heahar
+no	44461	Tiefenbach (Briga)	1	Enschrä Pargä hent et gur hoach, dä eiärn hent wiel heachar
+no	44465	Unterlag (Spodnji Log)	1	Inschrä Pargä hent et weuitlein hoach, dä ewärn hent wiel hiähar
+no	44519	Wildensbuch	1	Üüseri Berg sind nit so höch, eueri sind viel höcher.
+no	44610	Wittenwil	1	Üseri Bärg sind nöd so hoch, eueri sind vill höcher.
+no	44685	Neukirch an der Thur	1	Üsi Berg send nöd so hoch, euri send vill höcher.
+no	44770	Mont-Tramelan	1	Üsi Bärge sy nid so höch, eui sy viel höcher.
+no	44771	Pieterlen	1	Üsi Bärge si nid grad höch, eui si viel höcher.
+no	44796	Merzligen	1	Üsi Bärge si nid so höch éui si viel höcher.
+no	44801	Gals	1	Üsi Berge si nid so höch, äuii si viu höcher. 
+no	44832	Huggerwald	1	Ēiseri Bärge sīnn nīt so hŏch, ēiēri si vīll hĕcher
+no	44851	Ziefen	1	Eusi Bärge si nitt grad höch, eui si vill höcher.
+no	44858	Anwil	1	Öisi Bärge si nit eso grüstig höch, öii si vill höcher.
+no	44888	Umiken	1	Eusi Bärge sīnd ned eso höch, eui sind vīel höcher.
+no	44994	Gänsbrunnen	1	Öisri Bärge sy nit so höch, öiri sy viel höcher.
+no	45009	Oensingen	1	Üsi Bärge si nid so höch, öji si viu höcher.
+op	45022	Mühlethal	1	öisi bä̀rge sind net so höch, öije suid viel hö̀ö̀cher.
+op	45067	Meisterschwanden	1	Ŏisi Bärge sìnd èso höch, ö̀iji sìnd vìle höcher.
+op	45192	Mülchi	1	Üser Berge si nid so höch, euer si viel höcher.
+op	45195	Eigenthal	1	Üsi Bärge send ned höch, eui send vell höcher.
+op	4521	Wollin	1	Unsre Berge sind nich sehre hoch, jue sind vülle höher.
+op	4527	Rädel	1	Unse Berge sin nich siehre hoch, jue sin ville höger.
+op	45279	Hildisrieden	1	Ensi Bärg sind nid höch, eui sind vil höcher.
+op	45299	Willisau	1	Eüsi Bärg sind ned usinnig höch, eüi sind viel höcher.
+op	45312	Bleuen	1	Üsi Bärge si nit sehr höch, euer si viu (viel) höcher.
+op	45345	Dielsdorf	1	Euseri Bärg sind nüd e so höch, euri sind höcher.
+op	45356	Unterwagenburg	1	Euseri Berg sind nūd grad hōch, eueri sind vill höcher.
+op	4539	Wildenbruch	1	Unse Berge nich tu hoch, gaue sind höger.
+op	45474	Boden bei Fischenthal	1	Euseri Berg sind nüd so gar höch, eueri sind vil höcher.
+op	4549	Löwenbruch	1	Unse Berge sin nich siehre hoch, gaue sin ville grötter.
+op	45492	Dicken bei Degersheim	1	Ueseri Berg sind ganz höch, euri sind no viel höcher.
+op	45501	Bonstetten	1	Euseri Berg sind nöd so hoch, euri sind viel höcher.
+op	45529	Riedikon	1	Eusi Berg sind nüd gar höch, eui sind vill höcher.
+op	4560	Deutsch Wusterhausen	1	Unse Berge sin nich sehre hoch, jaue sin gröttter.
+op	45611	Feusisberg	1	Öüsere Berg sind nüt so höüch, die öüsige sind viel höücher.
+op	45627	Starkenbach	1	Öseri Berg sind nöd so höch, eueri sind viel höcher.
+op	45630	Risch	1	Üsi Bärg sind nüd grad höch, üi sind vil höcher.
+op	45644	Reichenburg	1	Üseri Berg sind sehr höch, üeri sind nu viel höher.
+op	45692	Süri	1	Üser Berge si nid grad höch, öj[ú?]er si viu höcher.
+op	45694	Courlevon	1	Üsär Bärgä si nid grad so höch, öiär si höchär
+op	45716	Brünisried	1	Üser Bärge si nit grad hoi, euer si viel höier.
+op	45718	Ferpicloz	1	Üsi Bärge si nid grad bsungers höch, bi öich sy si viu höcher!
+op	45722	Abländschen	1	Üser Bärga si nit so höi öwer (ev. üwer) [Rest fehlt]
+op	4573	Neu Golm	1	Unsere Berge sin nich sehr hoch, jaue sin vill hecher.
+op	45734	Dentenberg	1	Ȗsi Bȃrge si nid so hȏch, ȏii si hȏcher.
+op	45758	Mutten	1	Üser Bärge sy nid so höch, euer sy (sén) höcher.
+op	45764	Oberfrittenbach	1	Üsi Bärge si nid so höch, eui si viu höcher.
+op	45784	Schüpfheim	1	Üsi Bärg si nid gar höch, euji si vil höcher.
+op	458	Wietrzno	1	Us' Boag sinn ni seha hoch, jug sinn vähl heuge.
+op	4584	Hohenwalde	1	Unsere Berje sinn nich sehre hoch, die eiren sinn vill höher.
+op	45863	Gurzelen	1	Üsi Bärge si nid so grüsli höch, eui sy viel höcher.
+op	45878	Linden (Oberlangenegg)	1	Üser Berge si nit grad höch, euer si viil höcher.
+op	45891	Sörenberg	1	Üsi Bärge si ned grad hööch, eu-i si viel höcher.
+op	45892	Lungern	1	Iis'r Bärgä sind nid ä sevel heech, ewwer sind vil heeche'r
+op	4590	Kunice	1	Unse Barge sin nich sehre hoch, aire sinn vill höcher.
+op	4595	Mierczany	1	Unse Berge sin sehre hoch, eire sin vill hecher.
+op	45962	Entschwil	1	Üser Bärga si nit grüzeli höj, euer si vil höjer.
+op	45980	Saxeten	1	Üser Bärga sin nid eso höi, öüer si(n) viel höijer.
+op	45992	Guttannen	1	Yser Bärge syn nid eso hoch, ewwer syn vil heecher.
+op	46009	Ulrichen	1	Inschy Bärga sind nit so höjy, dihrigu sind vill höier.
+op	46017	Gersau	1	Üsi Berg sind sehr höch, üi sind viel höcher.
+op	46021	Illgau	1	Üsi Bärg sind nit grad höch, die Ürä sind viel höcher.
+op	46026	Engi	1	Üser Bärg sind nüd gad höch, di euerä sind viel höcher.
+op	46027	Leuggelbach	1	Üser Berg sind nüd so höch, üer sind höcher.
+op	4603	Toporow	1	Inse Bärge sein nich sihre huch, eure sein viel hücher.
+op	46038	Linthal	1	Üsär Berg sind nüd so höch, üär sind vill höchär.
+op	46040	Engelberg	1	Uisi Bärg sind nid ä so höch, ui‿e sind vil höcher.
+op	46045	Erstfeld	1	Jsri Bärg sind nit hech, ihwri sind hecher
+op	46048	Valendas	1	Inschi Berge sind nit gar hoch, euri sind vill höher.
+op	46050	Meierhof	1	Insch Barga sind nid gad hoch, eui sind viel hehar.
+op	46051	Camana	1	Önsch Bärga sind net (grusam) krad hoch, eich sind vel höher.
+op	46055	Nufenen	1	Ünschi Bärga sind nit krat hoch, äui sind vill höhär.
+op	46059	Fanas	1	Üsär Bärgä sind nid grad uhemli höch, üär sind viel höchär.
+op	46070	Mathon	1	Insari Bearg sei nit gråd håach, die enkara sei viel heachr.
+op	46071	Galtür	1	Insari Bearg seii nit föst hoach, die [ö?]nkern seii heechar.
+op	46073	Felsberg	1	Ueseri Berga sin̄ nit sehr hoch, eueri sin viel höcher,
+op	46079	Fideris	1	Ünsch Bärge sind nid gar öch, eu sind viel höher.
+op	4608	Alt Stahnsdorf	1	Unse Berg sin nich sehre hoch, die jauenschin sin ville höger.
+op	46083	Klosters	1	Uensch Bärga sind nit grad höch, dié van eu sind viel höher.
+op	46101	Wiesen	1	Ünschi Bärge sin nit so höch, wei eui.
+op	46104	Am Bach	1	Ünsch Bärga sind nid gor hou, eur sind vill höier.
+op	46115	Lauenen	1	Ü[n]ser Bärga si net grad höi, üwer sie vel höier.
+op	46118	Stiegelschwand	1	Üser Bärga si nät schüchter höi, öüer si vil höiär.
+op	46119	Fieschertal	1	Inschi Bärga sind nit heji, ewi sind viuw hejär.
+op	46127	Bitsch	1	Inschi Bärga sind nit so setteg heii, eiwi sind vieu heier. 
+op	46129	Agarn	1	Ischi Bärga sind nit so hochi, eibi sind vil hecher.
+op	46132	Hasel	1	Jschi Bärga sind sehr (hoch) heji, aber wei sind vill hejer. 
+op	46142	Saas Grund	1	Ischi Bärga sind nit sche hoch, eiwi sind viel hejer.
+op	46143	Zwischbergen	1	Jschi Bärga sind nit seli hehji, ewwi sind viell hejär. 
+op	46145	Zermatt	1	Ichi Bärga sind nit so heji ensi sind vil hejer.
+op	-46146	Prettau (Predoi)	1	Di uson Perge san nöt aso höech, d'enkon san fil hiecha
+op	46157	Luttach (Lutago)	1	Insra perge san nett recht huech, enkra san viel heacha.
+op	-46161	Hinterkirch (Graun)	1	uisra Berg sein öt goůrasoů hoach, d' euchru sein viel heachr
+op	-46162	Rabenstein (Moos)	1	insere berge sein nit gor e sou hoach, enkrige sein viel heacher.
+op	46170	Tschöfs (Ceves)	1	Insere Berg sein nit recht hoach, die enkern sein vil heacher.
+op	-46175	Pfunders (Fundres)	1	Insara Bergö sein ött a sou höch, ban enck sein si viel heacha.
+op	-46181	Antholz (Anterselva Di Mezzo)	1	Insra berge sann et gor a sö hoech, die enkrign sann viel heacha.
+op	-46195	Schabs (Sciaves)	1	Inzra Pergö sein nöt röcht hoach, enkra sein viel heacha.
+op	-46215	Pichl	1	insǫre Perge san ȫtt a sou hoach, enkre san vīl heachǫ
+op	-46217	Burgeis (Burgusio)	1	Insre Berge sein it gor a sou hoach, die e[n?]chrn sein viel heachr.
+op	-46226	Kurzras (Corteraso)	1	Insere Berg sein nit gar aso hoag, enkere sein höacher.
+op	-46227	Katharinaberg (Santa Caterina)	1	Insere Berg sein nit gar aso hoach. enkere sein höacher.
+op	-46234	Vernuer (Vernurio)	1	Insre Berge sein nit aso hoach, wiea entkrige.
+op	-46262	Stilfs (Stelvio)	1	insere berg sein it a sou hoach, di enkern sein vil heachr.
+op	46267	Laas (Lasa)	1	Insere Berg sein it gor a so hoach, euchere sein viel heachr
+op	46283	Gargazon (Gargazzone)	1	Isre berg sain nit gorasou hoach, enkrige sain viel heachr.
+op	-46293	Sankt Peter Hinter Lajen (San Pietr	1	Enckare Berge san viel höcher als die inserigen
+op	-46305	Sankt Walburg (Santa Valburga)	1	Insere Berg sain it gor a sou hoach, enkerige sain fil heacher.
+op	-46319	Wangen (Vanga)	1	Insra Berg sein nöt röcht höach, enkara sein viel heachr
+op	46324	Laurein (Lauregno)	1	Insara berg sein net galant hoa, eukriga sein heachor.
+op	-46340	Kaltern (Caldaro)	1	Unsri Berg sain nöt a so hoach, enkri sain viel heachr.
+op	-46344	Deutschnofen (Nova Ponente)	1	Insirī Berg sain nit recht hoa, enkri sain viel hear.
+op	-46351	Altrei (Anterivo)	1	Insere Berg sein recht huah Die enkrigen sei viel heaher
+op	-46353	Salurn (Salorno)	1	Insere Berg sein nit (e[?]) gor a so hoach, Önkre sein viel Heachar
+op	46361	Stefansdorf (Santo Stefano)	1	Insra Pergö san öt recht hoach, di önkrn san fiel heacha.
+op	46365	Lusern (Luserna)	1	Ünsare Bargn sein net Goach, die eüre sein viel göachar
+pq	46367	Ljetzan (Giazza)	1	ǖ́žɛnə bɛ́rgə zai̯n níχt zō hɔ́a̯x, diə̯ unarándrə zai̯n mɛ́r hɔ́a̯x.
+pq	46369	Lusern (Luserna)	1	di jǘnjərn b̌ɛ́rgē zint níχt ƀī̀l hɔ́a̯χ, di jø̄́ərn zai̯nt ƀī̀l hø̄́gór.
+pq	46385	Nauders	1	Insra Bearg sein nit a so hoach, enkriga sein viel heachr.
+pq	46386	Heiligkreuz	1	Insere Barge sein nuicht goraso hoich, enkern sein viel hehar.
+pq	46391	Poppenbüll	1	Unse Barg'n sind ni sehr (so) ho[ch], jerm sind vêhl höger.
+pq	46407	Dahrenwurth	1	Uns'r Barg'n sünd nich heel hoog, jüm sünd vä̂l höög'r.
+pq	46420	Bergenhusen	1	Unser Bargn sünd ni so hoch, jümm sünd vääl hööger.
+pq	46430	Owschlag	1	Uns Barg'n sünd nig so ganz hog, ju sünd väl höger.
+pq	46443	Holtsee	1	Uns Barg'n sünd nich gans hoch, ju sünd vêhl höcher.
+pq	46459	Pries	1	Uns Bargen sünd nich heel hoch, ju sünd veel höger
+pq	46481	Stakendorf	1	Us Bargen sünd nich hel hoch, ju sind vel höger.
+pq	46492	Behrensdorf (Ostsee)	1	Uns Ba[r?]gen sünd ni heel hoch; jou sünd väl höger.
+pq	465	Okunino	1	Us Baag sind nich seä hoch, jug sind väl heechä.
+pq	46554	Sulsdorf	1	Uns Bargn sünd nich heel hoch; jo sünd veel höcher.
+pq	46570	Staberdorf	1	Uns Barg'n sünd nich heel hoch, jo sünd veel höger.
+pq	46637	Alte Kirche	1	Unse Barg'n sint ni besti hoch, jern sint väl höger.
+pq	46652	Sollerupfeld	1	Unse Bargn sünd nich ganz hoch, ji sünd vēl höcher.
+pq	46666	Neuberend	1	Unse Bargn sind nich so hoch, ju sind vel höcher ("ju ehrn" wird nicht gesag[...]
+pq	46684	Zimmert	1	Unse Barg'n sind nich väl hoch, ju sind höger.
+pq	46687	Damp	1	Unsn Barg'n sünd ni so hoch, ju sünd väl hööche.
+pq	46693	Westermarkelsdorf	1	Uns Bag'n sünd nĭ hel hoch, jo sünd väl höger.
+pq	46784	Grossenwiehe	1	Unse Barge sind nich so hoch, ju sind fähl höger.
+pq	46798	Estrup	1	Unse Bargen sind nich so bannig (gräftig, fei, fahlig) hoch, ju sind veel höcher.
+pq	46806	Wippendorf	1	Unser Bargen sind nicht so gräsig hoch, jues sünd veel höger.
+pq	46823	Maasholm	1	Unser Barg'n sünd ni hoch, ji sünd vö͡äl hȫcher.
+pq	46924	Beken (Bækken)	1	Unse Bargen sind nich so hoch, ju sind veel höger.
+pq	47139	Sandhatten	1	Use Barge sünd nich gans hoch, jo e sind väl höger.
+pq	47154	Adelheide	1	Use Barge sünd nich ganz hoch, jor sünd väl höhger.
+pq	47171	Dreye	1	Use Barge sünnt nech ganz hoch, jo'r sunnt väl höger.
+pq	47183	Allerdorf	1	Use Barg'n sünd nich gans hoch, jone sünd vehl höger.
+pq	47189	Heerenland	1	Unse Bargen bünt neet heel hoch, diene sünt völ hoger.
+pq	47203	Steenfelde	1	Unse Bargen sünt nig heil hoog, yoüse bünt völ hoger.
+pq	47219	Lohe	1	Use Barge sünd nich ganz hoch, jaue sünd väl höger.
+pq	47224	Burgfelde	1	Us' Barg sünd nich ganz hoch, jo sünd väl hörger.
+pq	47235	Moorhausen	1	U's Bar'g sund nich ganz hoch, jor sund vull höger.
+pq	4727	Klein Glien	1	Unse Barge sin nich sehre hoch, joue sin ville hööger.
+pq	47370	Bardenfleth	1	Use Berg sund nich gans hoch, jue sund höger.
+pq	4738	Niederwerbig	1	Unse Bärge sin nich sehre hoch, gaue sin vülle höger.
+pq	474	Kramarzyny	1	Us Bag sind nich sehe hoch, dei jug sind vel höje.
+pq	47402	Mittelbauer	1	Use Barge sund näg ganz hog, jur sund väl höger.
+pq	47422	Neuenbülstedt	1	Us Barng sünd neg gans hoch, jo sünd väl höger.
+pq	47447	Neermoor	1	Unse Bargen sünd neet heel hoch, johse sünd vöol hoger.
+pq	47455	Remels	1	Unse Bargen sünt nich gans (he͡ÿl) hoch, jo͡use sund völ höger.
+pq	47463	Petersfeld	1	Use Barge sünd nich ganz hoch, joe sünd veel högger.
+pq	47470	Jaderbollenhagen	1	Use Barge sünnd nich ganz hoch, jo sünnd väl höger.
+pq	4749	Zülichendorf	1	Unse Berge sin nich sehre hoch, joe sin ville heeuer.
+pq	47598	Offenwardenermoor	1	Unse Barg sünd nich hog, jone sünd veel höger(dat [sesält?]' n Bulten)
+pq	4761	Schöneweide	1	Unse Berge sinn nich sihre hoch, joue sinn ville he(i)her.
+pq	47612	Paddewisch	1	Us Barg sund nicht ganz hoch, de john sünd vehl höger.
+pq	47624	Ober-Ochtenhausen	1	Unser Barg'n sünd nech gans hoch, jon sind veel höger.
+pq	47650	Cirkwehrum	1	Uns bargen zünt nÿs hÿl hoog; jo͡eze zünt vööl hoger.
+pq	47657	Westerende-Holzloog	1	Unse Barg'n sünd nich heel hoch, joh's sünd voel hoger.
+pq	47670	Wiesede	1	Uns Barg sünt nig ganz hoch, jos sünd föl höger.
+pq	47677	Neustadtgödens	1	Uns Bargen sünd nich ganz hoch, jons sünd veel höger.
+pq	4770	Egsdorf	1	Unse Berge sin nich sehre hoch, joue sin vill hejer.
+pq	4776	Birkholz	1	Unse Berge sinn nich sehre och, die eiren sinn vill heher.
+pq	478	Pradzonka	1	Us Bäg sind ni sehä hoch, jug sind väl grötä.
+pq	47840	Kükelühn	1	Uns Barg'n sünt ni heel hoch, ju sünt veel höger.
+pq	47861	Siggeneben	1	Uns Barg'n sünd n(i)e he(i)l hoch, jun sünd väl höger.
+pq	47863	Hedwigenkoog	1	Unse Bargn sünd ni gans hoch, jüm sünd veel höiger.
+pq	47885	Edemannswisch	1	Unse Barg'n sünd nich ganz hoch, jüm sünd veel höger.
+pq	4789	Briescht	1	Unsere Berge sin nich sehre hoch, eire sin ville höher.
+pq	47893	Oesterborstel	1	Unser Barge sünd nie gans hog, jüm sünd väl höger.
+pq	47907	Hamweddel	1	Uns Barg'n bünd ni heel hog, ju bünt vähl höger.
+pq	47916	Warder	1	Uns Barg'n sönd ni sehr hoch, ju sönd veel höger.
+pq	47935	Klein Barkau	1	Uns Bagn sünd ni hehl hog, ju sünd veel höger.
+pq	47952	Mucheln	1	Uns Bargn sünd ni hehl hoch, ju sünd vehl höger.
+pq	4800	Gross Briesen	1	Unsere Berge sind nich sehr hök, die euren sin vill höcker
+pq	48096	Grömitz	1	Uns Barg'n sünd nich heel hoch, ju sünd veel höger.
+pq	48098	Friedrichskoog	1	Uns Barg'n sünd nich ganz (heel) hoch, ju sünd vel höger.
+pq	48105	Barlteraltendeich	1	Unse Barg'n sünd ni gans hoch, jumm sünd veel höger.
+pq	48115	Holstenniendorf	1	Uns Barg'n sönd ni gans hoch, ju sönd väl höger.
+pq	48126	Jahrsdorf	1	Uns Barg'n sönd ni hehl hog, ju sönd vel höger.
+pq	4813	Klopot	1	Usere Bärge sin nich sehr hoch, eire sin noch veel hä[c/r?]ker.
+pq	48141	Ehndorf	1	Unse Bargen sünd nig heel hoch, ju sünd väl höger.
+pq	48156	Gönnebek	1	Uns Bargn sünd nich hel hoch, juch sünd veel höger.
+pq	48164	Wöbs	1	Uns Barrgn sünnt man lütt, juhn sünnt vehl hög'r.
+pq	48186	Süsel	1	Uns' Barg'n sünd gor nich heel hoch, juh'n sünd vähl höger.
+pq	48233	Brunsbüttelerhafen	1	Unse Barg'n sünd ni gans hoch, ju sünd vel höger.
+pq	48239	Brokdorf	1	Uns Barg'n sünd nich ganz hoch, ju sünd vehl höger.
+pq	4824	Radomicko	1	Unse Berge sind nich sähre hoch, die eiren sind viel höcher.
+pq	48240	Spiekeroog	1	Uns' Bargen sünd nich ganz hoch, jo's sünd föl hoger.
+pq	48242	Berensch	1	Unser Barg'n sünd ni gans hoch, joon sünd väl höger.
+pq	48247	Altenbruch	1	Unse Bargen sünd nech ganz hoch, jun'n sünd väl höger.
+pq	48282	Norderney	1	Uns' bargen sünd ne hel hoch, jos sünd völ höger.
+pq	48283	Baltrum-Ostdorf	1	Uns Barg'n sünd nich hel hoch, jos sünd völ hocher.
+pq	48302	Misselwarden	1	Ünnse Bargen sünnd nich gans hoch, joe sünnd väl höger.
+pq	4832	Radnica	1	Inse Berge sein nich siehre huch, die euren sein vie hicher.
+pq	48324	Weissenmoor	1	Uns Bargen sönt gar ne hoch, jo sind vel höger
+pq	48342	Itzendorf	1	Uns' bargen sünt neet ganz (heel) hoch, jo's sünt völ hoger.
+pq	48356	Arle	1	Uns Bargen sünd neet heel hoch, joos sünd föl hoger.
+pq	48368	Stedesdorf	1	Uns Berg' sünd nich ganz hoch, joo's sünd fö(ä)l högger
+pq	48383	Wüppels	1	Uns Bargen sünd nich ganz hoch, jons sünd väl högger.
+pq	48392	Langwarden	1	Use Barge sünnt nich duchtig hoch, jo' sünnt vǟl hogger.
+pq	48401	Flögeln	1	Unse Bargen sünd neg ganz hoch, jo'e sünd veel höger.
+pq	48477	Iffens	1	Us' Barg' sünd nich hoch, joon's sünd väl höger.
+pq	48487	Blexen	1	Use Barg' sunt nich gans heg', joh'e sunt väl höger.
+pq	48497	Altluneberg	1	Use Barg sünd nich ganz so hoch, joe sünd veel höger.
+pq	48507	Hönau-Lindorf	1	Unser Bargens sünd nicht hehl hoch, johe sünd vehl höger.
+pq	48516	Graal-Müritz	1	Uns Barg sünd nich siă (oder: sihr) hoch, jūch sünd vǟl högă.
+qr	48522	Rerik	1	Un 'ns Barg sünd nich sie 'eh hog, jugh sünd vehl höge.
+qr	48532	Brodhagen	1	Uns Barg sünd nich sehr hoch, jug sünd väl höge.
+qr	48550	Toitenwinkel	1	Uns' Barg' sünjt nich sià hoch, jūg' sünjt väl hō̈gà.
+qr	486	Niedamowo	1	Uns Barg sinn nich se'e hoach, jug sinne hehche.
+qr	48675	Strukdorf	1	Uns Bargen sünd nie hel hoch, ju Bargen sünd fel höger.
+qr	48702	Sereetz	1	Unns Barg'n sünd nich hehl hoch, jun sünd vehl höger.
+qr	48716	Gross Voigtshagen	1	Uns Barchg sühnd nich heil hoch; juchg sühnd väl högé.
+qr	48726	Beckerwitz	1	Uns Barg'n sünd nicht sehr hoch, juch sünd väl höger.
+qr	48738	Steinhausen	1	Un'ns Barg sünd nich hoch, jug sünd väl höger.
+qr	48752	Berendshagen	1	Unns Barj sünd nich heel hoch; jug sünd väl höje.
+qr	48765	Wiendorf	1	Uns Barg sünd nich siehe hoch, jug sind woll höge.
+qr	48790	Rethwisch	1	Uns Bargen sünd ni doll hoch, ju sünd veel höger.
+qr	48800	Lentföhrden	1	Uns Barg'n sönd nich heel hoch, ju sönd väl höger.
+qr	48812	Todesfelde	1	Uns Bargn sünd nich heel hoch, ju sünd vehl höger.
+qr	49022	Kleinboden	1	Uns Barg'n sünd nich heil hoch, jug sünd fehl höger.
+qr	49043	Campow	1	Unsere Barge sünd nicht so hoch, jug sünd vehl höge.
+qr	49076	Nesow	1	Uns Bargen sṻnd nich hoil hoch, juch sünd fäl högĕ
+qr	49090	Dalliendorf	1	Uns' Barg'n sünd nich heil hoch, juch sünd väl höge.
+qr	49108	Neuhof	1	Uns Barg sünd nich sihe hoch, jug sünd vel höger.
+qr	49122	Warnow	1	Uns Barg sünd nich heil hoch, juch sünd väl högĕ.
+qr	49140	Güstrow	1	Uns Barg sünd nich sier hoch, juch sünd vǟl höger.
+qr	49146	Drochtersen	1	Uns Bargen sünd neech gans hoch, jau sünd vähl höger.
+qr	49162	Gross Nordende	1	Uns're Bărgen sind nicht sehr hoch, ju (Bargen) sind vêhl höher.
+qr	49176	Quickborn	1	Uns Bargn de sünd nich hoch, de Annern ehr sünd höger.
+qr	49188	Jersbek	1	Un's Barg'n sünd nich ganz hoch, juch sünd vähl höge(r).
+qr	49311	Riekenbostel	1	Use Bargen sünd nich so hoch, june sünd veel höger.
+qr	49322	Brochdorf	1	Us Barge sünd nich ganz hoch, jue sünd veel höcher.
+qr	49332	Bispingen	1	Us Bargen sünd nich hoog, jãne sünd vähl hööger.
+qr	49338	Wettenbostel	1	Unsere Bargns sünd nich sehr hoch, jau sünd veel höger
+qr	49348	Seedorf	1	Uns Barg'n ßünd nich gans hoch, jô ßünd veel höger.
+qr	49362	Stoetze	1	Unsn Bargns ßünd nich ßehr hoch, jo ßünd höger.
+qr	49498	Dannenberg (Elbe)	1	Uns Bargen sünd nich sehr hoch, ju Bargen sünd völ höger
+qr	495	Jaroszewy	1	Uns Bag sind nech sehe hoch, dei gug sind vel höge.
+qr	4950	Palck	1	Inse Baarg sain nich sihr huch, eure sain vie hicher.
+qr	49509	Breetz	1	Uns Bergen sünd nich sehr hoch, juh sünd wöl höger.
+qr	49524	Laaslich	1	Uns Berg sünd nich sehr hoch, gu sind völ höher.
+qr	49534	Lübzow	1	Uns Berg sünd nich goar [?]o hoch, jouh sind noch vöel höhger
+qr	49551	Buchholz	1	Un[s]s Berg sünd nich goater hoch, ju sünd völ höger.
+qr	49562	Hetzwege	1	Us Barg sünd nicht gans hoch, john sünd vel höger.
+qr	49569	Otter	1	Un'ns Barg'n sünd nich sehr hoch, ja͡oun sünd vel höger.
+qr	49579	Ollsen	1	Us Bargen sünd nech so hoch, jaun sünd väl höger.
+qr	49587	Westergellersen	1	Us Barngs sünd nich ganz hoch, jaûn sünd väl höger.
+qr	49605	Barskamp	1	Uns Bargn's sünd nich sou sehr hoch, jou sünd vel höger.
+qr	4965	Stare Kramsko	1	Unsere Barge sein nicht siehr huch, die euren sein viel hicher.
+qr	4968	Zodyn	1	Inse Barge sain nie sihr huch, ueure sain viel hicher.
+qr	49727	Wendhausen	1	Uns Barg'n sünd nich sehr hoch; joun sünd väl höger.
+qr	49752	Jessenitz	1	Uns Barg sünd nich siehr hoch, jug sünd vehl höger.
+qr	49767	Glaisin	1	Uns' Barg sühnd nich gorre hoch, jug sühnd vähl höge.
+qr	49778	Neese	1	Uns Berg sünd nich sehe hoch, juhch sünd vehl höge.
+qr	49794	Pampin	1	Uns Barg sünd nich sihr hoch, jūch sünd vehl höge.
+qr	4980	Tarnowa	1	Ünse Barg' sein ni sir huch, d' Eurn sein viel hücher.
+qr	49802	Grabow	1	Uns Berg sünd nich goar so hoch, ju sünd vöhl hög'r.
+qr	49813	Wangersen	1	Uns Bargen sünd nich gans hoch, john sünd höger.
+qr	49821	Regesbostel	1	Use Barge sünd nich sehr hoch, jau'e sünd veeïl höger.
+qr	49828	Tötensen	1	Ūs Barg'n sünd nich sehr hoch, juƷn sünd veel höger.
+qr	49840	Lassrönne	1	Uns Bargen sünt nich gans hoch, jo'n sünt veel höger.
+qr	49857	Juliusburg	1	Uns' Bargens sünd nich hesl hoch, jüch sünd veel höger.
+qr	49881	Setzin	1	Uns Barg'n sünd nich gefehrlich hoch, juch sünd väl höger.
+qr	49898	Neuhof	1	Uns Barg sühnd nich sihr hoch, juuch sühnd väl höga.
+qr	50010	Gresse	1	Uns' Barg'n sǖnd nich heil hoch, jŭ̄g, sǖnd vǟl höge.
+qr	50027	Moraas	1	Uns' Barg sünd nich siehr hoch, jug sünd väl höge.
+qr	50058	Paarsch	1	Un'ns Barg sünd nich siä hoch, juch sünd väl höhgä.
+qr	50068	Barkow	1	Uns Barg sünd nich sihr hoch, juug sünd höge.
+qr	50073	Schwinge	1	Un's Barg sünd nich gans hoch, jo'n sünd veel höger.
+qr	50087	Wisch	1	Uns Barg sünd neg ganz hoch, jau sünd vel höger.
+qr	50117	Ottensen	1	Unse Baarg sönd nicht regg hoch, ju sönd veel höger.
+qr	50130	Willinghusen	1	Uns Barg'n sünd ni ganz hoch, jün sünd vêl höher.
+qr	50142	Basthorst	1	Unns Barg'n sühnd nich ganz hoch, jüüch sühnd vähl höger.
+qr	503	Szpegawsk	1	Unse Barg' send nich sehr hoch, dee juge send veel höger
+qr	5031	Lugow	1	Inse Berge sein nich siehr huch, die euren sein viel höher.
+qr	50321	Lehmrade	1	Uns Barg'n sünd nich gans hoch, juch sünd vähl höger.
+qr	50332	Drönnewitz	1	Un[s'?]ns Barg'n sünd nich sie hoch, juhg sünd vehl höge.
+qr	50343	Gross Rogahn	1	Uns Barg sünd nich sehr hoch, jug sünd väl högȇ.
+qr	50357	Kladow	1	Uns Barga sünd nich sihr hoch, dei jug'n sünd väl höger.
+qr	50365	Hohen Pritz	1	Unns Barg sünd nich siehr hoch, juhg sünnd fehl höga.
+qr	50377	Jellen	1	Uns Barg'n sünd nich siehr hoch, jueg sünd vähl höge.
+qr	50385	Lübsee	1	Uns Barg sünd nich sihe hoch, juch sünd vel höger
+qr	50471	Bellin	1	Uns Barg sie nich sehr hoch, jug sin vähl höger.
+qr	50523	Retzow	1	Uns Barg sünd nich sihr hoch, jug sünd veel höge
+qr	50538	Hohenbollentin	1	Us Barg sün'n nich so hoch, (denn) jug sün'n vähl hog(ä?).(r)
+qr	50552	Golchen	1	Uns Berg sünd nich sihr hoch, jug sünd väö höga.
+qr	5056	Biala Wies	1	Innsi Barg sain nich sieh huch, die euren sain viel hicher.
+qr	50567	Strippow	1	Uns Barg sind nich sihr hoch, juch sint vähl höga.
+qr	50575	Rosenhagen	1	Uns Barge sünd nich siehr hoch, jug sünd väl höga.
+qr	50583	Siniechowo	1	Us Berg sint nich sär hoch, jun sint vel höge.
+qr	50604	Drzewica	1	Den s Barj sünd nich seh e hoch, ju sünd vel höje.
+qr	50622	Lisowo	1	Oas Baaj sünn nich sehä hoch, dei jugg sünnt väel höäjeä.
+qr	50719	Lubin	1	Uns Berg sünt nich sia hoch juch sünt vel höga.
+qr	50765	Gross Ridsenow	1	Uns Barg sünd nich siea hoch, dei bi juch sünd väl höga.
+qr	50779	Schlutow	1	Uns Barg sünd nig siea hoch, jug sünd väl höge.
+qr	50794	Seedorf	1	Unns Barg sünd nich siä hoch, juch sünd vähl högä.
+qr	50805	Bentzin	1	Uns Barg sünd nig sie'r hoch, jug sünd hög'r.
+qr	50818	Ranzin	1	Uns Barg' sünd nich sihr hoch, dei jugig'n sünd fehl högä.
+qr	50830	Lassan	1	Uns Baarg sünd nich siehr hoch, jug sünd väl högä.
+qr	50840	Sallenthin	1	Uns Barg sünd nich sihr hoch, Gug sünd fëhl höga.
+qr	50844	Miedzyzdroje	1	Uns' Barg sünd nich sier hoch, jue sünd noch vähl hög'r.
+qr	50850	Sieroslaw	1	Us Berg sünd nich seä hoch, gu sünd fühl högä.
+qr	50872	Bedzieszewo	1	Os Berg' sünd nich seha hoch, gun sünd veel höhja.
+qr	50892	Skalin	1	Os Berg sünd nich sehe hoch, by gu sünd sei veel höge.
+qr	5091	Boruja	1	Inse Barg sein nich' sihr huch, die Euren sein viel hücher.
+rs	50973	Koserow	1	Unsre Barg sind nich seher hoch, ju sind veel höge.
+rs	50986	Trzesacz	1	Os Barg sünd nich sehĕ hoch, jüww sinn väl högĕ.
+rs	51	Baerwalde	1	Ŭs Bāg sǚn nĭ sēh hoch, Jūg sǚn vǟl hȫgä̌.
+rs	51012	Hohen Wangelin	1	Uns Barga sünd nich siehr hoch, juuch sünd väl höga.
+rs	51030	Rittermannshagen	1	Uns' Barg sünd nich siehr hoch, jug sünd höga.
+rs	51048	Tarnow	1	Uns Barg sünd nich sia hoch, jug sünd vähl höga.
+rs	51065	Trollenhagen	1	Uns Barg sünd nich sia hoch, jug sünd väl höga.
+rs	51081	Brohm	1	Uns' Bahch sünd nich siehr (sia) hoch, juhch sünd vähl höga.
+rs	51089	Eichhof	1	Uns Barg sünd nich sehr hoch, juch sünd vähl höga.
+rs	51098	Gegensee	1	Uns' Barg' sind nich sehr hoch, juch sind veel höger.
+rs	511	Krasniewo	1	Onsre Barg sent nich sehr hoch, de ere sent vehl höcher.
+rs	51101	Drogoradz	1	Uns B[a?]rg sind nich sehr hoch, juch sind vel höger.
+rs	51112	Budzien	1	Un's Berg' sind nich sehr hoch, juch sind veel höjer.
+rs	51123	Krzywice	1	O|es Bäg sinn ni se|ä hoch, juj sinnt väl höje͡ä.
+rs	51135	Plantikow	1	Ōes Bārg' sinn nich sehr hoch, jug sinn väl höhjĕ.
+rs	51143	Kloster	1	Unse Barg sünd nich recht hoch, juge sünd vähl höge.
+rs	51146	Wiek	1	Unse͡a Barge͡a sünd nich sier hoch, juge͡a sünd väl höge͡a.
+rs	51162	Nardevitz	1	Unse Barge sünd nich siä hoch, dei jugen sind väl högä.
+rs	51170	Zingst	1	Uns Barg sünd nich sieă hoc; juuch sünd vääl högă.
+rs	51173	Wendisch Langendorf	1	Uns Barg sünd nich sieh(r) hoch, jug sünd fehl höge(r).
+rs	51179	Wüstenei	1	Uns Barg sünd nich sier hoch, jug sünd väl höge.
+rs	51188	Saiser	1	Unsă Bargă sünd siă hoch, dei juga sünd vā̈hl högă.
+rs	51191	Ahrenshoop	1	Uns' Bargă sünd nich siă hoch, jug' sünd vähl högă.
+rs	5122	Gorzyca	1	Unsere Berge sind nicht sihr hoch, die Eiren sinn größer.
+rs	51232	Neu-Reddevitz	1	Unse Barg sünd nich so hoch, juge sünd väl höge.
+rs	51243	Langendamm	1	Unsa Barga sünd nich s͜iea hoch, jugch sünd vähl höga.
+rs	51257	Redebas	1	Uns Barga sünd nich siehr hoch, jug sünd vehl höga.
+rs	51267	Pütte	1	Uns Barg sünd nich sihr hoch, juge sünd väl höge
+rs	51277	Poseritz	1	Ûnsâ Bârg sü̂nd nîch sīâ hōch, jūgâ sü̂nd vēl hȫgâ. (jūgâ für: die euren).
+rs	51288	Thiessow	1	Unse Barge sünd nich sihr hoch; juch sünd väl höge.
+rs	5130	Ransko	1	Ünse Barge sein nich sihr huch, die euren sein viel hüger.
+rs	51346	Reppelin	1	Uns Barg sünd nich siă hoch, jug sünd vähl höge.
+rs	51355	Kavelsdorf	1	Uns Barg sünd nich sieh hoch, denn jug sünd vehl högä.
+rs	51370	Müggenwalde	1	Uns Barga sünd nich sia hoch, jug sünd vel höga.
+rs	51387	Steffenshagen	1	Uns' Barg sünd nicht siehr hoch, jug sünd vehl höge.
+rs	5139	Grudna	1	Unsre Berje sind nischt sehr hoch, die eiren sind viel höcher.
+rs	51397	Vierow	1	Uns' Barg sünd nich sia hoch, juch sünd väl höga.
+rs	51409	Karlshagen	1	Uns' Barg sünd nich siehr hoch, jug sünd väl höger.
+rs	5141	Brody	1	Inse Barg sind nich sihr huch, eure sind viel hicher.
+rs	51413	Trzebusz	1	As Berg sünd nich see hoch, dj u w sünd väl höge.
+rs	51539	Kisserow	1	Unns Barg sünd nich sihr hoch, jug sünd vel höge.
+rs	51549	Federow	1	Uns Barg sünd nich sia hoch, juch sünd väl höhge.
+rs	51561	Klein Vielen	1	Un's Barg sünd nich siehr hoch, bi jug sünd's vehl höger.
+rs	51571	Holldorf	1	Uns Bag sünd nich gota hoch, juch sünd vähl höga.
+rs	51584	Woldegk	1	Uns' Baarch sünd nich sia hoch, ju sünd väl höja.
+rs	51598	Trebenow	1	Uns Barg sünd nich seha hoch, juen sinn väl höga.
+rs	51611	Rossow	1	Uns Barg sind ne sehr hah, jun sind fel höger.
+rs	51624	Wawelnica	1	Uns Barg sind nicht seh(re) hoch, jug sind fehl höge(r).
+rs	51637	Bergland	1	Uns Barg sünt nich seä hoch, ju sünd vähl högä.
+rs	51646	Dabrowica	1	Os Bag sinn nich sahe hoch, jug sinn vehl höge.
+rs	51661	Bobrowniki	1	Os Bäg sinn ne sehe hoch, ju sinn väal höge.
+rs	51805	Grabow	1	Uns Barg sünd nich siehr hoch, juhch sünd vehl (hö[?]ä) högä.
+rs	51816	Lärz	1	Uns' Barg sünd nich siă hoch, jugg sünd vähl höhgă.
+rs	51832	Ahrensberg	1	Uns Barg sünd nich sia hoch, juchh sünd vähl höga.
+rs	51838	Hasselförde	1	Uns Barg sünd nich sia hoch, denn ju sünd väl höga.
+rs	51850	Buchenhain	1	Un's Barg' sind nich sehr hoch, de jue ' vel höger.
+rs	51866	Röpersdorf	1	Uns Berg' sind nicht sehr hoch, de juen sind vä höger.
+rs	51877	Grünz	1	Un's Barj sind ni sea hoch, juh'n sin vä höja.
+rs	51893	Pargow (Pargowo)	1	Os Berg s̄int nich s̄ehr hoch, ju s̄int vähl höger.
+rs	51906	Zelislawiec	1	Ös Barg sind nich sehr hoch, jug sind veel höjer.
+rs	51918	Slotnica	1	Oas Baj sinn ne see hoch, jug sinn väl höje.
+rs	51934	Zukowo	1	Os Bāg sinn ni sehe hoch, jug sinn veel höge.
+rs	5203	Nekielka	1	Os Baj sin nie sehä hoch, de jug sin väa höjäh.
+rs	52064	Papenbruch	1	Uns' Berg' sinn nich siehr hoch, jue sinn väl (völ) höhger.
+rs	52070	Wallitz	1	Unse Berg sind nich sehr hoch, de jure sind völ höger.
+rs	52079	Menz	1	Unse Berg sind nich sehr hoch, guhre send väl höger.
+rs	52086	Barsdorf	1	Unse Berg sind nich sir hoch, de ohrigen sind völ höger.
+rs	52095	Petersdorf	1	Uns Beărg sind nich siă hoch, june sind vel höja.
+rs	5210	Skwierzyna	1	Unse Berge sinn nich sehre hoch, die eiern sinn viel höer.
+rs	52103	Flieth-Stegelitz	1	Uns' Bèèrg' sind nich sia hoch, Juhe sind väl höja.
+rs	52113	Passow	1	Uns Berg sind nich sia hoch, jun sind höga.
+rs	52129	Widuchowa	1	Uns Bārg sint ni siehr hoch, ju sin̄ vā̈l höjer.
+rs	52139	Banie	1	Oos Barg sind nich sehr hoch, gu sind väl höger.
+rs	5214	Krobielewo	1	Unse Barge sind nicht sihr huch, de eiren sind vel hicher.
+rs	52154	Obromino	1	Ŏs Bāg sinn ne att hoch ju sinn vehl höge.
+rs	52169	Brzezina	1	Oes Bag sind ni sehe hoch, jug sind veel höhje
+rs	52276	Bagicz	1	Ohes' Barg sind nich sea hoch, juww sind vähl höga.
+rs	52278	Lasin Koszalinski	1	Us Barg sünd nich seè hoch, juww sünd väl högè.
+rs	52311	Sieciemin	1	Us Barge sind nich sehr hoch, juch sind väl höge.
+rs	52349	Pomysk Wielki	1	Uns Berg sind nich so hoch, juch sind veel heger.
+rs	52359	Szymbark	1	O͜us Baj send nich seh hoh, jug send vel hege.
+rs	52374	Szklana Gora	1	Unsere Bärg sind nich sehr hok, ju sind noch vel höjer.
+rs	52396	Skowarcz	1	Onsere Barg send nich sehr hoch, june send vel höhjer.
+rs	52428	Oberlakendorf (Solnica Górna)	1	Onse Bag seed nich sehr hoch, june seed vel höchcher.
+rs	52440	Deep (Czajcze)	1	Us Barga sünd nich seha hoch, jug sünd vähl höga.
+rs	52463	Bialecino	1	Uus Barg sind nich sehr hoch, jug sind fehl hööger.
+rs	52478	Bronowo	1	Us Bag sind nich sehä hoch, juch sind vel höchä.
+rs	52484	Reddies	1	Os Bag sin nich sehr hoch, dei jug sind vel höger.
+rs	52567	Pasewark	1	Onse Bahrg send nich so höech, juhne send vell hecher.
+rs	52578	Bad Rügenwalde	1	Uns Barg sind nich sehr hoch, jug sind vähl höger.
+rs	5259	Prusim	1	Unsere Berge sin nich sehr huch, die eiren sin viel höcher.
+rs	52600	Radoslaw	1	Us Barg sind nich sehä hoch, juw sind vel högä.
+rs	52700	Losino	1	Ous Barg send nich sehr hoch, gug send vel höger.
+rs	5271	Przyborowko	1	Unsere Berge sind nich sihr huch, die euern sin viel höcher.
+rs	52714	Labiszewo	1	Uns Bag is vehl side, jug sind vehl heger.
+rs	52722	Karwen	1	Uns Barg sind nich sehr hoch, jug sind vel höger.
+rs	52755	Heubude (Stogi)	1	Onsere Borg send nich sehr hoch, june send vel höcher.
+rs	52762	Skowronki	1	Onnse Bearg sent nich sea heoch, june sent fel höchha.
+rs	52766	Rowy	1	Uns Barga sind nich sehr hoch, dei juhe sind väl heger.
+rs	52767	Machowinko	1	Uß Bage sind nich se'e hoch, juh sind väl hege.
+st	5277	Gleboczek	1	Os Baach sinne ne seje houch, jug sin veija höge.
+st	52816	Hela	1	Onse Barg sind nich sehr hoch, de juge sind väl höger.
+st	52819	Jaroslawiec	1	Us Barge sünd nich sehe hoch, juw sünd väl höge.
+st	52825	Krolowstrand (Królewice)	1	Us Barg sind nich sehe hoch, jug sind vel höge.
+st	52854	Drzezewo	1	Us Bag' sind nich sehr hoch, jug sind väl höger.
+st	52865	Niebedzino	1	Unse Bahrge send nich sehr hoch, dei june send vehl höhger.
+st	52871	Dabrowka Wielka	1	Uns' Barge send nich sehr hoch, june send vähl heger
+st	52881	Luzino	1	Unsere Barge sennt nich sehr hoch.
+st	52887	Pogorze	1	Unsre Berge send nich sehr hoch, de june send vel höcher
+st	52896	Bialogora	1	Unsae Barg sin nig sehr hoch, juhnae sin fehl högae.
+st	52905	Karwenbruch	1	Onse Barge sind nicht sehr hoch, de june send vel (höher) höger.
+st	5291	Gorki Noteckie	1	Us Barge sin nich sehr hoch, ju sin vel höcher.
+st	52913	Wladyslawowo	1	Onsre Barge send nich sehr hoch, de june send völ höcher.
+st	52915	Lebieniec	1	Unsere Ba͡orge send nich so hoch, june send heger.
+st	52927	Zelazna	1	Unse Barge sind nich sehr hoch, June sind väl heger.
+st	52936	Tylowo	1	Onse Barge sint nig sehr hoch, de junigeh sint fäl höger.
+st	5305	Rapin	1	Unse Berge sinn nicht sehre hoch, jugge sinn väl höher
+st	5315	Pilka	1	Os Ba-j' sen nich se'r hoch, jug sen vä-a höje.
+st	5316	Rzecin	1	Os Bag sin ne sehe hoch, gug sin abbe no höge.
+st	532	Zulawka Sztumska	1	Unnsre Berg sind feel kliener eure sind feel höcher
+st	5322	Tarnowko	1	Os Bajch sin ne sehe hoch, dey juggo sei veia höge.
+st	5374	Groß Golle (Golaszewo)	1	Oß Bach sinn nich sehr hoch jug sinn veia höjä
+st	5386	Lubicz	1	Os Bag sind ni sehe hoch, jug sind vähl höge.
+st	5397	Slonow	1	Os' Barg' sinn ni sehr hoch, ju sinn vel höjer.
+st	5402	Huta Szklana	1	Os Bāg sinn ne seĕ hoch, jugg sinn veia höge.
+st	5409	Marienbusch	1	Ôs Baj sinn nî seè hoch, de jugô sinn veia höje.
+st	5421	Ostrowki	1	Ose Baj sin ni sehe hoch, jug sin veia häje.
+st	54871	Neuarad (Aradu Nou)	1	Unse Berge sein nit sea hoch, ęnkeri sein viel höcher.
+st	54873	Bistritz (Bistriţa)	1	Änser rāecher sae nät sīr huch, aern sae vil hicher.
+st	54878	Arzis (Artsyz)	1	Onsra Berg sĕn viel hecher.
+st	54897	Wolfswinkel (Wilczy Kat)	1	Oues Baagj sent nech so houch, d' jugge send nech so houch,
+st	549	Przecmino	1	Os' Barj sünd nich sehĕ hoch, schuw' sünd väl höjĕ.
+st	54901	Zarobka	1	Os Baag sen nech seä hoch, dej jugge sent vaja höge
+st	54902	Brzozowka	1	Ons Baaj send nech sehe hoch juch send fäl heje.
+st	54906	Brzezno	1	Oes Baag (g = j) sent nech seje hoch, juch sent veel höge.
+st	54909	Zbojenko	1	Ohnst Bach sent nech sehe hoch die j[e?]ch sent vel höche
+st	5491	Brzezno	1	Os Bag sind ne so hoch, jug sind faia höge.
+st	54912	Siemiatkowo	1	Ōes Bagch send nech sèhe hoch, juch send vél högche.
+st	54913	Sompolno	1	Os Baoch sin ny sejo hönch, jug sin vaja höchio. 
+st	54914	Sächsisch Regen (Reghin)	1	Anser Baich sai nät sir huch, de airen sei vil hicher.
+st	54915	Elek (Elek)	1	Unzr Pèricha sãn nid oarich hoach, airi san viel hèchr.
+st	54916	Freidorf bei Temeschwar	1	Unser Berche sein nit sa hoch, enkri sein viel hächer
+st	54917	Sarata (Sarata)	1	Onßre Bèrg’ ßén nét arg hoch, eire ßén viel hḗchr.
+st	54918	Scheindorf (Sâi)	1	Ajzre Berg send it stark hou. t’ ujre send viel heher.
+st	54919	Fünfkirchen	1	Unzere peagə sain net stoak hōh, engere sain fīl hehə
+st	54921	Iklad	1	Neununtzwanzik. Unzi Pe͜ark szan noch o͜arg hoch, enki szan nôch f͜ll hĕcha.
+st	54922	Sanktanna (Sântana)	1	Unséré Periká sen nét só hóh, aiéré sén héhár.
+st	54924	Martinsdorf (Metiş)	1	As Bierch (Keje̊r) net sīr hui, ir sen heche̊r
+st	54926	Bentschek (Bencecu De Sus)	1	Unsre Berche sein nett stark, eiri sein viel hechr
+st	54929	Agnetheln (Agnita)	1	As Berg sen nit sir hui, ir sen vill hecher. 
+st	54930	Gottlob	1	Unser Berch sin nit gar hoche, eiri sin viel hecher
+st	54932	Klein-Schemlak (Semlacu Mic)	1	Unseri Berje sein net àrich hoch, die eire sḛḭ viel hajher
+st	54933	Sankt Andreas (Sânandrei)	1	Uns’re Berche sin nett so stark hoch, die Eire sin vill he[e]cher.
+st	54935	Neuwerbas (Novi Vrbas)	1	Unsər perjə sin net so arich hoch, eiri sin fil hechr̥.
+st	54937	Groß Scham/Freudenthal (Jamu Mare)	1	Unser Berche sin net sèhr hoch, eukri sin viel hécher
+st	54938	Torschau (Savino Selo)	1	unsr pa͑ri̯ĕ̷ sin net ôrix hoʷux; aeri sin fil hèxr
+st	54939	Weprowatz (Kruščić)	1	Ŭnsr pärgĕ sin netʰ drix hox, ăĭri sin fil heͥxʰr
+st	54941	Neue Weingärten (-)	1	Onsre Berg sen net arg hoch, eire sen hēcher.
+st	54942	Seimeny (-)	1	Onsere Bèrg se̽nn ne̽tt arg hoch, eire se̽nn viele hecher.
+st	54943	Neubeschenowa (Dudeştii Noi)	1	Öns'r Berch sein neit sö gröss, eier sein viel gréss'r.
+st	-55055	Oborki	1	Ohes Bahj send nech sehe hoch, jugh send vel höche.
+st	-55064	Zale	1	Os Barch send nech sehe houch, dä ju send vûl höje.
+st	-55066	Zuromin	1	Unser Berge sind nicht so hoch, die aure sind viel höher.
+st	-55070	Grudusk	1	Unsere Berge sind nicht so hoch, eure sind viel höher.
+st	-55072	Ostroleka	1	Unsere Berge sind nicht so groß, eure sind größer.
+st	-55081	Ciechocinek	1	Ohes Bag send nech sehe hoch, juch end vel höhge.
+st	-55091	Skepe	1	Aues Baach send nech so hoch, de juch send viel höje.
+st	55094	Gradzanowo Koscielne	1	Os Bach send nech sehr hoch, de juch send vil hejer.
+st	-55096	Modelka	1	Ose Barje send nech sehe hoch, de jŭhe send fehl heje.
+st	-55099	Makow Mazowiecki	1	Ohs Basch sieh nie sejo heuch, jug sin faja hecho.
+st	55106	Susk	1	Oues Boich send nech seija houch, juch send heja.
+st	-55107	Zawidz Koscielny	1	Onəs Baje send nech sou hoch as ju.
+st	55109	Kondrajec Szlachecki	1	Unse Barje send nech sehr hoch, juch Barje send viel hejjer.
+st	-55110	Kicin	1	Os Baaj send nech seä hoch, juhn send väl höjä.
+st	55111	Szostka	1	Unsere Berge nicht sehr groß, eure sind größer 
+st	-55113	Kujawka	1	Unser Berge sin net so arig hoch, eire sin viel hecher.
+st	55116	Osiek	1	Ohes Bog send nech sehe hoch, jug send viel höge
+st	-55117	Nowe Karwosieki	1	Unes Bach send nech so hoch, duch sen vieh hacha.
+st	-55129	Lenie Male	1	Oeß Bag send fu[ln?] hoch jug send fuhl höge.
+st	-55133	Meczenino	1	Onsri Berji (Barji) sent nich so sehr hoch, juni sent viel hecher.
+st	-55135	Dzierzaznia	1	Unsre Berg sin nich sehr hoch, eire sin(t) heher.
+st	-55137	Konary	1	Oes Baaje send nech sea hoch de juch send veel heje.
+st	-55139	Kozy	1	Us Baaj sin ne se͜ō he͜ōch, jiug sin höjŏ.
+st	55140	Zglowiaczka	1	A. Unsere Berge sind nicht sehr hoch, die eiren sind viel höher. B. Onsare Berg sen net so hoch, eire sen viel hechar.
+st	55163	Grabkowo	1	Oso Bach sin nie sejo hoh, jug sin feiha höjo
+st	-55164	Wieslawice	1	Os Baj senn nehr seä hauch, juch senn vel heje.
+st	-55166	Budy Borowickie	1	Os Baje send nech sehe hoch, juch send vehl heje.
+st	-55169	Orszymowo	1	O'es Baaj sent ne so hoch, jug sent fehl höjge.
+st	-55171	Nowy Dwór Mazowiecki	1	Ons Bag sen nech sche hoch, jun sen vel höje.
+st	-55173	Kozie Glowy	1	Inser Bark sinn nich sü hüch, die eurin sin vile hücher.
+st	-55177	Brdow	1	Unsene Be:rgn han net so hauch, die engen hant völl hechena
+st	-55181	Psary	1	O̊s Baïj sinn ne̊ sēïe hauch, jug sinn feïa höije̊.
+st	-55187	Nowa Wies	1	Ons Baj send näch seie hoch, juch send vel höje.
+st	-55189	Miszory	1	Os Baje send n[i?]ech so hoch wi jie, june send veel heejer.
+st	5519	Berka v.d. Hainich	1	Onsere Bärge sind nett siehr huch, de eurn sind vèl höcher.
+st	-55191	Secymin Polski	1	Aŭes Boche sent nech so houch, die juch sent heÿi
+st	55210	Niechcianow	1	Unsere Berge sind nicht sehr hoch, eure sind viel höcherter. 
+st	-55216	Kaptury	1	Os Baj send hoch, ju send viel heje.
+st	-55218	Stare Miasto	1	Unsre Barg sind nich sihr hüch, eire sind vill hicher.
+st	-55226	Tarnowka	1	Unsere Berge sind nicht hoch, die eiren seint viel hecher.
+tu	-55238	Zychlin	1	Unsere Berge sind nich sehr hoch, die eiren sein heher.
+tu	-55240	Kopojno	1	Unsre Berge sin nich so sehre hoch, eire sin viel hicher.
+tu	55244	Natalia	1	Unsere Berge sind nicht so sehr hoch, eure Berge sind viel höcher.
+tu	55252	Potrzaskow	1	Unsere Berge sind nicht sehr hoch, die euren sind viel höher. 
+tu	-55254	Szamow	1	Unsre Berg sind net arg hoch, eure sein höcher.
+tu	-55258	Wierzchy	1	Unsre Berg sin nich sehr hoch, ere sin ville hecher.
+tu	-55261	Gadowskie Holendry	1	Unsre Barg sind nich sehr huch, die eure sin viel hiecher.
+tu	-55262	Turek	1	Unsere Berge sind nicht so groß, unsere sind veil größer.
+tu	-55266	Sarbice	1	As Basch sin nie so heauch, ju sin feije heje.
+tu	-55269	Zimne	1	Uns Baag senn ne see houch, dee jug senn vel höche
+tu	-55270	Leczyca	1	Unser Berje ssinn net so hoch, eire ssinn viel heecher.
+tu	55271	Piatek	1	Unsre Perche sin net so hoch, eire sin viel hejer.
+tu	-55300	Goliszew	1	Unsre Berge sin net arg hoch, die eire sin viel heher.
+tu	55305	Poroze	1	Unse Barg sain goar nich su hüich, eure sain viel hicher.
+tu	-55306	Rzymsko	1	Unsre Berge sind nicht hoch eire sind viel heher.
+tu	-55308	Baldrzychow	1	Unser Berg sind nich so hoch wie eure.
+tu	55320	Sanie	1	Unse Berge sein nich sehr hoch, eire sein hecher.
+tu	-55322	Marianow	1	Unsere Berge sind nicht so groß, eure sind viel größer.
+tu	-55326	Jozefow	1	Unser Barg sind nicht sihr hüch, eure sind vill hücher.
+tu	55330	Morawki	1	Unse Barch ist nid su hauch, die enken san vel heijche
+tu	-55331	Rzepiszew	1	Unsere Berge sind nich so sehr hoch, die eiren seind viel hecher.
+tu	-55338	Justynow	1	Unsre Berge sind nich hoch, eire sin hecha.
+tu	-55344	Slomkow Suchy	1	Unsane Beag hend net recht hauch, de engern hand vail heher.
+tu	-55349	Markowka	1	Unsere Berge sein ich seh hoch, die eiren sein viel heja.
+tu	-55350	Rzgow	1	Unser Berge sin net arch hoch, eire sin viel höcher.
+tu	-55354	Laznowska Wola	1	Unsre Berg sein nich so hoch, eire seind hecher.
+tu	-55359	Kiebitztal (Kuznica)	1	Unsere Berg' sein net grad hoch, eichere sein viel höcher.
+tu	-55360	Ostrow	1	Unsere Berge sind nicht sehr hoch, eure sind hoher.
+tu	-55361	Wielka Wies	1	Unsere Berge sind nicht sehr hoch, eure sind viel höher.
+tu	-55362	Suchcice	1	Unsere Berge sind nicht so sehr, eure sind höcher.
+tu	-55363	Siemkowice	1	Unsre Berg' sind net so hoh wie eiere, eiere sind viel höcher.
+tu	-55365	Dobroslaw	1	Unsere Berge sind ni[c]ht so sehr hah, Eure sind viel höher.
+tu	-55366	Belchatów	1	Unsere Berge sind nich sehr hoch, Eire sind viel hecher.
+tu	-55373	Luszczanowice	1	Bei uns sind die Berge nicht so hoch, bei euch sind sie viel höher.
+tu	-55375	Ozarow	1	Unsere Berge sind nicht sehr hoch, eure sind viel höher.
+tu	-55376	Jaworzno	1	Bei uns sein die Berge nicht so hoch, eire sein höcher.
+tu	-55377	Natolin	1	Inser Berge sein nicht sir huch, die euren sein viel hicher.
+tu	-55382	Czarny Las	1	Unsere Berge sin net hoch, eire sin viel höher.
+tu	-55383	Huta Stara A	1	Unsere Berg sein nich sejr hoch, ejr sein nochj vejl hicher.
+tu	55384	Myszkow	1	Unser Berge sind nicht sehr hoch, die euren sind viel höher.
+tu	55387	Dabrowa Gornicza	1	Unsre Berge sind nicht sehr hoch, eure sind viel höher.
+tu	-55389	Kwaczala	1	Unsere Berje sin net so hoch, wie eire.
+tu	-55394	Freistadt (Fryštát)	1	Bei uns sind die Berge nicht sehr hoch, bei euch sind sie viel höher.
+tu	-55408	Bistritz (Bystrice Nad Olsí)	1	Unsere Berg[e?] sind nicht so hoch, bei euch sind sie viel höher.
+tu	-55411	Radziechowy	1	Unseren Bergen han nit soa stoark hoach, die euern han viel höher.
+tu	-55415	Skomlin	1	Unsre Berg sind nich (net) so groß, eire sind größer.
+tu	-55416	Kamesznica	1	Unser' Barg san niät so houch, die enkern han vül häichär.
+tu	-55418	Schönwalde (Wrzosy)	1	Os Bach send nech sehe hoch, juch send vel höche.
+tu	-55425	Wyszewo	1	Us Bache sinn nich seher hoch, juch sinn höjer.
+tu	-55522	Nojewo	1	Unsere Berge sind nicht sehr hoch, eure sind viel höher.
+tu	5717	Illeben	1	Onse Baerge sin nech sihr huech, aubre sin väel höcher.
+tu	573	Lykowo	1	Ô=es Barg sünd nich sê=e hôch, jouw sünd vä̂l hö̂ge.
+tu	5730	Gebesee	1	Onse Barché sinn nech sihr huech, uhre sinn fähel höcher.
+tu	5752	Thalborn	1	Unse Bärge sen nech sihr huch, eire sen väl hecher.
+tu	5774	Nirmsdorf	1	Onse Berge senn nech ark huch eire senn väl hicher.
+tu	5810	Crölpa-Löbschütz	1	Unse Barge sinn nich siehre huch, eire sinn vähl hächcher.
+tu	5827	Krössuln	1	Unse Bärge sin nich siehre huch, eire sin vel hecher.
+tu	584	Dunowo	1	Oas Bag sinn nich sehe hoch, juch sinn fäl höge
+tu	5863	Michelwitz	1	Unse Barge sin nich siehre huch, eire sin vee hächer.
+tu	5867	Hollenbach	1	Unse Barge sinn nich siere huch euwere sinn höcher.
+tu	5875	Schlotheim	1	Unsere Berge sind nich sehr huch, uhre sind viel höher.
+tu	6074	Obertopfstedt	1	Unse Berge sinn nech sehre houch, de uhren sinn fähl höcher.
+tu	6089	Etzleben	1	Unse Bärge sinn nech sehire houch, ure sinn höchcher.
+tu	6105	Allerstedt	1	Unse Bärge sinn nich siehre huch, die air'n (aire) sinn vähl hecher.
+tu	6116	Gleina	1	Unse Berge sinn nich siehre huch, eire sinn vel hecher.
+tu	6129	Kleinkayna/Kleinkaina	1	Unse Bärge sin nich siehr huch, eiere sin vel hecher.
+tu	6168	Rehbach	1	Unse Berge sin nich sehr hoch, die eiern sin viel höcher.
+tu	6171	Mengelrode	1	Unsere Berge sinn nit sähr hach, die uhren sinn vele haecher.
+tu	6185	Kirchworbis	1	Uns're Barge sin nit sähr hach, ubre sin vele höcher.
+tu	6196	Grosswenden	1	Unse Bärrige sin nich sähre hahch, de uhren sin veele hecher.
+tu	6341	Auleben	1	Unse Bärge sinn nich siehre huch, uhre sinn vehle hecher.
+tu	6359	Hackpfüffel	1	Unse Bärje sin nich sehre huoch, uhre sin fehle höcher.
+tu	6371	Mittelhausen	1	Unse Barge sinn nich siehre huch, dä̆ eiern sinn vähle hecher.
+tu	6388	Stedten	1	Unse Berge sin nich sire huk, de eiern sin vel hecher.
+tu	6400	Ammendorf	1	Unse Bärge sin nich siere hock, eire sin väl hecher.
+tu	6418	Glesien	1	Unse Bergn sin nich sihre hok, die eiern sin viel heher.
+tu	6426	Zwinge	1	Usa Barga sind nich sau hach, ju sind viela höcher.
+tu	6472	Stolberg (Harz)	1	Unsere Bärge sin nich sehre hoch, de urigen sin vele höcher.
+tu	6577	Walkenried	1	Unse Barge sinn nich sohre hoch, ure sinn vēle höcher.
+tu	6593	Königerode	1	Unse Bärge sinn nich sähre ho(a)ch, die ur[?]n sinn vele hecher.
+tu	6610	Vatterode	1	Unse Bärge sin nich sihre huch, de eiern sin vehle höcher.
+tu	6630	Freist	1	Unsere Berge sin nich siehre hock, die eiren sin vèle höcher.
+tu	6656	Drehlitz	1	Unse Berge sin nich sihre hok, de eiern sin viel höcker.
+tu	6660	Möst	1	Unse Berge sin nich sihre hoch, die eiern sind viel heher.
+tu	6682	Ramsin	1	Unse Berge sinn nich sierre hohk, eire sinn viel hökker.
+tu	6690	Braunlage	1	Unse Barge sind nich ser hoch, jue sind vele hecher.
+tu	6705	Rieder	1	Unse Barge sin nich sau hoch; jue sin vēl hechcher.
+tu	6793	Riefensbeek	1	Use Barge ßind nich ßau hach, dä juen ßind vele höcher.
+tu	6801	Neuwerk	1	Unse Barge sind nich sau hoch, ju e sind fele hegger.
+tu	6821	Aschersleben	1	Unse Barge sin nich sehr hoch, jiee sind veel höcher!
+tu	6831	Gröna	1	Unse Barge sinn nich sehre hok, eire sinn vill höker.
+tu	6848	Elsdorf	1	Unhere Berge sinn nich siehre hok, die eiern sinn ville heher.
+tu	688	Pregowo Zulawskie	1	Onsere Barg send nich sehr hoch, june send fehl hóchcher.
+tu	6891	Danstedt	1	Unse Barge sind nich hoch, ju sind vel höjjer.
+tu	6960	Abbenrode	1	Use Barge sind nich sehr hoach, jue sind viël hegger.
+tu	6981	Emersleben	1	Unse Barge sünd nich sehr hoch, jue sünd vehl höcher.
+tu	6995	Egeln	1	Unse Barge sin nich sêre hoch, di jue sin vêl högger.
+tu	7007	Eickendorf	1	Unsere Barje sin nich sehr hoch, juge (ehre) sin vel höcher!
+tu	7022	Kämeritz	1	Unse Berge sin nicht sehre hoch, die euren sin noch höher.
+tu	7033	Natho	1	Unse Barge sin nich sehre hoch, joe sin ville höer.
+uv	7180	Liemehna	1	Unsere Bärge sinn nich siehre hok, eire sinn vähl högger.
+uv	7198	Röcknitz	1	Onse Berge sinn nich siëre hoch, eire sinn vill hecher.
+uv	7212	Lausa	1	Unse Barge sinn nich sie=e=re huach, de euern sinn vill höcker.
+uv	7225	Kosilenzien	1	Unse Berge sinn nich siere huch, eire sinn vill hecher.
+uv	7246	Kahla	1	Unse Berge sin nich sihre huch, die eiren sind viel höcher.
+uv	7253	Ruhland	1	Unsere Berge sin nich sehr hoch, die eiren sin viel heher.
+uv	7263	Lauta	1	Unsre Berge sind nich sehr hoch, die eiern sind viel heher.
+uv	7363	Brösa	1	Unse Berge sin nich sehre hok, die eiern sin vill höcker.
+uv	7371	Falkenberg	1	Unsere Berge sin nich so hok, die eire sin vill hecker.
+uv	7384	Rosenfeld	1	Unse Berge sin nich sehre hoch, eire sin viel hecher.
+uv	7394	Wiederau	1	Unse Berge sinn nich sehre hoch - eire sinn vill hecher.
+uv	74	Gwiezdzin	1	Us Baag sind ni sehe hoch, jug sind vehl höge
+uv	7412	Lugau	1	Unse Berge sin sehre hoch, die eiren sin vill heher.
+uv	7427	Dollenchen	1	Unsre Berge sinn nich' sehr hoch, die eiren sinn (h)öher
+uv	743	Rudki	1	Os Bag sinn ni sehe hoch, gug sinn veia höge.
+uv	7435	Petershain/Neupetershain	1	Unsere Berge sind nicht sehr hoch, die eiren sind viel höher.
+uv	748	Budy	1	Os Bag sinn ni seä hoch, jug sinn veil höge.
+uv	7529	Schleesen	1	Unse Barge sin' nich' sehre hok, eire sin' viel heker.
+uv	7546	Bleddin	1	Unse Barge sin goarnich hok, doa sin eire hecker.
+uv	7562	Klossa	1	Unse Bärge sin nich sehre hok, de aue sinn vill höcher.
+uv	7576	Werchau	1	Unse Berge sinn nich seehre hoch, aue sinn vill hecher.
+uv	7586	Wendisch Drehna/Walddrehna	1	Unse Berje sin nich hoch aue sin heer.
+uv	7596	Schlabendorf	1	Unse Berge sin nich sehre hoch; eire sinn viel höher.
+uv	760	Zakrzewo	1	Uus Baag sünn nie sea hoch, gug sünd veel höga.
+uv	7688	Straach	1	Unse Berge sinn nich sehre hok, de jo_en sinn väl höcher.
+uv	769	Nowy Dwor	1	Uhs Bag sünd nich seha hoch dei juga sünd fel hega
+uv	7696	Rahnsdorf	1	Unse Berge sin nich sehre hoch jo sin ville höcher.
+uv	7710	Rohrbeck	1	Unse Barge sin ich sehre hoch, ju 'e sin vill heher.
+uv	7721	Wahlsdorf	1	Unse Berge sin nich sehre hoch, jaue sien ville höcher.
+uv	7732	Hohendorf	1	Unse Berge sin ni[c]h sehre hoch, ohe sin vil heer
+uv	7747	Treppendorf	1	Unse Berge sin nich sehr hoch, eire sin viel höcher.
+uv	7758	Sacrow	1	Unse Berge sin nich sehre hok, die eiern sin vill höker.
+uv	7964	Zedtlitz	1	Unsre Barge sin nich siehre huch, de eiern sinn väl hächer.
+uv	7979	Hohnbach	1	Unse Barge sin nich sihre huich, eure sin viäl häch'r.
+uv	80004	Grindelwald	1	Yser Bärga syn nid grad uberuus heih, ewwer syn viel heijer.
+uv	80023	Bosco	1	Iaš Barga sén net štrang hō, ew sén fél hēchar.
+uv	8011	Ziegra	1	Unse Barge sinn nich sihre huch, di eiern sinn väl häher.
+uv	803	Lunawy Male	1	Uns Bagä sünnt nich seä hoch, de jun sünn veel höga.
+uv	8032	Rausslitz	1	Unße Barge sein nich siehre huch, de euergen sinn väl hächer.
+uv	8055	Coswig	1	Unse Berge sin ni sihre huch, de euern sin väl hächer.
+uv	8075	Langebrück	1	Unsre Barge sein ni sihre huch, di euern sein viel hächer.
+uv	8092	Frankenthal	1	Onse Berge sein ne siehre huch, de euern sein viel hücher.
+uv	821	Bukowiec	1	Us Baag send nich sehe hoch, juuch send veel höche.
+uv	8272	Fuchshain	1	Unse Berge sinn nich siehre huch; eire sinn väl hächer.
+uv	8289	Nerchau	1	Unsre Bärge sin nich sehre hoch, de eiern sin viel hächer.
+uv	83	Charzykowy	1	Us Bag sind ni sehe hoch, jug sind väl höje.
+uv	8305	Limbach	1	Unse Barge sin nich siere huch, eure sin väil hächer.
+uv	8321	Mergendorf	1	Unse Bärge sin nich sihre huch de euern sin veh höcher.
+uv	8345	Rostig	1	Unse Barge sein nich siehre huch, die euern sein vehl höher.
+uv	8358	Steinborn	1	Unse Barge sein nie sihre huch, eure sein viel hicher.
+uv	8368	Bernbruch	1	Onsre Berge sein nu sihre huch, die euern sein vill höcher.
+uv	8505	Dretschen	1	Unse Berge sein nä siehre huch, eüre sein viel hicher.
+uv	8519	Kittlitz	1	Unse Barge sein nä siehre huch, die euern sein vill hicher.
+uv	8532	Kunnerwitz	1	Unsre Barge sein ne sieht huch, eure sein viel hicher.
+uv	8546	Siekierczyn	1	Unse Barge sein ne sihr huch, de euern sein viel hicher.
+uv	8560	Wolbromow	1	Inse Barge sein nä siehr huch, d' eurn sein vill hichcher.
+uv	8574	Pieszkow	1	Unse Barge säen ni sehr huch, d' euriga säen viel hicher.
+uv	8590	Prusice	1	Innse Barge sein nĭ siehr huhch, eure sein viel hĭcher.
+uv	8614	Ogonowice	1	Insre Barge sein nich seihr huch, die euren sein veil hüher.
+uv	8716	Förstgen	1	Unsre Barge sind nicht siehr huch, die euren sind viel hiecher.
+uv	8726	Ober Horka I	1	Unse Barge sein ne sär huch, eure sein viel hicher.
+uv	8736	Wegliniec	1	Innsre Barge sein ne siehr huch, d'euer sein viel hicher.
+uv	8740	Kierzno	1	Unse Barge sein ni sihr huch, euer sein viel hücher.
+uv	8751	Szczytnica	1	Inse Barge sein ni sihr huch, ruer sein hicher.
+uv	8762	Göllschau (Goliszów)	1	Inse Berge sein nie su huch, eure sein viel hicher.
+uv	8777	Bieniowice	1	Inse Berge sehn nie sihr houch, die euren sehn viel hicher.
+uv	880	Strzeczona	1	Os Bag sünd ne sehe hog, jug sünd väl höge.
+uv	8852	Klein Priebus	1	Unse Barge sein ne siehr huch, eure sein viel hicher.
+uv	8858	Okraglica	1	Inse Barge sein ni sihr huch, euer sein viel hücher.
+uv	8865	Koberbrunn	1	Inse Barge sähn ne su huch, Eure sähn vel höher.
+uv	8870	Armadebrunn (Studzianka)	1	Inse Bärge seen nie sehr hauch, eure seen veil hücher.
+uv	8878	Trzmielow	1	Insere Barge sein ne seihr hauch, de eiren sein veil hicher.
+uv	8888	Skladowice	1	Inse Borgn sehn nie sehr hauch, dei euern sehn veil hicher.
+uv	895	Jelencz	1	Us Baag sin ni sehe hoch, jug sin veel höge.
+uv	8972	Cantdorf	1	Unsere Berge sein nich sehre hoch, die eiren sein viel heecher.
+uv	8981	Eichwege	1	Unse Berge sein nich sehre hoch, eire sein viel höcher!
+uv	899	Iwiec	1	Us Baag sün ni seha hoch, gug sün vähl höga.
+uv	8990	Jedrzychowice	1	Unsere Barge sind nicht sehr huch, die euren sind viel hicher.
+uv	9000	Kunzendorf (Kunice)	1	Ünser Bärge sein nich sire huhch, eire sein viel hächer.
+uv	9015	Chichy	1	Inse Barge sehn nie sihr huch, euer sein viel hicher.
+uv	9025	Przeclaw	1	Inse Barge seen ni sähr hauch, d' Euren seen veio hicher.
+uv	9036	Jakubow	1	Inse Barge seen nie sehr hauch, d'euren seen veo hicher.
+uv	9052	Rzeczyca	1	Ins Barg sehn nie sehr hauch, de euren sehn veio hicher.
+uv	906	Busnia	1	Ons Barg send nech sèe hoch, jun send veel hège.
+uv	9143	Mehlen	1	Use Barge sin nich sehre hok, eiere sind hecker.
+uv	9152	Dluzek	1	Unse Berge sein nich siehre huch, die euern sein viel hicher.
+uv	9163	Bialowice	1	Inse Berge sein nich siere huch, eure sein vill hĭcher.
+uv	9179	Broniszow	1	Ins' Barg' seen ni sehr hauch, Euer seen vel hicher.
+uv	9193	Alt Tschau (Stare Żabno)	1	Inse Barge seen nie sehr hauch, d' euren seen veel hicher.
+uv	920	Lisie Katy	1	Onns Barg senn nich sehr hoch, june senn veel höchcher.
+uv	9200	Grochowice	1	Inse Barge seen nie sa͡ir hauch, die o͡oren seen veil hicher.
+uv	9207	Konradowo	1	Ins' Barg sen nie siehr hauch, die oiren sen veil hücher.
+uv	9274	Staakow	1	Unse Berje sin nich sehrechin hook, die eiren sin vill höker.
+uv	9280	Kaltenborn	1	Unse Barge sin nich sehre hok, eire sin vill hecker.
+uv	9288	Czeklin	1	Unsere Barge sind  nich siehre huch, die euren sein viel hücher.
+uv	930	Goczalki	1	Onsre Berg sint nich sehr hoch, die eire sint viel heher.
+uv	9303	Lubiatow	1	Ünse Barge sain nich siere huch, eure sain hücher.
+uv	9314	Zielona Gora	1	Inse Berge sein nich siehr huch, die euren sein viel he'er.
+uv	9323	Zabor	1	Inse Barge sän nich sehr hōch, die eur'n sän vēl hicher.
+uv	9335	Ciosaniec	1	Uns're Berge sein nich seir hauch, die oiren sein veil hücher.
+vw	9400	Miloszyce	1	Unsere Berge sein nich sehr houch, die euren sein viel höcher.
+vw	9417	Prietzen	1	Innse Barge sein nich su huch, Eure sein viel hĭch'r.
+vw	9433	Ujazd Gorny	1	Inse Barge sei'n ni siehr huch, eurne sein viel hücher!
+vw	9453	Lisowice	1	Ünse Barge seen ni sirr hoch, de eurigen seen vehl hicher.
+vw	9558	Ligota Piekna	1	Innse Barge seen nich seer hoch, die euern seen veil hicherr.
+vw	9579	Jenkowice	1	Inse Berge sen nich sau hauch, de oirigen sen veil hicher.
+vw	9592	Jemielna	1	Ünse Berge sind nich sihr huhch, die euren sind viel hühcher.
+vw	9612	Prawikow	1	Inse Barge seen ni seir hauch, eure seen veil hicher.
+vw	9622	Warzyna	1	Innsre Barge seen nie seihr hauch, die eurigen seen veil hücher
+vw	9717	Domanowice	1	Inse Barge seen nie seihre hauch, die eurdn seen veile hücher.
+vw	9739	Kamien	1	Unsre Berge sind nicht sehr hoch, die eiren sind heher.
+vw	9760	Krzelow	1	Inse Barge sein nie a so hoch, eure sein vehl hicher.
+vw	9775	Staszowice	1	Inse barge säin nich hauch, eure säin veil höier.
+vw	9799	Lazy Wielkie	1	Inse Barge seen ni saihr houch, die euren seen vail hicher.
+vw	983	Gromaden	1	Oas Baj sün ni seä hoech, jug sün väl höhjä.
+vw	984	Friedberg	1	Us Baj sünn ne seä hoch, jug sünn väl höjä.
+vw	9848	Godnowa	1	Innse Barge sein nich seir hauch, de euern sein viel hichher.
+vw	9877	Chroscina	1	Üns' Barg' sen nie sehr hauch, oer sen väl hicher.
+vw	9891	Gosciejewice	1	Inse Barge sen nie sehr h[au]ch, die euren sen väl höcher.
+vw	99	Trumiejki	1	Onns' Barg sönnd nich so hoch, juj sönnd väl höchcher.
+vw	990	Walownica	1	Ohs Bag sinn nigg sehe hoch, jug sinn fel höge.
+vw	9903	Sonnenfeld (Orpischewo)	1	Inse Barge seen nich seier hauch, die eurigen seen feil hicher.
+vw	9919	Wierzowice Male	1	Inse Barge seen nich seir hauch, die euren seen veil hicher.
+vw	9926	Wodniki	1	Ünse Barge sen nie seihr hauch, be euch se[e/n?]n se hücher.
+vw	994	Kabat	1	Os Bag send nech sehe hoch, de juge send vel höge.
+vw	9984	Morkowo	1	Ins Bärg sehn nie sehr hauch, ohr sehn väl hicher.
+vw	54872	Reval	1	Hunssere Pärje ssint nich ssēr ōch, öjre ssint wīl ȫjer.
+vw	52353	NA	1	Ons Barg sind nich sehr hoch, dei ju sind vell höger.
+vw	30173	Ajoncourt	2	Nos cōūtes ne sommes tra hōtes et les vate sont bien pu hōtes.
+vw	30197	Vaxy	2	Nos montégnes ne sommes to hâtes, les vottes sont bìn pu hâtes.
+vw	30214	Bénestroff	2	Nos montégnes ne sont vouar hâtes, les votes son ben pu hâtes.
+vw	30225	Attilloncourt	2	Nos montagne ne sann trop hâte, les votes sant pu hâte
+vw	30248	Bezange-La-Petite	2	No montègne ne somme to hô̄te, les vōte sont bin pu hōte
+vw	30254	Maizières-Lès-Vic	2	Nos montaignes ne somme très hâtes, lès votes sont bopiain pu hâtes
+vw	30268	Richeval	2	Nos montaines eune sont vère hâtes, les vôtes sont ben pi hâtes.
+vw	30285	Lommerange	2	Nos montagnes ne sont' me bien haute, les vŏtes y sont bin pus.
+vw	30314	Argancy	2	Nas monteignes neu sont ou-a hautes, les vaâttes sont bien pu hautes.
+vw	30325	Vernéville	2	Nos montègnes nè sont oua hautes, lè votes sont pu hautes.
+vw	30351	Ancy-Sur-Moselle	2	Not montagnes ne sonmes mou hôtels, les votes sont beune pu hôtes.
+vw	30361	Orny	2	Nos côutes né sonmes trop hautes, les vâtes lo sont bien pu.
+vw	30374	Hémilly	2	Na coête ne som fin hôte, les vâte son ben pu hôte
+vw	30379	Champenay	2	Noti Montäne ne son pa to haht, li mott son bramon pü haht.
+vw	30410	La Petite Lièpvre	2	Nothé montagnes ne so mi très-hautes, les vott so plus hautes. / Nos montagnes ne sont pas très hautes, les vôtes sont plus hautes.
+vw	30421	Montreux-Vieux	2	Nos montaignes ne sont pes bin hâtes, les vôtres sont bécôt pus hâtes.
+vw	30429	Xhoffraix	2	Nos montagnes nus n’sont nin focit heutes les oosaes sont hai cop plus hautes.
+vw	30436	Pont	2	No tèrra n' son nin fwèr hô, lè voss son brâfmin pu hô.
+vw	30058	Karkelbeck	3	Jūsų Kalnai yra nelabai aukfzti, mufz ifzkei ÿra dauk aukfztesni.
+vw	30068	Kinten	3	Musu Kalnai nera labai aukszti, jusu ÿra daug auksztesni.
+vw	30078	Rudienen	3	Mufu Kalnai ner labai aukszti, juhiejie ÿra daug aukfztesni.
+vw	30083	Kolleschen (Kolletzischken)	3	Muhu Kalnei ira augfte, te jufijei yr daug aukfztehni.
+vw	-54895	Warszawa	10	insərə bęrgə (stark getrilltes Zungen-r) senən nid saiər hǭix, ǫbęr āirə  senən fīl hǫ̈xər (oder: nid asói hǭix wi āirə).
+vw	9746	Kobyla Gora	10	Ünſer Barge ſind nicht ſehr hoich, Enkern ſind höcher.
+vw	46572	Nebel	11	Üs Bergar san egh så hugh, jammans san föl hughar.
+vw	46636	Hooge	11	Oes Bäiriea  sean ä ganz huch, jöerngea  sean valea hucher.
+vw	46640	Wobbenbüll	11	Üs Beerge sen eg sü hug, jernge sen volle  huger.
+vw	46699	Horsbüll	11	Ühs Behriä ſenn ni ehi hug, jagen ſenn valler huger.
+vw	46759	Oland	11	Ös Berige senn e grui huch, jaren sen volle huger.
+vw	46773	Mönkebüll	11	Ühs Berge ſen ä beiſtig hug, jerre ſen faale huger.
+vw	46888	Archsum	11	Üüs Barriger sen ek send’erlik hoog, jūen sen fuul hooger.
+vw	47862	Helgoland	11	I Berjen sèn nĭ ōrĭ / hṓ, dje(rr)emen sèn vèö hṓge(r).
+vw	48241	Wangerooge	11	Us Bargen ſind nich gans hoch, johns ſind vel hohger.
+vw	F002p	Hindeloopen	11	Hus bergen 1) binne naàt slim haig, jimmes 2) binne fuule haiger.
+vw	B079p	Zurich	11	Us bergen binne net so mâlle heech, die fen jimme binne folle heeger
+vw	F036p	Oudemirdum	11	ū́s bĕ̀rgən bĭ̀nə nĭ̀t sằ slĭ̀m hḗg, dĭ́ fŏ̀n jĭ̀mə bĭ̀nə fọ̆lə hḗgər.
+vw	F003p	Woudsend	11	Ús bèrgen binne nèt hél héch, dí fàn jìmme binne fòl hécher
+vw	B084p	Wommels	11	Us bergen bin net tige heech, die fen jim binne folle heger
+vw	F013c	Oudehaske	11	Uus bergen bin net sa heech, die von jimme binne folle heecher.
+vw	B094p	Grou	11	Yz bεrɡən bɩn(ə) nεt sa he:χ, jɩməs/dɩ̇ fɔn jɩmə bɩ̇n(ə) folə he:gər/he:ɡər.
+vw	B024b	Wijns	11	Ys bergən bin net botə heech, di fən jɪmmə bɪn folə heeƷər
+vw	B099a	Opeinde	11	Us bergen (hiehten) binne net botte heech (heuch), die fer jimme binne folle heeger (heuger)
+vw	B035a	Zwagerbosch	11	Us bergen binne net sa heel heech, die fon jimme binne folle heeger.
+vw	B014p	Paesens	11	Us bergen bin net sa heech, jimmes bin folle heger.
+vw	G001b	Appelscha	11	Uzze bergen binne net za heul heug van jim bin ze volle heuger
+vw	46905	Westre	12	NEU (Buchstaben korrigiert): Wore Bjerre ér iend müer hü, jers er müer hüer.
+vw	46914	Sophiental	12	Wŏr Bjèrre er nit heit hÿ̄, jēs o möie hy'e.
+vw	46932	Sonderburg (Sønderborg)	12	Vos Bjerre e itt ʃa höi, jes e möiel höie.
+vw	46938	Lysabbelholz (Lysabildskov)	12	Wa Bjerre ä it möie höi, jä ä möiel höie
+vw	46939	Toftum	12	NEU (Buchstaben korrigiert): Vaar Bjorre æ' indt saa' hy', jæ' æ' mòh'er hyrr.
+vw	46948	Hönning (Hønning)	12	Vor Bjerre er it moi hye, jerres er moi hýr.
+vw	46957	Beftoft (Bevtoft)	12	Vor Bjerre er it möie hÿ, jerres er möie hÿe.
+vw	46968	Norder Wilstrup (Nørre Vilstrup)	12	Vo Bjerre er idt saa hói, jes er mói hóier.
+vw	47006	List	12	NEU (Buchstaben korrigiert): Wŏr Bjere er ent mö hÿ, jers er möd hyer.
+vw	47007	Jerpstedt (Hjerpsted)	12	Vaa Bjer er it saa gror hy jes er mör hyr
+vw	47016	Ellum	12	Vor Bjerre er it möi hÿi, jes er möi hÿer.
+vw	47029	Kassöe/Kassö (Kassø)	12	NEU (Buchstaben korrigiert): Vor Bjerre er it mói hy, jes er mói hyer.
+vw	47040	Feldstedtholz (Feldstedskov)	12	NEU (Buchstaben korrigiert): Vod Bjærre æd it foit hyn, jes æd möin hye.
+vw	47048	Hagenberg (Havnbjerg)	12	Wå Bjerre ä it möie höi, jä ä möie höie.
+vw	47052	Hellwitt (Helved)	12	Vor Bjerre er it móye hói, Jer er móye hóier.
+vw	47057	Kamptrup (Kamtrup)	12	Vo Bjerre er et möi hÿv, jes er möi hÿv=er.
+vw	47066	Grönnebeck/Grönnebek (Grønnebæk)	12	Wo Bjerre er it gr[ov?] höi, jes er möi höier.
+vw	47073	Tyrstrup	12	NEU (Buchstaben korrigiert): Vo Bjerre æ it möi höi; Jes er möi höier.
+vw	47078	Hvidding (Hviding)	12	Vor Bjerre er it mói hói, jer er mói hóier.
+vw	56471	Merzdorf	41	Nasche gohri neißu welgi hußokė, wasche ßu husche.
+vw	56504	Burg	41	Nasche hore nessu jara wosoke, wasche ssu wele woźe.
+vw	56507	Nochten	41	Nasche Hory tak wóßoke njeßu, wasche ßu wjele wósche.
+vw	56520	Luppa	41	Naše hory jara wysoke njejsu, waše su wyšše.
+vw	56694	Widno	42	Naszé górẏ nie są bardzo wẏsocié, te waju są wẏszsze.
+vw	56784	Zelistrzewo	42	Nasze gore nie so barzo wesokie, waji so wiele weszsze.
+vw	56785	Jastarnia	42	Nasze Gorö niesom bardzo wesoczÿ te waju się [sic!] wiele weszÿ.
+vw	56799	Zalakowo	42	Nasz gore nie są bardzo wysoke, wasze są wiele wyze.
+wx	56805	Sianowska Huta	42	nasze Gori nesom barso wisoki le waÿ so wee wischi.
+wx	56814	Rebiechowo	42	Nasze góre nie są baro wesocie, waji są wiele większe.
+wx	56846	Piechowice	42	Nase góré niesę tak wýsokie, wasze są wiele wyzse.
+wx	53478	Rombark	43	Naśźe góry nie są bardzo wysokie, waśźe są wiele wyśsže.
+wx	53489	Rytel	43	Nasze gory nie są bardzo wysokie, wasze są wiele wyszsze.
+wx	53514	Lubocien	43	nasze góry niesą bardzo wysokie, wasze są wiele wyźsze.
+wx	53521	Kamionka	43	Nasze góry nie są tak wysokie, wasze są wyższe.
+wx	53535	Orzelek	43	Góry nasze nie są tak wysokie, wasze są znacznie większe.
+wx	53538	Szyroslaw	43	Nasze góry niesą bardzo wysokie, wasze są wiele wyźsze.
+wx	53545	Pisanica	43	Nasze gorÿ nie są bardzo wysokie, waszo są daleko wÿssze.
+wx	53567	Glinki	43	Nasze góry nie są bardzo wysokie, wasze są wiele wyższe.
+wx	53571	Gruczno	43	Nasze góry nie bardzo wysokie, wasze są wiele wyższe.
+wx	53581	Slawianowo	43	Nasze góry nię są zbyt wysokie, wasze są wiele wyższe.
+wx	53602	Zoledowo	43	Nasze góry nie są bardzo wysokie, wasze są wyższe.
+wx	53616	Wrocki	43	Nasze góry nie są bardzo wysokie, wasze są wiele wysze.
+wx	53620	Morzewo	43	Nasze góry nie bardzo są wysokie, wasze wiele są wyższe.
+wx	53656	Bartosze	43	Nasze gori niesą tak bardzie wyszokie, wasze są wyssze.
+wx	53663	Kraplewo	43	Nasze góry nie są bardzo wysokie, wasze są wyszsze.
+wx	53708	Pokrzydowo	43	Nasze góry niesą bardzo wysokie, wasze wiele wyszsze.
+wx	53710	Boleszyn	43	Nasze góry me są bardzo wysokie, wasze są daleko wyższe.
+wx	53721	Nowy Swiat	43	Nasze góry nie są mocno wysobie, wasze są wiele wyższe.
+wx	53745	Wapno	43	Nasze góry nie są tak wysakie, wasze są o wiela wyższe.
+wx	53756	Mamlicz	43	Nasze góry niesą bardzo wysokie, wasze są wiele wyższe.
+wx	53760	Rojewo	43	Nasze góry nie są tak bardzo wysokie, wasze są daleko wyźsze.
+wx	53771	Wiatrowo	43	Nasze góry nie są bardzo wysokie, wasze są wiele wyższe.
+wx	53819	Galezewo	43	Nasze góry nie są bardzo wysokie, wasze są wiele wyższe.
+wx	53822	Lojewo	43	Nasze góry nie sąa bardzo wysokie, wasze są wiele wyžsze.
+wx	53834	Bielawy	43	Nasze góry nie są bardzo wysokie. [Rest fehlt]
+wx	53859	Chludowo	43	Nasze góry nie sa bardzo wysokie, wasze są daleko wyższe.
+wx	53872	Strzyzewo Koscielne	43	Nasze góry nie są zbyt wysokie, wasze są o wiele wyższe.
+wx	53877	Kamieniec	43	Nasze góre nie są bardzo wysokĭe, wasze są wiele wyžsze.
+wx	55537	Ceradz Koscielny	43	Nasze góry nie sa̜ zbyt wysokie, wasze sa̜ o wiele wyższe.
+wx	55565	Poznan	43	Nasze góry nie sum takie wysokie, wasze o wiela wyższe.
+wx	55569	Lowecin	43	Nasze góry nie są bardzo wysokie, wasze są daleko wyższe.
+wx	55586	Mierzewo	43	Nasze góry nie są bardzo wysokie, wasze są wiele wyz̆sze.
+wx	55592	Dabrowka Wielkopolska	43	Nasze góry niesę bardzo wysokie, wasze są wiele wyższe.
+wx	55593	Slupia	43	Nasze góry nie sa̜ bardzo wysokie, wasze [bricht ab]
+wx	55621	Babin	43	Nasze góry nie są bardzo wysokie, wasze są znacznie większe.
+wx	55635	Tadeuszowo	43	Nasze góry nie są bardzo wysokie, wasze są dość wyžsze.
+wx	55646	Gorazdowo	43	Nasze góry niezbył wysokie, wasze daleko wyžsze.
+wx	55656	Sierakowo	43	Nasze góry nie sa̜ bardzo wielkie, wasze sa̜ wiele większe.
+wx	55688	Turew	43	Nasze góry nie są zbyt wysokie, ale wasze są daleko wyższe.
+wx	55701	Ludwinow	43	Nasze gáry nie są takie wysokie, wasze są wyższe.
+wx	55702	Radomierz	43	Nasze góry nie so̜ mocns rysokie, wasze so̜ wiele wy[žsz]e.
+wx	55720	Kotlin	43	Nasze gȯry nie są bardzo wysokie wasze są daleko wysze.
+wx	55725	Gorzno	43	Nasze góry niesą takie wysokie, wasze są większe.
+wx	55729	Drzeczewo Pierwsze	43	Nasze góry nie są bardzo wysokie, wasze są wyžsze.
+wx	55733	Rusko	43	Nasze gory nie są zbyt wysokie, wasze są większe.
+wx	55741	Brzezie	43	Nasze góry nie są tak wysokie, wasze są wiele wyższe.
+wx	55782	Torzeniec	43	Nasze góry nie są bardzo wysokie, wasze są daleko wyszsze.
+wx	55794	Kuznica Slupska	43	Nasze góry niebardzo są wysokie, wasze są daleko wyż[sz?]e.
+wx	55803	Kuklinow	43	Nasze góry nie są tak wysokie wasze są o wiele wyższe.
+wx	55828	Pomocno	43	Nasze góry nie są bardzo rysokie, rasze są daleko ry[z]sze.
+wx	55848	Uciechow	43	Nasze gory nie są tak wysokie, wasze są o wiele wyższe.
+wx	55855	Przygodziczki	43	Nasze góry nie są tak wysokie, wasze są o wiele wyższe.
+wx	55859	Kaliszkowice Kaliskie	43	Nasze góry nie są tak bardzo wysokie, wasze są dość wyžsze.
+wx	55878	Trebaczow	43	Nase góry nie są bardzo wysokie, wase są wyžse.
+wx	55894	Greboszow	43	Nase gory nie som chutnie wysokie, wase som wyse.
+wx	55900	Pawlowice Gorzowskie	43	Nase góry niesą bardzo wysokie, te wase są kans wyzse.
+wx	55940	Skoraszewice	43	Nasze gory nie są takie wielachne, wasze są [?]oŝć wiskzze.
+wx	55947	Kwiatkow	43	Nasze góry nie są bardzo wysokie, wasze som (są) o wiele wyższe.
+wx	55991	Zabrze	43	Nasze góry nie są bardzo wysokie, wasze są moc  wyźsze.
+wx	56013	Radoszowy	43	Nasze góry nie są bardzo wysokie, wasze są moc wyžsze.
+wx	56022	Budziska	43	Nasze gury niesą bardzo wysokie, wasze są mocka wy[?]sze.
+wx	56027	Stanica	43	Nasze gory nie są bardzo wysokie, wasze są moc wyžsze.
+wx	56041	Murcki	43	Nasze gory nie bardzo wysokie, wasze są wyrzsze.
+wx	56053	Wilkow	43	Naszy góry nie są tak bardzo wysoky, ty waszy są siyłan wyrszy.
+wx	56069	Dobieszowice	43	Naszy góry niesą bardzo wysoki[ę?], waszy są wiela wyžszy.
+wx	56077	Ujazd	43	Nasze góry nie są bardzo wysokie wasze są wyzsze.
+wx	56086	Rzeczyce	43	Nasze góry są nie tak bardzo wysoko, te wasze są wiele
+wx	56167	Staniszcze Male	43	Nasze góry nie są takie wysokie, te wasze są łoco wyžsze.
+wx	56190	Ligota Proszkowska	43	Nase góry nie są bardzo wysoke, wasa są wysse.
+wx	56205	Radonia	43	Nasze Góry nie są takie wysokie, te wasze są większe
+wx	56237	Kotorz Wielki	43	Nase góry nie są bardzo wysokie, wase są kans więksy.
+wx	56247	Pawonkow	43	Nase góry nie są bardzo wysokie, wase są kańs wysse.
+wx	56252	Cieszowa	43	Nase góry nie są bardzo wysokie, wase są duzo wyzse.
+wx	56257	Zieliniec	43	Nase góry nie są chutnie wysokiy, wase są kans wysse.
+wx	56269	Debiniec	43	Naszej Góry są ne bardzo wysoky, te nasej są onjelewyschse[j?] 
+wx	56274	Wedrynia	43	Nasze góry nie są takie wysokie, waszy są wyszžy.
+wx	56338	Frydek	43	Nasze gory nie są take wyszokie wasze są dƚuzo wysze.
+wx	56349	Pielgrzymowice	43	Nasze góry nie są bardzo wysoki wasze są moc większe.
+wx	56375	Nieboczowy	43	Nasze góry sóm za mate ale te wasze sóm dość wysokie.
+wx	56381	Swierklany Dolne	43	Nasze kę py /góry/ ńie są bardzo wysoki wasze są wiela wyszsze
+wx	56539	Gieralcice	43	Nasze góry nie są bardzo wielkie, wasze są kęs wyssze.
+wx	56549	Borki Wielkie	43	Nasze góry nie są bardzo wysokie, wasze są wiele wyszsze.
+wx	56576	Kamien Slaski	43	Nasze góry nie są bardzo wycokie, wasze są wyszsze.
+wx	56580	Strzelce Opolskie	43	Nasze góry nie są bardzo wysokie, wasze są wiele wyžsze.
+wx	56600	Tarnowskie Góry	43	Nasze góry nie są takie wysokie, wasze są wiele wyższe.
+wx	56650	Bujaków	43	Nasze góry nie są bardzo wysokie, wasze są daleko wyžsze.
+wx	56681	Suszec	43	Naszy góry nie są bardzo wysokij, waszy są dłuzo wyszczij.
+wx	56761	Mgowo	43	Nasze gory nie są bardzo wysoki[e] (sawysoke) nasze są wyszie.
+wx	56850	Lekarty	43	Nasze góry nie są bardzo wysokie, wasze są wiele większe.
+wx	56861	Lewald Wielki	43	Nasze gori nie są mocno wysokie, wasze są wiele wyssze.
+wx	56870	Januszkowo	43	Nase góri nie są mocno wysoke, wase są śmat wysse.
+wx	56877	Zimna Woda	43	Nasze gory nieso bardzo wysoke, wase są wiele wisze.
+wx	56884	Roklas	43	Nase gory nie so bardzo wysokie waje so wiele wysse.
+wx	56897	Lipowiec	43	Nase gorŷ nie szo barzo wisoke, waju so daleko wisze.
+wx	56903	Zawojki	43	Nase Gori nie so larsdo wisoke, wase daleko wisse.
+wx	56916	Slawka Mala	43	Naze gory zo nie take wysoke, waze zo wysze.
+wx	56953	Baranowo	43	Nase gorŷnie wŷske wase so wŷse.
+xy	56956	Macice	43	Nase gori so wysokie, ale wase siła wisze.
+xy	56963	Narzym	43	Nasze gori nie są tak bardzo wysokie, wasze są daleko wyszsze.
+xy	56966	Napierki	43	Nose gori nie so barso wisoke wase gori so wiele wihse
+xy	56975	Mierki	43	Nasze gory nie są takie wysokie, waju są wysze.
+xy	56979	Butryny	43	Nasze góry nie są bardzo wysoke, wasze są źele wysze.
+xy	56994	Jerutki	43	Nasze gorÿ są nębarzo wÿsokę, wasze są wiele wÿs[z]ze.
+xy	57047	Nowy Dwor	43	Naʃze góry nie ʃą barzo wÿʃo[k?]ie, w[ani?] ʃą wiele wÿzʃze.
+xy	57066	Wysoki Grad	43	Nase gory nie so bardzą wysokie, wasze so daleko wyszse.
+xy	57070	Pogobie Srednie	43	Nase gory są nie za barzo duze, wase są kawał wysszė.
+xy	57074	Lipnicken (Lipniki)	43	Nasze goré nie so take wyszoke wasze wysze.
+xy	-57081	Klebark Wielki	43	Nasze gory niesą bardzo wysokie, tewasze są gwalt (wiele) wyszsze.
+xy	57106	Rybno	43	Nasze gorÿ nie są bardzo wÿsoke, wasze są wiele wÿszse.
+xy	57168	Saplaty	43	Nasze gorÿ nie szą takie bardzo wÿszokie wasze szą wiele wÿszse.
+xy	57181	Krutyn	43	Nahse gory nie sa wihsoke, wahse wyhse
+xy	57183	Zdory	43	Nahze gory nie bardzo wyhozokie, wahze daleko wyshze.
+xy	57186	Ruda	43	Nasze gori nieszo täke wiszoke, wäsze szą siłä jększe.
+xy	57191	Dybowo	43	Nasze góry nie są mocno wysokie, wasze są zięcéj wyzsze.
+xy	57203	Dlugosze	43	Nasze gory nie szo barzo wyszokie, wasze szo syła wysze.
+xy	57219	Sulimy	43	Nasze górÿ nię so take wÿsoke, wasze so wÿszie.
+xy	57232	Wejdyki	43	Nahse gory nie szo bardzo wyhsokie, wału szo wiele wyszsze.
+xy	57258	Wilkasy	43	Nase gory niesą tak mocno wysokie, wase są siła wyszsze
+xy	57275	Czerwonka	43	Nasze góry nie so za duźe wasze só gwołt źększe.
+xy	57298	Zastruzne	43	Nasze gori nie so tak bardzo wyszokie, wasz so wiele większe.
+xy	57304	Skomack Wielki	43	Nasze gory nietak bardzo wysokie, wahze daleko wyszse.
+xy	57318	Kile	43	Nahze górÿ niehzo bardzo wÿhzokie wahze są wielie wÿhzhze.
+xy	57321	Prawdziska	43	Nase gory nie so take wisoke, wase so wisze.
+xy	57340	Mosina	43	Nasze góry nie som takie wielkie (wyso[ki?]e), wasze som większe.
+xy	57348	Bnin	43	Nasze maciesię nie są bardzo wysokie, wasze są wiele wyžsze.
+xy	57379	Binkowo	43	Nasze góry nie som bardzo wysokie, wasze som dość wyžsze.
+xy	57381	Kolniczki	43	Nasze góry nie są bardzo wysokie, wasze są dozc̈ wyższe.
+xy	57394	Januszkowo	43	Nasze góry nietakie wysokie, wasze są wiele wysze.
+xy	57406	Dabrowka Ludomska	43	Nasze gory nie sąm bardzo wielkie, wasze sąm dósć wysze.
+xy	57407	Wiecanowo	43	Nasze gory nię są tak wysokie, wasze są wyższe.
+xy	57397	NA	43	nasze gury sum nie bardzeo duże wasze sum większe.
+xy	55528	Słone	44	Naše hóry nejsou tak vysoke, ty vaši jsou moč vetši.
+xy	56290	Groß Hoschütz (Velke Hostice)	44	Nasse hory nesu tak wysoke, wasse su wyšše.
+xy	56344	Ellgoth-Hultschin (Ostrava-Lhotka)	44	Na[ss]e hory nejsau hrubě wysoke, ty wa[ss]e jsau wy[ss]j.
+xy	44317	Zell-Pfarre	45	Naše hore kni so zvo vsoče, ti vaše so völk viš.
+xy	I125a	Heille	100	Onzə bergə (hat) zun nie erch ōōgə /oor/ die van uldər zijn vēēl /eer/ ōōgər /oor/
+xy	I140p	Axel	100	Onze bergen zien nie eel oog, die van judder (de juddere) zein vee ooger
+xy	I103p	Cadzand	100	Onte berʰgen zien nie zôa ôage, die van julder zien veel ôager. 
+xy	I110a	Slijkplaat	100	Onze bèrgen zìn nie èel hoige, die van julder zìn veel hoiger.
+xy	I095p	Hoedekenskerke	100	ônze bergen bin nie erg ôoge, die van julder bin vee ôoger
+xy	I101p	Krabbendijke	100	Onze berge bin nie erg oge, die van julder bin vee oiger
+xy	I058p	Westkapelle	100	oŋzə bềrəgən bĭ̀n nī́ ềrəg ồgə dî́ vằn jŭ̀ldər bĭ̀n vḗ ŏ̀gər
+xy	I062a	Serooskerke	100	bie ons bin de berge nie ooge die van julder ben veel ooger
+xy	I048p	Colijnsplaat	100	dī be̱rgə van ôns bin ni erg ō̆gə dī van jö̆ldər bin vē ō̆gər
+xy	I055p	Sint Annaland	100	Onze bèrgen bin nie èrreg ao*ge die van julder bin veelao*ger
+xy	K173a	Kruisland	100	Oonse baarge zijn aarg oag, die van joeullie zijn veul oager.
+xy	K155p	Zevenbergen	100	ṑnzə bergə* zijn nie ijsələk ōōg** die van jullie zijn veūl*** ōōgər**
+xy	K162a	Oosteind	100	ṑns bergə zen niĕj erch hōōch, dij van jö̆llie zen vul ŏŏgər.
+xy	I032p	Burgh-Haamstede	100	Onze dunen binne nie erg oahe die van julder binne veel oaher
+xy	I031a	Scharendijke	100	Onze bergen bin nie zo erg o^oge die van julder bin vee o^oger
+xy	I023p	Dirksland	100	onze bergen bin niet erg haog, die van juule bin veul haoger
+xy	K086p	Zuid-Beijerland	100	ônze berge zâijn nie zô erg hôg, die van jullie zaijn veel hôger
+xy	K093p	'S-Gravendeel	100	Ǫzə barəgə zijn nied-arəg hôg, die va-jullie zijn veul hôgər.
+xy	K101a	Nieuwendijk	100	Oons berge zijn nie ĕrreg huoog de jullie zijn veul huoger
+xy	I008p	Rockanje	100	Onze berrege binne niet er hoog, die van jullie binne veul hooger
+xy	K042a	Vlaardingen	100	Onze berrege benne niet erreg oog, die van jullie benne veul ooger.
+xy	K012p	Ouderkerk Aan den Ijssel	100	Onze berge zijn nie erg haog, die van jullie benne veul hâoger.
+xy	K022p	Willige Langerak	100	Onze bergen zijn niet erg hoog, die van jullie zijn hoger.
+xy	D005p	Den Haag	100	Onzə dœnə zèn nīt erəX hōX, dī fan jylī zèn fēl hōXər
+xy	E179p	Zwammerdam	100	Onze ber-re-ge benne nie(t) erg hoog, die van jullie benne veul hooger.
+xy	E181p	Zegveld	100	ọnzə bĕ̀rgə zijn nī́t ĕ̀rg hṓx dī́ vằn jŭ̀llī́ zijn vḗl (veul) hṓgər
+xy	E133p	Katwijk Aan Zee	100	o̱nzə bĕ̀rəgə bĕ̀nī́t ârg hôg, dī́ vằn jŭ̀lī́ bĕ̀nnə veul hôger
+xy	E138b	Abbenes	100	Onze berge benne niet erg hoog, die van jullie benne veul hoger.
+xy	E147a	De Kwakel	100	Onze berge zijne niet erg hoog, de jullie's zijne hooger.
+xy	E080a	Velsen	100	Onze berge sijn niet erg hoog, die fan jullie sijn feel hoger
+xy	E086p	Zaandam	100	Onzse beruge benne niet errug hoog, die van jollie benne veul hoger.
+xy	E041p	Egmond Aan Zee	100	Onze berrege benne niet erreg oog, die van jollie benne viel oger
+xy	E047a	Stompetoren	100	Onze berge benne niet erg hoog jullies benne veul hoger
+xy	E010p	Sint Maarten	100	Ons berge ben(ne) niet erg houg, jollies ben(ne) veul houger.
+xy	E005p	Westerland	100	Ongs berrege bin niet zo erg hoog, die van jullie binne veul hooger.
+xy	A009p	De Waal	100	Ônze berr(e)ge benne niet err(e)g hòòg, die fòn jullie benne veul hòòger.
+xy	K218p	Bladel	100	Ons berge (hat) zen nie heel (eer) hooch (oor), döllie zen veujl hooger.
+xy	K214p	Lage Mierde	100	Ons bergen zèn nie erg hoog, die van ullie zen veul hooger
+xy	K165p	Udenhout	100	Ons berge zen nie erg hoog ; die van (j)ullie / dullie zijn veul hoger
+xy	K104a	Herwijnen	100	Ons berge zijn nie erg hoeg, die van jūllie zijn vēū hōgger
+xy	K035p	Hei-En Boeicop	100	onze bargen zijn niet erg hoog, die van jullie zijn vuil hoger.
+xy	E192p	Utrecht	100	Onze berge zijn niet erg hoog, die van jullie zijn veul hooger.
+xy	E124p	Ankeveen	100	[nicht übersetzt]
+xy	E091p	Monnickendam	100	onsə bərəgə sein niet erg oog, die fan jului sein feel hoogər
+xy	E058p	Hoorn	100	Onze bergen zijn niet erg hoog, die van jullie zijn feel hooger.
+xy	E031a	Oostwoud	100	ōo̱sə bĕ̀rgə bĭ̀nnə nī́t ĕ̀rg haug, dī́ vằn jullə bĭ̀nnə veul houger.
+xy	E003a	Den Oever	100	ongze berge binne niet erg hòòg, jullies binne veul hōōger
+xy	Q095p	Maastricht	100	Ens berreg zien neet erreg hoeg. die vaan uuch zien väöl hoeger.
+xy	L281p	Borkel	100	Ons bềrg zen nie hoog, die van ellie zen veul họger
+xy	L226p	Woensel	100	Ons bḕrch zijn nie erch hŏŏch die van ö̆llie zijn vēūl hŏŏgər
+xy	L177c	Middelrode	100	Ons berge sèn nie erg hôg, d'öllie zèn veul hôgger
+xy	L093p	Lith	100	Onzə bergə(hat) zijn nie erch (hat) hoăch, die van jō̈llie (zie 25) zijn vul hŏagər
+xy	L003p	Maurik	100	ɔnzə bɑ:rəǥə zεin ni ɑ:rx hò:x, di vɑn { jœli   zεin vəl hò:ǥər                                                                 œli}
+xy	F165p	Amersfoort	100	Onze bằrge bin nie ằrg hoog, die vằn juulie bin vø.l hooger.
+xy	F121p	Bunschoten-Spakenburg	100	ongze bargen bin niet arg hoog, dee van julie bin veul hooger
+xy	E040a	Venhuizen	100	Onsn' berge benne niet erg houg die van julle benne veul houger
+xy	E040p	Enkhuizen	100	onze berrege binne niet erreg 'oog, die van jullie binne veul 'ooger
+xy	A001p	Midsland	100	Onze dunen bin niet zò erg hoog, die von jem(mee) bin veul hooger.
+xy	Q102p	Sint Antoniusbank	100	oos berech zīn nēēt ērg hōēch, dij van uuch zīn vūīl hōēger
+xy	L318p	Stramproy	100	Oos bĕrg zeen neet erg hoëch, die van uch zeen völ hoëgər.
+xy	L288b	Laar	100	ṓs bĕ̀rg zḗn nḗt ĕ̀rg hoig (=toit), dĭ̀ vằn ŭ̀ch zḗn völ hoigər
+xy	L237p	Helmond	100	Ons bèrg zing nie erg hŏg, die van ellie zing veul hogger.
+yz	L157a	Oventje	100	Ons berrege zeeng nie erg hog, deej van ollie zeeng veul hogger.
+yz	L102p	Ravenstein	100	onzə berge zei̯n nī êrg hōch, dī van ŭlī zei̯n vœl hōgər
+yz	L010p	Wageningen	100	Onze bêrgə zin nī êrg hōg, dī van jylī zin voel hōgə
+yz	F170p	Barneveld	100	Onze bargen bin nie arg hoog, die van jullie bin veujl hooger.
+yz	F124p	Putten	100	onzə bargən bin niet arx hoox, die van juulie bin veul hoogər
+yz	F077p	Urk	100	Oenze barregen binnen niet arreg ooge, die van jului binnen vuul ooger.
+yz	B046a	Minnertsga	100	Ús bergen binn'net sa heech, dy fen jimm' binn' folle heger.
+yz	L290p	Panningen	100	Oz berX sīn ētsōu̯ erghôg, dit van yX sīn vœl hôgər
+yz	L211p	Leunen	100	Ós (ons) bɛ̄rg(e) zien nie ɛ̄rg hœəg, die van ówlie zien vĕul högger.
+yz	L116p	Beek	100	onsə bḕrgə siĕn nie erch hōōch, die van juliie siĕŋ vul hoŏgər
+yz	L023p	Arnhem	100	Onzə berrəgə sin nie errəch hooch, die fằ jullie sin feul hoogər
+yz	F173p	Hoenderloo	100	Onzə barrəgən zin nit arg hoog, di van julli sin veul hogər.
+yz	F128p	Vierhouten	100	Onze bargn bin niet arg hooge, die van juuln bin veule hooger
+yz	F102p	Oldebroek	100	Onze bargen bint niet zo bar hoge, die van joulew bint velle hoger
+yz	F079p	Ens	100	Oengze bargen binnen neit zo arg hoge, die van joe binnen veul hoger.
+yz	F052p	Kuinre	100	Onze bergen bin niet erg oog, die van jouluden bin veul hoger
+yz	B002p	Nes	100	Onze bergen binnen niet erg hoog, die van jimme binne veul hoger
+yz	F207p	Drempt	100	onze bargen bunt neet arg hoge, die van oele bunt völle hogeder
+yz	F179p	Zutphen	100	Onze bargen sint (bint) nît zoo arg hooge, di van oelie bint vulle hooger.
+yz	F132p	Diepenveen	100	Onze bergen bint niet zoo arg hooge, die van oele bint vulle hooger.
+yz	F106p	Windesheim	100	onze bergen bint niet zoo erg 'oge, die van oeluu bint vul 'ooger.
+yz	F086p	Rouveen	100	["bergen onbekend"]
+yz	F060p	Steenwijk	100	Onse baargen bin'neit aarg oge, die van oe bin'n veule oder.
+yz	F021p	Oldeberkoop	100	Oonze bergen bin niet arg hooge, die van jim bin veul hooger.
+yz	G279a	Zieuwent	100	ōōzə bargə bunt nēēt sŏŏ ombezōēt hōōgə, die van ŏŏw bunt vö̆llə hēūgər
+yz	G246p	Lochem	100	ɔnzə baʀəgn̥ bint ne:t so: aʀəg ho:gə, de: van ulø: bint fœlə ho:gəʀ.
+yz	G197p	Holten	100	Oonze bòòrge zeent neet heel hooge dee van oeleu zeent vule heugr
+yz	G139a	Arriën	100	onz' barg'n (bint, zind) niet merakel hooge, die van oeluu (bint, zind) vulle hooger
+yz	G091d	Linde	100	oenze bargn bint niet arg hogə, die van oe bint veule hogər
+yz	G024p	Dwingeloo	100	Ooze baarg'ng bint ni'jt aarg hoogə die van oe bint veul* hooger
+yz	C145p	Zevenhuizen	100	Onze baarg'n binn'n niet slim hoog, jimme binn'n veul hooger.
+yz	C063p	Oldehove	100	onze baargen binnen nait slim hoog, joenend  binnen veul hoger
+yz	C023a	Hornhuizen	100	Die barg'n bie ons bin'n nait so slim hoog, die bie joe bin'n veul hoger
+yz	G257p	Haaksbergen	100	oonze barge bunt ni na hoôge, dee van oeleu bunt völle hooge(r)
+yz	G173p	Almelo	100	Oonze berge zind neet erg hooge, dee van oewlen zind völle hooger
+yz	G094p	Gramsbergen	100	oeze barge bint niet arg hooge, de o'we bint völle hooger
+yz	G031p	Orvelte	100	Oeze barg'ng bint niet arg hoog, die van je bint veul hoger
+yz	G007p	Rolde	100	Oe(w)z baarŋ zind ni(ie)t bar hoog, junnent zind veul hooger.
+yz	C148a	Glimmen	100	o̱nz bārg'n bin na̱i̱t slim hōōg da̱i văn jo̱u bĭn veul hōgər
+yz	C070a	Sint Annen	100	Onze bargn bin nait slim hoog, dei van joe / joenent bin veul hooger.
+yz	C001b	'T Lage Van De Weg	100	Onz baag'n binn'n nait slim hoog, dei van joe binn'n veul hoger.
+yz	G079a	Amsterdamscheveld	100	onzə bargən bennən niet àrg hógə, die van joe bennən veulə hogər.
+yz	G058p	Emmen	100	Oez' barg'n zint niet arg hoog, die van je zint veul hoger.
+yz	G012a	Nieuw-Buinen	100	onze barg'n binn'n nait slim (h)oog, dei van joe binn'n veul  (h)ooger
+yz	C156p	Muntendam	100	Onze baargn binn nait slim oog, deij van joe bin veul ooger
+yz	C081p	Weiwerd	100	Onze bārgen bin'n nait (h)ail (h)oog, (joeneut) bin'n veul hooger.
+yz	C042p	Spijk	100	Ons bargen ben'n nait hail hoog, joennt ben'n veul hoger
+yz	C165p	Bellingwolde	100	One baagŋ bin nait hail hoog, dei van joe bin veul hooger
+yz	G285p	Meddo	100	Unze barge bunt nêet slim hôog, dêe van ôw bunt völle hôoger.
+yz	K189p	Essen	100	Oons bijrge zèn ni-j ieel ooch, de jeulli-j zèn veul ooger
+yz	P133a	Terlanen	100	Ons berge zin ni nijg hoog, d'ale zen veul hooger
+yz	K191p	Meerle	100	Onze bergen zijn nie heel hoog, d'ouwe zijn veul hooger
+yz	K234p	Wechelderzande	100	o:nzə bəe:rəjə zen ni hiəl hu:əx dələ zen vø:l həjər
+yz	K305p	Olen	100	Os birgən zen ni: groət, dêllə zen veulə gröttər
+yz	P025p	Aarschot	100	ọns bärəgə zän nięt ūəx dālə zęn vøl øgər 
+yz	P154p	Outgaarden	100	āz bəērəgə zęni fęluəx uxleŋsęn vöül uəgər
+yz	K196p	Poppel	100	Onze bèrgen zĭjn nie heel/fel hoog d'ĭjlie zĭjn veul hooger
+yz	K241p	Retie	100	os bärəgə zäni dɔnoxhuəz däli zä vøl högər
+yz	K314a	Gompel	100	ọz bɛerəgə zęni hīəl hūəx d ęəh sę vōl họgər
+yz	P047p	Loksbergen	100	ôs berge zèn ni nijg hōēəg, ōēla zèn veul hōēəgər
+yz	P174p	Velm	100	Oës berregs zen ni fel hoëg oer zen veul hoeëger
+yz	L353p	Eksel	100	Oos berg zien nie hiel hoeg de douw zien veul hoeger
+yz	Q001p	Zonhoven	100	ǫs bẹrəx zẹjən ni føl hux də duər zẹə vøl hūgər
+yz	Q079p	Guigoven	100	ọs bęrəx zen ni fẹl họṷx ūr zen vøyl hoɣər
+yz	L360p	Bree	100	ɔuz berx sen ned erx huəx dij van ox/teror (də or) zen vɛl huəgər (nooit: zeer nijg)
+yz	L417p	As	100	Ous berg zeen neet fèl hoëg, de oor zeen vêêl hoëger
+yz	Q253p	Montzen	100	oos berəch zönt neet hil hōēwəch, də uur zönt völ hōēwəgər
+yz	O009p	Gottem	100	Ons bergen en zijn nie stijf hooge d'huldere zijn hooger
+yz	O182p	Volkegem	100	Oes birg'n en zin nie stijf/steif 'oeë, d'uilder zin veel 'oeëre
+yz	I163p	Oosteeklo	100	ɔnsə bɛrgən zɛj ni yjə døjd(ə)rə zɛj ve:l yrə
+yz	I243p	Destelbergen	100	ons bergen zijn nie gheel hoog dÄuwe zijn veel hoogre
+yz	O112p	Elene	100	Ons birgen ən zij nie stijf [?]o[?]g ((gheel) hohe). d'uiëre (uiəre) zij veel hohere.[Anmerkung zur Aussprache: oe clusief.]
+yz	I261p	Appels	100	Ons bijrgen zijn nie gil hûog, d'uiër zij veel hûoger
+yz	O149p	Iddergem	100	ǫns baergən ən zɛn nit nɛx huəg dəzɛn vel huəgər
+yz	O275p	Herne	100	ǫəs bęrjənənzęninåəjyəəgdə ləzēvēlyəɣər
+yz	I178p	Beveren	100	Oons bâregen zij nie gieël hoeëg, d'ulder zij veel hoeëger
+yz	I268a	Kalfort	100	ǫnz bęrgə ze_ni i ęt üəx dī van ālə zęn vøl uəxər
+yz	O178a	Molenbeek-Saint-Jean	100	Ons berge zein ni naaig uug d'aile zein veul uuger
+yz	P198p	Sint-Genesius-Rode	100	ons berge zen ni nijg oeg d'ole zen veul oeger
+yz	55045/H051p	Wulpen	100	yzə bərgə zini stivo:gə djøə drə zive: hɔgrə
+yz	55005/N024p	Westvleteren	100	nyzə bəergn əe zī nī stif ho:gə maər djunə zī ɔl hɔgər
+yz	N116p	Loker	100	nyzə bəëgn zĩ ni: stiv o:gə də jǫ:ldər zĩ ve:l o:gər
+yz	H016p	Oostende	100	yzə bəergŋ zin ni stif o:gə, mɔ djøldər zin ve:l ɔ:gər
+yz	55036/H061p	Koekelare	100	yzə bəergə ziniko:gə dzøldər zi ve: lo:grə
+yz	55022	Houthulst	100	Unze bergen zien nie stief hooge, djulder zien veel hoogere
+yz	N130p	Wervik	100	Uuze bergen zien nie stief ooge, jalder zien veel hogder
+yz	H005p	Uitkerke	100	Uze bergen zien stief hooge, d'julder zien veel hooger
+yz	55044/H068p	Loppem	100	onzə bəerg'n zini stif hoəgə døldər zin veəl hoəgər
+yz	N041p	Pittem	100	unz bärgəŋ zinə stif ōəgə, døldrə zin vēl oəgrə
+yz	55023/N141p	Kortrijk	100	ūnzə bärgn zin ni stif uəgə døldər zin vēl ūəgər
+yz	K245p	Deurne	100	Ons barrəgə za nie eel ooch, die von aauw zen veul oogər
+yz	K332p	Onze-Lieve-Vrouw-Waver	100	Ons bĕrge zén ni hieel hoeeg, d'èlle zén veul hueger
+yz	P018p	Kampenhout	100	Ons bergen zen nie naaig hoog, d'ale zen veul ooger
+yz	47114	Aarö (Årø)	12	NEU (Buchstaben korrigiert): Vo Bjerre æ it móie hói, je æ móie hóie.
+yz	56462	Babow	41	Nasche gory neßu welgin hußoke, te wasche ßu wele husche.
+yz	53549	Zon	43	Nasze góry nie są tak wysokie, wasze są wiele wyższe.
+yz	53561	Myslowice	43	Nasze góry nie są wysokie bardzo, wasze są wyszsze.
+yz	43859	Schachendorf	46	Naśi brigi nisu visoko, vaśí su víśji.

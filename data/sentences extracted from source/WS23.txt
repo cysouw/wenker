@@ -1,0 +1,2499 @@
+Index	Bogennummer	REDE_Namen	Sprache	WS23::Transliteration WS23
+ab	10029	Ringhuscheid	1	Mir se mid oan han dugscht.
+ab	10044	Malberg	1	Mir sei mohd un ham duhscht.
+ab	1009	Nowy Klukom	1	Wie sin möög o döstig (häbba dost).
+ab	1018	Lasko K Choszczna	1	Wie sind möd un hebbe dörst.
+ab	10215	Pantenburg	1	Me sä müd un han duscht.
+ab	1023	Golin	1	Wie sünd mööd u hewwe dost.
+ab	10230	Beuren	1	Mir sei med un he duscht.
+ab	10259	Mörsdorf	1	Mai seu met und hon dorscht.
+ab	10275	Badenhard	1	Mir sen mid un hon durst.
+ab	1029	Niekursko	1	Wi sinn möd on hebbon dost.
+ab	10300	Welterod	1	Mir senn mejd un hon dorscht.
+ab	10315	Bleidenstadt	1	Merr sinn mid unn hunn dorscht.
+ab	10335	Espeler	1	Mirr sinn mid und han'n duscht.
+ab	1035	Stobno	1	Wi sin möd u hebe dost.
+ab	10351	Brandscheid	1	Mer senn möd un han durscht.
+ab	10368	Büdesheim	1	Mer sinn meed un haon Douscht.
+ab	10381	Waldkönigen	1	Mer seni möhd en hon dohscht.
+ab	1050	Krostkowo	1	Wi sün meid u hebe döß.
+ab	10584	Kalenborn	1	Mir seun möd un han duscht.
+ab	10601	Gappenach	1	Mer sein med on han Durscht.
+ab	10621	Rhens	1	Mir sein möd on honn durscht.
+ab	10649	Attenhausen	1	Wiär si miädi u hei Durscht.
+ab	10663	Heringen	1	Mer sen alle wil mäid, mer hun dorscht.
+ab	10690	Honsfeld	1	Mer se möd on han duscht.
+ab	10697	Dahlem	1	Mer se möd on han dusch.
+ab	10709	Aremberg	1	Mir sen möd on  han durscht.
+ab	10736	Hohenleimbach	1	Mr sein möd on han durscht.
+ab	10857	Hatzfeld (Eder)	1	Wer sei mire un hüh dorscht.
+ab	10974	Haindorf	1	Mäi sen möüd on hon duhrst.
+ab	110	Rozpedziny	1	Wie send möd on häbe dörscht.
+ab	11132	Schwarzwald	1	Mia sinn müade an han dorscht.
+ab	11149	Wipfra	1	Me sinn miede oan honn dorscht
+ab	11180	Remda	1	Me sinn mide onn ham dorscht.
+ab	11197	Zeutsch	1	Mer sin müde un hun durscht.
+ab	11212	Breitenhain	1	Mer sin müde un hon dorscht.
+ab	11230	Burkersdorf	1	Mr sin müde un hobn durst.
+ab	11252	Seelingstädt	1	Mir sind müh und han darscht.
+ab	11262	Seebach	1	Mehi sin müide un han dorscht.
+ab	1133	Debenke	1	Wie sün meud u hebä döstä.
+ab	1139	Gliszcz	1	Wi synd moid u häbbe döst.
+ab	11467	Boilstädt	1	Müh sinn müede un hann dorscht.
+ab	11485	Ingersleben	1	Mie sinn miede on hon dorscht.
+ab	1150	Czarze	1	Wi sind med on hebe Dest.
+ab	11515	Gutendorf	1	Mi sinn miede on honn dorscht.
+ab	11539	Kleinschwabhausen	1	Mr sen mide on hun dorscht.
+ab	11568	Thalbürgel	1	Mer sin mide on hun dorscht.
+ab	1157	Bielczyny	1	Mir sinn müad und henn durscht.
+ab	11586	Bad Köstritz	1	Me sin mide un him dorscht.
+ab	11607	Lumpzig	1	M'r sin mide un hunn dorscht.
+ab	1162	Sierakowo	1	Wi söed meid o hebbe deäst.
+ab	11645	Gleismuthhausen	1	Mer senn med un ham duäscht.
+ab	11673	Mitwitz	1	Wie sin müd und hatn durscht.
+ab	11763	Aub	1	Mer sen müed un hom durscht.
+ab	1178	Sokoliniec	1	Wi sinn mög u hebba Döst.
+ab	11805	Seidmannsdorf	1	M'r sen müd und hemm durscht.
+ab	11825	Wallenfels	1	Wie sin mü und hobm duost.
+ab	11844	Neudorf	1	Mir senn meih und ham dorscht.
+ab	11864	Draisendorf	1	Mer senn müh und hann durscht.
+ab	11881	Sohl	1	Ma sen möi u han Durscht.
+ab	11896	Sülzdorf	1	Mr senn müd on hon durscht.
+ab	1192	Debsko	1	Wie sind möd u hebbe döst.
+ab	11927	Bachfeld	1	M'r senn müed un heb'm duest.
+ab	1197	Plociczno	1	Wi sin möd o häbba döß.
+ab	1203	Nakielno	1	Wi sina möd un häbba dosst.
+ab	12037	Hildburghausen	1	M'r sen müd un ham dorscht.
+ab	12070	Neuenbau	1	Mir senn müd und ham duest.
+ab	1208	Wissulke (Wiesiółka)	1	Wi sinn möd u hebbä dost.
+ab	12085	Grumbach	1	Mir saien mih unn ham dorscht.
+ab	12104	Frössen	1	Wir sänn meöh und hamm dorscht.
+ab	12125	Schwand	1	Merr sänn mieh unn hamm dorscht.
+ab	12148	Kottengrün	1	Wer sin müh un habm duersch.
+ab	1215	Paruszka	1	Wi sünn meud uh häbbe döst.
+ab	12153	Meiningen	1	Mr senn mid unn henn Durst.
+ab	12167	Altendambach	1	Wir senn müd o hon duöst.
+ab	12184	Altenfeld	1	Mer sen med un hon duhsscht.
+ab	12341	Rohrbach	1	Mieh sin müde un hon dorscht.
+ab	12371	St. Jacob bei Leutenberg	1	Mir sin mide un hon dorscht.
+ab	12390	Neundorf (bei Schleiz)	1	M'r sen möih un ham dorscht.
+ab	12410	Ebersgrün	1	Mir sei mih und ham durscht.
+ab	12428	Roitzschau/Rotschau	1	Mr sei müh unn ham dorscht.
+ab	12496	Horsdorf	1	Wie sen müd und ham Duescht.
+ab	12529	Ködnitz	1	Mir sen mü, haben durst.
+ab	12556	Kornbach	1	Wir sen müd und ham durscht.
+ab	12572	Habnith	1	Wia sen möid und haben durscht.
+ab	12594	Uchenhofen	1	Mar senn müad un höm duarscht.
+ab	12616	Reutersbrunn	1	Mir san med um hebe derscht.
+ab	12656	Weismain	1	Mä sen müd und ham duärscht.
+ab	1278	Insko	1	Wi sin möd o hewwa Döest.
+ab	1287	Konotop	1	Wi sinn möd o hebba Döst.
+ab	12876	Lohma	1	M'r sin mide un hun Dorscht.
+ab	12898	Heiersdorf	1	Mir sin müd un haben dorscht.
+ab	12921	Sachsenburg	1	M'r sin müd un hob'n dorscht.
+ab	12942	Rothenfurth	1	Mer sin mid un han dorschd.
+ab	1296	Zabin	1	Wie sind möad u hebba döast.
+ab	12969	Borlas	1	Mir seni müde un hann dorscht.
+ab	13005	Dohna	1	Mie sein müde und hom dorscht.
+ab	13019	Porschdorf	1	Mir sein mide und han durscht.
+ab	13047	Morgenröthe	1	Wir sei müd und ham durst.
+ab	13054	Rittersgrün	1	Mär sei müd un hamm dorscht.
+ab	1315	Kamien	1	Wi sünn möd u habbn döuste.
+bc	13169	Saupersdorf	1	Mer sei müh un hobn dorscht.
+bc	13187	Kühnheide	1	Me sei mied un hom dorscht.
+bc	13210	Himmelmühle	1	Wir sei mied un hob'nt dorscht.
+bc	13226	Rübenau	1	Mer sei müd un ha dorscht.
+bc	13269	Thurm	1	Wir sin müde un hoben darscht.
+bc	13286	Ursprung	1	Mir sei mud an hoabn dorscht.
+bc	133	Sosnowo	1	Wi sünd meur o hewwn döst.
+bc	13317	Dittmannsdorf	1	Mar sein müd on hom (hobn) dorscht.
+bc	13340	Grosshartmannsdorf	1	Mia sein mid un hon dorschd.
+bc	13355	Reichenau	1	Mer sein miede un hem dorscht.
+bc	13372	Liebenau	1	Merr sein müde und hann dorscht.
+bc	1338	Dzidno	1	Wie sen moid uh häbbe döst.
+bc	13529	Wang-Brückenberg	1	Mr sein miede an honn durscht.
+bc	13543	Pisarzowice	1	Meer sein müde un honn derst.
+bc	13559	Boguszow-Gorce	1	Wir sein müde und hon dorscht.
+bc	13655	Niederleutersdorf/Leutersdorf	1	Mer senn mide und ham dorscht.
+bc	13678	Rohnau (-)	1	Mir sein mide un ham durscht.
+bc	13700	Rebiszow	1	Mirr sein miede an honn dorscht.
+bc	13719	Siedlecin	1	Mirr sein müde on honn durscht (dorscht).
+bc	13727	Myslow	1	Mir sein miede und honn durscht.
+bc	13745	Jugowa	1	Mir sein müde und hoan durscht.
+bc	13830	Wlodowice	1	Mr sein miede on han durscht.
+bc	13869	Biernacice	1	Bir sein mide un hon grußa Durst.
+bc	13887	Rzymiany	1	Bir sein müde und hohn dorscht.
+bc	13898	Szadurczyce	1	Br sein mihde und hoan dorscht.
+bc	13929	Stoszowice	1	Mir sein müde und hon dorscht.
+bc	13996	Lutomia Gorna	1	Mer sein mide u honn durscht.
+bc	14023	Roztocznik	1	Wir sein müde und hön durst.
+bc	1403	Dobieszewo	1	Wi sinn mör ua hewwa döst.
+bc	14034	Lipowa	1	Br sain müde und hoan durscht.
+bc	14074	Michalow	1	Wir sän mide und hoan durst.
+bc	14092	Karczow	1	Wir sein müde und hon durst.
+bc	14159	Jutrzyna	1	Mir sein müde und hon durscht,
+bc	1417	Rydzewo	1	Wi sünn mör u hewwe döst.
+bc	14234	Brzoza	1	Bir sein müde und hoan durst.
+bc	14250	Jaczkowice	1	Bir sein mide und hon durst.
+bc	14275	Piastowice	1	Wir sein müde und hon durst.
+bc	14305	Bozanow	1	Mir sein müde und hohn durst.
+bc	1432	Rzepowo	1	Wie sin möd un hewa döst.
+bc	14321	Rogow Sobocki	1	M'r sin miad a ha durscht.
+bc	14382	Wölfelsdorf (Wilkanów)	1	Mir sein müde on hon dorscht.
+bc	1442	Lubowo	1	Wi sünd mäud u hewwe döß.
+bc	14449	Thröm (Trebom)	1	Wir sein mid ons hun durscht.
+bc	14458	Szczytna	1	Mir sein müde on hon dorst.
+bc	14471	Jaszkowa Gorna	1	Me sein müde oa hon dorscht.
+bc	14486	Nadziejow	1	Wir send müde und hohn dorst.
+bc	145	Smardzko	1	Wie sünn meur u hewwe Döst.
+bc	14505	Piorunkowice	1	Bir sein mide und hohn Dorscht.
+bc	1451	Steinforth (Brodźce)	1	Wi sunn möd ua hewwä dösst.
+bc	14537	Bielice	1	Wir sein müde on hon dorscht.
+bc	14560	Siemianowice Slaskie	1	Mer sein mide und hon durst.
+bc	1461	Wegorzewo Szczecineckie	1	Wie sünd mäud un häwä durst.
+bc	14613	Nohfelden	1	Mer sen mid un ham Durscht.
+bc	14635	Erzweiler	1	Mer sinn mid un hen Dorscht.
+bc	14670	Nussbach	1	Mehr sein mied unn hunn dorscht.
+bc	14693	Dannenfels	1	Mehr sein müd und hun dorscht.
+bc	14724	Monsheim	1	Wer sein müd un hen dorscht.
+bc	14752	Sankt Matthias	1	Mer sein mihd onn hönn Dorschd.
+bc	14955	Bescheid	1	Mir säi meid un hun Duscht.
+bc	14971	Allenbach	1	M'r sen meid on hon durscht.
+bc	1499	Stara Rzeka	1	Wie sein meed u hebbe doast.
+bc	14999	Berschweiler bei Kirn	1	Mir sinn müd unn honn durscht.
+bc	15018	Bad Sobernheim	1	Mer sein mid un hon dorscht.
+bc	15042	Neu-Bamberg	1	Mer sein müd u hun dorscht.
+bc	15066	Bechtolsheim	1	Merr sein müd unn hunn dorscht.
+bc	15088	Bollendorf	1	Mer sein net mer ann hunn duscht.
+bc	15096	Preist	1	Mer sein möd on hon doescht.
+bc	15118	Pohlbach	1	Mir sehn müd unn han duscht.
+bc	15137	Kautenbach	1	Wia senn miet onn honn Durscht.
+bc	15334	Kirchberg (Hunsrück)	1	Mer sinn mied un honn doorschd.
+bc	15349	Ellern (Hunsrück)	1	Mer sin müd unn honn dorscht.
+bc	1536	Heidlauken (Bugorki)	1	Wi sönn möd on hebbe darscht.
+bc	15365	Bingen am Rhein	1	Mur sein müad unn haben durscht.
+bc	15394	Finthen	1	Wer sein müd un han dorscht.
+bc	1540	Heinrichswalde	1	Wie send meed un hebbe derscht.
+bc	15418	Schneeberg (Sněžník)	1	Mir sein miede und hamm durscht.
+bc	15503	Zettel (Sedlo)	1	M(i)r sei müde un hon dorscht.
+bc	1552	Pazuizen	1	Wi send möd un hebbe dürscht.
+bc	15538	Wisterschan (Bystřany)	1	Mir sein miede und hom dorscht.
+bc	15550	Malschen (Malečov)	1	Wir sain müda un hon durscht.
+bc	15638	Lukawetz (Lukavec)	1	Mir sein miede und hon durscht.
+bc	1565	Gierver Lauken	1	Wie senn meed un hebbe derscht.
+bc	15681	Neudorf (Vrchběla)	1	Mier sein mieda und ham drscht.
+bc	15685	Gastorf (Hoštka)	1	Mir sein müde und hon durscht.
+bc	15690	Wegstädtl (Štětí)	1	Mir sein miede und hon Durscht.
+bc	1571	Schmalleningken	1	Wi sonn med un hebbe därscht.
+bc	15725	Nixdorf (Mikulášovice)	1	Mir sein miedo und honn doscht.
+bc	1573	Groß Dirschkeim (Donskoye)	1	Wi sent med on hebbe derscht.
+bc	15751	Rückersdorf (Dolní Řasnice)	1	Mer sein müde un hon dorscht.
+bc	1578	Rantau (Zaostrov'Ye)	1	Wi sen med onn hebbe derrscht.
+bc	158	Polczyn-Zdroj	1	Wi sünn mäud u hewwe döst.
+bc	1580	Schulstein (Vol'Noe)	1	Wi send meed on hebbe derscht.
+bc	15807	Kamnitz-Neudörfl (Kamenická Nová Ví	1	Mi sein miere un honn duscht.
+bc	15824	Zwickau (Cvikov)	1	Mir sein mide und h(ö)n d(ö)rscht.
+bc	15847	Christophsgrund (Kryštofova Údolí)	1	Mjär sein müdo und hon Doscht.
+bc	15858	Gränzendorf (Hraničá)	1	Mr sein muide und hom dorscht.
+bc	1588	Alt Susimilken (Tarassowka)	1	Wie sind möd on hebbe därscht.
+bc	15971	Puletschnei (Pulečný)	1	Mr sein miede und honn dorscht.
+bc	15975	Graber (Kravaře)	1	Mr sain mida und honn doscht.
+bc	15989	Thammühl (Staré Splavy)	1	Mir san müda und hon durscht.
+cd	15995	Proschwitz (Česká Proseč)	1	Wer pin müdö und hon dorscht.
+cd	16007	Harrachsdorf (Harrachov)	1	Mr sein miede on honn dorscht.
+cd	16015	Witkowitz (Vítkovice)	1	Mer sein mieda on hon do(r)scht.
+cd	16050	Forst (Fort)	1	Mir sein mied an honn durscht.
+cd	16063	Gabersdorf (Libeč)	1	Mir sein müde on hon dorscht.
+cd	16083	Bodisch (Bohdašin)	1	Me sein müde on hon dascht.
+cd	16139	Zwitschin (Zvičina)	1	Mir sein mied an hon dorscht.
+cd	16154	Großbock (Velká Bukovina)	1	Mir sein müde on hon dorscht.
+cd	16179	Schmiedeberg (Kovářská)	1	Mir sei mied un hem darscht.
+cd	1626	Tulpeningken (Zarečnoe)	1	Wie sönnd med und hebbe derscht.
+cd	16276	Waitzengrün (Loučná)	1	Wir san mäid u haum durscht.
+cd	1628	Wisborienen (Livny)	1	Wie sön med on hebbe derscht.
+cd	16298	Sittmesgrün (Mezirolí)	1	Mia sann möid u homm duascht.
+cd	16322	Petersdorf (Petrov)	1	Mir sen mai und hon duascht.
+cd	16338	Podletitz (Podlesice)	1	Mir sei mie und hom dorscht.
+cd	16442	Kropitz (Krapice)	1	Mia san möid u ham hunga.
+cd	16470	Ebersfeld (Podlesi)	1	Wir san möid und hobn durscht.
+cd	16491	Rabensgrün (Haje)	1	Mia san miid u hobm durscht.
+cd	16523	Lintsch (Hlineč)	1	Wia sen mae a hom Tuascht.
+cd	1654	Postnicken (Zalivnoe)	1	Wie send med onn hebbe derscht.
+cd	16602	Klotantschen (Kotaneč)	1	Mia sen mej und homm dorscht.
+cd	16610	Tschernowitz (Černovice)	1	Mir sein müd und hom dorscht.
+cd	16625	Hawran (Havraň)	1	Mir sei mied un hom dorscht.
+cd	16636	Liebshausen (Libčeves)	1	Mir sein miede un hobn durscht.
+cd	1664	Labagienen/Haffwinkel (Zalivino)	1	Wie send med on hebbe derscht.
+cd	16670	Priesen (Březno)	1	Wir sei mide un hoabm durscht.
+cd	16689	Libeschitz (Liběšice)	1	Mir sei mid un hom dorscht.
+cd	16725	Leschkau (Ležky)	1	Mia senn mei und homm dorschd.
+cd	16739	Pschoblik (Pšovlky)	1	Mir sei mid und hom dorscht.
+cd	16751	Prag-Smichow (Smíchov)	1	Mir sind müde un haba durst.
+cd	16755	Weißbach (Bílý Potok)	1	Wir sein mide ond hoan dorscht.
+cd	16770	Schediwy (Šediviny)	1	Med sein mide on hon darscht.
+cd	16775	Friedrichswald (Orlické Záhoří)	1	Mr sän miede oan hoan dascht.
+cd	16801	Böhmischdorf	1	Wr sein miede ond hon dorscht.
+cd	16814	Rokitnitz (Rokytnice)	1	Mir senn müde on honn dorscht.
+cd	1683	Kreuzingen (Bol'Shakovo)	1	Wie sönd med on hebbe Derscht.
+cd	16876	Nieder-Ullersdorf (Dolní Boříkovice	1	M'r sein müde on hon dorscht.
+cd	16889	Heinzendorf (Hynčice Nad Moravou)	1	Mir sein mied on hon dorscht.
+cd	16907	Karlsdorf	1	Ba saen mit und hon durst.
+cd	16932	Kuhberg	1	Bir sein müde und hon Diascht.
+cd	16949	Rausen (Rusín)	1	Wir sain mide und hun dorscht.
+cd	1698	Buttkuhnen (Pokrovskoe)	1	Wie send med un hebbe dorscht.
+cd	16991	Breitenau (Bretnová Široká Niva)	1	Bir sein mied und hon durst.
+cd	17012	Lobenstein (Úvalno)	1	Bir sein mide und hon doscht.
+cd	17029	Lohhäuser (Slatina)	1	Mia san möid u hom duarscht.
+cd	17061	Deutsch Thomaschlag (Německé Domasl	1	Mir san möid u hom durscht.
+cd	17075	Polinken (Polínka)	1	Mia san möid und hom durst.
+cd	1708	Baltruschatschen (Jakovlevo)	1	Wie sänd möd on hebbe derscht.
+cd	17138	Albersdorf (Písařova Vesce)	1	Mia san möid u hom duarscht.
+cd	17151	Damnau	1	Wia san müd und hobm durscht.
+cd	17174	Piwana (Piňovany)	1	Moid sama und durscht hom ma.
+cd	17178	Kottiken (Chotíkov)	1	Wia(r) sän meid und häm Durscht.
+cd	17244	Dianaberg (Diana)	1	Mia san möid und hom en Durscht.
+cd	17266	Wiedlitz (Vidice)	1	Mia san möid und ham duascht.
+cd	17273	Honositz (Honezovice)	1	Mia san mejt und hom durscht.
+cd	17281	Dobrzan (Dobřany)	1	Mia san möid und hom duarscht.
+cd	17306	Blisowa (Blížejov)	1	Wia san mejt und hom Durscht.
+cd	17309	Hilbeten	1	Mir sei mied un hom durscht.
+cd	17325	Schönwald (Strážná)	1	Mir sein mide on hon Dorscht.
+cd	1733	Rottenen (Raktino)	1	Wie send meed onn hebbe därscht.
+cd	17374	Ober-Ullischen (Horní Olešná)	1	Mir sein mied un hen durscht.
+cd	17389	Bergstadt (Horní Město)	1	Wer sein hund mied und heam an (?)inchs durscht.
+cd	1741	Pojerstieten (Kolodcy)	1	Wie send med on hewe derscht.
+cd	17433	Ranigsdorf (Linhartice)	1	Mir san meit un hom duscht.
+cd	17442	Müglitz (Mohelnice)	1	Mir sein maöde un ham durscht.
+cd	17460	Ribnik (Rybniček)	1	Mir sein mid und hon durscht.
+cd	17468	Stangendorf (Vendolí)	1	Mir sein muid un hom Durscht.
+cd	1747	Beydritten (Pervomajskij)	1	Wi sönd möd un hebbn derscht.
+cd	17504	Neu-Biela (Lavičné)	1	Mr sein muit und hom Duascht.
+cd	17512	Schlettau (Slatina)	1	Mir sane mait un hom durscht.
+cd	17520	Runarz	1	My sain mit un han Dust.
+cd	17521	Nebotein (Hnĕvotín)	1	Mi(a) sa müad und hom'n Du(a)scht.
+cd	17568	Tillendorf (Tylov)	1	Bir sein mied und hoan durscht.
+cd	1758	Brasdorf (Antonovka)	1	Wi send meed on hebbe derrscht.
+cd	17585	Mladetzko (Mladecko)	1	Bir sein mid und hon durscht.
+cd	17643	Seibersdorf (Bělá)	1	Bir heint mied un hon durscht.
+cd	17659	Bernhau (Barnov)	1	Bir sein müd un han durscht.
+cd	17680	Klantendorf	1	Wr sein mied aon haon duescht.
+cd	17687	Engelswald (Mošnov)	1	Mir sein mied on hon duescht.
+cd	17698	Nirklowitz (Mrsklesy)	1	Sin mid und houn durscht.
+cd	17713	Punkendorf (Boňkov)	1	Bier sein müd un hon duscht.
+cd	1772	Groß Goldbach (Slavinsk)	1	Wie send med on hebe dörscht.
+cd	17726	Halbendorf (Polouvsí)	1	Mir sein mid oan hoan durscht.
+cd	17737	Senftleben (Ženklava)	1	Mir sein mied on hon durscht.
+cd	-17739	Polanka Wielka	1	Wir sind müd u hun Dorscht.
+cd	-17744	Bulowice	1	Wir sein mied und han Durst.
+cd	-17746	Chocznia	1	Mir ham a mäid und hama dursti.
+cd	-17749	Alt-Bielitz (Stare Bielesko)	1	Wjer sen schwash an hon Döscht.
+cd	17759	Linz (Mlýnec)	1	Wia san möi und hom durscht.
+cd	17782	Kohlheim (Uhliště)	1	Mia san meid und homan an duascht.
+cd	17792	Čachrau (Čachrov)	1	Mia sama mejd und homa duascht.
+cd	17801	Hurkental (Hůrka)	1	Mir sin miad un hann durst.
+cd	17824	Rotsaifen (Červená)	1	Miad sama und an durscht home a.
+cd	17832	Winterberg (Vimberk)	1	Mia sann miad und haum an duascht.
+cd	17843	Sehrlenz (Ždírec)	1	Bi(a) san mojd u houm du(a)st.
+cd	17854	Irsching (Jiřín)	1	Mia san miad un ham durscht.
+cd	17862	Hilbersdorf (Jihlava-Heroltice)	1	Wi san oplagt und hom en durscht.
+cd	17876	Sollowitz (Salavice)	1	Wir san möjd und hobn durscht.
+cd	17878	Stannern (Stonařov)	1	Wer san mott und hoben durscht.
+cd	17881	Riegerschlag (Lodhéřov)	1	Mir san mod un durschdi.
+de	17882	Wenkerschlag (Dolní Radouň)	1	Mir san mod un houm an durscht.
+de	17884	Buchen (Buk)	1	Mie san mod un houm durscht.
+de	17895	Hosterschlag (Člunek)	1	Wir san mod un houm durl (durscht).
+de	17898	Lipolz (Lipolec)	1	Mir san med and haum an durti.
+de	17940	Czernowitz (Černovice)	1	Mir san mied (mott) und houm duascht.
+de	17942	Gundrum (Komořany)	1	Bia san miad und hom Duascht.
+de	17956	Prahlitz (Pravlov)	1	Mir san müad und hobn duascht.
+de	17961	Woikowitz (Vojkovice)	1	Mr san müad u duast ham mer a.
+de	17967	Sub-Lechnitz (Lechnica)	1	Mier sinn miht unt hon durscht.
+de	17968	Topportz (Toporec)	1	Bir sain mied unt hon n duoscht.
+de	17972	Hobgard (Chmeľnica)	1	Bir sei bar miede ont hober sehr a Durscht.
+de	17981	Neu Walddorf (Nová Lesná)	1	Bir zaen miid ond hoon Durscht.
+de	17993	Durelsdorf (Tvarožná)	1	Bir sein mid und duoschtig.
+de	17999	Leutschau (Levoča)	1	Bir sein mid und hon Durscht.
+de	180	Galowo	1	Wie sünd moid u hewwe dößt.
+de	18000	Zipser Neudorf (Spišská Nová Ves)	1	Wir sahn mied und hon Durscht.
+de	18001	Wagendrüssel (Nálepkovo)	1	Bie sein mid ound duestich.
+de	18003	Göllnitz (Gelnica)	1	Bie sein mid und hobn duescht.
+de	18004	Dobschau (Dobšiná)	1	Bier sein müd und och duastich.
+de	-18008	Schmöllnitz (Smolník)	1	Bie sei ba miet und sein duijschtich.
+de	18010	Metzenseifen (Medzev)	1	Bie sain mühd es düesat ons.
+de	18013	Buchwald (Bučina)	1	Mia san miad und hom an durscht.
+de	18018	Schattawa (Záton)	1	Mia sant miad und hom an durscht.
+de	18028	Zaborsch (Záhorí)	1	Mi san mod und höum en duascht.
+de	18058	Hirschbergen (Hiršperky/Jeleni)	1	Mir san mod und houm durscht.
+de	18064	Honetschlag (Hodňov)	1	Mia sam mod und durschti.
+de	18091	Kollerschlag	1	Mia han miad und ham duast.
+de	18095	Sankt Thoma (Svatý Tomáš)	1	Mir sama möid und homma an duascht.
+de	18101	Hohenfurth (Vyšší Brod)	1	Mia san müad und ham durscht.
+de	18132	Hummeln (Homole)	1	Miar san müad und hobn an durscht.
+de	18135	Rudolfstadt (Rudolfov)	1	Wir san müid und hobn n durst.
+de	18144	Gross-Radischen	1	Mir san miad und ham an Durscht.
+de	18188	Priethal (Prídolí)	1	San ma mot und haum a duascht.
+de	18192	Gollnetschlag (Klení)	1	Wir sen mied und hau(b)m durscht.
+de	18210	Weissenbach (Vysné)	1	Miar san müad und hobn an duarscht.
+de	18218	Langschwarza	1	Mia soan miad und haun an duascht.
+de	1829	Rudszen (Poltavskoe)	1	Wie sent med un hebbe derscht.
+de	18290	Unterwald	1	Mia san müat u hom om durst.
+de	18296	Bad Grosspertholz	1	Mir san müad und hoam an Durst.
+de	18310	Oberstrahlbach	1	Mir san mird und hoam an durscht.
+de	18359	Waldkirchen	1	Mir san müad und haben an durst.
+de	18364	Hafnerluden (Lubnice)	1	Mir san miad und ham an durscht.
+de	18367	Schiltern (Štítary)	1	Miad san mr und an durscht hoon mr.
+de	18407	Töstitz (Těšetice)	1	Mir san miad und hom durscht.
+de	1842	Warupönen (Fëdorovka)	1	Wie send med un hebbe durscht.
+de	18432	Dietmanns	1	Mia san mid und hom durschd.
+de	18441	Schirmannsreith	1	Mia san miad und hom an duascht.
+de	18454	Hofern	1	Mir san miad und hom an durst.
+de	185	Jelnia	1	Wi sin möd u häwwa dost.
+de	18508	Gerstenfeld (Ječmeniště)	1	Mia san miad und hom durscht.
+de	18525	Franzen	1	Mia san(d) miad und ham(d) Duaschd.
+de	18534	Rosenburg	1	Mir san müad und ham an Dürst.
+de	18554	Oberdürnbach	1	Mir san miad und hobm an durscht.
+de	18559	Aspersdorf	1	Mia san miad und haum an duascht.
+de	18607	Damnitz (Damnice)	1	Mia san miad und hom an durscht.
+de	18627	Tracht (Strachotín)	1	Mir san mirt und hom an turscht.
+de	18637	Saitz (Zajecí)	1	Mir san miand und hobn durscht.
+de	18642	Höflein an der Thaya (Hevlín)	1	Wua san dalei u hom duascht. 
+de	18672	Stützenhofen	1	Mio san mid und houm durscht.
+de	18686	Bernhardsthal	1	Mie sen mied u ham dauscht.
+de	18701	Pyhra	1	Müad sam ma u an Durscht homa.
+de	18707	Wilfersdorf	1	Mir san müad u hom an duascht.
+de	18716	Palterndorf	1	Wir san darbi und hab an Durscht.
+de	18753	Münchwies (Vrícko)	1	Wie sei sea mid, ins djiaschat uns tea [??].
+de	18759	Bettelsdorf (Solka)	1	Bija saj mit ont hon douscht.
+de	18763	Oberstuben (Horná Stubna)	1	Bir zomr mud ont hon durst.
+de	18767	Krickerhäu (Handlová)	1	Bir sain müd ond hom an durscht.
+de	18773	Deutsch-Litta (Kopernica)	1	Baj sei mauid ons hemm durscht.
+de	18774	Hochwiesen (Vel'Ké Pole)	1	Bia sai müd und hom duascht.
+de	18786	Sankt Georgen bei Obernberg am Inn	1	Mir hand müad und ham an durscht.
+de	18800	Hochburg	1	Mia send miet und hem an durscht.
+de	18805	Pischelsdorf am Engelbach	1	Mia send miad u hebet en duast.
+de	18846	Niederkappel	1	Miar san müad und habm an Duarst.
+de	18855	Niederwaldkirchen	1	Mia hand müad u. han durscht[?ː]
+de	18902	Dorf an der Pram	1	Wie san müad und ham an durscht.
+de	18910	Michaelnbach	1	Mir san müad u han durscht.
+de	18923	Alkoven	1	Miá sán miád und haum Duáscht.
+de	1895	Königlich Damerau	1	Wie send med on hebbe derscht.
+de	18984	Arnberg	1	Mir san miad und ham an duascht.
+de	18987	Rackering	1	Mir san miad und ham an duascht.
+de	19003	Pennewang	1	Mia han miad und håm an Durst.
+de	19011	Sipbachzell	1	Mia sán miád und ham án Durscht.
+de	1904	Pesseln	1	Wie sönn möhd onn hebbe därscht.
+de	19070	Reichenau im Mühlkreis	1	Mia han müad und haum Duaschd.
+de	19080	Gutau	1	Mia san müad u. habn Durst.
+de	19085	Hackstock	1	Mia san müad und ham an durscht.
+de	19096	Traunstein	1	Mir san müad und hobn an durst.
+de	19138	Maria Laah	1	Mir san müad und haben an durscht.
+de	19144	Haag	1	Mia sand miad und habn an durst.
+de	19154	Amstetten	1	Mia san müad und haubm an Duascht.
+de	19163	Wieselburg	1	Miar san miad und haum an duarscht.
+de	1919	Groß Gerlauken (Vjazovka)	1	Wir sönd möd onn hebbn dorst.
+de	19225	Steyregg	1	Mir san müad und ham durscht.
+de	19233	Schwertberg	1	Mia san miad und hom on duast.
+de	1924	Pakallnischken (Suvorovo)	1	Wie send möd on häbbe därscht.
+de	19245	Bad Kreuzen	1	Mia san miad, hobn an durst.
+de	19257	Altenmarkt	1	Mir san miad u haum an Durscht.
+de	19301	Els	1	Mir san scho(n) miad und hobn an duascht.
+de	19311	Gneixendorf	1	Mia san miad und hoam en Turscht.
+de	19322	Fels am Wagram	1	Mia san müad u hom durscht.
+ef	19334	Oberhautzental	1	Wir san miad u hoan an durscht.
+ef	19401	Schönbühel an der Donau	1	Mir sand müad und haben an duascht.
+ef	19404	Karlstetten	1	Mia san müad und hom an duaschd.
+ef	19419	Würmla	1	Mie son miad und hom an duascht.
+ef	19429	Ried am Riederberg	1	Mir san miad und haben durscht.
+ef	19479	Mank	1	Mir ßan miard und hom an durscht.
+ef	19486	Wilhelmsburg	1	Mia san miad und ham an duascht.
+ef	19492	Stollberg-Siedlung	1	Mir san miad und ham an durst.
+ef	1953	Pillau	1	Wie sönnd möhd onn hebbn därscht.
+ef	19541	Grub	1	Mia san miad u hoam an duascht.
+ef	1956	Patersort (Beregovoe)	1	Wir sen med onn hebbe derscht.
+ef	19564	Obergänserndorf	1	Mia san müad u hobn an durscht.
+ef	19607	Raggendorf	1	Mia san miad und hom an duascht.
+ef	1962	Bergau (Tzwetkowo)	1	Wie sönd möd on häbbe därscht.
+ef	19621	Stillfried an der March	1	Mir san mied und haobm an Durscht.
+ef	19640	Grünau (Grinava)	1	Mi(e) san mi(a)d unt how an duescht.
+ef	19642	20. Bezirk-Brigittenau	1	Ma san miad und haben an Durscht.
+ef	19646	Raasdorf	1	Mia san müad und haben an durscht.
+ef	19657	Breitensee	1	Mir san müad u haben an durst.
+ef	19659	Theben (Devín)	1	Mir san miad und hom an Durscht.
+ef	19667	Biedermannsdorf	1	Mia san miad und ham an duaschd.
+ef	19674	Enzersdorf an der Fischa	1	Mia san miad und hom an duascht.
+ef	19696	Kittsee	1	Mia san miad und hom Duascht.
+ef	19705	Mischdorf bei Pressburg (Nové Košar	1	Mia san miad und habm an Tuascht.
+ef	19726	Rohrau	1	Mia sent miat und hämb Duscht.
+ef	19739	Thiersee	1	Wie send miad und haben un duscht.
+ef	19748	Achenwald	1	Mia sen mied un hobn duscht.
+ef	1977	Fuchsberg (Semënovo)	1	Wie sön meed on häbbe därscht.
+ef	19775	Obertrum am See	1	Wir san müad und vollé durst.
+ef	19787	Hochfeld	1	Mia hand müad und hom Durscht.
+ef	19823	Vorderfager	1	Mia sand müad und ham an duast.
+ef	19851	Schwendt	1	Miar send müad s haben Duschd.
+ef	19854	Waidring	1	Mia send müad und hom duscht.
+ef	19859	Kuchl	1	Wia san miad u ham duischt.
+ef	1987	Pregelswalde (-)	1	Wi send med onn hebbe dertscht.
+ef	19886	Schörfling	1	Mia sand müad und ham an duascht,
+ef	19896	Gschwandt	1	Mir san miad und ham an Durscht.
+ef	19901	Schlierbach	1	Mia san miad und ha͜͠om  an duaschd.
+ef	19941	Sankt Gilgen	1	Mia hand miad und håm an durscht.
+ef	19945	Ebensee	1	I bi müad. Und an Durscht ha i.
+ef	19947	Steyrling	1	Mir san müd und ham an durscht.
+ef	19956	Bad Ischl	1	Mia send miad und dursti.
+ef	19965	Windischgarsten	1	Mir san miad und diaschtö.
+ef	19971	Bad Goisern	1	Miad san ma u ham durt.
+ef	19977	Grundlsee	1	Mir san miad und ham an Duschd.
+ef	19993	Wörschachwald	1	Mia san müad und ham ducht.
+ef	20005	Trattenbach	1	Mir san miad und ham an Durst.
+ef	20008	Sulzbach	1	Ma san miad und ham duarscht.
+ef	20019	Ybbsitz	1	Mia san müad und hom an durscht.
+ef	20023	Gaming	1	Mia sa miad u hom an duascht.
+ef	20046	Kleinreifling	1	Mir san müad und hobn an Durst!
+ef	20049	Mariazell	1	Mia san miad und haum an durscht.
+ef	20051	Neuhaus	1	Mia san müad und hobn duascht.
+ef	20058	Lassing	1	Mia san miad und hab'n an durscht.
+ef	20062	Ardning	1	Mir san miad und ham an durscht.
+ef	20065	Weng	1	Mia san müad und haum an Duascht.
+ef	20067	Lainbach	1	Mia san miad und hom an duascht.
+ef	20069	Gollrad	1	Mir san miad und hobn an durscht.
+ef	20077	Oberort	1	Mia san müad u hobn an Dürscht.
+ef	20090	Wext	1	Wi sind möde und häbt Düöst.
+ef	20099	Leer	1	Wie sinnt möh 'n un hɑ̈bt Duorst.
+ef	20110	Herbern	1	Wie send möde un häwet durst.
+ef	20117	Ringel	1	Wie sind möh un häwwet duorst.
+ef	20128	Hilter am Teutoburger Wald	1	Wie sind möe un hewet dosse.
+ef	20240	Bardel	1	Wi zint möde un hewt dörst.
+ef	20248	Haddorf	1	Wi sind möude un hebbt Düöast.
+ef	20259	Hörstel	1	Wi sind mö un hebt dooß.
+ef	20269	Westerkappeln	1	Wie sind möhe un häwwet duost.
+ef	20283	Astrup	1	Wie sind möe un hewwet döst.
+ef	20346	Frensdorf	1	Wie sind möh un hebt döst.
+ef	20350	Elbergen	1	Wi sind möde un häbbt Däst.
+ef	20361	Setlage	1	Wi sind möh un häbbt dös.
+ef	20370	Merzen	1	Wie sind möhe un häbben Döst.
+ef	20381	Vörden	1	Wie sind möe und hewwet döst.
+ef	20384	Wielen	1	Wij sindt mö en hebt Döst.
+ef	20446	Hoogstede	1	Wy sint mö un hebt dörst (döst).
+ef	20454	Geeste	1	Wi lünd möüh un häbt döss.
+ef	20463	Dohren	1	Wie bünd meuhe und häbbet döst.
+ef	20468	Renslage	1	Wie sind möh un häbt döst.
+ef	20481	Dinklage	1	Wie sint mäuhe und hebbet döst.
+ef	20543	Haren (Ems)	1	Wir bünt möue un häbbet döst.
+ef	20555	Hüven	1	Wi bund möhe un häb dörst.
+ef	20562	Garen	1	Wie sünd möühe un häbbet dörst.
+ef	20575	Sevelten	1	Wi sünd möuhe un hebbet döst.
+ef	20589	Neudersum	1	Wie sünd mäuhe un häbt döst.
+ef	20596	Neubörger	1	Wi bunt möe un habbet därst.
+ef	20599	Neuarenberg	1	Wir sünd möhe un häbbt döst.
+ef	20604	Garrel	1	Wi sünd mäuje un hebbet döst.
+ef	20638	Visbek	1	Wi sünd möe un hebbt döst.
+ef	2067	Enskemen (-)	1	Wi send med ön hebbe dorscht.
+ef	20710	Wietzendorf	1	Wi sünd maug un heint döst.
+ef	20734	Colonie Syke	1	Wi sünnd möör un hebbt dösst.
+ef	20753	Magelsen	1	Wi sind möuhe un hebt döst.
+ef	20763	Nordkampen	1	Wi sünd meue un heft döst.
+ef	20774	Vierde	1	Wi sünd meu un döstig.
+ef	20788	Schmarbeck	1	Mi sünd möih und häwent döß.
+ef	20798	Brümsen	1	Wi sunt möhe un häb Dos.
+ef	2081	Eydtkau (Eydtkuhnen)	1	Wir senn med un hebbe derscht.
+ef	20891	Dörpel	1	Wie sind möhe un hebt döst.
+ef	20901	Maasen	1	Wi sünd möe un hebt döst.
+fg	20917	Drakenburg	1	Wie sünd meuhe un hefft döst.
+fg	20920	Unterrodewald	1	Wie sünd moie und het döst.
+fg	20933	Thören	1	Wie sünd mäue un hett döst.
+fg	20936	Hassel	1	Wi sünd moir un hett Döst.
+fg	20946	Scharnhorst	1	Wi sünd meue un häfft Döst.
+fg	20948	Aschen	1	Wie sünd möhe un hebbet Döst.
+fg	21024	Burlage	1	Wi sünd möd un hewwet döst.
+fg	21033	Hoysinghausen	1	Wie sind mäue un hebbt döst.
+fg	21045	Brokeloh	1	Wie sünd mau un het düst.
+fg	21050	Empede	1	Wie sünd meue un hät Döst.
+fg	21065	Gailhof	1	Wie sünd meuhe un hett dösten.
+fg	21074	Adelheidsdorf	1	Wi sünd meue un hett döst.
+fg	21085	Nordburg	1	Wir sünd mäue und huwwet döst.
+fg	211	Rodowo	1	Wir sind mud und hoabn dorscht.
+fg	21105	Preussisch Ströhen	1	Wi sinn moi un sin dorstig.
+fg	21190	Brockhausen	1	Wi sündt möüe und döstig.
+fg	21199	Isenstedt	1	Wi sind mōihe un häwwet Dost.
+fg	21218	Wietersheim	1	Wie sind mühe un hewwet döst.
+fg	21235	Hülshagen	1	Wie sind meue un het döst.
+fg	21252	Holtensen	1	Wi sind moie un hett döst.
+fg	2127	Klein Nuhr (Sukhodol'Ye)	1	Wie sen med on hebbn derscht.
+fg	21280	List	1	Wie sind möe unn hewwet döst. (kurzes ö).
+fg	21295	Immensen	1	Wie sind möue un hett döst.
+fg	21305	Voigtholz-Ahlemissen	1	Wir sind meue und hebbet düst.
+fg	21316	Steinhagen	1	Wei send möie un hett dost.
+fg	21342	Krentruperhagen	1	Wäi sind moie un het dost.
+fg	2135	Skungirren (Pen'Ki)	1	Wie sent med aon hebbe derscht.
+fg	21355	Wendlinghausen	1	Wui sind meue un häbbet dost.
+fg	21362	Reher	1	Weu sint mäue un hewwet dost.
+fg	21384	Harderode	1	Weii sind meuie un hebbet dost.
+fg	21405	Rheden	1	Wöi sind möie un hewwet dost.
+fg	21429	Nette	1	Wei sind mäu-e un häwet dost.
+fg	21446	Steinlah	1	Wie sind meue un hewet dost.
+fg	2145	Kurschen (Kuz'Mino)	1	Wi send möd on hebbe derscht.
+fg	21455	Gross Schiplage	1	Wui send mee un häbt dost.
+fg	2161	Kalnen (-)	1	Wie sönd möd onn hebbe dorscht.
+fg	21611	Schweicheln-Bermbeck	1	Wie sind mäue und hebbet Dost.
+fg	21632	Veltheim	1	Wie sind meue un hebbet dost.
+fg	21666	Rohden	1	Wei sin meue un hewwet doßt.
+fg	21679	Springe	1	We sind mäuhe un hewwet dost.
+fg	21687	Vardegötzen	1	Wie sind meuh un heiwwet döst.
+fg	21707	Rautenberg	1	Wie sünd moie un het Döst.
+fg	2182	Soginten (Svirskoe)	1	Wie sen med uck därschtig.
+fg	21882	Bodenstedt	1	Wei sünd mäuhe und häbbet dost.
+fg	21902	Rautheim	1	Wie sind meuhe un häwet döst.
+fg	21936	Bartensleben	1	Wie sünd meu und hät döst.
+fg	2200	Narmeln (Polski)	1	Wi sennd med onn häwen därscht.
+fg	2204	Leysuhnen (Ščukino)	1	Wir sönn möd ann hebbe derscht.
+fg	22044	Rottorf	1	Wi sind meue un hett döst.
+fg	22063	Hundisburg	1	Wi sind meue un hewwen dörst.
+fg	22074	Farsleben	1	Wie sind mege un hem dörst.
+fg	22083	Reesen	1	Wie sind möe un hemm dorscht.
+fg	22092	Paplitz	1	Wie sind möh un henan dörscht.
+fg	22111	Wasbüttel	1	Wir sönd meue und het döst.
+fg	22149	Rätzlingen	1	Wie sünd meun un hät Döst.
+fg	2216	Hermsdorf (Pograničnyj)	1	Wi sönd möd onn hebbe därscht.
+fg	22172	Burgstall	1	Wieh sind möh un hemm dorscht.
+fg	22222	Reislingen	1	Wie seind meue un hebbet döst.
+fg	22249	Roxförde	1	Me sünd möij und hem dörst.
+fg	2225	Moritten (Oktjabrskoe)	1	Wi sönn möd on hebbn derscht.
+fg	22264	Grieben	1	Wäi sind moih un hebb'n dörscht.
+fg	22276	Zabakuck	1	Wi sünt mö un hebbn döst.
+fg	22375	Westerholz	1	Wi sünd mö'n un hett döst.
+fg	22384	Tülau-Fahrenhorst	1	We sünd möh und hewn döst.
+fg	22394	Köbbelitz	1	We sünd mög un hem dost.
+fg	22407	Schenkenhorst	1	M'r sen mied un hün durscht.
+fg	2242	Naunienen	1	Wie sön möd on hebbe derscht.
+fg	22423	Querstedt	1	We sünd möj un häm'm döst.
+fg	22443	Staffelde	1	Wei sind möig un hem'n döst.
+fg	22453	Grosswudicke	1	Wie sind möi un hem'm döst.
+fg	22574	Masel	1	Wei sünd meuh un heft döst.
+fg	22581	Höddelsen	1	We sind müh und hebben döst.
+fg	22599	Wöpel	1	Weh sünd möhj ünd hebbn döst.
+fg	22621	Molitz	1	Weei sünd mööh un hemm döst.
+fg	22636	Rönnebeck	1	Wäi sün mö un hem döst.
+fg	22654	Iden	1	Wie sind moi und hem döst.
+fg	22667	Kuhlhausen	1	Wei sind möhj un hemm döst.
+fg	22685	Proitze	1	Wi sünd mö un 'ebbn döst.
+fg	22773	Holdenstedt	1	Waih sünd mauh und hefft döst.
+fg	22796	Wustrow (Wendland)	1	Wie sünd möd unn hebn dörst.
+fg	22810	Lomitz	1	Wi sünd midu un hemm'n döst.
+fg	22819	Jeggel	1	Wi sinn mög un hebbn döst.
+fg	22832	Gross Lüben	1	Wie sünd mög un hem dost.
+fg	22846	Görike	1	Wie sind mog und hem dost.
+fg	22910	Holthausen	1	Me-i sünt mööd on hemvee Doß.
+fg	22931	Dahlhausen	1	Wi sind meie un häwet Durst.
+fg	22965	Langeloh	1	Wi sind mai un het düoast.
+fg	22990	Halingen	1	Weij sinnt maihe un heijt doarst.
+fg	22998	Neheim	1	Wei sint maie und hett düost.
+fg	23010	Niederbergheim	1	Wui sind mau un hot dorst.
+fg	23021	Kapellen	1	Wej sinn müij onn hebben doasch.
+fg	23031	Rheinberg	1	We sind müh on häben dös.
+fg	23184	Holthausen bei Kirchhellen	1	Wer sünd meu un hevvet doust.
+fg	23191	Herten	1	Wie sind mai un häft Duast.
+fg	23207	Waltrop	1	Wi sint mai un hewt duast.
+fg	23218	Kamen	1	Wei sind mai und hewet Duorst.
+fg	23231	Norddinker	1	Fui sind Meih und hett Dorst.
+fg	23261	Kessel	1	Wej sin müj en hebbe dorscht.
+fg	23271	Kehrum	1	Wij sinn müj on hemmen dorst.
+fg	23284	Hamminkeln	1	Wej sind müj on hebbt dorst.
+gh	23293	Erle	1	Wir sünd müöh un hebt duast.
+gh	23343	Göttingen	1	Wey sind meue un hät duorst.
+gh	2338	Wenslowischken (Voznesenskoye)	1	Wie send meed onn hebbe derscht.
+gh	23402	Holtwick	1	Wie sind möde un häft doaßt.
+gh	23412	Seppenrade	1	Wei sint mö un hiot dusht.
+gh	23419	Davensberg	1	Wi sind mü un hebt duost.
+gh	23426	Vorhelm	1	Wir sind möde und häbt düöst.
+gh	23435	Stromberg	1	Wii sind mööde un häwet duorscht.
+gh	23453	Stockum bei Coesfeld	1	Wih sint möhe un hept duost.
+gh	23466	Nottuln	1	Wie sind möhr un hept durst.
+gh	23471	Münster	1	Wi sint möde un hewwt Duarst.
+gh	23478	Einen	1	Mieh sint möh un häft Dorst.
+gh	23483	Greffen	1	Wie sind möih un hewwet durst.
+gh	23494	Speelberg	1	Wej sin müj en hebbe dörst.
+gh	23498	Hemden	1	Wie sünt möh un habt dorst.
+gh	23507	Weseke	1	Wi sint möh un häbt douist.
+gh	23545	Tüddern	1	Wier send mög en übben dursch.
+gh	23566	Porselen	1	Mir sind mög un hant duhsch.
+gh	23602	Holzweiler	1	Wir sind möch on hand duesch.
+gh	23630	Evinghoven	1	Mer send möd un hant dusch.
+gh	23817	Reusrath	1	Wir sind müd on hant dusch.
+gh	23843	(Stolzenberg)	1	Wihr send möd on hand Duescht.
+gh	23858	Oberklüppelberg	1	Wie sitt mäue un hevvt durscht.
+gh	23873	Valbert	1	Wie sind meie un hat dürst.
+gh	23885	Sporke	1	Wie sind maie un hett durst.
+gh	23902	Schmallenberg	1	Fehi sähit mäuhe un het durst.
+gh	23906	Elmpt	1	Föer send möe en häbben dorsch.
+gh	23922	Helenabrunn	1	Wer sent mög un hänt dursch.
+gh	23933	Weißenberg	1	Mer send möd(e) on hant duesch.
+gh	2398	Mertensdorf (Tjomkino)	1	Wi sand med on heb derscht.
+gh	2409	Trausen (Lipnyaki)	1	Wie sinnt maid uonn hiebbe dierscht.
+gh	24107	Hubbelrath	1	Wier sind müöt on hont durscht.
+gh	24134	Barmen	1	Wie sind möd on hannt douscht.
+gh	24156	Delle	1	Wie sind mäu un hätt durst.
+gh	24167	Altena	1	Wēǐ sind mö͡ihe un het Durs.
+gh	24180	Stockum	1	Wei sind meue u het duorst.
+gh	24208	Wall	1	Wei sent müch un habben Dursch.
+gh	24218	Vennikel	1	Wei sind meih on hübben dosch.
+gh	2426	Groß Pentlack (Kamenka)	1	Wie sen möd un hebbe durscht.
+gh	24336	Berghausen	1	Mer sein mire un hon dorscht.
+gh	2436	Kowarren (Zaozernoye)	1	Wi send möd on hebbn derscht.
+gh	24360	Bottendorf	1	Mer sein mire on hon dorscht.
+gh	24380	Bergfreiheit	1	Merr senn miede un hon dorst.
+gh	24412	Roppershain	1	Mä sinn miere un hun darscht.
+gh	24431	Konnefeld	1	Me sinn muhre un hoim dorst.
+gh	24454	Berneburg	1	Me san mide on han darscht.
+gh	24466	Lüderbach	1	Me sin mide un hon darst.
+gh	24490	Züschen	1	Mieh sitt meude unn hätt duarst.
+gh	2452	Kleschowen (Kutusowo)	1	Wie sen möd un hebbn dorscht (därscht).
+gh	24636	Rhadern	1	Wi sinn möde und hann dost.
+gh	24659	Buhlen	1	Meh sind miede on hon Dorschd
+gh	2466	Tolkmicko	1	Wie sönn möd onn heww derscht.
+gh	24677	Metze	1	Mäh sinn mierä onn hom dorschd.
+gh	24695	Wattenbach	1	Mä sinn mihre onn hann dorscht.
+gh	24715	Vockerode	1	Me sinn mide oun hounn dorschd.
+gh	24737	Grosstöpfer	1	Me sinn miede un hunn dorscht.
+gh	2474	Pierzchaly	1	Wie sen möd on hewwe derscht.
+gh	2482	Peterswalde (Piotrowiec)	1	Wi sön möd on hebbe derscht.
+gh	24884	Olsberg	1	Bäi seit mai-e un hütt doust.
+gh	24901	Sudeck	1	Wi sid mäude un hadd Dost.
+gh	24917	Braunsen	1	 Meh sind miede on hon Dorschd.
+gh	24926	Zierenberg	1	Mir sin mäude un han dost.
+gh	2494	Saruny	1	Wia sönd möd on hebbe derscht.
+gh	24942	Speele	1	Me sin möde un hon dost.
+gh	24959	Hermannrode	1	We siad meuge und hewwen dost.
+gh	2507	Wojciechy	1	Wie sönn möd on hebbe durscht.
+gh	25113	Meiste	1	Wui sint moihe und hewwet duarst.
+gh	25131	Fürstenberg	1	Wij sijd meuhe un hätt duest.
+gh	25136	Scherfede	1	Wäi säid mäue un hätt dust.
+gh	25150	Körbecke	1	Wei sind mauhe un hät dust.
+gh	25163	Gottstreu	1	We säd meugge und häwwet dost.
+gh	25179	Esebeck	1	Wi sint meu un hewwet dost.
+gh	25197	Ebergötzen	1	Wie sind meue un hewwet dost.
+gh	25214	Bönninghausen	1	Wui sind moie unn het duarst.
+gh	25223	Kirchborchen	1	Wei send mäuihe un häit Dust.
+gh	25343	Siebenstern	1	Wiä sind moihe un häwwet dust.
+gh	25354	Bruchhausen	1	Mäi sind mueue [?] un hat durst.
+gh	25363	Schönhagen	1	We sint meue un hebbet Dost.
+gh	25373	Oldenrode	1	We-i sind meue und heaut Dost.
+gh	25391	Marke	1	Wäi sind meue un hewwet dost.
+gh	25407	Westerwiehe	1	Wi sin meuie un hät duorst.
+gh	25514	Haustenbeck	1	Wü sind mohe un häwwet dost.
+gh	25522	Heesten	1	Wui sind moe un het dost.
+gh	25543	Rischenau	1	Wo͡-i sind meeh un hat dost.
+gh	25560	Lobach	1	Wei sind meuhe un höbbet dost.
+gh	25579	Wenzen	1	Wäi sind meue un hätt döst.
+gh	25596	Ackenhausen	1	Weui sind meuie un hewwet dost.
+gh	25607	Wolfshagen im Harz	1	Wäi sind meuie un hewwet dost.
+gh	25798	Kell	1	Mö sein möd un han durscht.
+gh	25824	Stromberg	1	Mier sei müd on honn Durscht.
+gh	25845	Staudt	1	Mia sein mied un hon duascht.
+gh	2586	Jurkiszki	1	Wei sönn möd un höbbe därscht.
+gh	25876	Steinbach	1	Wie senn mou enn hun duhrst.
+gh	25904	Höfen	1	M'r send möd on hant duäsch.
+gh	25914	Gemünd	1	Me se möd on hahn duesch.
+gh	2602	Maciejowieta	1	Wi sind möd un hebbe derscht.
+gh	26141	Iversheim	1	Miä sen möd on han duesch.
+gh	26155	Gelsdorf	1	Mi sen möt on han duesch.
+gh	26178	Ohlenberg	1	Mir senn möd on ham Dorch.
+gh	26205	Seifen	1	Mer sen möd un han durscht.
+hi	26228	Gehlert	1	Mir sei möd und han durst.
+hi	26261	Waigandshain	1	Mir sei meu en hun durcht.
+hi	26283	Sinn	1	Mehi sei meu en hou durst.
+hi	26312	Venwegen	1	Wer send möh änn hant dohsch.
+hi	26324	Üdingen	1	Mi send möd on hant duesch.
+hi	26351	Borr	1	Wier senn möd on hann duesch.
+hi	26578	Roisdorf	1	Me senn möd onn hann dursch.
+hi	26604	Geistingen	1	Mer senn möd on hann Dursch.
+hi	26627	Herchen	1	Mer sen möd on hän dursch
+hi	26642	Mittelhof	1	Mir senn mö ön hann duascht.
+hi	26664	Wilden	1	Mer säng meh on hah durscht.
+hi	26683	Straßebersbach	1	Mir sei moi onn ho dorscht.
+hi	26712	Mariagrube	1	Werr send möd on hant du-esch.
+hi	26734	Niederzier	1	Mie send möd on hand duesch.
+hi	26753	Horrem	1	Me send möht onn händ dûêsch.
+hi	2676	Rygarby	1	Wie sön möd on hebbe derscht.
+hi	26763	Poll	1	Mer sinn möht unn hann doosch.
+hi	2691	Kolwiny	1	Wi send med ön hebbe derscht.
+hi	27003	Heiligenhaus	1	Ech benn möd un duesthtig.
+hi	27025	Faulmert	1	Wir seng möh on han duhrscht.
+hi	2703	Srokowo	1	Wie sön möhd on häbbe därscht.
+hi	27038	Hahnseifen	1	Wir sing müh un han durscht.
+hi	27064	Müsen	1	Mer sie möh on ha Dorscht.
+hi	27074	Schameder	1	Mer sei miede un ho dorscht.
+hi	27106	Dudenhofen	1	Mir sein müd unn hohn dorscht.
+hi	27135	Wenighösbach	1	Mir sann müd un houn dorscht.
+hi	2715	Stregiel	1	Wij säm meed enn häbbe därscht.
+hi	27150	Wiesthal	1	Wir sein müd e han durß.
+hi	27163	Massenbuch	1	Merr sen müad un höm durscht.
+hi	27186	Neubessingen	1	M'r sen müad un hom duarscht.
+hi	27209	Dittelbrunn	1	Wir sin müat und höm duarscht.
+hi	27223	Vockenhausen	1	Wir sein meud un hunn dorscht.
+hi	27244	Heddernheim	1	Mer sein müd un hewwe dorst.
+hi	2727	Budziska	1	Wie sönd mödh on häbbe därscht.
+hi	27425	Bruchköbel	1	Mer sa moid onn hefe dorscht.
+hi	27444	Hailer	1	Mir sei meud on hon dorscht.
+hi	2746	Chelchy	1	Wi send möd on hebbe derscht.
+hi	27461	Oberndorf	1	Wer sei müd on honn deuscht.
+hi	27469	Rossbach	1	Wir sein müd on hon Duarscht.
+hi	27480	Hassenbach	1	Mir sänn müad und hönn durst.
+hi	27501	Poppenlauer	1	Miär senn müad onn hömm durscht.
+hi	27507	Cratzenbach	1	M'r sein moid un hun dorscht.
+hi	2762	Wilkowo	1	Wie senn möd on hebbe derscht.
+hi	27692	Friedrichstal	1	Mir sei moid und hun durscht.
+hi	27719	Leidhecken	1	Wir sain moid uan hun dorscht.
+hi	27742	Gelnhaar	1	Ma sei meuid ean hu doascht.
+hi	27765	Ulmbach	1	Mir sei müd on hon dorscht.
+hi	27775	Eichenried	1	Mir senn müd oh honn durscht.
+hi	27792	Wildflecken	1	Mer senn müd on honn duascht.
+hi	27807	Bastheim	1	Mr sinn müd un hom duerst.
+hi	2781	Karwiny	1	Wör sein müd enn han dorscht.
+hi	27821	Philippstein	1	Mir sei meud en hon dorscht.
+hi	27835	Dornholzhausen	1	Mr seij meur enn hu dorscht.
+hi	2800	Krzykaly	1	Wea sain müd un hie derscht.
+hi	28010	Nonnenroth	1	Mr sei muit eren hong duarst.
+hi	28027	Götzen	1	Mir seih meuiht enn huh deuscht.
+hi	28045	Altenschlirf	1	Mir seih müd on huoh doascht.
+hi	28063	Fulda	1	Mir sen med on hon doischt.
+hi	28080	Rupsroth	1	Mer sen müd oh hon doscht.
+hi	28107	Gerthausen	1	Wie senn müed unn honn duerst.
+hi	2817	Mawry	1	Wöa sain med onn hon dährscht.
+hi	282	Zolna	1	Wie sind moid u hebbe dest.
+hi	2827	Sarnowo	1	Wea seinn müd unt hohne Durscht.
+hi	28278	Krumbach	1	Mr sei moi ean huh doscht.
+hi	28298	Londorf	1	Mr sei(nt) mai eaon hu(nt) doscht.
+hi	28315	Otterbach	1	Mihr seih meuht end heh dorscht.
+hi	28330	Schwarz	1	Mer sin med o ho doscht.
+hi	28346	Grossenmoor	1	Mäi san med on hon do(r)scht.
+hi	28358	Rasdorf	1	Ma senn med on honn duascht.
+hi	28369	Wiesenthal	1	Meei senn möd onnd houn doscht.
+hi	28392	Herzhausen	1	Mir sai mere on hu dorscht.
+hi	2846	Ledlawki	1	Wie sönn miad onn hebbe derscht.
+hi	285	Kosobudy	1	Wir seit Meid und hevn Derst.
+hi	28568	Betziesdorf	1	Mäerr sai miere änn hun doarscht.
+hi	28589	Neustadt (Hessen)	1	Mär sei müd onn hu derst.
+hi	28605	Neukirchen	1	Mehr seng mid ön hon dörscht.
+hi	28623	Gittersdorf	1	Nhä wen meth on hon darscht.
+hi	28640	Herfa	1	Mei sein med on hann dorscht.
+hi	28651	Frauensee	1	Meii sem meh onn honn däärscht.
+hi	289	Königswiese (Leśna Huta)	1	Wi sint med u habe Durscht.
+hi	2900	Borawskie	1	Wi sönd meed on ons därscht.
+hi	2906	Zabrowo	1	Wi sind meid un hebbe derscht.
+hi	291	Lubichowo	1	Wie sind Möid un häbbä derst.
+hi	2916	Stanowo	1	Wer sein müd on hoube dorscht.
+hi	2923	Fijewo	1	Wer send müd und hobe dorst.
+hi	2935	Groß Koschlau	1	Werr sennd müd onn haube dorscht.
+hi	2955	Liksajny	1	Wir sönd müd on hoabe dorscht.
+hi	2962	Molza	1	Wör sein müde on haun durscht.
+hi	2970	Warkaly	1	Wea sain müd on hon derscht.
+hi	2996	Bucznik	1	Wer sei müd on haben dorscht.
+hi	300	Montauerweide	1	Wi send möd und hebbe dörscht.
+hi	300660	Sankt Roman	1	Müad sama (?) sakrisch därst uns.
+hi	300798	Reikersdorf	1	Mia sand müad u ham an duascht.
+hi	301042	Rigaus	1	Mia sand zau(n) müad u. voi duascht.
+hi	3058	Zyndaki	1	Wie send meed on hebe derscht.
+hi	3069	Rychliki	1	Qöe sond müd onn hoate dorscht.
+hi	3083	Chojnik	1	Wä sein müd onn haon dorscht.
+hi	3093	Ksiaznik	1	Wie sein mied onn haon durscht.
+hi	3111	Glotowo	1	Wea sein müd on hon derscht.
+hi	312	Ryman	1	Wie sün meur un hiwwa döst.
+ij	3122	Derc	1	Mea sein müd on hon därscht.
+ij	31677	Battweiler	1	Men senn mid on han dorscht.
+ij	31695	Heltersberg	1	Wer sinn med un han dorscht.
+ij	31700	Ramberg	1	Mer sin müd un hänn dorscht.
+ij	31719	Geinsheim	1	Wer sinn müd unn hänn dorscht.
+ij	31737	Diedenhofen	1	Mer se mejd un hunn duscht.
+ij	31765	Laumesfeld	1	M'r sén méid onn hunn Duscht.
+ij	31789	Beckingen	1	Mer sei meid un hann duhscht.
+ij	31800	Calmesweiler	1	Mir sein mied enn hann dorscht.
+ij	31824	Steinbach bei Ottweiler	1	Mer sinn mid unn hann dorscht.
+ij	32019	Dietschweiler	1	Wir sind müd u hann Durst.
+ij	32040	Siegelbach	1	Mer bin mied un han dorscht.
+ij	32053	Alsenborn	1	Mer sein müd un hän dorscht.
+ij	32067	Erpolzheim	1	Mer seim mid unn henn dorscht.
+ij	32085	Kreuzweiler	1	Mer sen moeid on hun duorst.
+ij	32102	Greimerath	1	Mä sen mid on hun Duschd.
+ij	32119	Oberlöstern	1	Mir se meid on han durscht.
+ij	324	Podwilcze	1	Wi sünd meur o hewwe döst.
+ij	3254	Jurkowo	1	Mie sön med on hebbe derscht.
+ij	3267	Pozarki	1	Wie sen med on hebe derscht.
+ij	3272	Gawliki Wielkie	1	Wi sennt meed onn häbbe Därscht.
+ij	3280	Swietajno	1	Wi seend mehd on hebbe darscht.
+ij	32855	Altviller	1	Mer sin mied un hon durscht.
+ij	32883	Woustviller	1	Mea bin müd un hunn durscht.
+ij	3301	Barschken	1	Wie send med on hebbe darscht.
+ij	33035	Rimling	1	Mer sin mid un han durst.
+ij	3304	Dawillen	1	Wij sönn möhd onn häbbe därscht.
+ij	33055	Roppeviller	1	Mr sin mied un hen durschd.
+ij	33064	Dahn	1	Mer sinn müd unn häm Dorscht.
+ij	3309	Dittauen	1	Wi sönd med un hebe derscht.
+ij	33102	Gleiszellen	1	Mer sinn müd unn henn durscht.
+ij	33111	Herxheimweyher	1	Mer sinn mid unn heem dorscht.
+ij	33126	Guinkirchen	1	M'r senn mied unn hann durscht.
+ij	33146	Überherrn	1	Wie sin mie so meid un wat hamer durscht.
+ij	33159	Malstatt	1	Wir sind müd un hen durscht.
+ij	3318	Deegeln	1	Wi send möd un hebbe derscht.
+ij	33185	Niederwürzbach	1	Mer senn mid un henn dorscht.
+ij	33331	Steinbuch	1	Wir sin mud un hon durscht.
+ij	33346	Breitendiel	1	Mr senn müd un hebba durscht.
+ij	33364	Hundheim	1	Mer sen müd un häwe durschd.
+ij	33381	Steinbach	1	Mir sen müet un hoibn duerscht.
+ij	33400	Eibelstadt	1	Mar senn müad und hömm duarscht.
+ij	3342	Pillkoppen	1	Wie söend möed un hebbe derscht.
+ij	33420	Rödelsee	1	Mr sin müad und ham durst.
+ij	3343	Karkeln	1	Wie sönd möd un hebbn derscht.
+ij	3345	Dünen (Ackmenischken)	1	Wie sänd möd on hebbe därscht.
+ij	3351	Pleine	1	Wi sönn möd onn hebbe derscht.
+ij	33605	Erfelden	1	Mer sein möd un honn Dorscht.
+ij	33614	Traisa	1	Mie sin mid un hewe durscht.
+ij	3362	Cullmen-Kulken	1	Wih sönd meed onn hübe Dürrscht.
+ij	33631	Heubach	1	M'r sein mihd un häwwe dorscht.
+ij	3364	Rositten (Rybachiy)	1	Wir senn mehd on hebbe därscht.
+ij	33648	Hofstetten	1	Mir sann mid unn hewe dorscht.
+ij	33660	Bischbrunn	1	Mr sei müad un haba durscht.
+ij	33677	Birkenfeld	1	Mer seim müed un höüba dorscht.
+ij	33692	Rupprechtshausen	1	Mir senn müed und hömm durscht.
+ij	33711	Gaibach	1	Mir senn müad und ham duarscht.
+ij	33725	Rüsselsheim	1	Merr sein mied unn homm derscht.
+ij	33741	Langen (Hessen)	1	M'r sein möd un hun derscht.
+ij	33849	Altlussheim	1	Mr sei müd un hän dorscht.
+ij	33860	Schatthausen	1	Mär senn müd unn häwä dorschd.
+ij	3387	Sassenhöhe (Augsgirren)	1	Wi send möd un hebbn dürscht.
+ij	34001	Daudenzell	1	Mir senn mied un hewn dorscht.
+ij	34015	Billigheim	1	Mir sin müed un hawe durscht.
+ij	34025	Oberkessach	1	Mer sind med u haben durst.
+ij	34044	Ailringen	1	Mir senn müed u henn durst.
+ij	34058	Lichtel	1	Mer san müd un heiwa durscht.
+ij	34065	Windelsbach	1	Mir sann müed r heba duarscht.
+ij	34076	Ludwigshafen am Rhein	1	Mer sinn mied unn henn dorscht.
+ij	34096	Ursenbach	1	Ma sinn mid un häwn derscht.
+ij	34216	Gammelsbach	1	Mer seim mid un häwe dorst.
+ij	34228	Rumpfen	1	Wie sen müde und hen dorscht.
+ij	34235	Gerichtstetten	1	Wir sinn müd un höwn durscht.
+ij	3424	Beierstedt	1	Wie sünd meu'e un het Döst.
+ij	34247	Königshofen	1	M'r sann müäd un höüwä derscht.
+ij	34266	Aufstetten	1	Mir sen müad und höba duarst.
+ij	34288	Weigenheim	1	Mer senn müad und heba dorscht.
+ij	34305	Bobstadt	1	Mehr sinn mid un henn dorscht.
+ij	34321	Mittershausen	1	Mer sin mid un hewn dorscht.
+ij	344	Modrolas	1	Wi sinn möur un hewwn döst.
+ij	34447	Berghausen	1	Mir senn müd unn henn dorscht.
+ij	34503	Winzerhausen	1	M'r send müed u hänt durscht.
+ij	34522	Liemersbach	1	Mr sind müed und hend durscht.
+ij	34535	Eutendorf	1	Miar senn miad uns hend durscht.
+ij	34545	Honhardt	1	Mar san miad u häwa durscht.
+ij	34557	Segringen	1	Mir sin mied und durschti.
+ij	34566	Graben	1	Mur senn mied unn henn dorschd.
+ij	34707	Odenheim	1	Mer senn mid un häwa dorscht.
+ij	34734	Massenbachhausen	1	Mir sen mid un häwe dorscht.
+ij	34750	Binswangen	1	Mir sin müd u hebn dorscht.
+ij	34773	Öhringen	1	Mar sin mied und hewa dorscht.
+ij	34791	Döttingen	1	Wir sen müed und hevw durscht.
+ij	34802	Gaggstatt	1	Mer senn mied und hewe duerschd.
+ij	34818	Dorfgütingen	1	Mer san müed uns heba durscht.
+ij	34838	Röckingen	1	Mer sen müad und höba durscht.
+ij	34855	Windsfeld	1	Mir sen mühat u haben duarst.
+ij	34872	Ettenstatt	1	Mir san moid und ham durscht.
+ij	35003	Untermässing	1	Wir sein mäid u hom durscht.
+ij	35011	Gimpertshausen	1	Wir sind müd und haben durst.
+ij	35026	Beratzhausen	1	Mia san mar und hom duascht.
+jk	35035	Eitlbrunn	1	Mia san müad und hobn a durscht.
+jk	35046	Altenthann	1	Wie sind müd u haben durscht.
+jk	35055	Rauenzell	1	Mie san müad und hobn duarscht.
+jk	35067	Ismannsdorf	1	Mer seim müet und hebn dorscht.
+jk	351	Smecino	1	Wie sind meud unn hewwe döst.
+jk	3516	Bornum	1	Wüe sind meue un hewwet dost.
+jk	35165	Büchenbach	1	Mir senn möid und hobn durscht.
+jk	35168	Seligenporten	1	Mia san meid u hobn durscht.
+jk	35188	Günching	1	Wir san maüd und hom durst.
+jk	35195	Adertshausen	1	Mia san muü und hem duascht.
+jk	35204	Wiefelsdorf	1	Wir san mööd u hobm durscht.
+jk	35211	Bodenwöhr	1	Ma san mäid und ham durschd.
+jk	35223	Flachslanden	1	Wir senn mud und ham durscht.
+jk	35236	Grosshabersdorf	1	Wir sen mied und hem dorscht.
+jk	35254	Birnthon	1	Mir sen mei u honen durscht.
+jk	35339	Röthenbach	1	Mie sen möid u hebn durscht.
+jk	35377	Alfeld	1	Mia sann möid und hom duascht.
+jk	35382	Ammerthal	1	Wir san möüd und hom durscht.
+jk	35393	Trisching	1	Wir sand med und haben dürscht.
+jk	35517	Unternesselbach	1	Mer senn müd und hemm dorscht.
+jk	35524	Oberreichenbach	1	Mir sen mied und häm doscht.
+jk	35544	Buckenhof	1	Mir sin müad und haben durscht.
+jk	35562	Kirchröttenbach	1	Mia sen mei und han Durscht.
+jk	35571	Hartenstein	1	Mir san mäid und han durscht.
+jk	35577	Schlicht	1	Wie sein müd u hoben durscht.
+jk	3558	Beckendorf	1	Wei sünd meue un hewwet döst.
+jk	35585	Kohlberg	1	Mia sen möid und hom durscht.
+jk	35597	Oberlind	1	Mir san möid und haben duarscht.
+jk	356	Porst	1	Wai sind meud u häwwa däst.
+jk	35710	Haag	1	Mr sen müd und ham doschd.
+jk	3572	Domersleben	1	Wie sind meue un hebben Dorrst.
+jk	35729	Mühlhausen	1	Wir senn med unr hom durscht.
+jk	35755	Pautzfeld	1	Wie sin mü und han durscht.
+jk	35762	Moggast	1	Wir sen müh und dörst uus.
+jk	35778	Pegnitz	1	Wir sen möih und han duoscht.
+jk	35791	Speinshart	1	Wia san möid und hom durscht.
+jk	35799	Friedersreuth	1	Mia san möid und hobn durscht.
+jk	35807	Plössberg	1	Mire san möid und hobn durscht.
+jk	35824	Geusfeld	1	M'r senn müed und häm durst.
+jk	35843	Tütschengereuth	1	Mir sen müd und ham durscht.
+jk	35857	Litzendorf	1	Satz wurde nicht übersetzt.
+jk	3592	Prester	1	Wie sin mede und hem dorscht.
+jk	36007	Hollfeld	1	Mia senn müh und ham duascht.
+jk	36017	Donndorf	1	Weh sen müd und hobn doirscht.
+jk	36039	Kirchenpingarten	1	Mia sen maid und hem duascht.
+jk	36049	Hohenhard	1	Mia san möid und hom durscht.
+jk	36056	Leonberg	1	Mia san möid und hom durscht.
+jk	36065	Hohrodberg	1	Mer se mied un han Durscht.
+jk	36084	Colmar	1	Mer san mied un han durscht.
+jk	3609	Dalchau	1	Wie sind miede un hemm dorscht.
+jk	3614	Schweinitz	1	Wie sin miede un hahn dorscht.
+jk	36159	Meistratzheim	1	M'r sin miad a ha durscht.
+jk	36178	Müllen	1	M'r sin mied un hän derscht.
+jk	36202	Kniebis (Kr.Freudenstadt)	1	Mer senn miad on hänn durscht.
+jk	3626	Nennhausen	1	Wi seid möh un hebben dößst.
+jk	36272	Ödsbach	1	Wer sin müed un hen durscht.
+jk	36277	Turquestein-Blancrupt	1	Mer sinn mid un han durscht.
+jk	36282	Wangenbourg	1	Mer sin mued und hann Dorscht.
+jk	36309	Furdenheim	1	M'r sen miäd un hän Durscht.
+jk	36334	Ruprechtsau	1	Mir sinn müid un han Durschd.
+jk	3634	Berge	1	Wie sind mühe un hebn döst.
+jk	36348	Achern	1	Mr senn müed un henn duerscht.
+jk	36362	Saarburg	1	M'r sinn mied un henn durscht.
+jk	3639	Pausin	1	Wei sind mühe un hebbn dorscht.
+jk	36489	Bois De Chêne	1	Mer sin mid un han durscht.
+jk	3649	Hermsdorf	1	Wie sin mide un hebben dorscht.
+jk	36525	Wilshausen	1	Mer senn mied un han Durscht.
+jk	36552	Marienthal	1	M'r sen mied un hann Durscht.
+jk	36567	Fort-Louis	1	Mr sin mied un hann durscht.
+jk	36594	Bad Rotenfels	1	Wir sin med un hän durscht.
+jk	366	Przeradz	1	Wei sind meud un hewe döst.
+jk	3664	Birkholz	1	Wir sind müde und hebbn durst.
+jk	36737	Altwiller	1	Mir sind müd un han durscht.
+jk	36755	Weislingen	1	M'r sin mid un han durscht.
+jk	3677	Gielsdorf	1	Wir sinn müde un hebbn dorscht.
+jk	36772	Lichtenberg	1	Merr senn müad un hann Durschd.
+jk	36789	Goersdorf	1	M'r sin mued und han durscht.
+jk	36823	Siegen	1	Mir sin mied un hann durscht.
+jk	36842	Neuburgweier	1	Wir sinn müd unn hewwe durscht.
+jk	3688	Ringenwalde	1	Wi sin miäde un hebbn dorst.
+jk	36880	Bischoffingen	1	Mer sin müäd un hän durscht.
+jk	36898	Maleck	1	Mer sin müed un hen Durscht.
+jk	36911	Yach	1	Mr sin müad un hän durscht.
+jk	36933	Orschwiller	1	M'r se miott un hann Durscht.
+jk	37007	Bindernheim	1	Mat se müad u ha Durschd.
+jk	37025	Schmieheim	1	M'r sind mied un hen Durscht.
+jk	3703	Lehmannshöfel	1	Wie sind miede un hebben dorscht.
+jk	37035	Bollenbach	1	Mr sin miad un hen durscht
+jk	37058	Le Hohwald	1	Mar se miad u ha durscht.
+jk	3711	Warnick (Warniki)	1	Wi sind müede un hebben dorscht.
+jk	37119	Buchenberg	1	Mir san müad und han dorscht.
+jk	37138	Rottweil	1	Mr sind müad u. hond Durscht.
+jk	37153	Obernheim	1	Me sind miad u haut durscht.
+jk	3722	Zaszczytowo	1	Wir sin müde un hebben dorscht.
+jk	37302	Winterlingen	1	Mie send mied ond haut durscht.
+jk	37314	Dürrenwaldstetten	1	Wiar sind müad u hend duscht.
+jk	37333	Hausen am Bussen	1	Mir send muad d haunt dust.
+jk	37354	Baustetten	1	M'r sänd miad und hand duhscht.
+jk	37369	Illertissen	1	Wir sind müad und hend durscht.
+jk	37388	Schenkenzell	1	Mier sin mied un hen durscht.
+kl	37401	Aistaig	1	Miar send müad und häut durscht.
+kl	3744	Rudnica	1	Wier sinn mide un hoan dorscht.
+kl	37555	Stetten bei Haigerloch	1	Mir seinn müad und häbi duscht.
+kl	37571	Salmendingen	1	Miar sind müad und haud duscht.
+kl	37581	Bernloch	1	M'r send müad u. Hent duhscht.
+kl	37598	Gundershofen	1	Mer send müad u hant dust.
+kl	37607	Eggingen	1	Wirr sand müed u hand duscht.
+kl	37622	Holzheim	1	Mir sei meur en hä Doscht.
+kl	37658	Oberwaldach	1	Mer send miead ond hend duurst.
+kl	37802	Bondorf	1	Wir sind müad u häbn durst.
+kl	37825	Lustnau	1	Mer sind müad und häbe durst.
+kl	37855	Dettingen an der Erms	1	Mr send mied u hent duscht.
+kl	37862	Donnstetten	1	Mr send müad ond hent duscht.
+kl	37869	Radelstetten	1	Wie seind müed ond häbn dust.
+kl	37883	Ballendorf	1	Miär sein müad ond haba duscht.
+kl	37900	Obermedlingen	1	Mr sönd müad ons hant durscht.
+kl	37902	Raumünzach	1	Mer sinn miad un hem durscht.
+kl	37947	Schönaich	1	Mär send müäd ond hent durst.
+kl	38044	Hünerberg	1	Miar send miad ond hen durscht.
+kl	38056	Gechingen	1	Mer sen miad on hen durscht.
+kl	38095	Denkendorf	1	M'r seang müad un haben durscht.
+kl	38116	Albershausen	1	Mir send miad ond hind dihrscht.
+kl	38136	Winzingen	1	Mer sind müad und hant duscht.
+kl	38146	Zang	1	Wiar send miad und hant durst.
+kl	38155	Auernheim	1	Us sind müed u hant durscht.
+kl	38169	Dennach	1	Mar sen müad on hen durscht.
+kl	38182	Tiefenbronn	1	Mir sen müed un hen durscht.
+kl	38348	Schöckingen	1	Mer send müad u hent durscht.
+kl	38373	Hegnach	1	Mir send müad und hent turscht.
+kl	38407	Steinenberg	1	Mar send muad ond hent durscht.
+kl	38422	Ruppertshofen	1	Mer send müad und hend durscht.
+kl	38437	Fachsenfeld	1	Wir sand müad ond hent durscht.
+kl	38448	Baldern	1	Wir send müd u habet düst.
+kl	38482	Kleinvillars	1	Mr sen miad onn henn durschd.
+kl	38502	Hohenhaslach	1	Mer sein miad on henn duerscht.
+kl	38623	Nendingen	1	Ma sind miad und hond durschd.
+kl	38640	Rohrdorf	1	Me sind miad und hond duascht.
+kl	38655	Völlkofen	1	Wiar send müad ond hent duscht.
+kl	38666	Reichenbach	1	Miar sind müad u hond duscht.
+kl	38682	Mittelbuch	1	Mier sind mied u hent duscht.
+kl	38695	Unteropfingen	1	Mr sind müad u hand duscht.
+kl	3871	Dreetz	1	Wi sind möj un hebbn dost.
+kl	38720	Kicklingen	1	Wir sind müad und ham durscht.
+kl	38738	Westendorf	1	[A?]s sim'r müad u. hond durscht.
+kl	38764	Waidhofen	1	Mia san miad und ham durschd.
+kl	38774	Eschelbach an der Ilm	1	Mir san müd und haben durscht.
+kl	3880	Brunne	1	Waei sind möi un hebbn Dost.
+kl	38863	Pöttmes	1	Mier sei müed und hum dursch.
+kl	3887	Sommerfeld	1	Wei sünd möh un hem dost.
+kl	38899	Hebrontshausen	1	Wir san müd und ham durscht.
+kl	38912	Oberglaim	1	Wir san müd und hama durst.
+kl	38935	Fronhofen	1	Os sind müad ondt hont durscht.
+kl	3896	Malz	1	Wie sin möde un hem dorst.
+kl	38963	Stepperg	1	Mir sin müad und hobn Durscht.
+kl	3901	Stolzenhagen	1	Wîe sind müede un hebben Dörscht.
+kl	3906	Prenden	1	Wi sind müde un hebben dorscht.
+kl	39062	Hafenreut	1	Wir sind müad u habi Durscht.
+kl	39089	Gerolfing	1	Mia san miad u hobn duascht.
+kl	39103	Irsching	1	Mir san müad u haben duscht.
+kl	39116	Siegenburg	1	Mia sama müad und hama duascht.
+kl	39126	Semerskirchen	1	Mia sand müad und haben durst.
+kl	39140	Hofkirchen	1	Wür sand meüt u hama durscht.
+kl	39160	Dürrenzimmern	1	Ons send müad und hand durscht.
+kl	39179	Gundelsheim	1	Wiar san müad und hann durschti.
+kl	3919	Trampe	1	Wir sund muhde und hebben durscht.
+kl	39201	Walting	1	Mir san miad und hom durscht.
+kl	39293	Bieswang	1	Mir san möid und hobn duoscht.
+kl	3931	Neureetz	1	Wie sind mede un hübbn dorrscht.
+kl	39317	Pondorf	1	Mir san moüd und hom durscht.
+kl	39329	Neukelheim	1	Mir sand müad u. ham durst.
+kl	39342	Peising	1	Mir san müad un hama durscht.
+kl	39356	Arlesried	1	Mir sen miad und han duscht.
+kl	39370	Türkheim	1	Wie send  müad und hand duscht.
+kl	39398	Gauting	1	Mir san müad u ham durscht.
+kl	3944	Kurzycko	1	Wir sinn miede un hebben dorscht.
+kl	39459	Kaufering	1	Wir sen müed u durscht ins.
+kl	39475	Eching am Ammersee	1	Mier seind müad un haben durscht.
+kl	3949	Grzymiradz	1	Wie sind müede un hebben dorscht.
+kl	39494	Perlach	1	Mir sand meiad und haben duarst.
+kl	39503	Zorneding	1	Mir soan müad und ham durst.
+kl	39509	Albaching	1	Wir sand müad hama Durst
+kl	39515	Sankt Leonhard	1	Mir san müad und ham duarscht.
+kl	39517	Niederraunau	1	Mir send and'rscht muad u hand and'rscht duscht.
+kl	39529	Walkertshofen	1	Mer sind müad und hand durscht.
+kl	39546	Oberottmarshausen	1	Mir sind müad und hand duscht.
+kl	3957	Lubiszyn	1	Wie sin mede un hebben dorscht.
+kl	39647	Mittelstetten	1	Mi sen miad u haben durschd.
+kl	3965	Heinersdorf	1	Wei sind miede un hebben dorscht.
+kl	39662	Bergkirchen	1	Mia sin müha e durschtuns.
+kl	39667	Unterschleissheim	1	Wir san miad und hebn durst.
+kl	39673	Moosinning	1	Wir san müad und habm durscht.
+kl	39687	Oberdorfen	1	Mia sand miad und hama duscht.
+kl	39693	Wettenhausen	1	Wie sind müad u hent durscht.
+kl	39710	Zusmarshausen	1	Uns sind müad und hant durscht.
+kl	39723	Täfertingen	1	Miar send müd und hond durscht.
+kl	39742	Gallenbach	1	Wi send müad und hom durscht.
+kl	39865	Hilgertshausen	1	Mir sen müe und haben durscht.
+kl	39880	Allershausen	1	Wir san müad u haben durscht.
+kl	39891	Rast	1	Mier sena miad u homn durscht.
+kl	39901	Vilsheim	1	Me sand müad u hamä duescht.
+lm	39954	Sattelbogen	1	Mia san möid und hom Durscht.
+lm	39962	Krailing	1	Mir sand me͡îd nud hama Durscht.
+lm	39968	Oberried	1	Wir san mēd und habm Durst
+lm	40000	Pertolzhofen	1	Wir san me-id und hobm durscht.
+lm	40012	Tiefenbach	1	Wia san möüd u hom durscht.
+lm	40047	Pemfling	1	Mir sen moid und homa durscht.
+lm	40057	Arnschwang	1	Wir san möihd und ho(h)m durschdt.
+lm	40112	Wald an der Alz	1	Mia san müad und ham durst durscht.
+lm	40137	Ranoldsberg	1	Mia san müad und haben durschd.
+lm	40145	Erharting	1	Wie sama mied und ham durscht.
+lm	40155	Gumpersdorf	1	Mir san müad u ham duascht.
+lm	40191	Vilsbiburg	1	Mia san müad und ham durscht.
+lm	40202	Gangkofen	1	Mia sama miad und hemma durscht.
+lm	40212	Neuhofen	1	Mia sama miad und ham duascht.
+lm	40220	Bad Birnbach	1	Mir (sond) sama müad u as durscht uns.
+lm	40231	Ruhstorf an der Rott	1	Mir sand müad und hama durscht.
+lm	40274	Wörth an der Isar	1	Wia sama müad u hamand duascht.
+lm	40286	Griesbach	1	Wir soanna müad und hamma duarscht.
+lm	40297	Indersbach	1	Mia sand miad hoamm an douscht.
+lm	40308	Walchsing	1	Schir sand müdi u hama durst.
+lm	40320	Kirchberg	1	Mia san müad u hamer duarst.
+lm	40331	Haag	1	Mia sand miad u ham durscht.
+lm	40402	Hankofen	1	Mia saema müad und durst hama (a)a.
+lm	40414	Plattling	1	Mia san müad und an duascht hama.
+lm	40420	Auerbach	1	Mia sant miad und homa duascht.
+lm	40428	Saldenburg	1	Hotz san aber müd und durschtö wordu.
+lm	40439	Karlsbach	1	Wie sant mead u hebm duarst.
+lm	40516	Steinach	1	Mir samma müad und hamma durschd.
+lm	40524	Perasdorf	1	Mie same meid mir hame duascht.
+lm	40531	Regen	1	Mia san miad end habm an durscht.
+lm	40535	Klingenbrunn	1	Müad han ma und durschd hamwa.
+lm	40538	Riekofen	1	Sen ma müad und dursti.
+lm	40597	Lindau (Bodensee)	1	Mir sind müed und hond durscht.
+lm	40605	Schnellers	1	Mir sind miad u hond durscht.
+lm	40613	Ratholz	1	Mir sind mied und hant durscht.
+lm	40637	Eschbach	1	Mer sind müed u händ durscht.
+lm	40655	Erzingen	1	Wie sind müed und hand durst.
+lm	40757	Schienen	1	Miar sind müad u hond durscht.
+lm	40771	Wollmatingen	1	Mer sind müed und hond durscht.
+lm	40785	Kluftern	1	Mr sind miad und hont durscht.
+lm	40798	Obereisenbach	1	Miar heind müad und hond durscht.
+lm	40807	Ratzenried	1	Mir sind müäd u hent durscht.
+lm	4081	Bantikow	1	Wi sünd möj un hemmen döst.
+lm	40819	Kreuzthal	1	Mir send miad und hand durscht.
+lm	40844	Münchingen	1	Mä sind müat und händ durscht.
+lm	40863	Tengen	1	Mr sänd müad u hont durscht.
+lm	40898	Billafingen	1	Mier sind müed u hond duesd.
+lm	4093	Kränzlin	1	Wie sind mög un hem dost.
+lm	41018	Eigeltingen	1	Mr sind müed und hond durschd.
+lm	4102	Seebeck	1	Wie sind möh und hemm dörscht.
+lm	41049	Illmensee	1	Wir sind müad un hont durscht.
+lm	41057	Baindt	1	Mar sind müad u hont durst.
+lm	41064	Ziegelbach	1	Miar sind mead und hond durscht.
+lm	41076	Maria Steinbach	1	Miar sind miad und hand duscht.
+lm	41086	Waldau	1	Mier sin mied un hen duerscht.
+lm	41098	Hubertshofen	1	M'r sind miad und hont durscht.
+lm	41114	Öfingen	1	Mer sind müed und hont dorscht.
+lm	4112	Klein-Mutz	1	Wi sinn möge un hebbn dest.
+lm	4119	Gross Dölln	1	Wi sind möd unn hebben dorscht.
+lm	41200	Masevaux	1	Mr si miad unn ha Durscht.
+lm	41214	Aspach-Le-Bas	1	Mir sin miad un hann durscht.
+lm	4123	Senftenhütte	1	Wie sinn mejde un hebben dörscht.
+lm	41245	Lipburg	1	Mir sin müed un hiu Durst.
+lm	41262	Utzenfeld	1	Mir sind müed un hen Durscht.
+lm	41275	Schluchsee - Blasiwald	1	Mer sind müed und hän durscht.
+lm	41296	Oberentzen	1	Mir sin miad un hann durst.
+lm	41309	Feldkirch	1	Mr sinn müad un hün Durscht.
+lm	41336	Kappel	1	Mir sind müad und hän durscht.
+lm	41351	Urbès	1	Mer si mied un han durscht.
+lm	41365	Rimbach-Près-Guebwiller	1	Mer sen miad un han durscht.
+lm	4142	Stoki	1	Wie sin möh und hebn dorscht.
+lm	41460	Rixheim	1	Mr sen miad un hann Durscht.
+lm	4152	Stoleczna	1	Wie sind mihr un häbben dorscht.
+lm	41566	Ranspach-Le-Bas	1	Mr sinn miatt un haij Durscht.
+lm	41598	Lörrach	1	Mer si müed und hai Durst.
+lm	4161	Glazow	1	Wie sinn möj un hebbn Dörscht.
+lm	41623	Hütten	1	Mer sind müed und händ Durscht.
+lm	41653	Largitzen	1	Mer sin mied un hei Duescht.
+lm	4171	Okunie	1	Wi sin möd un hebben dorst.
+lm	41714	Lucelle	1	Mir sie miad un hai durscht.
+lm	41785	Höhenrain	1	Mi san miad und ham durschd.
+lm	41801	Grosshöhenrain	1	Mi han müad und dürsche thuat ins aa.
+lm	41811	Tattenhausen	1	Mia sant müat und hamb duscht.
+lm	41819	Ollarzried	1	Mir send müed u hand duscht.
+lm	41836	Kaufbeuren	1	Mir sind müd ond hünt duscht.
+lm	41845	Denklingen	1	Miar sind müad u hant durscht.
+lm	41855	Raisting	1	Wi sind müad und habe Durscht.
+lm	41872	Baiernrain	1	Miad sama u duarst hama a.
+lm	41932	Huglfing	1	Mir sen miad un hobm durscht.
+lm	41939	Penzberg	1	Wi san müad und ham durscht.
+lm	41948	Reichersbeuern	1	Wie sand müad u hebn duast.
+lm	41953	Parsberg	1	Mir san müad und haben durscht.
+lm	41963	Kirchdorf am Inn	1	Wia hant müad u. Ham durst.
+lm	41969	Aschau im Chiemgau-Niederaschau	1	Mia san müad u han durscht.
+lm	41971	Betzigau	1	Mir send miad und hand duscht.
+lm	41980	Sulzschneid	1	Wier sind müad u hand durscht.
+lm	41986	Steingaden	1	Miar sin müad und hant durst.
+lm	42039	Bayerniederhofen	1	Wie sein müad und haba durscht.
+lm	42049	Jachenau	1	Mie sen müa un hom duescht.
+lm	42056	Unterjoch	1	Wir sind müd u haben durst.
+mn	42062	Oberau	1	Mir san miad u hobn durscht.
+mn	42070	Eggstätt	1	Wia sand miad und hom durscht.
+mn	42076	Traunwalchen	1	Mia sand müad und ham duischt.
+mn	42084	Kirchanschöring	1	Mer san müad u ham durscht.
+mn	42116	Ruhpolding	1	Mie san muöd u ham durscht.
+mn	42118	Anger	1	Jez (?) hama scho a ven miad und düaschte hund üns a. 
+mn	42132	Ramsau bei Berchtesgaden	1	Mir sen müad und hobn Durscht.
+mn	42140	Hachiville	1	Merr se mitt a merr han duscht.
+mn	42166	Niederwampach	1	Mer sen mitt an mer senn durschterig.
+mn	42180	Neidhausen	1	Mir se med a mir hann duscht.
+mn	42236	Ettelbrück	1	Mir sé midd a mir sé duschterég.
+mn	42254	Rambrouch	1	Mar se mit an mer sen duschterig.
+mn	42302	Eischen	1	Mir sen mitt an mer hun Duscht.
+mn	42316	Hünsdorf	1	Mir se mit a mir hun Duscht.
+mn	42341	Biwer	1	Min se mét an duschtrég.
+mn	42414	Uewerkuer	1	Mer si mitt án duschterig.
+mn	42431	Peppange	1	Mir se mit an dirschterich.
+mn	42469	Schwarzenbach an der Pielach	1	Mia san müad und ham Duascht.
+mn	42470	Lehenrotte	1	Mia sand müad und hobn durscht.
+mn	42472	Thal	1	Mir san miad und hab an Durscht.
+mn	42477	Grillenberg	1	Mia san miad und haum an Duascht.
+mn	42520	Schneebergdörfl	1	Mir san müd u hobn an durscht.
+mn	42527	Mollram	1	Mia san müad un hobm duarscht.
+mn	42532	Frein an der Mürz	1	Mia san miad und ham an durscht.
+mn	42571	Massing	1	Mir san müad und hab'n Durst.
+mn	42573	Semmering	1	Mia san miad und hom Duascht.
+mn	42587	Feistritz am Wechsel	1	Mir san miad u ham an Durscht.
+mn	42612	Gleichenbach	1	Wie san miad und hom an durscht.
+mn	42635	Weiden am See	1	Mia san miad und hobm duascht.
+mn	42637	Nickelsdorf	1	Mia sahn mied und hobm a duascht.
+mn	42640	Siegersdorf	1	Mir san müad und hab'n an durscht.
+mn	42647	Stotzing	1	Mir sad miad und hoben duaschd.
+mn	42670	Wieselburg (Mosonmagyaróvár)	1	Mia san miad und haum an Tuascht.
+mn	42688	Andau	1	Mir sind miad und hobn an durst.
+mn	42691	Wiesen	1	Mir sein dalei und haben an durscht.
+mn	42701	Baumgarten	1	Mia san Miad und homa Duarscht.
+mn	42706	Apetlon	1	Wi sünd möh un hebben döst.
+mn	42722	Horitschon	1	Wia sein miad u hom Duarst.
+mn	42728	Holling (Fertőboz)	1	Mia sin miad und hom an Tuast.
+mn	42748	Frasnacht	1	Mär send müäd ond händ Dohrscht.
+mn	42821	Rietli	1	Mer sönd müed und hend Torscht.
+mn	42843	Hohenems	1	Miar sind müad u. hond Dorfb
+mn	42850	Bizau	1	Weor seand möod und hund dooscht.
+mn	42856	Riezlern	1	Mir send müad ond hand dürscht.
+mn	42908	Gamprin	1	Mir sind müad un hon Duarst.
+mn	42926	Röns	1	Mir sind müad und hend Dorst.
+mn	4293	Brielow	1	Wi sind möhe un hebb'n dörscht.
+mn	42933	Buchboden	1	mer sänd müd und händ Durschd.
+mn	42939	Lech	1	Mir send müäd ond händ durschd.
+mn	42970	Sargans	1	Mr sind müad und hind Durscht.
+mn	42977	Schruns	1	Mar sind müad u. hond Dorst.
+mn	42985	Vils	1	Miar sind müad und hond durscht.
+mn	43004	Hinterhornbach	1	Miar seia miad und habe durscht.
+mn	43013	Rinnen	1	Muad sei mr uns durscht homer.
+mn	43021	Ehrwald	1	Mir sönn müad un habä durscht.
+mn	43022	Leutasch	1	Miar senn miad un hobn durscht.
+mn	43027	Bach	1	Miar sei'n müad und haba durst.
+mn	43037	Silzerberg	1	Mier sem meud und haben durscht.
+mn	43055	Hatting	1	Mir sein miad u. hoabn Durscht.
+mn	4306	Deetz	1	Wie sind müed un hebben dorst.
+mn	43070	Mils bei Imst	1	Miar sein miad und hobe Dürst.
+mn	43122	Unterried	1	Mia sein miade u hobn durcht.
+mn	43133	Holdernach	1	Miar sei müad und hoba durscht.
+mn	43152	Kauns	1	Miar sein miad und hoba durschth.
+mn	43161	Unterberg	1	Mir seen müad und hobn durscht.
+mn	43162	Pertisau	1	Mia sen müad und durschtig.
+mn	43173	Brixlegg	1	Mia san miad und ham duscht.
+mn	43183	Penningdörfl	1	Wiar sann müad und hobn disch.
+mn	4321	Fahrland	1	Wie sind müe und hebben dörscht.
+mn	43210	Innsbruck	1	Miar sim müad und håbn an durscht.
+mn	43224	Kolsassberg	1	Miar sein müad u. hobn duarscht.
+mn	43251	Aschau im Zillertal	1	Miar hem müad und hom an durst.
+mn	43280	Krimml	1	Mia send miad und homm an duscht.
+mn	43285	Trins	1	Miar sein müada und hobn durscht.
+mn	43288	Dornauberg	1	Mir sen müede u. hobn an Ducht.
+mn	4329	Steglitz	1	Wi sind mude un habben dörst.
+mn	43297	Schmirn	1	Mir sein müede und hobm durst.
+mn	43301	Kitzbühel	1	Mia send müad und ham Duscht.
+mn	43303	Hochfilzen	1	Mir san muiad u haben droscht.
+mn	43310	Saalfelden am Steinernen Meer	1	Mia sand müad u haub an duscht.
+mn	43315	Werfen	1	Mia sand miad und homd an duscht.
+mn	43331	Bramberg am Wildkogel	1	Mia send miad u. send düschdig.
+mn	43340	Niedernsill	1	Mia send miad u dischtig (u hoamd an duscht).
+mn	43347	Sankt Georgen	1	Hiazt san ma richtig müad wan und an duscht ham ma a kriagt.
+mn	43354	Goldegg	1	Mia sond müad und hant on duscht.
+mn	43359	Kleinarl	1	Mia san miad und homt an Duscht.
+mn	43372	Bad Gastein	1	Mia san müad und hom an duascht.
+mn	43378	Berg-Gruben	1	Min sein miede und diestik.
+mn	43379	Heiligenblut	1	Mir seibm müed und heum durscht.
+mn	4338	Köpenick-Kietz	1	Wie sind mide und hebben duscht.
+mn	43381	Sankt Martin am Tennengebirge	1	Ma sand müad und haben an Duascht.
+mn	43384	Ramsau	1	Mir seind löj u distig.
+mn	43391	Assach	1	Mia sen müod s hobn an must dust.
+mn	43393	Donnersbach	1	Mir san hungri und durschti.
+mn	43412	Untertauern	1	Mia sand miad und homb Durscht.
+mn	43420	Pöllau	1	Mir seind miad und hamm diuscht.
+mn	43427	Oberweissburg	1	Mia san miad und hemd duscht.
+mn	43433	Sauerfeld	1	Mia sein miad unn ham an duscht.
+mn	43439	Ranten	1	Mir san miad und ham an durscht.
+mn	43453	Strechen	1	Mia san miad und hom un durscht.
+no	43455	Treglwang	1	Wir sand müad und haben an durst.
+no	43457	Kalwang	1	Wir san miad und haum an durscht.
+no	43458	Trofaiach	1	Mia sand müad u. homb an Du[a?]scht
+no	43462	Hafendorf	1	Mir san müad und durschti.
+no	4347	Herzfelde	1	Wie sin müede un hebben dorscht.
+no	43480	Sankt Michael in Obersteiermark	1	Mia san miad und honan Durscht.
+no	43488	Pusterwald	1	Mia sem miad und hobn an duscht.
+no	43489	Sankt Oswald	1	Miar sand müad und ham an Dürscht.
+no	43494	Sankt Marein bei Knittelfeld	1	Mia san miad und ham an Duascht.
+no	43497	Frohnleiten	1	Mia san miad und duaschdi.
+no	43505	Sankt Peter ob Judenburg	1	Mia san miad und duaschti.
+no	43530	Teufenbach	1	Mir san müed und hom an duarsch.
+no	43534	Sankt Johann	1	Mir san müad und hom Durscht.
+no	43537	Kainach bei Voitsberg	1	Mit san miad und hama duscht.
+no	43544	Gratwein	1	Mia (wiar) san müad u. hobn an Durscht.
+no	4357	Tempelberg	1	Wir sind müde und hoben durscht.
+no	43576	Fochnitz	1	Mir san möd u durschti.
+no	43579	Wenigzell	1	Mia san miad und hom an durscht.
+no	43633	Ehrenschachen	1	Wia san miad und hobn an Durscht.
+no	4364	Döbberin	1	Wie sinn müde un hebben dersch.
+no	43640	Salmannsdorf	1	Mir sain miad und hobn an durscht.
+no	43662	Sankt Kathrein am Offenegg	1	Wir san müad und hobn duarst.
+no	43699	Siget in der Wart	1	Wir sein müed u sain dursti.
+no	43715	Stubenberg	1	Mir san müad un ham an Durscht.
+no	43726	Unterrohr	1	Mir san müad u houbn durscht.
+no	43756	Eggersdorf	1	Mir sein miad und durschti.
+no	43761	Sinabelkirchen	1	Mia senn miad und hobm duascht.
+no	4377	Pamiecin	1	Wei sinn miede u häbben dorscht.
+no	43773	Bad Blumau	1	Mir sen müad u hobn an duarschst.
+no	43782	Deutsch Tschantschendorf	1	Wia seinn müad und hobn an duast.
+no	43850	Klostermarienberg	1	Mia sein miad und hobn an duascht.
+no	4388	Grabno	1	Wir sind müd u hoin dorst.
+no	43889	Moschendorf	1	Mia san miad ünd hom Dürscht.
+no	43896	St. Jakob	1	Mir seim zi tö mieden, durstig.
+no	43905	Oberpeischlach	1	Mia seim mide u hobm Durscht.
+no	43909	Mörtschach	1	Mia sinam müad und haben duascht.
+no	43910	Flattach	1	Mir san miad und ham an durscht.
+no	43938	Kolbnitz	1	Mir sein müad und durschtig.
+no	43939	Ausservillgraten	1	Mier san müede und ind düaschtit.
+no	43948	Assling	1	Wri sann müade und hobn Durst.
+no	43959	Lindsberg	1	Mia sein a so mied und ham a so an duascht.
+no	43977	Kornat	1	Mir san müad u ham an durscht.
+no	43982	Berg im Drautal	1	Mir seima müed und hom durscht.
+no	43988	Goderschach	1	Wir seamr müede und håmr an Durscht.
+no	4400	Trzemeszno Lubuskie	1	Wir sei müde un han dorscht.
+no	44006	Kremsbrücke	1	Mir seim müad und heim duschtäg.
+no	44010	Oberhof	1	Mir seima müad und homar durscht.
+no	44038	Kleblach-Lind	1	Mir sein müd und hab Durscht.
+no	44040	Obermillstatt	1	Müedeg sei ma u Duarscht homa.
+no	44054	Patergassen	1	Mir seind matsch u. hobar durscht.
+no	44056	Steuerberg	1	Mir sammer miad und dirschti.
+no	44109	Hermagor	1	Mia sama miad und hama durscht.
+no	44117	Bleiberg-Kreuth	1	Mar san mar müadig und hama an durscht.
+no	44124	Villach	1	Wir sein müad u. håbn en durscht.
+no	44142	Schiefling	1	Wir seint müd und hobn an durscht.
+no	44162	Suetschach	1	Mir sen mied u hun on durscht.
+no	44174	Sankt Salvator	1	Mir seimar miade und an durscht homar.
+no	44182	Heft	1	Mir seima müade u dürschte.
+no	44189	Schiefling	1	Mir seima matsch u houbna durscht.
+no	44196	Modriach	1	Mia san müa und hobn duscht.
+no	44200	Launegg	1	Mia san miad und daschtari.
+no	44234	Obermühlbach	1	Mir sänd miad und haben durst.
+no	44243	Hochfeistritz	1	Mir seima miada und homa an durscht.
+no	44248	Sankt Andrä	1	Wir sam ma müada u. houbma a an Durscht.
+no	44256	Glashütten	1	Mia san scha sou müad und an Duarscht hobnma a.
+no	44261	Sankt Peter im Sulmtal	1	Mir san müad u. Haben an durst.
+no	44295	Oberhaag	1	Mia semma miad un duschti.
+no	44303	Klagenfurt-Harbach	1	Mia seint miad und hambt an duascht.
+no	44308	Eberndorf	1	Mir san miad und ham durscht.
+no	44313	Lorenzenberg	1	Mia sama müada u. haben an Durst.
+no	44314	Sankt Margarethen	1	Mir seme mied u ham durscht.
+no	44320	Bad Eisenkappel	1	Mir seima müad u hombt durst.
+no	44333	Paldau	1	Mir san müad und durschti.
+no	44347	Hohenbrugg an der Raab	1	Wiar san müad und hobn duarscht.
+no	44358	Mogersdorf	1	Mia san miad und hom an Duscht.
+no	44371	Allerheiligen bei Wildon	1	Wia sind miad und dursti.
+no	44398	Leibnitz	1	Mia san mìat un ham an Duascht
+no	44414	Klöch	1	Wir sua miad und duasta.
+no	44425	Ratschendorf	1	Mia san müad u. habn an durscht.
+no	44433	Langegg	1	Mir san müad und hobn Durst.
+no	44439	Ebental (Polom)	1	Bir sheibm miadä und houbm Durscht
+no	44442	Steinwand (Podstenice)	1	Bir sseibm miüdü und houbm durscht.
+no	44445	Obergras (Trava)	1	Wiar scheibn miada un hubn Durscht.
+no	44447	Göttenitz (Gotenica)	1	Bir sheibn miädó ónd hòbn durscht
+no	44454	Nesseltal (Koprivnik)	1	Bir sheibn miado und duorschtig
+no	44461	Tiefenbach (Briga)	1	Bir sheibm miädä und hebm Durscht
+no	44465	Unterlag (Spodnji Log)	1	Biär sheibn miädä ünd hobn Dürscht
+no	44519	Wildensbuch	1	Mei sind müed und händ Duurst.
+no	44610	Wittenwil	1	Mer sind müad und hend Tuerscht.
+no	44685	Neukirch an der Thur	1	Mer send müd und händ torscht.
+no	44770	Mont-Tramelan	1	Mir sij müüd u hei Durscht.
+no	44771	Pieterlen	1	Mir si müed u hei Durscht.
+no	44796	Merzligen	1	Mir si müed u hei Durscht.
+no	44801	Gals	1	Mir si müed u häi Durscht.
+no	44832	Huggerwald	1	Mer si mied ond häi Durscht.
+no	44851	Ziefen	1	Mer si müed und häi Durscht.
+no	44858	Anwil	1	Mer si müed und hei Durscht.
+no	44888	Umiken	1	Mer sind müed und hand Turscht.
+no	44994	Gänsbrunnen	1	Mir sy mied und hey Durscht.
+no	45009	Oensingen	1	Mir si müed und hei Durscht.
+op	45022	Mühlethal	1	Wir sind müed und hand dorscht.
+op	45067	Meisterschwanden	1	Mer sind müed und händ durscht.
+op	45192	Mülchi	1	Mir si müed und hei Dursch.
+op	45195	Eigenthal	1	Mer send müed und hend Turscht.
+op	4521	Wollin	1	Wie sind müede un hebbn dörscht.
+op	4527	Rädel	1	Wi sind müede un hem dörscht.
+op	45279	Hildisrieden	1	Mer sind müed und hend Dorscht.
+op	45299	Willisau	1	Mer sind müed und hend Durscht.
+op	45312	Bleuen	1	Mir si müed u hei Durscht.
+op	45345	Dielsdorf	1	Mer sind müed und händ Durscht.
+op	45356	Unterwagenburg	1	Mer sind müed und hand Turscht.
+op	4539	Wildenbruch	1	Wie sind müede un hebben dörst.
+op	45474	Boden bei Fischenthal	1	Mir sind müed und händ Durscht.
+op	4549	Löwenbruch	1	Wei sin müäde un hebben dörscht.
+op	45492	Dicken bei Degersheim	1	Mer sind müed und hend Dorscht.
+op	45501	Bonstetten	1	Wi sind m+d und händ Turscht.
+op	45529	Riedikon	1	Mer sind müed und händ Turscht.
+op	4560	Deutsch Wusterhausen	1	Wei sin mude und hebben derscht. 
+op	45611	Feusisberg	1	Mir sind müed u. händ Durscht.
+op	45627	Starkenbach	1	Mer sind müäd und händ Torscht.
+op	45630	Risch	1	Mr sind müed und händ Durscht.
+op	45644	Reichenburg	1	Mir sind müed ü. händ Duerscht.
+op	45692	Süri	1	Mir sie müed u hei Turscht.
+op	45694	Courlevon	1	Miär si müäd un hei Durscht.
+op	45716	Brünisried	1	Wir si müed u hi durscht.
+op	45718	Ferpicloz	1	Mir si müed j hei Durscht.
+op	45722	Abländschen	1	Wi si müdi u hei Durscht.
+op	4573	Neu Golm	1	Wei sin müde un hebben durscht.
+op	45734	Dentenberg	1	Mir si müed u hei Durscht.
+op	45758	Mutten	1	Mir si müed u hé Turscht.
+op	45764	Oberfrittenbach	1	Mir si müed u hi Turscht.
+op	45784	Schüpfheim	1	Mier si müed uond hei Tuorscht.
+op	458	Wietrzno	1	Wai sinn mäur un hewwe däßt.
+op	4584	Hohenwalde	1	Mir seien mide un hebben durscht.
+op	45863	Gurzelen	1	Mir sy müed u hei Durscht.
+op	45878	Linden (Oberlangenegg)	1	Mir si müed u hi Durst.
+op	45891	Sörenberg	1	Mer si müed and hei Durscht.
+op	45892	Lungern	1	Miär sii afä miäd und es dirschted iis.
+op	4590	Kunice	1	Wai sin müde un hebben dorst.
+op	4595	Mierczany	1	Wir sin mide un hunn dorscht.
+op	45962	Entschwil	1	Wir si müed u hii Durscht.
+op	45980	Saxeten	1	Mier si(n) müed un hein Durscht.
+op	45992	Guttannen	1	meer syn meed und häin Turscht.
+op	46009	Ulrichen	1	Wier si miedi & hend Durst
+op	46017	Gersau	1	Mier sind müed und händ Durst
+op	46021	Illgau	1	Ma sind mued u hend Durst.
+op	46026	Engi	1	Mir sind müed und händ durscht.
+op	46027	Leuggelbach	1	Mer sind müed und heid Durscht.
+op	4603	Toporow	1	Bir sein müde u hoan durscht.
+op	46038	Linthal	1	Mir sind müäd und heid Durscht.
+op	46040	Engelberg	1	Miär sind miäd und hend Durscht.
+op	46045	Erstfeld	1	Mir sind mied und hend Durst
+op	46048	Valendas	1	Wia sind müed und hänt Durst.
+op	46050	Meierhof	1	Mier sind miad & haind durst.
+op	46051	Camana	1	Wär sind müäd und hend Roscht.
+op	46055	Nufenen	1	Wier sind müad und hent Durscht.
+op	46059	Fanas	1	Mär sind müed u hend durst.
+op	46070	Mathon	1	Mier sei mied und haba durscht.
+op	46071	Galtür	1	Mier seii müed und hoebn durst.
+op	46073	Felsberg	1	Miar sin müad & hän Turscht.
+op	46079	Fideris	1	Mer sind müed und händ turst.
+op	4608	Alt Stahnsdorf	1	Wei sin müede un hebben durscht.
+op	46083	Klosters	1	Mar sind müeht & heint Durscht
+op	46101	Wiesen	1	Wier sin müed & hân grusig durscht.
+op	46104	Am Bach	1	Miar sind müadt + händ durst.
+op	46115	Lauenen	1	Wir si müedi u hei Durscht.
+op	46118	Stiegelschwand	1	Wir si müedi u hu durscht.
+op	46119	Fieschertal	1	Wir siand miadi und heint Durscht.
+op	46127	Bitsch	1	Wier si miedi u hei Durscht.
+op	46129	Agarn	1	Wiär si miädi u hei Durscht.
+op	46132	Hasel	1	Wier sy miedi und hei Durscht.
+op	46142	Saas Grund	1	Wier si miedi und hei Durst.
+op	46143	Zwischbergen	1	Wiär si miädi und hei Durst.
+op	46145	Zermatt	1	Wiér sie miédi und hei Durscht
+op	-46146	Prettau (Predoi)	1	Wio san miede unt hobm Duscht.
+op	46157	Luttach (Lutago)	1	Wir san miade und hobn durscht.
+op	-46161	Hinterkirch (Graun)	1	Miar sein müad un houbm durscht.
+op	-46162	Rabenstein (Moos)	1	Mier sein miede und hobm durscht.
+op	46170	Tschöfs (Ceves)	1	Miar sein müat und hobn Durst.
+op	-46175	Pfunders (Fundres)	1	Miör sein müödü und dürstn tuit ins.
+op	-46181	Antholz (Anterselva Di Mezzo)	1	Mir san miad u houbn an durscht.
+op	-46195	Schabs (Sciaves)	1	Miar sein miade und obm Durscht.
+op	-46215	Pichl	1	Mir san miade un haum durscht.
+op	-46217	Burgeis (Burgusio)	1	Miar sein miad und hobn on neuz Därst.
+op	-46226	Kurzras (Corteraso)	1	Miar sein müad und hobm durscht.
+op	-46227	Katharinaberg (Santa Caterina)	1	Miar sein müad und hobn durst.
+op	-46234	Vernuer (Vernurio)	1	Mir sein müada und hobn Durst.
+op	-46262	Stilfs (Stelvio)	1	Miar sein mied un hobn durscht.
+op	46267	Laas (Lasa)	1	Mir sein müad und hobn durscht
+op	46283	Gargazon (Gargazzone)	1	Mier sein mied und hobn durscht.
+op	-46293	Sankt Peter Hinter Lajen (San Pietr	1	Mier san meiad u hobn Durst.
+op	-46305	Sankt Walburg (Santa Valburga)	1	Mier sain löts und hobm Durscht.
+op	-46319	Wangen (Vanga)	1	Miar sein gschuntn und habm Durst.
+op	46324	Laurein (Lauregno)	1	Wior sein mia unt durschti.
+op	-46340	Kaltern (Caldaro)	1	Miar sain müad und alm durscht.
+op	-46344	Deutschnofen (Nova Ponente)	1	Miar sain mia und homen Durscht.
+op	-46351	Altrei (Anterivo)	1	Miar sain müad und hobn Durst.
+op	-46353	Salurn (Salorno)	1	Mia sein müad und hobn durst.
+op	46361	Stefansdorf (Santo Stefano)	1	Miar san miadö unt obn durscht.
+op	46365	Lusern (Luserna)	1	Wiar sein müade on ham durst.
+pq	46367	Ljetzan (Giazza)	1	taràndr? zai? müǝ?de unt hɛ̀n dúršt.
+pq	46369	Lusern (Luserna)	1	zai̯n mǘdé unt hàbən ùmən dū́rst
+pq	46385	Nauders	1	Mir sein miad und hoba Durscht.
+pq	46386	Heiligkreuz	1	Mir sein müade u hobn Durt.
+pq	46391	Poppenbüll	1	Wi sind möd un dürstig (hebbe dörst).
+pq	46407	Dahrenwurth	1	Wi sünd möd un heb dös.
+pq	46420	Bergenhusen	1	Wi sind möd un sünd dösti.
+pq	46430	Owschlag	1	Wie sünd möd un hebbt dös.
+pq	46443	Holtsee	1	Wi sünd mö un hebb döss.
+pq	46459	Pries	1	Wi sünd möd un hebbt döyt.
+pq	46481	Stakendorf	1	Wi sünd möd un hebt dürst.
+pq	46492	Behrensdorf (Ostsee)	1	Wi sünd möh un hebbet döst.
+pq	465	Okunino	1	Wi sind meir u hewwä dersti.
+pq	46554	Sulsdorf	1	Wir sünd möh un heppt dös.
+pq	46570	Staberdorf	1	Wie sund mu(h) un distig.
+pq	46637	Alte Kirche	1	Wi sind möd un hebb'n dörst.
+pq	46652	Sollerupfeld	1	Wi sind möh un häm Doeß.
+pq	46666	Neuberend	1	Wi sind mö un hem döß.
+pq	46684	Zimmert	1	Wi sind möh un häbt döst.
+pq	46687	Damp	1	Wi sünd möh un hebbt döst.
+pq	46693	Westermarkelsdorf	1	Wie sünd mö unn hebb döß.
+pq	46784	Grossenwiehe	1	Wi sind möht un hem dörst.
+pq	46798	Estrup	1	Wi sind mö an hein döst.
+pq	46806	Wippendorf	1	Wie sind möd un heb'n döst.
+pq	46823	Maasholm	1	Wi sund mö un ham dörst.
+pq	46924	Beken (Bækken)	1	Wi sind mö un hemm dörst.
+pq	47139	Sandhatten	1	Wi sünd mou un hevt dorst.
+pq	47154	Adelheide	1	Wi sünd mör un hebbt doß.
+pq	47171	Dreye	1	Wi sünnt möe un heppt dörst.
+pq	47183	Allerdorf	1	Wi sünd möer un hebt döst.
+pq	47189	Heerenland	1	Wi si müedi u hei durscht. [u=o]
+pq	47203	Steenfelde	1	Wi bünt moei un hebben Döst.
+pq	47219	Lohe	1	Wie sünd mäue un hebbt dost.
+pq	47224	Burgfelde	1	Wi sünd mör un hebbt döß.
+pq	47235	Moorhausen	1	Wi sund möe un hept doß.
+pq	4727	Klein Glien	1	We sin müöde un hänn dorscht.
+pq	47370	Bardenfleth	1	Wi sund mö un hepps dorßt.
+pq	4738	Niederwerbig	1	Wei sin müäde un hähn dörscht.
+pq	474	Kramarzyny	1	Wie sind meid u hewwe däst.
+pq	47402	Mittelbauer	1	Wi sund möhe un hefft dost.
+pq	47422	Neuenbülstedt	1	We sünd möe un häpt döß.
+pq	47447	Neermoor	1	Wie sand möj un hemm'n dörst.
+pq	47455	Remels	1	Wi sunt möu un hebben Döst.
+pq	47463	Petersfeld	1	Wi sünd möje un hebt ok döß.
+pq	47470	Jaderbollenhagen	1	Wi sünn mö unn heppt dogst (?).
+pq	4749	Zülichendorf	1	Weig sin müede un hänn derscht.
+pq	47598	Offenwardenermoor	1	Wi sünd möe un hebt dost.
+pq	4761	Schöneweide	1	We sinn miede un hän derscht.
+pq	47612	Paddewisch	1	Wie sünd möh un hept dost.
+pq	47624	Ober-Ochtenhausen	1	We sünd möer un hebt döst.
+pq	47650	Cirkwehrum	1	Me send möht onn händ duesch.
+pq	47657	Westerende-Holzloog	1	Wi sünd möh un hebb'n döst.
+pq	47670	Wiesede	1	Wi sünt mö un hebt döst.
+pq	47677	Neustadtgödens	1	Wie sünd möh un hefft döst.
+pq	4770	Egsdorf	1	Wei sin miede un hähn derscht.
+pq	4776	Birkholz	1	Wir sinn miede un hebben Durscht.
+pq	478	Pradzonka	1	Wie sind mäud u häbe döst.
+pq	47840	Kükelühn	1	Wi sünd mö un hefft döst.
+pq	47861	Siggeneben	1	Mih sünd möd un hebb döß.
+pq	47863	Hedwigenkoog	1	Wi sünd meud un heb döst.
+pq	47885	Edemannswisch	1	Wi sünd mö und hebb döst.
+pq	4789	Briescht	1	Wir sin mide und hebben durscht.
+pq	47893	Oesterborstel	1	Wie sünd möd unn hebb döß.
+pq	47907	Hamweddel	1	Wi bünt mööd un hebbt däß.
+pq	47916	Warder	1	Wi sönd möd un hebt döß.
+pq	47935	Klein Barkau	1	Wi sünd möh un hebbt Däst.
+pq	47952	Mucheln	1	Wi sünd möh un häbb döst.
+pq	4800	Gross Briesen	1	Wir sin müde und hebben durst.
+pq	48096	Grömitz	1	Mir sind möi und hebbt döst.
+pq	48098	Friedrichskoog	1	Wi sünd möd un h’ewt Döß.
+pq	48105	Barlteraltendeich	1	Wi sund möd un hebl döß.
+pq	48115	Holstenniendorf	1	Wie sönd mö und dästi.
+pq	48126	Jahrsdorf	1	Wi sönd möh und hebt däß.
+pq	4813	Klopot	1	Wir sin miede un hoan durscht.
+pq	48141	Ehndorf	1	Wi sünd mööd un hefft döst.
+pq	48156	Gönnebek	1	Wi sünd mö un döstig.
+pq	48164	Wöbs	1	Wi sünnt mö und döstig.
+pq	48186	Süsel	1	Wie sünd möh un hebbt döß.
+pq	48233	Brunsbüttelerhafen	1	Wi sünd möd un hebbt Döß.
+pq	48239	Brokdorf	1	Wi sünd möd un hebbn döst.
+pq	4824	Radomicko	1	Merr sind müde und haben Durst.
+pq	48240	Spiekeroog	1	Wi sünd möj un hebbn dörst.
+pq	48242	Berensch	1	Wi sünd mög unn hebt döß.
+pq	48247	Altenbruch	1	Wi sünd mäh und höbt döst.
+pq	48282	Norderney	1	Wi sünd mö un haben dörst.
+pq	48283	Baltrum-Ostdorf	1	Wi sünd möh un hemm'n Dörst.
+pq	48302	Misselwarden	1	Wi sünd mö unn heppt döss.
+pq	4832	Radnica	1	Bir sein müde und hon durscht.
+pq	48324	Weissenmoor	1	Wie sönt mohg und hebt döscht.
+pq	48342	Itzendorf	1	Wi sünt mö un hemm'n dörst.
+pq	48356	Arle	1	Wie sünd möj un hebben Döst.
+pq	48368	Stedesdorf	1	Wi sünd möe un hebbn Döst.
+pq	48383	Wüppels	1	Wi sünd möh un heppt döst.
+pq	48392	Langwarden	1	Wie sund möh un heppt döst.
+pq	48401	Flögeln	1	Wie sünd mög un hebt dörst.
+pq	48477	Iffens	1	Wier si miedi und hei Durst.
+pq	48487	Blexen	1	Wie sünt mö un hebbt döst.
+pq	48497	Altluneberg	1	Wi sünd möh un hebt dast.
+pq	48507	Hönau-Lindorf	1	We sünd mö und hebt döst.
+pq	48516	Graal-Müritz	1	Wi sünd mäur und hemm döst.
+qr	48522	Rerik	1	Wieh sünd mäuhr und hemm'n döst.
+qr	48532	Brodhagen	1	Wie sünd mäur un hebben döst.
+qr	48550	Toitenwinkel	1	Wia süngt meur un hem'm döst.
+qr	486	Niedamowo	1	Wie sinn meid unn hewwe dörst.
+qr	48675	Strukdorf	1	Wie sünd mö und hebt dös.
+qr	48702	Sereetz	1	Wi sünd möh un hegt döß.
+qr	48716	Gross Voigtshagen	1	Wie sünd mäur um hebbt döst.
+qr	48726	Beckerwitz	1	Wi sünd neeuer und hem'm döst.
+qr	48738	Steinhausen	1	Wi sünd mäur un hemm döst.
+qr	48752	Berendshagen	1	Wi sund möer un hemm'n dößt.
+qr	48765	Wiendorf	1	Wie sünd mäuhr un hebbe döst.
+qr	48790	Rethwisch	1	Wi sünd möh un ok dößi.
+qr	48800	Lentföhrden	1	Wi sönd möd un hebbt därst.
+qr	48812	Todesfelde	1	Wie sünd möd un hebt döst.
+qr	49022	Kleinboden	1	Wi sünd mäuh un heft döst.
+qr	49043	Campow	1	Wie sünd möud und hebt döst.
+qr	49076	Nesow	1	Mi sünd mäur un hebt döst.
+qr	49090	Dalliendorf	1	Wie sünd meur un hebbn döst.
+qr	49108	Neuhof	1	Wie sünd müur un heben döst.
+qr	49122	Warnow	1	Wi sund mäur un hebbn döst.
+qr	49140	Güstrow	1	Wi sünd möhr un hebben döst.
+qr	49146	Drochtersen	1	Wie sünd möe unn hebbt döst.
+qr	49162	Gross Nordende	1	Wi sind mö und hebben dörst.
+qr	49176	Quickborn	1	Wi sünd möd und dösti.
+qr	49188	Jersbek	1	Wi sünd möh un hebt döst.
+qr	49311	Riekenbostel	1	Wi sünd moie un heft döst.
+qr	49322	Brochdorf	1	Wie sind möö un hebt döst.
+qr	49332	Bispingen	1	Wei sünd meug un hebbt döst.
+qr	49338	Wettenbostel	1	We sünd meid und hebt döst.
+qr	49348	Seedorf	1	Wi ßünd meuh un hewd döst.
+qr	49362	Stoetze	1	Wie ßünt meu'n und hemmt döst.
+qr	49498	Dannenberg (Elbe)	1	Wi sund med und hebben dörst.
+qr	495	Jaroszewy	1	Wie sind meid und hebe derscht.
+qr	4950	Palck	1	Bir sain mühd und hauhn durscht.
+qr	49509	Breetz	1	Wi senn mör un hewwen dörst.
+qr	49524	Laaslich	1	Wi sünd möör unn hände döst.
+qr	49534	Lübzow	1	Wih sünt möd und hebbn dörst.
+qr	49551	Buchholz	1	Wie sind möd un henim döst.
+qr	49562	Hetzwege	1	We sind möer und haft döst.
+qr	49569	Otter	1	Wie sünd mög und hebt döst.
+qr	49579	Ollsen	1	Wei sünd meug on hebt döst.
+qr	49587	Westergellersen	1	Wei sund meu un häht döst.
+qr	49605	Barskamp	1	Wie sünd möd und herft döst.
+qr	4965	Stare Kramsko	1	Wir sein müde und hon durst.
+qr	4968	Zodyn	1	Bier sain müde und huan durst.
+qr	49727	Wendhausen	1	Wi sünd mööd un hebbt döst.
+qr	49752	Jessenitz	1	Wie sünd müdr un hebben döst.
+qr	49767	Glaisin	1	Mie sühnd mäur und hemm'n dösst.
+qr	49778	Neese	1	M'r se miott un hann Durscht.
+qr	49794	Pampin	1	Wi sünd mäur un hebn döst.
+qr	4980	Tarnowa	1	Brr sain müd und hoan durscht.
+qr	49802	Grabow	1	Wie sünd möh'r un hem döst.
+qr	49813	Wangersen	1	We sünd meur un hept döst.
+qr	49821	Regesbostel	1	Weei sund mäu un heint düßt.
+qr	49828	Tötensen	1	Wie sünd meug ein hehn Döst.
+qr	49840	Lassrönne	1	Wie sünt mög und hebt Döst.
+qr	49857	Juliusburg	1	Wü sünd moihe unn hobt döst.
+qr	49881	Setzin	1	Wi sünd mäur un hewt döst.
+qr	49898	Neuhof	1	Wie sühnd meur un hewwen döst.
+qr	50010	Gresse	1	Wi sünd meur un hem'm döst.
+qr	50027	Moraas	1	Wie sund mäuer und hewwn döst.
+qr	50058	Paarsch	1	Wi sünd mäur un hebbn döst.
+qr	50068	Barkow	1	Wir sünd meuir un heg'n döst.
+qr	50073	Schwinge	1	Wi sünd mööd un hebt döst.
+qr	50087	Wisch	1	Wi sänd mö un hewt döß.
+qr	50117	Ottensen	1	Wi sönd mööd und (un) hewt döst.
+qr	50130	Willinghusen	1	Wi sünd mäud und hebbt dös.
+qr	50142	Basthorst	1	Wü sünd meuh un döstig.
+qr	503	Szpegawsk	1	Wi send meed un hebbe derscht.
+qr	5031	Lugow	1	Wir sein müd und hon durst.
+qr	50321	Lehmrade	1	Wüh sünd meuh un heb dörst.
+qr	50332	Drönnewitz	1	Wi sünd meur un hemm döst.
+qr	50343	Gross Rogahn	1	Wi sünd meur un heb'm döß.
+qr	50357	Kladow	1	Wie sünd mäuer und hemm döst.
+qr	50365	Hohen Pritz	1	Wie sünnd meur unn hebben döst.
+qr	50377	Jellen	1	Wie sünd mäuhr un hebn döst.
+qr	50385	Lübsee	1	Wi sünd mäud un hebben döst.
+qr	50471	Bellin	1	Wi sind möd unn hemmen döst.
+qr	50523	Retzow	1	Wi sünd meur un hewwen döß.
+qr	50538	Hohenbollentin	1	Wi sün mäud un hew'n dößt.
+qr	50552	Golchen	1	Wie sünd meut und hom döst.
+qr	5056	Biala Wies	1	Bier sain mied und huan dürst.
+qr	50567	Strippow	1	Mir sünd meur un hem döß.
+qr	50575	Rosenhagen	1	Wie sünd mäur unn häm'm döst.
+qr	50583	Siniechowo	1	Wie sint meurch on häim dürst.
+qr	50604	Drzewica	1	Wi sünd mäur ao hewwe döst.
+qr	50622	Lisowo	1	Wie sind möör un hebben döst.
+qr	50719	Lubin	1	Wie sünt möar u hefwa döst.
+qr	50765	Gross Ridsenow	1	Wi sünd meur un hebbn dost.
+qr	50779	Schlutow	1	Wie sünd mäur un hebbn döst.
+qr	50794	Seedorf	1	Wi sünd mäur un hem'm döst.
+qr	50805	Bentzin	1	Wie sünd meure un hem'm döst.
+qr	50818	Ranzin	1	Wie sünd meur un hem döst.
+qr	50830	Lassan	1	Wie sünd meur un hebbn döst.
+qr	50840	Sallenthin	1	Wi sünd mäur un hem'n döst.
+qr	50844	Miedzyzdroje	1	Wie sind möhr u hebbn döst.
+qr	50850	Sieroslaw	1	Wie sünd meur o hewä döst.
+qr	50872	Bedzieszewo	1	Wie sünd meuerg o hewwa döst.
+qr	50892	Skalin	1	Wi sint meut o heffe Döst.
+qr	5091	Boruja	1	Wir sem müd un hohn durst.
+rs	50973	Koserow	1	Wie sind meur un hewen döst.
+rs	50986	Trzesacz	1	Wi sünd mur o hewwi döst.
+rs	51	Baerwalde	1	Wi sünd möd u häwä döst.
+rs	51012	Hohen Wangelin	1	Wir sünd mäur unn hemm döst.
+rs	51030	Rittermannshagen	1	Wi sünd mäuhr un hebben döst.
+rs	51048	Tarnow	1	Wi sünd mäur un hebbn döst.
+rs	51065	Trollenhagen	1	Wi sünd möhd un hem döst.
+rs	51081	Brohm	1	Wi sünd möhr unn hem'n döst.
+rs	51089	Eichhof	1	Wi sünd mööd un hebn döst.
+rs	51098	Gegensee	1	Wi sinn möhd un hebben döst.
+rs	511	Krasniewo	1	Wie send möd on hewe derschd.
+rs	51101	Drogoradz	1	Wi sind möd unn hewwen döst.
+rs	51112	Budzien	1	Wie sind möd en hebm döst.
+rs	51123	Krzywice	1	Wie sinn meud uo hewweä döst.
+rs	51135	Plantikow	1	Wi sinn mäud un hewwn dorst.
+rs	51143	Kloster	1	Wi sünd meur un hem'm döst.
+rs	51146	Wiek	1	Wi sünd möur un hebb'n döst.
+rs	51162	Nardevitz	1	Wie sünd mäur un hebb'm döst.
+rs	51170	Zingst	1	Wi sünd mäud un heww'm Döst.
+rs	51173	Wendisch Langendorf	1	Wi sünd mäuhr un hebb'n Döst.
+rs	51179	Wüstenei	1	Wie sünd meur und hemmen döst.
+rs	51188	Saiser	1	Wie sünd meur un henim dößt.
+rs	51191	Ahrenshoop	1	Wie sünd mäur un heb'm döst.
+rs	5122	Gorzyca	1	Wir sind mide u habbn durst.
+rs	51232	Neu-Reddevitz	1	Wir sünd meur un hefiwen döst.
+rs	51243	Langendamm	1	Wie sünd mäur un hebbn döst.
+rs	51257	Redebas	1	Wir sünd mäur un hemm döst.
+rs	51267	Pütte	1	Wi sünd mäu'r un hem döst.
+rs	51277	Poseritz	1	Wie sünd mäur un hem'n döst.
+rs	51288	Thiessow	1	Wie sünd mäur un hem'n döst.
+rs	5130	Ransko	1	Wir sein mid und hon durst.
+rs	51346	Reppelin	1	Wie sünd möhr un hem'n döst.
+rs	51355	Kavelsdorf	1	Wie sünd mäur un hemm döst.
+rs	51370	Müggenwalde	1	Wi sünd mäur un hem'm döst.
+rs	51387	Steffenshagen	1	Wie sind mäur un hemm'n döst.
+rs	5139	Grudna	1	Wir sind müde und hoben durscht.
+rs	51397	Vierow	1	Wi sünd mäur un hem'm döst.
+rs	51409	Karlshagen	1	Wie sünd mäud un häbn döst.
+rs	5141	Brody	1	Wir sind müd und hoben durscht.
+rs	51413	Trzebusz	1	Wi sünd mäud o hewe döst.
+rs	51539	Kisserow	1	Wie sünd mäur un hemm döst.
+rs	51549	Federow	1	Wie sänd meur un hemm'n döst.
+rs	51561	Klein Vielen	1	Wi sünd mäuhr un hewet döst.
+rs	51571	Holldorf	1	Wi sünd möhr un hemm döst.
+rs	51584	Woldegk	1	Wi sünd möd un hem'm döst.
+rs	51598	Trebenow	1	Wie sünd möd un hem döst.
+rs	51611	Rossow	1	Wir sind möd o häm döst.
+rs	51624	Wawelnica	1	Wi sind möd un hebbn döst.
+rs	51637	Bergland	1	Wie sied mööd o hebbn Döst.
+rs	51646	Dabrowica	1	Wie sinn meud oh hewwe döst.
+rs	51661	Bobrowniki	1	Wi sinn meud un häwwa döst.
+rs	51805	Grabow	1	Mi sünd mäuhr un hem'n Döst.
+rs	51816	Lärz	1	Wi sünd möhr un hemm döst.
+rs	51832	Ahrensberg	1	Wie sünd möhr un hem'n döst.
+rs	51838	Hasselförde	1	Wi sünd möd un hemm döst.
+rs	51850	Buchenhain	1	Wi sind möd und hebben Döst.
+rs	51866	Röpersdorf	1	Wi sind möd un hebben döst.
+rs	51877	Grünz	1	Wi sind möd o hemm döst.
+rs	51893	Pargow (Pargowo)	1	Wi sind möd un hebbn döst.
+rs	51906	Zelislawiec	1	Wi sind mög un hemm'n dost.
+rs	51918	Slotnica	1	Wi sin möj u hewwa Dost.
+rs	51934	Zukowo	1	Wir sinn möh u hewa döst.
+rs	5203	Nekielka	1	Wie sin müd o hebä dost.
+rs	52064	Papenbruch	1	Mir sin möhg un hebbn dost.
+rs	52070	Wallitz	1	Wie sind möd un hem dost.
+rs	52079	Menz	1	Wie sind möhd und hebben Dorst.
+rs	52086	Barsdorf	1	Wi sünd möhr un hem döst.
+rs	52095	Petersdorf	1	Wie sind möd un hebbn döst.
+rs	5210	Skwierzyna	1	Wir sinn mide unn hom durscht.
+rs	52103	Flieth-Stegelitz	1	Wie sind mööd un hebbn dost.
+rs	52113	Passow	1	Wie sin möd un hebbn dost.
+rs	52129	Widuchowa	1	Wie sint möd un hebbn dorscht.
+rs	52139	Banie	1	Wie sind möd un hebben dörscht.
+rs	5214	Krobielewo	1	Wer send mide und hohn durscht.
+rs	52154	Obromino	1	Wir sinn möh oh heme dörst.
+rs	52169	Brzezina	1	Wi sind möj u hewwe dost.
+rs	52276	Bagicz	1	Wie sünd möehö beinah on/un hewn döst.
+rs	52278	Lasin Koszalinski	1	Wie sünd möhr unn hewwe döst.
+rs	52311	Sieciemin	1	Wir sind meir un hewe döst.
+rs	52349	Pomysk Wielki	1	Wir sind meid on hebbä derscht.
+rs	52359	Szymbark	1	Wie send meid o hebbe derscht.
+rs	52374	Szklana Gora	1	Wi sind meid und hebben dörscht.
+rs	52396	Skowarcz	1	Wie send möd onn hebbe derscht.
+rs	52428	Oberlakendorf (Solnica Górna)	1	Wi send med on hebbe derscht.
+rs	52440	Deep (Czajcze)	1	Wie sänd meir un hewa döst.
+rs	52463	Bialecino	1	Wie sind meir un häwwen döst.
+rs	52478	Bronowo	1	Wi sind meid und häwä dest.
+rs	52484	Reddies	1	Wie sind meid un hebba derst.
+rs	52567	Pasewark	1	Wie send med on hawen derscht.
+rs	52578	Bad Rügenwalde	1	Wie sind meihr un hewer dest.
+rs	5259	Prusim	1	Wir sind miede und hoben durst.
+rs	52600	Radoslaw	1	Wi sind meur un he hine döst.
+rs	52700	Losino	1	Wie send meid o hewwe dörst.
+rs	5271	Przyborowko	1	Bir sin müde und hoben Durscht.
+rs	52714	Labiszewo	1	Wie sind meid o heba descht.
+rs	52722	Karwen	1	Wie sind meid un hebbe derscht.
+rs	52755	Heubude (Stogi)	1	Wie send med on hewe derscht.
+rs	52762	Skowronki	1	Wi sent möd unn hewwen durscht.
+rs	52766	Rowy	1	Wie sind meid un hebba derscht.
+rs	52767	Machowinko	1	Wi sind meir un hewwe deast.
+st	5277	Gleboczek	1	Wi sin möd o hebbe dost.
+st	52816	Hela	1	Wie sind möd on hewwen dörscht.
+st	52819	Jaroslawiec	1	Wie sünd mäur un hewe döst.
+st	52825	Krolowstrand (Królewice)	1	Wi sind meir un hewwe döst.
+st	52854	Drzezewo	1	Wi sind meid un hewwe döscht.
+st	52865	Niebedzino	1	Wir send meid o hebbe derst.
+st	52871	Dabrowka Wielka	1	Wie send meid ah hebbe derscht.
+st	52881	Luzino	1	Wir sennt meid un habt durscht.
+st	52887	Pogorze	1	Wi send med und hawa darscht.
+st	52896	Bialogora	1	Wie sünd meud un haefan dörst.
+st	52905	Karwenbruch	1	Wie send med un heben durscht.
+st	5291	Gorki Noteckie	1	Wie sin möd un hebbn dorscht.
+st	52913	Wladyslawowo	1	Wi send med on häbe darscht.
+st	52915	Lebieniec	1	Wie send meid o habbe daerscht.
+st	52927	Zelazna	1	Wie sind meid on hewwa Därscht.
+st	52936	Tylowo	1	Wi sind meid un hebbah derscht.
+st	5305	Rapin	1	Wi sinn mehde unn hebben dorscht.
+st	5315	Pilka	1	Wi sen möde un hebbe dost.
+st	5316	Rzecin	1	Wie sin möd un hebo dost.
+st	532	Zulawka Sztumska	1	Wör send all ho mud un ho dorrstig.
+st	5322	Tarnowko	1	Wi sin möd oh hebbo döst.
+st	5374	Groß Golle (Golaszewo)	1	Wi sind müd o häbbe dost.
+st	5386	Lubicz	1	Wie sind mög o häbbe döst.
+st	5397	Slonow	1	Wie sinn möd o hebbe dorscht.
+st	5402	Huta Szklana	1	Wie sinn möüd unn hebbö döst.
+st	5409	Marienbusch	1	Wi sinn möid o häbba Dôst.
+st	5421	Ostrowki	1	Wie sin möd a häbe dost.
+st	54871	Neuarad (Aradu Nou)	1	Mie sein mud un hawe Doasche.
+st	54873	Bistritz (Bistriţa)	1	Mir sae māed ånd hu dūrscht.
+st	54878	Arzis (Artsyz)	1	Mir sen mid on hen dorscht.
+st	54897	Wolfswinkel (Wilczy Kat)	1	Wi send mejd o häbe dääst.
+st	549	Przecmino	1	Wie sün meur u häwe Dößt.
+st	54901	Zarobka	1	Wi sen möd o hebbe Dost
+st	54902	Brzozowka	1	Wi send med o häabe Däaß't.
+st	54906	Brzezno	1	Wi send mejd o haben daast.
+st	54909	Zbojenko	1	Wi send med o habe dast.
+st	5491	Brzezno	1	Mir sind müd o hebo Dost.
+st	54912	Siemiatkowo	1	Mir sei med un he duscht.
+st	54913	Sompolno	1	Mi sin müd u hebo döst.
+st	54914	Sächsisch Regen (Reghin)	1	Wer sei maid and hun durscht.
+st	54915	Elek (Elek)	1	Miar san miad unt hewä Tuarscht.
+st	54916	Freidorf bei Temeschwar	1	Mr sein miet un hun Dorst
+st	54917	Sarata (Sarata)	1	Mir sén mied on hén durschd.
+st	54918	Scheindorf (Sâi)	1	Mier send mi|ed und hand Durscht.
+st	54919	Fünfkirchen	1	Mi sain mid un ham duest.
+st	54921	Iklad	1	Mir szama miat unt homa an Turscht.
+st	54922	Sanktanna (Sântana)	1	Mir sen mit und sen tarstich.
+st	54924	Martinsdorf (Metiş)	1	Mer se mät e̊nt hun durscht.
+st	54926	Bentschek (Bencecu De Sus)	1	Mir sein mid un hawe Torscht
+st	54929	Agnetheln (Agnita)	1	Mer se mad end hun Durscht.
+st	54930	Gottlob	1	Mir sin mid un han Durscht
+st	54932	Klein-Schemlak (Semlacu Mic)	1	Mír seḭ mied ŭn hŭn Dorscht
+st	54933	Sankt Andreas (Sânandrei)	1	Mir sin mied un han Dorscht.
+st	54935	Neuwerbas (Novi Vrbas)	1	Mer sin nut un han tarst.
+st	54937	Groß Scham/Freudenthal (Jamu Mare)	1	Mir sin mid un han Dorscht.
+st	54938	Torschau (Savino Selo)	1	Mer sin mid un han torsd.
+st	54939	Weprowatz (Kruščić)	1	Mir sin mid un hen tåṛst
+st	54941	Neue Weingärten (-)	1	Mir sen midt on hen Dorscht.
+st	54942	Seimeny (-)	1	Mr se̽nn mied on he̽nn Dorscht.
+st	54943	Neubeschenowa (Dudeştii Noi)	1	Mr sen mid än han Dörscht.
+st	-55055	Oborki	1	Wi send mehd o haebe Daest.
+st	-55064	Zale	1	Wie send med ok have Dost.
+st	-55066	Zuromin	1	Wir sind müde u heben Durst.
+st	-55070	Grudusk	1	Wir sind müde und durstig.
+st	-55072	Ostroleka	1	Wir sind müde und haben durscht.
+st	-55081	Ciechocinek	1	Wi send möd o send dastg.
+st	-55091	Skepe	1	We send med ok habe Dast.
+st	55094	Gradzanowo Koscielne	1	Wi send med o hawe Dest.
+st	-55096	Modelka	1	Wi send med on habe Darst.
+st	-55099	Makow Mazowiecki	1	Wie sin mied und babo dast.
+st	55106	Susk	1	Wi send med o habe dast.
+st	-55107	Zawidz Koscielny	1	Wi send med ok dastich.
+st	55109	Kondrajec Szlachecki	1	Wi sand meed and have dast.
+st	-55110	Kicin	1	Wie send mööd on habä döast.
+st	55111	Szostka	1	Wir sind müde und haben Durst.
+st	-55113	Kujawka	1	Mer sin mied und hun Dorscht.
+st	55116	Osiek	1	Wi sent med o hebe Dest.
+st	-55117	Nowe Karwosieki	1	Wehe sen med ohas dastet.
+st	-55129	Lenie Male	1	Wie send mejd o hebe daßt.
+st	-55133	Meczenino	1	Wie sent meed un habi Dorst.
+st	-55135	Dzierzaznia	1	Wir sind mied un haben Dorscht.
+st	-55137	Konary	1	Wi send meed o habe dast.
+st	-55139	Kozy	1	Wi sin möd ü hebbe Döst.
+st	55140	Zglowiaczka	1	Mir sen miad on hen Durscht.
+st	55163	Grabkowo	1	Wi sind mied o habo dost.
+st	-55164	Wieslawice	1	Wie bew müd ok hav Dast.
+st	-55166	Budy Borowickie	1	Wie send meed oh hebbe Deßt.
+st	-55169	Orszymowo	1	Wi send mejd o hebe Deest.
+st	-55171	Nowy Dwór Mazowiecki	1	Wi senn meed on habe Dast.
+st	-55173	Kozie Glowy	1	Bir sinn mid und hoin Durscht.
+st	-55177	Brdow	1	Mia sana moid und hoama durscht.
+st	-55181	Psary	1	Wie sinn möd on hebbe Dost.
+st	-55187	Nowa Wies	1	Wie sennt med o hebe Deast.
+st	-55189	Miszory	1	Wi send meed on hebbe Dast.
+st	5519	Berka v.d. Hainich	1	Mu sond möde on honn darst.
+st	-55191	Secymin Polski	1	We sent med o hobe dast.
+st	55210	Niechcianow	1	Wir sind mied udn haben Durst.
+st	-55216	Kaptury	1	Wi send mejd o habe Dast.
+st	-55218	Stare Miasto	1	Wir sind mied und hobn Durscht.
+st	-55226	Tarnowka	1	Wir seint mide und haben Durscht.
+tu	-55238	Zychlin	1	Wir sein mide und haben Durscht.
+tu	-55240	Kopojno	1	Wir sind mied u haben Durst.
+tu	55244	Natalia	1	Wir sind mide und haben Durscht.
+tu	55252	Potrzaskow	1	Wir sind müde und han durst.
+tu	-55254	Szamow	1	Mir sin mid und hen Durscht.
+tu	-55258	Wierzchy	1	Wir sin mid un hon durscht.
+tu	-55261	Gadowskie Holendry	1	Wir sind miede und hobn Durscht.
+tu	-55262	Turek	1	Wie sind müde u heben durst.
+tu	-55266	Sarbice	1	Wi sind med und häbbe Dost.
+tu	-55269	Zimne	1	Wi sein meet o habe dost.
+tu	-55270	Leczyca	1	Mehr sinn mid un hunn dorscht.
+tu	55271	Piatek	1	Mejr sin müd und hen Torscht.
+tu	-55300	Goliszew	1	Mir sind müd un hemmer Durscht.
+tu	55305	Poroze	1	Bier sain mied und huon Durscht.
+tu	-55306	Rzymsko	1	Wir sind miede u haben Durscht.
+tu	-55308	Baldrzychow	1	Wir sind müd u haben Durst.
+tu	55320	Sanie	1	Bir sein mied u. ham Doscht.
+tu	-55322	Marianow	1	Wir sind müde u. es durstet uns.
+tu	-55326	Jozefow	1	Bie sin mied und hobn Durscht.
+tu	55330	Morawki	1	Mi san med und san durstre.
+tu	-55331	Rzepiszew	1	Wie sind mide und haben durscht.
+tu	-55338	Justynow	1	Mir sin mid un haben Durscht.
+tu	-55344	Slomkow Suchy	1	Mie hama maid und hama Duast.
+tu	-55349	Markowka	1	Mia sind mide und haben Descht.
+tu	-55350	Rzgow	1	Mee sin mid un hun Dorscht.
+tu	-55354	Laznowska Wola	1	Wir sind (ver)mied und habn Dorscht. 
+tu	-55359	Kiebitztal (Kuznica)	1	Mir samer müd u haben Durscht.
+tu	-55360	Ostrow	1	Wir sind müde und dursten so sehr.
+tu	-55361	Wielka Wies	1	Wir sind müde u sind durstig.
+tu	-55362	Suchcice	1	Uns schlü fjets u duscht.
+tu	-55363	Siemkowice	1	Mir sind mud und henn durscht.
+tu	-55365	Dobroslaw	1	Wir sind mid u uns durstet.
+tu	-55366	Belchatów	1	Wir sind miede und haben Dorscht.
+tu	-55373	Luszczanowice	1	Wir haben Durst und sind müde.
+tu	-55375	Ozarow	1	Wir sind müde und haben durst.
+tu	-55376	Jaworzno	1	Mir hamer müet und homer Durscht.
+tu	-55377	Natolin	1	Wir sein mide und hon Durscht.
+tu	-55382	Czarny Las	1	Mir sind müd und hon torscht.
+tu	-55383	Huta Stara A	1	Mier sein mied und hon derscht.
+tu	55384	Myszkow	1	Wir sind müde und haben Durst.
+tu	55387	Dabrowa Gornicza	1	Mir sind müde u. durstig.
+tu	-55389	Kwaczala	1	Mir sin mied un sin dorschtrich.
+tu	-55394	Freistadt (Fryštát)	1	Wir sind müde u durstig.
+tu	-55408	Bistritz (Bystrice Nad Olsí)	1	Wir sind müde und haben Durst.
+tu	-55411	Radziechowy	1	Mir han müd una han dursten.
+tu	-55415	Skomlin	1	Wir sind mied u haben durscht.
+tu	-55416	Kamesznica	1	M'r sen mied un hann Durscht.
+tu	-55418	Schönwalde (Wrzosy)	1	Wie send med o hebe dest.
+tu	-55425	Wyszewo	1	Wie sinn mör unn hewe Dest.
+tu	-55522	Nojewo	1	Wir sind sehr müde und haben großen durst.
+tu	5717	Illeben	1	Me sin miede on han dorscht.
+tu	573	Lykowo	1	Wi sünd meur o hewwn döst.
+tu	5730	Gebesee	1	Mi sinn miëde, o haonn Dorscht.
+tu	5752	Thalborn	1	Wir sen miede on hann dorscht.
+tu	5774	Nirmsdorf	1	Mr hun miede on hon dorscht.
+tu	5810	Crölpa-Löbschütz	1	Merr sinn müde unn hunn dorscht.
+tu	5827	Krössuln	1	Mr sin miede un hun darscht.
+tu	584	Dunowo	1	Wi sinn möd oa häwa döest.
+tu	5863	Michelwitz	1	Mer sin miede mer han dorscht.
+tu	5867	Hollenbach	1	Mie sinn miede un han dorst.
+tu	5875	Schlotheim	1	Wir sin müde und hahn durst.
+tu	6074	Obertopfstedt	1	Me sinn mäide unn hann Dorscht.
+tu	6089	Etzleben	1	Meh sei mede un han dorscht.
+tu	6105	Allerstedt	1	Mir sinn miede un hunn dorscht.
+tu	6116	Gleina	1	Wir sinn mide un hun dorscht.
+tu	6129	Kleinkayna/Kleinkaina	1	Mir sin mide und habn dorscht.
+tu	6168	Rehbach	1	Wir sin miede und haben duest.
+tu	6171	Mengelrode	1	Me sinn miede un han dost.
+tu	6185	Kirchworbis	1	Mir sei mide un han dorscht.
+tu	6196	Grosswenden	1	Wie sin miede un hann dorscht.
+tu	6341	Auleben	1	Me sinn miede unn hahn dorscht.
+tu	6359	Hackpfüffel	1	Wi sinn mide un hahn dorscht.
+tu	6371	Mittelhausen	1	Mir sinn miede unn han dorscht.
+tu	6388	Stedten	1	Mr sin mide un han durscht.
+tu	6400	Ammendorf	1	Mir sin mide un han dorscht.
+tu	6418	Glesien	1	Wir sin mide un han dorscht.
+tu	6426	Zwinge	1	Wir sind mäuh un hewet dost.
+tu	6472	Stolberg (Harz)	1	Mie sin müde un han durst.
+tu	6577	Walkenried	1	Mie sinn mide un han dorscht.
+tu	6593	Königerode	1	Me sinn meede un ham dorschd.
+tu	6610	Vatterode	1	Mr sin mide un han durscht.
+tu	6630	Freist	1	Wir sind midi un han dorst.
+tu	6656	Drehlitz	1	Mer sin mide un han Dorscht.
+tu	6660	Möst	1	M'r sen mied un hann Durscht.
+tu	6682	Ramsin	1	Mr sinn mide unn hann dorscht.
+tu	6690	Braunlage	1	Mei sind meude un hem dorscht.
+tu	6705	Rieder	1	Wei sin meue un hewwn dorscht.
+tu	6793	Riefensbeek	1	Wie ßind mai'e un hewwet dost.
+tu	6801	Neuwerk	1	Wei sind meuhe und hemm dorscht.
+tu	6821	Aschersleben	1	Wei sin meude un han dorst.
+tu	6831	Gröna	1	M'r sinn mide un hann dorscht.
+tu	6848	Elsdorf	1	Wir sinn mide und hann dorscht.
+tu	688	Pregowo Zulawskie	1	Wie send möd on hewe derscht.
+tu	6891	Danstedt	1	Wei sind mäue un het döst.
+tu	6960	Abbenrode	1	Wei sind meue un het Dorss.
+tu	6981	Emersleben	1	Wei sünd meuhe un heit dörst.
+tu	6995	Egeln	1	Wei sin meue un häbben Dorscht.
+tu	7007	Eickendorf	1	Wei sin meude un hebben Dorscht.
+tu	7022	Kämeritz	1	Wei sin müede un hän Dorst.
+tu	7033	Natho	1	Wä sin müere un hän dorscht.
+uv	7180	Liemehna	1	Wir sian miede unn hamm dorscht.
+uv	7198	Röcknitz	1	Mr sinn miede onn hann dorscht.
+uv	7212	Lausa	1	Miär sinn mide un hann Durscht.
+uv	7225	Kosilenzien	1	Bär sein müde und honn dorscht.
+uv	7246	Kahla	1	Mir sin müde un han durscht.
+uv	7253	Ruhland	1	Wir sind miede und haben dorscht.
+uv	7263	Lauta	1	Wir sind müde und haben durscht.
+uv	7363	Brösa	1	Mer sin müde un han Dorscht.
+uv	7371	Falkenberg	1	Mir sin mide un han dorscht.
+uv	7384	Rosenfeld	1	Mer sin mide un han dorst.
+uv	7394	Wiederau	1	Mär sinn mide un hon dorscht.
+uv	74	Gwiezdzin	1	Wi sind moid u hebbe dööst.
+uv	7412	Lugau	1	Wir sin mide un hon durscht.
+uv	7427	Dollenchen	1	Wir sinn müde und hobben durst.
+uv	743	Rudki	1	Wie sinn möd u hebba Döst.
+uv	7435	Petershain/Neupetershain	1	Wir sind müde und hoben durst.
+uv	748	Budy	1	Wi sinn müid u hebbe döst.
+uv	7529	Schleesen	1	Wir sin müde un han dorscht.
+uv	7546	Bleddin	1	Mr sin miede un han dorscht.
+uv	7562	Klossa	1	Wir sinn mide un honn dorscht.
+uv	7576	Werchau	1	Wie sinn miede unn hoan dorscht.
+uv	7586	Wendisch Drehna/Walddrehna	1	Wei sin müde un hon derst.
+uv	7596	Schlabendorf	1	Wir sin müde u hon durscht.
+uv	760	Zakrzewo	1	Wi sünd sen moid u hebbn grosn döst.
+uv	7688	Straach	1	We sinn müde un hän Dörst (scht).
+uv	769	Nowy Dwor	1	Wia sünd meud uh heb dösta.
+uv	7696	Rahnsdorf	1	We sin mide un hann Dorscht.
+uv	7710	Rohrbeck	1	Wai sin schlaprig un hän derscht.
+uv	7721	Wahlsdorf	1	Wei sin müede un hebben dörscht.
+uv	7732	Hohendorf	1	Wei sin müede un hon dörscht.
+uv	7747	Treppendorf	1	Wir sin mide und hean durscht.
+uv	7758	Sacrow	1	Wir sin miede und hon durscht.
+uv	7964	Zedtlitz	1	Mr sinn müde un hunn durst.
+uv	7979	Hohnbach	1	Mir sin müde un hun durscht.
+uv	80004	Grindelwald	1	Mier syn miet und hein Durst.
+uv	80023	Bosco	1	Wir siw miad und hew duršt.
+uv	8011	Ziegra	1	Mer sinn müde un hoan durscht.
+uv	803	Lunawy Male	1	Wi sünt möd o hebbä döst.
+uv	8032	Rausslitz	1	Mähr sinn mide unn hoam durscht.
+uv	8055	Coswig	1	Mer sin mide und han duost.
+uv	8075	Langebrück	1	Mur sein müde und honn durscht.
+uv	8092	Frankenthal	1	Wer sein müdr u han dorscht.
+uv	821	Bukowiec	1	Wi send mäd'o hebbe derscht.
+uv	8272	Fuchshain	1	Mr sein miade un haan durscht. 
+uv	8289	Nerchau	1	Mer sin miede un hem durschd.
+uv	83	Charzykowy	1	Wi sind moid u häbbn döst.
+uv	8305	Limbach	1	Mir sin mide un hon durscht.
+uv	8321	Mergendorf	1	Mer sin mide un ham durschd.
+uv	8345	Rostig	1	Meer sein müde uns ham durscht.
+uv	8358	Steinborn	1	Mir sein mied und hon durscht.
+uv	8368	Bernbruch	1	Wir sein müde und hon dorscht.
+uv	8505	Dretschen	1	Mir sein müde und hoam durscht.
+uv	8519	Kittlitz	1	Mier sein müde und hen durscht.
+uv	8532	Kunnerwitz	1	Mer sein miede u hon durscht.
+uv	8546	Siekierczyn	1	Mier sein miede und hoam Durscht.
+uv	8560	Wolbromow	1	Wirr sein mihd an hoan durscht.
+uv	8574	Pieszkow	1	Mrr sänn müde und honn durst.
+uv	8590	Prusice	1	Mier sein müode und honn dueschd.
+uv	8614	Ogonowice	1	Mer seia müde und houhn durst.
+uv	8716	Förstgen	1	Wir sind müde u haben durscht.
+uv	8726	Ober Horka I	1	Bier sein müde und hoan durscht.
+uv	8736	Wegliniec	1	Wir sein mide und hom durscht.
+uv	8740	Kierzno	1	Mir sein müde u hoan durst.
+uv	8751	Szczytnica	1	Mir sein müde und hon durst.
+uv	8762	Göllschau (Goliszów)	1	Mir sein müde und hon durscht.
+uv	8777	Bieniowice	1	Mir senn müde und hon Durscht.
+uv	880	Strzeczona	1	Wi sünd müd o hebbn döst.
+uv	8852	Klein Priebus	1	Ber sein miede und honn durscht.
+uv	8858	Okraglica	1	Wir sein mide und hoan durscht.
+uv	8865	Koberbrunn	1	Berr sähn müde und hohn durst.
+uv	8870	Armadebrunn (Studzianka)	1	Wir sehn miede und hoan durscht.
+uv	8878	Trzmielow	1	Wir seiin müd und huan durscht.
+uv	8888	Skladowice	1	Ber sehn müde und huon durst.
+uv	895	Jelencz	1	Wi sind moid u häbn doagt.
+uv	8972	Cantdorf	1	Mer sein med on han Durscht.
+uv	8981	Eichwege	1	Wir sein müde u hoben durscht.
+uv	899	Iwiec	1	Wir sünt meud uh hebn döjsta.
+uv	8990	Jedrzychowice	1	Wir sind mude und hoahn durst.
+uv	9000	Kunzendorf (Kunice)	1	Mir sein mide und hoan durscht.
+uv	9015	Chichy	1	Ber senn mide und hoan durscht.
+uv	9025	Przeclaw	1	B'r sean miade und hoan durscht.
+uv	9036	Jakubow	1	Ber senn mied und hoan durscht.
+uv	9052	Rzeczyca	1	Ber sche müd und huan durst.
+uv	906	Busnia	1	Wie send möd on hebbe derscht.
+uv	9143	Mehlen	1	Mer sind miede und honn Dorscht.
+uv	9152	Dluzek	1	Wir sein miede und hon durscht.
+uv	9163	Bialowice	1	Bier sein miede un hogn durscht.
+uv	9179	Broniszow	1	Berr senn mied und huon durscht.
+uv	9193	Alt Tschau (Stare Żabno)	1	Beer senn mide und huan durscht.
+uv	920	Lisie Katy	1	Wie senn möd un hewwe derscht.
+uv	9200	Grochowice	1	Beier senn müde und huan durst.
+uv	9207	Konradowo	1	Bär sen müd und huan durscht.
+uv	9274	Staakow	1	Wir sin müde un hoaben durscht.
+uv	9280	Kaltenborn	1	Miär sin mide und huon dorscht.
+uv	9288	Czeklin	1	Wir sein müde und hon durscht.
+uv	930	Goczalki	1	Wir sint mid on hoben dorscht.
+uv	9303	Lubiatow	1	Bier sain mide und hoam durst.
+uv	9314	Zielona Gora	1	Ber sein miede und hon durscht.
+uv	9323	Zabor	1	Bēr sind müde und houn Durscht. 
+uv	9335	Ciosaniec	1	Beir sein müd und huan durscht.
+vw	9400	Miloszyce	1	Wir sein müde und hoaben durst.
+vw	9417	Prietzen	1	Bir sein mide und hoan durscht.
+vw	9433	Ujazd Gorny	1	Mr sein müde und ham durscht.
+vw	9453	Lisowice	1	Ber senn mede und hoan derscht.
+vw	9558	Ligota Piekna	1	Bair senn mide un hoahn durscht.
+vw	9579	Jenkowice	1	Bier sem mide und hom durst.
+vw	9592	Jemielna	1	Wir senn müde und hobn durst.
+vw	9612	Prawikow	1	Beir seen müde und hoan durscht.
+vw	9622	Warzyna	1	Beir senn müde und hoan durscht.
+vw	9717	Domanowice	1	Beire senn müde und hoan durst.
+vw	9739	Kamien	1	Wir sind müde und heben durst.
+vw	9760	Krzelow	1	Wr sen müde und hoan durst.
+vw	9775	Staszowice	1	Beir säin müde und huan durst.
+vw	9799	Lazy Wielkie	1	Mir seen müde und hoan durscht.
+vw	983	Gromaden	1	Wie sün möd u häwä döst.
+vw	984	Friedberg	1	Wi sunn moid ou habbä döst.
+vw	9848	Godnowa	1	Beir seän und hoan durscht.
+vw	9877	Chroscina	1	Bäo sen müd und huan durscht.
+vw	9891	Gosciejewice	1	Wir sin müde un hun durscht.
+vw	99	Trumiejki	1	Wi sönd möd onn hebbe derscht.
+vw	990	Walownica	1	Wi se möd o hebbe döst.
+vw	9903	Sonnenfeld (Orpischewo)	1	Beier seen miede und huon durscht.
+vw	9919	Wierzowice Male	1	Beir senn müde und hon durscht.
+vw	9926	Wodniki	1	Beer senn müde und hoan durst.
+vw	994	Kabat	1	Wie send möd o häbe döst.
+vw	9984	Morkowo	1	Berr sehn müd und huon durst.
+vw	54872	Reval	1	Wir ssind mǖde untaben Turst.
+vw	52353	NA	1	Wie sind meid oh häbbe dorscht.
+vw	30173	Ajoncourt	2	Jotan lés et jon sen.
+vw	30197	Vaxy	2	Je sons lâse et j'ons sô.
+vw	30214	Bénestroff	2	Je sonst las et j'on dô.
+vw	30225	Attilloncourt	2	Je son lase etjon so.
+vw	30248	Bezange-La-Petite	2	Je son folé et j'on soe.
+vw	30254	Maizières-Lès-Vic	2	Je son folé et j'on sa.
+vw	30268	Richeval	2	Je sons hodai et j'ons sa.
+vw	30285	Lommerange	2	J'eton hatigoi et j'avons seu.
+vw	30314	Argancy	2	J'attan hâaddés et j'évan seu.
+vw	30325	Vernéville	2	Jatan hodee et j'évans sen.
+vw	30351	Ancy-Sur-Moselle	2	J’otan hodet et j’évan seu
+vw	30361	Orny	2	J atteus hodé j'eveus seu.
+vw	30374	Hémilly	2	J'aten hadeu, et j'aven seu.
+vw	30379	Champenay	2	Je son hoda a jon sa.
+vw	30410	La Petite Lièpvre	2	J atteus hodé j'evan seu.
+vw	30421	Montreux-Vieux	2	Nos sont dos, aipeu nos ain soit.
+vw	30429	Xhoffraix	2	 Nos estans nai hi et nos avans seuf.
+vw	30436	Pont	2	J'atan hadé è j'évan seu.
+vw	30058	Karkelbeck	3	Mes eſam pailſe ir turim Troſzkuli.
+vw	30068	Kinten	3	Més ēsam pailsę ir turim Troszkuli.
+vw	30078	Rudienen	3	Mes esme pailſe ir iſztroſzke.
+vw	30083	Kolleschen (Kolletzischken)	3	Mes eſam pawargei ir turrim Troſzte.
+vw	-54895	Warszawa	10	 senə mīd in mīər habm dos
+vw	9746	Kobyla Gora	10	Wir ſind müüd und darſt üns.
+vw	46572	Nebel	11	Wi san træt and ha Tharst.
+vw	46636	Hooge	11	Wi sean traed ean häj wea taerst.
+vw	46640	Wobbenbüll	11	Wie sen traadt un heet Torst.
+vw	46699	Horsbüll	11	Wie ſenn trart en heve Tahſt.
+vw	46759	Oland	11	Wi sen troet en heef Torst.
+vw	46773	Mönkebüll	11	We ſen thrat en hewe Thorſt.
+vw	46888	Archsum	11	Wü sen träät en haa Töst.
+vw	47862	Helgoland	11	We sĕ̀n mḗ ĕ́n hṑ to=è˘}s(t).
+vw	48241	Wangerooge	11	Wie ſind möd’ und hebbet Turſt.
+vw	F002p	Hindeloopen	11	Wie binne wurg en (wie) hewwe tòòast.
+vw	B079p	Zurich	11	Hwy binne wirdich in habbe toast.
+vw	F036p	Oudemirdum	11	Wij bĭ̀nə wŭ̀rg en hĕ̀bə tó̱ast.
+vw	F003p	Woudsend	11	We binne wùrch en hebbe tôâst.
+vw	B084p	Wommels	11	We bin wirch en hawwe toarst
+vw	F013c	Oudehaske	11	We binne wurrig en he toast.
+vw	B094p	Grou	11	Ʋεj bɩn(ə) ʋörχ εn ha(ʋə) to'əst.
+vw	B024b	Wijns	11	Wei bɪnə wʌrəch en wei habə toəst
+vw	B099a	Opeinde	11	Wy binne warrich en hawwe toarst.
+vw	B035a	Zwagerbosch	11	Wy binne warruch en hawwe toast.
+vw	B014p	Paesens	11	Wy bin ynein en ha toast.
+vw	G001b	Appelscha	11	Wij bin warrig en haw[??]tōst
+vw	46905	Westre	12	Wie er trät aah hen döʃt.
+vw	46914	Sophiental	12	Wier trot og her töʃt.
+vw	46932	Sonderburg (Sønderborg)	12	Wi e trēt o he Töʃt.
+vw	46938	Lysabbelholz (Lysabildskov)	12	Wi ä troit o ä töʃte.
+vw	46939	Toftum	12	Vvi o' trott aa o' töʃte.
+vw	46948	Hönning (Hønning)	12	Wi ær tröt ar[?] töʃte.
+vw	46957	Beftoft (Bevtoft)	12	Wi er trot aa ho törʃt.
+vw	46968	Norder Wilstrup (Nørre Vilstrup)	12	Vi o trot aa töeʃte.
+vw	47006	List	12	Wi er trät ŏ har Töʃt.
+vw	47007	Jerpstedt (Hjerpsted)	12	Wi er trot aa er töʃte.
+vw	47016	Ellum	12	Wi er baade trot aa töʃte.
+vw	47029	Kassöe/Kassö (Kassø)	12	Vi er tröt eg töʃte.
+vw	47040	Feldstedtholz (Feldstedskov)	12	Vi od troet od hon töʃt.
+vw	47048	Hagenberg (Havnbjerg)	12	Mi ä tret a töʃste.
+vw	47052	Hellwitt (Helved)	12	Wi er treet og er töʃte.
+vw	47057	Kamptrup (Kamtrup)	12	Wi er trot og er töʃte.
+vw	47066	Grönnebeck/Grönnebek (Grønnebæk)	12	Wi or baad trot aa töʃte.
+vw	47073	Tyrstrup	12	Wi o trot aa töʃste.
+vw	47078	Hvidding (Hviding)	12	Vi er trot aa har Tör∫t.
+vw	56471	Merzdorf	41	Mü ßmü muzne a lazne.
+vw	56504	Burg	41	My ssmy mucźne a mamy lacźnosż.
+vw	56507	Nochten	41	My ßmy sprózni a nam ze ßo picź.
+vw	56520	Luppa	41	Smy mučni a chce so nam pić.
+vw	56694	Widno	42	Mẏ są ustali ẏ chce sę ... [?].
+vw	56784	Zelistrzewo	42	Me jesmi medech, a nom się chce pic.
+vw	56785	Jastarnia	42	Me jesmö mėdöch anom so che pic.
+vw	56799	Zalakowo	42	My jesmy umęszony i chce nama się pic.
+wx	56805	Sianowska Huta	42	my yesmi umanszoni i pragnoszi.
+wx	56814	Rebiechowo	42	Ma jesma med a nama sę chce pic.
+wx	56846	Piechowice	42	Ma sosma umańcony i móma pragnienie.
+wx	53478	Rombark	43	My jestesmy z pracowani i mamy pragnią.
+wx	53489	Rytel	43	Jestesmy z męczeni i mamy pragnienie.
+wx	53514	Lubocien	43	My są uturbowani i mamy pragnienie-
+wx	53521	Kamionka	43	My jestesmy zmęczeni i mamy pragnienie.
+wx	53535	Orzelek	43	Sąsmy sturtowani i mamy pragniąszkię.
+wx	53538	Szyroslaw	43	Jestesmy z meczeni i mamy pragnienie.
+wx	53545	Pisanica	43	My icstemy utrucone i chce nam się pić.
+wx	53567	Glinki	43	Jestesmy zmęczoni i mamy pragnienie.
+wx	53571	Gruczno	43	Mysmy są znurzeni i mamy pragnienie.
+wx	53581	Slawianowo	43	Są zesmy znuzeni i mamy pragnienie.
+wx	53602	Zoledowo	43	Jestesmy znuzem i mamy pragnienie.
+wx	53616	Wrocki	43	Jestesmy staby i pic nam sie chce
+wx	53620	Morzewo	43	Jestesmy zmęczeni i chce się nam pić.
+wx	53656	Bartosze	43	My z pracowane i mamy pragniącke.
+wx	53663	Kraplewo	43	Jestesmy zmęczeni i pragnienie mamy.
+wx	53708	Pokrzydowo	43	Jestesmy zmęczeni i mamy pragnienie.
+wx	53710	Boleszyn	43	Jestesmy zmęszoni i mamy pragnienie.
+wx	53721	Nowy Swiat	43	Mysmy sie zmeczyli i mamy pragnienie-
+wx	53745	Wapno	43	My zem zmęczeni i mamy pragnienie.
+wx	53756	Mamlicz	43	Jestesmy znusem u mamy pragnienie.
+wx	53760	Rojewo	43	Jestesmy trudzeni i spragnieni.
+wx	53771	Wiatrowo	43	My jestesmy zmęczeni i chce się nam pić .
+wx	53819	Galezewo	43	Jestesmy zmeszoni i mamy pragnienie.
+wx	53822	Lojewo	43	Jestesmy smęczeni mamy pragnienie.
+wx	53834	Bielawy	43	Jestesmy znuzeni i mamy pragnienie.
+wx	53859	Chludowo	43	Jestesmy znuzeni e mamy pragnienie.
+wx	53872	Strzyzewo Koscielne	43	Jesteśmy zmęczeni i spragnieni.
+wx	53877	Kamieniec	43	Jestesmy zmęczeni chce nam się pić.
+wx	55537	Ceradz Koscielny	43	Jéstes my strudzeni i chce nam się pić.
+wx	55565	Poznan	43	My sumy zmę szuni I chce num się pić.
+wx	55569	Lowecin	43	Jestesmy strudzeni i mamy pragnienie.
+wx	55586	Mierzewo	43	Jestes’my zmęczeni i mamy pragnienie.
+wx	55592	Dabrowka Wielkopolska	43	My są trudni nam się chce pić.
+wx	55593	Slupia	43	Jestes’my zmuzeni i momy [Rest fehlt]
+wx	55621	Babin	43	Jestesmy zmęczeni i mamy pragnienie.
+wx	55635	Tadeuszowo	43	Jestesmy zmęczony i pragnieie féz mamy.
+wx	55646	Gorazdowo	43	Jestesmy zmęczeni i pić nam się chce.
+wx	55656	Sierakowo	43	Strudzeni jesłesmy I masny pragnies cie.
+wx	55688	Turew	43	Jestes’my strudzeni i chce się nam pić.
+wx	55701	Ludwinow	43	My są zmecdzeni i mamy pragnienie.
+wx	55702	Radomierz	43	Mysą trudni i chce nam zig pić.
+wx	55720	Kotlin	43	Elly jezdezmy zmięczoni i chce nam się pić.
+wx	55725	Gorzno	43	Zmę czytis my się, i chce nam się pić.
+wx	55729	Drzeczewo Pierwsze	43	Jestesmy struzeni i mamy pragnienie.
+wx	55733	Rusko	43	Jestesmy znuzeni i mamy pragnieie
+wx	55741	Brzezie	43	Jestesmy zmęczeni i mamy pragnienie.
+wx	55782	Torzeniec	43	Jestesmy zmęczeni i mamy pragnienie.
+wx	55794	Kuznica Slupska	43	Jestesmy studzeni i mamy pragnienie.
+wx	55803	Kuklinow	43	Jestesmy z męczeni omamy pragnieie
+wx	55828	Pomocno	43	Jestesmy zmęczeni i mamy przyniemę
+wx	55848	Uciechow	43	Słabismy i mamy pragnienie.
+wx	55855	Przygodziczki	43	My są zmęczeni i mamy pragnienie.
+wx	55859	Kaliszkowice Kaliskie	43	Jestesmy strudzeni i mamy pragnienie.
+wx	55878	Trebaczow	43	My są stabi i chce nom sie pić.
+wx	55894	Greboszow	43	Som my mdle a momy pragnionika.
+wx	55900	Pawlowice Gorzowskie	43	My sa stabi i chce na sie pić.
+wx	55940	Skoraszewice	43	My zm[?]li i chce nam się pić.
+wx	55947	Kwiatkow	43	Zmę czytismy się, i chce nam się pić.
+wx	55991	Zabrze	43	My są słabi, i chce nom sie pić.
+wx	56013	Radoszowy	43	Są my stabi i chce nom sie pić.
+wx	56022	Budziska	43	Sa my stabi i chce nom sie pić.
+wx	56027	Stanica	43	My sa stabi a piyli bych my.
+wx	56041	Murcki	43	My są stabi i chce non sie pić.
+wx	56053	Wilkow	43	My są stabi a chce ną sie pić.
+wx	56069	Dobieszowice	43	My są stabi, a chce ną sie pić.
+wx	56077	Ujazd	43	My są stabi i chce nam sie pić.
+wx	56086	Rzeczyce	43	My som stabi i mamy pragnienie.
+wx	56167	Staniszcze Male	43	My są stabi i chce nom sie pić.
+wx	56190	Ligota Proszkowska	43	My są stabi i chce ną sie pić.
+wx	56205	Radonia	43	My są stabi i mamy pragnienie.
+wx	56237	Kotorz Wielki	43	My są stabi a chce nom się pić.
+wx	56247	Pawonkow	43	My są stabi a mamy pragnienie.
+wx	56252	Cieszowa	43	My są zmanconi i momy pragniącka.
+wx	56257	Zieliniec	43	Mysmy są stabi a ną sie chce pić.
+wx	56269	Debiniec	43	M?ęch my son sjabi a momy gjod.
+wx	56274	Wedrynia	43	My są staby i na sie chce pić.
+wx	56338	Frydek	43	My są sƚabi i chce mam sie pic.
+wx	56349	Pielgrzymowice	43	My są stabi, i chce sie ną pio.
+wx	56375	Nieboczowy	43	My som stabi i mamy pragnienie.
+wx	56381	Swierklany Dolne	43	My są staby a chce sie nom pić.
+wx	56539	Gieralcice	43	Sprarowani my i pragnieny.
+wx	56549	Borki Wielkie	43	Mysmy są z trudzeni i mamy pragnienie.
+wx	56576	Kamien Slaski	43	Jestesmy stabi a chce nam się  pić.
+wx	56580	Strzelce Opolskie	43	Sachny stabi i pragniemy.
+wx	56600	Tarnowskie Góry	43	Jestesmy stabi i mamy pragnienie.
+wx	56650	Bujaków	43	My są stabi i chce nam się pić.
+wx	56681	Suszec	43	My są stabi a chce nom się pić.
+wx	56761	Mgowo	43	My sę męszone i mamy pragnienie.
+wx	56850	Lekarty	43	My są zmenozoni i nom chce się pić.
+wx	56861	Lewald Wielki	43	My zmordowane i mawa pragniączkie.
+wx	56870	Januszkowo	43	My jestewa zemglałe i mawa pragniacke.
+wx	56877	Zimna Woda	43	My zemgleli i mamy pragnoncke.
+wx	56884	Roklas	43	My so zmęcone i chce sie nam spać.
+wx	56897	Lipowiec	43	Mi so zmenoone i mami pragnocke.
+wx	56903	Zawojki	43	Mi so utrudzone i pizs nam se chce.
+wx	56916	Slawka Mala	43	My szu ztrubowane i pic nam sie chce.
+wx	56953	Baranowo	43	My so stabe, to mamy pragniencke.
+xy	56956	Macice	43	My so z prawwani i mamy pragnioncke.
+xy	56963	Narzym	43	Zmordowany i pić się nam chcé.
+xy	56966	Napierki	43	Mi sem gleli i piz nanea sie chcze.
+xy	56975	Mierki	43	My wszyscy zesłabieli i chce się nam pić.
+xy	56979	Butryny	43	Zmeczylym się i mamy pranacke.
+xy	56994	Jerutki	43	Myso stabei mamy pragnocke.
+xy	57047	Nowy Dwor	43	My jestesmy utradzeni i pragniemy pić.
+xy	57066	Wysoki Grad	43	My sa z turbowane i pic się nam chce.
+xy	57070	Pogobie Srednie	43	My so utrudzone i nam chcze się pić.
+xy	57074	Lipnicken (Lipniki)	43	Mi so utrudzone i mami pragnionzke.
+xy	-57081	Klebark Wielki	43	Jestesmy z fatygonani imamy pragnienie.
+xy	57106	Rybno	43	My sa umecone i mamy pragniaozke.
+xy	57168	Saplaty	43	My sie zmordowaly i sie nam chce picz.
+xy	57181	Krutyn	43	Mi umenkone i sche pić nam sche chze.
+xy	57183	Zdory	43	Ostabielym i pić nam się chce.
+xy	57186	Ruda	43	My jestamy zmordowane i mamy pragnioncke.
+xy	57191	Dybowo	43	Mym zemglelim i się nam chce pić.
+xy	57203	Dlugosze	43	My icstęmi umecone i nam się pić chce.
+xy	57219	Sulimy	43	My się umięcili i nam się pić chce.
+xy	57232	Wejdyki	43	Jostemy z turbowane i się nam chcze pić.
+xy	57258	Wilkasy	43	My jestemy zmęczane i mamy pragniąckie.
+xy	57275	Czerwonka	43	My sę zmordowane i mowa pragnionczke.
+xy	57298	Zastruzne	43	My so umordowani i mamy taknienie.
+xy	57304	Skomack Wielki	43	My zemdlely i pragniacke mamy.
+xy	57318	Kile	43	My jestemy spraczowanie i mamy pragniączkie.
+xy	57321	Prawdziska	43	Mi iest uchodzone i mami pragnoska.
+xy	57340	Mosina	43	My są zmenczoni (unleserlich) i chce nom siępić.  
+xy	57348	Bnin	43	Jesteśmy zmęczeni i pić nom (nam) się chce.
+xy	57379	Binkowo	43	My som zmęczoni i chce nom się pić.
+xy	57381	Kolniczki	43	My samy stabi i cmumy pragnieie
+xy	57394	Januszkowo	43	Zmę czytim się, i chce nom się pić.
+xy	57406	Dabrowka Ludomska	43	My są m z męnczoni i chce nom sie pić.
+xy	57407	Wiecanowo	43	My się zmęszytun i momy pragnienie.
+xy	57397	NA	43	my jezdma zine i muma pragniema
+xy	55528	Słone	44	Komu tu novou novinu vypravoval?
+xy	56290	Groß Hoschütz (Velke Hostice)	44	My sme su unaweni, a mame dursst.
+xy	56344	Ellgoth-Hultschin (Ostrava-Lhotka)	44	Musj se hlasem křičet, jinak by nas nesrozuměl.
+xy	44317	Zell-Pfarre	45	Mi smo trud-n in mamo žejo.
+xy	I125a	Heille	100	Wə zun mŏĕg en en dost
+xy	I140p	Axel	100	Me ben moeg en m ên'dost
+xy	I103p	Cadzand	100	Me zien moeg in me-n-èn groâten dust. 
+xy	I110a	Slijkplaat	100	We zien mô en w 'en dust
+xy	I095p	Hoedekenskerke	100	me bin moe en è dost
+xy	I101p	Krabbendijke	100	Me bin moeë en eën dost
+xy	I058p	Westkapelle	100	mə bĭ̀n moeə ĕ̀n mĕ̀ dŏ̀st
+xy	I062a	Serooskerke	100	me bene moei en mebbe ne dorst
+xy	I048p	Colijnsplaat	100	m'n bin mu̱wə en m'nā døst
+xy	I055p	Sint Annaland	100	Me bin moei in e* dorst
+xy	K173a	Kruisland	100	Wij zijn moettj en w'emme doeust
+xy	K155p	Zevenbergen	100	Wə zijn moĕi en webbə daŏst
+xy	K162a	Oosteind	100	Wə zen mŏĕj en ebbə dorst.
+xy	I032p	Burgh-Haamstede	100	me binne moei in me dost
+xy	I031a	Scharendijke	100	We bin moe in w'è dost
+xy	I023p	Dirksland	100	m'n ninne moe in m'n hao dorst
+xy	K086p	Zuid-Beijerland	100	we zaijn moe en he'n dorst
+xy	K093p	'S-Gravendeel	100	Wə zijn moe en hebbə dɔrst.
+xy	K101a	Nieuwendijk	100	Wij zijn muj* en we hebbe dorst
+xy	I008p	Rockanje	100	We binne moe in hebbe dorst
+xy	K042a	Vlaardingen	100	me benne moe en ebbe dorst.
+xy	K012p	Ouderkerk Aan den Ijssel	100	We zijn moe en hebbe dorst
+xy	K022p	Willige Langerak	100	We binnen moei en emmen dorst
+xy	D005p	Den Haag	100	Wə zèn mui̯ en hebə dors
+xy	E179p	Zwammerdam	100	We benne moe en hebbe dorst
+xy	E181p	Zegveld	100	Wij zijn moe ĕ̀n hĕ̀bbə dŏ̀rst
+xy	E133p	Katwijk Aan Zee	100	oewə bĕ̀nə moe ĕ̀n wə hĕ̀bə dŏ̀rst
+xy	E138b	Abbenes	100	We benne moei en hebbe dorst.
+xy	E147a	De Kwakel	100	We zijn moe en hebbe dorst.
+xy	E080a	Velsen	100	Wij sijn moe en hebbe dorst
+xy	E086p	Zaandam	100	We benne loof en hêwe do̱rst
+xy	E041p	Egmond Aan Zee	100	We benne moe en êwe dorst
+xy	E047a	Stompetoren	100	We benne lōf en we hewwe dŏrst
+xy	E010p	Sint Maarten	100	We benne louf in hewwe dŏrst.
+xy	E005p	Westerland	100	We binne loavig en we hêwe dorst.
+xy	A009p	De Waal	100	We benne mo^ed en we hebbe dorst.
+xy	K218p	Bladel	100	We zen muujg en hebben dorst.
+xy	K214p	Lage Mierde	100	Wij zijn muug en hebben dorst
+xy	K165p	Udenhout	100	Wellie zĕn muug en we hebbe dorst
+xy	K104a	Herwijnen	100	We zijn muu en hèbbe dorst
+xy	K035p	Hei-En Boeicop	100	We zijn moei en hebben dorst
+xy	E192p	Utrecht	100	We zijn ( binne) moei en hebbe dors.
+xy	E124p	Ankeveen	100	Wij zijn 't zat en wij hebbe dorst
+xy	E091p	Monnickendam	100	wei sein (moe, loof) en hèbə dorst
+xy	E058p	Hoorn	100	We sijn moei en hebbe dorsh.
+xy	E031a	Oostwoud	100	Wə bĭ̀nnə louf ĕ̀n hĕ̀bbə dorst.
+xy	E003a	Den Oever	100	we binne loavig en hewwe dorst
+xy	Q095p	Maastricht	100	Veer zien meuj en höbbe door[ ]
+xy	L281p	Borkel	100	We zen múg en hebben dorst
+xy	L226p	Woensel	100	Wə zijn muujg en hen dṑrst
+xy	L177c	Middelrode	100	We zèn muug en hen dòrst
+xy	L093p	Lith	100	Wə zijn muŭj en hen dṑrst
+xy	L003p	Maurik	100	wə zεin myi εn hεbə dɔrs
+xy	F165p	Amersfoort	100	We bin mø.j en hḕn dŭ̀rst.
+xy	F121p	Bunschoten-Spakenburg	100	wie binnen meuj en hen dorst
+xy	E040a	Venhuizen	100	We benne louf en hewwe dorst
+xy	E040p	Enkhuizen	100	we binne loof en ewwe dorst
+xy	A001p	Midsland	100	Wij hen mo͡ed en hebben dost. 
+xy	Q102p	Sint Antoniusbank	100	ver zīn mēūch en höbbe dōōrsch
+xy	L318p	Stramproy	100	Wait zeen meuch en hebbə dost.
+xy	L288b	Laar	100	Vê zḗn meug ĕ̀n höbbə dŏ̀rst
+xy	L237p	Helmond	100	Wij zing muug en hebben dōrst.
+yz	L157a	Oventje	100	Wee zeeng muj en hebben dorst.
+yz	L102p	Ravenstein	100	wə zên müi̯ ən hebə dorst
+yz	L010p	Wageningen	100	Wə zin myw en hebə dôs
+yz	F170p	Barneveld	100	Wullie bin meu en hen dorst.
+yz	F124p	Putten	100	wie (wuulie) bin moe en hen dȯrst
+yz	F077p	Urk	100	We binnen love, in èwen dorst
+yz	B046a	Minnertsga	100	Wij binne wirch en wij hewwe toarst.
+yz	L290p	Panningen	100	Wə zīn mœgən hegə dorst
+yz	L211p	Leunen	100	We zien müj en hebbe dɔ̄rst
+yz	L116p	Beek	100	weĕj siĕn muŭj en hebbə dorst
+yz	L023p	Arnhem	100	Wə sin muūj en hebbə dors
+yz	F173p	Hoenderloo	100	Wi zin meu en hen dörs.
+yz	F128p	Vierhouten	100	We bin meuj en we hem durst (dorst)
+yz	F102p	Oldebroek	100	Wie bint moe en hebt dörst
+yz	F079p	Ens	100	Wij binnen meu en ebben dorst.
+yz	F052p	Kuinre	100	Wij bin meudə en eb'n dórst
+yz	B002p	Nes	100	Wij binne môêd en hêvve dost
+yz	F207p	Drempt	100	wie bunt muu en hebt dos
+yz	F179p	Zutphen	100	Wie bint meu en hep dost.
+yz	F132p	Diepenveen	100	Wie bint meu en hebt dost.
+yz	F106p	Windesheim	100	wie bint muu en 'eb dorst
+yz	F086p	Rouveen	100	wì'j bint mȫ èn hèbt dörst
+yz	F060p	Steenwijk	100	Wïj bin'n meu en hebb'n dust.
+yz	F021p	Oldeberkoop	100	Wi-j bin mu en hebben dust.
+yz	G279a	Zieuwent	100	wĕĕj bunt mēū en heb dos
+yz	G246p	Lochem	100	wie bint mø: ɛn hɛpt dɔs (hɛbdɔs)
+yz	G197p	Holten	100	Vie zeent meu èn vie hèbt dùs
+yz	G139a	Arriën	100	wie bint muh en wie ebt dóss
+yz	G091d	Linde	100	wij bint mûû en hebt slim dorst
+yz	G024p	Dwingeloo	100	Wi'j bint muj en hebt dŭst
+yz	C145p	Zevenhuizen	100	Wij binn'n muude en hebb'n durst.
+yz	C063p	Oldehove	100	we binnen muide en hemmen dörst
+yz	C023a	Hornhuizen	100	Wie bīnnen meude en hīm'm dūrst
+yz	G257p	Haaksbergen	100	wie bunt meu en hebt dös
+yz	G173p	Almelo	100	Wiej zint meu en hebt dös
+yz	G094p	Gramsbergen	100	wi'j bint muu en hebt döst
+yz	G031p	Orvelte	100	Wij bint muuj en hebt dust
+yz	G007p	Rolde	100	Wij sint mùie en hebt dùst
+yz	C148a	Glimmen	100	Wai bĭnn'n mu̱i ĕ̀n hèm'n dŭ̀rst (dörst)
+yz	C070a	Sint Annen	100	Wie bin muide en hebn deurst.
+yz	C001b	'T Lage Van De Weg	100	wie binn'n muid en hemm'n dörst
+yz	G079a	Amsterdamscheveld	100	we binnen mu en hebbən dörst.
+yz	G058p	Emmen	100	Weei zint mue en hebt dörst.
+yz	G012a	Nieuw-Buinen	100	wie binn' n mui (muide) in (h)ebb'n dörst
+yz	C156p	Muntendam	100	Wie binn muide en ebm deurst.
+yz	C081p	Weiwerd	100	Wie bin'n muide en (h)èb'n dò̈rst.
+yz	C042p	Spijk	100	Wie ben'n muit en hem'm dörst
+yz	C165p	Bellingwolde	100	Wie bin'n mui en hem'm döst, döstig
+yz	G285p	Meddo	100	Wi-j bunt meu en hebt dôrs.
+yz	K189p	Essen	100	Me zem moej em emme dŭist
+yz	P133a	Terlanen	100	Me zen muë en memme dest
+yz	K191p	Meerle	100	We zijn muug en we hemmen dörst
+yz	K234p	Wechelderzande	100	wə ze̞n my:j e̞n he̞bə dəst
+yz	K305p	Olen	100	Wə zè mu:g ən wə hèmmən döst.
+yz	P025p	Aarschot	100	mǝzē̜n mÿx ē̜me̩mǝ dø̜st
+yz	P154p	Outgaarden	100	wə zẹn möü æüw[?]mə dö̜st.
+yz	K196p	Poppel	100	We zÿn muug en we hebbe dorst.
+yz	K241p	Retie	100	mə zän tə mȳg ä me̜mən dȫst
+yz	K314a	Gompel	100	wə zē̜ mȳx, ɛen w ɛemən do̜st.
+yz	P047p	Loksbergen	100	We zèn mūj en hemme deŭst
+yz	P174p	Velm	100	We zen muu en w' höbbe dost.
+yz	L353p	Eksel	100	We zien muug en we hemmen dorst
+yz	Q001p	Zonhoven	100	viə zē̜ə mȳx en viə hẹbən dȯrst (dọst)
+yz	Q079p	Guigoven	100	və zen my̜y en hø̜bə dọu̯s.
+yz	L360p	Bree	100	vɛˑ zɛˑn meˑg en və hɛbə dɔrst.
+yz	L417p	As	100	Wèr zeen meeg, en we hebbe dorst
+yz	Q253p	Montzen	100	Vǝr zön mö èn vǝr hant dowosj.
+yz	O009p	Gottem	100	Me zyn moe en m' hèn dust.
+yz	O182p	Volkegem	100	Me zin moe en m' 'èn dust.
+yz	I163p	Oosteeklo	100	ə zɛjmə mu ɛn ə̃ æmə dø̜st
+yz	I243p	Destelbergen	100	We zÿme moe in w' hemme du-erst
+yz	O112p	Elene	100	Ge zij me moe i g'heime (we hebben) dust.
+yz	I261p	Appels	100	We zei me moe en w' emmen duist
+yz	O149p	Iddergem	100	wɛzɛmujənwəməndaest.
+yz	O275p	Herne	100	W(/M)ǝzęimȳęnwęmǝndøst.
+yz	I178p	Beveren	100	We zÿ moei en w' ein deust.
+yz	I268a	Kalfort	100	wǝ zȩn mȳχ ȩn wẹmǝ döst
+yz	O178a	Molenbeek-Saint-Jean	100	Me zein meug en m èmme deust
+yz	P198p	Sint-Genesius-Rode	100	we zen meu en w'emme döst.
+yz	55045/H051p	Wulpen	100	məzĩ: muə: wɛ æmæn dø̜st.
+yz	55005/N024p	Westvleteren	100	mə zĩn my æ̃ mæ̃ dø̜st
+yz	N116p	Loker	100	mə zĩ mu ɛ̃ mɛ̃ do̜st
+yz	H016p	Oostende	100	mə zin mu æm æn døst
+yz	55036/H061p	Koekelare	100	mə zĩ muə wæmændøst.
+yz	55022	Houthulst	100	Me zien moee en m'en dust.
+yz	N130p	Wervik	100	Me zien moe en ui ain ders
+yz	H005p	Uitkerke	100	Me (We) zien moee en m' (h)en dust
+yz	55044/H068p	Loppem	100	mə zi:n mu: æn mɛ:n dø̜st.
+yz	N041p	Pittem	100	mə zin mu ä̃ mē̜n dø̜st.
+yz	55023/N141p	Kortrijk	100	mə zin mu än mē̜n døs.
+yz	K245p	Deurne	100	Wə zen muug en webbə dəst.
+yz	K332p	Onze-Lieve-Vrouw-Waver	100	Me zén muug èn mémme döst.
+yz	P018p	Kampenhout	100	We zen muug en w emme deust.
+yz	47114	Aarö (Årø)	12	Vi o trot aa töeʃte.
+yz	56462	Babow	41	Mü ßmü muzne a mamü waznosćź.
+yz	53549	Zon	43	Jesteśmy strudzeni i mamy pragnienie.
+yz	53561	Myslowice	43	My są słabi i mamy pragnienie.
+yz	43859	Schachendorf	46	Trudni smo i žedni.

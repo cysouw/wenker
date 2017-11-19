@@ -1,0 +1,2499 @@
+Index	Bogennummer	REDE_Namen	Sprache	WS19::Transliteration WS19
+ab	10029	Ringhuscheid	1	wän hat mär me-i Kuoarv moat Fleesch gestoallen.
+ab	10044	Malberg	1	Wehn hat mir mengn Koorf mat Fleesch gestohelen.
+ab	1009	Nowy Klukom	1	Weim hät mi miena Korf mät Flesch stohla?
+ab	1018	Lasko K Choszczna	1	Wem hett mir miena Korf miet Flesch stohla?
+ab	10215	Pantenburg	1	Wer hoat mir me Korw mat Fleesch gestollen?
+ab	1023	Golin	1	Wähe het mi mine Kof mit Fleesch stahle?
+ab	10230	Beuren	1	Bär hat mer meune Korf mot Fläsch gestohle?
+ab	10259	Mörsdorf	1	Bäa hot mer meu Korf meth Flasch gestohl.
+ab	10275	Badenhard	1	Wer hot mer meine Kor(e)b met Flaisch gestohl?
+ab	1029	Niekursko	1	weim het mi mino Kor? met Flesch staualo?
+ab	10300	Welterod	1	Wer hott m'r mein Korb mett Flaasch keschtohle?
+ab	10315	Bleidenstadt	1	Wer hat mir mein Korb met Flaasch gestohle?
+ab	10335	Espeler	1	wän hat mirr mengn Kuorf met Fleesch gestuolle?
+ab	1035	Stobno	1	Weim hä mie mino Kof met Flesch stauhalo.
+ab	10351	Brandscheid	1	Wen hout mir mengen Korv mat Fleesch jestoulen.
+ab	10368	Büdesheim	1	Wäm haot m'r minge Korf maot Fleesch gestoïllen?
+ab	10381	Waldkönigen	1	Wähn hât mr me-ine Korf môt Flehsch jestolle?
+ab	1050	Krostkowo	1	We hät mi mene Kof mit Flesch staule.
+ab	10584	Kalenborn	1	Ber had mer meunen Korw met Fleisch gestollen?
+ab	10601	Gappenach	1	Ber hot mer meine Korf met Flasch gestolle.
+ab	10621	Rhens	1	Wer hot mir meine Korf met Fleisch gestohle?
+ab	10649	Attenhausen	1	Wär hott ma mein Korb met Flasch gestohle?
+ab	10663	Heringen	1	Wer hot mer mein Korb met Flasch gestohle?
+ab	10690	Honsfeld	1	Wenn hat mer mingen Korf met Flesch jestollen?
+ab	10697	Dahlem	1	We hätt mir menge Korf met Flesch gestolle?
+ab	10709	Aremberg	1	Wer hat mer mengen Korf mot Fleisch gestohlen.
+ab	10736	Hohenleimbach	1	Bär hatt mr meine Korf met Flösch gestolle?
+ab	10857	Hatzfeld (Eder)	1	Wär hett mär mein Korb mit Fläsch gestohln.
+ab	10974	Haindorf	1	Bähr had mäi min Kuhrb med Fleisch gestoll'n?
+ab	110	Rozpedziny	1	Wer hät mi mine Korf met Flesch stohle?
+ab	11132	Schwarzwald	1	Wâr heât miâ min Koârb met Fläsch gestolln?
+ab	11149	Wipfra	1	Wäer hat mir minn Korb mett Fleesch gemuhst.
+ab	11180	Remda	1	Wâr hat mer mein'n Korb met Flesch gestoll'n?
+ab	11197	Zeutsch	1	War hot mir min Korb mit Flesch gestuhln?
+ab	11212	Breitenhain	1	War hat mer män Korb met Flä(?)sch gestuhl'n?
+ab	11230	Burkersdorf	1	Waer hot mir mein'n Korb mit Flesch gestuhl'n?
+ab	11252	Seelingstädt	1	War hut mer meinen Kurb mit Flesch gestuhln?
+ab	11262	Seebach	1	Bähr hätt mehi min Korb met Fleisch gemust.
+ab	1133	Debenke	1	Wähä hät mi mine Kov mit Flesch stauhlä.
+ab	1139	Gliszcz	1	Wä hätt mi miean Koof mit Fleasch staulä.
+ab	11467	Boilstädt	1	Wär hätt mieh minn Korb mätt Fleisch gestohlen.
+ab	11485	Ingersleben	1	War hät mi Korb mät Fleisch g'stolln?
+ab	1150	Czarze	1	Wee het min Kip met Flesch stohle.
+ab	11515	Gutendorf	1	War hat da mir'n Korb met'n Flesche gemaußt.
+ab	11539	Kleinschwabhausen	1	War hat mir meinen Korb mätt Fleesch jemaust?
+ab	11568	Thalbürgel	1	Wär hat mer meinen Korb met Flèsch gestuhlen.
+ab	1157	Bielczyny	1	Wer hat mir mei' Korb mit Flaisch g'stohla?
+ab	11586	Bad Köstritz	1	War hot mr mein Kurb mit Flesch gestuhln?
+ab	11607	Lumpzig	1	War hott m'r mein Korb mit Fleesch gestulln?
+ab	1162	Sierakowo	1	Wähe hett mi mine Karw möt Flösch stoahle?
+ab	11645	Gleismuthhausen	1	War hot ma mein Kurb mit Fläsch geschtueln?
+ab	11673	Mitwitz	1	Wee hot mie mein Korb mit Flasch g'stuhln.
+ab	11763	Aub	1	Bar hat nur mein Kurb mit Fläsch gschtuln.
+ab	1178	Sokoliniec	1	Weim hät mi mina Kof mit Flesch stola?
+ab	11805	Seidmannsdorf	1	War hot m'r mein Karb mit Fleesch g'stua'hl'n?
+ab	11825	Wallenfels	1	We hot mie mein Korb mit Flaasch g'stuohl'n?
+ab	11844	Neudorf	1	Wär hot mr mein Korb mit Fleisch gastulln.
+ab	11864	Draisendorf	1	Wer hot mer mein Kaorb mit Fleisch g'schtuhln?
+ab	11881	Sohl	1	Wer haut mir mein Korb mit'n fleisch gschtuln?
+ab	11896	Sülzdorf	1	Barr hat merr main Korb mit Fläsch g'schtohle?
+ab	1192	Debsko	1	Weie hätt mi miene Koaf mit Fleesch stoale?
+ab	11927	Bachfeld	1	Wär hott m'r men Karb met Fläsch gestuhl'n?
+ab	1197	Plociczno	1	Woim hät mi miane Korv mit Fleesch stoala?
+ab	1203	Nakielno	1	Weih het mina Kov mett Flesch stauhala.
+ab	12037	Hildburghausen	1	War hot m'r mein'n Korb mit Fleesch gemaust?
+ab	12070	Neuenbau	1	Wer hat m'r mein Kurb mit Flesch g'stuhln?
+ab	1208	Wissulke (Wiesiółka)	1	Wei hett mi minä Kow mett Flesch staualä.
+ab	12085	Grumbach	1	War hott mir mein Korb mit Fleosch(?) geschtuhl'n?
+ab	12104	Frössen	1	Wer hott mer maann Korb mit Fleisch gestuhl'n?
+ab	12125	Schwand	1	Wer hot marr ma'nn Korb mit Flasch gestuhln.
+ab	12148	Kottengrün	1	Waar hot mer men Korb mit Flaasch gestulln?
+ab	1215	Paruszka	1	Wähä hätt mi mine Kow mit Flèsch stauhle.
+ab	12153	Meiningen	1	Bär hatt mo mein Kurb mit Fläsch gestohle?
+ab	12167	Altendambach	1	Wär hott mör menn Kuörb mit Flesch göstohla.
+ab	12184	Altenfeld	1	War hot mer man Kuhrb mit Fleesch gestohle?
+ab	12341	Rohrbach	1	War huat mir min Korb met Flesch gestuohln?
+ab	12371	St. Jacob bei Leutenberg	1	Wär hat'n mir men Korb mit Flesch gestuhlen?
+ab	12390	Neundorf (bei Schleiz)	1	Weär hot m'r men Korb mit Fleesch g'stuhl'n?
+ab	12410	Ebersgrün	1	Weer hot marn mein Kurb mit Fleeisch gemaust?
+ab	12428	Roitzschau/Rotschau	1	War hot mr mein Korb mit Flaasch gemaust?
+ab	12496	Horsdorf	1	Wè hout mie mein Korb mit Flasch g'schtoulé?
+ab	12529	Ködnitz	1	Wer hot mir denn mein Korb mit'n Fleisch gschtuhln.
+ab	12556	Kornbach	1	Wer hot mer mein Korb mit Fleisch gstuhln?
+ab	12572	Habnith	1	Wer haut mia mein Korb mit Fleisch gschtuhln?
+ab	12594	Uchenhofen	1	Waer hot mor mein Koab mit Fläsch gstohln?
+ab	12616	Reutersbrunn	1	War hott mein Kuorb mit Flasch gschtuhln?
+ab	12656	Weismain	1	Wä hot mä mein Korb mit'n Flasch g'stuhln?
+ab	1278	Insko	1	We het mi mina Korw mit Fleesch stoahla?
+ab	1287	Konotop	1	Wei hätt mi miena Kow mit Fleesch stohla?
+ab	12876	Lohma	1	War hot mer mein'n Korb mit Fleesch gestull'n?
+ab	12898	Heiersdorf	1	War hat mir mein Korb mit Flesch gstohln, (gmaust).
+ab	12921	Sachsenburg	1	Wa hott mà menn Koarb mit Fleesch g'numm?
+ab	12942	Rothenfurth	1	War haod mer mein'n Korb mid Fleesch g'schdohln?
+ab	1296	Zabin	1	Weim hatt mie miena Koaf mit Flesch stoahla?
+ab	12969	Borlas	1	Wa hot mein Korb met'n Fleesch gestohln?
+ab	13005	Dohna	1	War hott mir meinen Korb mit Flesch gestohl'n?
+ab	13019	Porschdorf	1	Wär hat mer meinen Korb mit Flaesch gestohlen?
+ab	13047	Morgenröthe	1	Wär hot mir mein' Korb mit Fleisch gestuhl'n?
+ab	13054	Rittersgrün	1	Wär hot mer men Korb Fläsch gemaust?
+ab	1315	Kamien	1	Wähe hät mi minä Korf mit Flesch stauhlä.
+bc	13169	Saupersdorf	1	War hot mer menn Korb mit Flaasch gestuhln?
+bc	13187	Kühnheide	1	Wàr hot mr men Korb mit Flàsch gestuhln? (häufiger anstatt: gestuhln - gemaust)
+bc	13210	Himmelmühle	1	War hot mir dä menn Koarb mit na Flesch gastuhln.
+bc	13226	Rübenau	1	War hot mer dä menn Korb mit Fläsch gestuhln?
+bc	13269	Thurm	1	Wär hot m'r men Kurb mit Fleesch gestuhl'n?
+bc	13286	Ursprung	1	War hotmr menn Korb mit Flähsch gemaust?
+bc	133	Sosnowo	1	Wer hett mi mina Koaf mit Fleisch stoahle?
+bc	13317	Dittmannsdorf	1	War hat mer menn Korb mit Flähsch gschtuhln?
+bc	13340	Grosshartmannsdorf	1	Wa hot ma men Kárb mid Fleesch gmaust?
+bc	13355	Reichenau	1	War hat mer denn meinen Korb mit Fleesch gestuhl'n.
+bc	13372	Liebenau	1	War hot mer meinen Korb mit Fleesch gemaust?
+bc	1338	Dzidno	1	Wä hätt min miene Kow mit Flesch staule?
+bc	13529	Wang-Brückenberg	1	War hot mir menn Kurb mit Fläsch gestohla?
+bc	13543	Pisarzowice	1	War hot merr menn Korb mit Fleesch gestohln?
+bc	13559	Boguszow-Gorce	1	War hot mir men Korb mit Fleesch gestohln?
+bc	13655	Niederleutersdorf/Leutersdorf	1	War hot mer men Korb mött Flesche genumm?
+bc	13678	Rohnau (-)	1	Woar hoht mern Korb middn Fleesche gestohln? oder: mid zammtchen Fleesch.
+bc	13700	Rebiszow	1	War hoht mirr menn Kurb mit'm Flehsche gestohl'n?
+bc	13719	Siedlecin	1	Waar hoot mirr menn Korb mit Fleesche gestohln.
+bc	13727	Myslow	1	War hoot mirr menn Kurb mit Fleesche gestohln?
+bc	13745	Jugowa	1	Wahr hot mir a Kurb mit'n Flesche gestahln?
+bc	13830	Wlodowice	1	War hot mer menn Korb mi? Fleesche gestohla?
+bc	13869	Biernacice	1	War hot mir man Kurb mit Fleesche gestohla?
+bc	13887	Rzymiany	1	War hoht mir menn Korb mit Flesch gestohlen?
+bc	13898	Szadurczyce	1	War hot mer menn Kurb mit Fleesch g'schtohl'n?
+bc	13929	Stoszowice	1	War hot mer menn Korb mit Flesch gestohln?
+bc	13996	Lutomia Gorna	1	War hot mer menn Kurb mit Fleesch gestohl'n.
+bc	14023	Roztocznik	1	War hot mit men Kurb mit'm Flesche gestohl'n?
+bc	1403	Dobieszewo	1	Wä het mi mina Kov mit Fleisch stala?
+bc	14034	Lipowa	1	War hot mr men Kurb mit Fleesch gestohln?
+bc	14074	Michalow	1	War hot mer och a Kurb minn Fleesche gestohld'n?
+bc	14092	Karczow	1	War hot mer mein'n Kurb mit Flesch gestuhl'n.
+bc	14159	Jutrzyna	1	War hot mer menn Kurb mit Flesch geschtohld'n?
+bc	1417	Rydzewo	1	Wäe hett mi eine Köw mit Fleisch stahlu?
+bc	14234	Brzoza	1	War hot mir men Kurb mit Flesch gistohln?
+bc	14250	Jaczkowice	1	Wer hod mir mein Kurb mit Fleesche gestohlen?
+bc	14275	Piastowice	1	War hot mer denn a Kurb mid'n Flesche gestohlen?
+bc	14305	Bozanow	1	War hot mir menn Kurb mit Fleesche gestuohln.
+bc	1432	Rzepowo	1	Weie hät mi mina Kof mit Flesch staula.
+bc	14321	Rogow Sobocki	1	War hot mer men Kurb mit Fleesche gestohln?
+bc	14382	Wölfelsdorf (Wilkanów)	1	War hot mera Korb met Flaisch gestohla.
+bc	1442	Lubowo	1	Wer hett mir mine(?) Kow mit Fleiß stôle?
+bc	14449	Thröm (Trebom)	1	Waar hot merr mann Koorb memm Flasch gestohldn
+bc	14458	Szczytna	1	War hot mer menn Korb met Fläsch gestohla?
+bc	14471	Jaszkowa Gorna	1	War hot mer men Korb met Fläsch gestohla?
+bc	14486	Nadziejow	1	War hot mir meinen Korb mit Fläsch gestohla?
+bc	145	Smardzko	1	Wäe het mi mine Koaw mit Fleisch stoahle?
+bc	14505	Piorunkowice	1	War hot mer men Korb mit Flesche gestohla?
+bc	1451	Steinforth (Brodźce)	1	Wähä hätt mi minä Kow mit Fleisch stoahlä?
+bc	14537	Bielice	1	War hot mir män Korb met Flaisch gestohla?
+bc	14560	Siemianowice Slaskie	1	War hot mer mein Kurb mit Flesch gestohla?
+bc	1461	Wegorzewo Szczecineckie	1	Wä hät mi minä Korf mit Fleisch staulä.
+bc	14613	Nohfelden	1	Wer hat mer mei Korb mit Fleesch geschtohl?
+bc	14635	Erzweiler	1	W'r hat mer mei Korw met Flesch g'stohl?
+bc	14670	Nussbach	1	Wèr hott mèrr meine Karb mett Fläsch geschtohl?
+bc	14693	Dannenfels	1	Wer hot mer mei Korb mit Flasch gestohl?
+bc	14724	Monsheim	1	Wer hot mer mein Korb mit Flesch gestohl?
+bc	14752	Sankt Matthias	1	Wähn hôtt mer meï Korf mött Flâsch gestohl?
+bc	14955	Bescheid	1	Wer hoat mir mäi Koarv möt Fläsch gestull?
+bc	14971	Allenbach	1	Wer hot mir mei Korb met Flaïsch gestuhl'?
+bc	1499	Stara Rzeka	1	Wea hett mina Korv mit Flesch stoala?
+bc	14999	Berschweiler bei Kirn	1	Wer hott mir mei Korb mett Flesch gestuhl?
+bc	15018	Bad Sobernheim	1	Wer hot mer mei Korb mit Fläsch geschtohl?
+bc	15042	Neu-Bamberg	1	Wär hot mer de Korb met Flaasch gestohl?
+bc	15066	Bechtolsheim	1	Wer hot mer mei Korb mit Flasch gestohln
+bc	15088	Bollendorf	1	Wehe hot mir mei Korv matt Fläasch gestuhl!
+bc	15096	Preist	1	Wen hat mer mei Koraf mat Flesch gestoel?
+bc	15118	Pohlbach	1	Wähn hat mar meinen Kurf mat Fläsch gestohlen?
+bc	15137	Kautenbach	1	Wer haot ma meine Korf met Fläsch gestuhl?
+bc	15334	Kirchberg (Hunsrück)	1	Wär hott mehr meine Koreb mit Flääsch gestuhl?
+bc	15349	Ellern (Hunsrück)	1	Wer hodd m'r meune Koreb met Fläsch gestuhl?
+bc	1536	Heidlauken (Bugorki)	1	Wer hewwt mi dem Korf mit Flösch gestoahle?
+bc	15365	Bingen am Rhein	1	Wer hot mer mein Korb mit Fläsch gestohl(e)?
+bc	15394	Finthen	1	Wer hat mer mein Korb mit Flasch gestohle?
+bc	1540	Heinrichswalde	1	Wer hefft mi minem Korf mit Fleesch gestahle?
+bc	15418	Schneeberg (Sněžník)	1	Wa hott mir menn Karb mit'n Fleesche gemaust?
+bc	15503	Zettel (Sedlo)	1	War hott ma men Korb mit Fleisch gstuhl n.
+bc	1552	Pazuizen	1	Wer hett mienem Korf met Flesch gestahle?
+bc	15538	Wisterschan (Bystřany)	1	War hot mr mann Korb min Fleisch gschtohln?
+bc	15550	Malschen (Malečov)	1	War hout mar menn Karb mit Fleischa g'stouhln?
+bc	15638	Lukawetz (Lukavec)	1	War hout mr man Korb mit Flejsch gestouln?
+bc	1565	Gierver Lauken	1	Wer hefft mi minen Korf met Flèesch gestahle?
+bc	15681	Neudorf (Vrchběla)	1	Wahr hôt mr mann Kôrb mit Flejsch gestoln?
+bc	15685	Gastorf (Hoštka)	1	War hout mr men Korb mit 'n Fleïsche gestouln?
+bc	15690	Wegstädtl (Štětí)	1	War hout mr men Korb mit Flejsche gestouhln?
+bc	1571	Schmalleningken	1	Wer hett mi min Korf mött Flaesch gestoale?
+bc	15725	Nixdorf (Mikulášovice)	1	War houtmrn Korb mit Flejscho gomaust?
+bc	1573	Groß Dirschkeim (Donskoye)	1	We heft mi mienem Karf met Flesch gestohle.
+bc	15751	Rückersdorf (Dolní Řasnice)	1	War hot mr men Korb mit flejsch gestōln?
+bc	1578	Rantau (Zaostrov'Ye)	1	Wä hefft mi mine Koarf mèt Flésch gestoale?
+bc	158	Polczyn-Zdroj	1	Wär hett mi miene Korf mit Fleisch stahle?
+bc	1580	Schulstein (Vol'Noe)	1	Wear hewt mi minem Koarw mit Flesch gestoale?
+bc	15807	Kamnitz-Neudörfl (Kamenická Nová Ví	1	Wa hout ma d[e]nn 'n Karb mitn Fleesche gestouln?
+bc	15824	Zwickau (Cvikov)	1	War ho(a)t mier man'n Korb mi(t)n Fleïsche gestohln?
+bc	15847	Christophsgrund (Kryštofova Údolí)	1	War hot mr denn man Korb mitn Flejsche gestuhln?
+bc	15858	Gränzendorf (Hraničá)	1	War hout mr mann Korb mid'dn Flejsche gestouh'ln?
+bc	1588	Alt Susimilken (Tarassowka)	1	Wer hett mi mine Korf mit Flesch gestohle.
+bc	15971	Puletschnei (Pulečný)	1	War hout mr men(g) Korb mit'n Flejsche gestouln?
+bc	15975	Graber (Kravaře)	1	Wâr hôt mr menn Korb mit Flêsch gestôhln?
+bc	15989	Thammühl (Staré Splavy)	1	War hout mr mein Korb mitn Fleisch gestouhln?
+cd	15995	Proschwitz (Česká Proseč)	1	War hot mr man Korb mit Flejsch gostuhln?
+cd	16007	Harrachsdorf (Harrachov)	1	War hot mr mann Korp metn Flejsche gestohln.
+cd	16015	Witkowitz (Vítkovice)	1	Wa hot mə men Korb mit Flêschə gestohln?
+cd	16050	Forst (Fort)	1	Wa hot ma menn Kurb miet Flajsch gestōhln?
+cd	16063	Gabersdorf (Libeč)	1	Wo hot men Korb mit Flesch gestohla?
+cd	16083	Bodisch (Bohdašin)	1	Wa hot mon n Karb mit Flasch gestohla?
+cd	16139	Zwitschin (Zvičina)	1	War hot mr denn menn Korb mimm Flesch gestohla?
+cd	16154	Großbock (Velká Bukovina)	1	Wa hôt m(o)h menn Korb mit Flesch gestôhla?
+cd	16179	Schmiedeberg (Kovářská)	1	War hot meim Korb mit Fleisch gastuhln?
+cd	1626	Tulpeningken (Zarečnoe)	1	Wer hett mie mienem Korf mött et Flösch gestahle?
+cd	16276	Waitzengrün (Loučná)	1	Wer hout mir mein Korb mit Fleisch gstuhln?
+cd	1628	Wisborienen (Livny)	1	Wer hat mi min Korf met Flesch gestoale?
+cd	16298	Sittmesgrün (Mezirolí)	1	Wäa häut mia mein Kurv mit Fleisch g'stuhln?
+cd	16322	Petersdorf (Petrov)	1	Wer haut mir mann Korb mit Fleisch gstuün.
+cd	16338	Podletitz (Podlesice)	1	Wer hot mir man Korb mit'n Fleisch gschtulln?
+cd	16442	Kropitz (Krapice)	1	Wea hau(?)t mia(r) mei(n) Kor(b) mi(n) Fleisch g'stu(h)ln?
+cd	16470	Ebersfeld (Podlesi)	1	Wer håt må mei Kor mid Fleisch gstuhln.
+cd	16491	Rabensgrün (Haje)	1	Wer haut ma mein kur mit Fleisch gstuln?
+cd	16523	Lintsch (Hlineč)	1	Wea håt ma mein Kor mitn Fleisch gstuln?
+cd	1654	Postnicken (Zalivnoe)	1	Wäa heft mie mienem Korf met Flesch gestohle?
+cd	16602	Klotantschen (Kotaneč)	1	Wer hât mir mein Korb mitn Fleisch gschtujn.
+cd	16610	Tschernowitz (Černovice)	1	Wer hot mir man Korb mitn Flaisch gstuhln?
+cd	16625	Hawran (Havraň)	1	Wer hot mr man Korb mitn Fleisch gschtuhln.
+cd	16636	Liebshausen (Libčeves)	1	War hoot mr men Korb mit Fleische gestohln.
+cd	1664	Labagienen/Haffwinkel (Zalivino)	1	We heft mi min Karf met Flesch gestale?
+cd	16670	Priesen (Březno)	1	Wer höt mr mein Korb mit Fleisch gestuhln?
+cd	16689	Libeschitz (Liběšice)	1	Wer ho(a)t mr măn Korb mit Fleisch gstulln?
+cd	16725	Leschkau (Ležky)	1	Wëa hod man Korb mid Fleisch gschduin?
+cd	16739	Pschoblik (Pšovlky)	1	Wer hot m(i)r man Korb mit Fleisch g'schull'n?
+cd	16751	Prag-Smichow (Smíchov)	1	Wer hat mir meinen Korp mit Fleisch gestohln.
+cd	16755	Weißbach (Bílý Potok)	1	Wa hot mr männ Korb mit Floisch gestohla?
+cd	16770	Schediwy (Šediviny)	1	War hot mr a Karb mitm Flesche gestola.
+cd	16775	Friedrichswald (Orlické Záhoří)	1	Wār hōt mrn män Karb mim Fläsche gestohla?
+cd	16801	Böhmischdorf	1	Wa(r) hotn men Korb mit'm Fläsche g'stohln.
+cd	16814	Rokitnitz (Rokytnice)	1	War hot mern männ Karb mitm Fleische gestohla?
+cd	1683	Kreuzingen (Bol'Shakovo)	1	Wer het mi minen Korf met Fleesch geståle?
+cd	16876	Nieder-Ullersdorf (Dolní Boříkovice	1	War hot mr men Korb mit Fleesche gestohla?
+cd	16889	Heinzendorf (Hynčice Nad Moravou)	1	War hot mern Korb metn Fleisch gastoln?
+cd	16907	Karlsdorf	1	Wār hôt mr den men Korp me(t)n flaêš gǝštoŷn?
+cd	16932	Kuhberg	1	War hot mirn a Kurb mien Fläsche gestohla?
+cd	16949	Rausen (Rusín)	1	War hot mir mein Korp mit Fläsch gestohlda?
+cd	1698	Buttkuhnen (Pokrovskoe)	1	Wär het mie mienem Korf met Flesch gestoale?
+cd	16991	Breitenau (Bretnová Široká Niva)	1	War hot mr män Korb met Fläsch gestohln?
+cd	17012	Lobenstein (Úvalno)	1	War hot mern man Korb met Flasch gestohln?
+cd	17029	Lohhäuser (Slatina)	1	Wea hout mia(r) main Korb mit Fleisch geschtuln?
+cd	17061	Deutsch Thomaschlag (Německé Domasl	1	Wea haut ma ran man Korb mit(n)(?) Fleisch weg?
+cd	17075	Polinken (Polínka)	1	Wea haut ma mein Korb mit Fleisch gstuln?
+cd	1708	Baltruschatschen (Jakovlevo)	1	Wär het mie mienen Korf möt Fleesch gestoale?
+cd	17138	Albersdorf (Písařova Vesce)	1	Wea'r hoat miar mein Korb mit'n Fleisch gschtuhln?
+cd	17151	Damnau	1	Wea haut mi(a) mein Korb mi(n) Fleisch gschtul(n)?
+cd	17174	Piwana (Piňovany)	1	Wea hat ma mie'n Korb mi'n Fleisch gschtuln?
+cd	17178	Kottiken (Chotíkov)	1	We(a)r hat mo mein Korb mitn Fleisch gschtoln?
+cd	17244	Dianaberg (Diana)	1	Weǝ hàut me mein Korb mit Fleisch gschtuln?
+cd	17266	Wiedlitz (Vidice)	1	Wea hout mir mein Korb mittn Fleisch gstuahln?
+cd	17273	Honositz (Honezovice)	1	Wer hot mia mein Korb min Fleisch gschtuln.
+cd	17281	Dobrzan (Dobřany)	1	Wea hot mia mein Korb mit 'n Fleisch gschtuahln?
+cd	17306	Blisowa (Blížejov)	1	Wea haot ma mein Korb mit'n Fleisch gstuhln?
+cd	17309	Hilbeten	1	War hot mr den n Korb mi tn Fleisch gstohla.
+cd	17325	Schönwald (Strážná)	1	War hot mir men Kurb mit m Fläsche gestohla?
+cd	1733	Rottenen (Raktino)	1	Wä heft mi mien Koarw met et Flesch jestoaln?
+cd	17374	Ober-Ullischen (Horní Olešná)	1	War hout mern Korb mejtn Fleisch gestouln?
+cd	17389	Bergstadt (Horní Město)	1	War hot mier män Korb metn Fleisch gestojn?
+cd	1741	Pojerstieten (Kolodcy)	1	Wä hett mi minen Karw met Flesch gestahle.
+cd	17433	Ranigsdorf (Linhartice)	1	Wer hut ma man Karb mitn Flaisch gostuln.
+cd	17442	Müglitz (Mohelnice)	1	Wer hott mar denn nēr den Karb mit'n Fleisch gestuhln?
+cd	17460	Ribnik (Rybniček)	1	War hot mir men Korb met Fleisch gestohln?
+cd	17468	Stangendorf (Vendolí)	1	War hôtn mein Korb mitn Fl(a)sch g(e)stul.
+cd	1747	Beydritten (Pervomajskij)	1	Wer höft minem Kòrw met dem Flesch gestoahle?
+cd	17504	Neu-Biela (Lavičné)	1	War hot mr mein Korb mitn Floasch geschtuhl?
+cd	17512	Schlettau (Slatina)	1	Ber hot mir man Karb mit Flosch gestuhln?
+cd	17520	Runarz	1	Bar hōt mǝ men Korb mit Flāš gǝštōln?
+cd	17521	Nebotein (Hnĕvotín)	1	Be(a) hout mein'n Karb mit'n Flūsch g'stuln.
+cd	17568	Tillendorf (Tylov)	1	War hot mer men Korb met Fleisch gestöhn?
+cd	1758	Brasdorf (Antonovka)	1	Wäh hefft mi minem Kuarf mött Fleesch gestoahle?
+cd	17585	Mladetzko (Mladecko)	1	Mar hot mina Korb midn Fläsch gestohln.
+cd	17643	Seibersdorf (Bělá)	1	Wa hount men Korb metn Flasch gestoln.
+cd	17659	Bernhau (Barnov)	1	War hot mir men Korb met Flaesch geschtoll'n?
+cd	17680	Klantendorf	1	War hoet mern Koab mejtm Flaisch gstohle?
+cd	17687	Engelswald (Mošnov)	1	War hot mir man Koêb met Flaêsch geschtohlê?
+cd	17698	Nirklowitz (Mrsklesy)	1	War hort n' Korb mit Flaisch gestohln.
+cd	17713	Punkendorf (Boňkov)	1	Wa hout mir men Koib met Fleisch gstohln?
+cd	1772	Groß Goldbach (Slavinsk)	1	Wä häwt mi mine Koarf met Flesch gestahle.
+cd	17726	Halbendorf (Polouvsí)	1	War hoat mir meinen Korb met Flaisch gestohle?
+cd	17737	Senftleben (Ženklava)	1	War hot man Korb met Flesch derwoscht.
+cd	-17739	Polanka Wielka	1	Wer hot mein Korb mit Fleisch stohln?
+cd	-17744	Bulowice	1	Wer hat mir mei Korb mit Fleisch gestohlen?
+cd	-17746	Chocznia	1	Wer hoh mer mei Korb mit Fleisch gstohln?
+cd	-17749	Alt-Bielitz (Stare Bielesko)	1	War hot mir mej Kjöb met Flasch gestohla?
+cd	17759	Linz (Mlýnec)	1	Wea hout man mein Korb min Fleisch g'stuhln?
+cd	17782	Kohlheim (Uhliště)	1	Wea hot mia mein Korb mit n Fleisch gstohln?
+cd	17792	Čachrau (Čachrov)	1	Wea hot mein Zega mitn Fleisch gnuma?
+cd	17801	Hurkental (Hůrka)	1	Wer hot ma mei Kirm mitn Fleisch gstohln?
+cd	17824	Rotsaifen (Červená)	1	Wea hod ma dan mein Koab min Fleisch gstoln?
+cd	17832	Winterberg (Vimberk)	1	Wea(r) hot må mein Koa(r) minn Fleisch gschtuln?
+cd	17843	Sehrlenz (Ždírec)	1	be(a) hotm(a) majn korb mit fla(j)š gštoln?
+cd	17854	Irsching (Jiřín)	1	Wer hot mir mein Korb mitn Fleisch gstohln.
+cd	17862	Hilbersdorf (Jihlava-Heroltice)	1	Weǝ hot mǝ mein koǝb mitn fleisch gstoin.
+cd	17876	Sollowitz (Salavice)	1	Wer hot mr mein Korb mitn Fleisch gestohln.
+cd	17878	Stannern (Stonařov)	1	Wer hot ma mern Korb mitn Flersch g'stöln.
+cd	17881	Riegerschlag (Lodhéřov)	1	Wer hod ma dan mein Kor mid n Fleisch g'schtuln?
+de	17882	Wenkerschlag (Dolní Radouň)	1	Wer hod mr mein K(?)ohr midn Fleisch gschtuln?
+de	17884	Buchen (Buk)	1	Wer hot märän mein Kor min Fleisch gschtuhln.
+de	17895	Hosterschlag (Člunek)	1	Wer hot mein Kor mitm Fleisch gstuhln?
+de	17898	Lipolz (Lipolec)	1	Wer hot mir an Kori min Fleisch g'stuln.
+de	17940	Czernowitz (Černovice)	1	Bea hot mia meinen Korb mit Fleisch gstouln?
+de	17942	Gundrum (Komořany)	1	Ber hot mir ean män Korreach mit Floisch gstealln?
+de	17956	Prahlitz (Pravlov)	1	Wer hot ma mei Karbl mitn Fleisch gstohln.
+de	17961	Woikowitz (Vojkovice)	1	Wea hot ma mei Koab mitn Fleisch gstuhln?
+de	17967	Sub-Lechnitz (Lechnica)	1	Wer hot mir meina Korp mit um(?) Flesch kastohl.
+de	17968	Topportz (Toporec)	1	War hot main Korb mit Fläjsch gestuuhln.
+de	17972	Hobgard (Chmeľnica)	1	War hat mer ën Korb mëd'n Fuësch drstoun?
+de	17981	Neu Walddorf (Nová Lesná)	1	War hot mern Korb medn Fläjsch gestäulen?
+de	17993	Durelsdorf (Tvarožná)	1	Wer hat mein Karb metn Flajsch gestauln?
+de	17999	Leutschau (Levoča)	1	Wer hat mer mein Karb mët'n Fleisch gestäuhln?
+de	180	Galowo	1	Währ het mëi mëine Koaf mit Fleisch sthoahle?
+de	18000	Zipser Neudorf (Spišská Nová Ves)	1	Wer hat mer mein Korb mit'n Fleijsch gesteuln?
+de	18001	Wagendrüssel (Nálepkovo)	1	Bea hot ma mei Këabl mën Flësch gestuohln.
+de	18003	Göllnitz (Gelnica)	1	Bea hot mie mein Koab met Flasch gestuhln?
+de	18004	Dobschau (Dobšiná)	1	Bear hot mer mein Korb men Flesch gestoln.
+de	-18008	Schmöllnitz (Smolník)	1	Bea hot ma mein Koap met Flásch gestohln.
+de	18010	Metzenseifen (Medzev)	1	Bea hot mie en Koaf mén zamth Flasch gestohln.
+de	18013	Buchwald (Bučina)	1	Wea hot ma den man Koa mit'n Fleïsch gschtuin?
+de	18018	Schattawa (Záton)	1	Wer hot ma denn mein Kor mit'n Fleisch gschtujn?
+de	18028	Zaborsch (Záhorí)	1	Wea hod ma dẽin s Keawi min Fleisch gschtuin.
+de	18058	Hirschbergen (Hiršperky/Jeleni)	1	Wer hat ma in Korb mit'n Fleisch g'stuhln?
+de	18064	Honetschlag (Hodňov)	1	Wer hot ma man Koa mi n Fleisch gstuln?
+de	18091	Kollerschlag	1	We hát ma man Korb mit Fläusch gstoln.
+de	18095	Sankt Thoma (Svatý Tomáš)	1	Wer hot mir mein Korb mit Fleisch gschtoln?
+de	18101	Hohenfurth (Vyšší Brod)	1	Wea hot ma mein Korb mit'n Fleisch gschtuln?
+de	18132	Hummeln (Homole)	1	Wear hot ma mein Koab midn Fleisch gstuln?
+de	18135	Rudolfstadt (Rudolfov)	1	Wer hot mir man Korb mit dn Fleisch g'stuhl'n.
+de	18144	Gross-Radischen	1	Wer hat ma mein Kori mit n Fleisch gstohln?
+de	18188	Priethal (Prídolí)	1	Wear hot ma man Koar mit d'n Fleisch g'stuhln.
+de	18192	Gollnetschlag (Klení)	1	Wer hat ma män Ko(a)b min Flö(?)sch gschtuhln?
+de	18210	Weissenbach (Vysné)	1	Wer hot ma den Zujga mit Pleisch gschtuin?
+de	18218	Langschwarza	1	Wer hot ma dein mein Koab min Fleisch gstuhln.
+de	1829	Rudszen (Poltavskoe)	1	Wer hat mi min Korw met Flesch gestoale?
+de	18290	Unterwald	1	Wear hot ma denn ön Koarb mitn Fleisch gestohln?
+de	18296	Bad Grosspertholz	1	Wer hot mia mei Körbl mit’n Fleisch gstohln.
+de	18310	Oberstrahlbach	1	Wer hot ma mein Körbi mit'n Fleisch g'stohln?
+de	18359	Waldkirchen	1	Wer hot ma mein Korb mit Fleisch gstohln?
+de	18364	Hafnerluden (Lubnice)	1	Wer hot ma mein Kori mit Fleisch g'stohln?
+de	18367	Schiltern (Štítary)	1	Wer hot mr denn mein Korb mitn Fleisch gstohln.
+de	18407	Töstitz (Těšetice)	1	Wea hot ma mein Kore mitn Fleisch gschtoln.
+de	1842	Warupönen (Fëdorovka)	1	Ver hat mie mienen Korf miet Flesch gestahle?
+de	18432	Dietmanns	1	Wea hod ma mein Koab mit'n Fleisch gschdoin?
+de	18441	Schirmannsreith	1	Wea hot ma mein Kori mit'n Fleisch gschtoin?
+de	18454	Hofern	1	Wer hoat ma mein Korb mit'n Fleisch g'stohln.
+de	185	Jelnia	1	Wä hät mi mina Kow mit Flēsch staula?
+de	18508	Gerstenfeld (Ječmeniště)	1	Wer hot ma mein Kori mitn Fleisch gstohln?
+de	18525	Franzen	1	Wea håd mia mein Fleischkeawi gstoin?
+de	18534	Rosenburg	1	Wer hot ma mein Korb mit'n Fleisch g'stohln?
+de	18554	Oberdürnbach	1	Wer hot ma mein Korb mit Fleisch gstohln?
+de	18559	Aspersdorf	1	Wea hod mia mein Koab min Fleisch gschtoin.
+de	18607	Damnitz (Damnice)	1	Wer hot ma mei(n) Kori mit'n Fleisch g'stohln?
+de	18627	Tracht (Strachotín)	1	Wer hoot mr tenn mein Korb mitn Fleisch gstuln?
+de	18637	Saitz (Zajecí)	1	Wer hot mir mein Korb mit Fleisch gstuhln?
+de	18642	Höflein an der Thaya (Hevlín)	1	Wea hod mein Koare min Fleisch gschtohln?
+de	18672	Stützenhofen	1	Wer hod ma mein Korb mid'n Fleisch g'stohln?
+de	18686	Bernhardsthal	1	Wer hot ma mein Korb mi'n Fleisch g'stohln?
+de	18701	Pyhra	1	Wer hot ma denn mein Korb mit'n Fleisch gstohln?
+de	18707	Wilfersdorf	1	Wer hot mir mein Korb Fleisch g'stohl'n?
+de	18716	Palterndorf	1	Wer hot mir mein Korb mit'n Fleisch gstohln?
+de	18753	Münchwies (Vrícko)	1	Wa haut mei Köabl mit'm Flaasch gastauln.
+de	18759	Bettelsdorf (Solka)	1	Beja hot m'r majn Ko(o)p mit Wlásch g'schtójn?
+de	18763	Oberstuben (Horná Stubna)	1	Ber hot mɒ moɒn Khoɒp mit wlāš grštọln.
+de	18767	Krickerhäu (Handlová)	1	Ber hot ma denn mein Korb mem Wlāsch gestohln.
+de	18773	Deutsch-Litta (Kopernica)	1	Ber hut maj' mein Kubo mit dem Wlasch g'o stuhln?
+de	18774	Hochwiesen (Vel'Ké Pole)	1	Bä hŏt mia mein Kŏb min Flasch gastouln?
+de	18786	Sankt Georgen bei Obernberg am Inn	1	Wer hat ma mein Korb mi'n fleisch g'stoin?
+de	18800	Hochburg	1	Wer hot ma an Koab min Fleisch gstoin.
+de	18805	Pischelsdorf am Engelbach	1	Wea hat mia mein Kuab mitn Fleisch gstoin.
+de	18846	Niederkappel	1	Wer hat mir mein Koarb mitn fleisch gstohln.
+de	18855	Niederwaldkirchen	1	Wer hat ma denn en Korb mitsäbun fleisch gschtohln?
+de	18902	Dorf an der Pram	1	Wer hod ma mein Kerab midn Fleisch gstoin.
+de	18910	Michaelnbach	1	We håt ma mein Koab mit'n Fleisch g'stoin.
+de	18923	Alkoven	1	Weá håt má mein Koab mit’n fleisch g’stoin?
+de	1895	Königlich Damerau	1	Wâ hevt mie ne Koarw met Flesch gestahle?
+de	18984	Arnberg	1	Wer hăt ma denn mei Keoibi min Fleisch gschoin?
+de	18987	Rackering	1	Wer haod ma man Koarab Fleisch gschtoin?
+de	19003	Pennewang	1	We hat ma in Kårab volln fleisch gstohln?
+de	19011	Sipbachzell	1	Wehat denn s’Kerbl mit’n fleisch gstohln?
+de	1904	Pesseln	1	Wer hefft mi mienem Korf möt Flösch gestoahlè?
+de	19070	Reichenau im Mühlkreis	1	Wea håd ma mein Koab mid Fleisch gschdoin?
+de	19080	Gutau	1	Wer hat ma mein Koab mit'n Fleisch g stohln?
+de	19085	Hackstock	1	Wea hot mir mein Koab mit'n Fleisch g'stoin?
+de	19096	Traunstein	1	Wea hot ma mein Korb mit Fleisch, g'stohln.
+de	19138	Maria Laah	1	Wer hât mas Kerbl mitn Fleisch gstoln?
+de	19144	Haag	1	Wer håt ma mein Håndzōga zåmtn Fleisch gschtoln?
+de	19154	Amstetten	1	Wer hod ma denn mein Koarb mitn Fleisch gstohln?
+de	19163	Wieselburg	1	Wer hot ma mein Kurb mitn Fleisch gstohln?
+de	1919	Groß Gerlauken (Vjazovka)	1	Wer hätt mie mienen Korw mött Flösch gestahle?
+de	19225	Steyregg	1	Wer hat ma mei Kurbö min Fleisch gschtoin?
+de	19233	Schwertberg	1	Weā haot ma mei keabo min fleisch gstoin.
+de	1924	Pakallnischken (Suvorovo)	1	Wer hätt mie mien Korf met Flesch gestoahle.
+de	19245	Bad Kreuzen	1	Wer hat ma mein Korb mitn Fleisch g'stohln?
+de	19257	Altenmarkt	1	Wer hat ma mei'n Karb, in den's Fleisch drin woar, gstohln?
+de	19301	Els	1	Wer hat ma denn mein' Korb mitn Fleisch g'stohln?
+de	19311	Gneixendorf	1	Wer hot ma mein Korb min Fleisch gstoin.
+de	19322	Fels am Wagram	1	Wea hot ma mein Koab mitn Fleishc gstoln?
+ef	19334	Oberhautzental	1	Wer hot ma men Kori mitn Fleisch gschtoln?
+ef	19401	Schönbühel an der Donau	1	Wer håt ma denn mein Korb voll Fleisch gstohln?
+ef	19404	Karlstetten	1	Wer hot mia mein Koab mid'n Fleisch g'stoin?
+ef	19419	Würmla	1	Wea hot ma mein Koab mit'n Fleisch g'stoin?
+ef	19429	Ried am Riederberg	1	Wer hat ma mein Korb mit Fleisch g'stohln.
+ef	19479	Mank	1	Wer hod miar mein Koarb midn Fleisch gschtojn.
+ef	19486	Wilhelmsburg	1	Wer håt ma mein Korb mit'n Fleisch gstohln.
+ef	19492	Stollberg-Siedlung	1	Wer hat ma den in Korb ('s Zistl) mit n Fleisch g'stohln?
+ef	1953	Pillau	1	Wäh hefft mie miene Korf mett Flösch gestahle.
+ef	19541	Grub	1	Wea hout ma denn mein Koab saumtn Fleisch gstojn?
+ef	1956	Patersort (Beregovoe)	1	Wer heft mie miene Korv met Flesch gestâhle?
+ef	19564	Obergänserndorf	1	Wer hot'n mir mein Kori mitn Fleisch gstoijn?
+ef	19607	Raggendorf	1	Wer hot ma mein Korb mit Fleisch gschtohln?
+ef	1962	Bergau (Tzwetkowo)	1	Wer häft mi mine Korf möt Fleesch geståhle?
+ef	19621	Stillfried an der March	1	Wear hod ma mein' Koarb mid'n Fleisch gschtoiln?
+ef	19640	Grünau (Grinava)	1	We(a) hod m(e) mein Khoap min Fleisch kschto(u)ln.
+ef	19642	20. Bezirk-Brigittenau	1	Wer håt mir mei Korbl mit'n Fleisch g'stohl'n ('kräult)
+ef	19646	Raasdorf	1	Wer ht ma mein Korb mit'n Fleisch g'stohln.
+ef	19657	Breitensee	1	Wer hat ma mein Korb mit'n Fleisch gstohln?
+ef	19659	Theben (Devín)	1	Wer hot ma mei' Korb mit Fleisch g'stohln?
+ef	19667	Biedermannsdorf	1	Wea håd ma denn mein Kuab midn Fleisch gschdoin? (buzd?)
+ef	19674	Enzersdorf an der Fischa	1	Wea hod ma mein Koab mit'n Fleisch gstohln?
+ef	19696	Kittsee	1	Wea hot mia mei' Koab mit'n Fleisch stohln?
+ef	19705	Mischdorf bei Pressburg (Nové Košar	1	Wea hod matn main Khoab min Fleisch kstojn. 
+ef	19726	Rohrau	1	Wer hot ma mein Korb mit'n Fleisch g'stuhln?
+ef	19739	Thiersee	1	Wea hoat ma mein Karb mitn Fleisch gstohn.
+ef	19748	Achenwald	1	Wea hod ma denn mein Korb midn Fleisch gstoin (furchi)?
+ef	1977	Fuchsberg (Semënovo)	1	Wä hewt mi mine Koarw mö(?)t Flesch geschtoale?
+ef	19775	Obertrum am See	1	Wer had má mán Koaröm mit'n Fleisch gstoün?
+ef	19787	Hochfeld	1	Wer håt ma mein Koaröm mitn Fleisch gschtoin.
+ef	19823	Vorderfager	1	Wea hat ma mein Koaröm midn Fleisch gstoin?
+ef	19851	Schwendt	1	Wear got ma mein Korb voi Fleisch gstoin?
+ef	19854	Waidring	1	Wea hot ma mein Kårb mit'n Fleisch g'stoin?
+ef	19859	Kuchl	1	Wer håt ma mei'n Koa(r)b mit'n Fleisch gsto(hl)in?
+ef	1987	Pregelswalde (-)	1	Wä hefft mi mine Koarf mett Flèsch gestohle?
+ef	19886	Schörfling	1	We hat ma denn mein Korab mitn Fleisch g'stoin?
+ef	19896	Gschwandt	1	Wer hot mir mein Korb mit'n Fleisch gstouhln?
+ef	19901	Schlierbach	1	Wea ha͜od Bogen unter „ao“ mia mein Koab voö fleisch gstoön? /Koab midn fleisch./
+ef	19941	Sankt Gilgen	1	Wer håt ma mein Koaröbn mitn Fleisch gschtoin.
+ef	19945	Ebensee	1	We hat denn ön Fleischkarib (= säga) gstohln?
+ef	19947	Steyrling	1	Wer hat ma mein Korb mit'n Fleisch gstohla?
+ef	19956	Bad Ischl	1	We (wer) hat mein Fleischkarö(?)b g'stohln edr (?) davoan?
+ef	19965	Windischgarsten	1	Wea håd ma denn man Fleischzöga gschtohln?
+ef	19971	Bad Goisern	1	We håt ma mein Kŏreb mit'n Fleisch g'schtoln?
+ef	19977	Grundlsee	1	We hat mir mein Kårib mit'n Fleisch gstohln?
+ef	19993	Wörschachwald	1	We håd ma mei(n) Koab mid Fleisch g'schto(i)n?
+ef	20005	Trattenbach	1	Wer hot ma mein Korb mitn Fleisch gstoihn.
+ef	20008	Sulzbach	1	Wer hat meni (mà en) Fleischkorb gschtoln (gschtoin)
+ef	20019	Ybbsitz	1	Wer hot denn mei'n Körwi mid'n Fleisch g'stohln?
+ef	20023	Gaming	1	Wea hot ma mein Koab mid'n Fleisch g'stoin?
+ef	20046	Kleinreifling	1	Wer hat ma mein Korb mitn fleisch gstohln?
+ef	20049	Mariazell	1	Wea hot ma mein Koab mit'n Fleisch gschtoin?
+ef	20051	Neuhaus	1	Wea hot ma mein Koab mit Fleisch g'schtoün?
+ef	20058	Lassing	1	Wer hot ma mein Korb mit'n Fleisch gstohln?
+ef	20062	Ardning	1	Wer hot ma mein Korb mit'n Fleisch gschtuin.
+ef	20065	Weng	1	Wea hot ma mein Korb mit'n Fleisch gschtuin?
+ef	20067	Lainbach	1	Wer håt ma mein Koab mit'n Fleisch gstoin?
+ef	20069	Gollrad	1	Wer hod miar mein Korb mit'n Fleisch gstohln.
+ef	20077	Oberort	1	Wer hat mer mein Korb mit Fl??? g??t?hl? [Bogen geknickt, sodass Satz im Grunde nicht leserlich; hier nur grobe Vermutung]
+ef	20090	Wext	1	Well het mienen Kuof met Fleß wäch stuolen?
+ef	20099	Leer	1	Wel hɑ̈ff mie mienen Kuorw met Fleesk stuorlen?
+ef	20110	Herbern	1	Wel häf mienen Kuorf met Flesk stuohlen?
+ef	20117	Ringel	1	We häww mie mienen Kuorw mätt Flesk stuorlen?
+ef	20128	Hilter am Teutoburger Wald	1	Wâr hät mi minen Kuarf met Flesk stualen?
+ef	20240	Bardel	1	Wel hef mi mynen Korf met vleesch stollen?
+ef	20248	Haddorf	1	Wel häf mi minen Kuoarf mit Fleisk stuoalen.
+ef	20259	Hörstel	1	Wel hef mi mienen Korf met Flesk wegstoalen?
+ef	20269	Westerkappeln	1	Wieker häw minen Kuorf stualen mit't Fleisk?
+ef	20283	Astrup	1	Wekke häf mi mienen Kuarf met Flesk stual'n?
+ef	20346	Frensdorf	1	Wel hef' mienen Korf met Flees stollen?
+ef	20350	Elbergen	1	Well häf mi minen Karv met Flèß stollen.
+ef	20361	Setlage	1	Wel häf mi mienen Korf mit Fles stollen?
+ef	20370	Merzen	1	Wecker häf mie mienen Kaf mit Flesk stollen?
+ef	20381	Vörden	1	Well heff mie den Kuaurf mit Fleesk stuaulen?
+ef	20384	Wielen	1	We hef mej mien'n Korf met vleis stöllen?
+ef	20446	Hoogstede	1	Wel heff my mienen Korf met vleis stöllen?
+ef	20454	Geeste	1	Well häw mi minen Korw mit Fleisk staohlen?
+ef	20463	Dohren	1	Well häf mie mienen Kaorf mit Flesk staohlen?
+ef	20468	Renslage	1	Well hät mie mienen Kärf met Fleisk stohlen?
+ef	20481	Dinklage	1	Well heff mih mienen Kaf mit Fleisk stahlen?
+ef	20543	Haren (Ems)	1	Well häf mi minen Korf mit Fleïsk stalen? 
+ef	20555	Hüven	1	Wel hät mi minen Kaarf mit Fleesk stahlen?
+ef	20562	Garen	1	Wecker häff mi minen Korf mit Flëisk stoahlen?
+ef	20575	Sevelten	1	Wecker hef minen Korf mit Flesch stahlen?
+ef	20589	Neudersum	1	Wel häf mi mienen Korf mit Fleisk staolen?
+ef	20596	Neubörger	1	Wel hef mi minen Karf mit Flesk stahlen.
+ef	20599	Neuarenberg	1	Well häff mi minen Karf mit Fläisk stahlen (staohlen)?
+ef	20604	Garrel	1	Wekker hef mi mienen Korf mit Fleijsk stahlen?
+ef	20638	Visbek	1	Wen het mi minen Körf mit Flesk stahl'n?
+ef	2067	Enskemen (-)	1	Wer hat mi mian Korw met Flēsch gestoale?
+ef	20710	Wietzendorf	1	Kein hätt mi minen Korf mit Fleisch stahlen?
+ef	20734	Colonie Syke	1	Wer hett mi mi'n Körrf midd Fleesch wechna'm.
+ef	20753	Magelsen	1	Wo keiner (e-i) het mi minen Körf mit Fleisch (e-i) stahlen?
+ef	20763	Nordkampen	1	Wer hätt mi minen Korf mit Fleest stahlen?
+ef	20774	Vierde	1	Kâihn hätt mi mienen Korf mit Fläisch stahln.
+ef	20788	Schmarbeck	1	Wokein hat mick mienen Korw mit Fleisch stahlen?
+ef	20798	Brümsen	1	Wer hät mi mie'n Kaorf mit Flesch staohln?
+ef	2081	Eydtkau (Eydtkuhnen)	1	Wer hat mie mienen Korf met Fleesch gestaole?
+ef	20891	Dörpel	1	Wer heef mi minen Korf mit Flesch stahlen?
+ef	20901	Maasen	1	Wer hätt mi minen Körf mit Flesch stahl'n?
+fg	20917	Drakenburg	1	Wer hett mie mienen Körf mit Fleisch stehlen?
+fg	20920	Unterrodewald	1	Wer hat mie mienen Körf mit Fleisch stahlen?
+fg	20933	Thören	1	Wer hat mick mien'n Korv mit Fleisch stahl'n?
+fg	20936	Hassel	1	Wer hat mick mienen Korf mit Fleisch stahlen?
+fg	20946	Scharnhorst	1	Wer hadd mick mien'n Korf midd Fleisch stahl'n?
+fg	20948	Aschen	1	Wer het mie mienen Korf mit Flesk stahlen?
+fg	21024	Burlage	1	Wer hefft mi(?) minen Korf mit Flesk stahlen?
+fg	21033	Hoysinghausen	1	Wer het mih minen Körf mit Fleisk stahlen?
+fg	21045	Brokeloh	1	Wer hat mie mienen Kurf mit Fleisg sta(?)hlen?
+fg	21050	Empede	1	Wer hat mick mienen Körf mit Fleisch stahlen?
+fg	21065	Gailhof	1	Wer hat meck mi'n Korf mit Fleische stahlen?
+fg	21074	Adelheidsdorf	1	Wer hat mick minen Korf mit Fleisch 'estohlen?
+fg	21085	Nordburg	1	Wer hat mik minen Korf mit Fleisch stohlen?
+fg	211	Rodowo	1	Wer hatt mir mei Korb mölt Flösch gestohle?
+fg	21105	Preussisch Ströhen	1	Wer hät min Korb met Fleisch stouhlen?
+fg	21190	Brockhausen	1	Wekke häww mi mienen Koaf mit dem Fleïske stoaln?
+fg	21199	Isenstedt	1	Well heff mi minen Korf mett Fläisk stolen.
+fg	21218	Wietersheim	1	Wer hett mie mienen Körf mit Fleiske stahlen?
+fg	21235	Hülshagen	1	Wer hat mien Korf mit Fleische stahlen.
+fg	21252	Holtensen	1	Wer hat mek mäinen Korf mit Fleisch estahlen?
+fg	2127	Klein Nuhr (Sukhodol'Ye)	1	Wer heft mie mienen Korf met Fleesch gestáhle?
+fg	21280	List	1	Wer hat meck minen Korf mit Fleisch estohlen?
+fg	21295	Immensen	1	Wer hatt meck mienen Korf mit Fleisch estohlen?
+fg	21305	Voigtholz-Ahlemissen	1	Wer hat mick mienen Kerf mit Fleisch e'stahlen?
+fg	21316	Steinhagen	1	Wer heww mēi mēinen Kuarf met Fläisk stualen?
+fg	21342	Krentruperhagen	1	Wer hett müi müinen Koarf mett Fleuesk stohlen?
+fg	2135	Skungirren (Pen'Ki)	1	Wer had mien Korf met Flesch gestaole.
+fg	21355	Wendlinghausen	1	Wer hätt mui muinen Korf met Fleusk stollen?
+fg	21362	Reher	1	Wär hett meck meunen Korf met Fleusch stohlen.
+fg	21384	Harderode	1	Wer hett meck meiïnn Korf mit Fleisch estöohlen?
+fg	21405	Rheden	1	Wer hett meck möine Korf mit Fleisch ê stohlen?
+fg	21429	Nette	1	Wer hät meck me-inen Korf mit Fleisch estohlen?
+fg	21446	Steinlah	1	Wer hat meck meinen Korf mit Fleisch e stuhlen?
+fg	2145	Kurschen (Kuz'Mino)	1	Wer het min Korw met Flesch gestaohln?
+fg	21455	Gross Schiplage	1	Wär hät mi muinen Kuarf met Fleisk stuarlen?
+fg	2161	Kalnen (-)	1	Wer hätt mie mienen Korf mätt Flösch gestāhle?
+fg	21611	Schweicheln-Bermbeck	1	Wer het mi[a/e/r?] meien Korf mit Fleiske stahlen.
+fg	21632	Veltheim	1	Wen hätt mi mie'n Koarf mit den Fleisk stoal'n?
+fg	21666	Rohden	1	Wer hät meck meinen Korf mit Fleisch 'estohlen?
+fg	21679	Springe	1	Wär hett meck men Korf mit Fleisch stohlen?
+fg	21687	Vardegötzen	1	Wer hat mek minen Korf mit Fleisch esteolen?
+fg	21707	Rautenberg	1	Wer hat meck meïnen Korf mit Fleisch 'e steohlen?
+fg	2182	Soginten (Svirskoe)	1	Wer het min Korf met Flesch gestaole?
+fg	21882	Bodenstedt	1	Wer hat mik einen Korf mi Flaisch estohlen?
+fg	21902	Rautheim	1	Wer hat mick mienen Korf mit Fleisch estohlen?
+fg	21936	Bartensleben	1	Wer hat mik minen Korf mit Fleische stohlen?
+fg	2200	Narmeln (Polski)	1	Wär häwt mi minen Korf met Flesch gestoahln.
+fg	2204	Leysuhnen (Ščukino)	1	Wä häfft mi mine Korf met Flesch gestoahle?
+fg	22044	Rottorf	1	Wer hat mick minen Kor mit Fleisch 'estohlen?
+fg	22063	Hundisburg	1	Wer hat mick mienen Korf mit Fleisch e'stohl'l?
+fg	22074	Farsleben	1	Wee hat mick mienen Korf mit Flesche stohl'n?
+fg	22083	Reesen	1	Wer het mi minen Korf met Flesch schtoahlen
+fg	22092	Paplitz	1	Wer het mi min'n Korf met Flesche schtoahl'n?
+fg	22111	Wasbüttel	1	Wer hat mick mienen Karf mit Fleisch estohlen?
+fg	22149	Rätzlingen	1	Wer hat mick mien'n Korw mit Fleisch e stohlen?
+fg	2216	Hermsdorf (Pograničnyj)	1	Wäa hewt mi mine Korw met Flösch geschtohle?
+fg	22172	Burgstall	1	Wer hät mai mienen Korf met Flesch stahl'n?
+fg	22222	Reislingen	1	Wer hat mick minen Korf mit Fleisch estohlen?
+fg	22249	Roxförde	1	Wäker hätt miek mienen Koof met Fleeisch stoahlen.
+fg	2225	Moritten (Oktjabrskoe)	1	Wä heft mie miene Karf möt Flösch gestoaln?
+fg	22264	Grieben	1	Wer hät mien'n Korf mett Fleesch schtoalen?
+fg	22276	Zabakuck	1	Wär het mi minen Korf met Fleesch estoalen?
+fg	22375	Westerholz	1	Wer hat mick mien'n Korv mit Fleesch estohl'n?
+fg	22384	Tülau-Fahrenhorst	1	Wökker het mick minen Korf mit Flesch stahlen?
+fg	22394	Köbbelitz	1	Wecker hett mi mien Korf mit Flesch staohln?
+fg	22407	Schenkenhorst	1	Wekker hert meï min'n Korf mit Fleisch stoahl'n?
+fg	2242	Naunienen	1	Wä heft mie miene Karf möt Flesch gestahle?
+fg	22423	Querstedt	1	Wökker hät me mien Korv met Fleesch stohl'n?
+fg	22443	Staffelde	1	Wöcker hat mei mien Korb met Flesch stoaln?
+fg	22453	Grosswudicke	1	Wär hett mie mien Korf mett Fleesch stoahln?
+fg	22574	Masel	1	Weckeen het mick minen Korf mit Fleisch stahl'n?
+fg	22581	Höddelsen	1	Wekker het mik mien Koarf mit Flesch staohln?
+fg	22599	Wöpel	1	Wekker hat min Korv mit Fleesch stohln?
+fg	22621	Molitz	1	Wäcker hät meei mien Korw met Fleeisch stohl'n.
+fg	22636	Rönnebeck	1	Wäker het mäi mien'n Korv met Flesch staohln.
+fg	22654	Iden	1	Wecker het mi min Kaof mit Flesch stoahlen.
+fg	22667	Kuhlhausen	1	Währ het mei min Korf met Flesch stoahl'n.
+fg	22685	Proitze	1	Wer 'att mick min Korf mit Fleesk schtahln?
+fg	22773	Holdenstedt	1	Käihn hett mick mih'n Korf mit Fläisch stohln?
+fg	22796	Wustrow (Wendland)	1	Wer hat mi mien Korf mit Flesch stahlen?
+fg	22810	Lomitz	1	Wëïn hät mi mien Korf mit Flëïsch stahln?
+fg	22819	Jeggel	1	Wekker hant mi min Korf met Fleesch stoahln?
+fg	22832	Gross Lüben	1	Wer hät mie mien Korf müt Flesch stoahln?
+fg	22846	Görike	1	Wer hät mie mien Korw met Flesch stoahlen.
+fg	22910	Holthausen	1	Wä heet me-i minne Korw mit Fle-isch gestohlen?
+fg	22931	Dahlhausen	1	We hiet mi minen Kuorf met Fleïsch gestuolen?
+fg	22965	Langeloh	1	Wä hiet mi min'n Kuorf met Fläis stuoalln?
+fg	22990	Halingen	1	Wai hiät meÿ meÿnen Kuarf miet Fläißk stoallen?
+fg	22998	Neheim	1	Bai hiätmi moinen Kuoarf met Fläusk stuoalen?
+fg	23010	Niederbergheim	1	Wai hiät mui minnen Korf met Flesk stoahlen?
+fg	23021	Kapellen	1	Wään häät mej minne Körff met Fläiss gestoale?
+fg	23031	Rheinberg	1	Wenn hät me mine Körf met Fleisch afgestohle?
+fg	23184	Holthausen bei Kirchhellen	1	Wä hätt mä minen Koarb mett Flas gestoahlen?
+fg	23191	Herten	1	Wä giet mie mienen Kuaf met Fleis gestualn?
+fg	23207	Waltrop	1	Wä hiät mi mien'n Kuow met Fleisch affstuol'n?
+fg	23218	Kamen	1	Wai hiät mei meinen Kuorf mit Flaisch stuollen?
+fg	23231	Norddinker	1	Wie hert mui diän Korf mirt Fleuschk aff stoulen.
+fg	23261	Kessel	1	Wij hätt mej minne Körw mett Flehß gestohle?
+fg	23271	Kehrum	1	Wij hät minn minne Körf met Fleiß gestohle?
+fg	23284	Hamminkeln	1	Wenn hät mej minnen Korf met Fleiß gestoahlen.
+gh	23293	Erle	1	Wee het min Koarw met Flees stoahln?
+gh	23343	Göttingen	1	Wieker hät mi meynen Kuorf mit Fleisk stuahlen.
+gh	2338	Wenslowischken (Voznesenskoye)	1	Wer hett mie mien Korw mett Flesch gestoale.
+gh	23402	Holtwick	1	Well het mienen Kuorf mät Fleßk stuollen?
+gh	23412	Seppenrade	1	We hätt mie mienen Kuorf met Fleesk stuohlen?
+gh	23419	Davensberg	1	Welhet mi minen Kuorf met Flusk stuolen.
+gh	23426	Vorhelm	1	We hev mi minen Kuorf met Flesk stuoahlen?
+gh	23435	Stromberg	1	Wecker hatt me minen Kurv met Fläßk sturlen?
+gh	23453	Stockum bei Coesfeld	1	Wäll häv mih minen Kuorf mett Flesk stuallen?
+gh	23466	Nottuln	1	Well heff mi denn Kuorf mett Flesk stuollen.
+gh	23471	Münster	1	Well hett mi minen Kuorv met Flesk stuolen?
+gh	23478	Einen	1	Wel hatt mieh mienen Koaf met Flesk stohln?
+gh	23483	Greffen	1	Wekker hett mienen Kuorf met Fläsk stuohlen.
+gh	23494	Speelberg	1	Wij hät min minne Köv met Fleiß gestole?
+gh	23498	Hemden	1	Wei hef mie mienen Korv met Fleeß stolln?
+gh	23507	Weseke	1	Wäl häw mi mieen Korf met Flees awstouilen.
+gh	23545	Tüddern	1	Wä̌h hät mech miene Körf met et Flěsch geschtoahle?
+gh	23566	Porselen	1	Wäh het mech miene Körf met Flesch gestohle.
+gh	23602	Holzweiler	1	Wäe hat meg minge Kòrf möt Flesch gestôhle?
+gh	23630	Evinghoven	1	Wä hät mech menge Korv möt Fleesch gestolle?
+gh	23817	Reusrath	1	Wer hät mir minge Korf met Flesch gestolle?
+gh	23843	(Stolzenberg)	1	Wär hätt mir mengen Korf met Fleesch gestollen?
+gh	23858	Oberklüppelberg	1	Wei hätt mi mienen Kuorf met Fleesch estuollen?
+gh	23873	Valbert	1	Wei hiät mie mienen Kuarf met Flesch e stualen.
+gh	23885	Sporke	1	Wai hiätt mie müinen Kuoarw met Flëis stuoallen? Mëinen od. mīenen.
+gh	23902	Schmallenberg	1	Waïh hiät meï minnen Kuarf met Fläis stuallen.
+gh	23906	Elmpt	1	Weä hät mech miene Korv möt Flesch gestohlen?
+gh	23922	Helenabrunn	1	Wä hät mich mine Körf möt Flesch gestoalen?
+gh	23933	Weißenberg	1	Wä(k) hätt méch minne Körf möt Flésch gestoele.
+gh	2398	Mertensdorf (Tjomkino)	1	Wer hewt mi min Körw met Flesch gestoahle?
+gh	2409	Trausen (Lipnyaki)	1	Wä hieht mie miene Kuarf miett Flaisch gestoale?
+gh	24107	Hubbelrath	1	We hätt mech minne Korf met Fleisch gestohle.
+gh	24134	Barmen	1	Wäh hät meck minnen Korf met Fleesch gestohlen? 
+gh	24156	Delle	1	Wiäcker hiätt mi meinen Koarf mi Fläisch af e stuoallen?
+gh	24167	Altena	1	Beke hi͡ät mēǐ mēǐnen Ko͡urv met Flēǐß schto͡alen?
+gh	24180	Stockum	1	Bei hiät mi mëinen Kuarf met Fleis/Fleiske stuallen.
+gh	24208	Wall	1	Wä hät mech minge Korf möt Fleesch gestohle?
+gh	24218	Vennikel	1	We hett mech minne Köerv met Fläisch gestohlen?
+gh	2426	Groß Pentlack (Kamenka)	1	Wer hefft mie miene Korf met Flesch genahme?
+gh	24336	Berghausen	1	Wär hott mēr mein Korb met Fleesch gestohle?
+gh	2436	Kowarren (Zaozernoye)	1	Wer het mi minem Korf met Flösch gestahle?
+gh	24360	Bottendorf	1	Wär hot mehr mein Korb met Fläsch gestohlen?
+gh	24380	Bergfreiheit	1	Wär hot mer mein Korb met Fläsch gestohlen?
+gh	24412	Roppershain	1	Bär hoat mir den Korb met Flesch gestohlen?
+gh	24431	Konnefeld	1	Wer hot me mim'm Korb mit Fleesch gestohlen?
+gh	24454	Berneburg	1	Wer hat me min Karb met Fleisch gestohlen?
+gh	24466	Lüderbach	1	Wär hett me min Korb meet Fleisch gestohlen?
+gh	24490	Züschen	1	Bai hiät mi min Kuarf mit Fleische stohlen?
+gh	2452	Kleschowen (Kutusowo)	1	War het mi mien Korw met Flösch gestohle?
+gh	24636	Rhadern	1	Wee hett mie min Korf mett Fleisch gestohlen?
+gh	24659	Buhlen	1	Wär hot meh min Korb met Fleisch g’schdohlen?
+gh	2466	Tolkmicko	1	Wär hewwt mie miene Korf mött Flösch gestahle?
+gh	24677	Metze	1	Währ hodd mäh minn Korb medd Fleisch gästohlen?
+gh	24695	Wattenbach	1	Wär hott mä minn Korb mett Fleisch g'stohl'n?
+gh	24715	Vockerode	1	Wär hedd me minnen Korb medd Fleisch gstohlen?
+gh	24737	Grosstöpfer	1	Währ het me minn Koob met Fläsch gestohlen?
+gh	2474	Pierzchaly	1	Wäa heft mie miene Korf met Flesch gestohle.
+gh	2482	Peterswalde (Piotrowiec)	1	Wea hewt mi mine Korv met Flesch gestohle?
+gh	24884	Olsberg	1	Bai häit mäi dähn Kuarw mettem Fläiske stuollen?
+gh	24901	Sudeck	1	Wëi hett mi minen Korf mit Fleik 'estoullen?
+gh	24917	Braunsen	1	We hett mi minen Korf mit Fleeske stolen?
+gh	24926	Zierenberg	1	Wei hät meik mienen Korf met Fleisch gestohlen?
+gh	2494	Saruny	1	Wä heft mie mine Karf mo Fläsch gestohle?
+gh	24942	Speele	1	Wer hat mich minen Korb mit Flöusch gestohlen? 
+gh	24959	Hermannrode	1	Wer het mek minen Korf met Fleische stohlen?
+gh	2507	Wojciechy	1	Wä hewwt ma miene Korw mött Fleesch gestoahle?
+gh	25113	Meiste	1	Bai hiät mi muinen Korf met Fleusk stuahlen?
+gh	25131	Fürstenberg	1	Wei hiët my mynen Ku(e)rf mit Fleisk stu(e)hlen?
+gh	25136	Scherfede	1	Wäi hiet mick mäinen Kurf mit Fläisk stuhlen?
+gh	25150	Körbecke	1	We hä? Mik miänen Kurf mit Flesch stouhlen?
+gh	25163	Gottstreu	1	Wei hät mick minen Korf mit Fleische stohlen?
+gh	25179	Esebeck	1	Wer het me mienen Korf mit Fleisch e stohlen?
+gh	25197	Ebergötzen	1	Wer hett meck mienen Karf mett Fleische stohlen?
+gh	25214	Bönninghausen	1	Wei hiät mui muinen Kuarf mit Fleusk afstualen?
+gh	25223	Kirchborchen	1	Weī hiät meī menen Kuorf met Fleīsk stuohlen?
+gh	25343	Siebenstern	1	Wai hät mia mäinen Korf mit Fleisch sturhlen?
+gh	25354	Bruchhausen	1	Wer het mik miänen Kuorf mit Flaisch stuohlen.
+gh	25363	Schönhagen	1	Wer het mek minen Korf me Fleisch estohlen?
+gh	25373	Oldenrode	1	Wer het mek mëinen Korf mit Fleisch stohlen.
+gh	25391	Marke	1	Wer hett meck m(äi)nen Korf mit Fleisch stuhlen?
+gh	25407	Westerwiehe	1	Wecker hät mi minnen Kuorf met Fläisk stuohlen?
+gh	25514	Haustenbeck	1	Wer hätt mü mü(u)n Korf (o zw. a&o) met Fleuske stolln?
+gh	25522	Heesten	1	Wer het müi müinen Korf mit Fleusk stolln?
+gh	25543	Rischenau	1	Wär hät moi muinen Korf met Fleusch stohlen?
+gh	25560	Lobach	1	Wer hett mek mäinen Korf mit Fleisch e stohlen?
+gh	25579	Wenzen	1	Wer hätt meck mäinen Karf mit Fleisch estohlen?
+gh	25596	Ackenhausen	1	Wer hett meck meuinen Korf mit Fleisch estuhlen?
+gh	25607	Wolfshagen im Harz	1	Wer hätt meck mäinen Korf mit Fleische stuohlen?
+gh	25798	Kell	1	Ber hät me meine Korf Fläsch jestolle?
+gh	25824	Stromberg	1	Bar hät mir meim? Korf met Fläsch gestohle?
+gh	25845	Staudt	1	Wer hot ma meine Korf met Fleisch gestohle.
+gh	2586	Jurkiszki	1	Wer hät mie minem Korf met Flösch gestoale?
+gh	25876	Steinbach	1	Wer hot mer meinen Korb met Flasch gestoule.
+gh	25904	Höfen	1	Weä hat mir minge Korf mot Fleesch gestolle?
+gh	25914	Gemünd	1	Wä'e hätt mrr menge Korf mott Fleesch geschtoele?
+gh	2602	Maciejowieta	1	Wer hat mi mienen Korf mit Flesch gestahle?
+gh	26141	Iversheim	1	Weä hät mie menge Korf möt Fleesch jestolle?
+gh	26155	Gelsdorf	1	Währe häd menge Korf möt Flesch gestolle.
+gh	26178	Ohlenberg	1	Ber hät mir minge Korf met Fleisch gestolle?
+gh	26205	Seifen	1	Wer hätt mer mengen Korf möt Fleisch jestollen?
+hi	26228	Gehlert	1	Wer hät mir mëinen Korf met Flasch g'stolle?
+hi	26261	Waigandshain	1	Wer hat mer mein Korf bet Floïsch gestoln?
+hi	26283	Sinn	1	Wer hott merr mein Korb mit Flaasch gestohl'n.
+hi	26312	Venwegen	1	Wäh hatt mich minge Korf met Flesch gestohle?
+hi	26324	Üdingen	1	Wiå hät mie minge Korf möt Flesch gestolle?
+hi	26351	Borr	1	Wäa hätt mieh menge Koref möt Flesch gestolle?
+hi	26578	Roisdorf	1	Wäe hätt mie menge Korv met Flesch gestolle?
+hi	26604	Geistingen	1	Wär hätt mir minge Körf met Fleesch gestolle?
+hi	26627	Herchen	1	Wer hät mer mengen Korv mot Fleisch gestollen?
+hi	26642	Mittelhof	1	Wer hätt mir mengen Korf met Fleech jestohlen?
+hi	26664	Wilden	1	Wäh hätt mer mejne Korf bätt Fleisch gestöelln?
+hi	26683	Straßebersbach	1	Wer hott mr mein Korb bet Flasch gestoln.
+hi	26712	Mariagrube	1	Wä/e hat mich minge Körf met Fleesch gesto/ele?
+hi	26734	Niederzier	1	Wäa hät mie menge Korf met Flesch gestohle?
+hi	26753	Horrem	1	Wäher het mier menge Korf met Fleesch gestolle.
+hi	2676	Rygarby	1	Wä häft mi mine Korf möt Flösch gestoale?
+hi	26763	Poll	1	Wer hätt mer minge Korf met Fleisch gestolle?
+hi	2691	Kolwiny	1	Wä hĕft mi mine Koarf mĕt Flesch gestoahle?
+hi	27003	Heiligenhaus	1	Wäer hät mér menge Koref mét Flésch gestolle.
+hi	27025	Faulmert	1	Wer hätt mir menge Korf met Flesch gestollen.
+hi	2703	Srokowo	1	Wer häfft mieh miehnn Karf mött Flösch gestohle.
+hi	27038	Hahnseifen	1	Wä het mer mingen Korf met Flesch gestohlen?
+hi	27064	Müsen	1	Wä hätt mer min Korf bett Flesch gestuele?
+hi	27074	Schameder	1	Wer hot mer mein Korb met Fläsch gestuhle?
+hi	27106	Dudenhofen	1	Wer hott mir mein' Koarb mit Flaasch gestoale?
+hi	27135	Wenighösbach	1	Wäa hot ma man Korb mot Flasch geschtohule?
+hi	2715	Stregiel	1	Wär hädd mÿ mÿnem Korw mött Flasche geschtoale?
+hi	27150	Wiesthal	1	Wer hot mir mein Korb met Fläsch gestohle?
+hi	27163	Massenbuch	1	War hoat miar mein Korb mit Fläsch gestouhla?
+hi	27186	Neubessingen	1	War hoat' mer mein Kurb mit Fleesch gschtoula?
+hi	27209	Dittelbrunn	1	Wer hat mir mein Korb mit Fläsch g'schtoul? .
+hi	27223	Vockenhausen	1	Wer hott mein Korb mit Flaasche g'stohle?
+hi	27244	Heddernheim	1	Wer hat mer mein' Korb met Flaasch kgestohle?
+hi	2727	Budziska	1	Wâr hät mi miehne Korf möt Flösch gestoahle?
+hi	27425	Bruchköbel	1	Währ hott mr mann Korb madd Flahsch kestohle?
+hi	27444	Hailer	1	Wer hot mer mein Korb met Flasch g'stohle?
+hi	2746	Chelchy	1	Wer hatt mie miene Korf met Flesch gestohle?
+hi	27461	Oberndorf	1	Wär hot mir mein Kurb mit Flosch geschtohle?
+hi	27469	Rossbach	1	Bär hot mer mein Kurb mit Fläesch g'schtohla (a fast wie e).
+hi	27480	Hassenbach	1	Bar hort mein Kurb mit Fläsch gschtohle?
+hi	27501	Poppenlauer	1	War hoät miär mein Kurb mit Flēsch gschtoulä?
+hi	27507	Cratzenbach	1	Wer hot m'r mein Korb met Flaasch g'stohla?
+hi	2762	Wilkowo	1	Wär hefft me miene Korf met Flesch gestōhle?
+hi	27692	Friedrichstal	1	Wer hĕrt mir méinen Kourb mirt Flasch gestohle?
+hi	27719	Leidhecken	1	Wer hott mer main Korb met Flasch gestohn?
+hi	27742	Gelnhaar	1	Wear hoat m'r mein Koarb met Flaasch g'schtuale?
+hi	27765	Ulmbach	1	Bär hot m'r mein Korb mit Floasch g'stohle?
+hi	27775	Eichenried	1	Ber hott merr menn Kourb mit Fleisch gestohle?
+hi	27792	Wildflecken	1	Ber hot men Kurb met Fläisch geschtoll'n
+hi	27807	Bastheim	1	Beär hot mer men Karb met Flaésch g'stolln?
+hi	2781	Karwiny	1	Wer hott mörr meine Karb mött Flehasch gestohle?
+hi	27821	Philippstein	1	Wer hot mir mein Korb met Flasch gestohle.
+hi	27835	Dornholzhausen	1	Wer hot m'r mein Koarb met Flasch gestoin?
+hi	2800	Krzykaly	1	Wa hott meinn Karb mét Flösch gestohln?
+hi	28010	Nonnenroth	1	W'rr hott merr main Koap mett Fleisch g'stoin.
+hi	28027	Götzen	1	Wer haut m'r mein Koarb met Flasch gestohn?
+hi	28045	Altenschlirf	1	Baär hoat mer mein Korb mit Flaäsch gestohln?
+hi	28063	Fulda	1	Ber hat mer min Korb mit Fleisch gestohle?
+hi	28080	Rupsroth	1	Bär hot mer min Kurb mit Flēisch gestohln?
+hi	28107	Gerthausen	1	Wär hoat me me/in Kurb mit Floaisch gestolln.
+hi	2817	Mawry	1	Wa hott ma maine Karp mött Flösch gestohle?
+hi	282	Zolna	1	Wer hett mi mi n Korf mit Fleesch stoln?
+hi	2827	Sarnowo	1	Wea hot mea meire Korb mett Fleh'sch gestohle.
+hi	28278	Krumbach	1	Wer hott m'r mein Koarb met Fläsch gesteährn?
+hi	28298	Londorf	1	Wer hott m'rr mein Kaarb mett Flääsch g'stoahn?
+hi	28315	Otterbach	1	Wär hott mihr mein Koarb matt Flÿsch gathoahn?
+hi	28330	Schwarz	1	Behr (Beller) hoat mer minn Korb met Fläsch gestohln?
+hi	28346	Grossenmoor	1	Bär (br) hoat mäi min Korb mit Fleisch gestohle?
+hi	28358	Rasdorf	1	Bär hot märr minn Kuärb mit Fleisch gestohla'?
+hi	28369	Wiesenthal	1	Bäer haot meei menn Korb mit Fleisch gestolln?
+hi	28392	Herzhausen	1	Wer hot m'r mein Korb met Fläsch gestohln?
+hi	2846	Ledlawki	1	Wea hefft mie miene Korf möt Fleesch gestoahle.
+hi	285	Kosobudy	1	Wer het m m'n Kov met Fleisch stauln?
+hi	28568	Betziesdorf	1	Wer hoat merr mein Koarb mett Fleesch g'stohl.
+hi	28589	Neustadt (Hessen)	1	Wer hott mer moin Korb mett Flesch gestohln?
+hi	28605	Neukirchen	1	Bär hot m'r menge Koarb met Fleesch gestohl'n?
+hi	28623	Gittersdorf	1	Bär hot mäh minn Karb met Fleisch gestohlen?
+hi	28640	Herfa	1	Beer hat mei minn Korb met Fleisch gestole.
+hi	28651	Frauensee	1	Bähr hott mei minn Köärb met Fleisch gestouhle?
+hi	289	Königswiese (Leśna Huta)	1	Wäe hät mi mine Korf mit Flesch stohle?
+hi	2900	Borawskie	1	Wer häwt mi miene Korw mit Fleesch gestoale?
+hi	2906	Zabrowo	1	We hett mi mine Karv mit Fleisch stohle?
+hi	291	Lubichowo	1	Weä häft mie mienä Korf mit Flesch stohlä?
+hi	2916	Stanowo	1	Wer hăt mêr mein Korb met Flesch gestahle?
+hi	2923	Fijewo	1	Wer hott mer mein Korb met Flesch gestohle?
+hi	2935	Groß Koschlau	1	Wer hottmer meenen Korb mett Feesch gestohle?
+hi	2955	Liksajny	1	Wer hoat mör meinen Korb mött Fleesch gestohle?
+hi	2962	Molza	1	Weer hott mir meiner Korb mit Fleesch gestohle?
+hi	2970	Warkaly	1	Wea hott meha de Korb met Flesch gestole?
+hi	2996	Bucznik	1	Wer hott mehr meine Korb met Flesch gestohle?
+hi	300	Montauerweide	1	Wer heft mi mine Kip met Flēsch gestohln?
+hi	300660	Sankt Roman	1	Wer hat mein Zöga mitn Fleisch g'stohln?
+hi	300798	Reikersdorf	1	Wea hoat ma denn in Koab meén Fleisch gschtoin?
+hi	301042	Rigaus	1	Wea(r) hod mia mein (Korb) Koab zammt'n Fleisch gschtoinn?
+hi	3058	Zyndaki	1	Wà heft mi mine Korw met Flesch gestohle?
+hi	3069	Rychliki	1	Wä hoat mer meinen Korb möt Flösch gestohle?
+hi	3083	Chojnik	1	Wer hott mör meiner Korb mött Flösch gestohle?
+hi	3093	Ksiaznik	1	Wä hott mēmeinen Korb m?t Flesch gestohle?
+hi	3111	Glotowo	1	Wa hott mea meine Karb met Fleesch gestohle?
+hi	312	Ryman	1	Wäa het mie miena Korf mit Fleisch stohla?
+ij	3122	Derc	1	Wäa hat mea meine Korb mett Flehsch gestohle?
+ij	31677	Battweiler	1	Wer hat mer meine Korb met Fleisch gschdohl?
+ij	31695	Heltersberg	1	Wer hat mer mei Korb met Fläsch geschtohl?
+ij	31700	Ramberg	1	Wer hot m'r mein'n Korb mit Fläsch gschtohle?
+ij	31719	Geinsheim	1	Wer hott mer mein Korb mit Fläsch gestohle?
+ij	31737	Diedenhofen	1	Wen hott m'r mei Korf met Flēsch gestuol?
+ij	31765	Laumesfeld	1	Wén hot m'r mei Korw met Fläsch gestuehl?
+ij	31789	Beckingen	1	Wer hat mer mei Korf met Flähsch gestol?
+ij	31800	Calmesweiler	1	Wär hott m'r mei Korf met Fläsch g'stohl.
+ij	31824	Steinbach bei Ottweiler	1	Wer hat mer meine Korb met Fleisch gestohl?
+ij	32019	Dietschweiler	1	Wer hat mir meinen Korb mit Fläsch gestohlen?
+ij	32040	Siegelbach	1	Wer hott mer mei Korb mirrem Fläsch gestohl?
+ij	32053	Alsenborn	1	Wer hott mer mein Korb met Fläsch gestohl.
+ij	32067	Erpolzheim	1	Wer hot mer mei Korb mit Fläsch gschtohle?
+ij	32085	Kreuzweiler	1	Wen hot mir möin Korf mat Fläsch g'stol.
+ij	32102	Greimerath	1	Wen hät mer me Korf mät Flääsch gestoll?
+ij	32119	Oberlöstern	1	Wer hat m'r mei Korf mit Flääsch gestohl?
+ij	324	Podwilcze	1	Wea hett mi mine Korf mit Fleisch staule?
+ij	3254	Jurkowo	1	Wä hett mie menn Korf möt Flesch gestole?
+ij	3267	Pozarki	1	Wer heft mie ene Korw met Flesch gestohle?
+ij	3272	Gawliki Wielkie	1	Wer hätt mi miene Korf met Fleesch gestole?
+ij	3280	Swietajno	1	Wer hàtt mi minen Korf met Fleesch gestohle?
+ij	32855	Altviller	1	Wer hot mir min Koarb bit Flëisch gestoahl?
+ij	32883	Woustviller	1	Wär hat me?r mīnne Koob met Fläsch gestōhl?
+ij	3301	Barschken	1	Wer hätt mie mienen Korf met Flesch gestahle?
+ij	33035	Rimling	1	Wer hat mér miné Karb mèt Fläsch géstohl.
+ij	3304	Dawillen	1	Wer hefft mÿ mÿn Korf mött Flöösch gestahle.
+ij	33055	Roppeviller	1	Wer hat mr minne Korb mit Fläsch gstohl?
+ij	33064	Dahn	1	Wer hat mièr mei Korb mit Fläsch g'schtohlè?
+ij	3309	Dittauen	1	Wer hett mi minem Korf möt Flesch geschtoale.
+ij	33102	Gleiszellen	1	Wer hot mer mei Koorb mit Fleisch gschtohle?
+ij	33111	Herxheimweyher	1	Wer hott mer mei Korb mit Flēsch gschtohle?
+ij	33126	Guinkirchen	1	Wer hat m'r minn Kōrf mit Fleisch (a-i) gestohl?
+ij	33146	Überherrn	1	Wär hat mer mei Koarf mit dem Fläsch geholl.
+ij	33159	Malstatt	1	Wer hat m'r mei Korb mit Fleisch gestohl?
+ij	3318	Deegeln	1	Wer hett mi minem Korf mett Fleesch gestahle?
+ij	33185	Niederwürzbach	1	Wer hot mer mei Koob met Fläsch gestohl.
+ij	33331	Steinbuch	1	Wer hot mer mein Korb mit Flasch gestohln?
+ij	33346	Breitendiel	1	Wär hot m'r mein Koarb mit Fläsch g'schtohula?
+ij	33364	Hundheim	1	Wär hot mer man Koreb mit Flasch gschdoule?
+ij	33381	Steinbach	1	War hott mein Korb mit Fläsch g'stouhla?
+ij	33400	Eibelstadt	1	War hoat mar main Korb mit Fläsch g'stouhla?
+ij	3342	Pillkoppen	1	Wer hefft mienem Korf met Fleesch gestoale?
+ij	33420	Rödelsee	1	War hat mir mein' Korb mit Fläsch g'stohl'n?
+ij	3343	Karkeln	1	Wer häwt mi miene Korw möt Flösch gestahle?
+ij	3345	Dünen (Ackmenischken)	1	Wer hat mie mien Korf met Flesch gestoale.
+ij	3351	Pleine	1	Wer hett mi minem Korf met Fleesch gesteahle?
+ij	33605	Erfelden	1	Wer hot mer mein Korb mit Flaasch gestohle?
+ij	33614	Traisa	1	Wea hot ma mei Kurb mit Flasch gestole?
+ij	3362	Cullmen-Kulken	1	Wär hätt mih mihnem Korw mött Fleesch gestoahle?
+ij	33631	Heubach	1	Wer hott mer dann mein Korb minan Flaasch gestohle.
+ij	3364	Rositten (Rybachiy)	1	Wer häfft mi minem Korf met Fleesch gestohle.
+ij	33648	Hofstetten	1	Wer hot mer mein Kōrb mit Flāsch gestoulle?
+ij	33660	Bischbrunn	1	Wer hoat mr mem Korb mīt Flāsch kschtoula?
+ij	33677	Birkenfeld	1	War hoat mer mein Korb mit Flàsch gschtoula.
+ij	33692	Rupprechtshausen	1	Wär hatmer main Korb mit Fläisch gstouhla?
+ij	33711	Gaibach	1	War hat mièr mein Korb mit Fläsch gschtohl'n?
+ij	33725	Rüsselsheim	1	Wer (war) hatt merr mein Korb mit Flasch gestohle?
+ij	33741	Langen (Hessen)	1	Wer hott m'r mein Korb met Flaasch gestohle?
+ij	33849	Altlussheim	1	Wer hot mei Korb mit Flèsch gstohlen?
+ij	33860	Schatthausen	1	Wäe hod mer mei Koräb mit Flāsch g'schdohlä?
+ij	3387	Sassenhöhe (Augsgirren)	1	Wer hett mi minem Korw met Flesch gest?hle?
+ij	34001	Daudenzell	1	Wer hot mir mann Korab mit Flaisch gschtohle?
+ij	34015	Billigheim	1	Wer hot mer en Korb mit Fläsch gschtohle?
+ij	34025	Oberkessach	1	Wer hot mein Gràbä mit Flesch gstohle.
+ij	34044	Ailringen	1	Wer hot mier mei Korb mit Flasch g'stohle.
+ij	34058	Lichtel	1	Wer hat mer mein' Greba mit Flasch gstauhla?
+ij	34065	Windelsbach	1	Wĕr het mer man Kröbă mit Flāsch stouhla?
+ij	34076	Ludwigshafen am Rhein	1	Wer hodd mer mein Korb midd'm Flēsch gschtōhle?
+ij	34096	Ursenbach	1	Wèr hott ma mann Korb mit Flasch gschtohlé.
+ij	34216	Gammelsbach	1	Wer hot ma méin Koab mit Fläsch gstohle?
+ij	34228	Rumpfen	1	Wär hot mir men Korb mit Flesch g'schtohlen?
+ij	34235	Gerichtstetten	1	Wer hot mr măn Korb mit Flasch g'schtouhlĕ.
+ij	3424	Beierstedt	1	Wer hat mik minen Kårf mit Fleisch 'estohlen?
+ij	34247	Königshofen	1	Wer hot mr man Korb mit Flasch gschtoula?
+ij	34266	Aufstetten	1	War hat mr mein'n Korb mit Fläsch gstouhla?
+ij	34288	Weigenheim	1	War hat mer man Korb mit Fleesch g'stuhla?
+ij	34305	Bobstadt	1	Wa hot mehr mein Korb mit Flasch gschtohle.
+ij	34321	Mittershausen	1	Wer hot mer mein Korb mit Flasch g'stohle?
+ij	344	Modrolas	1	Wäa hett mi miena Kov mit Fleisch stahla?
+ij	34447	Berghausen	1	Wèr hat mar mei Korab mit'em Flaisch gstohla?
+ij	34503	Winzerhausen	1	Wer (oder weler) hot m'r mei'n Korb mit Floasch gschtohla?
+ij	34522	Liemersbach	1	Wer hat m'r mei Krewa mit Flasch gschtohla?
+ij	34535	Eutendorf	1	Wer hat mein Gräba mit Flaasch gschtohla?
+ij	34545	Honhardt	1	Wer hat mir man Gräwa mit Flāsch gschtoula?
+ij	34557	Segringen	1	Wer ha(ot) m'r mein' Kräbe mit Fleisch gschtohle?
+ij	34566	Graben	1	Wer hadd mèrr mein Korb mid Floaisch gstohlăn? (Korb = Gain)
+ij	34707	Odenheim	1	Wer hat mei Korb mit Flaisch g'schdohla?
+ij	34734	Massenbachhausen	1	Wer hat mǝr mäin Korb mit Flaisch gschtohlǝ?
+ij	34750	Binswangen	1	Wer hat merr mein' Korb mit Fleisch gstohla?
+ij	34773	Öhringen	1	Wèr hat mér mein Korb mit Flāsch g'schdōhlă?
+ij	34791	Döttingen	1	Wer hat m'r man Krewe mit Flasch g'schdoula?
+ij	34802	Gaggstatt	1	Wèr hadd mèr man Korb mit Flāsch g'schdoulè?
+ij	34818	Dorfgütingen	1	Wer hat mer mein Keeba mitn Fleisch gschtoula?
+ij	34838	Röckingen	1	Wer hot mer mei Krätzla mit Fleisch gstola?
+ij	34855	Windsfeld	1	Wer hat mer mein Krätzn vull Fleisch gstuhlen.
+ij	34872	Ettenstatt	1	Wèr ha(u)t m'r mei Körm mit'n Fleisch gschtulln.
+ij	35003	Untermässing	1	Wer hout mir mein Korb mit Fleisch gschtoln.
+ij	35011	Gimpertshausen	1	Wer hot mir mein Korb mit Fleisch gstohln.
+ij	35026	Beratzhausen	1	Wea hot mia mein Koab mit Fleisch gschtoln.
+jk	35035	Eitlbrunn	1	Wer hot ma mein Koarb mit Fleisch gstohln.
+jk	35046	Altenthann	1	Wer hat mir mein' Korb mit Fleisch g'stohl'n?
+jk	35055	Rauenzell	1	Wae hat ma mein Korb mit'n Fleisch g'schtohln?
+jk	35067	Ismannsdorf	1	Wer hot mer denn mein e Koffer mit n Fleisch gschtuhln bschtellt.
+jk	351	Smecino	1	Wer hett mi mihne Korf mitt Fleisch stâlä?
+jk	3516	Bornum	1	Wer hat mek mienen Korf mit Fleisch e' stohlen?
+jk	35165	Büchenbach	1	Wer hout m'r mei Kob'n mit Fleisch gschtuhln.
+jk	35168	Seligenporten	1	Wer hot mir mein Korb mit Flesch gschtuln?
+jk	35188	Günching	1	Wor haot ma man Koab mit Fleisch gschtoln?
+jk	35195	Adertshausen	1	Weo hat ma màn Koab mit Fleisch gschtoln?
+jk	35204	Wiefelsdorf	1	Wöa hot mir man Koar mit Fleisch gstohln?
+jk	35211	Bodenwöhr	1	Wer hot ma mein Koar min Fleisch g'schtoln?
+jk	35223	Flachslanden	1	Wer hat mer mein Korb mit Fleisch gstolln?
+jk	35236	Grosshabersdorf	1	Wer hat mer mein Korb mitn Fleisch gschtuhln?
+jk	35254	Birnthon	1	Wèr hâut mér mein Koarb (Kurb) mit Fleisch gschtulln?
+jk	35339	Röthenbach	1	Wer haut mer mein Korb mit Flasch gschtuln?
+jk	35377	Alfeld	1	Wea hout mia man Koab mit Fleisch g'schtuhln?
+jk	35382	Ammerthal	1	Wer hot ma mein Koarb mit Fleisch g'stohl'n?
+jk	35393	Trisching	1	Wer hat mie mein Karb mite Fleisch gschton?
+jk	35517	Unternesselbach	1	Wer hat mer man Korb mit'n Flasch gschtoll'n?
+jk	35524	Oberreichenbach	1	Wéè hot mé mein Korb mit Flāsch gschtulln.
+jk	35544	Buckenhof	1	Wer hot mor mein Korb mitn Fleisch gstohla?
+jk	35562	Kirchröttenbach	1	Wer hout mer mei Krètzl mit Fleisch gschtulln?
+jk	35571	Hartenstein	1	Wer hout ma mein Kurb mit Fleisch gschtuhln?
+jk	35577	Schlicht	1	Wer haut ma mein Koarb mit Fleisch gstohln?
+jk	3558	Beckendorf	1	Wer hat mik mi'n Korf mit Fleisch stuall'n?
+jk	35585	Kohlberg	1	Wèr hot ma mein Koarb mitn Fleisch g'schtohln.
+jk	35597	Oberlind	1	Wer hout mein Koarb mitn Fleisch gschdohln?
+jk	356	Porst	1	Wäa hett mai maina Kōw (Kāv?) mit Fleisch stalā?
+jk	35710	Haag	1	War had mir mein Korb voll Flasch gsdoln.
+jk	3572	Domersleben	1	Wer hat mick mienen Korf mit Fleisch 'stohlen?
+jk	35729	Mühlhausen	1	Wer hat mir mein Korb mit Fleisch g'stolln?
+jk	35755	Pautzfeld	1	Wäe hot me mein Korb mit Flasch gschtuhln?
+jk	35762	Moggast	1	Wer hŏt mir mein Korb mit'n Fleisch g'stohl'n?
+jk	35778	Pegnitz	1	Wer hout mir mein Kurb mit Flaisch gschtuhln?
+jk	35791	Speinshart	1	Wer hout ma mein Koarb mit Fleisch gschtuhln?
+jk	35799	Friedersreuth	1	Wea håut ma mein Karb mit Fleisch g'stuhl'n?
+jk	35807	Plössberg	1	Wer hat mir mein Koarb mit Fleisch gstuhln?
+jk	35824	Geusfeld	1	War hot mein Korb mit Fläsch g'schtolln?
+jk	35843	Tütschengereuth	1	Wèa hot mè mein Kurb mit Flasch gschtohln?
+jk	35857	Litzendorf	1	Wea hot ma mein Korb mit Fleisch gschtohln?
+jk	3592	Prester	1	Wer hat mick mien Korf mit Flesch estohln?
+jk	36007	Hollfeld	1	Wea hot ma mein Korb Fleisch g'schtuhln?
+jk	36017	Donndorf	1	We hot mie mein Kob mit Fleisch gstulln?
+jk	36039	Kirchenpingarten	1	Wea haut mia mein Koab mit Fleisch gstuhln?
+jk	36049	Hohenhard	1	Wer haot mein' Korb mit Fleisch g'stuhln?
+jk	36056	Leonberg	1	Wer haout ma mein Koarb mit Fleisch gschtuhln?
+jk	36065	Hohrodberg	1	Wer het mer mi Korb voll Fleisch gemüßt?
+jk	36084	Colmar	1	War hätt mer mi Korb met Fleisch g'stohle.
+jk	3609	Dalchau	1	Wer het mie mienen Korv met Fleesch estoalen?
+jk	3614	Schweinitz	1	Wer hät mi minen Korf met Flesch jestoalen?
+jk	36159	Meistratzheim	1	Wer hett m'r minne Korb met Fleisch gschtole.
+jk	36178	Müllen	1	Wér hét mīr minè Korb mti Flaisch g'schtohlè?
+jk	36202	Kniebis (Kr.Freudenstadt)	1	Wèr ho(a)t miăr mein Ko(a)rb (Grattĕ) vōl Flāesch gschdolĕ?
+jk	3626	Nennhausen	1	Wä hett mi minen Korw mett Fleesch estoahlen.
+jk	36272	Ödsbach	1	Wer het mer mi Korb voll Flesch g'schtohle?
+jk	36277	Turquestein-Blancrupt	1	Wr hed mi Korb mid Fleisch gstole?
+jk	36282	Wangenbourg	1	Wer hat mer mine Korb voll Fleisch gstohle?
+jk	36309	Furdenheim	1	War hat m'r miene Korb mét em Fläisch g'schtohle?
+jk	36334	Ruprechtsau	1	Wer hédd mir mine Korb medd Flesch geschdohle?
+jk	3634	Berge	1	Wer hett mie min Korf mett Flesche stoahl'n?
+jk	36348	Achern	1	Wär hèttm'r mi Korb mit Flaisch gschtohla?
+jk	36362	Saarburg	1	Wer hatt mir mi Korb mit Fleisch g'stohl'?
+jk	3639	Pausin	1	Währ hätt mei mien Korf mett Fleesche stoahlen.
+jk	36489	Bois De Chêne	1	Wer het m'r min Korb mit Fleisch gestohle?
+jk	3649	Hermsdorf	1	Wer het mir minen Korb met Flesch jestohlen?
+jk	36525	Wilshausen	1	Wer hett mer miene Korb met Fleisch g'stohle?
+jk	36552	Marienthal	1	Wer hät mér miner Korb mét Fleisch g'schtole.
+jk	36567	Fort-Louis	1	Wär hett' m'r minné Korb mit Fla-sch g'stohlé?
+jk	36594	Bad Rotenfels	1	Wer hat mir d'r'mie Korb mit Fleisch g'stohle?
+jk	366	Przeradz	1	Wee het mi miene Koev mit Fleisch stoae.
+jk	3664	Birkholz	1	Wer het mir meinen Korv met Flesch gestohlen.
+jk	36737	Altwiller	1	Wer hat m'r mine Korb mit Fläsch g'stohl.
+jk	36755	Weislingen	1	Wer hat m'r mine Korb mit Fläsch g'stohl?
+jk	3677	Gielsdorf	1	Wär hät mie'n Korf met Flesch gestoahl'n?
+jk	36772	Lichtenberg	1	Wär hadd m'r minnä Karb med Flaisch gschdohlă?
+jk	36789	Goersdorf	1	Wer hett mer miene Korb mit Fleisch g'schdohle.
+jk	36823	Siegen	1	War hat m'r meine Karèb mit Flasch g'stohlè?
+jk	36842	Neuburgweier	1	Wer hatt mer mei Korb mit Flaisch g'schtohle?
+jk	3688	Ringenwalde	1	Wä hett mi min'n Korw met Flesch gestoal'n?
+jk	36880	Bischoffingen	1	Wär het mär mi Korb middem Fleisch gstohlä?
+jk	36898	Maleck	1	Wer het mer mi Chorb mit Fleisch g'schtole?
+jk	36911	Yach	1	Wär hét mr mi Korb mit Flaisch gschtohla?
+jk	36933	Orschwiller	1	War hét m'r mine Korb mèt Fleisch g'stohle.
+jk	37007	Bindernheim	1	War hèt mr mina Korb med Flaisch gschdōla?
+jk	37025	Schmieheim	1	Wer het mir mi Korb mit Fleisch gschtohla?
+jk	3703	Lehmannshöfel	1	Wär het mi mien Korf met Flesch gestoaln?
+jk	37035	Bollenbach	1	Wer het mr 'en Korb mi Flaisch gschtola.
+jk	37058	Le Hohwald	1	Wer het m'r mina Korb mèt Flaisch gstohla?
+jk	3711	Warnick (Warniki)	1	Wer het mi minen Korf met Flesch gestoalen.
+jk	37119	Buchenberg	1	Wer hätt mar au mi Schütta mit Floasch gschdolla.
+jk	37138	Rottweil	1	Wäar hät mir min Korb mit Flaisch gschtohla.
+jk	37153	Obernheim	1	Wer hät m'r mei Korb u. Floasch g'schtola.
+jk	3722	Zaszczytowo	1	Wer hat mir meinen Korb met Flesch gestohlen?
+jk	37302	Winterlingen	1	Wear håt mier mein Gradda mit Floisch g'schtohla?
+jk	37314	Dürrenwaldstetten	1	Wer hot miar mein Kräfn mit Floisch gstohla?
+jk	37333	Hausen am Bussen	1	Wer hout mir mein Kräte mit Flaisch gstohla?
+jk	37354	Baustetten	1	Wär hot mein Krätta mit Floisch gschtohla?
+jk	37369	Illertissen	1	Wer hat mir mein Kreta mit Fleisch gschtola?
+jk	37388	Schenkenzell	1	Wer hot mer mai Korb gschdōle?
+kl	37401	Aistaig	1	Wear hat miar mei Schie?? mit Floasch gschtohla?
+kl	3744	Rudnica	1	Wer hat mer mein'n Korw met Flesch jestohl'n
+kl	37555	Stetten bei Haigerloch	1	Wear hŏtt mir mein Kradda mit Floasch gschdohla?
+kl	37571	Salmendingen	1	Wear hott miar mein Gratta mit Floisch g'schtohla?
+kl	37581	Bernloch	1	Wer hot m'r mein Grätta gschtohla mit Flojsch?
+kl	37598	Gundershofen	1	Wer hôt mir mein Krätte mit Flôisch gstohle?
+kl	37607	Eggingen	1	Wear hot mier mei Korb mit Floisch geschtohla?
+kl	37622	Holzheim	1	Wear hat miar mein Greta mit Flo̰isch gschtohla?
+kl	37658	Oberwaldach	1	Wer hod miar mein Korb mit Fleisch g'stohla?
+kl	37802	Bondorf	1	Wear hot miar mein Korb mit Fleisch gstohla?
+kl	37825	Lustnau	1	Wear hott mer mein Krètta mit Flaesch gstohla?
+kl	37855	Dettingen an der Erms	1	Wear hot mer main Krätta mit Floisch gschtohla.
+kl	37862	Donnstetten	1	Wä(a)r hŏt mie(a)r mein Grèdda mit Floisch g'stohla?
+kl	37869	Radelstetten	1	Wer hat mer mein Korb mit Fleische gschtoln?
+kl	37883	Ballendorf	1	Wäar hat miar mein Kräzzå mit Floisch g'schtōhlå?
+kl	37900	Obermedlingen	1	Wer jpt mr mein Korb' mit Floisch gschtola?
+kl	37902	Raumünzach	1	Wer hat (hot, het) m'r mei (mi) Korb mit Fleisch gschtohln.
+kl	37947	Schönaich	1	Wear ho̰t mă̰r mein Krattă̰ mit Floă̰sch gstohlă̰?
+kl	38044	Hünerberg	1	Wear hot mer mein Krada mit Floasch gstohla.
+kl	38056	Gechingen	1	Wear hot mer mei Zoane mit Floasch gschtohla?
+kl	38095	Denkendorf	1	Wear hòt mr mein Grätta mit Floesch gschtohle?
+kl	38116	Albershausen	1	Wear hot mir mein Kreaba mit Floisch gschdohla?
+kl	38136	Winzingen	1	Wear hot mir mein Kreaba mit Floisch geschtohla?
+kl	38146	Zang	1	Wear hot mer mein Krraba mit Floisch gestohla?
+kl	38155	Auernheim	1	Wèar hòt m'r mein Krätza voll Flöisch gschtohla?
+kl	38169	Dennach	1	Wèr hat mar moen Korb mit Fleisch g'schtōhla?
+kl	38182	Tiefenbronn	1	Wer hot mir mei Korb mit Flaisch g'schtohle?
+kl	38348	Schöckingen	1	Wear hot mer mein Korb mit Fleisch gschtohla?
+kl	38373	Hegnach	1	Wer hoat mei mein Korb mit Floisch gschdola.
+kl	38407	Steinenberg	1	Wèar hot mar mein Korăb mit Flŏĭsch gschdohla?
+kl	38422	Ruppertshofen	1	Wear hot mir mein Korab mit Floisch gschtola?
+kl	38437	Fachsenfeld	1	Wer hot mir mein Krèba mit Floisch gschtohla?
+kl	38448	Baldern	1	Wer hat mir mein Korb mit Floisch g'schtohla?
+kl	38482	Kleinvillars	1	Wèr haddmr mein Korb mid Flaisch g'schdōla?
+kl	38502	Hohenhaslach	1	Wer hat mir mein Korb mit Flaisch gschdohla?
+kl	38623	Nendingen	1	Wăar hàtt mär mei Korb mit Flaisch gschdollă.
+kl	38640	Rohrdorf	1	Wer hot mer mei Korb mit Floisch g'schdohla?
+kl	38655	Völlkofen	1	Wèr hot miar mein Korb mit Floisch gstohlè?
+kl	38666	Reichenbach	1	Wäar haot mir mein Krätta vōl Floisch g'schdohla?
+kl	38682	Mittelbuch	1	Wer hat denn mir da Kräta mit samt dem Floisch gstohla?
+kl	38695	Unteropfingen	1	Wer hot mir main Krätta gschtola mit em Floisch.
+kl	3871	Dreetz	1	Wer hett mi minen Korf met Fleesch stoahlen?
+kl	38720	Kicklingen	1	Wer hat mir main Korb mit Floisch gstohla?
+kl	38738	Westendorf	1	Wear haut miar mein Korb mit Fleisch g'schtohla.
+kl	38764	Waidhofen	1	Weàr hŏt mià mein Karb mim Fleisch gschdoin?
+kl	38774	Eschelbach an der Ilm	1	Wer hat ma mein Karb mit'n Fleisch gschtoin?
+kl	3880	Brunne	1	Wae het maei mien'n Korf met Flesch éstoahl'e 
+kl	38863	Pöttmes	1	Wär hot ma mein Gezn mitn Fleisch gschtoin.
+kl	3887	Sommerfeld	1	Wer hăt mei min Korf mit Flesche stoohln?
+kl	38899	Hebrontshausen	1	Wer haot mir mei Kerbl mit Fleisch g'stohl'n?
+kl	38912	Oberglaim	1	Wer hat mein Korb mit Fleisch gstohln?
+kl	38935	Fronhofen	1	Wèar hot m'r mein Kretza mit'm Floisch gschtola?
+kl	3896	Malz	1	Wer hätt mi mien Korf met Flesch stoaln?
+kl	38963	Stepperg	1	Wer hot m'r denn mein Kretsn (Korb) mitm Fleisch gschtuhln?
+kl	3901	Stolzenhagen	1	Wär het mîe mîn Korf met Flesch gestoeln?
+kl	3906	Prenden	1	Wä het mi mien Korw mit Fleesch gestoihln?
+kl	39062	Hafenreut	1	Wer hat mir meïn Korb mit Fleisch gstohla?
+kl	39089	Gerolfing	1	Wea haot ena mēin Gretz'n voll Fleisch g'stoln?
+kl	39103	Irsching	1	Wer hat mein Karb mot Flesch gschtohln.
+kl	39116	Siegenburg	1	Wea hot m a mein Kar mitn Fleisch gschtohln?
+kl	39126	Semerskirchen	1	Wer hat ma mein Koab mit Fleisch gstohln?
+kl	39140	Hofkirchen	1	Wer hoat ma mein Koa midn Fleisch gschdoin.
+kl	39160	Dürrenzimmern	1	Wear hot miar mein Korab mit Floisch gschtohla?
+kl	39179	Gundelsheim	1	Wer hat miar mein Gretza mit Fleisch gschtohln.
+kl	3919	Trampe	1	Wär hät mie mienen Korf met Dlesch gestoahlen?
+kl	39201	Walting	1	Wer hot mèr mein Korb mit'n Fleisch g'schtohln?
+kl	39293	Bieswang	1	Wer haut mir ma Kŏrbm mit Fleisch gstuhln?
+kl	3931	Neureetz	1	Wer hät mie mien Korf met Flesch jestoaln?
+kl	39317	Pondorf	1	Wer hot ma mein Koarb mit Fleisch gschtoln?
+kl	39329	Neukelheim	1	Wer hoat ma mein Kar mitn Fleisch gstohln. 
+kl	39342	Peising	1	Wer hat mia mei Körbl mit'm Fleisch g'stohln.
+kl	39356	Arlesried	1	Wer haut mer de Kreata mit'm Fleisch geschtohla?
+kl	39370	Türkheim	1	Wear haud miar mein Korb mit Floesch gschdohla?
+kl	39398	Gauting	1	Wer hat mar mein Kae b mit n Fleisch gschtoin?
+kl	3944	Kurzycko	1	Wer hett mi minen Korf mett Flaesch gestoahl'n?
+kl	39459	Kaufering	1	Wer hot mer den Kreza voll Floisch gschtola?
+kl	39475	Eching am Ammersee	1	Wer hat mir meinen Korb mit Fleisch gstohla?
+kl	3949	Grzymiradz	1	Wer hett mie min Korb met Fleesch gestoalen?
+kl	39494	Perlach	1	Wer hoat miar mein Koarb voll Fleisch gstolln.
+kl	39503	Zorneding	1	Wer hoat mir mein Korb mit Fleisch gstohln?
+kl	39509	Albaching	1	Wer hat mir mein Kourb /:Kurb:/ mit Fle[i?]sch g’stohl’n?
+kl	39515	Sankt Leonhard	1	Wer hot ma mein Koarb voll Fleisch gschtohln.
+kl	39517	Niederraunau	1	Weăr haut mein Krettă mit am Floisch g'stōhla?
+kl	39529	Walkertshofen	1	Wer haut mir mein Korb mit m Floisch gschtōhlā?
+kl	39546	Oberottmarshausen	1	Wer hot mir mein Korb mit'm Fleisch g'shtohla?
+kl	3957	Lubiszyn	1	Wär het mie mienen Korf met Flesch gestoahlen?
+kl	39647	Mittelstetten	1	Wear hod mar mein Krötz'n mit Fleisch gschdol'n?
+kl	3965	Heinersdorf	1	Wer hett mie minen Korv met Fleesch gestohlen?
+kl	39662	Bergkirchen	1	Wer hot ma mein Grätzn mitn Fleisch gstohln?
+kl	39667	Unterschleissheim	1	Wer hat ma mein korb mit'n Fleisch g'stohln?
+kl	39673	Moosinning	1	Wer hat mir mein Karb mitm Fleisch geschtohln?
+kl	39687	Oberdorfen	1	Wea ho ma denn an Karb min Fleisch gschtoin?
+kl	39693	Wettenhausen	1	Wer hat mr mein Korb mit Floisch gschtohla?
+kl	39710	Zusmarshausen	1	Wer hat mir mein Korb mit Fleisch gstohla?
+kl	39723	Täfertingen	1	Wear hot mir mein Koarb mit Flesch gstohle?
+kl	39742	Gallenbach	1	Wer hat mir mein Korb mitn Fleisch gschtohln.
+kl	39865	Hilgertshausen	1	Wer hat mer mein Kretzn mit n Fleisch gschtohln.
+kl	39880	Allershausen	1	Wer gat na jetz mein Karr mit'n Fleisch gstohln?
+kl	39891	Rast	1	Wer hot ma mein kar mit Fleisch g'stöin.
+kl	39901	Vilsheim	1	Wäă hoat ma mein Kārb mit'n Fleisch gschtoin.
+lm	39954	Sattelbogen	1	Wäa hat man n Koar voll Fleisch gschtohln  [große Tilde unter „an“ von man] 
+lm	39962	Krailing	1	Wer ho͡at ma mein Ko͡ǎrb mit zamt’n Fleisch g’schtoi̔n?
+lm	39968	Oberried	1	Wer hot mi man Tilde unter „an“ Koar mitn Fläsch gschtoin.
+lm	40000	Pertolzhofen	1	Wer hot mir mein Koarb mit Fleisch gschtohln?
+lm	40012	Tiefenbach	1	Wea hadma man Koa mitn Fläsch gschtoln.
+lm	40047	Pemfling	1	Wea hot ma män Koa min Fläsch gschtoln?
+lm	40057	Arnschwang	1	Wäa hodh mir man Kar mid'n Fläsch g'schtohl'n?
+lm	40112	Wald an der Alz	1	Wer hot mein kuab mitn Fleisch gschtoin?
+lm	40137	Ranoldsberg	1	Wea hod ma mein Korb mit Fleisch g'schdohln.
+lm	40145	Erharting	1	Wöä(r) hát ma denn mein karb (sam) zampn Fleisch gschtōŏn?
+lm	40155	Gumpersdorf	1	Wer hat ma mein Kar mie Fleisch gstoin?
+lm	40191	Vilsbiburg	1	Wer hat mia mein Korb mit Fleisch gstohin?
+lm	40202	Gangkofen	1	Wea hoat ma mein Kob mitn Fleisch gschtoin.
+lm	40212	Neuhofen	1	Weá hot ma mein Kōá(r) mit Fleisch gschtōin?
+lm	40220	Bad Birnbach	1	Wer hat ma mei Kerwä mit'n Fleisch gschtoin?
+lm	40231	Ruhstorf an der Rott	1	Wer hat ma mein Kar mit Fleisch gschtoin.
+lm	40274	Wörth an der Isar	1	Wea hot ma denn mei Köeabö mitn Fleisch gschtoin?
+lm	40286	Griesbach	1	Wer hat ma mein Koar mit Fleisch gstohln?
+lm	40297	Indersbach	1	We(r) hoat ma denn mein Koa midn Fleisch schtoin.
+lm	40308	Walchsing	1	Wer hat mir mein Korb mitm Fleisch gstohln?
+lm	40320	Kirchberg	1	Wer hot ma mein Koar(b) zsambdn Fleisch gschdoln.
+lm	40331	Haag	1	Wer hat ma denn ma Kèrwö zamtn Flesch gstohln.
+lm	40402	Hankofen	1	Wear hat ma denn mei Kearbö gschtohln zammdn Fleisch.
+lm	40414	Plattling	1	Wea hat ma denn mein Koa(r)b gstoin, wous Fleisch drin gwësn is.
+lm	40420	Auerbach	1	Wea hot ma mein Koă zannt'n Fleisch gschdoin?
+lm	40428	Saldenburg	1	Wer hat ma denn mein Fleischkerbl gstohln?
+lm	40439	Karlsbach	1	Wer hat mia mein Koab mit Fleisch gschtoin?
+lm	40516	Steinach	1	Wèr hot ma mein' Koar' mit'n Fleisch g'schdohln?
+lm	40524	Perasdorf	1	Wer hot ma den mein Koa g'schtohl'n u. zamt'n Fleisch?
+lm	40531	Regen	1	Wea hoat ma mein Koab midn Fläisch gschtohln?
+lm	40535	Klingenbrunn	1	Wea hat ma denn iazt mein Kerbö zamd'n Fleiösch gschdoön????
+lm	40538	Riekofen	1	Wea hot ma denn mein' Koar mit n' Fleisch g'stohl'n?
+lm	40597	Lindau (Bodensee)	1	Wear hott mir min Korb mit Fleisch gschtolle?
+lm	40605	Schnellers	1	Wer hōt mr min Kwoārb mit dm Flōisch gschdōle?
+lm	40613	Ratholz	1	Wéa hot miar ming Koarb mit Flaisch gschtohle?
+lm	40637	Eschbach	1	Wer hät mer min Chorb mit 'em Floisch g'stohla?
+lm	40655	Erzingen	1	Wer hät mir min Korb mit Fleisch g'stohle?
+lm	40757	Schienen	1	Wer hat mer min Korb mit Fleisch gschtohla?
+lm	40771	Wollmatingen	1	Wer hät mer min Korb mit Fleisch gschtole?
+lm	40785	Kluftern	1	Wear hot mar min Kratta mit samtam Floasch gschtohla?
+lm	40798	Obereisenbach	1	Wear hot miar da Korb mit Floasch gschtola?
+lm	40807	Ratzenried	1	Wer hot mr mein Korb mit Floisch gstohla? (statt Korb auch: Krătă)
+lm	4081	Bantikow	1	Wä hett mi min Korf met Flâsch stålen?
+lm	40819	Kreuzthal	1	Wer haut miar mein Koarb mit Fleisch gschtohla?
+lm	40844	Münchingen	1	Wär hätt mer min Chorb mitdm Flaisch gschtohla.
+lm	40863	Tengen	1	Wär hätt mar min Chorb mit am Fleisch gschtolla.
+lm	40898	Billafingen	1	Wer hat mir mei Genla mitem Fleisch gnumma (gstohla).
+lm	4093	Kränzlin	1	Wer het mie mien Korv mit Fleesch stohln?
+lm	41018	Eigeltingen	1	Wer hät mer min Korb mit Floasch gnu?
+lm	4102	Seebeck	1	Wär hött mi mien Korf mät Flesch gestahln.
+lm	41049	Illmensee	1	Wer hot mir mīn Korb mit sammtem Floasch g'schtohla?
+lm	41057	Baindt	1	Wer hot mina Korb mit Floasch gstohla?
+lm	41064	Ziegelbach	1	Wear hot mer menn Korb mit Floisch g'stohla.
+lm	41076	Maria Steinbach	1	Wear haut mér mein Koarb mibm Floisch gschtohla?
+lm	41086	Waldau	1	Wer het mèr dèr Korb mit Flaisch gscholler?
+lm	41098	Hubertshofen	1	Wer hät m'r da Korb mit Fleisch gschtolla?
+lm	41114	Öfingen	1	Wer hätt mir min Koarb mit Floasch gschtolln?
+lm	4112	Klein-Mutz	1	War het mi mi'n Korw met Fleesch stoahl'n?
+lm	4119	Gross Dölln	1	Wä hätt mi mien Korf met Fleesch stoahl'n.
+lm	41200	Masevaux	1	Wrr hāt mr mī Korb voll Fleisch gschtohla?
+lm	41214	Aspach-Le-Bas	1	Wer hatt m'r mi Korb mit Flaisch g'schtola?
+lm	4123	Senftenhütte	1	Wär hett mie minen Korf mett Flesch gestoahlen?
+lm	41245	Lipburg	1	Wèr hètt m'r mi Chorb mit d'm Fleisch g'stohlè?
+lm	41262	Utzenfeld	1	Wer hät mir min Chorb mit Flaisch gschtohle?
+lm	41275	Schluchsee - Blasiwald	1	Wér hät mir min Chorb mit em Flaisch gschtōle?
+lm	41296	Oberentzen	1	Wer hét mér mina Korb un mi Fleisch gstohla?
+lm	41309	Feldkirch	1	Wär hett mr mī Chorb mit Flaisch gschtohle?
+lm	41336	Kappel	1	Wer hät mer mi Korb mit em Flaisch g'schtola?
+lm	41351	Urbès	1	Wer hatt i mir mi Korb mit Flaisch g'stohle?
+lm	41365	Rimbach-Près-Guebwiller	1	Wér hat m'r mīna Kōrb mĕt Flāisch g'stōhlă?
+lm	4142	Stoki	1	Wer hett mi mi'n Korf met Flesch jestoahln.
+lm	41460	Rixheim	1	War hat mr mi Fleisch üs-em Korb g'schtohle?
+lm	4152	Stoleczna	1	Wer hätt mi mihn Korw m?tt Flesch gestoahln?
+lm	41566	Ranspach-Le-Bas	1	War hätt mr mi Chorb mit Fleisch geschtohla?
+lm	41598	Lörrach	1	Wer het mer mi Chorb mit dem Fleisch gschdohle?
+lm	4161	Glazow	1	Wer hett mi mie'n Korf met Fleesch gestoahl'n?
+lm	41623	Hütten	1	Wer hät mer min Chorb voll Fleisch gschtohlè.
+lm	41653	Largitzen	1	Wer hät mr mi Fleischkorb gschtohle?
+lm	4171	Okunie	1	Wem het mi minen Corf met Flesch gestolen?
+lm	41714	Lucelle	1	Wer hètt m'r miă Chorb mit dém Flaisch gschtohlă?
+lm	41785	Höhenrain	1	Wer hàt mein Kàrb mit'n Fleisch gschdoin?
+lm	41801	Grosshöhenrain	1	Wer hot ma mein Koarb mi'n Fleisch gstoin?
+lm	41811	Tattenhausen	1	Wea hat mein Karb mit Fleisch g'stoihn.
+lm	41819	Ollarzried	1	Wër haut mir mein Koarb mit Fleisch gstohle?
+lm	41836	Kaufbeuren	1	Wer haut mir meon Krette (Korb) mot Fleisch geschtole.
+lm	41845	Denklingen	1	Wear hat mir main Kredda voll Floisch gstohla?
+lm	41855	Raisting	1	Wear hat m'r mein Korb voll Fleisch gschtola?
+lm	41872	Baiernrain	1	Wer hot ma mein Korb mit Fleisch gstoin.
+lm	41932	Huglfing	1	Wea hot ma mein Koarb voll Fleisch gschtohln?
+lm	41939	Penzberg	1	Wer hot mein Karb voi Fleisch gschdoin?
+lm	41948	Reichersbeuern	1	Wer hat mir mein Korb mitn Fleisch gstohln?
+lm	41953	Parsberg	1	Wer hoat mir meinen Korb mit Fleisch g'stohl'n?
+lm	41963	Kirchdorf am Inn	1	Wer hat ma mein Karb mit'n Fleisch gstohln?
+lm	41969	Aschau im Chiemgau-Niederaschau	1	Wer hat mia mein Koarb mitn Fleisch g'schtohln?
+lm	41971	Betzigau	1	Wö haut mier mein Flaischkretta gschtohla.
+lm	41980	Sulzschneid	1	Wea ho'br mein' Koarb (Kretta) mit'm Fleisch g'schtohle?
+lm	41986	Steingaden	1	Wer joat mer mein Krätta mit Fläsch gschtohlen.
+lm	42039	Bayerniederhofen	1	Wer hat mir mei Kretta samtn Fleisch gstohla?
+lm	42049	Jachenau	1	Wer hot ma an Koarb mitn Fleisch gstohln?
+lm	42056	Unterjoch	1	Wer hat mir den Korb gestohlen mit samt dem Fleisch.
+mn	42062	Oberau	1	Wer hot ma mein Korb mitn Fleisch gschtoln?
+mn	42070	Eggstätt	1	Wer hod ma main Karb mit Fleisch gschdoin?
+mn	42076	Traunwalchen	1	Wea hat ma mein Karb' min Fleisch gschtoin.
+mn	42084	Kirchanschöring	1	Wer hat ma mein Kuirm mit Fleisch gstoin?
+mn	42116	Ruhpolding	1	Wer hat ma mei Kerba mid'n Fleisch gschtoihn?
+mn	42118	Anger	1	Wea hat mo den mein Kuirim min Fleisch gstoin.
+mn	42132	Ramsau bei Berchtesgaden	1	Wer hot ma mein Karb mit'n Fleisch gschtohln?
+mn	42140	Hachiville	1	Wen hat mer mei Kuorw mat Fleisch gestuollen?
+mn	42166	Niederwampach	1	Wien haot ma de Kuorf mam Fläsch gestaol.
+mn	42180	Neidhausen	1	Wen hatt mer mei Kuorv mat Flesch geschtuellen?
+mn	42236	Ettelbrück	1	Wien huot mir mei Kuorf mam Flesch gestuol?
+mn	42254	Rambrouch	1	Wien huot mir mie Kuoref mam Flesch gestuol.
+mn	42302	Eischen	1	Wen hu-et merr me'en Kurf mattt Flesch gestu-el?
+mn	42316	Hünsdorf	1	Wien huet mir mei Kuerv mat em Flesch gehol?
+mn	42341	Biwer	1	Wien huot mer mei Kuorf mat Flesch gestuol?
+mn	42414	Uewerkuer	1	Win huot mer mei Kuorf mat Flesch gestuol?
+mn	42431	Peppange	1	Wem huot mer mei Kuerw mam Flesch geholl?
+mn	42469	Schwarzenbach an der Pielach	1	Wer hot mia mein Korb mitn Fleisch gstohln?
+mn	42470	Lehenrotte	1	Wer hot ma mein Korb mit Fleisch gstohln.
+mn	42472	Thal	1	Wer hat ma mein Kurb mit Flaisch gstoln.
+mn	42477	Grillenberg	1	Wea hot mia mein Koab mit Fleisch gschtoin?
+mn	42520	Schneebergdörfl	1	Wer hot ma mein Kerbl mit'n Fleisch g'stuhln?
+mn	42527	Mollram	1	Wer hot ma denn mein Korb mit'n Fleisch gstohln?
+mn	42532	Frein an der Mürz	1	Wer hat ma mein Korb mit Fleisch gstohln?
+mn	42571	Massing	1	Wer hat ma mein Korb mit Fleisch g'stohl'n?
+mn	42573	Semmering	1	Wea hot ma mein Kuab mit'n Fleisch g'stuhin?
+mn	42587	Feistritz am Wechsel	1	Wer hot'n mein Korb mit'n Fleisch g'stoin?
+mn	42612	Gleichenbach	1	Wer hout ma dein mein Korw mitn Fleisch gschduin.
+mn	42635	Weiden am See	1	Wea hot ma mein Koab mit Fleisch g'stuhln?
+mn	42637	Nickelsdorf	1	Wer hod ma mei Käbl mitn Fleisch gstuhln?
+mn	42640	Siegersdorf	1	Wer hat ma mein Korb mit Fleisch g'stohln?
+mn	42647	Stotzing	1	Wea hot mein Koab mitn Fleisch gschtoln?
+mn	42670	Wieselburg (Mosonmagyaróvár)	1	Wea hod mein Khoab mit'm Fleisch kstuin?
+mn	42688	Andau	1	Wer hot an Kori Fleisch gstohln.
+mn	42691	Wiesen	1	Wer hot ma denn mein Karb mit z'samt'n Fleisch gstuhln?
+mn	42701	Baumgarten	1	Wea hot mi mei Koab mit n Fleisch gstuhln?
+mn	42706	Apetlon	1	Wear heout mar mein Koari mi'n Fleisch gsteouln.
+mn	42722	Horitschon	1	Wer haut mir meinen Korb mit Floisch gstuhln?
+mn	42728	Holling (Fertőboz)	1	Wea hod min Koab midn Fleisch gstulln.
+mn	42748	Frasnacht	1	Wär hätt-mr min Chorb mit Fleisch gschtoll?
+mn	42821	Rietli	1	Wer het mer de Chorb mit santem Fleisch gschtole?
+mn	42843	Hohenems	1	Wer hät mer min Korb mit zsamt Fleisch gstola?
+mn	42850	Bizau	1	Wer hat mr mianr Koab mit Flosch g'stoan?
+mn	42856	Riezlern	1	Wär hed miar min Chorb med Flaisch gstohla?
+mn	42908	Gamprin	1	Wer het mer min Karb met am Fletsch gstohla?
+mn	42926	Röns	1	Wear hätt iz mier min Karb mit zammt am Fleisch gstohla.
+mn	4293	Brielow	1	Wär hett mi minen Karf met Flesch e stohl'n.
+mn	42933	Buchboden	1	Wer hädd mir dä Kradda mid Fleisch gnou?
+mn	42939	Lech	1	Weir heb' m'r min Khoorb med'm Fleisch gschdollä.
+mn	42970	Sargans	1	Wär hät miär minä Chorb mit Fleisch gstoulä?
+mn	42977	Schruns	1	Wer hot mar min Karb mit dem Flesch gstohla?
+mn	42985	Vils	1	Wear hot miar meinen Korb mit 'Fleisch gstohlen?
+mn	43004	Hinterhornbach	1	Wea hattmr mein Koarb mitm Fleisch gschtohlt?
+mn	43013	Rinnen	1	Wer hot mr mein Kratte mit'm Fleisch gschtohle?
+mn	43021	Ehrwald	1	Wear hat mer mei Koarb mit Fleisch gschtouhla.
+mn	43022	Leutasch	1	Wear hot den Koarb mitn Fleisch gstohln.
+mn	43027	Bach	1	Wär hat miar mein Koarb mit'm Fleisch g'stohlt?
+mn	43037	Silzerberg	1	Wear hat mer mein Korb mit'n Fleisch gschtohl'n?
+mn	43055	Hatting	1	Wer hoat mir mein Koarb mit fleisch gstohln?
+mn	4306	Deetz	1	Wer het mie mienen Korf met Flesch g'stoahln.
+mn	43070	Mils bei Imst	1	Wear hot miar den Koarb mit Fleisch gestohle?
+mn	43122	Unterried	1	Wer hot mir mein Korb mit'n Fleische gstohln?
+mn	43133	Holdernach	1	Wear hot mar mein Koarb voll fleisch gstohla?
+mn	43152	Kauns	1	Wear hot mr main Koarb voll Flaisch gschtoula.
+mn	43161	Unterberg	1	Wer hat mir mein Korb voll Fleisch g'stohl'n?
+mn	43162	Pertisau	1	Wea håd ma mein Korb zampm Fleisch gstoln.
+mn	43173	Brixlegg	1	Wea ho' ma mein Zögga voi Fleisch gschtoin.
+mn	43183	Penningdörfl	1	Wear hot miar mein Korb mit Fleisch g'schoin (gschtoin)
+mn	4321	Fahrland	1	Wer het mie mien Korf met Flesch e stoahlen?
+mn	43210	Innsbruck	1	Weam hat miar mein Korb (mein Zegger) mitn Fleisch gschtohln.
+mn	43224	Kolsassberg	1	Wer hat mer mein Korb mit’n Fleisch gstolln. 
+mn	43251	Aschau im Zillertal	1	Wer hoat mia mein Korb voll Fleisch gstohln.
+mn	43280	Krimml	1	Wea hot mia mein Korb mitn Fleisch gschoön?
+mn	43285	Trins	1	Wear hot mir mein Korb mit'n Fleisch gschtohln?
+mn	43288	Dornauberg	1	Wear hot mr mein Koarb mitn Fleischn gstolln?
+mn	4329	Steglitz	1	Wer hät mi min Korv met Flesch jestoahln?
+mn	43297	Schmirn	1	Wear hot mer mein Korb mit Fleisch gstohlen?
+mn	43301	Kitzbühel	1	Wea hoad ma mein Koarb mid'n Fleisch gstoin?
+mn	43303	Hochfilzen	1	Wer hat mir mein korb mit Fleisch gstohln?
+mn	43310	Saalfelden am Steinernen Meer	1	Wea håt ma mein Kårb z'somtn Fleisch gstoin?
+mn	43315	Werfen	1	Wer hot ma mein Koarb mit Fleisch gstoin?
+mn	43331	Bramberg am Wildkogel	1	Wer håt mia mein Ko̊rb mitn Fleisch gschtoin.
+mn	43340	Niedernsill	1	Wear håt ma mein Kåorb mitn Fleisch gstoin?
+mn	43347	Sankt Georgen	1	Na, wer håt ma hiazt mem Kårb mit'n Fleisch g'holt?
+mn	43354	Goldegg	1	Wea håt ma mein Korb mi'm Fleisch gstoin.
+mn	43359	Kleinarl	1	Wer hout ma mein Kårb mit'm Fleisch g'stoin?
+mn	43372	Bad Gastein	1	Wer haot ma mein Kerbö mit'n Fleisch g'schtoin?
+mn	43378	Berg-Gruben	1	Wea hot mia méni Korb mitn Fleische gestouln?
+mn	43379	Heiligenblut	1	Wer håt ma mein Koarb mit Fleisch gstohln?
+mn	4338	Köpenick-Kietz	1	Wer hett mi mien Karb met Flesch jestohln.
+mn	43381	Sankt Martin am Tennengebirge	1	Wer hat ma mei Fleischkörbl danon(?)?
+mn	43384	Ramsau	1	We hut mir den Fleischzökn doibt (von Dieb) oder gerabst? Oder g'fixelt?
+mn	43391	Assach	1	Wa het ma mein Karb mit'n Fleisch g'stohl'n.
+mn	43393	Donnersbach	1	Wer hat ma man Koarb mit’n Fleisch gstolln. 
+mn	43412	Untertauern	1	We håut ma mein’ Koarb a steht über o mit fleisch gschtoin?
+mn	43420	Pöllau	1	We hoat mä mem Kourb mit Fleisch gschtuhln?
+mn	43427	Oberweissburg	1	Wer håt ma mei Karbl mit Fleisch putzt? (gschtoin)
+mn	43433	Sauerfeld	1	Wear hat mia mein Koarb Fleisch gstohin?
+mn	43439	Ranten	1	We håt ma mein Korb mit'n Fleisch g'schtoln?
+mn	43453	Strechen	1	Wer het ma mein Fleischkorb gstuln.
+no	43455	Treglwang	1	Wer hat mein Körb mit Floisch gstohln?
+no	43457	Kalwang	1	Saggra! Jetzt is ma a ana mit mein Kerbl Fleisch a gforn.
+no	43458	Trofaiach	1	Wer hot ma’n Korb mitn fleisch gschuln?
+no	43462	Hafendorf	1	Wer hot mir mein Koab mit'n Fleisch gsto'hln?
+no	4347	Herzfelde	1	Weer hät mie mienen Korf mett Fleesch gestoahl'n?
+no	43480	Sankt Michael in Obersteiermark	1	Wer hotma deönn mei Korb mitn Fleisch gstuhln?
+no	43488	Pusterwald	1	We hot mia mein Kaubb mit Fleisch gstuhln?
+no	43489	Sankt Oswald	1	Wa hat den nur mein Zega Fleisch gstuhl?
+no	43494	Sankt Marein bei Knittelfeld	1	Wer hot ma mein'n Koab mit'n Fleisch g'schtohln?
+no	43497	Frohnleiten	1	Wer hod ma mein Koab mit Fleisch g'schduln?
+no	43505	Sankt Peter ob Judenburg	1	We hot ma mein Korb mitn Fleisch gstohln?
+no	43530	Teufenbach	1	Wer hot ma mein Korb mit'm Fleisch gschohln?
+no	43534	Sankt Johann	1	Wer hot mein Körb mit Fleisch gstuh'ln
+no	43537	Kainach bei Voitsberg	1	Wer hot ma an Köb mit Fleisch gstuhln
+no	43544	Gratwein	1	Wer hot ma mei Kerbl mit’n Fleisch gstuahln?
+no	4357	Tempelberg	1	Wer hat mir menèn(?) Kòrv mit Flesch gestohlen.
+no	43576	Fochnitz	1	Wer hat mor an Korb vuln Fleisch gstuhln.
+no	43579	Wenigzell	1	Wer hot ma mein Korb mit Fleisch gschtohln?
+no	43633	Ehrenschachen	1	Wer hot ma mein’n Korb mit’n fleisch gstuhln?
+no	4364	Döbberin	1	Wer het mi mienen Korf met Flesch gestoahlen.
+no	43640	Salmannsdorf	1	Wer hot ma da main Korb mit Flaisch gstoln?
+no	43662	Sankt Kathrein am Offenegg	1	Wer hot mir mein Koarb mit Fleisch gstuhln?
+no	43699	Siget in der Wart	1	Wer hat me in Koeb Flaisch gstuhln.
+no	43715	Stubenberg	1	Wea hat ma mein Kar mit Fleisch g'stohln.
+no	43726	Unterrohr	1	Wer hout ma mein Koarb mit Fleisch gschtuhn?
+no	43756	Eggersdorf	1	Wer håt ma mein Korb vull Fleisch gschtuln.
+no	43761	Sinabelkirchen	1	Wer hot mia main Koa(b) mitn Flaisch gschtuln?
+no	4377	Pamiecin	1	Wiär hat mei meinen Korf met Flech gestoiln.
+no	43773	Bad Blumau	1	Wer hot ma mein Fleisch und an Korb g'stull'n?
+no	43782	Deutsch Tschantschendorf	1	Wea hot ma me-in Koh mit Fleisch gschtuhln
+no	43850	Klostermarienberg	1	Wer hot ma mein Koab mit Fleisch gschtulln.
+no	4388	Grabno	1	Wer hat mir meinen Korb mett Flesch gestohlen?
+no	43889	Moschendorf	1	Wie hot me mein Korb mit Fleisch g'stühln?
+no	43896	St. Jakob	1	Wer håt mei en in gånzen Korb volln Fleisch durch.
+no	43905	Oberpeischlach	1	Wea hot mia mein Korb mit Fleisch gschtouhl?
+no	43909	Mörtschach	1	Wer hät dönn mein Korb mit'n Fleasch g'stohl'n.
+no	43910	Flattach	1	Wer håt mein Fleischkorb g'schtohl'n?
+no	43938	Kolbnitz	1	Wer hät denn mir mein Korb mit Fleisch gschtohlen?
+no	43939	Ausservillgraten	1	Wea hot mr mein Korb mit'n Fleische gistohl?
+no	43948	Assling	1	Wer hot mir mein Korb mit Fleisch gstouhlen
+no	43959	Lindsberg	1	Wer håt ma mein Zegga mitn Fleisch gstohln.
+no	43977	Kornat	1	Wer hot denn mir mei Kerbl mitn Fleische gschtohln?
+no	43982	Berg im Drautal	1	Wer hot ma mein Korb mit Fleisch gschtouln.
+no	43988	Goderschach	1	Wer håt mir mein Koarb mitn fleisch gschtohln.
+no	4400	Trzemeszno Lubuskie	1	Wer hat mer meinen Korb met Flesch gestohlen?
+no	44006	Kremsbrücke	1	Wär hot ma mein Kårb Flaisch gschtouln.
+no	44010	Oberhof	1	Wer hot ma mein Korb mit'n Fleisch gstohln?
+no	44038	Kleblach-Lind	1	Wer hat mern Korb mitn Fleisch gstohln.
+no	44040	Obermillstatt	1	Wer håt mir mein Karb mit Fleisch gschtohln?
+no	44054	Patergassen	1	Wer hot mar mein Korb mit'm Fleisch g'stohln?
+no	44056	Steuerberg	1	Wer håt mer mein Kurv g'stol'n, wo's Fleisch drin g'wes'n is?
+no	44109	Hermagor	1	Wer håt denn ebla mein Kourb mit Fleisch gschtouln.
+no	44117	Bleiberg-Kreuth	1	Wer håtn mein Koab mitn Fleisch gstoln?
+no	44124	Villach	1	Wer hat mir mein Kurb mitn Fleisch gstohln.
+no	44142	Schiefling	1	Wer hot mein'n Korb mit d'n Fleisch gstohl'n?
+no	44162	Suetschach	1	Wer hat ma mein Kurb mitn Fleisch gstohln?
+no	44174	Sankt Salvator	1	Wer håt mar mein Kårb mitn Fleisch gschtoln? (g'schnipst)
+no	44182	Heft	1	Wer håt denn mein Fleischkårb g'schtohln?
+no	44189	Schiefling	1	Wer hot mir meni Korb oder Zega mitn Fleisch gstohln.
+no	44196	Modriach	1	Wer hatt mia mein Karb mitn Fleisch gschstuhln?
+no	44200	Launegg	1	Wea hat mein Karb mit'n Fleisch g'stuhln.
+no	44234	Obermühlbach	1	Wer hôt miar mein Kârb mit'n Fleisch g'schtohln?
+no	44243	Hochfeistritz	1	Wer hot mein korb mit Fleisch gschtoln?
+no	44248	Sankt Andrä	1	Wer hôt mir mein K̊orb mit’n fleisch g’schtohln?
+no	44256	Glashütten	1	Wea hot ma mein Kor mitn Fleiisch gschtuhln? (Fleisch mitn Kar(b)gstuhln)
+no	44261	Sankt Peter im Sulmtal	1	Wer hat ma mein Korb mit Fleisch gstuhln?
+no	44295	Oberhaag	1	Wea hot mia mei(n) Koab Flaisch gstuln?
+no	44303	Klagenfurt-Harbach	1	Wer hat ma denn mein Koerb mit Fleisch gschtolln?
+no	44308	Eberndorf	1	Wer håt ma mein Kurb mit Fleisch gschtoln?
+no	44313	Lorenzenberg	1	Wea håt mia meinen Kurb mit'm Fleisch gstouhle?
+no	44314	Sankt Margarethen	1	Ber håt me mein Kurb mitn Fleisch gstohln?
+no	44320	Bad Eisenkappel	1	Wer hot n meinan Kurb mit Fleisch gstohln?
+no	44333	Paldau	1	Wer hot mir mein Korb mit Fleisch gstulln?
+no	44347	Hohenbrugg an der Raab	1	Wer hot miar mein Koar mit Fleisch gstuhln?
+no	44358	Mogersdorf	1	Wea hot ma mein Koab mitn Fleisch gschtuln?
+no	44371	Allerheiligen bei Wildon	1	Wer hot mein Fleisch sammt Kurb gstuhln?
+no	44398	Leibnitz	1	Wea hot ma mai Koab mìt flaisch g’stuhln?
+no	44414	Klöch	1	Wer hot ma mei(n) Fleischkiarb gstuhln?
+no	44425	Ratschendorf	1	We(r) hot ma mein Kurb mit'n Fleisch g'stuhln?
+no	44433	Langegg	1	Wer hot m'r mein' Korb mit Fleisch gstohl'n?
+no	44439	Ebental (Polom)	1	Bear hot mir mein Koarb mit Wloisch gäschtóhl?
+no	44442	Steinwand (Podstenice)	1	Bear hot mir mein Koarb mit Woasch gäschtól?
+no	44445	Obergras (Trava)	1	Bear hot mr me̤in koart mit Vloischa gästal?
+no	44447	Göttenitz (Gotenica)	1	Biar hot mr mein’n Koarb mit Wloasch góschtól?
+no	44454	Nesseltal (Koprivnik)	1	Bear hot mr mein Zischtle min Vloischo goschtȯlon?
+no	44461	Tiefenbach (Briga)	1	Bear hot mir mein Koarb mit Wloaschä gäschtòhl?
+no	44465	Unterlag (Spodnji Log)	1	Biǟr hot mir mein Koárb mit Vloaisch gäschtöhl?
+no	44519	Wildensbuch	1	Wer hät mer min Chorb mit em Fleisch gstohle?
+no	44610	Wittenwil	1	Wär hät mir is Chorb mit em Fleisch gschtole?
+no	44685	Neukirch an der Thur	1	Wer hät mer dä Chorb mit Fleisch gstolle?
+no	44770	Mont-Tramelan	1	Wär het mei my Chorb mit em Fleisch gschtole?
+no	44771	Pieterlen	1	Wär het mir my Chorb voll Fleisch gschtole.
+no	44796	Merzligen	1	Wär het mer mi Chorb mit Fleisch gschtohle?
+no	44801	Gals	1	Wär het mer mi Chorb mit em Fläisch gschtohle?
+no	44832	Huggerwald	1	Wär het mir dr Chorb mitem Fläisch gstohle?
+no	44851	Ziefen	1	Wär het mer mi Chorb mit Fleisch gschdohle?
+no	44858	Anwil	1	Wär het mr mi Chorb mit samtem Fleisch gschtole?
+no	44888	Umiken	1	Wer het mer myn Chorb mit Fleisch gstole.
+no	44994	Gänsbrunnen	1	Wär het mir my Chorb (voll) vou Fleisch gschtohle?
+no	45009	Oensingen	1	Wär het mer mit Chorb mit em Fleisch gschtohle?
+op	45022	Mühlethal	1	Wèr hèt mèr mi chòrb mit dèm fleisch gstòòle?
+op	45067	Meisterschwanden	1	Wer het mer mi Chorb mit en Fleisch gstòle?
+op	45192	Mülchi	1	War het mer mi Chorb mit em Fleisch g'stole?
+op	45195	Eigenthal	1	Wer hed mer mi Chorb mit em Fleisch gstole?
+op	4521	Wollin	1	Weär hett mi mi'n Korf mett dett Flesch 'e stoale?
+op	4527	Rädel	1	Wer hät mi mienen Korf met Fleesch gestoahlen?
+op	45279	Hildisrieden	1	Wär het mir mi Chorb mit samt em Fleisch gstole.
+op	45299	Willisau	1	Wär het mier my Chorb mit Fleisch g'stole?
+op	45312	Bleuen	1	Wär het mer mi Chorb mit Fleisch gstohle?
+op	45345	Dielsdorf	1	Wär hät mir min Chorb mit em Fleisch gschtole?
+op	45356	Unterwagenburg	1	Wer mre min Chorb mit Fleisch gschtolle?
+op	4539	Wildenbruch	1	Wär het mer min Chorf met Flesch gestoahln?
+op	45474	Boden bei Fischenthal	1	Wer hät ma min Chorb mit Fleisch gstole?
+op	4549	Löwenbruch	1	Wär hät mei mien Korf met Flesch gestoahl'n?
+op	45492	Dicken bei Degersheim	1	Wer hett mer min Chorb met em Fleisch g'schtohle?
+op	45501	Bonstetten	1	Wer het mer min Chorb mit Fleisch gscchtole.
+op	45529	Riedikon	1	Wer hätt mer min Chorb mit Fleisch gschtole?
+op	4560	Deutsch Wusterhausen	1	Wer hat mie mei Korf met Flesch gestahl'n?
+op	45611	Feusisberg	1	Wer hät mer d chourb mit dem Fleisch g'stohlä?
+op	45627	Starkenbach	1	Wer hät mer ächt dä Chorb mit Fleisch gstollä?
+op	45630	Risch	1	Wer hed mer do mi Zeine voll Fleisch gstole?
+op	45644	Reichenburg	1	Wer hät mer nä Korb mit Fleisch g'stolle?
+op	45692	Süri	1	Wär het mir mi Chorb mit em Fleisch gschtole?
+op	45694	Courlevon	1	Wär hetmer mi Chorb mit Fleisch gstohlä?
+op	45716	Brünisried	1	Wer het mer mi Chorb mit dum Flisch gschtole?
+op	45718	Ferpicloz	1	Wär het mir mi Chorb mit Fleisch mit Fleisch gschtole?
+op	45722	Abländschen	1	Wär het m'r der Chorb mit dem Fleisch gstolle.
+op	4573	Neu Golm	1	Wer hat mei minen Korf met Flesch gestohlen?
+op	45734	Dentenberg	1	Wär het mer mi Chorb mit Fleisch gschtole?
+op	45758	Mutten	1	Wär het mer my Chorb mit Fleisch gschtohle?
+op	45764	Oberfrittenbach	1	Wär het ma mi Chorb mit Fleisch g'stohle?
+op	45784	Schüpfheim	1	Wär het mer mi Chorb mitem Fleisch gschtohlä?
+op	458	Wietrzno	1	Wäa hett mai maine Koav mit Fleisch stoahle?
+op	4584	Hohenwalde	1	Wer hat mei meinen Korf met Fleesch gestoahlen.
+op	45863	Gurzelen	1	Wär hett mer my Chorb mit em Fleisch gschtole?
+op	45878	Linden (Oberlangenegg)	1	Wär het mir my Chorb mit Fliisch gstohle.
+op	45891	Sörenberg	1	Wär hed mer de Chorb mit Fleisch gstole?
+op	45892	Lungern	1	Wär hed m’r d’r Chorb mitsant d’m Fleisch gschtolä.
+op	4590	Kunice	1	War hät mei mei'n Korf met Flesch woig(?) nommen.
+op	4595	Mierczany	1	Wer hat mer mein Korf met Flesch geschtohln?
+op	45962	Entschwil	1	Wär het mir mi Chorb mit Fliisch gstohle?
+op	45980	Saxeten	1	Wär heid mier jetz der Chorb mitem Fleisch gschtohlen.
+op	45992	Guttannen	1	Wär hed meer myn Chorb mid Fläisch g'schtolen?
+op	46009	Ulrichen	1	Wär hät mer my Chorb mit Fleisch gstohlu?
+op	46017	Gersau	1	Wer het mer mi Chorb mit Fleisch gstohle?
+op	46021	Illgau	1	Wer het mier mi Karb mit dem Fleisch gstolä.
+op	46026	Engi	1	Wer het mer mine Chorb mit dem Fleisch g'stohle?
+op	46027	Leuggelbach	1	Wer het mer dr Chorb samt em Fleisch g'stole?
+op	4603	Toporow	1	War hot mer mein'n Korb mit Fleesch gestuhlen?
+op	46038	Linthal	1	Wer hett mer dr Chorb mit Fleisch g'stolä.
+op	46040	Engelberg	1	Wer hed miär mehi [Bogen unter eh] Chorb mit Fleisch gstohlä?
+op	46045	Erstfeld	1	Wer hät mer de Chorb mit Fleisch gschtohlä?
+op	46048	Valendas	1	Wer het mir mi Chorb mit Fleisch g'stohle.
+op	46050	Meierhof	1	Wer het mer mi Chorb mit Fleisch g'stohla?
+op	46051	Camana	1	Werr het mär mina Chorb mitt Fleisch gschtola?
+op	46055	Nufenen	1	Wer het mr(?) mina Chorb mit Fleisch gschtolla?
+op	46059	Fanas	1	Wär hed mär mi Chorb mit däm Fleisch g'schtollä?
+op	46070	Mathon	1	Wear håt mr mein Kåarb mit m Fleisch gstohla?
+op	46071	Galtür	1	Wer hoat miar meii Koarb mitm Fleisch gschtohla.
+op	46073	Felsberg	1	Wer hät miar mi Chorb mit em Fleisch gstohla?
+op	46079	Fideris	1	Wär hea mier min Chorb mid Fleisch g’stolen?
+op	4608	Alt Stahnsdorf	1	Wer hat mii mienen Korf met Flesch gestohlen?
+op	46083	Klosters	1	Wär het mer miin Chorb mit Fleisch gschtollen?
+op	46101	Wiesen	1	Wär het mier de Chorb mit dem Fleisch dri gstole.
+op	46104	Am Bach	1	Wer het mir mini Zeina mit Fleisch gstolla.
+op	46115	Lauenen	1	Wär hät mer mi Chorb mit em Fleisch g'schtolle?
+op	46118	Stiegelschwand	1	Wär hett mer mi Chorb mit em Fleisch gschtola?
+op	46119	Fieschertal	1	Wer hett mär minä Chorb mit Fleisch g'schtolä?
+op	46127	Bitsch	1	Weuts het mier min Chorb mit dem Fleisch gstohlé?
+op	46129	Agarn	1	Wer hät mär mi Chorb vollä Fleisch gschtohlu?
+op	46132	Hasel	1	Wle het mir du Chorb samt dum Fleisch gschtohlu?
+op	46142	Saas Grund	1	Wels het mer der Korb mit Fleisch gstohlu?
+op	46143	Zwischbergen	1	Wells het miär minä Chorb mit Fleisch gstohlu?
+op	46145	Zermatt	1	Wels het mine Chorb volla Fleisch gschtole
+op	-46146	Prettau (Predoi)	1	Wia hottmo mein Körb mitn Flaische gschtoül?
+op	46157	Luttach (Lutago)	1	Wea hot mir mein Korb mitn Fleische g'stöul?
+op	-46161	Hinterkirch (Graun)	1	Weir hotna mein Koräb mitn Fleisch gschtoulan?
+op	-46162	Rabenstein (Moos)	1	Wer hot mier mein Korb (Zegger) mit Fleisch gschtouln?
+op	46170	Tschöfs (Ceves)	1	Wehn hot mir den Korb mim Fleisch gestohln.
+op	-46175	Pfunders (Fundres)	1	Wer hatt miör mein Korb mitn Fleischö gstoul?
+op	-46181	Antholz (Anterselva Di Mezzo)	1	Wear otmo mein Korb mitn Fleische gstöil?
+op	-46195	Schabs (Sciaves)	1	Wer otmoren in Korb mitn Fleisch gschtoln?
+op	-46215	Pichl	1	Wer ott mir mai Korb zompm Fleische gschtoul.
+op	-46217	Burgeis (Burgusio)	1	Wer hat mir mein Korb mit Fleisch drin gstouln?
+op	-46226	Kurzras (Corteraso)	1	Wer hot miar n Zöger (Handkorb) und s Fleisch gschtoln.
+op	-46227	Katharinaberg (Santa Caterina)	1	Wer hot miar eber n Korb somtn Fleisch gschtoln.
+op	-46234	Vernuer (Vernurio)	1	Wer hot mir den Korb mitn Fleisch gstohln.
+op	-46262	Stilfs (Stelvio)	1	Wear hot mr in Korb mit Fleisch gschtoln?
+op	46267	Laas (Lasa)	1	wer haat m’r mein Korb mit ’n Fleisch gstōhlen evtl. kein Makron, sondern nur ein seltsamer t-Strich
+op	46283	Gargazon (Gargazzone)	1	Wer hot mer meinen Korb mit flaisch gstauln?
+op	-46293	Sankt Peter Hinter Lajen (San Pietr	1	Wear hot öhn mir den Korb voll Fleisch g'stohlen.
+op	-46305	Sankt Walburg (Santa Valburga)	1	Wer hot mer mein Korb mitn Flaisch gschtouln?
+op	-46319	Wangen (Vanga)	1	Wear hot mr mein Korb zommbm Fleisch gschtoln?
+op	46324	Laurein (Lauregno)	1	Wer hot mor mein Korb mit flaisch gschtouln? 
+op	-46340	Kaltern (Caldaro)	1	Wear at mir mein Zöggr (Gschpatala) mitn Flaisch gschtohln?
+op	-46344	Deutschnofen (Nova Ponente)	1	Wear håt miar main Karb mit Fleisch gschtouln?
+op	-46351	Altrei (Anterivo)	1	Wer hot miar mein Kourb mitn Fleisch gschtouhln.
+op	-46353	Salurn (Salorno)	1	Wer hot (ot) awer meinen Korb mit Fleisch gstolln?
+op	46361	Stefansdorf (Santo Stefano)	1	Wear otmodenn main Korb mitn Floisch gschtoul?
+op	46365	Lusern (Luserna)	1	Wer hat miar gestohlt mei Zuà mit n Fleisch?
+pq	46367	Ljetzan (Giazza)	1	vɛ̀mɛ hat ǧaštɔ́lt mài tsö́i̯ja fi̯áiš?
+pq	46369	Lusern (Luserna)	1	ƀḕr hàmər gəštṓlt də màin sóɔ̯na ƀlɔ́a̯s.
+pq	46385	Nauders	1	Wear hôttn mir in Koarb mitn Fleisch gschtoula?
+pq	46386	Heiligkreuz	1	Wer hot mir mein Karb voll Fleisch gschtohl'n?
+pq	46391	Poppenbüll	1	Wer (auch: wull) hedd mi min Kārf mit Fleesch ståhln?
+pq	46407	Dahrenwurth	1	Kên hed mi mîn Kölf mid Flêsch stoaln?
+pq	46420	Bergenhusen	1	Wer hett mi min Karf mid Fleesch tahln.
+pq	46430	Owschlag	1	Wer hätt min Koarv denn stahl'n mit dat Fleesch?
+pq	46443	Holtsee	1	Wer hädd mi min Korv mit Fleesch stohl'n.
+pq	46459	Pries	1	Wakeen (wer) hett mi mien Korf mit Fleesch stahln?
+pq	46481	Stakendorf	1	Wem hett mi minen Korw mit Flesch stahl'n?
+pq	46492	Behrensdorf (Ostsee)	1	Wer hett mi min Korf mit Fleesch ståhlen?
+pq	465	Okunino	1	Wäe hatt mi mine Kov mit Fleisch stohlä?
+pq	46554	Sulsdorf	1	Wer hätt mie mien Korf mit Fleesch stahln?
+pq	46570	Staberdorf	1	Wer hett mi min Korf mit Flesch stahln.
+pq	46637	Alte Kirche	1	Wull hett mi min Korf mit Flesch stahl'n?
+pq	46652	Sollerupfeld	1	Wer hett mi min Korf mit Flesch stāhlen?
+pq	46666	Neuberend	1	Wer hed mi min Korv mid Fleesch stahln?
+pq	46684	Zimmert	1	Wär hätt mi min Korf mid Fleesch wegstähln?
+pq	46687	Damp	1	Wer hett mi min Korf mit Fleesch stahln?
+pq	46693	Westermarkelsdorf	1	Wer hett mi mīn'n Korf mit Flesch stahl'n?
+pq	46784	Grossenwiehe	1	Wer hätt mi min Korf mit Fleesch stahlen?
+pq	46798	Estrup	1	Wöer hätt mi min Korf mit Flesch stahln.
+pq	46806	Wippendorf	1	Weer hett mi mien Korv mit Fleesch stahlen?
+pq	46823	Maasholm	1	Wer hät mīn Kārf mit Flesch stāl'n.
+pq	46924	Beken (Bækken)	1	Wer hätt mi min Korf mit Fleesch staahlen?
+pq	47139	Sandhatten	1	Wer hätt mi mienen Korf mit Fleesk stahlen?
+pq	47154	Adelheide	1	Wer hattmi minen Korf mit Flesch stahl'n?
+pq	47171	Dreye	1	Wer hett mi mi'n Körf mit Fleesch wegnahmen (stahl'n)
+pq	47183	Allerdorf	1	Wer hett mi mi'n Körf mit Flesk stahl'n?
+pq	47189	Heerenland	1	Well het mie mien Körf mit Flees stohlen?
+pq	47203	Steenfelde	1	Wel het mi mien Körf mit Vleés stolen?
+pq	47219	Lohe	1	Well hef mie mienen Körf mit Fleisch stahlen?
+pq	47224	Burgfelde	1	Well hett mi min Körf mit Fleß gstahlen?
+pq	47235	Moorhausen	1	Wer hett mi mi'n Korf mit Fleeßk stahl'n?
+pq	4727	Klein Glien	1	Wer hädd me mienen Korf met Fleesch gestoahlen?
+pq	47370	Bardenfleth	1	Wer hett mi minen Korf mit Fleesch stahlen.
+pq	4738	Niederwerbig	1	Wär hät mäi min Korf met Flesch gestoalen?
+pq	474	Kramarzyny	1	Wäe hätt mi mine Kov mit Fleisch stahle?
+pq	47402	Mittelbauer	1	Wär hett mi minen Korf mit Flüß stahlen?
+pq	47422	Neuenbülstedt	1	Wakēn hett mi min Korf met Flēs stāln?
+pq	47447	Neermoor	1	Well hett mi mien Körv mit Fleesz ofstohl'n?
+pq	47455	Remels	1	Wel het mi mien Korf mit Fleejs stahln?
+pq	47463	Petersfeld	1	Well hett mi minen Korf mit Flesch stahlen?
+pq	47470	Jaderbollenhagen	1	Wer hett mi mi'n Korf mit Flesch stahlen?
+pq	4749	Zülichendorf	1	Wer het mei mien Korf met Flesch gestoaln.
+pq	47598	Offenwardenermoor	1	We hett mi minen Korf mit Flesch stahln?
+pq	4761	Schöneweide	1	Wär hett me mi'n Korv mett Fleesch geschtoaln?
+pq	47612	Paddewisch	1	Wer hät mi minen Korf mit Fles stahln?
+pq	47624	Ober-Ochtenhausen	1	Wo kehn hed mi mien Korf mit Fles stahlen?
+pq	47650	Cirkwehrum	1	Wel het mi minen Körf mit Flÿs stolen?
+pq	47657	Westerende-Holzloog	1	Well hett mi mien Körf mit Fleesk stahl'n?
+pq	47670	Wiesede	1	Wekk get min Körf mit Flesch stalen?
+pq	47677	Neustadtgödens	1	Well hett mi mien Körf mit Fleesk staalen?
+pq	4770	Egsdorf	1	Wer het mei mien Korf met Flesch jestoalen?
+pq	4776	Birkholz	1	Wer hat mern mein Korb met Flesch jestohln?
+pq	478	Pradzonka	1	Wä hät mi minä Kow mit Flesch stolä.
+pq	47840	Kükelühn	1	Wer hett mi min Korf mit Fleesch stahl'n?
+pq	47861	Siggeneben	1	Wieker (wer) hett mi mien Kaarf mit Fleesch stahln?
+pq	47863	Hedwigenkoog	1	Wakeen het mi mien Korf mit Fleesch stahln?
+pq	47885	Edemannswisch	1	Woken hed mi min Korf mid Flesch stohl'n?
+pq	4789	Briescht	1	Wer hoet mir einen Korb mit Flesch gestohlen?
+pq	47893	Oesterborstel	1	Werkehn hett mien Korf mit Fleesch stahln?
+pq	47907	Hamweddel	1	Wo kehn hett mi min Korf mit Fleesch stahl'n?
+pq	47916	Warder	1	Wokeen het mi mien Kaarf met Flesch stahln?
+pq	47935	Klein Barkau	1	Wokeen hett mi min Korf mit Fleesch stahln.
+pq	47952	Mucheln	1	Wer hett mi min Kārf mēt Flēsch wegnahm/stahln?
+pq	4800	Gross Briesen	1	Wer hat mer meinen Korb met Fleesch gestahlen?
+pq	48096	Grömitz	1	Wo keen hett mi mien Korf mit Flesch stahl'n?
+pq	48098	Friedrichskoog	1	W’keen het min Korw mit Fleesch stahl’n?
+pq	48105	Barlteraltendeich	1	Wokehn hett mi min Korf mit Fleesch stahln?
+pq	48115	Holstenniendorf	1	Wokeen het mien Kaarf mit Flesch staohl'n?
+pq	48126	Jahrsdorf	1	Wokeen hett mi mien Kahrf met Fleisch stahln?
+pq	4813	Klopot	1	Wär hot mir mein'n Korw mit Fleesch' stoahln?
+pq	48141	Ehndorf	1	Wokehn hett mi miin Karf mit Fleesch stahln?
+pq	48156	Gönnebek	1	Wokeen hett mi min Korf mit Fleesch stahl'n.
+pq	48164	Wöbs	1	Wer hett mi mien'n Korf mit Fleesch stahln.
+pq	48186	Süsel	1	Wer hett mi mien Korf mit Fleesch stohl'n?
+pq	48233	Brunsbüttelerhafen	1	wokeen (auch keen) hätt min Korf mit Fleesch stahln?
+pq	48239	Brokdorf	1	Wokeen hett mi min Korf mit Fleesch stahln?
+pq	4824	Radomicko	1	War hat mer mein'n Korb met Flesch gestohlen.
+pq	48240	Spiekeroog	1	Well hett mi mien Körf mit Fleesk stahl'n?
+pq	48242	Berensch	1	Keen hedd min Kürf mit Fleesch stahl'n?
+pq	48247	Altenbruch	1	Kehn het mi min'n Körf mit Fleesch stahlen?
+pq	48282	Norderney	1	Well hätt mi mien Körf mit Fleesk stalen?
+pq	48283	Baltrum-Ostdorf	1	Wel het mi min Körf mit Fles stohl'n?
+pq	48302	Misselwarden	1	Wokeen hett mi min Korf mit Flesch stahln?
+pq	4832	Radnica	1	War hot mir meinen Kurb mit Flesch gestohlen?
+pq	48324	Weissenmoor	1	Kehn het mi minen Korf mit Fleeß stahlen?
+pq	48342	Itzendorf	1	Wel het mi mien Körf mit Fleesch staal'n?
+pq	48356	Arle	1	Well hett mie mien Körf mit Fleesk stahlen?
+pq	48368	Stedesdorf	1	Well hett mi mien Körf mit Fleesk stahlen?
+pq	48383	Wüppels	1	Well hett min Körf mit Flesk stahlen?
+pq	48392	Langwarden	1	Wer hett mie mien' Korv mit Fleesch stahlen?
+pq	48401	Flögeln	1	Kehn hett mi min'n Korf mit Fleesch staohln?
+pq	48477	Iffens	1	Wer het mi minen Korf mit Fleesch stahlen?
+pq	48487	Blexen	1	Well hett mi mien Korf mit Fleesch stahlen?
+pq	48497	Altluneberg	1	Wer hett mi minen Korf mit Flesk - auch Flesch - stahlen?
+pq	48507	Hönau-Lindorf	1	Wer hett mi min'n Korf mett Flesch stahl'n.
+pq	48516	Graal-Müritz	1	Wer hett mi min'n Korf mit Fleisch stahlen?
+qr	48522	Rerik	1	Wer hett mi minen Korf mit Fleisch stahlen?
+qr	48532	Brodhagen	1	Wecker hät mi minen Korf mit Fleissch stahlen?
+qr	48550	Toitenwinkel	1	Wär hett mi min'n Korff mit Fleisch stahl'n?
+qr	486	Niedamowo	1	Wer hett mi miene Korf mit Fleisch stoahle.
+qr	48675	Strukdorf	1	Wer hatt mien Kaf mit Flesch stahln.
+qr	48702	Sereetz	1	Wegger het mi mien Korv mit Flesch stahl'n?
+qr	48716	Gross Voigtshagen	1	Weggé hett mi denn Korf mid Fleisk stahln?
+qr	48726	Beckerwitz	1	Wer hat mi min Korf mit Fleisch stahl'n?
+qr	48738	Steinhausen	1	Wän het mi min'n Kórf mit Fleisch stahl'l.
+qr	48752	Berendshagen	1	Wer hett mi mienen Korf mit Fleesch stahln?
+qr	48765	Wiendorf	1	Wer har' mie mien'n Korf mit Fleisch stahl'n.
+qr	48790	Rethwisch	1	Wokeen hät mi denn Kahlf mit Fleesch stahl'n?
+qr	48800	Lentföhrden	1	Wer hett mi mien Kaarf met Fleesch stahl'n?
+qr	48812	Todesfelde	1	Kein hett mi min Korf mit Fesch stahln?
+qr	49022	Kleinboden	1	Weckein het mi min Korf mit Fleisch stahl'n?
+qr	49043	Campow	1	Wer het mienen Korf mit Fleisch stahlen.
+qr	49076	Nesow	1	Wecke het mi minen Korf mit Fleisch stahel.
+qr	49090	Dalliendorf	1	Wer hett mie mienen Korf mit Fleisch stahlen?
+qr	49108	Neuhof	1	Weke het mi min Korf mit Fleisch stalen?
+qr	49122	Warnow	1	Wecke hett mi min'n Korf mit Fleisch stahl'n.
+qr	49140	Güstrow	1	Wer (Wecker) hett minen Korf mit Flesch stahlen?
+qr	49146	Drochtersen	1	Keen hedd mie mien Korb midd Fleesch stahlen?
+qr	49162	Gross Nordende	1	Wo kehn hät mi min Korf mit Fleesch stahlen?
+qr	49176	Quickborn	1	Wokehn hett mi min Korv mit Fleesch stahln?
+qr	49188	Jersbek	1	Wer hett mi mien Kiep mit Flesch (fast ei) stahlen?
+qr	49311	Riekenbostel	1	Wer hett mi minen Korf mit Flēsch stahlen?
+qr	49322	Brochdorf	1	Ker het mi mienen Korf mit Fleesch stahln?
+qr	49332	Bispingen	1	Kein hett mi minen Korff mit Fleesch stahlen?
+qr	49338	Wettenbostel	1	Kēn hett mi minen Korf mit Flesch stahln?
+qr	49348	Seedorf	1	Kên hett mik mien'n Korw mit Flêsch stahl'n?
+qr	49362	Stoetze	1	Wen hätt mick mie'n Körv mit Fleks schtahl'n.
+qr	49498	Dannenberg (Elbe)	1	Wer hett mi minen Korf mit Flesch stahlen.
+qr	495	Jaroszewy	1	Wehe heft mi mine Korf mit Fleisch stohle.
+qr	4950	Palck	1	War hout mirr main Kurb Fleesch g'stohun?
+qr	49509	Breetz	1	Werr häet mie minen Korf mit Flesch stohlen?
+qr	49524	Laaslich	1	Wäcker hätt mi mien Korw müt Fleesch stoahl'n.
+qr	49534	Lübzow	1	Wecker hätt mih minen Korf met Flesch stoahlen.
+qr	49551	Buchholz	1	Wökker hätt mi mien Korv mit Fleesch stoahl'n?
+qr	49562	Hetzwege	1	Wer hät mie mienen Korf mit Flēsch stahlen?
+qr	49569	Otter	1	Wer, wokein, kein hett mi mien'n Korf mit Fleisch stahl'n?
+qr	49579	Ollsen	1	Kein het mi minen Korf met Flesch stahln.
+qr	49587	Westergellersen	1	Keîn het mien Korf mit Fleîsch stahln.
+qr	49605	Barskamp	1	Wer het mi mien Korf mit Fleesch stahl'n?
+qr	4965	Stare Kramsko	1	War hot mir meinen Kurb mit Fleesch gestohlen.
+qr	4968	Zodyn	1	War hüat mi main Kurb mit Fleesch gestohlen?
+qr	49727	Wendhausen	1	Wer hätt mi min'n Korf mit Fleeshc stahl'n?
+qr	49752	Jessenitz	1	Wer het mie mienen Korf mit Fleisch stahlen?
+qr	49767	Glaisin	1	Wökke hett mi mien'n Korw müdd Fleißk stahl'n?
+qr	49778	Neese	1	Wöke heft mie mienn Korf müt Fleisch stahln?
+qr	49794	Pampin	1	Weggé hett mi min'n Korf mit Fleisch stahlen?
+qr	4980	Tarnowa	1	War hott m'r meng Kurb mit Fleesch gestohln?
+qr	49802	Grabow	1	Wöck'r hätt mi mien Korf mit Fleesch stoahln?
+qr	49813	Wangersen	1	Wa kehn hedd mie'n Korv medd Flesch stahln?
+qr	49821	Regesbostel	1	Wer hadd' mi mie'n Korf mit Fleeisch stahl'n.
+qr	49828	Tötensen	1	Keen het mi min'n Korf mit Fleisch stahln.
+qr	49840	Lassrönne	1	Keen hett mi minen Korf mit Fleesch stahlen?
+qr	49857	Juliusburg	1	Wokein hätt mie mienen Korv mit Fleisch stahl'n?
+qr	49881	Setzin	1	Wer hett mi mienen Korw mit Fleisch stahlen?
+qr	49898	Neuhof	1	Wecka hett mi mien'n Korf mit Fleisch stahlen?
+qr	50010	Gresse	1	Wer hĕt mi mien'n Korw mit Fleich stahl'l?
+qr	50027	Moraas	1	Wegge hett mi minen Korf mit Fleisch (Fleisk) stahlen?
+qr	50058	Paarsch	1	Wer hett mi mie'n Korf mit Fleesch stahl'n?
+qr	50068	Barkow	1	Wecke hät mie minen Korf mit Fleisch stahlen?
+qr	50073	Schwinge	1	Kehn hät mi min' Korf mit Fleesch stahl'n?
+qr	50087	Wisch	1	Kehn hett min'n Korf mit Flesch stahl'n.
+qr	50117	Ottensen	1	Wokeen hett mi min Korf mit Fleesch staaln?
+qr	50130	Willinghusen	1	Wer hätt mi min Karf mit Flees stahl'n.
+qr	50142	Basthorst	1	Weg kein hätt mi mien'n Korf mit Fleis stahl'n.
+qr	503	Szpegawsk	1	Wee hefft mi mine Korf mett Fleesch gestohle?
+qr	5031	Lugow	1	Wer hot mir mein Kurb mit Flesch gestohln?
+qr	50321	Lehmrade	1	Wer het mie'n Korf mit Fleis stahln?
+qr	50332	Drönnewitz	1	Wekke hett mi mi'n Korf mit Fleißk stah'l?
+qr	50343	Gross Rogahn	1	Wekke hätt mi mien'n Korf mit Fleisch (Fleisk) stahl-l?
+qr	50357	Kladow	1	wecker het mi mi'n Korf mit Fleisch stahl'n?
+qr	50365	Hohen Pritz	1	Währ hett mie mienen Korff mit Fleisch stahlen?
+qr	50377	Jellen	1	Wer hett mie min'n Korf mit Fleisch stahl'n?
+qr	50385	Lübsee	1	Wer hätt mi minen Korf mit Fleesch stahlen?
+qr	50471	Bellin	1	Wä hett mi minen Korf mit Flesch stohhlen?
+qr	50523	Retzow	1	Wer hett mi mi'n Korf mit Fleisch stahl'n
+qr	50538	Hohenbollentin	1	Wer hätt mi minen Korw mit Fleisch stoahlen?
+qr	50552	Golchen	1	Wecka hät mi mei'n Korf mit Fleisch stahl'n?
+qr	5056	Biala Wies	1	War hoat mirr d'n main Kurb mit Fleesch gestohl'n?
+qr	50567	Strippow	1	Wekka hett mi mienen Korf mit Fleisch stohl'?
+qr	50575	Rosenhagen	1	Wecka hett mie mie'n Korf mit Fleisch stahlen?
+qr	50583	Siniechowo	1	Wär hätt mie miene Korf mit Fleisch stohln?
+qr	50604	Drzewica	1	Wer hettt mi mine Korw mit Fleisch schtoahln.
+qr	50622	Lisowo	1	Wäer hätt mi minä Koaw mit Fläisch stoahlä.
+qr	50719	Lubin	1	Wer het mi mina Korf mit Fleisch stoahla?
+qr	50765	Gross Ridsenow	1	Wer hätt mi min'n Korb mit Fleisch stahl'n.
+qr	50779	Schlutow	1	Wecka hett mie minn'n Korf mit Fleisch stahl'n?
+qr	50794	Seedorf	1	Wekgä het mi min'n Korf mit Fleisch stahl'n?
+qr	50805	Bentzin	1	Weck'r het mie mien'n Korf mit Fleisch stahlen?
+qr	50818	Ranzin	1	Wer hätt mie min Korf mit Fleisch stahl'n.
+qr	50830	Lassan	1	Wecke het mi mienen Korf mit Fleisch stoahlen?
+qr	50840	Sallenthin	1	Wer hät mi min Korf mit Fleisch stahl'n?
+qr	50844	Miedzyzdroje	1	Wer hett mi miene Korf mit Fleisch stoahlen?
+qr	50850	Sieroslaw	1	Wer hät mi minä Korf mit Fleisch stahln?
+qr	50872	Bedzieszewo	1	Wer hett mi miena Korf mit Fleisch stoahla?
+qr	50892	Skalin	1	Wer hät my mine Korf mit Fleisch stahle?
+qr	5091	Boruja	1	War hot mer main Kurb mit Flesch gestohlen? (weggenumm)?
+rs	50973	Koserow	1	Wer hät mi minen Korw mit Fleisch stoahlen.
+rs	50986	Trzesacz	1	Wer hätt mi mine Korf mit Fleisch stålĕ?
+rs	51	Baerwalde	1	Wä hět mi mīnä Kow mit Fleisch staolä?
+rs	51012	Hohen Wangelin	1	Wägga hett mi mi'n Korf mit Fleisch stahl'n?
+rs	51030	Rittermannshagen	1	Wekka het mi mienen Korf mit Fleisch stahlen.
+rs	51048	Tarnow	1	Wekka hed mi min'n Korf mit Fleisch stahl'n.
+rs	51065	Trollenhagen	1	Wecka het mi mi'n Korf mit Flesch schtoahl'n.
+rs	51081	Brohm	1	Weck hett mi mien'n Korf mit Flehsch stohl'n?
+rs	51089	Eichhof	1	Wer hett mi mih'n Korf mit Fleesch staohlen.
+rs	51098	Gegensee	1	Weeka hett mie mienen Korf mit Fleesch stoahlen?
+rs	511	Krasniewo	1	Wer heft mie mienen Korv mett Flesch gestaole?
+rs	51101	Drogoradz	1	Wer hett mi min Korv mit Flesch stoahlen?
+rs	51112	Budzien	1	Wer hätt mie mienen Korf mit Fleesch stoahlen.
+rs	51123	Krzywice	1	Wer hatt mi mineä Kow mit Fleisch stoaleä?
+rs	51135	Plantikow	1	Wem hätt mir mine Koarv mit Fleisch stoahln?
+rs	51143	Kloster	1	Wecke hätt mi minen korf mit Fleisch staohl'l?
+rs	51146	Wiek	1	Wer het mi minen Korf mit Flēisch stah'l?
+rs	51162	Nardevitz	1	Wäkä hät mie min'n Korf mit Flesch stahl.
+rs	51170	Zingst	1	Wekka hett mi mien'n Korw mid Fleisch stahl'l?
+rs	51173	Wendisch Langendorf	1	Wer het' mi mien'n Korf mit Fleisch stahl'n?
+rs	51179	Wüstenei	1	Wer hett mi mi'n Korw mit Fleisch stahlen?
+rs	51188	Saiser	1	Wer hett mi mi'n Korf mit Fleisch stahln?
+rs	51191	Ahrenshoop	1	Wen hätt mi den'n Korf mit Fleisch ßtahl'n?
+rs	5122	Gorzyca	1	Wer hat mir meinen Kurb mit Fleisch gestohlen.
+rs	51232	Neu-Reddevitz	1	Wär hett mie mienen Korf mit Fleisch stahl'n.
+rs	51243	Langendamm	1	Wecka (währ) hett mie mien'n Korf mit Fleisch stahl'l?
+rs	51257	Redebas	1	Wer hett mi minen Korw mit Fleisch stahlen?
+rs	51267	Pütte	1	Wer het mi mie'n Korf mit Fleisch stahl'n?
+rs	51277	Poseritz	1	Wêr hêtt mī mīn'n Kôrf mît Fleisch stāhl'n?
+rs	51288	Thiessow	1	Wekke hett min'n Korf mit Fleisch stahlen?
+rs	5130	Ransko	1	War hot mir meinen Kurb mit Flesch gestohln?
+rs	51346	Reppelin	1	Wer hett mie mien'n Korf mit Fleisch stohln?
+rs	51355	Kavelsdorf	1	Wer het mi mie'n Korf mit Fleisch stahlen.
+rs	51370	Müggenwalde	1	Wer hett mi mi'n Korf mit Fleisch stahl.
+rs	51387	Steffenshagen	1	Wer hett mie mien'n Korf mit Fleisch stahlen?
+rs	5139	Grudna	1	Wer hat mir meinen Kurp mit Fleesch gestohlen?
+rs	51397	Vierow	1	Wecka hett mi mïn Korv mit Fleisch stahl'n?
+rs	51409	Karlshagen	1	Wer hätt mienen Korf mit Fleisch stahl'n?
+rs	5141	Brody	1	Wer hot mir meinen Kurb mit Flesch gestoun?
+rs	51413	Trzebusz	1	Wer het mi mine Korw mit Fleis ståhle?
+rs	51539	Kisserow	1	Wecke het mie'n Korf mit Fleisch stahl'n.
+rs	51549	Federow	1	Wecke hett mi mien'n Korf mit Fleisch stahl'n?
+rs	51561	Klein Vielen	1	Wer het mi min'n Korf mit Fleisch stahl'n?
+rs	51571	Holldorf	1	Wekka hett mimienen Korf mit Flesch stahlen?
+rs	51584	Woldegk	1	Wekka het mi mien'n Korw mit Fleesch schtåhl'n?
+rs	51598	Trebenow	1	Wäcka hätt mie mien Korf mit Fleesch stoahln.
+rs	51611	Rossow	1	Wäka hät min Korf mit Flesch stohl.
+rs	51624	Wawelnica	1	Wem het mi min Korf mit Flesch stohl?
+rs	51637	Bergland	1	Wer hett mi mie'n Korf mit Fleesch stoahl'n?
+rs	51646	Dabrowica	1	Wer het mie miene Kow mit Fleisch staole.
+rs	51661	Bobrowniki	1	Wä hätt mi mina Kow mit Fleisch stohla?
+rs	51805	Grabow	1	Wegger hett mi mien'n Korf mit Fleisch stahl'n?
+rs	51816	Lärz	1	Wegga hett mi mien'n Korf mit Fleesch stahln?
+rs	51832	Ahrensberg	1	Wecka hett mie mien'n Korf mit Fleisch stahl'n?
+rs	51838	Hasselförde	1	Wecka hätt mi min Korf mit Flesch stahl'n?
+rs	51850	Buchenhain	1	Wecker hät min Korf mit Flesch stoahlen?
+rs	51866	Röpersdorf	1	Wer het mi min Korf met Flesch stohlen?
+rs	51877	Grünz	1	Wem hätt mi min Korf mit Flesch stohl'l?
+rs	51893	Pargow (Pargowo)	1	Wem het mi minen Korf mit Fleesch ståhl?
+rs	51906	Zelislawiec	1	Wem hett mi mienen Korf mit Fleesch ståhlen?
+rs	51918	Slotnica	1	Wem hätt mi mină Korf mit Fleesch stoăhlă?
+rs	51934	Zukowo	1	Weim het mi mină Korf mit Fleesch stolă?
+rs	5203	Nekielka	1	Wie hat mi minä Kof met Flesch stohleh?
+rs	52064	Papenbruch	1	Wär hätt mi mien Korf mit Fleesch staohln?
+rs	52070	Wallitz	1	Wer hät mie min Korf mit Flesch stoahl'n?
+rs	52079	Menz	1	Wer hät mi minen Korf met Flesch stoahln?
+rs	52086	Barsdorf	1	Wer hätt mi mien Korf mit Flesch stahln.
+rs	52095	Petersdorf	1	Wea het mi min'n Korw met Fleesch stoahl'n?
+rs	5210	Skwierzyna	1	Wer heat merr mein' Korb mit Flesch jestohlen?
+rs	52103	Flieth-Stegelitz	1	Wèa hätt mi mienen Korf met Fleesch stōhl'n?
+rs	52113	Passow	1	Wem het mie minen Korw met Fleesch stohl'n.
+rs	52129	Widuchowa	1	Wem hett mi mien'n Korf mit Fleesch stoahln?
+rs	52139	Banie	1	Wer hätt mie mienen Korf mit Fleesch ståhlen.
+rs	5214	Krobielewo	1	Wer hot mer menen Kurb mit Flesch gestuhlen?
+rs	52154	Obromino	1	Wem het mie mieen Korf mit Flesch stohle?
+rs	52169	Brzezina	1	Wer het mi mine Kow mit Flesch stohln?
+rs	52276	Bagicz	1	Wäa hätt mi miena Korf mit Fleisch stoahla?
+rs	52278	Lasin Koszalinski	1	Wähn hett mi mine Korff mit Fleisch stahle.
+rs	52311	Sieciemin	1	Wäe hett mi mine Kof mit Fleisch stale?
+rs	52349	Pomysk Wielki	1	Weer het mi dä Korf mit demm Fleisch stouhlä.
+rs	52359	Szymbark	1	Wer heft mi mine Korf mit Fleisch stohle?
+rs	52374	Szklana Gora	1	Wir häft mi minen Korf met Flesch gestohle?
+rs	52396	Skowarcz	1	Wer heft mi meen Korf met Flesch gestoale?
+rs	52428	Oberlakendorf (Solnica Górna)	1	We heft mi min Korf met Flesch gestohle?
+rs	52440	Deep (Czajcze)	1	Wäa het mie mina Korf mit Fleisch stoala?
+rs	52463	Bialecino	1	Wär hätt mie mine Korf mit Fleisch stoaln.
+rs	52478	Bronowo	1	Weä hät mi minä Koaf (Karf?) mit Fleisch stahlä.
+rs	52484	Reddies	1	Wer hät mi mina Korf mit Fleisch stohla?
+rs	52567	Pasewark	1	Wer haft mi minen Korf met Fleisch gestohlen?
+rs	52578	Bad Rügenwalde	1	Wäher hett mi mine Korf mit Fleisch stohle?
+rs	5259	Prusim	1	Wer hot mir meinen Kurb mit Flesch gestohlen.
+rs	52600	Radoslaw	1	Wää hät mie minä Korf mit Fleisch stahlä?
+rs	52700	Losino	1	Wer hät mie miene Korw met Fleisch stohle?
+rs	5271	Przyborowko	1	War hot mir mein'n Kurb mit Fleesch  gestohl'n?
+rs	52714	Labiszewo	1	Wea hät mie mina Kof mit Fleisch stohla?
+rs	52722	Karwen	1	Wer hät mi mine Korw mit Fleisch stohle?
+rs	52755	Heubude (Stogi)	1	Wer hewt mie mien Korf met Flesch gestohle.
+rs	52762	Skowronki	1	Wer hefft mi mine Koarf met Fleasch gestoale?
+rs	52766	Rowy	1	Wäer hät mie mina Korf mit Fleisch stoahla?
+rs	52767	Machowinko	1	Wä'e hett mi mine Koaf mit Fleisch stoahle?
+st	5277	Gleboczek	1	Wej het mi mine Kow met Flesch stahle?
+st	52816	Hela	1	Wer hett mie mi Korw mit Fleesch gestoahle?
+st	52819	Jaroslawiec	1	Wäe hätt mi mine Korf mit Fleisch stoale.
+st	52825	Krolowstrand (Królewice)	1	Wee hat mi mine Korf mit Fleisch stahle?
+st	52854	Drzezewo	1	Wer hett mi mine Korf mit Fleisch stohle?
+st	52865	Niebedzino	1	Wer heft mi mine Korf met Fleisch stahle?
+st	52871	Dabrowka Wielka	1	Wer heft (hett) mie miene Korf mett Fleisch stahle.
+st	52881	Luzino	1	Wer heft mi mine Korw mit Fleisch stohln.
+st	52887	Pogorze	1	Wer haft mi minen Korf met Flesch gestohle?
+st	52896	Bialogora	1	Wer heft mie minae Korf mit Fleisch staolan?
+st	52905	Karwenbruch	1	Wer hewt mie miene Korf met Flesch stohle.
+st	5291	Gorki Noteckie	1	Wä het mi mine Korw met Flēsch gestoahle?
+st	52913	Wladyslawowo	1	Wer häft mi min Korw met Fleshc gestohle?
+st	52915	Lebieniec	1	Wer haod mien Korf met Fleisch staohle?
+st	52927	Zelazna	1	Wer hat mi mina Korw mit Fleisch stohla?
+st	52936	Tylowo	1	Wer hät mih minn Korf mit Flesch gechtaleh?
+st	5305	Rapin	1	Wer hätt mi min Korw mett Flesch gestoahlen?
+st	5315	Pilka	1	Wä het mine Korf met Flesch stoahle?
+st	5316	Rzecin	1	Weim het mih mino Korf met Flesch stauolo?
+st	532	Zulawka Sztumska	1	Wer hott mer de Korb met dem Flesch weggenomme?
+st	5322	Tarnowko	1	Weim hett mi mino Koow met Flesch schtaualo?
+st	5374	Groß Golle (Golaszewo)	1	Wem hät mi mien Kob mit Flesch stoalä?
+st	5386	Lubicz	1	Wem hätt mi miene Korf mett Fleesch gestohle.
+st	5397	Slonow	1	Wér hät mi miene Korf met Flesch stohle?
+st	5402	Huta Szklana	1	Weim hett mi minŏ Korf mett Flesch stualŏ.
+st	5409	Marienbusch	1	Wem hätt mi mino Korf mätt Flesch staualo?
+st	5421	Ostrowki	1	Weim hett mi mine Kof met Flesch stauale?
+st	54871	Neuarad (Aradu Nou)	1	Weà hot me' mein' Koarb mit Fleisch g'stohle.
+st	54873	Bistritz (Bistriţa)	1	Wiër håt mer maene korf mät flēsch gestoln?
+st	54878	Arzis (Artsyz)	1	Wer hat mär mein Korb mit Flaisch g'stohla.
+st	54897	Wolfswinkel (Wilczy Kat)	1	Weje hät mi en Kip met Flejsch stuole?
+st	549	Przecmino	1	Wäĕ hett mi minĕ Korw mit Fleisch stoalĕ?
+st	54901	Zarobka	1	Wej hett mi mine Koof met Flejsch stauale?
+st	54902	Brzozowka	1	Wije häat mi miene Karw met Flesch stohle?
+st	54906	Brzezno	1	We het mi miene Karf met Flejsch schtuole?
+st	54909	Zbojenko	1	Wijn h?t mine Karf met Flesch stohle.
+st	5491	Brzezno	1	Wehm het mino Kōf met Flesch staulo.
+st	54912	Siemiatkowo	1	Wehe haet mi miene Karf met Flesch stuohle?
+st	54913	Sompolno	1	Wyj het mi mino Köf met Fleisch stajat.
+st	54914	Sächsisch Regen (Reghin)	1	Wier hot mer meina Korf mät Fleesch gestolln.
+st	54915	Elek (Elek)	1	Wear had mr măn Kŏrăb mit Fleisch kstèula?
+st	54916	Freidorf bei Temeschwar	1	Wer hot m’r mei Korb mit Fleisch gstohl?
+st	54917	Sarata (Sarata)	1	Wèr hat mir måin Korb mit Flaisch gschtōhlå?
+st	54918	Scheindorf (Sâi)	1	Wer hat maj Khuarb mit Fluajsch k’ stohle?
+st	54919	Fünfkirchen	1	Wea had mīe main Kueb mit Flaiš kštōln
+st	54921	Iklad	1	Wear hot meinan Khoarp min Fleisch kstôln?
+st	54922	Sanktanna (Sântana)	1	Wer hàt mai Karáb min Fleisch kstólá?
+st	54924	Martinsdorf (Metiş)	1	Wī hōt me̊r (menge̊ K̄orw) me Fällpe̊s mät Flīsch ge̊stiolen ge̊schtiole̊n
+st	54926	Bentschek (Bencecu De Sus)	1	Wer hot mr mei Korb mit Fleisch gstōhl?
+st	54929	Agnetheln (Agnita)	1	Wi huet mer mene Kuarw mät Floisch gestuilen.
+st	54930	Gottlob	1	Wer hat mér mei Korb mit Fleisch gstohl
+st	54932	Klein-Schemlak (Semlacu Mic)	1	Wèr hot mr mei Korb mit Fleisch g’schtol?
+st	54933	Sankt Andreas (Sânandrei)	1	Wer hatt m’r mei Korp mit Fleisch g’schtohl?
+st	54935	Neuwerbas (Novi Vrbas)	1	Wer hat mr̥ mei kharp mit fleis kstol.
+st	54937	Groß Scham/Freudenthal (Jamu Mare)	1	Wer hat mei Korb mit Fleisch g’stohl?
+st	54938	Torschau (Savino Selo)	1	wa͑r̩ hot̩ʰ mr máe khorb mit flaeϭ gϭtol
+st	54939	Weprowatz (Kruščić)	1	wär hotʰ mir mãẽ Khărb fol flêis (äe) gstoylĕ
+st	54941	Neue Weingärten (-)	1	Wer hat m'r mei Korb mit Flaisch gstohla. (st = scht)
+st	54942	Seimeny (-)	1	Wer hat mr mḛi Korb mit Flaisch gschtohl?
+st	54943	Neubeschenowa (Dudeştii Noi)	1	Wen hat meͥr mëin Korw meͥt Fleisch g’stohl?
+st	-55055	Oborki	1	Wihe haet mi mine Karf met Flesch stole?
+st	-55064	Zale	1	Wia hat mi minne Karf met Fleesch stuahle.
+st	-55066	Zuromin	1	Wer hat mir den Korb mit Fleisch gestohlen, möglich, hast du ihn gesehen.
+st	-55070	Grudusk	1	Wer hat meinen Korb mit Fleisch gestohlen?
+st	-55072	Ostroleka	1	Wer hat mir meinen Korb Fleisch geklaut?
+st	-55081	Ciechocinek	1	We hat mi mien Kipp met dem Flejsch stohle?
+st	-55091	Skepe	1	Wije hat mi mine Karf met Flesch stuhle?
+st	55094	Gradzanowo Koscielne	1	We hat mi mine Kaw met Flesch stuole?
+st	-55096	Modelka	1	We hat mi miene Karf met Fleesch stohle?
+st	-55099	Makow Mazowiecki	1	Weh hat mieno Kohw mit Flesch stjat.
+st	55106	Susk	1	Weija hat mi mine Korf met Fleisch stuola?
+st	-55107	Zawidz Koscielny	1	Wie hat mine Karv met Flesch stuole?
+st	55109	Kondrajec Szlachecki	1	Wiă hat mine Kopp mit Fleesch stole.
+st	-55110	Kicin	1	Wehä hăt mi dä Karf met dem Flesch stoalä?
+st	55111	Szostka	1	Wer hat mir den Korb mit Fleisch geklaut?
+st	-55113	Kujawka	1	Wer hot mer mei Korb mit Fleisch g'stohl?
+st	55116	Osiek	1	Wehe het mi mine Korf met Flesch stohle?
+st	-55117	Nowe Karwosieki	1	Wehe hat mi miene Karf mit Flisch stuhle.
+st	-55129	Lenie Male	1	Weh hät miene Karf Fleesch stohle.
+st	-55133	Meczenino	1	Wer hat mie din Korw mit it Fleesch jistuohli?
+st	-55135	Dzierzaznia	1	Wer hat mir mein Korb mit Fleisch gestohln?
+st	-55137	Konary	1	Wije hat mi mine Karf met Fleesch stuole?
+st	-55139	Kozy	1	We hett mi min Kŏf met Fleesch stauole?
+st	55140	Zglowiaczka	1	A: Wer hat mir mein Korb mit Fleisch gestohlen? B: Wer hat mir moi Korb mit Fleisch gstola?
+st	55163	Grabkowo	1	We hat mi mino Kof mat flesch westaulen?
+st	-55164	Wieslawice	1	We hat mine Korf Flesch stole?
+st	-55166	Budy Borowickie	1	Wehe hett mie miene Karf met Flesch stohle?
+st	-55169	Orszymowo	1	Wekeh hät mi mihne Karf met Flejsch stohle.
+st	-55171	Nowy Dwór Mazowiecki	1	Wäe hat mi mien Kiep met Fleesch stole?
+st	-55173	Kozie Glowy	1	War hot mer mei Kurb mit Flesch gestöulen?
+st	-55177	Brdow	1	Wea hoat mein Zeger mit den Fleisch g'stohlen.
+st	-55181	Psary	1	Wêi hätt mi miene Kof met Flēisch stauhale?
+st	-55187	Nowa Wies	1	Wiehe hat miene Karw mett Flesch stoole?
+st	-55189	Miszory	1	Wer hat mi mine Korw met Fleesch stoahle.
+st	5519	Berka v.d. Hainich	1	Wär hàtt meu min Karb mett Fleisch gestohl'n?
+st	-55191	Secymin Polski	1	Wia hat mi da Korb mat dam Fliasch stuohl?
+st	55210	Niechcianow	1	Wer hat mir meinen Korb mit Fleisch gestohlen?
+st	-55216	Kaptury	1	Wie hätt miene Korf met Flesch stuohle?
+st	-55218	Stare Miasto	1	War hot mir mäin Kurb mit Fleeisch gestöoln
+st	-55226	Tarnowka	1	Wer hat mir meinen Korb mit Fleisch gestohlen?
+tu	-55238	Zychlin	1	Wer hat mer meinen Korb mit Fleesch gestohlen?
+tu	-55240	Kopojno	1	Wer hat mir mein'n Korb mit'm Fleisch gestohlen?
+tu	55244	Natalia	1	Wer hot meinen Korb mit Flesch geschtolen.
+tu	55252	Potrzaskow	1	Er hat mir meinen Korb mit Fleisch gestohlen.
+tu	-55254	Szamow	1	Wer hot mir moi Korb mit Fleisch gschtola?
+tu	-55258	Wierzchy	1	Wer hat mer mei Korp mit's Flesch jestohln.
+tu	-55261	Gadowskie Holendry	1	We hot mir mein Kurb mit Flesch gestohln?
+tu	-55262	Turek	1	Wer hat mir den Korb mit Fleisch n(w?)eggenommen.
+tu	-55266	Sarbice	1	We hät miene Kow met Flesch stahle?
+tu	-55269	Zimne	1	We hätt mi mine Korf met dem Fleesch stohle?
+tu	-55270	Leczyca	1	Wer hutt mer mei Korb mid Fleisch geschtohl?
+tu	55271	Piatek	1	Wer hot mejr mei Korb mit Fleisch gestohl.
+tu	-55300	Goliszew	1	Wer hat mer mei Korb mit Fleisch gestohle?
+tu	55305	Poroze	1	War hott mir mei Kurb mt Fleesch gestohln?
+tu	-55306	Rzymsko	1	Wer hat mich mein Korb mit das Fleisch gestohlen?
+tu	-55308	Baldrzychow	1	Wer hat mir den Korb mit Fleisch gestohlen.
+tu	55320	Sanie	1	Wer hat mir mei Korb mit's Fleesch gestohln?
+tu	-55322	Marianow	1	Wer hat mir meinen Korb mit Fleisch gstohlen?
+tu	-55326	Jozefow	1	War hat mir mein Kurb mit Fleeisch gestouln?
+tu	55330	Morawki	1	We hat nu mein Korb mit Fleisch gstuln.
+tu	-55331	Rzepiszew	1	Wer hod mein Korb mit Fleesch gestohlen?
+tu	-55338	Justynow	1	Wer hat mer mei Korb mits Flesch gestohln?
+tu	-55344	Slomkow Suchy	1	Wer hot ma mein Zeger min Fleisch wegtrogn?
+tu	-55349	Markowka	1	Wer hot mia mein Korb mit Flesch gestohln.
+tu	-55350	Rzgow	1	Wer hot mer mei Korb mit Fleisch gestohl.
+tu	-55354	Laznowska Wola	1	Wer hat mir mein'n Korb mit Fleesch-estohln?
+tu	-55359	Kiebitztal (Kuznica)	1	Wer hat mir mein' Korb mit Fleisch g'stohl'n.
+tu	-55360	Ostrow	1	Wer hat mir meinen Korb mit dem Fleisch gestohlen?
+tu	-55361	Wielka Wies	1	Wer hat meinen Korb mit Fleisch gestohlen?
+tu	-55362	Suchcice	1	Wer hat mein'n Korb mit Fleisch genommen?
+tu	-55363	Siemkowice	1	Wer hot mir mai Karb mit'm Fleisch g'schtoln?
+tu	-55365	Dobroslaw	1	Wer(?) meinen Karb mit Fleisch weggestohlen?
+tu	-55366	Belchatów	1	Wer hat mir meinen Korb mit dem Fleisch gemaust?
+tu	-55373	Luszczanowice	1	Wer hat mir meinen Koob mit dem Fleisch gestohlen?
+tu	-55375	Ozarow	1	Wer hat mir meinen Korb mit Fleisch gestohlen?
+tu	-55376	Jaworzno	1	Wer hat mir meinm Korb mit Fleesch geklaut?
+tu	-55377	Natolin	1	Wa hit mein Kurb mitn Flesch gestohln?
+tu	-55382	Czarny Las	1	Wer hot mein Korb mit Fleisch gestohl?
+tu	-55383	Huta Stara A	1	Wer hott mer meen Korb mit Fleisch geschtohlen.
+tu	55384	Myszkow	1	Wer hat mir meinen Korb mit Fleisch gestohlen?
+tu	55387	Dabrowa Gornicza	1	Wer hat mir meinen Korb mit Fleisch gestohlen?
+tu	-55389	Kwaczala	1	Wer hott mer mei Korb mit Fleisch g'stohl?
+tu	-55394	Freistadt (Fryštát)	1	Wer hat mir den Korb mit Fleisch gestohlen?
+tu	-55408	Bistritz (Bystrice Nad Olsí)	1	Wer hat meinen Korb mit Flaschen gestohlen?
+tu	-55411	Radziechowy	1	Wer hoat mei Koarb mit Fleisch g'stulln?
+tu	-55415	Skomlin	1	Wer hat mir mein Korb mit Flesch geschtohl?
+tu	-55416	Kamesznica	1	Wer hot mir mein' Korb mit'm Flaisch g'stuhl'n?
+tu	-55418	Schönwalde (Wrzosy)	1	Wähe het mie minn Kib mit Flesch stohle?
+tu	-55425	Wyszewo	1	Wer hätt mie miene Kow mit Fleisch stohle.
+tu	-55522	Nojewo	1	Wer het meinen Korb mit Fleisch gestohlen?
+tu	5717	Illeben	1	Waer hät ming mie Korb mit Fleisch gestolle?
+tu	573	Lykowo	1	Wä-e het mî mîne Korf mit Fleisch stâle?
+tu	5730	Gebesee	1	War hädd miër mi Korb mädd Fleesch jestoll’n?
+tu	5752	Thalborn	1	War hatt m'r mein Korb met Flesch gestohln?
+tu	5774	Nirmsdorf	1	Wär hatmerä meinen Gorb met Flesch jemaust.
+tu	5810	Crölpa-Löbschütz	1	Wae hottmer mein Korb mett Fleesch gmaust?
+tu	5827	Krössuln	1	Wär hätt' mer mei Korb met Flesch gestuhln.
+tu	584	Dunowo	1	Wei hätt mi mina Korf mit Fleisch staula.
+tu	5863	Michelwitz	1	Wär hot mer en mein'n Korb mit Fleesch gemaust?
+tu	5867	Hollenbach	1	Wahr hett mich dann min Korb mett'n Fleische gestollen.
+tu	5875	Schlotheim	1	Wer hat mir minnen Korb mät Fleisch gestolln?
+tu	6074	Obertopfstedt	1	War hatt mech min Korb mett Fleisch geschtolln?
+tu	6089	Etzleben	1	Wär hätt meir min Korb mät Fleisch ischtolln?
+tu	6105	Allerstedt	1	Wär hat mer mein'n Korb met Flesche gestohl'n?
+tu	6116	Gleina	1	Wer hat mer mein'n Korb met'n Flesche gestuhl'n?
+tu	6129	Kleinkayna/Kleinkaina	1	Wer hat mir mein Korb mit Flesch gestohlen.
+tu	6168	Rehbach	1	Wee hat mir mein Koeb mit Flesch gestohln?
+tu	6171	Mengelrode	1	Wär hätt mir minn Korb mett Fleisch gestohl'n?
+tu	6185	Kirchworbis	1	War het mie min Korb met Fleisch gestolln?
+tu	6196	Grosswenden	1	War hätt mie min-n Körb met Fleisch geschtolln.
+tu	6341	Auleben	1	Wär hätt mich min'n Korb met Fleisch gestolln?
+tu	6359	Hackpfüffel	1	Wär hätt merr'n Korb met Fleisch gestolln? (gestolln auch: geholt; holen = lang'n)
+tu	6371	Mittelhausen	1	War hott mr mein'n Korb mett'n Fleische chemaust?
+tu	6388	Stedten	1	Wer hat mer mein'n Korb met Flesch gestohl'n?
+tu	6400	Ammendorf	1	Wer hat mer mein Korb mett'n Flesche weckgenum'n?
+tu	6418	Glesien	1	Wer hat mer mein'n Korb met Flesch geschtohlen?
+tu	6426	Zwinge	1	Wei het meck minnen Korf mit Fleischa stuhln?
+tu	6472	Stolberg (Harz)	1	Wer hot miah mienen Korb met Fleisch gestolln.
+tu	6577	Walkenried	1	We(a)r hett mich min' Korb met'n Fleisch geschtollen?
+tu	6593	Königerode	1	Wär hedd mich mie'n Korb medd Fleisch geschdoll'n?
+tu	6610	Vatterode	1	Wär hat mich mänen Karb mit Fläsch gestoll'n.
+tu	6630	Freist	1	We hat mär meinen Korb met Flesch gestollen?
+tu	6656	Drehlitz	1	Wer hat mer meinen Korb met Flesch gestole?
+tu	6660	Möst	1	Wer hat mich meinen Korb mit Flesch gemaust?
+tu	6682	Ramsin	1	Wär hat mr mein Korb met Fleesch gemaust?
+tu	6690	Braunlage	1	Wer hat meck mienen Korf mit Fleisch eschtohlen?
+tu	6705	Rieder	1	Wär hett meck mie'n Korf met Fleisch schtohl'n?
+tu	6793	Riefensbeek	1	Wär het meck minen Korf mit Fleische stohlen?
+tu	6801	Neuwerk	1	Wer het mek mienen Korf metten Fleische stohlen?
+tu	6821	Aschersleben	1	Wer het meck mīnen Korf mit Fleisch gestohlen?
+tu	6831	Gröna	1	Wer hat mich mein'n Korb mit Fleesch gestolln?
+tu	6848	Elsdorf	1	Wer hat mir meinen Korb mit Flesch gestolln?
+tu	688	Pregowo Zulawskie	1	Wer heft mi min Korf met Fleesch gestoaln.
+tu	6891	Danstedt	1	Wer hat meck minen Korf mit Fleisch'e stohlen?
+tu	6960	Abbenrode	1	Wer hat meck mienen Korf mit Fleische stohlen?
+tu	6981	Emersleben	1	Wer hat meck minnen Korf mit Fleisch e stohlen?
+tu	6995	Egeln	1	Wer had mick minen Korf mid Fleisch ᵉstôlen?
+tu	7007	Eickendorf	1	Wer hät mik mynen Kor[f] mit Fleisch e schtohlen?
+tu	7022	Kämeritz	1	Wer hät mei minen Korf met Flesch gestoalen?
+tu	7033	Natho	1	Wer het mä mienen Korf met Flesch gestoahlen?
+uv	7180	Liemehna	1	Wär hatt'mer mein'n Koreb met Fleesch jemaust?
+uv	7198	Röcknitz	1	Wär hatt mer denn mein Gorb minn Fleesche jemaust?
+uv	7212	Lausa	1	Waär hot mir mein'n Kurb mit Flesch gemaust?
+uv	7225	Kosilenzien	1	Wär hott mer mein'n Kurb mit Fleesch gestohlen?
+uv	7246	Kahla	1	Wee hat mich mein Korb mit Flesch gemaust?
+uv	7253	Ruhland	1	Wer hat mir meinen Korb mit Fleisch jeschtohlen?
+uv	7263	Lauta	1	Wer hat mir mein'n Korb mit Flëisch gestohl'n (gemaust)?
+uv	7363	Brösa	1	Wer hat mer meinen Korb met Flesch gemaust?
+uv	7371	Falkenberg	1	Wer hat mich mein' Korb met Flesch gemaust?
+uv	7384	Rosenfeld	1	Wer hat mich meinen Korb met Flesch gemaust?
+uv	7394	Wiederau	1	Wer hat mich mein Korb met Fleesch gestohln (gemaust)?
+uv	74	Gwiezdzin	1	Wäh het mi mihne Koof met Fleisch staule?
+uv	7412	Lugau	1	Wer hot mich meinen Korb met Flesch gemaust.
+uv	7427	Dollenchen	1	Wei hat mir meinen Koob mit Fleesch gestohlen?
+uv	743	Rudki	1	Weihe hätt mi miena Kof mit Flesch staula.
+uv	7435	Petershain/Neupetershain	1	Wer hat mir meinen Korb mit Flesch gestohlen?
+uv	748	Budy	1	Weiä hätt mi dä Kow mit Flesch staulä?
+uv	7529	Schleesen	1	Wer hat mich mein'n Korb met Flesch genumm'n?
+uv	7546	Bleddin	1	Wer hat mich denn meinen Fleschkorb gemauset? (hie weckgenumm?)
+uv	7562	Klossa	1	Wer hat miche mienen Korf mett Fleesch gemauset?
+uv	7576	Werchau	1	Wer hat mien Korf mett Fleesch jestoahl?
+uv	7586	Wendisch Drehna/Walddrehna	1	Wer hat mienen Korf met Flesch jemuset.
+uv	7596	Schlabendorf	1	Wer hat mir meinen Korb mit Flesch estohlen? (eschtohlen)
+uv	760	Zakrzewo	1	Wäa hätt mi mina Koof mit Fleesch staule?
+uv	7688	Straach	1	We het me mien'n Korf met Fleesch jestoahl'n (jemuust).
+uv	769	Nowy Dwor	1	Wäha hat mi mina Kof mit Flesch staula?
+uv	7696	Rahnsdorf	1	Wer hat me min Korf mit Flesch gestohln?
+uv	7710	Rohrbeck	1	Wer hätt'n mei mienen Korf met Fleesch gestaahlen?
+uv	7721	Wahlsdorf	1	Wär hett mei min'n Korf met Flesch gestohl'n?
+uv	7732	Hohendorf	1	Wer het mei minen Korb met Flesch jestoahlen?
+uv	7747	Treppendorf	1	Wer hat mer mein-n Korb mit Flēsch gestohlen?
+uv	7758	Sacrow	1	Wer at mer mein Korb mit Flesch eschtohln?
+uv	7964	Zedtlitz	1	War hat mer mein Korb mit Flesch gemaußt?
+uv	7979	Hohnbach	1	War haot miär mein Korb mit Fleesch gemaust?
+uv	80004	Grindelwald	1	Wär hed mier myn Chorb mit dm Fleisch gschtohlen?
+uv	80023	Bosco	1	War hat mir min Kofana mit-tum fleišš kštōla?
+uv	8011	Ziegra	1	War hott mer mein Ke(?)orb mit Fleesch gemaußt?
+uv	803	Lunawy Male	1	Wea hät mi minä Küp mit Flesch stohln?
+uv	8032	Rausslitz	1	War hoat'mer mein'n Kurb mit Fleesch gemaust?
+uv	8055	Coswig	1	War hat mer mein Korb mit Fleesch gestohln?
+uv	8075	Langebrück	1	War hat mur mein Kurb mit Fleesch geschtohlen? (gemaust?)
+uv	8092	Frankenthal	1	War hot mer men Korb met Flesch gestohlen?
+uv	821	Bukowiec	1	Wä hätt mi miene Korf met Fleesch stoahle?
+uv	8272	Fuchshain	1	Wer hat mer denn mein Kurb met n Fleesche genumm?
+uv	8289	Nerchau	1	Wer had mer mein'n Kurb mid Flesch keschdohln?
+uv	83	Charzykowy	1	Wä hätt mi mine Korw mit Fleesch staule?
+uv	8305	Limbach	1	War hot mir meinen Kurb mit Flehsch gemaust?
+uv	8321	Mergendorf	1	Wär had mer mein Kurb mit Fleesch geschduhln.
+uv	8345	Rostig	1	Wer hat mirr mein' Kurb mit Fleesch gemaußt?
+uv	8358	Steinborn	1	Wär hot mr mein Kurb mit Flesche gemaust?
+uv	8368	Bernbruch	1	War hot mir mein'n Korb met Flesche gestohln?
+uv	8505	Dretschen	1	War hoat men'n Korb mit Fleisch gemaust?
+uv	8519	Kittlitz	1	War hotm'r meinen Kourb mit Fleesch genoum'n?
+uv	8532	Kunnerwitz	1	War hott mer menn Kurb mit'm Fleesche genumm?
+uv	8546	Siekierczyn	1	War hutt merr men’n Kurb mit Fleesch g’stohl’n?
+uv	8560	Wolbromow	1	War hot m'r men Kurb mit'm Fleesch g'numm?
+uv	8574	Pieszkow	1	War hoot mrr menn Korrb mit Fleesch gestohln?
+uv	8590	Prusice	1	Wār hōt mirr menn Kurb mit Fleesch geschtohln.
+uv	8614	Ogonowice	1	War hat mer menin(?) Kurb mit Fläsch gestauhla?
+uv	8716	Förstgen	1	Wer hat mir meinen Korb mit Flesch gestohlen.
+uv	8726	Ober Horka I	1	War hott mer menn Kurb mit Flēsche gestohl'n?
+uv	8736	Wegliniec	1	War hot mer menn Kurb mit Flesch geschtohln?
+uv	8740	Kierzno	1	War hott mir meng'n Kurb mit Fleesch gestohl'n?
+uv	8751	Szczytnica	1	War hot mer men Kurb mit im Fleische gestohln?
+uv	8762	Göllschau (Goliszów)	1	War hot m'r menn Kurp mit Flesch gestohlen?
+uv	8777	Bieniowice	1	War haut mir men Kurb mit Fleisch gestauln?
+uv	880	Strzeczona	1	Wä hätt mi miene Koof mit Flesch ßtaule?
+uv	8852	Klein Priebus	1	War hott mer mein'n Kurb mit' d'n Fleeschn ?estohl'n?
+uv	8858	Okraglica	1	War hot mer menn Korb mit Flesch gestohlen?
+uv	8865	Koberbrunn	1	War hot mer menn Kurb mit Flesch gestaulen.
+uv	8870	Armadebrunn (Studzianka)	1	War hot mer menn Kurb mit Fleesch gestol'n?
+uv	8878	Trzmielow	1	War hot mer menn Kurb mit Fleesch g'stauhlen?
+uv	8888	Skladowice	1	War hupt mer a Kurb mit’n Fläsch gesturhlen.
+uv	895	Jelencz	1	Wäe hätt mi minn Kooff mit Flesch stauln?
+uv	8972	Cantdorf	1	Wer hat mir mein Korb mit Fleesch geschtohlen?
+uv	8981	Eichwege	1	Wer hat mir mein Korb mit Flesch geschtolen?
+uv	899	Iwiec	1	Wäha hät mi müne Kof mit Fleesch staula?
+uv	8990	Jedrzychowice	1	War hott mir meinen Kurb mit Fleesch gestohlen.
+uv	9000	Kunzendorf (Kunice)	1	War hott mer menn Kurb mit Flehsch geschtohlen?
+uv	9015	Chichy	1	War hoat mer men Kurb mit Fleesch gestoahln?
+uv	9025	Przeclaw	1	Waar hauot mir mejn'n Kurb mit Flaihsch g'schtauh-n?
+uv	9036	Jakubow	1	War haut mer men Kurb met Flaisch g'stauln?
+uv	9052	Rzeczyca	1	War hot mer meng Kurb mit Fläsch gstaulen.
+uv	906	Busnia	1	Wée hett mie mien Kipp met Flesch stohle?
+uv	9143	Mehlen	1	War hat mer meinen Korb met Flēsch gestoahlen?
+uv	9152	Dluzek	1	War hot mer mein Kurb mit Fleesch jeschtohln?
+uv	9163	Bialowice	1	War hŏt mĭr menn Kurb mit Flésche gestohl'n?
+uv	9179	Broniszow	1	War hott merr menn Kurb mit Flaisch g'staul'n?
+uv	9193	Alt Tschau (Stare Żabno)	1	War haut meer meni Kurb mit Fleisch g'schaul n?
+uv	920	Lisie Katy	1	Wee hett mi minen Karf met Fleesch stoahle?
+uv	9200	Grochowice	1	War hoat m'r meng Kurb mit Flääsch gestoohln?
+uv	9207	Konradowo	1	War hôt mirr mäng Kurb mit Fläsch gschtôhlen?
+uv	9274	Staakow	1	Wer hat mer mein Korb mit Fleesch eschtohl'n?
+uv	9280	Kaltenborn	1	War hot miär meinen Korf met Fleesch jistuohln?
+uv	9288	Czeklin	1	War hot mir mein Kurb mit Fleesch geschtohlen.
+uv	930	Goczalki	1	Wer hot mir meinen Korb met Flesch jestohle?
+uv	9303	Lubiatow	1	Waar hott mirr main Kurb mit Flesche g'stohln?
+uv	9314	Zielona Gora	1	Wer hott mer mein'n Kurb mit Fleesch gestohln?
+uv	9323	Zabor	1	War hot mir meng Kurb mit Fleisch g'stauhl'n?
+uv	9335	Ciosaniec	1	War hott meir men Korb mit Fleisch g'staul'n?
+vw	9400	Miloszyce	1	War hott mir meinen Kurb mit Flesch gestohlen.
+vw	9417	Prietzen	1	Wer hoatt mr mein Kurb mitt'n Fleesche gestohl'n?
+vw	9433	Ujazd Gorny	1	War hot mer meim' Kurb mit Fleisch geschtohln?
+vw	9453	Lisowice	1	War haut merr a Kurb mitt Fleisch geschtaulen?
+vw	9558	Ligota Piekna	1	War hoat merr menn Kurp mit Flesch gestauln?
+vw	9579	Jenkowice	1	War haht mer men Kurb mit Flaisch gestalden?
+vw	9592	Jemielna	1	Wer hoot mir meinen Kurb miht Fleesch gestuhlden?
+vw	9612	Prawikow	1	War hoat mirr männ Kurb midden Fläsche gistoahlen?
+vw	9622	Warzyna	1	Wer hoat mer meen Kurb mit Fläsch gestauhl'n?
+vw	9717	Domanowice	1	War hoat mir meen'n Kurb mit Flaïsch gestalden?
+vw	9739	Kamien	1	Wer hat mir meinen Kurb mit Fleshc gestohlen?
+vw	9760	Krzelow	1	War haut mer mann Kurb mit'm Fläsche gestoahlen.
+vw	9775	Staszowice	1	War hoat meir menn Koarb mit Fliäsch gestohlen?
+vw	9799	Lazy Wielkie	1	War haut mer men Kurb mit Fleische geschtahl'n?
+vw	983	Gromaden	1	Wää hätt mi miene Koaf mit Flesch staulä?
+vw	984	Friedberg	1	Wäh hät mi minä Kow mit Flesch stauhlä?
+vw	9848	Godnowa	1	Wer hot mer men Kurb mit Fläsch gestohlen?
+vw	9877	Chroscina	1	War hottmär meng Kurb meit'n Floisch g'stohln?
+vw	9891	Gosciejewice	1	War hott mer men Kurb mit Fläsch gestoln?
+vw	99	Trumiejki	1	Wer hätt mie mine Karf mött Flosch staole?
+vw	990	Walownica	1	Wähe hätt mi de Korw mit Flesch stole?
+vw	9903	Sonnenfeld (Orpischewo)	1	Wahr hat men Kurb mit Fläsch gestohlden?
+vw	9919	Wierzowice Male	1	War hot mer men Kurb mit Fläsch gestauhlen?
+vw	9926	Wodniki	1	War hoat mer men Kpurb mit Fläesch gestoahlen?
+vw	994	Kabat	1	Weh hät mie miene Korf met Flesch stohle.
+vw	9984	Morkowo	1	War hot mer men'n Kurb mit Fläsch g'stohl'n?
+vw	54872	Reval	1	Wär at mir meinn Korp mit Wleiš [j]e[š]tōlen? [j]eklommen.
+vw	52353	NA	1	Wer hät minn Korf met Fleisch stohle?
+vw	30173	Ajoncourt	2	Quias que mé volèe mo frénieu de ché?
+vw	30197	Vaxy	2	Ciasse qu´è pris mo péni de châ?
+vw	30214	Bénestroff	2	Quiassque mé fait-mo sonnit avo mé chô?
+vw	30225	Attilloncourt	2	Quas que me polé mon sr(p?)eni dree de lâ ri?nde.
+vw	30248	Bezange-La-Petite	2	Quiace que m'e volé mo péni de chè.
+vw	30254	Maizières-Lès-Vic	2	Qui a-ce qui m'è volé mo paigni d châ.
+vw	30268	Richeval	2	Qui ost que me volai mo painïeu de châ.
+vw	30285	Lommerange	2	Qui es qui mes vōlai mé ponier arieu de la chā.
+vw	30314	Argancy	2	Quiâ-ce queu volé mo pennieu évåa d'let chåa.
+vw	30325	Vernéville	2	Quosqué prin mo demib cho èvo mi cha?
+vw	30351	Ancy-Sur-Moselle	2	Ciosse qui met volet mo chévan évou mé châ?
+vw	30361	Orny	2	Qu´ias qué mé volé ma penier d'châ?
+vw	30374	Hémilly	2	Qui ace que me vole lé chef eva l?é châ
+vw	30379	Champenay	2	Kios ke me wolä mä Korboi de Schah?
+vw	30410	La Petite Lièpvre	2	Quiace qué volait mo bochteï êvo lè tchâ?
+vw	30421	Montreux-Vieux	2	Tiu que mé pris mon pénie aivos le tschie.
+vw	30429	Xhoffraix	2	Qui est ce qui m’a happé m’tcheua d’char?
+vw	30436	Pont	2	Kî èss ki m´a happé m' tchèna d'tchãr?
+vw	30058	Karkelbeck	3	Kas ÿra man mano Kiuoti ſu Mēſą pawoges.
+vw	30068	Kinten	3	Kas mano Kiocę ſu Mésa pawoje?
+vw	30078	Rudienen	3	Kas mano Kàſzę́lè ſu Mesà pawoge?
+vw	30083	Kolleschen (Kolletzischken)	3	Kas tur man mano Korbe ſu Meſa pawogis.
+vw	-54895	Warszawa	10	wēər hǫd mīər mąin Kǫrb mid flaiš gəgãmfid (‘gestohlen’ ist deutsch)?
+vw	9746	Kobyla Gora	10	Wer hat mir main Koreb mit dem Fleiſh geſtohlen?
+vw	46572	Nebel	11	Hokkar hæ mi man Kurv mæd Flæsk stælan?
+vw	46636	Hooge	11	Hoek heet mi min Köern mea Flaesk steelen?
+vw	46640	Wobbenbüll	11	Höm het mie man Körf me Flaasch steelen?
+vw	46699	Horsbüll	11	Humm hie mie menn Korv met Flahſk ſthielen?
+vw	46759	Oland	11	Hook heet mi man Köref me Floosk stelen.
+vw	46773	Mönkebüll	11	Hum het me man Korf me Flaſch ſtehlen?
+vw	46888	Archsum	11	Hokken hed‘ mi min Korf me Meet stäälen?
+vw	47862	Helgoland	11	Wèlk hàt mīn Koërro mĕ̀f Flḗsk stṓln
+vw	48241	Wangerooge	11	Wo he mien Kurf mit Flaſch ſtillien?
+vw	F002p	Hindeloopen	11	Waa het mien kôêr 1) mei flesk stend 2) ?
+vw	B079p	Zurich	11	Hwa hat mÿn koer mei flêsk stêllen?
+vw	F036p	Oudemirdum	11	Wĭ́ hĕ̀t mĭ́n koeər ma̱i flais stĕ̀lən?
+vw	F003p	Woudsend	11	Wí hèt mîn kôer mei fleis stè̂len?
+vw	B084p	Wommels	11	Hwa hat mijn koer mei fleis stellen?
+vw	F013c	Oudehaske	11	Wie het mien koer mai flais stellen?
+vw	B094p	Grou	11	(H)ʋa: hεt min ku:r maj flεsk/flajs stεlən?
+vw	B024b	Wijns	11	Wa: hat min ku:r mai̯ flai̯s stelən
+vw	B099a	Opeinde	11	Hwa hat mijn koer mei fleis stellen?
+vw	B035a	Zwagerbosch	11	Wha hat myn kœ̂r mei fleis stellen?
+vw	B014p	Paesens	11	Wa hat myn koer mei flesk stellen?
+vw	G001b	Appelscha	11	Wie hat mien koer mit vleis stelln
+vw	46905	Westre	12	Wémm har stollen mien Korre mé Kjö?
+vw	46914	Sophiental	12	Wĕn hĕr staăl mŏ en Korre med Kjör i?
+vw	46932	Sonderburg (Sønderborg)	12	Wĕn hĕs ʃtŏl min Korre me Kjö?
+vw	46938	Lysabbelholz (Lysabildskov)	12	Wer hä sol min Korre med Kjö.
+vw	46939	Toftum	12	Wen har stållèn mi' Kaarr'e md'e' Kjórr?
+vw	46948	Hönning (Hønning)	12	Wen har staael min Kaarre med æ Kjór i?
+vw	46957	Beftoft (Bevtoft)	12	Hven hæ staal min Korre med Kjöd?
+vw	46968	Norder Wilstrup (Nørre Vilstrup)	12	NEU (Buchstaben korrigiert): Venn hær staaeld min Kaarre fea mæ mæ Kjóri.
+vw	47006	List	12	Wän har ʃtaln min Kore med Kjöd ?
+vw	47007	Jerpstedt (Hjerpsted)	12	NEU (Buchstaben korrigiert): Ven ha staal mæ min Kor me Kjör.
+vw	47016	Ellum	12	Ven har staallen mæ min Korre mæ Kjör?
+vw	47029	Kassöe/Kassö (Kassø)	12	NEU (Buchstaben korrigiert): Ven har staäld min Korre med Kjód i
+vw	47040	Feldstedtholz (Feldstedskov)	12	Hven hæd stol min Korre med ?læst i.
+vw	47048	Hagenberg (Havnbjerg)	12	Wenn hä stoll mä min Kaare med Kjöd?
+vw	47052	Hellwitt (Helved)	12	NEU (Buchstaben korrigiert): Hvem hæ staald mæ min Korre Kjód?
+vw	47057	Kamptrup (Kamtrup)	12	Wenn haar sto eld mi Korre mæ Kjör i.
+vw	47066	Grönnebeck/Grönnebek (Grønnebæk)	12	Wen ha staaeldj min Korre Kjöd.
+vw	47073	Tyrstrup	12	Wen ha staal mæ mi Korre mæ æ Kjör.
+vw	47078	Hvidding (Hviding)	12	Ven har ∫taael mi Karre med e Fle∫k?
+vw	56471	Merzdorf	41	Chto jo mė moj kȯrb stym mėßom hukschadnuw?
+vw	56504	Burg	41	Schtu je mi korbik smjassom kranił?
+vw	56507	Nochten	41	Schtó je mi moj Korbik stym Mjaßom kranył?
+vw	56520	Luppa	41	Štó je mi moj korb z mjasom kradnył.
+vw	56694	Widno	42	Chtosz mnie mój kosz mniesem ukrad?
+vw	56784	Zelistrzewo	42	Ktez mie moj kosz z mięsę ukrot!
+vw	56785	Jastarnia	42	Chto mo mie moj Kosz z mięso ukradlÿ?
+vw	56799	Zalakowo	42	Chto mie ma moj kosz z mięsą ukradły?
+wx	56805	Sianowska Huta	42	kto ma me moei Kosz smiasem ukradłi.
+wx	56814	Rebiechowo	42	Chtesz mnie mój kosz z mięsam ukrod?
+wx	56846	Piechowice	42	Kto mie mój kosz z miasem ukroł [sic!].
+wx	53478	Rombark	43	Kto mnie koś z miésem ukradl?
+wx	53489	Rytel	43	Kto mi kosz z mięsern ukradł?
+wx	53514	Lubocien	43	Kto mi moj koś zmięrem ukradł?
+wx	53521	Kamionka	43	Kto mnie mój Kosz zmię sem ukradł?
+wx	53535	Orzelek	43	Kto mi ukradł moj kosz zmięsem?
+wx	53538	Szyroslaw	43	Kto moj kosz z mięsem ukradł?
+wx	53545	Pisanica	43	Kto mię möÿ kós z nięnsem ukkradł?
+wx	53567	Glinki	43	Kto mi skradł moj kosz z mięsem?
+wx	53571	Gruczno	43	Kto mi moj kosz z mięsem ukradł?
+wx	53581	Slawianowo	43	Kto mi ukradł mój Kosz z mięsem?
+wx	53602	Zoledowo	43	Kto mi mój Koszyk z mięsem ukradł?
+wx	53616	Wrocki	43	Kto my moj Kosz z miesem ukradł?
+wx	53620	Morzewo	43	Kto mi ukradł mój kosz z mięsem?
+wx	53656	Bartosze	43	Kto mię moy kosz z miesem ukradł?
+wx	53663	Kraplewo	43	Kto mi mój Kosz zmięsem ukradł?
+wx	53708	Pokrzydowo	43	Kto mi ukradł mój Kosz z mięsem.
+wx	53710	Boleszyn	43	Kto mi kosz z mięsem ukradł?
+wx	53721	Nowy Swiat	43	Kto mi mój Kosz  z miąsem ukradł?
+wx	53745	Wapno	43	Kto mi porwał mój Koszyk z mięsem?
+wx	53756	Mamlicz	43	Kto mi ukradł mój kosz?? Z mięsem.
+wx	53760	Rojewo	43	Któż mi  ukradł mòj Koszyk z mię sem(?).
+wx	53771	Wiatrowo	43	Kto mi mój Koszyk z miesem ukradł?
+wx	53819	Galezewo	43	Kto porwoł mi moj koszyk z mięsem.
+wx	53822	Lojewo	43	Kto ukravi mi mój Koszyk z mięsem?
+wx	53834	Bielawy	43	Kto mi ukradł moj Koszyk z mięsym.
+wx	53859	Chludowo	43	Kto mi mój Koszyk z miesem ukradl?
+wx	53872	Strzyzewo Koscielne	43	Kto mi ukradł mój kosz z mięsem. 
+wx	53877	Kamieniec	43	Kto mi mój Koszyk z mięsem ukradł?
+wx	55537	Ceradz Koscielny	43	Kto mi ukradł mój Koszyk z mięsem?
+wx	55565	Poznan	43	Kto mi mój Koszyk z miésem ukradł?
+wx	55569	Lowecin	43	Kto mi ukradł mój kosz z mięsem?
+wx	55586	Mierzewo	43	Kto mi ukradł mój koszyk z mięsem?
+wx	55592	Dabrowka Wielkopolska	43	Kto mi ukradł mój koszyk z mięsem?
+wx	55593	Slupia	43	Kto skradł moj Koszyk z mięsem.
+wx	55621	Babin	43	Kto (=któż) mi ukradł mój koszyk z mięsem?
+wx	55635	Tadeuszowo	43	Kto mi mój koszyk z mięsem ukradł?
+wx	55646	Gorazdowo	43	Kto mi ukradł mój Koszyk z mięsem?
+wx	55656	Sierakowo	43	Kto mi ukradł mój koszyk z mięsem?
+wx	55688	Turew	43	Kto mi ukradł mój koszyk z mięsem?
+wx	55701	Ludwinow	43	Kto mi koszyk z miesęm porwał(?)?
+wx	55702	Radomierz	43	Kto ukradł mi Koszyk z mięsem?
+wx	55720	Kotlin	43	Kto mi ukrat mój koszyk z mięsem.
+wx	55725	Gorzno	43	Kto ukradł mi mój Koszyk z mięsem?
+wx	55729	Drzeczewo Pierwsze	43	Kto mi mój Kosz z mięsem ukradł.
+wx	55733	Rusko	43	Kto mi ukradł kszyk z mięsem?
+wx	55741	Brzezie	43	Kto mi ukradł mój koszyk z mię sem?
+wx	55782	Torzeniec	43	Kto mi ukradł moj Koszyk z mięsem?
+wx	55794	Kuznica Slupska	43	Kto mi ukradł mój Koszyk zmięsem.
+wx	55803	Kuklinow	43	Kto mi porwal mój Koszyk z mięę sem.
+wx	55828	Pomocno	43	Kto mi ukradł mój kosz z mięsem?
+wx	55848	Uciechow	43	Kto mi ukradł moj Koszyk z mięsem?
+wx	55855	Przygodziczki	43	Kto mi skradł moj kosik z mięsem?
+wx	55859	Kaliszkowice Kaliskie	43	Kto mi wziął moj koszyk z mięsem?
+wx	55878	Trebaczow	43	Któz mi mój Kozyk z mięsem ukradł.
+wx	55894	Greboszow	43	Ktoz mi moj kosyk z mięsym ukrodł?
+wx	55900	Pawlowice Gorzowskie	43	Któz mi mój kosyk z mięsę ukrau(n?)d.
+wx	55940	Skoraszewice	43	Kto mi mòj Koszyk z mięsem ukrad.
+wx	55947	Kwiatkow	43	Któz mi koszyk z miesem (z) ukradł?
+wx	55991	Zabrze	43	Ktoź mi mój koszyk z mięsem ukródt. 
+wx	56013	Radoszowy	43	Kt'oź mi ukrodł mój koszyk z mięsym?
+wx	56022	Budziska	43	Ktorz mi muj koszyk z miansem porwoł (ukrod)?
+wx	56027	Stanica	43	Kto mie moj koszyk smięsen ukrod?
+wx	56041	Murcki	43	Kto mi moj Koszyk z mięsem ukrot?
+wx	56053	Wilkow	43	Chtóž mi mój koszyk z miansan ukrołt?
+wx	56069	Dobieszowice	43	Chtóž mi mój Kosz zmiansan ukrot?
+wx	56077	Ujazd	43	Ktož mi ukradł koszyk z mięsem.
+wx	56086	Rzeczyce	43	Kto mi moi kosz z mięsem ukrołt?
+wx	56167	Staniszcze Male	43	Któž mi moj Koszyk z mięsem ukrodł?
+wx	56190	Ligota Proszkowska	43	Któs mi tey ukrot moj kosyk z mięsem?
+wx	56205	Radonia	43	Ktosz mi moj Kosz z Miesem ukrad?
+wx	56237	Kotorz Wielki	43	Ktoź mi to ukrodł moj Kosyk z mięsem.
+wx	56247	Pawonkow	43	Kto mi ukrodł kosyk zmiesem?
+wx	56252	Cieszowa	43	Kto mi moj kosyk z miésem ukrodł?
+wx	56257	Zieliniec	43	Któz mi mój kosyk z mięsę ukrołt?
+wx	56269	Debiniec	43	Któsz mi mój Kosz ?mię??mukrat?
+wx	56274	Wedrynia	43	Ktož mi moj koszyk z mięsym ukraudł.
+wx	56338	Frydek	43	Toz mi koszyk z mięsym ukrogƚ.
+wx	56349	Pielgrzymowice	43	Ktoź mi moj  koszyk z mięsę ukrod.
+wx	56375	Nieboczowy	43	Ktosz mi moj koszyk z mięsem ukrod?
+wx	56381	Swierklany Dolne	43	Ktož mi moi kosz zmięsém ukrot.
+wx	56539	Gieralcice	43	Ktoź mi kosz moj z mięsem ukradł?
+wx	56549	Borki Wielkie	43	Kto mi mój Kosz zmięsem ukradł?
+wx	56576	Kamien Slaski	43	Kto mi moj Koszyk z miesem ukradł?
+wx	56580	Strzelce Opolskie	43	Kto mi moj kosz z mięsym ukradł?
+wx	56600	Tarnowskie Góry	43	Któź mi moj korzyk z miesym ukradł?
+wx	56650	Bujaków	43	Któž mnie mój koszyk z mięsem ukradł?
+wx	56681	Suszec	43	Któz mie moi kyszÿk z mięsem ukradł?
+wx	56761	Mgowo	43	Kto mi moj kosz z mięsem ukradł?
+wx	56850	Lekarty	43	Chto mie moj kosz z mięsem ukrał?
+wx	56861	Lewald Wielki	43	Kto my moi Kosz z nmiesem ukrad?
+wx	56870	Januszkowo	43	Kto mÿ moy koś z miésém ukrad?
+wx	56877	Zimna Woda	43	Chto mńie kos źńesem ukrał?
+wx	56884	Roklas	43	Kto mni Kos z mięsem ukradł?
+wx	56897	Lipowiec	43	Kto mnie kośźik z miensem ukrat
+wx	56903	Zawojki	43	Kto mi moi Kos s Keicsenc(?) ukrat.
+wx	56916	Slawka Mala	43	Kto ni moy kos z nezem ukrat?
+wx	56953	Baranowo	43	Kto mie moy koś  z niems em ukrat.
+xy	56956	Macice	43	Kto mi moy kos z miensem ukrad?
+xy	56963	Narzym	43	Chto my kosz z nię szem ukrodł ?
+xy	56966	Napierki	43	Kto mie noi Kohs s miesem ukratł.
+xy	56975	Mierki	43	Kto mie kosz z niesem ukrad?
+xy	56979	Butryny	43	Kto mie noj kosz z miasesem ukradł?
+xy	56994	Jerutki	43	Kto mnie kos z mięsem ukradł?
+xy	57047	Nowy Dwor	43	Ktos mi moÿ kos z miesem ukradł?
+xy	57066	Wysoki Grad	43	Kto mie kosz z mię sem ukradł?
+xy	57070	Pogobie Srednie	43	Chto mie moj kos z niensem ukrad?
+xy	57074	Lipnicken (Lipniki)	43	Kto mnie kozs z nięzsem ukrat.
+xy	-57081	Klebark Wielki	43	Kto moj kosz zmięsem ukrat (ukradl).
+xy	57106	Rybno	43	Kto mi moÿ kosz z mięsem ukraolł?
+xy	57168	Saplaty	43	Kto mie moi kosz z butelkami ukradł?
+xy	57181	Krutyn	43	Kto mie kohs z nienshem uktrat?
+xy	57183	Zdory	43	Ktąz mi moy Kosik zmięszym ukradł?
+xy	57186	Ruda	43	Chto mie kosz z mięcem ukrat.
+xy	57191	Dybowo	43	Chto mię mój kósz z nięsem ukrad?
+xy	57203	Dlugosze	43	Kto mi moi kos z nięszem ukrad?
+xy	57219	Sulimy	43	Któz mi moÿ koś z mięsem ukradł?
+xy	57232	Wejdyki	43	Kto mi mo? kos z mięzym ukradł(?)?
+xy	57258	Wilkasy	43	Kto mie moj Kóhs z nięsem ukrad?
+xy	57275	Czerwonka	43	Chto mnie moj koś zmiejsem łukroł?
+xy	57298	Zastruzne	43	Kto mie moi Kósz z nięszem ukradł?
+xy	57304	Skomack Wielki	43	Kto mi moy kosz z mięszem ukradł?
+xy	57318	Kile	43	Kto mie mög kos z mieszym ukrat?
+xy	57321	Prawdziska	43	Chto mie moj kos smęsem ukrat?
+xy	57340	Mosina	43	Któ mi ukrod koszyk z miésem?
+xy	57348	Bnin	43	Któź mi ukradł mój koszyk z misem (mięsem).
+xy	57379	Binkowo	43	Kto mi mój Koszyk z miesem pórwól?
+xy	57381	Kolniczki	43	Kto mi mój Koszyk z miesem porwoł?
+xy	57394	Januszkowo	43	Ktoto ukrod mój Koszyk z mięsiwem.
+xy	57406	Dabrowka Ludomska	43	Kto mi moj Koszyk z miysem ukrod?
+xy	57407	Wiecanowo	43	Któż mi też okrót moj koszyk z mięsem?
+xy	57397	NA	43	hto mioł muj koszyk z miȩsm ukrot?
+xy	55528	Słone	44	Kopak mě ukrat můj koš smasem?
+xy	56290	Groß Hoschütz (Velke Hostice)	44	Kdo mi muj košik š masem ukrat?
+xy	56344	Ellgoth-Hultschin (Ostrava-Lhotka)	44	Kdo mi muj kos̋ s masem ukrad?
+xy	44317	Zell-Pfarre	45	Tu je mne moj korp z msam vkradov?
+xy	I125a	Heille	100	Wie ĕĕtər mən mant mĕĕ flēēs/eer/ chəstōōln /oor/
+xy	I140p	Axel	100	Wien ètter mijn mande mee vleesch gestoeln.
+xy	I103p	Cadzand	100	Wien 'ei m'n mande mie vleisch gestool'n?
+xy	I110a	Slijkplaat	100	Wie è-ter miēn mande mee vlies gestolen.
+xy	I095p	Hoedekenskerke	100	wien ei̯ m'n mande mie vlees 'estole
+xy	I101p	Krabbendijke	100	Wei ei me monge mie vleis estolen
+xy	I058p	Westkapelle	100	wî́n ei mən mằŋdə mḗ fleis əstốlə?
+xy	I062a	Serooskerke	100	wien eit die mande mee vleesch gestaole
+xy	I048p	Colijnsplaat	100	wīn ij (nu) m'n ma̱ndə mē flijs gəstōlə?
+xy	I055p	Sint Annaland	100	Wie eiter mun mande mee vleis gestole
+xy	K173a	Kruisland	100	Wiè ee mijn maand mee fleeasch getolen?
+xy	K155p	Zevenbergen	100	Wie ēēj mən māānt meĕ flēēs* chəstṓlə
+xy	K162a	Oosteind	100	Wie hĕĕj mən maant mĕĕj vlēēs chəstṓlə?
+xy	I032p	Burgh-Haamstede	100	Wie ei mən mande mì fleis əstole?
+xy	I031a	Scharendijke	100	Wie ei m'n mande mit fleis estole?
+xy	I023p	Dirksland	100	wie heit men mande mit vleis gestole
+xy	K086p	Zuid-Beijerland	100	wie het m'n mand met vlàijs gestol(e)n
+xy	K093p	'S-Gravendeel	100	Wie he mə mandə vlees gəstolə?
+xy	K101a	Nieuwendijk	100	Wie hĕ mene maant meej fliees gestole?
+xy	I008p	Rockanje	100	Wie heit me mande mit vlijs gestole?
+xy	K042a	Vlaardingen	100	wie ait m'n mande mit vleijsch gestolen?
+xy	K012p	Ouderkerk Aan den Ijssel	100	Wie het mijn mand met vleis gestole
+xy	K022p	Willige Langerak	100	Wie heeft mən mand met vlees gestôlen?
+xy	D005p	Den Haag	100	Wī hef mèn mant met flēs gəXap?
+xy	E179p	Zwammerdam	100	Wie heb me mand met vleesch gestole?
+xy	E181p	Zegveld	100	Wī́ hḗft mijn mằnd mĕ̀t (mĭ̀t) flḗs gəstṓlə ?
+xy	E133p	Katwijk Aan Zee	100	oeWī́ hâtər mə mâ mŭ̀t vle̱is əstôlə?
+xy	E138b	Abbenes	100	Wie het m'n mand met vlees gestolen?
+xy	E147a	De Kwakel	100	Wie het me mand met vleesch gestolen?
+xy	E080a	Velsen	100	Wie hep min mand met flees gestole?
+xy	E086p	Zaandam	100	Wie heb m'n mand met vlees ustole?
+xy	E041p	Egmond Aan Zee	100	Wie ep me mangt mit vlies estoale?
+xy	E047a	Stompetoren	100	Wie heb main mand met flees (of "flais") stōle?
+xy	E010p	Sint Maarten	100	Wie heb me mand mit vlais stolen?
+xy	E005p	Westerland	100	Wie het m'n mangd mit fleis stolen?
+xy	A009p	De Waal	100	Wie heb mien mònd mit vlees stole?
+xy	K218p	Bladel	100	Wiej hee men mant mee vlees chestoowle?
+xy	K214p	Lage Mierde	100	Wie heet m'n mand met vlees gestolen
+xy	K165p	Udenhout	100	Wie hee m'n maand mee vlees ewĕ̀ggehŏld
+xy	K104a	Herwijnen	100	Wie hè miene maand mi flès gestole
+xy	K035p	Hei-En Boeicop	100	Wie he mun mand mit vleesch gestolen.
+xy	E192p	Utrecht	100	Wie het m'n mānd mit vleesch gestôle. (o uit ochtend")
+xy	E124p	Ankeveen	100	Wie heeft mijn met met vlees weggepikt
+xy	E091p	Monnickendam	100	wie eit mu mant met flees əstoolə
+xy	E058p	Hoorn	100	Wie heb me mand mit vleesch gestole
+xy	E031a	Oostwoud	100	Wī́ hĕ̀t ma̱in mằnd mĕ̀t vleis sto̱ōlən?
+xy	E003a	Den Oever	100	wie het m'n mangd mit fleis stolen
+xy	Q095p	Maastricht	100	Wee heeft miene kuiref meit vleis gestole (gegajdeef)
+xy	L281p	Borkel	100	Wie hé m'n mand mé vlés gestole?
+xy	L226p	Woensel	100	Wie hĕĕ men māānd mĕĕ flĕĕs weggəhŏălt
+xy	L177c	Middelrode	100	Wie hi mən/mien maand mi vlis gestôlen
+xy	L093p	Lith	100	Wie hĕetər men maānt meĕ fles chəstṓlə(oor)
+xy	L003p	Maurik	100	wi hε mεin mɑ:nt mɪ Flε:s ǥəstò:lə
+xy	F165p	Amersfoort	100	Wie hĕ̀t m'n mằnt mεt flees estole?
+xy	F121p	Bunschoten-Spakenburg	100	wee het m'n mangt met vleisch e-steulen?
+xy	E040a	Venhuizen	100	Wie het mun mand mit vlois stölen?
+xy	E040p	Enkhuizen	100	wie 'et mijn mand mit fleisch stolen
+xy	A001p	Midsland	100	Wie het mijn korf met vleis (stolen) met--wen?
+xy	Q102p	Sint Antoniusbank	100	wēī hēīt mīēne kuirf mèt vlēīsch geschtōōle?
+xy	L318p	Stramproy	100	Weem heet mien manj mèt vleis gəsto-lə?
+xy	L288b	Laar	100	Wḗm hḗt mī́n mằng mĕ̀t vleis gəstṓlə?
+xy	L237p	Helmond	100	Wi hih m'n maand mi vlis gestollen?
+yz	L157a	Oventje	100	Wie hi meeng maand mi vlis gestolle?
+yz	L102p	Ravenstein	100	wī het mən mānt mete flēs chəstolə?
+yz	L010p	Wageningen	100	Wí hê mən mant mi vlēs gəstōlə(ō+a.c.)
+yz	F170p	Barneveld	100	Wie het mien maand vleisch estowlen?
+yz	F124p	Putten	100	wie heet mien mant mit vleis əsteulən?
+yz	F077p	Urk	100	Wie et m'n maande mit vlès əsteulen ?
+yz	B046a	Minnertsga	100	Hwa hèt myn koerke mei fleis stellen?
+yz	L290p	Panningen	100	We hêt mīn man met fleu̯s Xəstôlə
+yz	L211p	Leunen	100	Wie hɛt er miene körf mit-flɛ̄s (miene vlɛ̄skörf) gestoole?
+yz	L116p	Beek	100	wie het mien māānd met flḕs chəstōōlə
+yz	L023p	Arnhem	100	Wie het mə mant mĕ̀ vlees chəstolə?
+yz	F173p	Hoenderloo	100	Wi het min mand met vleis əstolən?
+yz	F128p	Vierhouten	100	Wee hef m'n maande met fleis esteuln?
+yz	F102p	Oldebroek	100	Wie hef t'r mien mande met(mit) vleis estölen?
+yz	F079p	Ens	100	Wie häf m'n maande met vlaas esteulen.
+yz	F052p	Kuinre	100	Wie et mien mande mit vleis steul'n?
+yz	B002p	Nes	100	Wie het mien mand vlees stolen?
+yz	F207p	Drempt	100	wie hef mien mande met vleis estol'n
+yz	F179p	Zutphen	100	Wî hef mien mande met vleis estoalen?
+yz	F132p	Diepenveen	100	Wie hef mien mande met vleisch estôlen?
+yz	F106p	Windesheim	100	wie 'ef mien maande met vleis 'esteulen?
+yz	F086p	Rouveen	100	wī(j)èf mīn māndə mìt flèis 'əstȫl'n?
+yz	F060p	Steenwijk	100	Wē ef mien maande mit vleis esteul'n?
+yz	F021p	Oldeberkoop	100	Wie het mien maand mit vleisch steulen?
+yz	G279a	Zieuwent	100	wēē hef (miĕnə bennə, mienṇ korf) met fleiz əstolnə
+yz	G246p	Lochem	100	we: hɛf mie(j) də mandə mɛt flɛix' əstɔln̥?
+yz	G197p	Holten	100	Wee hèf mine maane mèt vlaàjs estùln
+yz	G139a	Arriën	100	wie hef mien mande mē fleisch estölln
+yz	G091d	Linde	100	wie hef mi-j de maandə mit vleis ofsteuln
+yz	G024p	Dwingeloo	100	Wie hef mien maande mit vleis əsteul'n
+yz	C145p	Zevenhuizen	100	Wèl het mien kurf met vleis stool'n?
+yz	C063p	Oldehove	100	wèl het mien maand met vlees stolen
+yz	C023a	Hornhuizen	100	Wèl hèt mien keurf mìt flais stōl'n
+yz	G257p	Haaksbergen	100	wee hef miene maan(d)e met fleis estñoll(e)
+yz	G173p	Almelo	100	Wee hef miene maande met vleis estöllen?
+yz	G094p	Gramsbergen	100	wie hef mienen körf met vleis estöllen
+yz	G031p	Orvelte	100	'Wel hef mien körf met vleis steul'n
+yz	G007p	Rolde	100	Wel hev mien kùrf mit flè(ie)s steull.
+yz	C148a	Glimmen	100	Wêl hèt mi̱e̱n körf(9) mèt vla̱is stōl'n? (10)
+yz	C070a	Sint Annen	100	Wel het mien mand mit vlais stŏln
+yz	C001b	'T Lage Van De Weg	100	Wèl hèt mien körf mit vlaais stool'n
+yz	G079a	Amsterdamscheveld	100	wĭ hef mĭn maandə met vleis steulen?
+yz	G058p	Emmen	100	Wel hef mien körf met vleis steul'n?
+yz	G012a	Nieuw-Buinen	100	wèl (h)et mien körf mit vlais (vlaais) st.....
+yz	C156p	Muntendam	100	Wèl et mien kurf mit vlais stooln.
+yz	C081p	Weiwerd	100	Wèl (h)èt mien kò̈rf mit vlais stool'n?
+yz	C042p	Spijk	100	Wel het mien körf mit vlais stolen?
+yz	C165p	Bellingwolde	100	wêl het mien körf mit vlais stoaln?
+yz	G285p	Meddo	100	Wêe hef miene mende met fleis estolne?
+yz	K189p	Essen	100	Wie eémene keurf mèj fliees chestole?
+yz	P133a	Terlanen	100	Wij hee mijne tjerf mè fleesch gepakt
+yz	K191p	Meerle	100	Wie hee mijnen körf me͠e vleesch gestolen?
+yz	K234p	Wechelderzande	100	wi: he: ma:n ma:nd me: fli:əs jəsto̞lə
+yz	K305p	Olen	100	Wi: hê mə mənən körf me: fle:s gəstolən?
+yz	P025p	Aarschot	100	Wī ä mǝnǝ kø̜rǝf mę fliǝs gǝstōlǝ?
+yz	P154p	Outgaarden	100	wē̜ e̜jmix mẹnə kö̜rəf bẹfliəsxəsta̜ulə.
+yz	K196p	Poppel	100	Wie hee mene keŭrf mee fleesch gestole?
+yz	K241p	Retie	100	win he mənə kø̜rf me fliəs gəstōln
+yz	K314a	Gompel	100	wī hē mə mənə ko̜rəf mē flīəs xəstōlən?
+yz	P047p	Loksbergen	100	Wièj heej mig mène kĕurf bè vlīəs gestole.
+yz	P174p	Velm	100	Weeë hee mich menne keurf be vlieësch gestole?
+yz	L353p	Eksel	100	Wie het mich mijn körf met vliesch gestolen?
+yz	Q001p	Zonhoven	100	Wien 'et mix menə kørəf bẹflis gəstȯələn
+yz	Q079p	Guigoven	100	wiẹ hẹt mix mən bå̄s mẹt fle̜i̯:s (of fle:s) ɣəstoələ?
+yz	L360p	Bree	100	Wɛˑ hɛˑt miχ miˑənə kɛrf mɛt flɛjs gəstuˑələ?
+yz	L417p	As	100	Wèr he͡et mich miene kèrf met vleis gestoële
+yz	Q253p	Montzen	100	wè hat mich mīengǝ körǝf mit fleejsj gǝsjtōlǝ?
+yz	O009p	Gottem	100	Wie hee d er myn mande mee flees gestolen?
+yz	O182p	Volkegem	100	Wien eet er (mÿ) minne poeënd'r mee flieës 'estool'n? (gestool'n)?
+yz	I163p	Oosteeklo	100	Wi e:t(ə)rə mɛjn mandə meˑ fli[ɛ/e̜]sɛn gəsto:lən
+yz	I243p	Destelbergen	100	Wie hee ter mè mynen kœrf mè fleesch gestolen
+yz	O112p	Elene	100	Wie het er (ər) mijne kurf mefleesch gestolen.[Anmerkung zur Aussprache von 'mefleesch': é fermé]
+yz	I261p	Appels	100	Wie eter mÿne keurf mé vliees gepikt
+yz	O149p	Iddergem	100	[wd?]əətərmɛnəkaerfməfliəsxəsto̜lən [?] [gəp?]
+yz	O275p	Herne	100	Wijeme̜̊nǝkǝrfmefliǝsɣǝstūln.
+yz	I178p	Beveren	100	Wie ee-t-er meinen keurf mee flieës gestolen.
+yz	I268a	Kalfort	100	wī i̯ ai tǝr maɔn man mē fliǝs χǝstōlǝ
+yz	O178a	Molenbeek-Saint-Jean	100	Wee(j) ÿt er manne keurf mi vlies gepikt?
+yz	P198p	Sint-Genesius-Rode	100	wé è mijnne körd mè flies gestole.
+yz	55045/H051p	Wulpen	100	wi:nætri:rməmandəmɛfleəzæpakt?
+yz	55005/N024p	Westvleteren	100	wĩ ætər mə mandə mɛ vle:s æ paxt.
+yz	N116p	Loker	100	Wi: æ̈ min pãdər mæ̈ vlë:z æ̈pakt?
+yz	H016p	Oostende	100	wi:nætər mə mondə mæ flɛ:s gəsto:ln
+yz	55036/H061p	Koekelare	100	wiə ne:tər mə mandə mæ fleə:sxəsto:ln.
+yz	55022	Houthulst	100	wie etter mien korf mè vleesch gestolen.
+yz	N130p	Wervik	100	Wien èt er mien mande (miene pander) mē vleesch gestolen (gepak).
+yz	H005p	Uitkerke	100	Wie hee 't er men korf mè fleesch gestolen?
+yz	55044/H068p	Loppem	100	wi:n ɛ:tər mə̃ mandə mæ vleəsx gəsto:l'ən?
+yz	N041p	Pittem	100	[ur?] ē̜trə m̃ mandə mä flēəs gəstōləŋ?
+yz	55023/N141p	Kortrijk	100	Winē̜tər minə kɔrf mä vliē̜s gəstōln. (dial. pɔ̄ndər oder mandə)
+yz	K245p	Deurne	100	Wie é manne kərf mi flees gestolə?
+yz	K332p	Onze-Lieve-Vrouw-Waver	100	Wie hê moaene körf mé vlie es gestoole?
+yz	P018p	Kampenhout	100	Waai eit er maaine keurf mee flees gestole?
+yz	47114	Aarö (Årø)	12	Ven hæe staaeld min Korre med Kjód?
+yz	56462	Babow	41	Chto jo me moj Korb smeßom hukschanuw?
+yz	53549	Zon	43	Któż mi ukradł kosz z mięsem?
+yz	53561	Myslowice	43	Kto mnie Koszyk z mięsem ukrodł?
+yz	43859	Schachendorf	46	Do je mi meso iz košarom ukral.

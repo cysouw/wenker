@@ -1,0 +1,2306 @@
+ab	10029	Ringhuscheid	1
+ab	10044	Malberg	1
+ab	1009	Nowy Klukom	1
+ab	1018	Lasko K Choszczna	1
+ab	10215	Pantenburg	1
+ab	1023	Golin	1
+ab	10230	Beuren	1
+ab	10259	Mörsdorf	1
+ab	10275	Badenhard	1
+ab	1029	Niekursko	1
+ab	10300	Welterod	1
+ab	10315	Bleidenstadt	1
+ab	10335	Espeler	1
+ab	1035	Stobno	1
+ab	10351	Brandscheid	1
+ab	10368	Büdesheim	1
+ab	10381	Waldkönigen	1
+ab	1050	Krostkowo	1
+ab	10584	Kalenborn	1
+ab	10601	Gappenach	1
+ab	10621	Rhens	1
+ab	10649	Attenhausen	1
+ab	10663	Heringen	1
+ab	10690	Honsfeld	1
+ab	10697	Dahlem	1
+ab	10709	Aremberg	1
+ab	10736	Hohenleimbach	1
+ab	10857	Hatzfeld (Eder)	1
+ab	10974	Haindorf	1
+ab	110	Rozpedziny	1
+ab	11132	Schwarzwald	1
+ab	11149	Wipfra	1
+ab	11180	Remda	1
+ab	11197	Zeutsch	1
+ab	11212	Breitenhain	1
+ab	11230	Burkersdorf	1
+ab	11252	Seelingstädt	1
+ab	11262	Seebach	1
+ab	1133	Debenke	1
+ab	1139	Gliszcz	1
+ab	11467	Boilstädt	1
+ab	11485	Ingersleben	1
+ab	1150	Czarze	1
+ab	11515	Gutendorf	1
+ab	11539	Kleinschwabhausen	1
+ab	11568	Thalbürgel	1
+ab	1157	Bielczyny	1
+ab	11586	Bad Köstritz	1
+ab	11607	Lumpzig	1
+ab	1162	Sierakowo	1
+ab	11645	Gleismuthhausen	1
+ab	11673	Mitwitz	1
+ab	11763	Aub	1
+ab	1178	Sokoliniec	1
+ab	11805	Seidmannsdorf	1
+ab	11825	Wallenfels	1
+ab	11844	Neudorf	1
+ab	11864	Draisendorf	1
+ab	11881	Sohl	1
+ab	11896	Sülzdorf	1
+ab	1192	Debsko	1
+ab	11927	Bachfeld	1
+ab	1197	Plociczno	1
+ab	1203	Nakielno	1
+ab	12037	Hildburghausen	1
+ab	12070	Neuenbau	1
+ab	1208	Wissulke (Wiesiółka)	1
+ab	12085	Grumbach	1
+ab	12104	Frössen	1
+ab	12125	Schwand	1
+ab	12148	Kottengrün	1
+ab	1215	Paruszka	1
+ab	12153	Meiningen	1
+ab	12167	Altendambach	1
+ab	12184	Altenfeld	1
+ab	12341	Rohrbach	1
+ab	12371	St Jacob bei Leutenberg	1
+ab	12390	Neundorf (bei Schleiz)	1
+ab	12410	Ebersgrün	1
+ab	12428	Roitzschau/Rotschau	1
+ab	12496	Horsdorf	1
+ab	12529	Ködnitz	1
+ab	12556	Kornbach	1
+ab	12572	Habnith	1
+ab	12594	Uchenhofen	1
+ab	12616	Reutersbrunn	1
+ab	12656	Weismain	1
+ab	1278	Insko	1
+ab	1287	Konotop	1
+ab	12876	Lohma	1
+ab	12898	Heiersdorf	1
+ab	12921	Sachsenburg	1
+ab	12942	Rothenfurth	1
+ab	1296	Zabin	1
+ab	12969	Borlas	1
+ab	13005	Dohna	1
+ab	13019	Porschdorf	1
+ab	13047	Morgenröthe	1
+ab	13054	Rittersgrün	1
+ab	1315	Kamien	1
+bc	13169	Saupersdorf	1
+bc	13187	Kühnheide	1
+bc	13210	Himmelmühle	1
+bc	13226	Rübenau	1
+bc	13269	Thurm	1
+bc	13286	Ursprung	1
+bc	133	Sosnowo	1
+bc	13317	Dittmannsdorf	1
+bc	13340	Grosshartmannsdorf	1
+bc	13355	Reichenau	1
+bc	13372	Liebenau	1
+bc	1338	Dzidno	1
+bc	13529	Wang-Brückenberg	1
+bc	13543	Pisarzowice	1
+bc	13559	Boguszow-Gorce	1
+bc	13655	Niederleutersdorf/Leutersdorf	1
+bc	13678	Rohnau (-)	1
+bc	13700	Rebiszow	1
+bc	13719	Siedlecin	1
+bc	13727	Myslow	1
+bc	13745	Jugowa	1
+bc	13830	Wlodowice	1
+bc	13869	Biernacice	1
+bc	13887	Rzymiany	1
+bc	13898	Szadurczyce	1
+bc	13929	Stoszowice	1
+bc	13996	Lutomia Gorna	1
+bc	14023	Roztocznik	1
+bc	1403	Dobieszewo	1
+bc	14034	Lipowa	1
+bc	14074	Michalow	1
+bc	14092	Karczow	1
+bc	14159	Jutrzyna	1
+bc	1417	Rydzewo	1
+bc	14234	Brzoza	1
+bc	14250	Jaczkowice	1
+bc	14275	Piastowice	1
+bc	14305	Bozanow	1
+bc	1432	Rzepowo	1
+bc	14321	Rogow Sobocki	1
+bc	14382	Wölfelsdorf (Wilkanów)	1
+bc	1442	Lubowo	1
+bc	14449	Thröm (Trebom)	1
+bc	14458	Szczytna	1
+bc	14471	Jaszkowa Gorna	1
+bc	14486	Nadziejow	1
+bc	145	Smardzko	1
+bc	14505	Piorunkowice	1
+bc	1451	Steinforth (Brodźce)	1
+bc	14537	Bielice	1
+bc	14560	Siemianowice Slaskie	1
+bc	1461	Wegorzewo Szczecineckie	1
+bc	14613	Nohfelden	1
+bc	14635	Erzweiler	1
+bc	14670	Nussbach	1
+bc	14693	Dannenfels	1
+bc	14724	Monsheim	1
+bc	14752	Sankt Matthias	1
+bc	14955	Bescheid	1
+bc	14971	Allenbach	1
+bc	1499	Stara Rzeka	1
+bc	14999	Berschweiler bei Kirn	1
+bc	15018	Bad Sobernheim	1
+bc	15042	Neu-Bamberg	1
+bc	15066	Bechtolsheim	1
+bc	15088	Bollendorf	1
+bc	15096	Preist	1
+bc	15118	Pohlbach	1
+bc	15137	Kautenbach	1
+bc	15334	Kirchberg (Hunsrück)	1
+bc	15349	Ellern (Hunsrück)	1
+bc	1536	Heidlauken (Bugorki)	1
+bc	15365	Bingen am Rhein	1
+bc	15394	Finthen	1
+bc	1540	Heinrichswalde	1
+bc	15418	Schneeberg (Sněžník)	1
+bc	15503	Zettel (Sedlo)	1
+bc	1552	Pazuizen	1
+bc	15538	Wisterschan (Bystřany)	1
+bc	15550	Malschen (Malečov)	1
+bc	15638	Lukawetz (Lukavec)	1
+bc	1565	Gierver Lauken	1
+bc	15681	Neudorf (Vrchběla)	1
+bc	15685	Gastorf (Hoštka)	1
+bc	15690	Wegstädtl (Štětí)	1
+bc	1571	Schmalleningken	1
+bc	15725	Nixdorf (Mikulášovice)	1
+bc	1573	Groß Dirschkeim (Donskoye)	1
+bc	15751	Rückersdorf (Dolní Řasnice)	1
+bc	1578	Rantau (Zaostrov'Ye)	1
+bc	158	Polczyn-Zdroj	1
+bc	1580	Schulstein (Vol'Noe)	1
+bc	15807	Kamnitz-Neudörfl (Kamenická Nová Ví	1
+bc	15824	Zwickau (Cvikov)	1
+bc	15847	Christophsgrund (Kryštofova Údolí)	1
+bc	15858	Gränzendorf (Hraničá)	1
+bc	1588	Alt Susimilken (Tarassowka)	1
+bc	15971	Puletschnei (Pulečný)	1
+bc	15975	Graber (Kravaře)	1
+bc	15989	Thammühl (Staré Splavy)	1
+cd	15995	Proschwitz (Česká Proseč)	1
+cd	16007	Harrachsdorf (Harrachov)	1
+cd	16015	Witkowitz (Vítkovice)	1
+cd	16050	Forst (Fort)	1
+cd	16063	Gabersdorf (Libeč)	1
+cd	16083	Bodisch (Bohdašin)	1
+cd	16139	Zwitschin (Zvičina)	1
+cd	16154	Großbock (Velká Bukovina)	1
+cd	16179	Schmiedeberg (Kovářská)	1
+cd	1626	Tulpeningken (Zarečnoe)	1
+cd	16276	Waitzengrün (Loučná)	1
+cd	1628	Wisborienen (Livny)	1
+cd	16298	Sittmesgrün (Mezirolí)	1
+cd	16322	Petersdorf (Petrov)	1
+cd	16338	Podletitz (Podlesice)	1
+cd	16442	Kropitz (Krapice)	1
+cd	16470	Ebersfeld (Podlesi)	1
+cd	16491	Rabensgrün (Haje)	1
+cd	16523	Lintsch (Hlineč)	1
+cd	1654	Postnicken (Zalivnoe)	1
+cd	16602	Klotantschen (Kotaneč)	1
+cd	16610	Tschernowitz (Černovice)	1
+cd	16625	Hawran (Havraň)	1
+cd	16636	Liebshausen (Libčeves)	1
+cd	1664	Labagienen/Haffwinkel (Zalivino)	1
+cd	16670	Priesen (Březno)	1
+cd	16689	Libeschitz (Liběšice)	1
+cd	16725	Leschkau (Ležky)	1
+cd	16739	Pschoblik (Pšovlky)	1
+cd	16751	Prag-Smichow (Smíchov)	1
+cd	16755	Weißbach (Bílý Potok)	1
+cd	16770	Schediwy (Šediviny)	1
+cd	16775	Friedrichswald (Orlické Záhoří)	1
+cd	16801	Böhmischdorf	1
+cd	16814	Rokitnitz (Rokytnice)	1
+cd	1683	Kreuzingen (Bol'Shakovo)	1
+cd	16876	Nieder-Ullersdorf (Dolní Boříkovice	1
+cd	16889	Heinzendorf (Hynčice Nad Moravou)	1
+cd	16907	Karlsdorf	1
+cd	16932	Kuhberg	1
+cd	16949	Rausen (Rusín)	1
+cd	1698	Buttkuhnen (Pokrovskoe)	1
+cd	16991	Breitenau (Bretnová Široká Niva)	1
+cd	17012	Lobenstein (Úvalno)	1
+cd	17029	Lohhäuser (Slatina)	1
+cd	17061	Deutsch Thomaschlag (Německé Domasl	1
+cd	17075	Polinken (Polínka)	1
+cd	1708	Baltruschatschen (Jakovlevo)	1
+cd	17138	Albersdorf (Písařova Vesce)	1
+cd	17151	Damnau	1
+cd	17174	Piwana (Piňovany)	1
+cd	17178	Kottiken (Chotíkov)	1
+cd	17244	Dianaberg (Diana)	1
+cd	17266	Wiedlitz (Vidice)	1
+cd	17273	Honositz (Honezovice)	1
+cd	17281	Dobrzan (Dobřany)	1
+cd	17306	Blisowa (Blížejov)	1
+cd	17309	Hilbeten	1
+cd	17325	Schönwald (Strážná)	1
+cd	1733	Rottenen (Raktino)	1
+cd	17374	Ober-Ullischen (Horní Olešná)	1
+cd	17389	Bergstadt (Horní Město)	1
+cd	1741	Pojerstieten (Kolodcy)	1
+cd	17433	Ranigsdorf (Linhartice)	1
+cd	17442	Müglitz (Mohelnice)	1
+cd	17460	Ribnik (Rybniček)	1
+cd	17468	Stangendorf (Vendolí)	1
+cd	1747	Beydritten (Pervomajskij)	1
+cd	17504	Neu-Biela (Lavičné)	1
+cd	17512	Schlettau (Slatina)	1
+cd	17520	Runarz	1
+cd	17521	Nebotein (Hnĕvotín)	1
+cd	17568	Tillendorf (Tylov)	1
+cd	1758	Brasdorf (Antonovka)	1
+cd	17585	Mladetzko (Mladecko)	1
+cd	17643	Seibersdorf (Bělá)	1
+cd	17659	Bernhau (Barnov)	1
+cd	17680	Klantendorf	1
+cd	17687	Engelswald (Mošnov)	1
+cd	17698	Nirklowitz (Mrsklesy)	1
+cd	17713	Punkendorf (Boňkov)	1
+cd	1772	Groß Goldbach (Slavinsk)	1
+cd	17726	Halbendorf (Polouvsí)	1
+cd	17737	Senftleben (Ženklava)	1
+cd	-17739	Polanka Wielka	1
+cd	-17744	Bulowice	1
+cd	-17746	Chocznia	1
+cd	-17749	Alt-Bielitz (Stare Bielesko)	1
+cd	17759	Linz (Mlýnec)	1
+cd	17782	Kohlheim (Uhliště)	1
+cd	17792	Čachrau (Čachrov)	1
+cd	17801	Hurkental (Hůrka)	1
+cd	17824	Rotsaifen (Červená)	1
+cd	17832	Winterberg (Vimberk)	1
+cd	17843	Sehrlenz (Ždírec)	1
+cd	17854	Irsching (Jiřín)	1
+cd	17862	Hilbersdorf (Jihlava-Heroltice)	1
+cd	17876	Sollowitz (Salavice)	1
+cd	17878	Stannern (Stonařov)	1
+cd	17881	Riegerschlag (Lodhéřov)	1
+de	17882	Wenkerschlag (Dolní Radouň)	1
+de	17884	Buchen (Buk)	1
+de	17895	Hosterschlag (Člunek)	1
+de	17898	Lipolz (Lipolec)	1
+de	17940	Czernowitz (Černovice)	1
+de	17942	Gundrum (Komořany)	1
+de	17956	Prahlitz (Pravlov)	1
+de	17961	Woikowitz (Vojkovice)	1
+de	17967	Sub-Lechnitz (Lechnica)	1
+de	17968	Topportz (Toporec)	1
+de	17972	Hobgard (Chmeľnica)	1
+de	17981	Neu Walddorf (Nová Lesná)	1
+de	17993	Durelsdorf (Tvarožná)	1
+de	17999	Leutschau (Levoča)	1
+de	180	Galowo	1
+de	18000	Zipser Neudorf (Spišská Nová Ves)	1
+de	18001	Wagendrüssel (Nálepkovo)	1
+de	18003	Göllnitz (Gelnica)	1
+de	18004	Dobschau (Dobšiná)	1
+de	-18008	Schmöllnitz (Smolník)	1
+de	18010	Metzenseifen (Medzev)	1
+de	18013	Buchwald (Bučina)	1
+de	18018	Schattawa (Záton)	1
+de	18028	Zaborsch (Záhorí)	1
+de	18058	Hirschbergen (Hiršperky/Jeleni)	1
+de	18064	Honetschlag (Hodňov)	1
+de	18091	Kollerschlag	1
+de	18095	Sankt Thoma (Svatý Tomáš)	1
+de	18101	Hohenfurth (Vyšší Brod)	1
+de	18132	Hummeln (Homole)	1
+de	18135	Rudolfstadt (Rudolfov)	1
+de	18144	Gross-Radischen	1
+de	18188	Priethal (Prídolí)	1
+de	18192	Gollnetschlag (Klení)	1
+de	18210	Weissenbach (Vysné)	1
+de	18218	Langschwarza	1
+de	1829	Rudszen (Poltavskoe)	1
+de	18290	Unterwald	1
+de	18296	Bad Grosspertholz	1
+de	18310	Oberstrahlbach	1
+de	18359	Waldkirchen	1
+de	18364	Hafnerluden (Lubnice)	1
+de	18367	Schiltern (Štítary)	1
+de	18407	Töstitz (Těšetice)	1
+de	1842	Warupönen (Fëdorovka)	1
+de	18432	Dietmanns	1
+de	18441	Schirmannsreith	1
+de	18454	Hofern	1
+de	185	Jelnia	1
+de	18508	Gerstenfeld (Ječmeniště)	1
+de	18525	Franzen	1
+de	18534	Rosenburg	1
+de	18554	Oberdürnbach	1
+de	18559	Aspersdorf	1
+de	18607	Damnitz (Damnice)	1
+de	18627	Tracht (Strachotín)	1
+de	18637	Saitz (Zajecí)	1
+de	18642	Höflein an der Thaya (Hevlín)	1
+de	18672	Stützenhofen	1
+de	18686	Bernhardsthal	1
+de	18701	Pyhra	1
+de	18707	Wilfersdorf	1
+de	18716	Palterndorf	1
+de	18753	Münchwies (Vrícko)	1
+de	18759	Bettelsdorf (Solka)	1
+de	18763	Oberstuben (Horná Stubna)	1
+de	18767	Krickerhäu (Handlová)	1
+de	18773	Deutsch-Litta (Kopernica)	1
+de	18774	Hochwiesen (Vel'Ké Pole)	1
+de	18786	Sankt Georgen bei Obernberg am Inn	1
+de	18800	Hochburg	1
+de	18805	Pischelsdorf am Engelbach	1
+de	18846	Niederkappel	1
+de	18855	Niederwaldkirchen	1
+de	18902	Dorf an der Pram	1
+de	18910	Michaelnbach	1
+de	18923	Alkoven	1
+de	1895	Königlich Damerau	1
+de	18984	Arnberg	1
+de	18987	Rackering	1
+de	19003	Pennewang	1
+de	19011	Sipbachzell	1
+de	1904	Pesseln	1
+de	19070	Reichenau im Mühlkreis	1
+de	19080	Gutau	1
+de	19085	Hackstock	1
+de	19096	Traunstein	1
+de	19138	Maria Laah	1
+de	19144	Haag	1
+de	19154	Amstetten	1
+de	19163	Wieselburg	1
+de	1919	Groß Gerlauken (Vjazovka)	1
+de	19225	Steyregg	1
+de	19233	Schwertberg	1
+de	1924	Pakallnischken (Suvorovo)	1
+de	19245	Bad Kreuzen	1
+de	19257	Altenmarkt	1
+de	19301	Els	1
+de	19311	Gneixendorf	1
+de	19322	Fels am Wagram	1
+ef	19334	Oberhautzental	1
+ef	19401	Schönbühel an der Donau	1
+ef	19404	Karlstetten	1
+ef	19419	Würmla	1
+ef	19429	Ried am Riederberg	1
+ef	19479	Mank	1
+ef	19486	Wilhelmsburg	1
+ef	19492	Stollberg-Siedlung	1
+ef	1953	Pillau	1
+ef	19541	Grub	1
+ef	1956	Patersort (Beregovoe)	1
+ef	19564	Obergänserndorf	1
+ef	19607	Raggendorf	1
+ef	1962	Bergau (Tzwetkowo)	1
+ef	19621	Stillfried an der March	1
+ef	19640	Grünau (Grinava)	1
+ef	19642	20 Bezirk-Brigittenau	1
+ef	19646	Raasdorf	1
+ef	19657	Breitensee	1
+ef	19659	Theben (Devín)	1
+ef	19667	Biedermannsdorf	1
+ef	19674	Enzersdorf an der Fischa	1
+ef	19696	Kittsee	1
+ef	19705	Mischdorf bei Pressburg (Nové Košar	1
+ef	19726	Rohrau	1
+ef	19739	Thiersee	1
+ef	19748	Achenwald	1
+ef	1977	Fuchsberg (Semënovo)	1
+ef	19775	Obertrum am See	1
+ef	19787	Hochfeld	1
+ef	19823	Vorderfager	1
+ef	19851	Schwendt	1
+ef	19854	Waidring	1
+ef	19859	Kuchl	1
+ef	1987	Pregelswalde (-)	1
+ef	19886	Schörfling	1
+ef	19896	Gschwandt	1
+ef	19901	Schlierbach	1
+ef	19941	Sankt Gilgen	1
+ef	19945	Ebensee	1
+ef	19947	Steyrling	1
+ef	19956	Bad Ischl	1
+ef	19965	Windischgarsten	1
+ef	19971	Bad Goisern	1
+ef	19977	Grundlsee	1
+ef	19993	Wörschachwald	1
+ef	20005	Trattenbach	1
+ef	20008	Sulzbach	1
+ef	20019	Ybbsitz	1
+ef	20023	Gaming	1
+ef	20046	Kleinreifling	1
+ef	20049	Mariazell	1
+ef	20051	Neuhaus	1
+ef	20058	Lassing	1
+ef	20062	Ardning	1
+ef	20065	Weng	1
+ef	20067	Lainbach	1
+ef	20069	Gollrad	1
+ef	20077	Oberort	1
+ef	20090	Wext	1
+ef	20099	Leer	1
+ef	20110	Herbern	1
+ef	20117	Ringel	1
+ef	20128	Hilter am Teutoburger Wald	1
+ef	20240	Bardel	1
+ef	20248	Haddorf	1
+ef	20259	Hörstel	1
+ef	20269	Westerkappeln	1
+ef	20283	Astrup	1
+ef	20346	Frensdorf	1
+ef	20350	Elbergen	1
+ef	20361	Setlage	1
+ef	20370	Merzen	1
+ef	20381	Vörden	1
+ef	20384	Wielen	1
+ef	20446	Hoogstede	1
+ef	20454	Geeste	1
+ef	20463	Dohren	1
+ef	20468	Renslage	1
+ef	20481	Dinklage	1
+ef	20543	Haren (Ems)	1
+ef	20555	Hüven	1
+ef	20562	Garen	1
+ef	20575	Sevelten	1
+ef	20589	Neudersum	1
+ef	20596	Neubörger	1
+ef	20599	Neuarenberg	1
+ef	20604	Garrel	1
+ef	20638	Visbek	1
+ef	2067	Enskemen (-)	1
+ef	20710	Wietzendorf	1
+ef	20734	Colonie Syke	1
+ef	20753	Magelsen	1
+ef	20763	Nordkampen	1
+ef	20774	Vierde	1
+ef	20788	Schmarbeck	1
+ef	20798	Brümsen	1
+ef	2081	Eydtkau (Eydtkuhnen)	1
+ef	20891	Dörpel	1
+ef	20901	Maasen	1
+fg	20917	Drakenburg	1
+fg	20920	Unterrodewald	1
+fg	20933	Thören	1
+fg	20936	Hassel	1
+fg	20946	Scharnhorst	1
+fg	20948	Aschen	1
+fg	21024	Burlage	1
+fg	21033	Hoysinghausen	1
+fg	21045	Brokeloh	1
+fg	21050	Empede	1
+fg	21065	Gailhof	1
+fg	21074	Adelheidsdorf	1
+fg	21085	Nordburg	1
+fg	211	Rodowo	1
+fg	21105	Preussisch Ströhen	1
+fg	21190	Brockhausen	1
+fg	21199	Isenstedt	1
+fg	21218	Wietersheim	1
+fg	21235	Hülshagen	1
+fg	21252	Holtensen	1
+fg	2127	Klein Nuhr (Sukhodol'Ye)	1
+fg	21280	List	1
+fg	21295	Immensen	1
+fg	21305	Voigtholz-Ahlemissen	1
+fg	21316	Steinhagen	1
+fg	21342	Krentruperhagen	1
+fg	2135	Skungirren (Pen'Ki)	1
+fg	21355	Wendlinghausen	1
+fg	21362	Reher	1
+fg	21384	Harderode	1
+fg	21405	Rheden	1
+fg	21429	Nette	1
+fg	21446	Steinlah	1
+fg	2145	Kurschen (Kuz'Mino)	1
+fg	21455	Gross Schiplage	1
+fg	2161	Kalnen (-)	1
+fg	21611	Schweicheln-Bermbeck	1
+fg	21632	Veltheim	1
+fg	21666	Rohden	1
+fg	21679	Springe	1
+fg	21687	Vardegötzen	1
+fg	21707	Rautenberg	1
+fg	2182	Soginten (Svirskoe)	1
+fg	21882	Bodenstedt	1
+fg	21902	Rautheim	1
+fg	21936	Bartensleben	1
+fg	2200	Narmeln (Polski)	1
+fg	2204	Leysuhnen (Ščukino)	1
+fg	22044	Rottorf	1
+fg	22063	Hundisburg	1
+fg	22074	Farsleben	1
+fg	22083	Reesen	1
+fg	22092	Paplitz	1
+fg	22111	Wasbüttel	1
+fg	22149	Rätzlingen	1
+fg	2216	Hermsdorf (Pograničnyj)	1
+fg	22172	Burgstall	1
+fg	22222	Reislingen	1
+fg	22249	Roxförde	1
+fg	2225	Moritten (Oktjabrskoe)	1
+fg	22264	Grieben	1
+fg	22276	Zabakuck	1
+fg	22375	Westerholz	1
+fg	22384	Tülau-Fahrenhorst	1
+fg	22394	Köbbelitz	1
+fg	22407	Schenkenhorst	1
+fg	2242	Naunienen	1
+fg	22423	Querstedt	1
+fg	22443	Staffelde	1
+fg	22453	Grosswudicke	1
+fg	22574	Masel	1
+fg	22581	Höddelsen	1
+fg	22599	Wöpel	1
+fg	22621	Molitz	1
+fg	22636	Rönnebeck	1
+fg	22654	Iden	1
+fg	22667	Kuhlhausen	1
+fg	22685	Proitze	1
+fg	22773	Holdenstedt	1
+fg	22796	Wustrow (Wendland)	1
+fg	22810	Lomitz	1
+fg	22819	Jeggel	1
+fg	22832	Gross Lüben	1
+fg	22846	Görike	1
+fg	22910	Holthausen	1
+fg	22931	Dahlhausen	1
+fg	22965	Langeloh	1
+fg	22990	Halingen	1
+fg	22998	Neheim	1
+fg	23010	Niederbergheim	1
+fg	23021	Kapellen	1
+fg	23031	Rheinberg	1
+fg	23184	Holthausen bei Kirchhellen	1
+fg	23191	Herten	1
+fg	23207	Waltrop	1
+fg	23218	Kamen	1
+fg	23231	Norddinker	1
+fg	23261	Kessel	1
+fg	23271	Kehrum	1
+fg	23284	Hamminkeln	1
+gh	23293	Erle	1
+gh	23343	Göttingen	1
+gh	2338	Wenslowischken (Voznesenskoye)	1
+gh	23402	Holtwick	1
+gh	23412	Seppenrade	1
+gh	23419	Davensberg	1
+gh	23426	Vorhelm	1
+gh	23435	Stromberg	1
+gh	23453	Stockum bei Coesfeld	1
+gh	23466	Nottuln	1
+gh	23471	Münster	1
+gh	23478	Einen	1
+gh	23483	Greffen	1
+gh	23494	Speelberg	1
+gh	23498	Hemden	1
+gh	23507	Weseke	1
+gh	23545	Tüddern	1
+gh	23566	Porselen	1
+gh	23602	Holzweiler	1
+gh	23630	Evinghoven	1
+gh	23817	Reusrath	1
+gh	23843	(Stolzenberg)	1
+gh	23858	Oberklüppelberg	1
+gh	23873	Valbert	1
+gh	23885	Sporke	1
+gh	23902	Schmallenberg	1
+gh	23906	Elmpt	1
+gh	23922	Helenabrunn	1
+gh	23933	Weißenberg	1
+gh	2398	Mertensdorf (Tjomkino)	1
+gh	2409	Trausen (Lipnyaki)	1
+gh	24107	Hubbelrath	1
+gh	24134	Barmen	1
+gh	24156	Delle	1
+gh	24167	Altena	1
+gh	24180	Stockum	1
+gh	24208	Wall	1
+gh	24218	Vennikel	1
+gh	2426	Groß Pentlack (Kamenka)	1
+gh	24336	Berghausen	1
+gh	2436	Kowarren (Zaozernoye)	1
+gh	24360	Bottendorf	1
+gh	24380	Bergfreiheit	1
+gh	24412	Roppershain	1
+gh	24431	Konnefeld	1
+gh	24454	Berneburg	1
+gh	24466	Lüderbach	1
+gh	24490	Züschen	1
+gh	2452	Kleschowen (Kutusowo)	1
+gh	24636	Rhadern	1
+gh	24659	Buhlen	1
+gh	2466	Tolkmicko	1
+gh	24677	Metze	1
+gh	24695	Wattenbach	1
+gh	24715	Vockerode	1
+gh	24737	Grosstöpfer	1
+gh	2474	Pierzchaly	1
+gh	2482	Peterswalde (Piotrowiec)	1
+gh	24884	Olsberg	1
+gh	24901	Sudeck	1
+gh	24917	Braunsen	1
+gh	24926	Zierenberg	1
+gh	2494	Saruny	1
+gh	24942	Speele	1
+gh	24959	Hermannrode	1
+gh	2507	Wojciechy	1
+gh	25113	Meiste	1
+gh	25131	Fürstenberg	1
+gh	25136	Scherfede	1
+gh	25150	Körbecke	1
+gh	25163	Gottstreu	1
+gh	25179	Esebeck	1
+gh	25197	Ebergötzen	1
+gh	25214	Bönninghausen	1
+gh	25223	Kirchborchen	1
+gh	25343	Siebenstern	1
+gh	25354	Bruchhausen	1
+gh	25363	Schönhagen	1
+gh	25373	Oldenrode	1
+gh	25391	Marke	1
+gh	25407	Westerwiehe	1
+gh	25514	Haustenbeck	1
+gh	25522	Heesten	1
+gh	25543	Rischenau	1
+gh	25560	Lobach	1
+gh	25579	Wenzen	1
+gh	25596	Ackenhausen	1
+gh	25607	Wolfshagen im Harz	1
+gh	25798	Kell	1
+gh	25824	Stromberg	1
+gh	25845	Staudt	1
+gh	2586	Jurkiszki	1
+gh	25876	Steinbach	1
+gh	25904	Höfen	1
+gh	25914	Gemünd	1
+gh	2602	Maciejowieta	1
+gh	26141	Iversheim	1
+gh	26155	Gelsdorf	1
+gh	26178	Ohlenberg	1
+gh	26205	Seifen	1
+hi	26228	Gehlert	1
+hi	26261	Waigandshain	1
+hi	26283	Sinn	1
+hi	26312	Venwegen	1
+hi	26324	Üdingen	1
+hi	26351	Borr	1
+hi	26578	Roisdorf	1
+hi	26604	Geistingen	1
+hi	26627	Herchen	1
+hi	26642	Mittelhof	1
+hi	26664	Wilden	1
+hi	26683	Straßebersbach	1
+hi	26712	Mariagrube	1
+hi	26734	Niederzier	1
+hi	26753	Horrem	1
+hi	2676	Rygarby	1
+hi	26763	Poll	1
+hi	2691	Kolwiny	1
+hi	27003	Heiligenhaus	1
+hi	27025	Faulmert	1
+hi	2703	Srokowo	1
+hi	27038	Hahnseifen	1
+hi	27064	Müsen	1
+hi	27074	Schameder	1
+hi	27106	Dudenhofen	1
+hi	27135	Wenighösbach	1
+hi	2715	Stregiel	1
+hi	27150	Wiesthal	1
+hi	27163	Massenbuch	1
+hi	27186	Neubessingen	1
+hi	27209	Dittelbrunn	1
+hi	27223	Vockenhausen	1
+hi	27244	Heddernheim	1
+hi	2727	Budziska	1
+hi	27425	Bruchköbel	1
+hi	27444	Hailer	1
+hi	2746	Chelchy	1
+hi	27461	Oberndorf	1
+hi	27469	Rossbach	1
+hi	27480	Hassenbach	1
+hi	27501	Poppenlauer	1
+hi	27507	Cratzenbach	1
+hi	2762	Wilkowo	1
+hi	27692	Friedrichstal	1
+hi	27719	Leidhecken	1
+hi	27742	Gelnhaar	1
+hi	27765	Ulmbach	1
+hi	27775	Eichenried	1
+hi	27792	Wildflecken	1
+hi	27807	Bastheim	1
+hi	2781	Karwiny	1
+hi	27821	Philippstein	1
+hi	27835	Dornholzhausen	1
+hi	2800	Krzykaly	1
+hi	28010	Nonnenroth	1
+hi	28027	Götzen	1
+hi	28045	Altenschlirf	1
+hi	28063	Fulda	1
+hi	28080	Rupsroth	1
+hi	28107	Gerthausen	1
+hi	2817	Mawry	1
+hi	282	Zolna	1
+hi	2827	Sarnowo	1
+hi	28278	Krumbach	1
+hi	28298	Londorf	1
+hi	28315	Otterbach	1
+hi	28330	Schwarz	1
+hi	28346	Grossenmoor	1
+hi	28358	Rasdorf	1
+hi	28369	Wiesenthal	1
+hi	28392	Herzhausen	1
+hi	2846	Ledlawki	1
+hi	285	Kosobudy	1
+hi	28568	Betziesdorf	1
+hi	28589	Neustadt (Hessen)	1
+hi	28605	Neukirchen	1
+hi	28623	Gittersdorf	1
+hi	28640	Herfa	1
+hi	28651	Frauensee	1
+hi	289	Königswiese (Leśna Huta)	1
+hi	2900	Borawskie	1
+hi	2906	Zabrowo	1
+hi	291	Lubichowo	1
+hi	2916	Stanowo	1
+hi	2923	Fijewo	1
+hi	2935	Groß Koschlau	1
+hi	2955	Liksajny	1
+hi	2962	Molza	1
+hi	2970	Warkaly	1
+hi	2996	Bucznik	1
+hi	300	Montauerweide	1
+hi	300660	Sankt Roman	1
+hi	300798	Reikersdorf	1
+hi	301042	Rigaus	1
+hi	3058	Zyndaki	1
+hi	3069	Rychliki	1
+hi	3083	Chojnik	1
+hi	3093	Ksiaznik	1
+hi	3111	Glotowo	1
+hi	312	Ryman	1
+ij	3122	Derc	1
+ij	31677	Battweiler	1
+ij	31695	Heltersberg	1
+ij	31700	Ramberg	1
+ij	31719	Geinsheim	1
+ij	31737	Diedenhofen	1
+ij	31765	Laumesfeld	1
+ij	31789	Beckingen	1
+ij	31800	Calmesweiler	1
+ij	31824	Steinbach bei Ottweiler	1
+ij	32019	Dietschweiler	1
+ij	32040	Siegelbach	1
+ij	32053	Alsenborn	1
+ij	32067	Erpolzheim	1
+ij	32085	Kreuzweiler	1
+ij	32102	Greimerath	1
+ij	32119	Oberlöstern	1
+ij	324	Podwilcze	1
+ij	3254	Jurkowo	1
+ij	3267	Pozarki	1
+ij	3272	Gawliki Wielkie	1
+ij	3280	Swietajno	1
+ij	32855	Altviller	1
+ij	32883	Woustviller	1
+ij	3301	Barschken	1
+ij	33035	Rimling	1
+ij	3304	Dawillen	1
+ij	33055	Roppeviller	1
+ij	33064	Dahn	1
+ij	3309	Dittauen	1
+ij	33102	Gleiszellen	1
+ij	33111	Herxheimweyher	1
+ij	33126	Guinkirchen	1
+ij	33146	Überherrn	1
+ij	33159	Malstatt	1
+ij	3318	Deegeln	1
+ij	33185	Niederwürzbach	1
+ij	33331	Steinbuch	1
+ij	33346	Breitendiel	1
+ij	33364	Hundheim	1
+ij	33381	Steinbach	1
+ij	33400	Eibelstadt	1
+ij	3342	Pillkoppen	1
+ij	33420	Rödelsee	1
+ij	3343	Karkeln	1
+ij	3345	Dünen (Ackmenischken)	1
+ij	3351	Pleine	1
+ij	33605	Erfelden	1
+ij	33614	Traisa	1
+ij	3362	Cullmen-Kulken	1
+ij	33631	Heubach	1
+ij	3364	Rositten (Rybachiy)	1
+ij	33648	Hofstetten	1
+ij	33660	Bischbrunn	1
+ij	33677	Birkenfeld	1
+ij	33692	Rupprechtshausen	1
+ij	33711	Gaibach	1
+ij	33725	Rüsselsheim	1
+ij	33741	Langen (Hessen)	1
+ij	33849	Altlussheim	1
+ij	33860	Schatthausen	1
+ij	3387	Sassenhöhe (Augsgirren)	1
+ij	34001	Daudenzell	1
+ij	34015	Billigheim	1
+ij	34025	Oberkessach	1
+ij	34044	Ailringen	1
+ij	34058	Lichtel	1
+ij	34065	Windelsbach	1
+ij	34076	Ludwigshafen am Rhein	1
+ij	34096	Ursenbach	1
+ij	34216	Gammelsbach	1
+ij	34228	Rumpfen	1
+ij	34235	Gerichtstetten	1
+ij	3424	Beierstedt	1
+ij	34247	Königshofen	1
+ij	34266	Aufstetten	1
+ij	34288	Weigenheim	1
+ij	34305	Bobstadt	1
+ij	34321	Mittershausen	1
+ij	344	Modrolas	1
+ij	34447	Berghausen	1
+ij	34503	Winzerhausen	1
+ij	34522	Liemersbach	1
+ij	34535	Eutendorf	1
+ij	34545	Honhardt	1
+ij	34557	Segringen	1
+ij	34566	Graben	1
+ij	34707	Odenheim	1
+ij	34734	Massenbachhausen	1
+ij	34750	Binswangen	1
+ij	34773	Öhringen	1
+ij	34791	Döttingen	1
+ij	34802	Gaggstatt	1
+ij	34818	Dorfgütingen	1
+ij	34838	Röckingen	1
+ij	34855	Windsfeld	1
+ij	34872	Ettenstatt	1
+ij	35003	Untermässing	1
+ij	35011	Gimpertshausen	1
+ij	35026	Beratzhausen	1
+jk	35035	Eitlbrunn	1
+jk	35046	Altenthann	1
+jk	35055	Rauenzell	1
+jk	35067	Ismannsdorf	1
+jk	351	Smecino	1
+jk	3516	Bornum	1
+jk	35165	Büchenbach	1
+jk	35168	Seligenporten	1
+jk	35188	Günching	1
+jk	35195	Adertshausen	1
+jk	35204	Wiefelsdorf	1
+jk	35211	Bodenwöhr	1
+jk	35223	Flachslanden	1
+jk	35236	Grosshabersdorf	1
+jk	35254	Birnthon	1
+jk	35339	Röthenbach	1
+jk	35377	Alfeld	1
+jk	35382	Ammerthal	1
+jk	35393	Trisching	1
+jk	35517	Unternesselbach	1
+jk	35524	Oberreichenbach	1
+jk	35544	Buckenhof	1
+jk	35562	Kirchröttenbach	1
+jk	35571	Hartenstein	1
+jk	35577	Schlicht	1
+jk	3558	Beckendorf	1
+jk	35585	Kohlberg	1
+jk	35597	Oberlind	1
+jk	356	Porst	1
+jk	35710	Haag	1
+jk	3572	Domersleben	1
+jk	35729	Mühlhausen	1
+jk	35755	Pautzfeld	1
+jk	35762	Moggast	1
+jk	35778	Pegnitz	1
+jk	35791	Speinshart	1
+jk	35799	Friedersreuth	1
+jk	35807	Plössberg	1
+jk	35824	Geusfeld	1
+jk	35843	Tütschengereuth	1
+jk	35857	Litzendorf	1
+jk	3592	Prester	1
+jk	36007	Hollfeld	1
+jk	36017	Donndorf	1
+jk	36039	Kirchenpingarten	1
+jk	36049	Hohenhard	1
+jk	36056	Leonberg	1
+jk	36065	Hohrodberg	1
+jk	36084	Colmar	1
+jk	3609	Dalchau	1
+jk	3614	Schweinitz	1
+jk	36159	Meistratzheim	1
+jk	36178	Müllen	1
+jk	36202	Kniebis (KrFreudenstadt)	1
+jk	3626	Nennhausen	1
+jk	36272	Ödsbach	1
+jk	36277	Turquestein-Blancrupt	1
+jk	36282	Wangenbourg	1
+jk	36309	Furdenheim	1
+jk	36334	Ruprechtsau	1
+jk	3634	Berge	1
+jk	36348	Achern	1
+jk	36362	Saarburg	1
+jk	3639	Pausin	1
+jk	36489	Bois De Chêne	1
+jk	3649	Hermsdorf	1
+jk	36525	Wilshausen	1
+jk	36552	Marienthal	1
+jk	36567	Fort-Louis	1
+jk	36594	Bad Rotenfels	1
+jk	366	Przeradz	1
+jk	3664	Birkholz	1
+jk	36737	Altwiller	1
+jk	36755	Weislingen	1
+jk	3677	Gielsdorf	1
+jk	36772	Lichtenberg	1
+jk	36789	Goersdorf	1
+jk	36823	Siegen	1
+jk	36842	Neuburgweier	1
+jk	3688	Ringenwalde	1
+jk	36880	Bischoffingen	1
+jk	36898	Maleck	1
+jk	36911	Yach	1
+jk	36933	Orschwiller	1
+jk	37007	Bindernheim	1
+jk	37025	Schmieheim	1
+jk	3703	Lehmannshöfel	1
+jk	37035	Bollenbach	1
+jk	37058	Le Hohwald	1
+jk	3711	Warnick (Warniki)	1
+jk	37119	Buchenberg	1
+jk	37138	Rottweil	1
+jk	37153	Obernheim	1
+jk	3722	Zaszczytowo	1
+jk	37302	Winterlingen	1
+jk	37314	Dürrenwaldstetten	1
+jk	37333	Hausen am Bussen	1
+jk	37354	Baustetten	1
+jk	37369	Illertissen	1
+jk	37388	Schenkenzell	1
+kl	37401	Aistaig	1
+kl	3744	Rudnica	1
+kl	37555	Stetten bei Haigerloch	1
+kl	37571	Salmendingen	1
+kl	37581	Bernloch	1
+kl	37598	Gundershofen	1
+kl	37607	Eggingen	1
+kl	37622	Holzheim	1
+kl	37658	Oberwaldach	1
+kl	37802	Bondorf	1
+kl	37825	Lustnau	1
+kl	37855	Dettingen an der Erms	1
+kl	37862	Donnstetten	1
+kl	37869	Radelstetten	1
+kl	37883	Ballendorf	1
+kl	37900	Obermedlingen	1
+kl	37902	Raumünzach	1
+kl	37947	Schönaich	1
+kl	38044	Hünerberg	1
+kl	38056	Gechingen	1
+kl	38095	Denkendorf	1
+kl	38116	Albershausen	1
+kl	38136	Winzingen	1
+kl	38146	Zang	1
+kl	38155	Auernheim	1
+kl	38169	Dennach	1
+kl	38182	Tiefenbronn	1
+kl	38348	Schöckingen	1
+kl	38373	Hegnach	1
+kl	38407	Steinenberg	1
+kl	38422	Ruppertshofen	1
+kl	38437	Fachsenfeld	1
+kl	38448	Baldern	1
+kl	38482	Kleinvillars	1
+kl	38502	Hohenhaslach	1
+kl	38623	Nendingen	1
+kl	38640	Rohrdorf	1
+kl	38655	Völlkofen	1
+kl	38666	Reichenbach	1
+kl	38682	Mittelbuch	1
+kl	38695	Unteropfingen	1
+kl	3871	Dreetz	1
+kl	38720	Kicklingen	1
+kl	38738	Westendorf	1
+kl	38764	Waidhofen	1
+kl	38774	Eschelbach an der Ilm	1
+kl	3880	Brunne	1
+kl	38863	Pöttmes	1
+kl	3887	Sommerfeld	1
+kl	38899	Hebrontshausen	1
+kl	38912	Oberglaim	1
+kl	38935	Fronhofen	1
+kl	3896	Malz	1
+kl	38963	Stepperg	1
+kl	3901	Stolzenhagen	1
+kl	3906	Prenden	1
+kl	39062	Hafenreut	1
+kl	39089	Gerolfing	1
+kl	39103	Irsching	1
+kl	39116	Siegenburg	1
+kl	39126	Semerskirchen	1
+kl	39140	Hofkirchen	1
+kl	39160	Dürrenzimmern	1
+kl	39179	Gundelsheim	1
+kl	3919	Trampe	1
+kl	39201	Walting	1
+kl	39293	Bieswang	1
+kl	3931	Neureetz	1
+kl	39317	Pondorf	1
+kl	39329	Neukelheim	1
+kl	39342	Peising	1
+kl	39356	Arlesried	1
+kl	39370	Türkheim	1
+kl	39398	Gauting	1
+kl	3944	Kurzycko	1
+kl	39459	Kaufering	1
+kl	39475	Eching am Ammersee	1
+kl	3949	Grzymiradz	1
+kl	39494	Perlach	1
+kl	39503	Zorneding	1
+kl	39509	Albaching	1
+kl	39515	Sankt Leonhard	1
+kl	39517	Niederraunau	1
+kl	39529	Walkertshofen	1
+kl	39546	Oberottmarshausen	1
+kl	3957	Lubiszyn	1
+kl	39647	Mittelstetten	1
+kl	3965	Heinersdorf	1
+kl	39662	Bergkirchen	1
+kl	39667	Unterschleissheim	1
+kl	39673	Moosinning	1
+kl	39687	Oberdorfen	1
+kl	39693	Wettenhausen	1
+kl	39710	Zusmarshausen	1
+kl	39723	Täfertingen	1
+kl	39742	Gallenbach	1
+kl	39865	Hilgertshausen	1
+kl	39880	Allershausen	1
+kl	39891	Rast	1
+kl	39901	Vilsheim	1
+lm	39954	Sattelbogen	1
+lm	39962	Krailing	1
+lm	39968	Oberried	1
+lm	40000	Pertolzhofen	1
+lm	40012	Tiefenbach	1
+lm	40047	Pemfling	1
+lm	40057	Arnschwang	1
+lm	40112	Wald an der Alz	1
+lm	40137	Ranoldsberg	1
+lm	40145	Erharting	1
+lm	40155	Gumpersdorf	1
+lm	40191	Vilsbiburg	1
+lm	40202	Gangkofen	1
+lm	40212	Neuhofen	1
+lm	40220	Bad Birnbach	1
+lm	40231	Ruhstorf an der Rott	1
+lm	40274	Wörth an der Isar	1
+lm	40286	Griesbach	1
+lm	40297	Indersbach	1
+lm	40308	Walchsing	1
+lm	40320	Kirchberg	1
+lm	40331	Haag	1
+lm	40402	Hankofen	1
+lm	40414	Plattling	1
+lm	40420	Auerbach	1
+lm	40428	Saldenburg	1
+lm	40439	Karlsbach	1
+lm	40516	Steinach	1
+lm	40524	Perasdorf	1
+lm	40531	Regen	1
+lm	40535	Klingenbrunn	1
+lm	40538	Riekofen	1
+lm	40597	Lindau (Bodensee)	1
+lm	40605	Schnellers	1
+lm	40613	Ratholz	1
+lm	40637	Eschbach	1
+lm	40655	Erzingen	1
+lm	40757	Schienen	1
+lm	40771	Wollmatingen	1
+lm	40785	Kluftern	1
+lm	40798	Obereisenbach	1
+lm	40807	Ratzenried	1
+lm	4081	Bantikow	1
+lm	40819	Kreuzthal	1
+lm	40844	Münchingen	1
+lm	40863	Tengen	1
+lm	40898	Billafingen	1
+lm	4093	Kränzlin	1
+lm	41018	Eigeltingen	1
+lm	4102	Seebeck	1
+lm	41049	Illmensee	1
+lm	41057	Baindt	1
+lm	41064	Ziegelbach	1
+lm	41076	Maria Steinbach	1
+lm	41086	Waldau	1
+lm	41098	Hubertshofen	1
+lm	41114	Öfingen	1
+lm	4112	Klein-Mutz	1
+lm	4119	Gross Dölln	1
+lm	41200	Masevaux	1
+lm	41214	Aspach-Le-Bas	1
+lm	4123	Senftenhütte	1
+lm	41245	Lipburg	1
+lm	41262	Utzenfeld	1
+lm	41275	Schluchsee - Blasiwald	1
+lm	41296	Oberentzen	1
+lm	41309	Feldkirch	1
+lm	41336	Kappel	1
+lm	41351	Urbès	1
+lm	41365	Rimbach-Près-Guebwiller	1
+lm	4142	Stoki	1
+lm	41460	Rixheim	1
+lm	4152	Stoleczna	1
+lm	41566	Ranspach-Le-Bas	1
+lm	41598	Lörrach	1
+lm	4161	Glazow	1
+lm	41623	Hütten	1
+lm	41653	Largitzen	1
+lm	4171	Okunie	1
+lm	41714	Lucelle	1
+lm	41785	Höhenrain	1
+lm	41801	Grosshöhenrain	1
+lm	41811	Tattenhausen	1
+lm	41819	Ollarzried	1
+lm	41836	Kaufbeuren	1
+lm	41845	Denklingen	1
+lm	41855	Raisting	1
+lm	41872	Baiernrain	1
+lm	41932	Huglfing	1
+lm	41939	Penzberg	1
+lm	41948	Reichersbeuern	1
+lm	41953	Parsberg	1
+lm	41963	Kirchdorf am Inn	1
+lm	41969	Aschau im Chiemgau-Niederaschau	1
+lm	41971	Betzigau	1
+lm	41980	Sulzschneid	1
+lm	41986	Steingaden	1
+lm	42039	Bayerniederhofen	1
+lm	42049	Jachenau	1
+lm	42056	Unterjoch	1
+mn	42062	Oberau	1
+mn	42070	Eggstätt	1
+mn	42076	Traunwalchen	1
+mn	42084	Kirchanschöring	1
+mn	42116	Ruhpolding	1
+mn	42118	Anger	1
+mn	42132	Ramsau bei Berchtesgaden	1
+mn	42140	Hachiville	1
+mn	42166	Niederwampach	1
+mn	42180	Neidhausen	1
+mn	42236	Ettelbrück	1
+mn	42254	Rambrouch	1
+mn	42302	Eischen	1
+mn	42316	Hünsdorf	1
+mn	42341	Biwer	1
+mn	42414	Uewerkuer	1
+mn	42431	Peppange	1
+mn	42469	Schwarzenbach an der Pielach	1
+mn	42470	Lehenrotte	1
+mn	42472	Thal	1
+mn	42477	Grillenberg	1
+mn	42520	Schneebergdörfl	1
+mn	42527	Mollram	1
+mn	42532	Frein an der Mürz	1
+mn	42571	Massing	1
+mn	42573	Semmering	1
+mn	42587	Feistritz am Wechsel	1
+mn	42612	Gleichenbach	1
+mn	42635	Weiden am See	1
+mn	42637	Nickelsdorf	1
+mn	42640	Siegersdorf	1
+mn	42647	Stotzing	1
+mn	42670	Wieselburg (Mosonmagyaróvár)	1
+mn	42688	Andau	1
+mn	42691	Wiesen	1
+mn	42701	Baumgarten	1
+mn	42706	Apetlon	1
+mn	42722	Horitschon	1
+mn	42728	Holling (Fertőboz)	1
+mn	42748	Frasnacht	1
+mn	42821	Rietli	1
+mn	42843	Hohenems	1
+mn	42850	Bizau	1
+mn	42856	Riezlern	1
+mn	42908	Gamprin	1
+mn	42926	Röns	1
+mn	4293	Brielow	1
+mn	42933	Buchboden	1
+mn	42939	Lech	1
+mn	42970	Sargans	1
+mn	42977	Schruns	1
+mn	42985	Vils	1
+mn	43004	Hinterhornbach	1
+mn	43013	Rinnen	1
+mn	43021	Ehrwald	1
+mn	43022	Leutasch	1
+mn	43027	Bach	1
+mn	43037	Silzerberg	1
+mn	43055	Hatting	1
+mn	4306	Deetz	1
+mn	43070	Mils bei Imst	1
+mn	43122	Unterried	1
+mn	43133	Holdernach	1
+mn	43152	Kauns	1
+mn	43161	Unterberg	1
+mn	43162	Pertisau	1
+mn	43173	Brixlegg	1
+mn	43183	Penningdörfl	1
+mn	4321	Fahrland	1
+mn	43210	Innsbruck	1
+mn	43224	Kolsassberg	1
+mn	43251	Aschau im Zillertal	1
+mn	43280	Krimml	1
+mn	43285	Trins	1
+mn	43288	Dornauberg	1
+mn	4329	Steglitz	1
+mn	43297	Schmirn	1
+mn	43301	Kitzbühel	1
+mn	43303	Hochfilzen	1
+mn	43310	Saalfelden am Steinernen Meer	1
+mn	43315	Werfen	1
+mn	43331	Bramberg am Wildkogel	1
+mn	43340	Niedernsill	1
+mn	43347	Sankt Georgen	1
+mn	43354	Goldegg	1
+mn	43359	Kleinarl	1
+mn	43372	Bad Gastein	1
+mn	43378	Berg-Gruben	1
+mn	43379	Heiligenblut	1
+mn	4338	Köpenick-Kietz	1
+mn	43381	Sankt Martin am Tennengebirge	1
+mn	43384	Ramsau	1
+mn	43391	Assach	1
+mn	43393	Donnersbach	1
+mn	43412	Untertauern	1
+mn	43420	Pöllau	1
+mn	43427	Oberweissburg	1
+mn	43433	Sauerfeld	1
+mn	43439	Ranten	1
+mn	43453	Strechen	1
+no	43455	Treglwang	1
+no	43457	Kalwang	1
+no	43458	Trofaiach	1
+no	43462	Hafendorf	1
+no	4347	Herzfelde	1
+no	43480	Sankt Michael in Obersteiermark	1
+no	43488	Pusterwald	1
+no	43489	Sankt Oswald	1
+no	43494	Sankt Marein bei Knittelfeld	1
+no	43497	Frohnleiten	1
+no	43505	Sankt Peter ob Judenburg	1
+no	43530	Teufenbach	1
+no	43534	Sankt Johann	1
+no	43537	Kainach bei Voitsberg	1
+no	43544	Gratwein	1
+no	4357	Tempelberg	1
+no	43576	Fochnitz	1
+no	43579	Wenigzell	1
+no	43633	Ehrenschachen	1
+no	4364	Döbberin	1
+no	43640	Salmannsdorf	1
+no	43662	Sankt Kathrein am Offenegg	1
+no	43699	Siget in der Wart	1
+no	43715	Stubenberg	1
+no	43726	Unterrohr	1
+no	43756	Eggersdorf	1
+no	43761	Sinabelkirchen	1
+no	4377	Pamiecin	1
+no	43773	Bad Blumau	1
+no	43782	Deutsch Tschantschendorf	1
+no	43850	Klostermarienberg	1
+no	4388	Grabno	1
+no	43889	Moschendorf	1
+no	43896	St Jakob	1
+no	43905	Oberpeischlach	1
+no	43909	Mörtschach	1
+no	43910	Flattach	1
+no	43938	Kolbnitz	1
+no	43939	Ausservillgraten	1
+no	43948	Assling	1
+no	43959	Lindsberg	1
+no	43977	Kornat	1
+no	43982	Berg im Drautal	1
+no	43988	Goderschach	1
+no	4400	Trzemeszno Lubuskie	1
+no	44006	Kremsbrücke	1
+no	44010	Oberhof	1
+no	44038	Kleblach-Lind	1
+no	44040	Obermillstatt	1
+no	44054	Patergassen	1
+no	44056	Steuerberg	1
+no	44109	Hermagor	1
+no	44117	Bleiberg-Kreuth	1
+no	44124	Villach	1
+no	44142	Schiefling	1
+no	44162	Suetschach	1
+no	44174	Sankt Salvator	1
+no	44182	Heft	1
+no	44189	Schiefling	1
+no	44196	Modriach	1
+no	44200	Launegg	1
+no	44234	Obermühlbach	1
+no	44243	Hochfeistritz	1
+no	44248	Sankt Andrä	1
+no	44256	Glashütten	1
+no	44261	Sankt Peter im Sulmtal	1
+no	44295	Oberhaag	1
+no	44303	Klagenfurt-Harbach	1
+no	44308	Eberndorf	1
+no	44313	Lorenzenberg	1
+no	44314	Sankt Margarethen	1
+no	44320	Bad Eisenkappel	1
+no	44333	Paldau	1
+no	44347	Hohenbrugg an der Raab	1
+no	44358	Mogersdorf	1
+no	44371	Allerheiligen bei Wildon	1
+no	44398	Leibnitz	1
+no	44414	Klöch	1
+no	44425	Ratschendorf	1
+no	44433	Langegg	1
+no	44439	Ebental (Polom)	1
+no	44442	Steinwand (Podstenice)	1
+no	44445	Obergras (Trava)	1
+no	44447	Göttenitz (Gotenica)	1
+no	44454	Nesseltal (Koprivnik)	1
+no	44461	Tiefenbach (Briga)	1
+no	44465	Unterlag (Spodnji Log)	1
+no	44519	Wildensbuch	1
+no	44610	Wittenwil	1
+no	44685	Neukirch an der Thur	1
+no	44770	Mont-Tramelan	1
+no	44771	Pieterlen	1
+no	44796	Merzligen	1
+no	44801	Gals	1
+no	44832	Huggerwald	1
+no	44851	Ziefen	1
+no	44858	Anwil	1
+no	44888	Umiken	1
+no	44994	Gänsbrunnen	1
+no	45009	Oensingen	1
+op	45022	Mühlethal	1
+op	45067	Meisterschwanden	1
+op	45192	Mülchi	1
+op	45195	Eigenthal	1
+op	4521	Wollin	1
+op	4527	Rädel	1
+op	45279	Hildisrieden	1
+op	45299	Willisau	1
+op	45312	Bleuen	1
+op	45345	Dielsdorf	1
+op	45356	Unterwagenburg	1
+op	4539	Wildenbruch	1
+op	45474	Boden bei Fischenthal	1
+op	4549	Löwenbruch	1
+op	45492	Dicken bei Degersheim	1
+op	45501	Bonstetten	1
+op	45529	Riedikon	1
+op	4560	Deutsch Wusterhausen	1
+op	45611	Feusisberg	1
+op	45627	Starkenbach	1
+op	45630	Risch	1
+op	45644	Reichenburg	1
+op	45692	Süri	1
+op	45694	Courlevon	1
+op	45716	Brünisried	1
+op	45718	Ferpicloz	1
+op	45722	Abländschen	1
+op	4573	Neu Golm	1
+op	45734	Dentenberg	1
+op	45758	Mutten	1
+op	45764	Oberfrittenbach	1
+op	45784	Schüpfheim	1
+op	458	Wietrzno	1
+op	4584	Hohenwalde	1
+op	45863	Gurzelen	1
+op	45878	Linden (Oberlangenegg)	1
+op	45891	Sörenberg	1
+op	45892	Lungern	1
+op	4590	Kunice	1
+op	4595	Mierczany	1
+op	45962	Entschwil	1
+op	45980	Saxeten	1
+op	45992	Guttannen	1
+op	46009	Ulrichen	1
+op	46017	Gersau	1
+op	46021	Illgau	1
+op	46026	Engi	1
+op	46027	Leuggelbach	1
+op	4603	Toporow	1
+op	46038	Linthal	1
+op	46040	Engelberg	1
+op	46045	Erstfeld	1
+op	46048	Valendas	1
+op	46050	Meierhof	1
+op	46051	Camana	1
+op	46055	Nufenen	1
+op	46059	Fanas	1
+op	46070	Mathon	1
+op	46071	Galtür	1
+op	46073	Felsberg	1
+op	46079	Fideris	1
+op	4608	Alt Stahnsdorf	1
+op	46083	Klosters	1
+op	46101	Wiesen	1
+op	46104	Am Bach	1
+op	46115	Lauenen	1
+op	46118	Stiegelschwand	1
+op	46119	Fieschertal	1
+op	46127	Bitsch	1
+op	46129	Agarn	1
+op	46132	Hasel	1
+op	46142	Saas Grund	1
+op	46143	Zwischbergen	1
+op	46145	Zermatt	1
+op	-46146	Prettau (Predoi)	1
+op	46157	Luttach (Lutago)	1
+op	-46161	Hinterkirch (Graun)	1
+op	-46162	Rabenstein (Moos)	1
+op	46170	Tschöfs (Ceves)	1
+op	-46175	Pfunders (Fundres)	1
+op	-46181	Antholz (Anterselva Di Mezzo)	1
+op	-46195	Schabs (Sciaves)	1
+op	-46215	Pichl	1
+op	-46217	Burgeis (Burgusio)	1
+op	-46226	Kurzras (Corteraso)	1
+op	-46227	Katharinaberg (Santa Caterina)	1
+op	-46234	Vernuer (Vernurio)	1
+op	-46262	Stilfs (Stelvio)	1
+op	46267	Laas (Lasa)	1
+op	46283	Gargazon (Gargazzone)	1
+op	-46293	Sankt Peter Hinter Lajen (San Pietr	1
+op	-46305	Sankt Walburg (Santa Valburga)	1
+op	-46319	Wangen (Vanga)	1
+op	46324	Laurein (Lauregno)	1
+op	-46340	Kaltern (Caldaro)	1
+op	-46344	Deutschnofen (Nova Ponente)	1
+op	-46351	Altrei (Anterivo)	1
+op	-46353	Salurn (Salorno)	1
+op	46361	Stefansdorf (Santo Stefano)	1
+op	46365	Lusern (Luserna)	1
+pq	46367	Ljetzan (Giazza)	1
+pq	46369	Lusern (Luserna)	1
+pq	46385	Nauders	1
+pq	46386	Heiligkreuz	1
+pq	46391	Poppenbüll	1
+pq	46407	Dahrenwurth	1
+pq	46420	Bergenhusen	1
+pq	46430	Owschlag	1
+pq	46443	Holtsee	1
+pq	46459	Pries	1
+pq	46481	Stakendorf	1
+pq	46492	Behrensdorf (Ostsee)	1
+pq	465	Okunino	1
+pq	46554	Sulsdorf	1
+pq	46570	Staberdorf	1
+pq	46637	Alte Kirche	1
+pq	46652	Sollerupfeld	1
+pq	46666	Neuberend	1
+pq	46684	Zimmert	1
+pq	46687	Damp	1
+pq	46693	Westermarkelsdorf	1
+pq	46784	Grossenwiehe	1
+pq	46798	Estrup	1
+pq	46806	Wippendorf	1
+pq	46823	Maasholm	1
+pq	46924	Beken (Bækken)	1
+pq	47139	Sandhatten	1
+pq	47154	Adelheide	1
+pq	47171	Dreye	1
+pq	47183	Allerdorf	1
+pq	47189	Heerenland	1
+pq	47203	Steenfelde	1
+pq	47219	Lohe	1
+pq	47224	Burgfelde	1
+pq	47235	Moorhausen	1
+pq	4727	Klein Glien	1
+pq	47370	Bardenfleth	1
+pq	4738	Niederwerbig	1
+pq	474	Kramarzyny	1
+pq	47402	Mittelbauer	1
+pq	47422	Neuenbülstedt	1
+pq	47447	Neermoor	1
+pq	47455	Remels	1
+pq	47463	Petersfeld	1
+pq	47470	Jaderbollenhagen	1
+pq	4749	Zülichendorf	1
+pq	47598	Offenwardenermoor	1
+pq	4761	Schöneweide	1
+pq	47612	Paddewisch	1
+pq	47624	Ober-Ochtenhausen	1
+pq	47650	Cirkwehrum	1
+pq	47657	Westerende-Holzloog	1
+pq	47670	Wiesede	1
+pq	47677	Neustadtgödens	1
+pq	4770	Egsdorf	1
+pq	4776	Birkholz	1
+pq	478	Pradzonka	1
+pq	47840	Kükelühn	1
+pq	47861	Siggeneben	1
+pq	47863	Hedwigenkoog	1
+pq	47885	Edemannswisch	1
+pq	4789	Briescht	1
+pq	47893	Oesterborstel	1
+pq	47907	Hamweddel	1
+pq	47916	Warder	1
+pq	47935	Klein Barkau	1
+pq	47952	Mucheln	1
+pq	4800	Gross Briesen	1
+pq	48096	Grömitz	1
+pq	48098	Friedrichskoog	1
+pq	48105	Barlteraltendeich	1
+pq	48115	Holstenniendorf	1
+pq	48126	Jahrsdorf	1
+pq	4813	Klopot	1
+pq	48141	Ehndorf	1
+pq	48156	Gönnebek	1
+pq	48164	Wöbs	1
+pq	48186	Süsel	1
+pq	48233	Brunsbüttelerhafen	1
+pq	48239	Brokdorf	1
+pq	4824	Radomicko	1
+pq	48240	Spiekeroog	1
+pq	48242	Berensch	1
+pq	48247	Altenbruch	1
+pq	48282	Norderney	1
+pq	48283	Baltrum-Ostdorf	1
+pq	48302	Misselwarden	1
+pq	4832	Radnica	1
+pq	48324	Weissenmoor	1
+pq	48342	Itzendorf	1
+pq	48356	Arle	1
+pq	48368	Stedesdorf	1
+pq	48383	Wüppels	1
+pq	48392	Langwarden	1
+pq	48401	Flögeln	1
+pq	48477	Iffens	1
+pq	48487	Blexen	1
+pq	48497	Altluneberg	1
+pq	48507	Hönau-Lindorf	1
+pq	48516	Graal-Müritz	1
+qr	48522	Rerik	1
+qr	48532	Brodhagen	1
+qr	48550	Toitenwinkel	1
+qr	486	Niedamowo	1
+qr	48675	Strukdorf	1
+qr	48702	Sereetz	1
+qr	48716	Gross Voigtshagen	1
+qr	48726	Beckerwitz	1
+qr	48738	Steinhausen	1
+qr	48752	Berendshagen	1
+qr	48765	Wiendorf	1
+qr	48790	Rethwisch	1
+qr	48800	Lentföhrden	1
+qr	48812	Todesfelde	1
+qr	49022	Kleinboden	1
+qr	49043	Campow	1
+qr	49076	Nesow	1
+qr	49090	Dalliendorf	1
+qr	49108	Neuhof	1
+qr	49122	Warnow	1
+qr	49140	Güstrow	1
+qr	49146	Drochtersen	1
+qr	49162	Gross Nordende	1
+qr	49176	Quickborn	1
+qr	49188	Jersbek	1
+qr	49311	Riekenbostel	1
+qr	49322	Brochdorf	1
+qr	49332	Bispingen	1
+qr	49338	Wettenbostel	1
+qr	49348	Seedorf	1
+qr	49362	Stoetze	1
+qr	49498	Dannenberg (Elbe)	1
+qr	495	Jaroszewy	1
+qr	4950	Palck	1
+qr	49509	Breetz	1
+qr	49524	Laaslich	1
+qr	49534	Lübzow	1
+qr	49551	Buchholz	1
+qr	49562	Hetzwege	1
+qr	49569	Otter	1
+qr	49579	Ollsen	1
+qr	49587	Westergellersen	1
+qr	49605	Barskamp	1
+qr	4965	Stare Kramsko	1
+qr	4968	Zodyn	1
+qr	49727	Wendhausen	1
+qr	49752	Jessenitz	1
+qr	49767	Glaisin	1
+qr	49778	Neese	1
+qr	49794	Pampin	1
+qr	4980	Tarnowa	1
+qr	49802	Grabow	1
+qr	49813	Wangersen	1
+qr	49821	Regesbostel	1
+qr	49828	Tötensen	1
+qr	49840	Lassrönne	1
+qr	49857	Juliusburg	1
+qr	49881	Setzin	1
+qr	49898	Neuhof	1
+qr	50010	Gresse	1
+qr	50027	Moraas	1
+qr	50058	Paarsch	1
+qr	50068	Barkow	1
+qr	50073	Schwinge	1
+qr	50087	Wisch	1
+qr	50117	Ottensen	1
+qr	50130	Willinghusen	1
+qr	50142	Basthorst	1
+qr	503	Szpegawsk	1
+qr	5031	Lugow	1
+qr	50321	Lehmrade	1
+qr	50332	Drönnewitz	1
+qr	50343	Gross Rogahn	1
+qr	50357	Kladow	1
+qr	50365	Hohen Pritz	1
+qr	50377	Jellen	1
+qr	50385	Lübsee	1
+qr	50471	Bellin	1
+qr	50523	Retzow	1
+qr	50538	Hohenbollentin	1
+qr	50552	Golchen	1
+qr	5056	Biala Wies	1
+qr	50567	Strippow	1
+qr	50575	Rosenhagen	1
+qr	50583	Siniechowo	1
+qr	50604	Drzewica	1
+qr	50622	Lisowo	1
+qr	50719	Lubin	1
+qr	50765	Gross Ridsenow	1
+qr	50779	Schlutow	1
+qr	50794	Seedorf	1
+qr	50805	Bentzin	1
+qr	50818	Ranzin	1
+qr	50830	Lassan	1
+qr	50840	Sallenthin	1
+qr	50844	Miedzyzdroje	1
+qr	50850	Sieroslaw	1
+qr	50872	Bedzieszewo	1
+qr	50892	Skalin	1
+qr	5091	Boruja	1
+rs	50973	Koserow	1
+rs	50986	Trzesacz	1
+rs	51	Baerwalde	1
+rs	51012	Hohen Wangelin	1
+rs	51030	Rittermannshagen	1
+rs	51048	Tarnow	1
+rs	51065	Trollenhagen	1
+rs	51081	Brohm	1
+rs	51089	Eichhof	1
+rs	51098	Gegensee	1
+rs	511	Krasniewo	1
+rs	51101	Drogoradz	1
+rs	51112	Budzien	1
+rs	51123	Krzywice	1
+rs	51135	Plantikow	1
+rs	51143	Kloster	1
+rs	51146	Wiek	1
+rs	51162	Nardevitz	1
+rs	51170	Zingst	1
+rs	51173	Wendisch Langendorf	1
+rs	51179	Wüstenei	1
+rs	51188	Saiser	1
+rs	51191	Ahrenshoop	1
+rs	5122	Gorzyca	1
+rs	51232	Neu-Reddevitz	1
+rs	51243	Langendamm	1
+rs	51257	Redebas	1
+rs	51267	Pütte	1
+rs	51277	Poseritz	1
+rs	51288	Thiessow	1
+rs	5130	Ransko	1
+rs	51346	Reppelin	1
+rs	51355	Kavelsdorf	1
+rs	51370	Müggenwalde	1
+rs	51387	Steffenshagen	1
+rs	5139	Grudna	1
+rs	51397	Vierow	1
+rs	51409	Karlshagen	1
+rs	5141	Brody	1
+rs	51413	Trzebusz	1
+rs	51539	Kisserow	1
+rs	51549	Federow	1
+rs	51561	Klein Vielen	1
+rs	51571	Holldorf	1
+rs	51584	Woldegk	1
+rs	51598	Trebenow	1
+rs	51611	Rossow	1
+rs	51624	Wawelnica	1
+rs	51637	Bergland	1
+rs	51646	Dabrowica	1
+rs	51661	Bobrowniki	1
+rs	51805	Grabow	1
+rs	51816	Lärz	1
+rs	51832	Ahrensberg	1
+rs	51838	Hasselförde	1
+rs	51850	Buchenhain	1
+rs	51866	Röpersdorf	1
+rs	51877	Grünz	1
+rs	51893	Pargow (Pargowo)	1
+rs	51906	Zelislawiec	1
+rs	51918	Slotnica	1
+rs	51934	Zukowo	1
+rs	5203	Nekielka	1
+rs	52064	Papenbruch	1
+rs	52070	Wallitz	1
+rs	52079	Menz	1
+rs	52086	Barsdorf	1
+rs	52095	Petersdorf	1
+rs	5210	Skwierzyna	1
+rs	52103	Flieth-Stegelitz	1
+rs	52113	Passow	1
+rs	52129	Widuchowa	1
+rs	52139	Banie	1
+rs	5214	Krobielewo	1
+rs	52154	Obromino	1
+rs	52169	Brzezina	1
+rs	52276	Bagicz	1
+rs	52278	Lasin Koszalinski	1
+rs	52311	Sieciemin	1
+rs	52349	Pomysk Wielki	1
+rs	52359	Szymbark	1
+rs	52374	Szklana Gora	1
+rs	52396	Skowarcz	1
+rs	52428	Oberlakendorf (Solnica Górna)	1
+rs	52440	Deep (Czajcze)	1
+rs	52463	Bialecino	1
+rs	52478	Bronowo	1
+rs	52484	Reddies	1
+rs	52567	Pasewark	1
+rs	52578	Bad Rügenwalde	1
+rs	5259	Prusim	1
+rs	52600	Radoslaw	1
+rs	52700	Losino	1
+rs	5271	Przyborowko	1
+rs	52714	Labiszewo	1
+rs	52722	Karwen	1
+rs	52755	Heubude (Stogi)	1
+rs	52762	Skowronki	1
+rs	52766	Rowy	1
+rs	52767	Machowinko	1
+st	5277	Gleboczek	1
+st	52816	Hela	1
+st	52819	Jaroslawiec	1
+st	52825	Krolowstrand (Królewice)	1
+st	52854	Drzezewo	1
+st	52865	Niebedzino	1
+st	52871	Dabrowka Wielka	1
+st	52881	Luzino	1
+st	52887	Pogorze	1
+st	52896	Bialogora	1
+st	52905	Karwenbruch	1
+st	5291	Gorki Noteckie	1
+st	52913	Wladyslawowo	1
+st	52915	Lebieniec	1
+st	52927	Zelazna	1
+st	52936	Tylowo	1
+st	5305	Rapin	1
+st	5315	Pilka	1
+st	5316	Rzecin	1
+st	532	Zulawka Sztumska	1
+st	5322	Tarnowko	1
+st	5374	Groß Golle (Golaszewo)	1
+st	5386	Lubicz	1
+st	5397	Slonow	1
+st	5402	Huta Szklana	1
+st	5409	Marienbusch	1
+st	5421	Ostrowki	1
+st	54871	Neuarad (Aradu Nou)	1
+st	54873	Bistritz (Bistriţa)	1
+st	54878	Arzis (Artsyz)	1
+st	54897	Wolfswinkel (Wilczy Kat)	1
+st	549	Przecmino	1
+st	54901	Zarobka	1
+st	54902	Brzozowka	1
+st	54906	Brzezno	1
+st	54909	Zbojenko	1
+st	5491	Brzezno	1
+st	54912	Siemiatkowo	1
+st	54913	Sompolno	1
+st	54914	Sächsisch Regen (Reghin)	1
+st	54915	Elek (Elek)	1
+st	54916	Freidorf bei Temeschwar	1
+st	54917	Sarata (Sarata)	1
+st	54918	Scheindorf (Sâi)	1
+st	54919	Fünfkirchen	1
+st	54921	Iklad	1
+st	54922	Sanktanna (Sântana)	1
+st	54924	Martinsdorf (Metiş)	1
+st	54926	Bentschek (Bencecu De Sus)	1
+st	54929	Agnetheln (Agnita)	1
+st	54930	Gottlob	1
+st	54932	Klein-Schemlak (Semlacu Mic)	1
+st	54933	Sankt Andreas (Sânandrei)	1
+st	54935	Neuwerbas (Novi Vrbas)	1
+st	54937	Groß Scham/Freudenthal (Jamu Mare)	1
+st	54938	Torschau (Savino Selo)	1
+st	54939	Weprowatz (Kruščić)	1
+st	54941	Neue Weingärten (-)	1
+st	54942	Seimeny (-)	1
+st	54943	Neubeschenowa (Dudeştii Noi)	1
+st	-55055	Oborki	1
+st	-55064	Zale	1
+st	-55066	Zuromin	1
+st	-55070	Grudusk	1
+st	-55072	Ostroleka	1
+st	-55081	Ciechocinek	1
+st	-55091	Skepe	1
+st	55094	Gradzanowo Koscielne	1
+st	-55096	Modelka	1
+st	-55099	Makow Mazowiecki	1
+st	55106	Susk	1
+st	-55107	Zawidz Koscielny	1
+st	55109	Kondrajec Szlachecki	1
+st	-55110	Kicin	1
+st	55111	Szostka	1
+st	-55113	Kujawka	1
+st	55116	Osiek	1
+st	-55117	Nowe Karwosieki	1
+st	-55129	Lenie Male	1
+st	-55133	Meczenino	1
+st	-55135	Dzierzaznia	1
+st	-55137	Konary	1
+st	-55139	Kozy	1
+st	55140	Zglowiaczka	1
+st	55163	Grabkowo	1
+st	-55164	Wieslawice	1
+st	-55166	Budy Borowickie	1
+st	-55169	Orszymowo	1
+st	-55171	Nowy Dwór Mazowiecki	1
+st	-55173	Kozie Glowy	1
+st	-55177	Brdow	1
+st	-55181	Psary	1
+st	-55187	Nowa Wies	1
+st	-55189	Miszory	1
+st	5519	Berka vd Hainich	1
+st	-55191	Secymin Polski	1
+st	55210	Niechcianow	1
+st	-55216	Kaptury	1
+st	-55218	Stare Miasto	1
+st	-55226	Tarnowka	1
+tu	-55238	Zychlin	1
+tu	-55240	Kopojno	1
+tu	55244	Natalia	1
+tu	55252	Potrzaskow	1
+tu	-55254	Szamow	1
+tu	-55258	Wierzchy	1
+tu	-55261	Gadowskie Holendry	1
+tu	-55262	Turek	1
+tu	-55266	Sarbice	1
+tu	-55269	Zimne	1
+tu	-55270	Leczyca	1
+tu	55271	Piatek	1
+tu	-55300	Goliszew	1
+tu	55305	Poroze	1
+tu	-55306	Rzymsko	1
+tu	-55308	Baldrzychow	1
+tu	55320	Sanie	1
+tu	-55322	Marianow	1
+tu	-55326	Jozefow	1
+tu	55330	Morawki	1
+tu	-55331	Rzepiszew	1
+tu	-55338	Justynow	1
+tu	-55344	Slomkow Suchy	1
+tu	-55349	Markowka	1
+tu	-55350	Rzgow	1
+tu	-55354	Laznowska Wola	1
+tu	-55359	Kiebitztal (Kuznica)	1
+tu	-55360	Ostrow	1
+tu	-55361	Wielka Wies	1
+tu	-55362	Suchcice	1
+tu	-55363	Siemkowice	1
+tu	-55365	Dobroslaw	1
+tu	-55366	Belchatów	1
+tu	-55373	Luszczanowice	1
+tu	-55375	Ozarow	1
+tu	-55376	Jaworzno	1
+tu	-55377	Natolin	1
+tu	-55382	Czarny Las	1
+tu	-55383	Huta Stara A	1
+tu	55384	Myszkow	1
+tu	55387	Dabrowa Gornicza	1
+tu	-55389	Kwaczala	1
+tu	-55394	Freistadt (Fryštát)	1
+tu	-55408	Bistritz (Bystrice Nad Olsí)	1
+tu	-55411	Radziechowy	1
+tu	-55415	Skomlin	1
+tu	-55416	Kamesznica	1
+tu	-55418	Schönwalde (Wrzosy)	1
+tu	-55425	Wyszewo	1
+tu	-55522	Nojewo	1
+tu	5717	Illeben	1
+tu	573	Lykowo	1
+tu	5730	Gebesee	1
+tu	5752	Thalborn	1
+tu	5774	Nirmsdorf	1
+tu	5810	Crölpa-Löbschütz	1
+tu	5827	Krössuln	1
+tu	584	Dunowo	1
+tu	5863	Michelwitz	1
+tu	5867	Hollenbach	1
+tu	5875	Schlotheim	1
+tu	6074	Obertopfstedt	1
+tu	6089	Etzleben	1
+tu	6105	Allerstedt	1
+tu	6116	Gleina	1
+tu	6129	Kleinkayna/Kleinkaina	1
+tu	6168	Rehbach	1
+tu	6171	Mengelrode	1
+tu	6185	Kirchworbis	1
+tu	6196	Grosswenden	1
+tu	6341	Auleben	1
+tu	6359	Hackpfüffel	1
+tu	6371	Mittelhausen	1
+tu	6388	Stedten	1
+tu	6400	Ammendorf	1
+tu	6418	Glesien	1
+tu	6426	Zwinge	1
+tu	6472	Stolberg (Harz)	1
+tu	6577	Walkenried	1
+tu	6593	Königerode	1
+tu	6610	Vatterode	1
+tu	6630	Freist	1
+tu	6656	Drehlitz	1
+tu	6660	Möst	1
+tu	6682	Ramsin	1
+tu	6690	Braunlage	1
+tu	6705	Rieder	1
+tu	6793	Riefensbeek	1
+tu	6801	Neuwerk	1
+tu	6821	Aschersleben	1
+tu	6831	Gröna	1
+tu	6848	Elsdorf	1
+tu	688	Pregowo Zulawskie	1
+tu	6891	Danstedt	1
+tu	6960	Abbenrode	1
+tu	6981	Emersleben	1
+tu	6995	Egeln	1
+tu	7007	Eickendorf	1
+tu	7022	Kämeritz	1
+tu	7033	Natho	1
+uv	7180	Liemehna	1
+uv	7198	Röcknitz	1
+uv	7212	Lausa	1
+uv	7225	Kosilenzien	1
+uv	7246	Kahla	1
+uv	7253	Ruhland	1
+uv	7263	Lauta	1
+uv	7363	Brösa	1
+uv	7371	Falkenberg	1
+uv	7384	Rosenfeld	1
+uv	7394	Wiederau	1
+uv	74	Gwiezdzin	1
+uv	7412	Lugau	1
+uv	7427	Dollenchen	1
+uv	743	Rudki	1
+uv	7435	Petershain/Neupetershain	1
+uv	748	Budy	1
+uv	7529	Schleesen	1
+uv	7546	Bleddin	1
+uv	7562	Klossa	1
+uv	7576	Werchau	1
+uv	7586	Wendisch Drehna/Walddrehna	1
+uv	7596	Schlabendorf	1
+uv	760	Zakrzewo	1
+uv	7688	Straach	1
+uv	769	Nowy Dwor	1
+uv	7696	Rahnsdorf	1
+uv	7710	Rohrbeck	1
+uv	7721	Wahlsdorf	1
+uv	7732	Hohendorf	1
+uv	7747	Treppendorf	1
+uv	7758	Sacrow	1
+uv	7964	Zedtlitz	1
+uv	7979	Hohnbach	1
+uv	80004	Grindelwald	1
+uv	80023	Bosco	1
+uv	8011	Ziegra	1
+uv	803	Lunawy Male	1
+uv	8032	Rausslitz	1
+uv	8055	Coswig	1
+uv	8075	Langebrück	1
+uv	8092	Frankenthal	1
+uv	821	Bukowiec	1
+uv	8272	Fuchshain	1
+uv	8289	Nerchau	1
+uv	83	Charzykowy	1
+uv	8305	Limbach	1
+uv	8321	Mergendorf	1
+uv	8345	Rostig	1
+uv	8358	Steinborn	1
+uv	8368	Bernbruch	1
+uv	8505	Dretschen	1
+uv	8519	Kittlitz	1
+uv	8532	Kunnerwitz	1
+uv	8546	Siekierczyn	1
+uv	8560	Wolbromow	1
+uv	8574	Pieszkow	1
+uv	8590	Prusice	1
+uv	8614	Ogonowice	1
+uv	8716	Förstgen	1
+uv	8726	Ober Horka I	1
+uv	8736	Wegliniec	1
+uv	8740	Kierzno	1
+uv	8751	Szczytnica	1
+uv	8762	Göllschau (Goliszów)	1
+uv	8777	Bieniowice	1
+uv	880	Strzeczona	1
+uv	8852	Klein Priebus	1
+uv	8858	Okraglica	1
+uv	8865	Koberbrunn	1
+uv	8870	Armadebrunn (Studzianka)	1
+uv	8878	Trzmielow	1
+uv	8888	Skladowice	1
+uv	895	Jelencz	1
+uv	8972	Cantdorf	1
+uv	8981	Eichwege	1
+uv	899	Iwiec	1
+uv	8990	Jedrzychowice	1
+uv	9000	Kunzendorf (Kunice)	1
+uv	9015	Chichy	1
+uv	9025	Przeclaw	1
+uv	9036	Jakubow	1
+uv	9052	Rzeczyca	1
+uv	906	Busnia	1
+uv	9143	Mehlen	1
+uv	9152	Dluzek	1
+uv	9163	Bialowice	1
+uv	9179	Broniszow	1
+uv	9193	Alt Tschau (Stare Żabno)	1
+uv	920	Lisie Katy	1
+uv	9200	Grochowice	1
+uv	9207	Konradowo	1
+uv	9274	Staakow	1
+uv	9280	Kaltenborn	1
+uv	9288	Czeklin	1
+uv	930	Goczalki	1
+uv	9303	Lubiatow	1
+uv	9314	Zielona Gora	1
+uv	9323	Zabor	1
+uv	9335	Ciosaniec	1
+vw	9400	Miloszyce	1
+vw	9417	Prietzen	1
+vw	9433	Ujazd Gorny	1
+vw	9453	Lisowice	1
+vw	9558	Ligota Piekna	1
+vw	9579	Jenkowice	1
+vw	9592	Jemielna	1
+vw	9612	Prawikow	1
+vw	9622	Warzyna	1
+vw	9717	Domanowice	1
+vw	9739	Kamien	1
+vw	9760	Krzelow	1
+vw	9775	Staszowice	1
+vw	9799	Lazy Wielkie	1
+vw	983	Gromaden	1
+vw	984	Friedberg	1
+vw	9848	Godnowa	1
+vw	9877	Chroscina	1
+vw	9891	Gosciejewice	1
+vw	99	Trumiejki	1
+vw	990	Walownica	1
+vw	9903	Sonnenfeld (Orpischewo)	1
+vw	9919	Wierzowice Male	1
+vw	9926	Wodniki	1
+vw	994	Kabat	1
+vw	9984	Morkowo	1
+vw	54872	Reval	1
+vw	52353	NA	1
+vw	-54895	Warszawa	10
+vw	9746	Kobyla Gora	10
+vw	46572	Nebel	11
+vw	46636	Hooge	11
+vw	46640	Wobbenbüll	11
+vw	46699	Horsbüll	11
+vw	46759	Oland	11
+vw	46773	Mönkebüll	11
+vw	46888	Archsum	11
+vw	47862	Helgoland	11
+vw	48241	Wangerooge	11
+vw	F002p	Hindeloopen	11
+vw	B079p	Zurich	11
+vw	F036p	Oudemirdum	11
+vw	F003p	Woudsend	11
+vw	B084p	Wommels	11
+vw	F013c	Oudehaske	11
+vw	B094p	Grou	11
+vw	B024b	Wijns	11
+vw	B099a	Opeinde	11
+vw	B035a	Zwagerbosch	11
+vw	B014p	Paesens	11
+vw	G001b	Appelscha	11
+xy	I125a	Heille	100
+xy	I140p	Axel	100
+xy	I103p	Cadzand	100
+xy	I110a	Slijkplaat	100
+xy	I095p	Hoedekenskerke	100
+xy	I101p	Krabbendijke	100
+xy	I058p	Westkapelle	100
+xy	I062a	Serooskerke	100
+xy	I048p	Colijnsplaat	100
+xy	I055p	Sint Annaland	100
+xy	K173a	Kruisland	100
+xy	K155p	Zevenbergen	100
+xy	K162a	Oosteind	100
+xy	I032p	Burgh-Haamstede	100
+xy	I031a	Scharendijke	100
+xy	I023p	Dirksland	100
+xy	K086p	Zuid-Beijerland	100
+xy	K093p	'S-Gravendeel	100
+xy	K101a	Nieuwendijk	100
+xy	I008p	Rockanje	100
+xy	K042a	Vlaardingen	100
+xy	K012p	Ouderkerk Aan den Ijssel	100
+xy	K022p	Willige Langerak	100
+xy	D005p	Den Haag	100
+xy	E179p	Zwammerdam	100
+xy	E181p	Zegveld	100
+xy	E133p	Katwijk Aan Zee	100
+xy	E138b	Abbenes	100
+xy	E147a	De Kwakel	100
+xy	E080a	Velsen	100
+xy	E086p	Zaandam	100
+xy	E041p	Egmond Aan Zee	100
+xy	E047a	Stompetoren	100
+xy	E010p	Sint Maarten	100
+xy	E005p	Westerland	100
+xy	A009p	De Waal	100
+xy	K218p	Bladel	100
+xy	K214p	Lage Mierde	100
+xy	K165p	Udenhout	100
+xy	K104a	Herwijnen	100
+xy	K035p	Hei-En Boeicop	100
+xy	E192p	Utrecht	100
+xy	E124p	Ankeveen	100
+xy	E091p	Monnickendam	100
+xy	E058p	Hoorn	100
+xy	E031a	Oostwoud	100
+xy	E003a	Den Oever	100
+xy	Q095p	Maastricht	100
+xy	L281p	Borkel	100
+xy	L226p	Woensel	100
+xy	L177c	Middelrode	100
+xy	L093p	Lith	100
+xy	L003p	Maurik	100
+xy	F165p	Amersfoort	100
+xy	F121p	Bunschoten-Spakenburg	100
+xy	E040a	Venhuizen	100
+xy	E040p	Enkhuizen	100
+xy	A001p	Midsland	100
+xy	Q102p	Sint Antoniusbank	100
+xy	L318p	Stramproy	100
+xy	L288b	Laar	100
+xy	L237p	Helmond	100
+yz	L157a	Oventje	100
+yz	L102p	Ravenstein	100
+yz	L010p	Wageningen	100
+yz	F170p	Barneveld	100
+yz	F124p	Putten	100
+yz	F077p	Urk	100
+yz	B046a	Minnertsga	100
+yz	L290p	Panningen	100
+yz	L211p	Leunen	100
+yz	L116p	Beek	100
+yz	L023p	Arnhem	100
+yz	F173p	Hoenderloo	100
+yz	F128p	Vierhouten	100
+yz	F102p	Oldebroek	100
+yz	F079p	Ens	100
+yz	F052p	Kuinre	100
+yz	B002p	Nes	100
+yz	F207p	Drempt	100
+yz	F179p	Zutphen	100
+yz	F132p	Diepenveen	100
+yz	F106p	Windesheim	100
+yz	F086p	Rouveen	100
+yz	F060p	Steenwijk	100
+yz	F021p	Oldeberkoop	100
+yz	G279a	Zieuwent	100
+yz	G246p	Lochem	100
+yz	G197p	Holten	100
+yz	G139a	Arriën	100
+yz	G091d	Linde	100
+yz	G024p	Dwingeloo	100
+yz	C145p	Zevenhuizen	100
+yz	C063p	Oldehove	100
+yz	C023a	Hornhuizen	100
+yz	G257p	Haaksbergen	100
+yz	G173p	Almelo	100
+yz	G094p	Gramsbergen	100
+yz	G031p	Orvelte	100
+yz	G007p	Rolde	100
+yz	C148a	Glimmen	100
+yz	C070a	Sint Annen	100
+yz	C001b	'T Lage Van De Weg	100
+yz	G079a	Amsterdamscheveld	100
+yz	G058p	Emmen	100
+yz	G012a	Nieuw-Buinen	100
+yz	C156p	Muntendam	100
+yz	C081p	Weiwerd	100
+yz	C042p	Spijk	100
+yz	C165p	Bellingwolde	100
+yz	G285p	Meddo	100
+yz	K189p	Essen	100
+yz	P133a	Terlanen	100
+yz	K191p	Meerle	100
+yz	K234p	Wechelderzande	100
+yz	K305p	Olen	100
+yz	P025p	Aarschot	100
+yz	P154p	Outgaarden	100
+yz	K196p	Poppel	100
+yz	K241p	Retie	100
+yz	K314a	Gompel	100
+yz	P047p	Loksbergen	100
+yz	P174p	Velm	100
+yz	L353p	Eksel	100
+yz	Q001p	Zonhoven	100
+yz	Q079p	Guigoven	100
+yz	L360p	Bree	100
+yz	L417p	As	100
+yz	Q253p	Montzen	100
+yz	O009p	Gottem	100
+yz	O182p	Volkegem	100
+yz	I163p	Oosteeklo	100
+yz	I243p	Destelbergen	100
+yz	O112p	Elene	100
+yz	I261p	Appels	100
+yz	O149p	Iddergem	100
+yz	O275p	Herne	100
+yz	I178p	Beveren	100
+yz	I268a	Kalfort	100
+yz	O178a	Molenbeek-Saint-Jean	100
+yz	P198p	Sint-Genesius-Rode	100
+yz	55045/H051p	Wulpen	100
+yz	55005/N024p	Westvleteren	100
+yz	N116p	Loker	100
+yz	H016p	Oostende	100
+yz	55036/H061p	Koekelare	100
+yz	55022	Houthulst	100
+yz	N130p	Wervik	100
+yz	H005p	Uitkerke	100
+yz	55044/H068p	Loppem	100
+yz	N041p	Pittem	100
+yz	55023/N141p	Kortrijk	100
+yz	K245p	Deurne	100
+yz	K332p	Onze-Lieve-Vrouw-Waver	100
+yz	P018p	Kampenhout	100

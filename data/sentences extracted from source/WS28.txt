@@ -1,0 +1,2499 @@
+Index	Bogennummer	REDE_Namen	Sprache	WS28::Transliteration WS 28
+ab	10029	Ringhuscheid	1	Dirr doarft net suen Koanereien dreuwen.
+ab	10044	Malberg	1	Dir de[ë?]rft net suh en Kannereien dreiwen.
+ab	1009	Nowy Klukom	1	Iik schölla (sollt) ne soan Kinnestreich driewa.
+ab	1018	Lasko K Choszczna	1	Ju dara ni so an Kingerie driewa.
+ab	10215	Pantenburg	1	Ehr dourft nöt suen Kannereien treiwen.
+ab	1023	Golin	1	Ji döhwe ni sohn Kinneriegge driwe.
+ab	10230	Beuren	1	Dir dorft net e su Kennereue treuwe.
+ab	10259	Mörsdorf	1	Dia tärft neht su Kenareie treiwe.
+ab	10275	Badenhard	1	Der derft net so Kenereie treiwe.
+ab	1029	Niekursko	1	Ji daro son Kinneriggo nei driwo.
+ab	10300	Welterod	1	Ähr därft nett solche Kennereie treiwe.
+ab	10315	Bleidenstadt	1	Ihr derft nitt solche Kinnereie treiwe.
+ab	10335	Espeler	1	Irr durrft nitt suen Kennereien treewen.
+ab	1035	Stobno	1	Ji daro ni soan Kinerik driwo.
+ab	10351	Brandscheid	1	Ihr derft net souen Kännereien druiwen.
+ab	10368	Büdesheim	1	D'rr dōrft nät ĕsuen Kăonnereien treïwen.
+ab	10381	Waldkönigen	1	Dr durft net esuen Kǒ̆nnere-ien dre-iwen.
+ab	1050	Krostkowo	1	Ji döre ni soe Kindere triewe
+ab	10584	Kalenborn	1	Dir dorfd net sue Kennerreuen dreuwen.
+ab	10601	Gappenach	1	Dir derft net solche Kennerei treiwe.
+ab	10621	Rhens	1	Ihr dörft net sollich Kennerie treiwe.
+ab	10649	Attenhausen	1	Ähr derft net su Kennereie treiwe.
+ab	10663	Heringen	1	Ir dirft su kahn Kennereie treiwe.
+ab	10690	Honsfeld	1	Der durscht ken son Kendereen triefen.
+ab	10697	Dahlem	1	Dir dusch net esu en Kennereien drieve.
+ab	10709	Aremberg	1	Dr dürft net asuen Konnerei dreifen.
+ab	10736	Hohenleimbach	1	Dir dörft net e suho Kennerei dreiwe.
+ab	10857	Hatzfeld (Eder)	1	Ihr derft net selche Kinnerrei trewe.
+ab	10974	Haindorf	1	Ö därft net so Könneräi trih.
+ab	110	Rozpedziny	1	Ji brucke nich son Kinnerie driwe.
+ab	11132	Schwarzwald	1	Ihr (Diâ) därft nech solche Kingerein trieb.
+ab	11149	Wipfra	1	Dähe derft nech selche Spälereien triebe.
+ab	11180	Remda	1	D' därft nech selch dommes Zeich treibe.
+ab	11197	Zeutsch	1	Ihr därft nich siche Kinnerein treibe.
+ab	11212	Breitenhain	1	Jhr därft nech sölche Kön̄ereien treibe.
+ab	11230	Burkersdorf	1	Ihr darft nich siche Kin̄erei'n treibe.
+ab	11252	Seelingstädt	1	Ihr därft nicht sulche Kinnereien treib'n.
+ab	11262	Seebach	1	Ehi dörft nich su ehne Kingerrehi trieb.
+ab	1133	Debenke	1	Ji dare ni soen Kinerige driwe.
+ab	1139	Gliszcz	1	Ji dawe nÿ soun Kinnerigg driewä.
+ab	11467	Boilstädt	1	Ihr dörft nöch solche Kängerein trieb.
+ab	11485	Ingersleben	1	Ihr dorft nech solche Kennerih getribe.
+ab	1150	Czarze	1	Ji dewe nech sohn Kinnerich triwe.
+ab	11515	Gutendorf	1	Ihr därft nech selche Kinnerei treibe.
+ab	11539	Kleinschwabhausen	1	Ihr dārft nech selche Kinnerei treibe.
+ab	11568	Thalbürgel	1	Ihr därft nich selche Kin̄erei treibe.
+ab	1157	Bielczyny	1	Jhr dürft nett sone Kindereia treiwa.
+ab	11586	Bad Köstritz	1	Ihr darft nich siche Kennerein treibe.
+ab	11607	Lumpzig	1	Ihr darft nich silche Kengerei treibe.
+ab	1162	Sierakowo	1	Jü deawe nöch soken Kinnerig driewe.
+ab	11645	Gleismuthhausen	1	Ihr därft net söda Kin̄erei treib.
+ab	11673	Mitwitz	1	Ihe dĕft niet sotta Kinerei treim.
+ab	11763	Aub	1	Ihr dürft ke suta Kinerei treib.
+ab	1178	Sokoliniec	1	Ji dara ne soan Kinnerei triwa
+ab	11805	Seidmannsdorf	1	Jhr derft nett söttå Kinnårei treib
+ab	11825	Wallenfels	1	Ḭḛ deft nḭḛt solcha Kinerei treibn.
+ab	11844	Neudorf	1	Ihr derft nit setta Kindereien treim.
+ab	11864	Draisendorf	1	Ihr däft niăt sottă Kinnerein treīm.
+ab	11881	Sohl	1	Dirz dörfts ka sette kinnerei treim.
+ab	11896	Sülzdorf	1	Ihr dörft net so Kennerei treib.
+ab	1192	Debsko	1	Ji döre ni söân Kieneriej driewe.
+ab	11927	Bachfeld	1	Ihr därft net sulche Kinnerei'n treib.
+ab	1197	Plociczno	1	Ji dara ne son Kinneriga driwa.
+ab	1203	Nakielno	1	Ji dara ni son Kinerikga driewa.
+ab	12037	Hildburghausen	1	Ihr dörft nett so Kin̄erei treib.
+ab	12070	Neuenbau	1	Ihr därft net sötte Kin̄erei treib.
+ab	1208	Wissulke (Wiesiółka)	1	Ji darä ni so'n Kinnerigjä driwä.
+ab	12085	Grumbach	1	Ihr derft nett settå Kinnerei'n treim.
+ab	12104	Frössen	1	Ihr därft nit sette Kinnerei trei'm.
+ab	12125	Schwand	1	Ihr derft nett sette Kinnerei dreim.
+ab	12148	Kottengrün	1	Ihr deft nett sette Kin̄erei treibm.
+ab	1215	Paruszka	1	Gih döre ni sone Kinnärig driwä.
+ab	12153	Meiningen	1	Ir dörft net solche Kennereie treib.
+ab	12167	Altendambach	1	Ihr dörft nett so Kennörei treib.
+ab	12184	Altenfeld	1	Ihr därft nit silche Kinnereien treib.
+ab	12341	Rohrbach	1	Ihr därft nech seche Kenereien treibe.
+ab	12371	St. Jacob bei Leutenberg	1	Ihr derfft nich sichche Kinnerrein treibe.
+ab	12390	Neundorf (bei Schleiz)	1	Dir derft niet selche Kinnerei'n treim.
+ab	12410	Ebersgrün	1	Sette Kinnerei derft ar net treim.
+ab	12428	Roitzschau/Rotschau	1	Jhr darft nett sillche Kin̄erei treibn.
+ab	12496	Horsdorf	1	Ihé deft ka sön Kinderei treib.
+ab	12529	Ködnitz	1	Ihr däft kana sute Kinerreien treim
+ab	12556	Kornbach	1	Ihr därft net sutta Kinnerei treim.
+ab	12572	Habnith	1	Ihr (diaz) dörft niat setta Kinderei treibn.
+ab	12594	Uchenhofen	1	Ihr dürft net söta Kinnerei treib.
+ab	12616	Reutersbrunn	1	Jhr dürft net söde Kinnerei treib.
+ab	12656	Weismain	1	Ihr däft ka so dumms Zeug machn.
+ab	1278	Insko	1	Jī döra nĕ sōă̆n Kinerīj̄a driwa.
+ab	1287	Konotop	1	Ji dara ne soan Kinerig driewa.
+ab	12876	Lohma	1	Ehr darft nich sitte Kengerei treibe.
+ab	12898	Heiersdorf	1	Ihr darft nich siche Kinerein treibm.
+ab	12921	Sachsenburg	1	Ihr derft nich' sulche Kinderei'n treim.
+ab	12942	Rothenfurth	1	Ihr derfd ni sólche Kindereien dreib'n.
+ab	1296	Zabin	1	Gieh dara ni' soan Kinerieg driewa.
+ab	12969	Borlas	1	Ihr derft ni sulche Kinderein treib'm.
+ab	13005	Dohna	1	Ihr darft ni silche Kindereien treib'n.
+ab	13019	Porschdorf	1	Ihr därft nich salche Kindereien treiben.
+ab	13047	Morgenröthe	1	Ihr därft net solche Kinnerei treim.
+ab	13054	Rittersgrün	1	Ihr därft nett sette Kinnerei treim.
+ab	1315	Kamien	1	Ji döwä ni sohn Kinnerige (t) driwä.
+bc	13169	Saupersdorf	1	Er derft nett sette Kinnerei treim.
+bc	13187	Kühnheide	1	Ir därft net sitte Kinnerei (Mehrzahl giebt es hier für dieses Wort nicht.) treim.
+bc	13210	Himmelmühle	1	Ihr därft nich sittă kinnărei treim.
+bc	13226	Rübenau	1	Ihr därft nich sölche Kin̄erei treim.
+bc	13269	Thurm	1	Ihr derft nich' sitte Kinnerei'n treiben!
+bc	13286	Ursprung	1	Ihr darft keene siche Olberhäten machen
+bc	133	Sosnowo	1	Ji döra nich sunn Kinariga driwa
+bc	13317	Dittmannsdorf	1	Ihr därft nech sitta Kinnarein treibn.
+bc	13340	Grosshartmannsdorf	1	Iha derfd nich siche Kinnerein dreim.
+bc	13355	Reichenau	1	Ihr derft ni solche Kinnerei'n treib'n.
+bc	13372	Liebenau	1	Ihr därft ne siche Dum̄heten machen.
+bc	1338	Dzidno	1	Ji dawe nie soh Kinierig mit uß driwe.
+bc	13529	Wang-Brückenberg	1	Macht ock nee a sich Gethare oder: Ihr dürft ne sichde Tummheita treiba.
+bc	13543	Pisarzowice	1	Ihr darft ne sune Kinderreien treiba.
+bc	13559	Boguszow-Gorce	1	Ihr dorft ne sulche Kindereia treiba.
+bc	13655	Niederleutersdorf/Leutersdorf	1	Ihr därft nö sicke Kinderdinge treibn.
+bc	13678	Rohnau (-)	1	Ihr dirft ne sichte Kinnereien treibn.
+bc	13700	Rebiszow	1	Ihr därft ne sichte Kindereia treiba.
+bc	13719	Siedlecin	1	Ihr dirft nä siche Kinschheta (Lappschheta) treiwa.
+bc	13727	Myslow	1	Ihr tirrscht nich sulche Kinschheeta treiba.
+bc	13745	Jugowa	1	Ihr darft ni sulche Kindereien treiben.
+bc	13830	Wlodowice	1	Ihr derft ne selche K[e]nderei treiwa.
+bc	13869	Biernacice	1	Ihr müßt ju nich immerfurt kinscha!
+bc	13887	Rzymiany	1	Ihr derft nich silche Kindereien treiben.
+bc	13898	Szadurczyce	1	Ihr to͡arscht nich sitte Kindereien treiben.
+bc	13929	Stoszowice	1	Ihr darft ni sulche Kinderei'n treiba.
+bc	13996	Lutomia Gorna	1	Ihr dirft nich sulche Kinderei'n treiba.
+bc	14023	Roztocznik	1	Jhr därft nich sulche Kinderei treiba.
+bc	1403	Dobieszewo	1	Ji dära ni soan Kinarig driwa.
+bc	14034	Lipowa	1	Ihr dirft nich siche Kindereien treiba.
+bc	14074	Michalow	1	Jhr dürft nich sitte Kinderän träb'n.
+bc	14092	Karczow	1	Ihr dürft nich silche Kindereien treiben.
+bc	14159	Jutrzyna	1	Ihr dürft nicht silche Kindereien treiben.
+bc	1417	Rydzewo	1	Ji dörĕ nĭ sōn Kinĕrige driewĕ.
+bc	14234	Brzoza	1	Ihr dürft nich sulche Kindereien treib'n.
+bc	14250	Jaczkowice	1	Ihr dirft nich solche Kindereien treiben.
+bc	14275	Piastowice	1	Ihr derft nich silche Kindscherein treiben.
+bc	14305	Bozanow	1	Ihr dürft nie sune Kinderein treiba.
+bc	1432	Rzepowo	1	Gi döra nih so an Kinnerig driwa.
+bc	14321	Rogow Sobocki	1	Ihr türft keene sulche Tummhet macha.
+bc	14382	Wölfelsdorf (Wilkanów)	1	Ihr derft nie sella Kendereien treien.
+bc	1442	Lubowo	1	Ii dare ni sun Kinneriee driwe.
+bc	14449	Thröm (Trebom)	1	Ihr terft noch sechche Kenderein treiwn. 
+bc	14458	Szczytna	1	Ihr därft ne solche Kenderreia treiwa.
+bc	14471	Jaszkowa Gorna	1	Ihr derft ne selchte Kendereia treiwa.
+bc	14486	Nadziejow	1	Ihr derft nicht solche Kindereia treiba.
+bc	145	Smardzko	1	Ji döre ni son Kinnerieje driewe.
+bc	14505	Piorunkowice	1	Ihr darft ni silche Kindereia treiba.
+bc	1451	Steinforth (Brodźce)	1	Ji döwwä niä söun Tjinärijä driwä.
+bc	14537	Bielice	1	Ihr därft nie selle Kendereia treiwa.
+bc	14560	Siemianowice Slaskie	1	Ihr derscht ne silche Kindereia treiba.
+bc	1461	Wegorzewo Szczecineckie	1	Ji dawä ni soen Kinderig driewä.
+bc	14613	Nohfelden	1	Ihr derft ke Kennereie treiwe.
+bc	14635	Erzweiler	1	Er derfe net so vel Kinnerei treiwe.
+bc	14670	Nussbach	1	Éhr därfe kä̰̀n so Kinnereie treiwe.
+bc	14693	Dannenfels	1	Ehr derft net so'n Kinnerei dreiwe!
+bc	14724	Monsheim	1	Ehr derft net so Kinereien treiwe.
+bc	14752	Sankt Matthias	1	Der därft nött su Könnereïen dreïwen!
+bc	14955	Bescheid	1	Dir dörft sou kän Kennereien treiwen.
+bc	14971	Allenbach	1	Dir dirft net so Kennereie treiwe.
+bc	1499	Stara Rzeka	1	Ji deawa nich sunn Djinarija driwa
+bc	14999	Berschweiler bei Kirn	1	Dir derft [nerre?] so Kinnerreie treiwe.
+bc	15018	Bad Sobernheim	1	Der därft nit solche Kinnereie treiwe.
+bc	15042	Neu-Bamberg	1	Er derfe nett so Kinnereie treiwe.
+bc	15066	Bechtolsheim	1	Ehr derfen nett die Kinnereie treiwe
+bc	15088	Bollendorf	1	D'rr dērft [nĕ?]t e suen Kanneraien draiwen.
+bc	15096	Preist	1	Der derft nit esuen Kannereien dreifen.
+bc	15118	Pohlbach	1	Dir dirft net solch Kannareien treiwen.
+bc	15137	Kautenbach	1	Dir derft so Kennerei net treiwe.
+bc	15334	Kirchberg (Hunsrück)	1	Dehr dirft nitt so Kinnereie dreiwe.
+bc	15349	Ellern (Hunsrück)	1	D'r därfd so kä Kinnereie (Änfälligkäde oder Bozereue) dreuwe.
+bc	1536	Heidlauken (Bugorki)	1	Ju dörrwe nich sollke Kinderiee driewe.
+bc	15365	Bingen am Rhein	1	Ihr derft nitt so Kinnereie treiwe.
+bc	15394	Finthen	1	Ehr derft nit solche Kindereien treiben.
+bc	1540	Heinrichswalde	1	Ju dörwe nich solke Kinderie driewe.
+bc	15418	Schneeberg (Sněžník)	1	Seid ok nie so kindsch!
+bc	15503	Zettel (Sedlo)	1	Ihr derft nich se(l)che Kinnereien treib(e)n.
+bc	1552	Pazuizen	1	Ju sulle nich son Sluschtmark dohne!
+bc	15538	Wisterschan (Bystřany)	1	Jhr darft kene solche Kindereien treim.
+bc	15550	Malschen (Malečov)	1	Ihr darft ni siche Kindarei'n traibn.
+bc	15638	Lukawetz (Lukavec)	1	Ihr derft nich siche Kindereien treibn.
+bc	1565	Gierver Lauken	1	Ju motte nich sunne Kinderi driwe.
+bc	15681	Neudorf (Vrchběla)	1	Ihr drft nee sicha Kindrein treibm!
+bc	15685	Gastorf (Hoštka)	1	Ihr darft ni siche Kindereien treiben
+bc	15690	Wegstädtl (Štětí)	1	Ihr darft ni siche Kinderein treibn.
+bc	1571	Schmalleningken	1	Ju dörwe nich sone Kinderie driwe.
+bc	15725	Nixdorf (Mikulášovice)	1	Ihr dorft nee su kindsch sein. (Kindschrrein treiben)
+bc	1573	Groß Dirschkeim (Donskoye)	1	Ju derwe nich solke Kinderi driwe.
+bc	15751	Rückersdorf (Dolní Řasnice)	1	Er dorft ne söte kinderein treibm. oder Er dorft ne su kinschn.
+bc	1578	Rantau (Zaostrov'Ye)	1	Iu darrwe nich sollke Kindariè driwe.
+bc	158	Polczyn-Zdroj	1	Jie dörwe (döre) nich so'n Kinnerije driewe.
+bc	1580	Schulstein (Vol'Noe)	1	Ju derwe nich sollke Kinderie driewe.
+bc	15807	Kamnitz-Neudörfl (Kamenická Nová Ví	1	Ihr mißt a nej su kindsch sein.
+bc	15824	Zwickau (Cvikov)	1	Jhr d(ei)rft neï s(ei)che Kinderei treibn.
+bc	15847	Christophsgrund (Kryštofova Údolí)	1	Ihr dörft ne söche Kindereien treiben.
+bc	15858	Gränzendorf (Hraničá)	1	Ihr dörft ne sätte Kinderein treibn.
+bc	1588	Alt Susimilken (Tarassowka)	1	Ju dörwe nich solke Kinderie driewe.
+bc	15971	Puletschnei (Pulečný)	1	Ihr dörft ne sötte Kinderein (lieber "Tummhejtn") treibn.
+bc	15975	Graber (Kravaře)	1	Ihr darft nie sicha Kindrain traibn.
+bc	15989	Thammühl (Staré Splavy)	1	Ihr dürft ni sicha Luderein treibn.
+cd	15995	Proschwitz (Česká Proseč)	1	Jehr dorft ne sichte Kinderrein treiben.
+cd	16007	Harrachsdorf (Harrachov)	1	Ihr därft nä set Gekendsche treiben.
+cd	16015	Witkowitz (Vítkovice)	1	Er de̬rft ne settes kendsches Zeug treibn.
+cd	16050	Forst (Fort)	1	Ihr därft nee setta Kenderein treim!
+cd	16063	Gabersdorf (Libeč)	1	Ihr derft ne sete Kendereia treiwa.
+cd	16083	Bodisch (Bohdašin)	1	Ihr derft ne solche Kendoreia treiwa.
+cd	16139	Zwitschin (Zvičina)	1	Ihr derft nee sette Kenderreia treiwa!
+cd	16154	Großbock (Velká Bukovina)	1	Jhr därft ne sette Kendeoreien treiwa.
+cd	16179	Schmiedeberg (Kovářská)	1	Jhr därft kea sets kinnisch Zeich mochn.
+cd	1626	Tulpeningken (Zarečnoe)	1	Ju dörfe nich sone Kinderie driewe.
+cd	16276	Waitzengrün (Loučná)	1	Ihr därfst niat sechz kindrisch Zeich treibm.
+cd	1628	Wisborienen (Livny)	1	Ju derwe nich solke Kinderien driewe.
+cd	16298	Sittmesgrün (Mezirolí)	1	Diats dirfts koina secha Kinnareian trei'm.
+cd	16322	Petersdorf (Petrov)	1	Tirz därfts koener secher Kindereien treibn.
+cd	16338	Podletitz (Podlesice)	1	Ihr derft net setta Kinnarein treim!
+cd	16442	Kropitz (Krapice)	1	Diaz dörft's niat set's kinnisch Zeig'h treim.
+cd	16470	Ebersfeld (Podlesi)	1	Ihr dörfst nirt sur kindisch sa.
+cd	16491	Rabensgrün (Haje)	1	Ihr därft neat secha Kinnerei treibn.
+cd	16523	Lintsch (Hlineč)	1	Ihr derfts kana Kinarein treim.
+cd	1654	Postnicken (Zalivnoe)	1	Ju derwe nich solke Kindariee driewe.
+cd	16602	Klotantschen (Kotaneč)	1	Ihr derfts net setta Kinnereijän treim
+cd	16610	Tschernowitz (Černovice)	1	Ihr darft nett sette Kinderreien treim.
+cd	16625	Hawran (Havraň)	1	Jhr darft kane sichn Kinerein mochn.
+cd	16636	Liebshausen (Libčeves)	1	Jhr darft nich sulche Kinderei'n treibm.
+cd	1664	Labagienen/Haffwinkel (Zalivino)	1	Ju derwe nich solke Kindarie'e driewe.
+cd	16670	Priesen (Březno)	1	Īhr děrft nich sete Kinnerei treibñ.
+cd	16689	Libeschitz (Liběšice)	1	Jhr dĕrfts nĕtt sĕtte Kinnarei treim.
+cd	16725	Leschkau (Ležky)	1	Ia därfz ned sedda Kinnaraien dreim.
+cd	16739	Pschoblik (Pšovlky)	1	Ihr derft's net setta Kinnereie(r)n mochn.
+cd	16751	Prag-Smichow (Smíchov)	1	Ihr dürft nicht solche Kinderein treibn.
+cd	16755	Weißbach (Bílý Potok)	1	Ihr därft nie seche Kendereia treiba.
+cd	16770	Schediwy (Šediviny)	1	Eer tert ne a su kendscha.
+cd	16775	Friedrichswald (Orlické Záhoří)	1	Ihr tärt ne a sü kendscha (Unwärde-Saxn-treim)
+cd	16801	Böhmischdorf	1	Ihr därft nie sette Kendrrein treibn. (kendische sein).
+cd	16814	Rokitnitz (Rokytnice)	1	Ihr tärt nee sella Kendereia treiba.
+cd	1683	Kreuzingen (Bol'Shakovo)	1	Iu doerwe nich solke Kinderiee driewe.
+cd	16876	Nieder-Ullersdorf (Dolní Boříkovice	1	Ihr derft ne solch kindisch Zoig treiba
+cd	16889	Heinzendorf (Hynčice Nad Moravou)	1	Ihr dirft nie setta Kenderein treim.
+cd	16907	Karlsdorf	1	êr tirt (jezt müst dirft) nī sẹ(t)n̥ ûənʃin traêm.
+cd	16932	Kuhberg	1	Ihr dirft nie seche Kenderei treiba.
+cd	16949	Rausen (Rusín)	1	Ihr dürft nech solche (sette) Kendereia treiba.
+cd	1698	Buttkuhnen (Pokrovskoe)	1	Ju derfe nich solke Kinderei driewe.
+cd	16991	Breitenau (Bretnová Široká Niva)	1	Ihr dirft nie seche (sette) Kenderein treibn.
+cd	17012	Lobenstein (Úvalno)	1	Ihr derft nie seche Kenderein treibn.
+cd	17029	Lohhäuser (Slatina)	1	Diag deafts neat set Kinarein treib(n)
+cd	17061	Deutsch Thomaschlag (Německé Domasl	1	Dirt's därfts niat sua kinnisch Zeich trei(b)m.
+cd	17075	Polinken (Polínka)	1	Ihr därfts niat secha Kinderreien trei(b)m.
+cd	1708	Baltruschatschen (Jakovlevo)	1	Ju darfe nich sonne Kinderie driewe.
+cd	17138	Albersdorf (Písařova Vesce)	1	Dia(r)ts dearfts koi'n sulch Cinarei trei(b)n.
+cd	17151	Damnau	1	Diats därfts niat sech Kindarei trei(b)m.
+cd	17174	Piwana (Piňovany)	1	Derfts koi setta Kinastückla treibm (våtreibm).
+cd	17178	Kottiken (Chotíkov)	1	Di͜ats de͜afz neat setta Kinderei treibn.
+cd	17244	Dianaberg (Diana)	1	Diəz derft's koĩ suə Kinnərei trei'm.
+cd	17266	Wiedlitz (Vidice)	1	Diads deafts niat sölcha kinnösche Sochn treim.
+cd	17273	Honositz (Honezovice)	1	Diats derfz kui seta Kinareien treim.
+cd	17281	Dobrzan (Dobřany)	1	Diaz döarfts niat sua kinnsich sa.
+cd	17306	Blisowa (Blížejov)	1	Diats därfts niat selche Kinnereien treiben.
+cd	17309	Hilbeten	1	Ia diat net setta Dummheitn mochn.
+cd	17325	Schönwald (Strážná)	1	Ihr derft ne selln Kindereia treiba.
+cd	1733	Rottenen (Raktino)	1	Jiug darwe nich sulkt Kinderie driewe.
+cd	17374	Ober-Ullischen (Horní Olešná)	1	Ihr dirft nie setta Tolkerein mochn.
+cd	17389	Bergstadt (Horní Město)	1	Moacht ka setta Kiflerein nie!
+cd	1741	Pojerstieten (Kolodcy)	1	Ju dürfe nich solke Kinderien drüwe.
+cd	17433	Ranigsdorf (Linhartice)	1	Ihr dirft net setta Kinderein tram.
+cd	17442	Müglitz (Mohelnice)	1	Ihr därft net seche Tummheit'n moch'n.
+cd	17460	Ribnik (Rybniček)	1	Ihr terft nie secha Kindereien treiben.
+cd	17468	Stangendorf (Vendolí)	1	Ihr dürft net su kindesch sei!
+cd	1747	Beydritten (Pervomajskij)	1	Ju dörwe nich son Kindaspöll driwe.
+cd	17504	Neu-Biela (Lavičné)	1	Ihr tejt net set' t Tummheitn teibn.
+cd	17512	Schlettau (Slatina)	1	Ihr sellt nett sette Kindrain trabn.
+cd	17520	Runarz	1	Īe teət nī secha Kendəraien traibn.
+cd	17521	Nebotein (Hnĕvotín)	1	Ejs te(rfts doch ni(a) sett(a) kind(er)schi Sochn mochn.
+cd	17568	Tillendorf (Tylov)	1	Ihr dürft nie setta Kinderrein treim.
+cd	1758	Brasdorf (Antonovka)	1	Ju motte nich sollke Kinderiĕ driwe.
+cd	17585	Mladetzko (Mladecko)	1	Ihr derft nie settes bledes Zeig treibn (Kindereien nicht gebräuchlich)
+cd	17643	Seibersdorf (Bělá)	1	Ihr därft nie secha Dummheiten treim.
+cd	17659	Bernhau (Barnov)	1	Ihr därft nie setta Tummhaeten machen.
+cd	17680	Klantendorf	1	Ihr defft nie su kejndisch sein.
+cd	17687	Engelswald (Mošnov)	1	Ihr deft nie sette Kindereiê treiwê.
+cd	17698	Nirklowitz (Mrsklesy)	1	Mocht ni settes dummes Zeig.
+cd	17713	Punkendorf (Boňkov)	1	Ihr tefft nie setta Kenderein treibn.
+cd	1772	Groß Goldbach (Slavinsk)	1	Ju derwe nich solk Kinderrie driwe.
+cd	17726	Halbendorf (Polouvsí)	1	Ihr tefft nie sette Kenderei treibe.
+cd	17737	Senftleben (Ženklava)	1	Ihr tert ne sette Kenderein treiwe.
+cd	-17739	Polanka Wielka	1	Ihr derft net so Kinnerein treibn.
+cd	-17744	Bulowice	1	Ihr dirft net solche Kindereien treiben.
+cd	-17746	Chocznia	1	Éis derfts net sèicheni Șpergamenke (Faxn) treiben.
+cd	-17749	Alt-Bielitz (Stare Bielesko)	1	Ihr dieft ne sette Kindereja macha.
+cd	17759	Linz (Mlýnec)	1	Derfts koi sua Kinarei treim.
+cd	17782	Kohlheim (Uhliště)	1	Es därfts net secha kindische Soch'n treim.
+cd	17792	Čachrau (Čachrov)	1	Ös döafts net so Kinareian treim.
+cd	17801	Hurkental (Hůrka)	1	Ihr dörfts koi sechane Dummheitn treibn.
+cd	17824	Rotsaifen (Červená)	1	Des deafts o ned so kindisch sa!
+cd	17832	Winterberg (Vimberk)	1	E|is deafts nit se|ichani Dummhein treim.
+cd	17843	Sehrlenz (Ždírec)	1	dets dirfc net seti(a) kind(a)rajn trajm.
+cd	17854	Irsching (Jiřín)	1	Dös dürfts nit setene Kindereien treim.
+cd	17862	Hilbersdorf (Jihlava-Heroltice)	1	Dets difts nit setles läpischszeig treim.
+cd	17876	Sollowitz (Salavice)	1	Öts dürfts net sötene Kindrstückla mochn.
+cd	17878	Stannern (Stonařov)	1	Dets dürfts net setene Spasettla treiben.
+cd	17881	Riegerschlag (Lodhéřov)	1	Döis derft's nid sou kindischi Socha dreibn.
+de	17882	Wenkerschlag (Dolní Radouň)	1	Döis derfts net sou Kindereien mocha.
+de	17884	Buchen (Buk)	1	Deis derfts nit sölligi Dummhein treim.
+de	17895	Hosterschlag (Člunek)	1	Deïs derfts nit saligi Dummheitn mocha.
+de	17898	Lipolz (Lipolec)	1	Ös derft's nit solche Kindereien trei'm.
+de	17940	Czernowitz (Černovice)	1	Eis deafts nia settiga Kindarei trajbn.
+de	17942	Gundrum (Komořany)	1	Ejs teafts net soleochea Tomhoitn troibn.
+de	17956	Prahlitz (Pravlov)	1	Es derfst net solche Kinderei treiben.
+de	17961	Woikowitz (Vojkovice)	1	E ös derftst nit furt su kindisch rumspialn.
+de	17967	Sub-Lechnitz (Lechnica)	1	Ihr terfen net sona Kinareja treiba
+de	17968	Topportz (Toporec)	1	Nëch traib doch sëtte tommhaitn (Këndrain)
+de	17972	Hobgard (Chmeľnica)	1	Ihr derft nëch sëtte Tjëndersche Sachn treib'n.
+de	17981	Neu Walddorf (Nová Lesná)	1	Iir dërft nech sëte Faksen mochn.
+de	17993	Durelsdorf (Tvarožná)	1	Jhr darft nech sette Naretei treibn.
+de	17999	Leutschau (Levoča)	1	Ihr derft nech solche Kendereien treiben!
+de	180	Galowo	1	Ji döwe nië sohn Kinnerige drëiwe.
+de	18000	Zipser Neudorf (Spišská Nová Ves)	1	Ihr derft nech solche Kenderejen treibn.
+de	18001	Wagendrüssel (Nálepkovo)	1	Is terfst nëch sëte Toumheiten treibn.
+de	18003	Göllnitz (Gelnica)	1	Jhs tefft's nech séte Kendereien treibn.
+de	18004	Dobschau (Dobšiná)	1	Ihr tartz net setta Kenderein treiben.
+de	-18008	Schmöllnitz (Smolník)	1	Es tefz néch séte Kendareien treim.
+de	18010	Metzenseifen (Medzev)	1	Söte Kéndor töachtigkaitn soletz doch néet traim.
+de	18013	Buchwald (Bučina)	1	Eis deafz neït seïchani Gschäila treim.
+de	18018	Schattawa (Záton)	1	Dejs därfts nejt selcheni Cinere͜in treim.
+de	18028	Zaborsch (Záhorí)	1	["Ähnlicher Ausdrück wie "Kinderei" hierorts nicht gebräuchlich."]
+de	18058	Hirschbergen (Hiršperky/Jeleni)	1	Ihr daftst nit sulchi [buamastückln?] treim.
+de	18064	Honetschlag (Hodňov)	1	Eis derfts nit suichani Dinga treim.
+de	18091	Kollerschlag	1	Es derfts nit söchani Kinareian treim.
+de	18095	Sankt Thoma (Svatý Tomáš)	1	Des derfz net sechtane Kinerein treim.
+de	18101	Hohenfurth (Vyšší Brod)	1	Eïs derfts nit sulchi Sochn treim.
+de	18132	Hummeln (Homole)	1	[Satz fehlt]
+de	18135	Rudolfstadt (Rudolfov)	1	Ihr derft net sulchi Kindereien moch'n.
+de	18144	Gross-Radischen	1	Es derfts net so a Schelmerei treiben.
+de	18188	Priethal (Prídolí)	1	Eis dea(r)ft's nit süllani Kinarein trei(b)m.
+de	18192	Gollnetschlag (Klení)	1	Eis derfts niht sejchtige Dummhä(d)n träbm.
+de	18210	Weissenbach (Vysné)	1	Öjs derf'ts koani sou Buam[a?]stückln mocha!
+de	18218	Langschwarza	1	Is derfts nit soiche Kinareian treibn.
+de	1829	Rudszen (Poltavskoe)	1	Ju darfe nich sonne Kinderreie driewe.
+de	18290	Unterwald	1	Ös dearfst nöt solchi Kindereien treibn.
+de	18296	Bad Grosspertholz	1	Ös derfts nit solchi Dummheitn treibn. 
+de	18310	Oberstrahlbach	1	Es därft's net so deppati Sochan moch'n.
+de	18359	Waldkirchen	1	Es derfts net solche Dummheitn treibn.
+de	18364	Hafnerluden (Lubnice)	1	Ihr dürft's kane solchn Kinderein treim.
+de	18367	Schiltern (Štítary)	1	Es derfts nit soliche Kinnerein treibn.
+de	18407	Töstitz (Těšetice)	1	Es derfts nit so kindische Sochan treim.
+de	1842	Warupönen (Fëdorovka)	1	Ju dörwe nich sunne Kinderie driewe!
+de	18432	Dietmanns	1	Ės däafts nit sõichi Kindarein (Dumheidn) treim (mocha).
+de	18441	Schirmannsreith	1	Es deafts net so kindisch sein.
+de	18454	Hofern	1	Ös dearfß nit solchi Kinarei'n treib'n.
+de	185	Jelnia	1	Ji döwa ni son Kinerikchen driwen.
+de	18508	Gerstenfeld (Ječmeniště)	1	Ös derfts nit solache Kinarein treim.
+de	18525	Franzen	1	Ės dėafz nėd sodani Dummheidn treiim.
+de	18534	Rosenburg	1	Es derfts net solche Kindereien machen
+de	18554	Oberdürnbach	1	Ös därfts nit solche Kindereien treibn. (Der Ausdruck Kindereien wird nicht gebraucht!)
+de	18559	Aspersdorf	1	Es deafz net soichi Kinareian treim.
+de	18607	Damnitz (Damnice)	1	Ös derfts net söliche Kinastückln mocha.
+de	18627	Tracht (Strachotín)	1	Ees derfts nit söliche Kinderein treibn.
+de	18637	Saitz (Zajecí)	1	Mochts ka su a Tummheit.
+de	18642	Höflein an der Thaya (Hevlín)	1	Ös därfz nät sölache kindesche Sochan treim.
+de	18672	Stützenhofen	1	Ir derft koani Kinnrein treibn.
+de	18686	Bernhardsthal	1	Ös deafts nit sölache Kinarein treibm.
+de	18701	Pyhra	1	Ös dörfst nit solchani Kinastückl treibn.
+de	18707	Wilfersdorf	1	Derft's nöt solche Soch'n mocha.
+de	18716	Palterndorf	1	Ös därfts nit solchi Kinarein treibn.
+de	18753	Münchwies (Vrícko)	1	Ja deat net hila kinderische Dummheit treim
+de	18759	Bettelsdorf (Solka)	1	Ija téjt ka seta Kendrstėcke trá(j)(b)m.
+de	18763	Oberstuben (Horná Stubna)	1	Iⱱ te̜ⱱt net settⱱ khendⱱs̆pewl maxŋ.
+de	18767	Krickerhäu (Handlová)	1	Ihr dört net sötte Kenderei treim.
+de	18773	Deutsch-Litta (Kopernica)	1	Auḭs dḁjä̠rt nit sitt'n Daumheitn treim.
+de	18774	Hochwiesen (Vel'Ké Pole)	1	Iah djart net setiga Kinderein treubn.
+de	18786	Sankt Georgen bei Obernberg am Inn	1	Ös derfts nöt söltane Kindereien macha.
+de	18800	Hochburg	1	Ös deafz nöt söchanö Kindareian treim.
+de	18805	Pischelsdorf am Engelbach	1	Machts koane soöchen Dummheitn.
+de	18846	Niederkappel	1	Ös dearfz nöt sölchani Kinareian treibm. 
+de	18855	Niederwaldkirchen	1	Ös derfst net a so a d’Madlwer treim.
+de	18902	Dorf an der Pram	1	Ös deafts net so kindisch sei.
+de	18910	Michaelnbach	1	Deft's kane sölchan Dummheidn måcha.
+de	18923	Alkoven	1	Es deáfz net soiche Schpompánádln treim!
+de	1895	Königlich Damerau	1	Ju derwe nich solk Kindarie driewe
+de	18984	Arnberg	1	Ös derfz nöt söchanö Kinareien treim.
+de	18987	Rackering	1	Ös defz neöt so Kin(d)isch sa(n).
+de	19003	Pennewang	1	Ös defst defz nöt so kindisch sañ.
+de	19011	Sipbachzell	1	Ös derft’s nöt solchane Faxereien treibn.
+de	1904	Pesseln	1	Iu darfè sonnè Kinderi-è nich driewè.
+de	19070	Reichenau im Mühlkreis	1	Ös deafts nöd söcha Kinareian drei(b)m. 
+de	19080	Gutau	1	Ös derft's nöt solchane Kindareien treibn.
+de	19085	Hackstock	1	Ös derfts koan soichan Bledsinn trei'm.
+de	19096	Traunstein	1	Es dürfts nit solche Kinarein treibn.
+de	19138	Maria Laah	1	Sads nėt so kindisch!
+de	19144	Haag	1	Ös derfts nett ållweil söcherne Flausn (Schnacks'n) treib'n.
+de	19154	Amstetten	1	Ös derfts net solch Kinareien treibm.
+de	19163	Wieselburg	1	Es düarfst kane soichane Kindarein mochn.
+de	1919	Groß Gerlauken (Vjazovka)	1	Ju darfe nich sohne Kindereien driewe.
+de	19225	Steyregg	1	Ös derfts nöt söchanö Kinereien treibm.
+de	19233	Schwertberg	1	Ös dērfz nət sõīchə spō̹̃pŋnŋ̄̃dl mãochā.
+de	1924	Pakallnischken (Suvorovo)	1	Ju därwe nich solke Kinderieë driewe.
+de	19245	Bad Kreuzen	1	Ös defts nöt so Kinereien treib'n.
+de	19257	Altenmarkt	1	Ös derfts nit solche Kindereien (Sochan) mocha!
+de	19301	Els	1	Ös därfts koane solche Narrnstückln nit måcha.
+de	19311	Gneixendorf	1	Es derfz net soiche Kindareien treibm.
+de	19322	Fels am Wagram	1	Ös derfz net soichane Dummheidn mocha.
+ef	19334	Oberhautzental	1	Es därfst net solche Kindareian treim.
+ef	19401	Schönbühel an der Donau	1	Ös därfts koane solchan Kinderstückl mocha.
+ef	19404	Karlstetten	1	Ös deaf'z net so Dummheid'n treim.
+ef	19419	Würmla	1	Seid's net so kindisch.
+ef	19429	Ried am Riederberg	1	Es derfts net so Kinderreien treibn.
+ef	19479	Mank	1	Ös derfts net solche Sochan (Kindereien fehlt!) treim.
+ef	19486	Wilhelmsburg	1	Tuat's nöt går a so deppat!
+ef	19492	Stollberg-Siedlung	1	Ös derfst nit solche Kindereien treib'n.
+ef	1953	Pillau	1	Juh dörffe nicht solche Kindarie drüwe
+ef	19541	Grub	1	Eis deaft's koani soichn Dummheita mocha.
+ef	1956	Patersort (Beregovoe)	1	Ju dörwe nich solke Kinderiē triewe.
+ef	19564	Obergänserndorf	1	Ös derfts net solchane Dummheiten mocha.
+ef	19607	Raggendorf	1	Ös derfts nit solche Kinarein mocha.
+ef	1962	Bergau (Tzwetkowo)	1	Ju dörwe nich solke Alwerie driewe.
+ef	19621	Stillfried an der March	1	Es dearft's nit soilchi Kindərschtickl mo̜cha.
+ef	19640	Grünau (Grinava)	1	E(i)s d[e?](a)ft's nit so(u)lche Khind(e)schtikl treibm.
+ef	19642	20. Bezirk-Brigittenau	1	Ös därfts net solchane Kindereien (Sprupernadeln) treib'n.
+ef	19646	Raasdorf	1	Es derft's net solche Dummheit'n måch'n.
+ef	19657	Breitensee	1	Ihr därfts nit solcha Kinerein mochn!
+ef	19659	Theben (Devín)	1	(Ihr) Es derfts net solche Kinderei'n treib'n.
+ef	19667	Biedermannsdorf	1	Äs deafts ned soichane Schbompanadln (Dumheidn) dreim.
+ef	19674	Enzersdorf an der Fischa	1	Ös deafts net so Kindarein mochn.
+ef	19696	Kittsee	1	Io deafst nit sojeti Dummheit'n treibn! (Kindereien nicht gebräuchlich)
+ef	19705	Mischdorf bei Pressburg (Nové Košar	1	Eas teaftst nid söchri Kindarein treibm.
+ef	19726	Rohrau	1	Oes dürftz nit solche Kinereien treibn
+ef	19739	Thiersee	1	Ös dearz nit so kindisch sei.
+ef	19748	Achenwald	1	Ös teffts nied so kindisch sei.
+ef	1977	Fuchsberg (Semënovo)	1	Ju dörwe nich solk Kindarie driewe.
+ef	19775	Obertrum am See	1	Ös derft's nöt so dummö Sach'n machá!
+ef	19787	Hochfeld	1	Ös deafts nöt söchanö Kinarein macha.
+ef	19823	Vorderfager	1	Ös derfts nöt söchanö Kinarein treim.
+ef	19851	Schwendt	1	Ös deafts nid so kindisch sei(n)!
+ef	19854	Waidring	1	Ös defts nit soichä Kinareien treibn.
+ef	19859	Kuchl	1	Ös dea(r)fst's nöt so(lich)ö Kindarei'n trei'm.
+ef	1987	Pregelswalde (-)	1	Ju darwe nich sollke Kindari driwe.
+ef	19886	Schörfling	1	Söchanö Kindareien (Dummheitn) defts nöt macha!
+ef	19896	Gschwandt	1	Ihr derfts koani solchan Kindareien nit treim.
+ef	19901	Schlierbach	1	Ös desfts nöd söchanö Kinareien dreibm.
+ef	19941	Sankt Gilgen	1	Ös derfts koana söchan fågn måcha.
+ef	19945	Ebensee	1	Macht'z koani uzo(g)na Sachăn!
+ef	19947	Steyrling	1	Es deefst nöt so kinische Sachan macha.
+ef	19956	Bad Ischl	1	Machts koani so Kindösch'n Gschichtn.
+ef	19965	Windischgarsten	1	Ös defts nöt so kinisch sa!
+ef	19971	Bad Goisern	1	Es de͜afts nit söla kindesche Såchen mo̊cha.
+ef	19977	Grundlsee	1	Ös defts nit söla Fåxn måcha.
+ef	19993	Wörschachwald	1	Ös defts nöt soichanö Kinarein treim.
+ef	20005	Trattenbach	1	Ës derfz nët solche Dumheiten mocha.
+ef	20008	Sulzbach	1	Ie sáds do'net so kindisch ũnd treilz sechtane Sâchan.
+ef	20019	Ybbsitz	1	Es derft's nit so kindisch sein!
+ef	20023	Gaming	1	Ös dearft's nimma so Kinarein treibn (so kindischi Sochn)
+ef	20046	Kleinreifling	1	ÖIir [„Ö“ über „I“] dafst dürfts [„dafst“ über „dürfts“] nöt solli Kindereien treibn.
+ef	20049	Mariazell	1	Es deafts nit sou kindisch sein.
+ef	20051	Neuhaus	1	Ös derft's net solchi Kindarein treib'n.
+ef	20058	Lassing	1	Ös deafts nit solche Gschichtn mocha!
+ef	20062	Ardning	1	Es derfst nit suichi Dummheiten mochn.
+ef	20065	Weng	1	Eïs deafz nit suichi Kinarein treim.
+ef	20067	Lainbach	1	Ös derfz nit soiche Kindarein treim.
+ef	20069	Gollrad	1	E(i)s deafts nit so(u)ichi Cindereien (hier nicht gebräuchlich) treibn
+ef	20077	Oberort	1	Ihr derft net solchene Kindereien treibn.
+ef	20090	Wext	1	I drüwet nich sük Kinnerien driewen
+ef	20099	Leer	1	J drüörft nich so Kinnersk wiɑ̈rsen (sou dumm Tug driewen).
+ef	20110	Herbern	1	Ih drüwet nig sökke Kin̄erien driewen.
+ef	20117	Ringel	1	Ji drürwet nich sür[?]e Kinderiggen driewen
+ef	20128	Hilter am Teutoburger Wald	1	Ji drüöwet nich sükke Kinneriggen driben.
+ef	20240	Bardel	1	I dört ni sökke kindereien driwen.
+ef	20248	Haddorf	1	I drüö͡äwet nich süöke Kinnereien driwen.
+ef	20259	Hörstel	1	Ih döörft nig söke Kinderihen drifen.
+ef	20269	Westerkappeln	1	Gie drüwet nich süöke Cinnerigge driewen.
+ef	20283	Astrup	1	Ji dröwet nich sücke Kinnerrien drieb'n.
+ef	20346	Frensdorf	1	Ih dürt nich sökke Kinnerei drieven.
+ef	20350	Elbergen	1	I dräᶟvet nich söcke Kinnereien driven.
+ef	20361	Setlage	1	Jh dröwet nich sücke Kinnereien driwen.
+ef	20370	Merzen	1	Je dröwwet nich sücke Kinnerrien driewen.
+ef	20381	Vörden	1	Ji (Gie) drüwet nigg sökke Kinnerien (Kinneriggen) driewen.
+ef	20384	Wielen	1	Ij mögt niet son Kinnerspil maken.
+ef	20446	Hoogstede	1	Y döört nich sökke kinnerye (drieven). (by'n neine hebben.)
+ef	20454	Geeste	1	Ih dräfft nich sükke Kinnere͜ïen driwen.
+ef	20463	Dohren	1	Ih dröwet nich sükke Kinnereen driewen.
+ef	20468	Renslage	1	Jie dröwet nich sücke Kinnareien (Domeleien, Quetkereien) driewen.
+ef	20481	Dinklage	1	Jie dräwet nich sükke Kinnerräien driewen.
+ef	20543	Haren (Ems)	1	Ih dǖrt nig sükke Kinnereïen drīwen.
+ef	20555	Hüven	1	Ih dröäfet nich sücke Kinneree triwen.
+ef	20562	Garen	1	Ih  drö͡äwet nich sücke Kinnerèìen driewen.
+ef	20575	Sevelten	1	Ji drövet nich sücke Kinnere driwen.
+ef	20589	Neudersum	1	I dräöwet nich sücke Kinnerräie driewen
+ef	20596	Neubörger	1	I dürt nich söke Kinnere driewen.
+ef	20599	Neuarenberg	1	Ji drȫhwet nich sükke Kinnerräien driewen.
+ef	20604	Garrel	1	Ji dräwet nich sücke Kinnereÿe driwen.
+ef	20638	Visbek	1	Ji dröft nich sücke Kinnereen driewen.
+ef	2067	Enskemen (-)	1	Ju darfe nich solke Kinderië driwe.
+ef	20710	Wietzendorf	1	Ji dräwt nich saune Kinnerstreich (Kinnereien ist nicht üblich) driewen.
+ef	20734	Colonie Syke	1	Jii drä͜öft nich soone Kinn'rtä͜ög driib'n.
+ef	20753	Magelsen	1	Ji dräft(ö) nich sone Narrentäge(ö) drieben.
+ef	20763	Nordkampen	1	Ji dräft nig soune Kinderee driem.
+ef	20774	Vierde	1	Jih dröft nich saune Kinnerknäy drihm.
+ef	20788	Schmarbeck	1	Jy dröwt nich saune Malseiten maken.
+ef	20798	Brümsen	1	Jie drowt nech sökke Kinnerehe drîebn.
+ef	2081	Eydtkau (Eydtkuhnen)	1	Ju darfe nich solke Kinderiee driewe.
+ef	20891	Dörpel	1	Jie dröbet nich sone Kinnerehen drîeben.
+ef	20901	Maasen	1	Ji dräft nich sone Kinnereen driw'n.
+fg	20917	Drakenburg	1	Ji dräft nich so ne Kinnerien  drieben.
+fg	20920	Unterrodewald	1	Jie dröft nich so͜une Kinnerëien drieben.
+fg	20933	Thören	1	Ji dröft nich sonne Kinnereien driwen.
+fg	20936	Hassel	1	Ji dröft nich saune Kinnereien driewen!
+fg	20946	Scharnhorst	1	Iü dörrft nich saune Kinnerein driem.
+fg	20948	Aschen	1	Ji dräft nich sücke Kinnereen driwen.
+fg	21024	Burlage	1	Ji dröwet nich sücke Kinnere'en driewen.
+fg	21033	Hoysinghausen	1	Ji dräwt nich sone Kinderei driben.
+fg	21045	Brokeloh	1	Jie dräft nich saune Kinnerreien driewen.
+fg	21050	Empede	1	Jie dröwet nich saune Kinnerien drieb'n.
+fg	21065	Gailhof	1	Ji dröft nich saune Kinnerie drieben.
+fg	21074	Adelheidsdorf	1	Ji drüft nich sone Kinnerien drieben.
+fg	21085	Nordburg	1	Ji dröft nich saune Kinnerien trieben.
+fg	211	Rodowo	1	Jhr dörft nich sohne Fayn machn
+fg	21105	Preussisch Ströhen	1	Ihr (ör) dörft nich' so ne Kinderren trieben.
+fg	21190	Brockhausen	1	Jü drüäwet nich ßükte Kinnerstreiche driwen.
+fg	21199	Isenstedt	1	Jieh dröubet nich sükke Kinnerien driben.
+fg	21218	Wietersheim	1	Jie drüwwet nich sone Kinnerreie triem.
+fg	21235	Hülshagen	1	Gie drüwet nich söcke Kinnertente drieben.
+fg	21252	Holtensen	1	Ji dröwet nich sau Kinderien driewen.
+fg	2127	Klein Nuhr (Sukhodol'Ye)	1	Ju dür[f]t nich solke Kenderien driewe.
+fg	21280	List	1	Ji dröwet nich sollke Kinderien driewen.
+fg	21295	Immensen	1	Ji drüwet nich saune Kinnerien driewen.
+fg	21305	Voigtholz-Ahlemissen	1	Ji drewet nicht sänne Kinderie driewen.
+fg	21316	Steinhagen	1	Jēi drürvet nich sökke Kinneriggen drēiben.
+fg	21342	Krentruperhagen	1	Jüi drüwet' nich sükke Kinne_rüggen drüiben
+fg	2135	Skungirren (Pen'Ki)	1	Iu dörwe nich solche Kinderrei driewe.
+fg	21355	Wendlinghausen	1	Jui drüwet nich sökke Kinnerigge druiben.
+fg	21362	Reher	1	Jeu dröwet nich sä̂u Kinnareuen dreumen.
+fg	21384	Harderode	1	Je͡ii drüwet nich sä͡one [tie bar reicht bis Wortende] Kindere͡ïn dre͡ïben.
+fg	21405	Rheden	1	Joi dröwet nich sä u Kinneröe dröeben,
+fg	21429	Nette	1	Je ̆-i dröwwet nich sä ̆-une Kindere ̆-ien dre ̆-iben.
+fg	21446	Steinlah	1	Jĕ-ĭ d[r?]ûwet nich saune Kinnerĕ-ĭen drĕ-ĭwn.
+fg	2145	Kurschen (Kuz'Mino)	1	Ju darfe nich solke Kinderie driwe.
+fg	21455	Gross Schiplage	1	Jui drürwet nich sükke Kinneriggen druiben.
+fg	2161	Kalnen (-)	1	Iu dörfe nich sollke Kinderriee driewe.
+fg	21611	Schweicheln-Bermbeck	1	Gie drübet nich sicke Kinerien driben.
+fg	21632	Veltheim	1	Jie drüwet nich sücke Kinnerei driew'n.
+fg	21666	Rohden	1	Jeï dröwt nich sa Dummheiten mo(a)ken.
+fg	21679	Springe	1	Jẽ dröwt nich sãũ kinderrẽën drẽwen.
+fg	21687	Vardegötzen	1	Ji dröwet nich sau Kinderin driwen.
+fg	21707	Rautenberg	1	Jeï dröwet nich saune Kinnereïen maken.
+fg	2182	Soginten (Svirskoe)	1	Ju darfe nich solke Kinderei driwe.
+fg	21882	Bodenstedt	1	Jai dört nich sonne Kinderaien traiben.
+fg	21902	Rautheim	1	Jü dört nich saune Kinderien drieben.
+fg	21936	Bartensleben	1	Ji dört nich sönne Kinderien drieben.
+fg	2200	Narmeln (Polski)	1	Ju därwen nich sone Kinderie driewe.
+fg	2204	Leysuhnen (Ščukino)	1	Ju dörwe nich solk Kingarie driwe.
+fg	22044	Rottorf	1	Ii dört nich saune Kinderrien driwen.
+fg	22063	Hundisburg	1	Jih dörm'm nich sonne Kinderien drih'm.
+fg	22074	Farsleben	1	Gie dörb'n nich sonne Kindereien drieb'n.
+fg	22083	Reesen	1	Ji dörmn nich sönne Kinderreien driemn
+fg	22092	Paplitz	1	Jie derb'n nich sönne Kindereien driem
+fg	22111	Wasbüttel	1	Ji dörrt nich sünne Kinderie drieben.
+fg	22149	Rätzlingen	1	Ji dört nich sönne Lapalien (Kinderstreichn) drieb'n
+fg	2216	Hermsdorf (Pograničnyj)	1	Ju dörwe nich solke Knidarei driwe.
+fg	22172	Burgstall	1	Jhr dörrb nich sönne Kinneraien driewn.
+fg	22222	Reislingen	1	Iie dört nich saune Kinderie drieben.
+fg	22249	Roxförde	1	Je därm nich soüne Kinnereien treiven.
+fg	2225	Moritten (Oktjabrskoe)	1	Ju bruke nich solk Kindastreiche to moake.
+fg	22264	Grieben	1	Jie därrun nich sönne Kinderein driuhn.
+fg	22276	Zabakuck	1	Ji därrn nich sonne Kinderein driun.
+fg	22375	Westerholz	1	Jü dröft nich sönn' e Kinn'erei'n drieb'n.
+fg	22384	Tülau-Fahrenhorst	1	Je dörft nicht sönne Kinnereen driem.
+fg	22394	Köbbelitz	1	Je derm nich sönne Kinnerein driem.
+fg	22407	Schenkenhorst	1	Je'i dörm nich sön'e Kinnerre'in drim.
+fg	2242	Naunienen	1	Ju dörfe nich solk Kindarie drive.
+fg	22423	Querstedt	1	Je därwen nich sön'n Kinneräen driewen.
+fg	22443	Staffelde	1	Ii derven nich so ön Kinnereien driewen.
+fg	22453	Grosswudicke	1	Jie därrun nich son'ne Kindereien drie'un.
+fg	22574	Masel	1	Jü mä't nig sönne Kinnera͡ien driven.
+fg	22581	Höddelsen	1	Ji dörm nich sön Kinnereen drim.
+fg	22599	Wöpel	1	Jih dörb'n nich sonn Kinnerein driebm.
+fg	22621	Molitz	1	Je dörwen nich sänn Kinnereeien driewen.
+fg	22636	Rönnebeck	1	Jie derf'n nich sönn' Kinnäeräi driewen
+fg	22654	Iden	1	Ji därwen nich so'n Kinnerspöll bedriwen.
+fg	22667	Kuhlhausen	1	Ji därwen nich sönne Kinnerrei driwen
+fg	22685	Proitze	1	Ji dörbn nich ßo'n Kinnereen driebn.
+fg	22773	Holdenstedt	1	Jüh dorft nig sünne Kinneräihen drie'm.
+fg	22796	Wustrow (Wendland)	1	Ji dörb'n nich sön'n Kinnerrien drieb'n.
+fg	22810	Lomitz	1	Ji dörm'n nich sö̈͜ü̆'n Kinnerrë͜ïn driem'n.
+fg	22819	Jeggel	1	Jich da͡erbn nich sonn Kinnerëin drib'n.
+fg	22832	Gross Lüben	1	Jie dähn nich sönn Kindereien driewen.
+fg	22846	Görike	1	Ihr (Jü) dürft (däfn) nich solche (sönn) Kinderein driwen.
+fg	22910	Holthausen	1	Get dörwen ne sonn Ke-inere-ien driewen
+fg	22931	Dahlhausen	1	[J]it dräwet nich sölke Kinnerige driwen.
+fg	22965	Langeloh	1	Jt drü͡öwet nit sölke Kinneriggen drieven.
+fg	22990	Halingen	1	Eÿ drüiwet nitt sian̄ Kinnereÿen dreÿwen.
+fg	22998	Neheim	1	Ji drüewet nit süelke Keineroien droiwen.
+fg	23010	Niederbergheim	1	Uih drüwet nitt sëu Kinneruien druiwen.
+fg	23021	Kapellen	1	Gej dörft nit sönn Blaagerejen te drieven.
+fg	23031	Rheinberg	1	Geh dörft nit son Kindereje driewe!
+fg	23184	Holthausen bei Kirchhellen	1	Gitt dröst nech sökke Kinderreen driven
+fg	23191	Herten	1	Jt dröft nig so Kinnerie driewen.
+fg	23207	Waltrop	1	It döürft nit solke Kinnerigge driewen.
+fg	23218	Kamen	1	Jt dröft nit solke Kinderiggen dreiben [Bogen unter 'ei']. 
+fg	23231	Norddinker	1	Iu drüit nit sänu Kinneruien druib’m. 
+fg	23261	Kessel	1	Geli dörft nitt sön Kinderē driwe
+fg	23271	Kehrum	1	Gej dörft nit so'n Kindereje drive.
+fg	23284	Hamminkeln	1	Ej dörft niet sonne Blagerejen driewen. (Blag = Kind)
+gh	23293	Erle	1	I' dröwet nicht sokke Kinderijen driwen.
+gh	23343	Göttingen	1	Jey drüt nie süke Kinnereyen dreywen.
+gh	2338	Wenslowischken (Voznesenskoye)	1	Ju darfe nich sollke Kindereie drüwe.
+gh	23402	Holtwick	1	Ih dröüft nich sokke Blagerie driewen.
+gh	23412	Seppenrade	1	Jet drüeft nich sokke Kinnerien drieben.
+gh	23419	Davensberg	1	Ji drüft nich söke Kinnerrinn drieben.
+gh	23426	Vorhelm	1	Ji drüft nig sükke Kinnerien driwen
+gh	23435	Stromberg	1	Je drüwet nich so Kinnereen dreeben.
+gh	23453	Stockum bei Coesfeld	1	Ih drüöft nich sökke kine Reeen driven.
+gh	23466	Nottuln	1	Yh dröft nich söcke Kinnerien driem.
+gh	23471	Münster	1	Ji drürft nich söcke Kinderieen driewen.
+gh	23478	Einen	1	Gieh drüft nich sokke Kinnerien drieven.
+gh	23483	Greffen	1	Ji drüöwet nich sücke Kinnerijen driewen
+gh	23494	Speelberg	1	Gej dörft niet soke kinderéje driewe.
+gh	23498	Hemden	1	Ih dröft neeth sone Kindereien drieven.
+gh	23507	Weseke	1	Ih dröft nich sökke Kindereyen driwen.
+gh	23545	Tüddern	1	Ihr dort son Kennerien net duehn. 
+gh	23566	Porselen	1	Ihr darft net so'n Kähngereh driefe.
+gh	23602	Holzweiler	1	Ir dörft net sunn Kengere drive.
+gh	23630	Evinghoven	1	Ir dürft esun Kengereie nett drieve.
+gh	23817	Reusrath	1	Ür dörft nit sune Kengereen drieven.
+gh	23843	(Stolzenberg)	1	Ihr dörft net sonn Kengerei'n driewen.
+gh	23858	Oberklüppelberg	1	Et duren nich so Kingeriggen driven.
+gh	23873	Valbert	1	Iet dürwet sölke Cingeriggen nit drieven.
+gh	23885	Sporke	1	Ie (Ih) droft (oder drowwet) sü͡ilke  Blagerieen nit driewen. (Für droft auch druft)
+gh	23902	Schmallenberg	1	Eï druwwet nit süelke Kingereïen drehiwen.
+gh	23906	Elmpt	1	Öhr dört nēt sonn Kengereien drieven.
+gh	23922	Helenabrunn	1	Er dörft net son Kengerrein drieven.
+gh	23933	Weißenberg	1	Er dörf net oson Kéngerëi dri͜eve.
+gh	2398	Mertensdorf (Tjomkino)	1	Iu darft nich solke Kinderie driwe.
+gh	2409	Trausen (Lipnyaki)	1	Ju di|erwe nich solk Kingarie|e driewe.
+gh	24107	Hubbelrath	1	Ihr dörft nitt sonn Kengereie driwe
+gh	24134	Barmen	1	Get dörwen nitt somm Kengereien driewen.
+gh	24156	Delle	1	Iät drüwet net so͜ne Plaërigge triewen.
+gh	24167	Altena	1	I͡ät druwwet nit se͡u Kinderiggen drēǐwen.
+gh	24180	Stockum	1	I. drüefet nit seo Kinnerrëien drëiven.
+gh	24208	Wall	1	Ihr dörft net sun Weetereien driewen.
+gh	24218	Vennikel	1	Chei dörf nit son Keinderstrehk driewen.
+gh	2426	Groß Pentlack (Kamenka)	1	Ju durft nicht Faxe make
+gh	24336	Berghausen	1	Ehr daerft net solche Kännerei treiwe.
+gh	2436	Kowarren (Zaozernoye)	1	Juh dörwe nich solke Kinderriee driwe.
+gh	24360	Bottendorf	1	Ehr därft nett sulche Kennerreihen treiwen.
+gh	24380	Bergfreiheit	1	Deer derft net sulche Kennereien treiben.
+gh	24412	Roppershain	1	Dä därft so kenge Kenderspäle triewen.
+gh	24431	Konnefeld	1	De derft nit so Kengere͡ien drieben.
+gh	24454	Berneburg	1	De därft net solche Kinnereien triewe.
+gh	24466	Lüderbach	1	De därft nitt sălche Kengeréien driebe
+gh	24490	Züschen	1	Ieh dröwwen nitt sülke Kinderspiele drieben.
+gh	2452	Kleschowen (Kutusowo)	1	Ju darfe nich solke Kindereie driewe.
+gh	24636	Rhadern	1	Jih tröw̄en nitt sau Kingeriggen triewen.
+gh	24659	Buhlen	1	Deh därfe net so Kennerei’n treiwen (e – i)
+gh	2466	Tolkmicko	1	Juh dörwe nich sone Kingerie driwe.
+gh	24677	Metze	1	Dä därfet nett solchä Keinäreien triewen.
+gh	24695	Wattenbach	1	Äh därft nett solche Kennereien triewen.
+gh	24715	Vockerode	1	De därfd nidd soulche Kinnereien driwen.
+gh	24737	Grosstöpfer	1	Deh derft nit solche Kinderien triewe.
+gh	2474	Pierzchaly	1	Ju dörwe nich sohne Kinderi driwe.
+gh	2482	Peterswalde (Piotrowiec)	1	Ju möge nich selg Kingastrike driwe.
+gh	24884	Olsberg	1	Öh drouwet nitt sülke Blagerÿen driewen.
+gh	24901	Sudeck	1	Ji drowwet nit sülke Kingeriggen (nicht gebräuchl.) driewen. (Flusen, Narreriggen, Dummeriggen)
+gh	24917	Braunsen	1	Ji drowwet so kene Peppelerigge driwen.
+gh	24926	Zierenberg	1	Ji drewet net solche Kinneriggen triewen.
+gh	2494	Saruny	1	Ju dörwe nich solk Kindariee driewe.
+gh	24942	Speele	1	De suld kenne Kengerigge driben.
+gh	24959	Hermannrode	1	De derwet nech sau Kindrregen trieben.
+gh	2507	Wojciechy	1	Ju dörwe nich solk Kindarie driewe
+gh	25113	Meiste	1	Jui drüwet nit sükere Blageriggen druiwen.
+gh	25131	Fürstenberg	1	Jy dröwwet nit sücle Kinneryggen drywen.
+gh	25136	Scherfede	1	Jäi drüwet nie sücke Blogeriggen dräiwen.
+gh	25150	Körbecke	1	Je͡-i dröbbet ne͡-i sücke Kingeriggen dre͡iiben.
+gh	25163	Gottstreu	1	Ie dröbet nich solche Kindereien trieben.
+gh	25179	Esebeck	1	Jie dröwet nich sa ne Kinderie drieben.
+gh	25197	Ebergötzen	1	Jie därwet nich sau Kinderie'n driehm.
+gh	25214	Bönninghausen	1	Jiu drüwet nit süke Kinneriggen druiwen.
+gh	25223	Kirchborchen	1	Jeī drüwet net süke Kinnerigge dreīwen.
+gh	25343	Siebenstern	1	Jiä dröwwet ni süke Kinneriggen driäwen.
+gh	25354	Bruchhausen	1	Jäi dröwwet ni sau Kinnerigge draiben.
+gh	25363	Schönhagen	1	Jü dröwet nich sone Kinnerei drewen.
+gh	25373	Oldenrode	1	Jei dröwet nich seau Kinderrein drëiben.
+gh	25391	Marke	1	J(äi) drüwet nich s(eau)ne Kinderr(äi)ha dr(äi)wen.
+gh	25407	Westerwiehe	1	Ji drüöwet nich sökke Kinnerrigge dreïwen.
+gh	25514	Haustenbeck	1	Jü drüwet nich sökke Kinnerrügjen drü(u)n.
+gh	25522	Heesten	1	Jüi drüwet nich söcke Kinnerigge drüiwen.
+gh	25543	Rischenau	1	Jo͡=i drüwet nich sökk Kinneröggen druiwen..
+gh	25560	Lobach	1	Jei dröbet nich sau Kinderai draiwen.
+gh	25579	Wenzen	1	Jäi dröwet nich sä-une Kinderäien dräiben.
+gh	25596	Ackenhausen	1	Jeui dröwet nich seane Kindereuie dreuimen.
+gh	25607	Wolfshagen im Harz	1	Jä͡i drewet nich saune Kinderrä͡i drä͡iwen.
+gh	25798	Kell	1	Dir dörft nit e su en Kinereien treiwe.
+gh	25824	Stromberg	1	Ihr dorft nett solche Kinnereije dreiwe
+gh	25845	Staudt	1	Iha durft net su Kinnareie treiwe
+gh	2586	Jurkiszki	1	Ju darfe nich solche Kinderei driewe.
+gh	25876	Steinbach	1	Ihr daft net solche Kinnereier treiwe.
+gh	25904	Höfen	1	Dir doscht net sonn Köngdereien driefen.
+gh	25914	Gemünd	1	Ihr duscht nett sonn Kengderéiè drieve.
+gh	2602	Maciejowieta	1	Ju darfe nich solke Kinderriee drüwe.
+gh	26141	Iversheim	1	Iäh dusch netr su'n Köngdereie drieve.
+gh	26155	Gelsdorf	1	Ih dusch ned e suen Könderee triefe.
+gh	26178	Ohlenberg	1	Ür dürf' nit e sůen Kändereien triewe
+gh	26205	Seifen	1	Ihr dorft net su Könnerei treiwen.
+hi	26228	Gehlert	1	Ehr derft nitt solche Kennereien treiben.
+hi	26261	Waigandshain	1	Ihr dürft net solche Kennerreie treiwe.
+hi	26283	Sinn	1	Ihr derft net sou Kennereie treibe.
+hi	26312	Venwegen	1	Er döscht neit ä suen Keingderei driefe.
+hi	26324	Üdingen	1	Üh duscht net sonn Köngdereï drive.
+hi	26351	Borr	1	Üe duscht net esuen Köngdereie driefe.
+hi	26578	Roisdorf	1	Tē dusch net suēn Köngdereïe drieve.
+hi	26604	Geistingen	1	Ühr duscht net suen Köngdereien driewen.
+hi	26627	Herchen	1	Ür döhrt net esuen Kongdereien drieven.
+hi	26642	Mittelhof	1	Ihr dorft net solche Kennereien treuwe.
+hi	26664	Wilden	1	Ihr därft nett sue Kennerejje trejwe.
+hi	26683	Straßebersbach	1	Ihr därft net solche Kennereie treiwe.
+hi	26712	Mariagrube	1	Ihr darft net e sonn Kengere|i dri|ewe.
+hi	26734	Niederzier	1	Ie duscht net son[e?] Kengereie drive.
+hi	26753	Horrem	1	Ie döscht nett eson Köngereie driefe.
+hi	2676	Rygarby	1	Ju dörwe nich sölk Kinderie driwe.
+hi	26763	Poll	1	Ör därft nitt e su en Kindereie drieve.
+hi	2691	Kolwiny	1	Ju dürwe nich sülk Kindari driewe.
+hi	27003	Heiligenhaus	1	Ihé dörf nét è su ènn Kénkerej drieven.
+hi	27025	Faulmert	1	Ihr dörft net, so'n Kengereien drieven.
+hi	2703	Srokowo	1	Juh dörwe nich solk Kinderrie'e driewe.
+hi	27038	Hahnseifen	1	Ihr dürft net so Kengereien triewen.
+hi	27064	Müsen	1	Ihr dürft se kä Kingerege triewe.
+hi	27074	Schameder	1	Ehr derft net sulche Kennereie treiwe.
+hi	27106	Dudenhofen	1	Ihr derft sou kah'n Kinnerei treiwe.
+hi	27135	Wenighösbach	1	Iha därft nit soune Kinnarei treibe.
+hi	2715	Stregiel	1	Ju därwe nich sollke Kinderÿe drÿwe.
+hi	27150	Wiesthal	1	Ihr dürft nit solche Kenneeren treibe.
+hi	27163	Massenbuch	1	Ihr dörft nit sotte Kinderei treib.
+hi	27186	Neubessingen	1	Ihr döft kei sota Kinnereia trei.
+hi	27209	Dittelbrunn	1	Ihr dürft ke sou Kinerei trei.
+hi	27223	Vockenhausen	1	Ihr derft nit solche Kennereie treibe.
+hi	27244	Heddernheim	1	Ihr derft net solche Kinnereie treiwe.
+hi	2727	Budziska	1	Juh sulle nich solle Kinder[ii?] drüwe.
+hi	27425	Bruchköbel	1	Ihr derfft nett su Kennereie dreiwe.
+hi	27444	Hailer	1	Ihr därft neït sou Kennereie treiwe.
+hi	2746	Chelchy	1	Ju derwe nich solke Kinderie driewe.
+hi	27461	Oberndorf	1	Ihr däfft ka so e Kennerspiel treibe. (treiwe)
+hi	27469	Rossbach	1	Dir düefft net so ă Kennereie treib.
+hi	27480	Hassenbach	1	Ihr dürft nitt solche Kinnerei trei.
+hi	27501	Poppenlauer	1	Ihr döfft kee suttä Kinereiä trei!
+hi	27507	Cratzenbach	1	Ihr darft nitt su Kinnereia treiwa.
+hi	2762	Wilkowo	1	Jie darwe nich sone Kingerie driewe.
+hi	27692	Friedrichstal	1	Ihr dürft mit sorlche Kirnder so ka Kirnereie treiwe.
+hi	27719	Leidhecken	1	Ihr dirft näit solch Keannerai traiwe.
+hi	27742	Gelnhaar	1	R diarft näit solche Keanarai treiwe.
+hi	27765	Ulmbach	1	Ihr döfft nihet so Kennerei treiwe.
+hi	27775	Eichenried	1	Ihr dürft nett so e Kengerei dreih.
+hi	27792	Wildflecken	1	Dir düefft kéi so Kennerei trei
+hi	27807	Bastheim	1	Ihr dörft nit so Kenerei trei.
+hi	2781	Karwiny	1	Oehr dörft nich söttche Kingerrein treibe.
+hi	27821	Philippstein	1	Ihr derft nit solche Kinnerreien treiwe.
+hi	27835	Dornholzhausen	1	Ihr düfft so ka Kennerei treiwe.
+hi	2800	Krzykaly	1	Öa dörft nich sölch Kingastreiche traiwe
+hi	28010	Nonnenroth	1	Ä derft nait sou Kinnerei treiwe.
+hi	28027	Götzen	1	Ihr derft nit solche Keannereie treiwe.
+hi	28045	Altenschlirf	1	Ihr däfft nett so Kennerei träiwe
+hi	28063	Fulda	1	Ihr deft net so Kengereie trie.
+hi	28080	Rupsroth	1	Eu döfft net so Kangere trie.
+hi	28107	Gerthausen	1	Ue dörft niet solche Kinnere-i tre-i.
+hi	2817	Mawry	1	Öa dörft nich sölg Kingeraie traiwe. (das R lässt man nachschnarren.)
+hi	282	Zolna	1	Ji derwe ni son Kingerij driwe.
+hi	2827	Sarnowo	1	Eha dürft nich solche Kingarei treibe.
+hi	28278	Krumbach	1	A deaft so kah Keanerei treiwn.
+hi	28298	Londorf	1	r di(r)ft so ke (ns) Keannereie dreiwe
+hi	28315	Otterbach	1	Ihr derft nitt so Kennerei treiwa.
+hi	28330	Schwarz	1	Ehr defft so keh Kengereie triebe. (triewe.)
+hi	28346	Grossenmoor	1	Äi de(r)ft net so Kengeräi dri.
+hi	28358	Rasdorf	1	Eÿ düäft nätt so Kengereÿä trie.
+hi	28369	Wiesenthal	1	Eu däfft nett so Kennereei trie.
+hi	28392	Herzhausen	1	Ihr dirft nitt so Kennerai traiwe.
+hi	2846	Ledlawki	1	Jie derwe nich sölg (g = weich) Kingere driewe.
+hi	285	Kosobudy	1	Ir derf nicht solche Kinderie bedrüwe.
+hi	28568	Betziesdorf	1	Ähr defft nett so Kännerei traᶟiwwe.
+hi	28589	Neustadt (Hessen)	1	Ähr derft nett su kee Kennereien treibe.
+hi	28605	Neukirchen	1	Ehr derft net so͡ulche Kengereie träiwe.
+hi	28623	Gittersdorf	1	Äh därft net solche Kengereie drie.
+hi	28640	Herfa	1	Ei däft nett solche Kenggerei trie.
+hi	28651	Frauensee	1	Ei därft net solche Kengereien trieh.
+hi	289	Königswiese (Leśna Huta)	1	Ji dawe nich sun Tjinärij driwe.
+hi	2900	Borawskie	1	Ju darfe nich solke Kinderriee driewe.
+hi	2906	Zabrowo	1	Ji bruke nich son Kingerig driwe.
+hi	291	Lubichowo	1	Jü därwa nich sohn Chingerigä driewä.
+hi	2916	Stanowo	1	Ehr derft nich sône Kinderrei treibe.
+hi	2923	Fijewo	1	Ehr därft nich solche Kinderei treibn.
+hi	2935	Groß Koschlau	1	Jhr derft nich soone Kindereie treibe
+hi	2955	Liksajny	1	Oehr dörft nich solche Kindereie treibe.
+hi	2962	Molza	1	Er derrft nich soone Kingereien mache.
+hi	2970	Warkaly	1	Ea derft nich sölg Kingerei treiwe.
+hi	2996	Bucznik	1	Ehr dörft nich sone Kindereie treibe.
+hi	300	Montauerweide	1	Ji dehrve nich sohne Kingeri driwe.
+hi	300660	Sankt Roman	1	Sei net so lappert-dappert.
+hi	300798	Reikersdorf	1	Ös deafts net á so kindisch sei (umamaodln).
+hi	301042	Rigaus	1	Ös deafts nit so kindisch sei!
+hi	3058	Zyndaki	1	Ju derwn nich soen Ki[n?]derie driwe.
+hi	3069	Rychliki	1	Öhr dürft nich solche Kingereie treibe
+hi	3083	Chojnik	1	Oer dorft so'ne Kingerei treibe.
+hi	3093	Ksiaznik	1	Eh ē dērft nich sone Kingerei treibn
+hi	3111	Glotowo	1	Öa dörft nich sölch Kingerei treiwe.
+hi	312	Ryman	1	Ji döwa nich son Kinnerig driwa.
+ij	3122	Derc	1	Ea därft nich setch Kingarei traiwe.
+ij	31677	Battweiler	1	Ehr derft nett solche Kinnereie drei[w]e.
+ij	31695	Heltersberg	1	Ehr derffe net so Kinnereie dreiwe;
+ij	31700	Ramberg	1	Ehr därfen net sou Kinnereie treiwe.
+ij	31719	Geinsheim	1	Ehr derfen net solche Kinnereien treibe.
+ij	31737	Diedenhofen	1	D'r derft net sobhe Kennereien dreiwen.
+ij	31765	Laumesfeld	1	D'r derft nett eson Kennereien dreiwen.
+ij	31789	Beckingen	1	Derr därfen kän so Kinnereien treiwen.
+ij	31800	Calmesweiler	1	D'r därfen kän so Kennereien treiwen.
+ij	31824	Steinbach bei Ottweiler	1	Ehr därfe nett solche Kinnerreie mache.
+ij	32019	Dietschweiler	1	Ihr derft nicht solche Kindereien treiben.
+ij	32040	Siegelbach	1	Ehr derft net so Kinnereie dreiwe.
+ij	32053	Alsenborn	1	Ehr derfen net solche Kinnerreie dreibe.
+ij	32067	Erpolzheim	1	Ehr derfen net so Kinnerreie treiwe.
+ij	32085	Kreuzweiler	1	D'r dörft kön soun Kanareien treiven.
+ij	32102	Greimerath	1	Der derft net e suen Keannerdenger dreiwen.
+ij	32119	Oberlöstern	1	Dir derft net solch Kenereien treiwen.
+ij	324	Podwilcze	1	Ji döwwe nich soon Kienesträk driwe.
+ij	3254	Jurkowo	1	Guh derwe nicht solke Kinggerie driewe.
+ij	3267	Pozarki	1	Ju derwe nich solke Kindrie driwe.
+ij	3272	Gawliki Wielkie	1	Ju darwe nich solke Kinderie driewe.
+ij	3280	Swietajno	1	Ju dörft nich solche Kinderie driwe.
+ij	32855	Altviller	1	Ner darfen nit[t?] so Kä̆neréien driewen.
+ij	32883	Woustviller	1	[B?]r dērft net sōhene Kennerēie trīeve[n].
+ij	3301	Barschken	1	Ju dörwe mich solke Kindariee driewe.
+ij	33035	Rimling	1	I̩'r di̩rfe kenn é so Kinnéreíé triewé.
+ij	3304	Dawillen	1	Ju dörwe nich sone Kinderÿe drÿwe.
+ij	33055	Roppeviller	1	Ihr dirfe kenn so Kinereie triwe.
+ij	33064	Dahn	1	Éhr dérfèn nit sosèr Kinnèreiè treiwè.
+ij	3309	Dittauen	1	Iu dörft nich solke Kindereie driewe.
+ij	33102	Gleiszellen	1	Ehr derfen ke Kinnerei[e?] sau treive.
+ij	33111	Herxheimweyher	1	Ehr derfe kä̃n sou Kinnereie dreiwe.
+ij	33126	Guinkirchen	1	D'ihr dahrf'n kähn so Kinnerwehen triewen.
+ij	33146	Überherrn	1	Die darfn kän so Kinnereien treivn.
+ij	33159	Malstatt	1	Ihr derft nett so Kennerei treiwen.
+ij	3318	Deegeln	1	Ju dörft (sullt) nich sone Kinderi driwe.
+ij	33185	Niederwürzbach	1	Ihr derft kenn solche Kinnereien treiwe.
+ij	33331	Steinbuch	1	Ihr derft net solche Kinnere treiwe.
+ij	33346	Breitendiel	1	Ihr därft net sotta Kinereia treiba.
+ij	33364	Hundheim	1	Ihr därft ka so̰ṵ Kinnerreie dreiwe.
+ij	33381	Steinbach	1	Ihr därft ke sotti Kinnei treib.
+ij	33400	Eibelstadt	1	Iar döarft nit so di Kinnerai traib.
+ij	3342	Pillkoppen	1	Ju bruke nich sollke Kinderie driewe.
+ij	33420	Rödelsee	1	Jhr dörft kei solche Kinderei treib.
+ij	3343	Karkeln	1	Ju dörwe nich sone Kinderie e driewe.
+ij	3345	Dünen (Ackmenischken)	1	Iu dörwe nicht solke Könderie driewe.
+ij	3351	Pleine	1	Ju dörrwe solke Kinderiee nich driewe.
+ij	33605	Erfelden	1	Ihr dörft nedd solche Kinnereie dreiwe
+ij	33614	Traisa	1	Ia dürft net so Kinereie treiwe.
+ij	3362	Cullmen-Kulken	1	Juh dörwe nich sunne Kinderi drihwe.
+ij	33631	Heubach	1	Ehr yerft kan sau (sou) Kinn'rsache mache.
+ij	3364	Rositten (Rybachiy)	1	Juh dürfe nich solke Kinderie driewe.
+ij	33648	Hofstetten	1	Ihr derft nett sou Kinnerei treibe.
+ij	33660	Bischbrunn	1	Dr dō̈rft ka so Kin̄erreie treiba.
+ij	33677	Birkenfeld	1	Ihr döfft ke sotti Kinnereie treib.
+ij	33692	Rupprechtshausen	1	Ihr dürft ke sotta Kinnerei traïb.
+ij	33711	Gaibach	1	Ihr dörft kè sotta Kinnerei treib!
+ij	33725	Rüsselsheim	1	Eer derft nett solche Kinnereie dreiwe.
+ij	33741	Langen (Hessen)	1	Ihr  derft so koan Kinnereie treiwe.
+ij	33849	Altlussheim	1	Ihr dürft net so Kin̄ereiḛ treiwḛn.
+ij	33860	Schatthausen	1	Dă därfd ned soudicha Kinnereiä treiwä.
+ij	3387	Sassenhöhe (Augsgirren)	1	Juh dörwe nich sohne Kinderiee driewe.
+ij	34001	Daudenzell	1	Dir derft net sŏ Kinnereie treiwe.
+ij	34015	Billigheim	1	Ihr derft nicht solche Kin̄ereie dreiwe
+ij	34025	Oberkessach	1	Ihr däft kane solche kindische Sache mache.
+ij	34044	Ailringen	1	Ihr derft ka so Kinderei treibe
+ij	34058	Lichtel	1	Ihr dèfft nit sou Kindisch san̄a̰.
+ij	34065	Windelsbach	1	Ihr däfft nit setti Kindereia treiba.
+ij	34076	Ludwigshafen am Rhein	1	Ehr därft kḛ̀n so Kinnereiĕ măchĕ. (dreiwe.)
+ij	34096	Ursenbach	1	Èr dèrft nét sou Kinnareien dreiwè.
+ij	34216	Gammelsbach	1	Dir diaft nett solche Kinerei treiwe.
+ij	34228	Rumpfen	1	Ihr därft net solche Kindereien treiben.
+ij	34235	Gerichtstetten	1	Ihr därft net solche Kinnerei treiben.
+ij	3424	Beierstedt	1	Gih dȫrt nich sau 'ne Kinderi'e drīben.
+ij	34247	Königshofen	1	Ihr däfft ka sotti Kinäreiä treiwe.
+ij	34266	Aufstetten	1	Ihr dürft nit solche Kindareia troiba.
+ij	34288	Weigenheim	1	Ihr därft nit setti Kinnerei treiba.
+ij	34305	Bobstadt	1	Ehr derft sou kan Kinnereie treibe.
+ij	34321	Mittershausen	1	Ihr derft nit sou Aanfelligkeite dreive.
+ij	344	Modrolas	1	Jü dörwa nich son Kinasträk driewa.
+ij	34447	Berghausen	1	Sō Kinnereia derfat' dar nĕ́t treiwa.
+ij	34503	Winzerhausen	1	Sotte Cindereia därfet 'r net treiba.
+ij	34522	Liemersbach	1	Ihr därfet net sotte Kendereia̰ treiba̰.
+ij	34535	Eutendorf	1	Ihr därfet net sodde Kenda̰reia̰ treiba̰.
+ij	34545	Honhardt	1	Ihr derft nit sotti Kindereien dreiwa.
+ij	34557	Segringen	1	Ihr därft net sette Dummheite treibe.
+ij	34566	Graben	1	Ihr därft nédd so Kinderreiăa̰ dreibă̰n.
+ij	34707	Odenheim	1	Ihr därft net so Kinnereia draibe.
+ij	34734	Massenbachhausen	1	Dihr därfet kai so Kinderaiə traiwə.
+ij	34750	Binswangen	1	Ihr dérft nit sotti Kindereia̰ treiba̰.
+ij	34773	Öhringen	1	Ihr därft kă̰ soddé Kindĕrēiă̰ treiwă̰.
+ij	34791	Döttingen	1	Ihr däfft nét sötte Kinderaie treiwe(a).
+ij	34802	Gaggstatt	1	Ihr därfd kè sétti Kindèraiè traibè.
+ij	34818	Dorfgütingen	1	Jhr defft nit sette Kindereia treiba.
+ij	34838	Röckingen	1	Dir därft ko sötta Kindereia treiba.
+ij	34855	Windsfeld	1	Ihr defft nit so Kinderei treibn
+ij	34872	Ettenstatt	1	Ihr dörfts nit sĕ́tte Kindereia treim.
+ij	35003	Untermässing	1	Ihr derft net solche Kindereien treim!
+ij	35011	Gimpertshausen	1	Ihr dürft nieht so Kindereien treiben.
+ij	35026	Beratzhausen	1	Ex derfz niat secha Kindareien treim.
+jk	35035	Eitlbrunn	1	Ey derfts net solche Kindereien treibn.
+jk	35046	Altenthann	1	Ihr dröft ni't solche Kindereien treiben.
+jk	35055	Rauenzell	1	Ihr därft nit soliche Kindereien treiba.
+jk	35067	Ismannsdorf	1	Jhr ërft ka solche Kindereia treibn.
+jk	351	Smecino	1	Ji dörwä̆ nich son Kīnĕrijĕ driwä̆.
+jk	3516	Bornum	1	Jü dröwet nich saun Kinderien driwen.
+jk	35165	Büchenbach	1	Ihr defft net sechi Kinnereien treibn.
+jk	35168	Seligenporten	1	Enk därfts niat sechene Kinereien treib'n.
+jk	35188	Günching	1	Eng derfz niad sechta Kindareien treim.
+jk	35195	Adertshausen	1	Es deafsts niat setane Kindereien treim.
+jk	35204	Wiefelsdorf	1	Jhr döaft nöt solche Kindereien treibm.
+jk	35211	Bodenwöhr	1	Dez derfts köi sḛcha Kindareien treim.
+jk	35223	Flachslanden	1	Ihr dürft ka setta Kindereia treibn.
+jk	35236	Grosshabersdorf	1	Jhr dafft nit setta Kinnereia treim.
+jk	35254	Birnthon	1	Ihr dèrft ka seda Kinnereia treim.
+jk	35339	Röthenbach	1	Ihr deft nit setti Kindereia treibn
+jk	35377	Alfeld	1	Enk däafts niat secha Kinareian treim
+jk	35382	Ammerthal	1	Ihr därfts koane sölchene Kindereien treim.
+jk	35393	Trisching	1	Seits nöt so kindisch.
+jk	35517	Unternesselbach	1	Ihr defft ka setta Kinnerei treib'n.
+jk	35524	Oberreichenbach	1	Ihé döft nit sétta Kinnereia treibn.
+jk	35544	Buckenhof	1	Ihr derft nit solcha Kinderei treiba.
+jk	35562	Kirchröttenbach	1	Ihr dè̆rft ka̰ su-a Gäglerei treim.
+jk	35571	Hartenstein	1	Enx därfts nit secha Kindereien treibm.
+jk	35577	Schlicht	1	Enk därfts nit sechta Kinereien treim.
+jk	3558	Beckendorf	1	Ji dö'rt nich saune Kinderien drieben.
+jk	35585	Kohlberg	1	Enk därfts niat sechta Kindareien treibm.
+jk	35597	Oberlind	1	Döz de͡arfz ni͡öt so Spielereien treibm.
+jk	356	Porst	1	Gä̊i dǟwa nī son Kineriga drå͡iwa.
+jk	35710	Haag	1	Ihr derfd nid seda Kinnereia dreim.
+jk	3572	Domersleben	1	Jih derm'n nich senne Kinderriĕn drieben.
+jk	35729	Mühlhausen	1	Ihr derft nit solche Kinderein treibm.
+jk	35755	Pautzfeld	1	Jhé däft ka söta Kinnérei treim.
+jk	35762	Moggast	1	Jhr dörft ka soa Kinnerei treim.
+jk	35778	Pegnitz	1	Jhr därft ka secha Kindereien treibn.
+jk	35791	Speinshart	1	Jhr därft net solcha Kindareien treim.
+jk	35799	Friedersreuth	1	Diaz däafts koin̰ sua Kindereien treib'n.
+jk	35807	Plössberg	1	Düads däafts kai secha Kinareien treibn.
+jk	35824	Geusfeld	1	Ihr därft nitt sötta Kinnereia treib.
+jk	35843	Tütschengereuth	1	Ihr dè(r)ft net sotta Kindereien treim.
+jk	35857	Litzendorf	1	Iha derft net setta Kinarei treim!
+jk	3592	Prester	1	Jie dorm nich sonne Kinnerien drihm.
+jk	36007	Hollfeld	1	Sua Kinerei däaft a net treim.
+jk	36017	Donndorf	1	Ih däft net sulche Kinnereien treibn.
+jk	36039	Kirchenpingarten	1	Engs deafts net seda Kinereien treim.
+jk	36049	Hohenhard	1	Engs derfts niöd soua Kindareian trei[b?]m.
+jk	36056	Leonberg	1	Diàts derfts niad sua Kinareiàn treim.
+jk	36065	Hohrodberg	1	Er derfe ke so Kinderdings triewe.
+jk	36084	Colmar	1	Er dèrfe net so Kenderréie triewe.
+jk	3609	Dalchau	1	Ji darm nich sonne Kindereien triem.
+jk	3614	Schweinitz	1	Jie darben nich sonne Kindereien drieben.
+jk	36159	Meistratzheim	1	ărr derrfe kenn e su Kèndereije driwe.
+jk	36178	Müllen	1	Ihr dä̆rfè̆ nĭt sö Kinderé͡iè̆ trībè̆.
+jk	36202	Kniebis (Kr.Freudenstadt)	1	Er (y) dérfet kāene so Kéndereiḛ̆ treibḛ̆.
+jk	3626	Nennhausen	1	Ji däärben nich sönne Kinnerei triewen.
+jk	36272	Ödsbach	1	Ir dörfe nit so Kindereie tribe.
+jk	36277	Turquestein-Blancrupt	1	Er derwe ken so Kinderdings machen.
+jk	36282	Wangenbourg	1	Ihr derfen ken so Kinderdings machen.
+jk	36309	Furdenheim	1	Éhr derfe ken su Kindléïen drieve
+jk	36334	Ruprechtsau	1	So Kindereie dèrfe n ĕr nĕtt trīewe.
+jk	3634	Berge	1	Ji där'n nich sönne Kindereien driewen.
+jk	36348	Achern	1	Dr därft net (nit) so Kindereia treiba.
+jk	36362	Saarburg	1	Ihr därfe känn so Kinderdings triwe.
+jk	3639	Pausin	1	Gei därfen nich sonne Kinggereien drieven.
+jk	36489	Bois De Chêne	1	Ihr derfen nit sunichi Kinderēē triewe.
+jk	3649	Hermsdorf	1	Ihr derft nich sone Kindereien trieben.
+jk	36525	Wilshausen	1	Ehr derft nèt solche Kendereije triebe.
+jk	36552	Marienthal	1	Éhr därfe kèn so Kénderräje driewe
+jk	36567	Fort-Louis	1	Ihr derfé nit solchi Kind'rèjé triewé.
+jk	36594	Bad Rotenfels	1	Ihr derft kei so Kinderie triebe.
+jk	366	Przeradz	1	Gie dawe ni sun Kinerig driwe.
+jk	3664	Birkholz	1	Ihr derft nicht solche Kinderei triewen.
+jk	36737	Altwiller	1	Ihr dierfe känn so Kinderdings triewe.
+jk	36755	Weislingen	1	r därfe ken so Kinderdings triewe.
+jk	3677	Gielsdorf	1	Jih därn nie sone Kingerreihen driewen.
+jk	36772	Lichtenberg	1	Ehr därfă ned sonigi Kengeréïa driwă.
+jk	36789	Goersdorf	1	Ihr derfe ken so Kinderdings triewe.
+jk	36823	Siegen	1	Ihr darfè nit so Kinderreijè treiwè.
+jk	36842	Neuburgweier	1	Ihr derft nicht solche Kinnereie treibe.
+jk	3688	Ringenwalde	1	Ji derf'n nich sone Kingereen driwen.
+jk	36880	Bischoffingen	1	Ihr döorfä keini so Kindeareiä driebä.
+jk	36898	Maleck	1	Ihr derfe nit sanig=e Chindereie triebe.
+jk	36911	Yach	1	Ihr déffa nit so Kindaréia triwa.
+jk	36933	Orschwiller	1	Ehr därfe Kä so Dummheite triwe.
+jk	37007	Bindernheim	1	Ar därfa kĕ so Génglarèia trīwa. (Nârrhaida. - Kindereien ist nicht gebrauchlich.)
+jk	37025	Schmieheim	1	Ihr dörfa nit a so (Bogen unter 'o') Kindereia triba.
+jk	3703	Lehmannshöfel	1	Jie dern nich sone Kingerrieen driewen.
+jk	37035	Bollenbach	1	Jhr dürfa nit so Kindereia triba.
+jk	37058	Le Hohwald	1	Ar dérfa ké sonigi Narheita triwa.
+jk	3711	Warnick (Warniki)	1	Ji derren nich sone Kingerien driwen.
+jk	37119	Buchenberg	1	Ihr därft net so när̄sch do̰a̰.
+jk	37138	Rottweil	1	Ihar dürfat nit soigi Kindereia treiba.
+jk	37153	Obernheim	1	Dr diafat it so Kendereia treiba.
+jk	3722	Zaszczytowo	1	Jie derfen nich sohne Kindereien treiben.
+jk	37302	Winterlingen	1	I͜ehr derfet net so Kendreia treiba.
+jk	37314	Dürrenwaldstetten	1	Ihar deafat it so Kindereia treiba.
+jk	37333	Hausen am Bussen	1	Ihr dḛafet kḛine solche Kindereia treiba.
+jk	37354	Baustetten	1	Ihr däffet koine settege Kindereia treiba.
+jk	37369	Illertissen	1	Ihr derfat it sätige Kendereia treiba.
+jk	37388	Schenkenzell	1	r därfe kaini so Kindereie treiwe.
+kl	37401	Aistaig	1	Ihar derfet net so Kendereia treiba̰.
+kl	3744	Rudnica	1	Jie derfen nich so ne Kingereien treiwen.
+kl	37555	Stetten bei Haigerloch	1	Ihr däffet koane so Kindereien treiba.
+kl	37571	Salmendingen	1	Iar dearfat koine so Kindareia dreiba.
+kl	37581	Bernloch	1	Ir därfet kojne sotte Kinda̰reia̰ macha̰.
+kl	37598	Gundershofen	1	Ihr dörfet koine solche Kendereia mache.
+kl	37607	Eggingen	1	Iar dḛ̀ffat it sèttige Kindḛreia treiba.
+kl	37622	Holzheim	1	Ihr deffat net söttage Kindereia treiba.
+kl	37658	Oberwaldach	1	Ihr dürfet ned so Kindereiḛ treiba̰.
+kl	37802	Bondorf	1	Ihr därfet net so Kindereia̰ treiba̰.
+kl	37825	Lustnau	1	Er dèrfet koane so Kindereia treiba.
+kl	37855	Dettingen an der Erms	1	Ihr däffet koine so Kéndereia treiba.
+kl	37862	Donnstetten	1	Ih(a)r däffat et soddige Kendereia treiba.
+kl	37869	Radelstetten	1	Ihr däffet net sotege Kindereien treibe.
+kl	37883	Ballendorf	1	Iår däffet ett sodde Kendåreiå treibå.
+kl	37900	Obermedlingen	1	Ihãr därfãt kõine sotté Kinderaiã treibã.
+kl	37902	Raumünzach	1	Ir derfe keine so Kindereie treibe (triebe).
+kl	37947	Schönaich	1	A̰r(r) därfă̰t et so Kindă̰reiă̰ treibă̰.
+kl	38044	Hünerberg	1	Iar durfet net sodde Kendereia treiba.
+kl	38056	Gechingen	1	Ihr därfet koan Kindereie treibe. (net sotte)
+kl	38095	Denkendorf	1	Ihèr därfet et sottige Kindereien̰ treiba̰.
+kl	38116	Albershausen	1	Ihr därfet et sodde Kindereia Dreiba.
+kl	38136	Winzingen	1	Ihr därfet koine sotte Kindèreia̰ treiba̰.
+kl	38146	Zang	1	Sotte Kendereia derfet er net tribă.
+kl	38155	Auernheim	1	U͜ir däffèt ét sodde Viecha̰reia̰ macha̰.
+kl	38169	Dennach	1	Da̰r därft nĕt so Kenda̰reia̰ treiwa̰.
+kl	38182	Tiefenbronn	1	Ihr derfet nett so Kindereie treiwe.
+kl	38348	Schöckingen	1	Er derfet koane so Kindereia treiba.
+kl	38373	Hegnach	1	Er dürfet et so Kenderei treiba.
+kl	38407	Steinenberg	1	Da̰r därfet ko̰a sotte Kindereia̰ treiba̰.
+kl	38422	Ruppertshofen	1	R derfet net so Kendereia treiba̰.
+kl	38437	Fachsenfeld	1	Ihr dèrfet net sotte Kendereia̰ treiba̰.
+kl	38448	Baldern	1	Ihr däffet net solche Kindereien treiba.
+kl	38482	Kleinvillars	1	Iar därfad nedd so Kin̄areia dreiwa.
+kl	38502	Hohenhaslach	1	Ihr därfet net solche Kindereien treina.
+kl	38623	Nendingen	1	Er därfa̰t ko̰n̄ä̰ so Kindḛreia̰ treiba̰.
+kl	38640	Rohrdorf	1	Ihr dèrfet ko̰ini so Kindereie treibe.
+kl	38655	Völlkofen	1	Ihr dèrfet et solche Kindereia treiba!
+kl	38666	Reichenbach	1	(I)ər dérfət it so Kindəreiə treibə.
+kl	38682	Mittelbuch	1	Ihr deaffet kõine settige Kindereien treibɑ.
+kl	38695	Unteropfingen	1	Ihr deafet koine söttige Kindlereia treiba.
+kl	3871	Dreetz	1	Ji derw'n nich sönne Kindereien driewen.
+kl	38720	Kicklingen	1	Ihr derft net solle Kindereurn treuba.
+kl	38738	Westendorf	1	Ihar därfa̰t nit sottḭ Kindéreia̰ treiba̰.
+kl	38764	Waidhofen	1	És dèrfts koané soichan Kindàrein dreim.
+kl	38774	Eschelbach an der Ilm	1	Ös därfts net soiche Kinderein treibn.
+kl	3880	Brunne	1	Jaei daerw'n nich sönne Kindereien drieew'n.
+kl	38863	Pöttmes	1	Ihr derft et soicha Kindereien treim.
+kl	3887	Sommerfeld	1	Jei därm nich sönne Kinderrei driwen.
+kl	38899	Hebrontshausen	1	Es därft's nöt sechene Kindereien treibn.
+kl	38912	Oberglaim	1	Ös därffts nöt solche Kindereien treibn!
+kl	38935	Fronhofen	1	Uir därfa̰t koi solche Kendereia̰ treiba̰
+kl	3896	Malz	1	Jie derben nich sone Kindereien moaken.
+kl	38963	Stepperg	1	Es derfts koa sette Kindereia treib[n?].
+kl	3901	Stolzenhagen	1	Ji derben nîch sönne Kîngereîen drîwen.
+kl	3906	Prenden	1	Ji derfen nich sonne Kingerein triewan.
+kl	39062	Hafenreut	1	Ihr dürft nit sölle Kindereie treiba!
+kl	39089	Gerolfing	1	Eus derf'z nöt sötenn Kindereinn treib'n.
+kl	39103	Irsching	1	Os döafts nöt so Kindreien treibn.
+kl	39116	Siegenburg	1	Ös dearfts nöt sechanö Kindereian treibm.
+kl	39126	Semerskirchen	1	Ös derfts nöt solche Kindereien treibm.
+kl	39140	Hofkirchen	1	Ihr derftz nöt soichanö Kindereian dreibm.
+kl	39160	Dürrenzimmern	1	Uir deffa net so kendisch sḛi.
+kl	39179	Gundelsheim	1	Ihr därft ko sodi Kindereia treibn.
+kl	3919	Trampe	1	Ihr dörft nicht sonne Kindereien trieben.
+kl	39201	Walting	1	Es dèrfts koine seltern Kindereiern treim.
+kl	39293	Bieswang	1	Ihr därft net setti Kindereia treibn.
+kl	3931	Neureetz	1	Jie derwen nich sone Kingereien driewen.
+kl	39317	Pondorf	1	Dez däfz no͜it söller Dum̄heitn treim.
+kl	39329	Neukelheim	1	Ös derfst nöt sechena Kindereien treim.
+kl	39342	Peising	1	Ös deafz nöt sechana Kindereien treibn.
+kl	39356	Arlesried	1	Ir deafet it so Kendereia treiba.
+kl	39370	Türkheim	1	Ihr derfat koine söttage Kindreia treiba.
+kl	39398	Gauting	1	Ös derfts id soichane Kindarein treim.
+kl	3944	Kurzycko	1	Ji derwen nich sone Kingerien driewen.
+kl	39459	Kaufering	1	Es dürfts öt so kindische Sacha macha.
+kl	39475	Eching am Ammersee	1	Ös dürft's nit solchi Kindareia treiba.
+kl	3949	Grzymiradz	1	Ji derft nich sone Kingerien driewen.
+kl	39494	Perlach	1	Ihr derft nit sölchi Kinderein treibn.
+kl	39503	Zorneding	1	Es derfts net sēchani Kinderein treibn.
+kl	39509	Albaching	1	Ihr därft nöt allö Kindereien treim.
+kl	39515	Sankt Leonhard	1	Ös derfts net setlane Kindarein treim.
+kl	39517	Niederraunau	1	Ihr derfĕt ko̰inĕ söllă̰ Kinda̰reia dreibă̰.
+kl	39529	Walkertshofen	1	Ihr derfăt nit solche Kindereua treuba.
+kl	39546	Oberottmarshausen	1	Solle Kindereien därfant ihr nim̄a treiba.
+kl	3957	Lubiszyn	1	Jie därben nich sone Kindereien driewen.
+kl	39647	Mittelstetten	1	Ös dürfts kua̰ne sölle Kinderei'n treib'n.
+kl	3965	Heinersdorf	1	Jei darwen nich sone Kindereien dreiwen.
+kl	39662	Bergkirchen	1	Ös därfts it soiche Kinderei treibn.
+kl	39667	Unterschleissheim	1	Es dürft's net solche Dumheit'n treibn.
+kl	39673	Moosinning	1	Ös därfst nöt solche Kindereien (Dum̄heiten) treibn.
+kl	39687	Oberdorfen	1	Ös derfz nöt söchanö Kinderein treim.
+kl	39693	Wettenhausen	1	Iar defat net sole Kindereia treiba.
+kl	39710	Zusmarshausen	1	Ihr därfent nit solle Kindereia treiba.
+kl	39723	Täfertingen	1	Jhr derft koine sölle Kindereia dribe!
+kl	39742	Gallenbach	1	Es derftsch keine solige Kindereien dreim.
+kl	39865	Hilgertshausen	1	Es derfts koani sölle Kindereien treibn m
+kl	39880	Allershausen	1	Ös dearfts nöt sölnö Kinderei'n treib'n.
+kl	39891	Rast	1	Es derfst net so Kindereien dreim.
+kl	39901	Vilsheim	1	Öß dèrfz nöt söchanö̰ Kindareia̰n dreim.
+lm	39954	Sattelbogen	1	Ös däafts koan [große Tilde unter „an“] sella Kindareian treim.
+lm	39962	Krailing	1	Ös derfz nöd söchönö Kindereien trei’m.
+lm	39968	Oberried	1	Ös diafts nöt söchane Kindaräien träm.
+lm	40000	Pertolzhofen	1	Déz därfz nird sechane Kindereien treibn.
+lm	40012	Tiefenbach	1	Treibts niad so Kindaräen.
+lm	40047	Pemfling	1	Es deafts net sechana Sachan träbm, doi han z kindisch.
+lm	40057	Arnschwang	1	Ös därft's nöt sȫchā Kindārǟen̄ trǟ m!
+lm	40112	Wald an der Alz	1	Ös derfts koa söcha Kindrein treim.
+lm	40137	Ranoldsberg	1	Es derft's net solchane Kindarein treib'n.
+lm	40145	Erharting	1	Ös döā̈(r)fz nöt so kindösch sḛi.
+lm	40155	Gumpersdorf	1	Ös derfts nöt söchanö Kindereien treim.
+lm	40191	Vilsbiburg	1	Ös deafz koani soichán Kindáreián treibn.
+lm	40202	Gangkofen	1	Ös derfts nöt söchanö Kindereian treim.
+lm	40212	Neuhofen	1	Ös deáfz nöd sȫchanȫ Kindareian treim.
+lm	40220	Bad Birnbach	1	Ös derfts nöt söchas dum̄s Zeig treim.
+lm	40231	Ruhstorf an der Rott	1	Ös derfts nöt so Kindereian treibn.
+lm	40274	Wörth an der Isar	1	Ös däefts nöd söchanö Kindareian treim (mocha).
+lm	40286	Griesbach	1	Ös derfz nöt solche Kindereien treiben.
+lm	40297	Indersbach	1	Ös de(r)fts koa͜i söcha Kindareian trei(b)m.
+lm	40308	Walchsing	1	Es dörfts nöt solchene Kindereien treibn.
+lm	40320	Kirchberg	1	Ös deafz koane secha Kindereien treim.
+lm	40331	Haag	1	Ös derfz kui södda Dummheit(e)n treibn. (treim)
+lm	40402	Hankofen	1	Ös deafz koanö söchen Kindereien treibm.
+lm	40414	Plattling	1	Ös deafts nöt soïchanö Kindereien macha.
+lm	40420	Auerbach	1	Ēs dēăfts ko̰a so Kindareian dreim.
+lm	40428	Saldenburg	1	Ös derfts ka(i)na so Dum̄heitn treibn.
+lm	40439	Karlsbach	1	Ia derft nöt söchana Kindareien treim.
+lm	40516	Steinach	1	Ös därfts koa̰ sölche Buamastückl'n nöt trei'm. Auch: Kindaschdüggl'n (nämlich genauester Klang der Aussprache)
+lm	40524	Perasdorf	1	Es derfz nöt sôichene Kindereien treib'm.
+lm	40531	Regen	1	Ös döafts koa söchene Dum̄heidn mocha!
+lm	40535	Klingenbrunn	1	Müaßt's ös's Möda wieda vascherzn?! oder: "Herd's auf mit engganö Dum̄heidn!"
+lm	40538	Riekofen	1	Ös därfts kone sechene Kindereien (:auch Kindasachen:) treib'n.
+lm	40597	Lindau (Bodensee)	1	Ihr dirfent et settige Kindereia triebe.
+lm	40605	Schnellers	1	Ihr miößét kăi sötèg Kinderöiā tri/ebe.
+lm	40613	Ratholz	1	Dir déa̰rfĕt it déara Kindéröia triebĕ.
+lm	40637	Eschbach	1	Ihr dürfet nit dergattiga Kindereia (Chindereia) trieba!
+lm	40655	Erzingen	1	Ihr dürfet nit derlei Kindereie triebe'.
+lm	40757	Schienen	1	Ihr därfet nit sōnige Kindereia triba.
+lm	40771	Wollmatingen	1	Ihr dürfet nit derlei Kindereie triebe.
+lm	40785	Kluftern	1	Ihar derfet kuani Kindareia a so macha.
+lm	40798	Obereisenbach	1	Ia̰r deöfa̰t it a̰ so Kḭnda̰reia̰ triba̰.
+lm	40807	Ratzenried	1	Dir derat it solle Kindareia treibã.
+lm	4081	Bantikow	1	Ii därwen nich sönn' Kinneriën drîwen.
+lm	40819	Kreuzthal	1	Ihar dearfet it sötta Kindereia treiba.
+lm	40844	Münchingen	1	Ihr dürfăt kaini so Chinderaiă tríebă.
+lm	40863	Tengen	1	Ihr dörfet chone so Chindereia triba.
+lm	40898	Billafingen	1	Ihr defet kuine so Kindereie treiba.
+lm	4093	Kränzlin	1	Jie därwen nich sönne Kinnereien driewen.
+lm	41018	Eigeltingen	1	Ihr därfet it so kindele.
+lm	4102	Seebeck	1	Jie derfen nich sönne Kindereien driewen.
+lm	41049	Illmensee	1	So Kindereia dürfet ihr konni trība.
+lm	41057	Baindt	1	Ihr derfet koine setige Kindereia triba.
+lm	41064	Ziegelbach	1	Ihr déffet koine settige Kindaleia treiba.
+lm	41076	Maria Steinbach	1	D'r dä̰fa̰t it sötta̰ga̰ Kinda̰reua̰ treuba̰.
+lm	41086	Waldau	1	Ihr dä͡efe itt so Kindereier driwer.
+lm	41098	Hubertshofen	1	D'r därfat nimma so gägelik si.
+lm	41114	Öfingen	1	Ihr dorfet n[er?]t solche Kindereie trie=èbe.
+lm	4112	Klein-Mutz	1	Jü därben nich sonne Kindereien driwen.
+lm	4119	Gross Dölln	1	Ji derben nich sonne Kindereien driben.
+lm	41200	Masevaux	1	Ihr därfa kö so Kindrdings mācha.
+lm	41214	Aspach-Le-Bas	1	Ihr derfa nit a so Kinderäia triwā.
+lm	4123	Senftenhütte	1	Jie derben nich sunne Kinderien drieben.
+lm	41245	Lipburg	1	Ihr dèrfet nitt so Čhindereiè triebè.
+lm	41262	Utzenfeld	1	Ihr derfe it so Chindereie tribe.
+lm	41275	Schluchsee - Blasiwald	1	Da dörfet it so Chindereia trieba.
+lm	41296	Oberentzen	1	Ihr dèrfa nit sonagi Kindareia triwa.
+lm	41309	Feldkirch	1	Ihr derfet nitt so Chindereie triebe.
+lm	41336	Kappel	1	Ihr derfa nit solche Kindereia trieba.
+lm	41351	Urbès	1	Jhr därfe gä so Kindereje driewe.
+lm	41365	Rimbach-Près-Guebwiller	1	Ḕhr dérfa nìet a sōnigè Ke̊ndarēia trībă.
+lm	4142	Stoki	1	Jie därwen ni sohne Kingerrein driewen.
+lm	41460	Rixheim	1	Ihr därfe ké so Kèndarèia triwe.
+lm	4152	Stoleczna	1	Ji deärwn ne son' Kingeäri driew'n.
+lm	41566	Ranspach-Le-Bas	1	Er därft nitt so Chingareya drieba.
+lm	41598	Lörrach	1	D'r dörfed nüt so Chindereien trībȇ.
+lm	4161	Glazow	1	Jie daarwe nĭ soon Kingnarie driewe.
+lm	41623	Hütten	1	Der  dȫrfè keini è so Chindereiè drībè.
+lm	41653	Largitzen	1	Ihr därfet no so Kindersache trieben!
+lm	4171	Okunie	1	Ji darwen nich sohn Kineriee driwen.
+lm	41714	Lucelle	1	Ihr dĕrfăt nit sonigi khingăré|iă tribă.
+lm	41785	Höhenrain	1	Ös dĕafds id sö͜ini Kinderein dreim.
+lm	41801	Grosshöhenrain	1	Machts ma net so Gschichtn, sitt
+lm	41811	Tattenhausen	1	Oes deaft's nöt söcha Kindarein treim.
+lm	41819	Ollarzried	1	Ihr dearft it söllḛ Kindḛreia treiba.
+lm	41836	Kaufbeuren	1	Ihr derfet koina sette Kinderoie treiba.
+lm	41845	Denklingen	1	Iar därfat koine söttige kindische Sächa macha.
+lm	41855	Raisting	1	Ös derfts nit so viel Kinderein treiba.
+lm	41872	Baiernrain	1	Es derfts koane soichan Kindreeian treim.
+lm	41932	Huglfing	1	Ös de͡afts net sölla Kinderein treibm.
+lm	41939	Penzberg	1	Es deaftsch it, so Dummheitn (Kinderein) dreim.
+lm	41948	Reichersbeuern	1	Ös därfts nöt solche Kindereien macha.
+lm	41953	Parsberg	1	Ihr dürft nöt solche Kindereien treib'n.
+lm	41963	Kirchdorf am Inn	1	Ös derftst nöt sölla̰ni Kindarein treibn.
+lm	41969	Aschau im Chiemgau-Niederaschau	1	Ös derfts koane solche Kindereien treim.
+lm	41971	Betzigau	1	Dir derfa̰t koi sölle Kindereia ma̰che.
+lm	41980	Sulzschneid	1	Dir därfet it sölla Kindareia treibe.
+lm	41986	Steingaden	1	Ir därft it solli Kindereiḛn treibḛn
+lm	42039	Bayerniederhofen	1	Dir därft nit solcha Kinderaia treiba.
+lm	42049	Jachenau	1	Ös derfts it sölla Kindarein treibm.
+lm	42056	Unterjoch	1	Jhr derfet nit so Kindereien treiben
+mn	42062	Oberau	1	Ëis darfts it soli Kinderein trei'm.
+mn	42070	Eggstätt	1	Es deafts nöt soichi Kindarein traibn. (traim.)
+mn	42076	Traunwalchen	1	Ös därfts nöt söīchănĭ dummheidn treim.
+mn	42084	Kirchanschöring	1	Ös derfts koan söllene Kindereein macha.
+mn	42116	Ruhpolding	1	Oes derft's a nöt söchanö  Fratzarein macha.
+mn	42118	Anger	1	Ös deafts nöt sölani Kinderein treim.
+mn	42132	Ramsau bei Berchtesgaden	1	Ös derfts net sölli Kinderein treibn.
+mn	42140	Hachiville	1	Dèrr duorft keng e sou eng Kannereien dreiwen.
+mn	42166	Niederwampach	1	Der duorf keng eso Kannerei dreifen.
+mn	42180	Neidhausen	1	Dir duorft keng esŭ èng Kannereien dreiwen
+mn	42236	Ettelbrück	1	Dir dûorft kèng é su Kanerégkéten drêiven.
+mn	42254	Rambrouch	1	Derr durft keng esûo Kannereien dreiwen.
+mn	42302	Eischen	1	Der durft nit so Kannereien dreiwen.
+mn	42316	Hünsdorf	1	Dīr dōārft kèng esŏ Kănnĕreien mé zĕ dreiven.
+mn	42341	Biwer	1	Dir duorft kèng esŏ èng Kannereien dreiwen.
+mn	42414	Uewerkuer	1	Der doarft kèng eso Kănereien dreiven.
+mn	42431	Peppange	1	Dir durft kèng u sèu Kannereuĕn dreiwen.
+mn	42469	Schwarzenbach an der Pielach	1	Es derfts nit solche Kindereien mocha.
+mn	42470	Lehenrotte	1	Ös derfts nit solche Kindereien treibn. 
+mn	42472	Thal	1	Es därftz net soiche Kindereien treim.
+mn	42477	Grillenberg	1	Es deaft's nit soichi Kindarein treim.
+mn	42520	Schneebergdörfl	1	Es derfs nit sulche Dummheiten mocha.
+mn	42527	Mollram	1	Ös derfst net solche Kinderein treibn!
+mn	42532	Frein an der Mürz	1	Es derfts net solche Kinarein treibm.
+mn	42571	Massing	1	Ëis derfts net sulchi Kinderei treib'm.
+mn	42573	Semmering	1	Ös därft's nit suichi Kindarein treim.
+mn	42587	Feistritz am Wechsel	1	E'is derfts nit suichi Kinderein treim.
+mn	42612	Gleichenbach	1	Eis derfts nit suichi Dumheidn mocha.
+mn	42635	Weiden am See	1	Iah deaft nit söülchi Kindarei'n treibm - oder auch: Äis deaft's ...
+mn	42637	Nickelsdorf	1	Es däffts nit so kindisch sein.
+mn	42640	Siegersdorf	1	Ös derfts nöt solche Kindareien treib'n.
+mn	42647	Stotzing	1	Es derfts nit so a Kinderei mocha.
+mn	42670	Wieselburg (Mosonmagyaróvár)	1	Es teafts nīd söichi Kin(d)arein treim (mochn)
+mn	42688	Andau	1	Ihr derfts nit soliche Kindereien treiben.
+mn	42691	Wiesen	1	Ös därfts nit solchi Såcha måcha.
+mn	42701	Baumgarten	1	Ia deaffst nit solchi Dumheitn mochn.
+mn	42706	Apetlon	1	Eis dearfts nit seoultige Kinaspülerein treim.
+mn	42722	Horitschon	1	Ihr därft nit solche Kindereien treiben!
+mn	42728	Holling (Fertőboz)	1	Ochtazwuanzk. (E)is teafts kuani söülchn Spüllarein treim.
+mn	42748	Frasnacht	1	Er törfed nöd söttig Chindereie triibe.
+mn	42821	Rietli	1	Ehr törid kä dere göfelige Zäg mache.
+mn	42843	Hohenems	1	Ihr dürfen nit dera Dummheita trieba.
+mn	42850	Bizau	1	Eor töarschtod nüd  derer Gogaria tribo.
+mn	42856	Riezlern	1	Ihar dürft ned söddeg Gendereia driba.
+mn	42908	Gamprin	1	Ür därfen net derna Kindereia trieba.
+mn	42926	Röns	1	Machand nit dera Kindareia.
+mn	4293	Brielow	1	Ji därn nich sonne Kindereine driwen
+mn	42933	Buchboden	1	Ihr dürft nit a so a Gogerei macha.
+mn	42939	Lech	1	Ihr dürfed ned derä dommä däng'r draibä.
+mn	42970	Sargans	1	Ir dörfnd nid derä Chindereïä triibä.
+mn	42977	Schruns	1	Ihar därfen net söttei Kindareia triba.
+mn	42985	Vils	1	Diar derfat it söttig[e?] Lagglereia treiba.
+mn	43004	Hinterhornbach	1	Ös dearfet knă so Kindereiê treibe
+mn	43013	Rinnen	1	Es dürfet it sellig Kinde̊reie̊ tia.
+mn	43021	Ehrwald	1	Ös därfåt it söllig å Kindereiå treibå.
+mn	43022	Leutasch	1	Ös derfts it sölla Kindereian treibn.
+mn	43027	Bach	1	Oes dearft nit solcha Kindereija treiba.
+mn	43037	Silzerberg	1	Ös dörfet itt sölla Kindereien treib'n.
+mn	43055	Hatting	1	Ös darft nit solla Kindereidn treibm.
+mn	4306	Deetz	1	Ji derr'n nich sönne Kin̄jereien driewen.
+mn	43070	Mils bei Imst	1	Ös derfat it sölle Kindereie treibe
+mn	43122	Unterried	1	Ös dearfet nit söllane Kindareien treib'n.
+mn	43133	Holdernach	1	Ös derfat nit settni dummheita treiba.
+mn	43152	Kauns	1	Ös dörfat it a so kindisch sein (Kindereien nicht bekannt)
+mn	43161	Unterberg	1	Ös droftd nit sölle Kindereien treib'n.
+mn	43162	Pertisau	1	Ös derfts nid a so umlåppma.
+mn	43173	Brixlegg	1	Ös terfz nit sölchi Loppareien treim.
+mn	43183	Penningdörfl	1	Ös derft's nit soiche Kindareien treibn
+mn	4321	Fahrland	1	Jie derfen nich sonne Kidnereien driewen.
+mn	43210	Innsbruck	1	Ös derfts nit sölche Dummheitn treibn. 
+mn	43224	Kolsassberg	1	Er ös darfts net söche Kindereien treibn. 
+mn	43251	Aschau im Zillertal	1	Ös derft's net solche (Kindereien) Dummheiten treib'n.
+mn	43280	Krimml	1	E̊s derfz nit soônhene Kindareien treim.
+mn	43285	Trins	1	Ös derfet nit sölla Kindereien treibn.
+mn	43288	Dornauberg	1	Ös derft nit so kindisch sei.
+mn	4329	Steglitz	1	Ji derft nich sonne Kindereien driven
+mn	43297	Schmirn	1	Dös derft nitt sölla Kindereien måchen.
+mn	43301	Kitzbühel	1	Ös dåfst ni̊d so͡ichi Ki͡narein to͡a/treibn.
+mn	43303	Hochfilzen	1	Ös derfts nit söllene Kindereien treiben.
+mn	43310	Saalfelden am Steinernen Meer	1	Ös derft's nid soichö Kinarein treim.
+mn	43315	Werfen	1	Ös defz nöt soichanö Dummheitn måchn.
+mn	43331	Bramberg am Wildkogel	1	Ös dearfts nöt so Kindischn.
+mn	43340	Niedernsill	1	Ös deafz nit so kinisch sein
+mn	43347	Sankt Georgen	1	Dös derfst nöt toan, dös san kindische Såchn.
+mn	43354	Goldegg	1	Ös deafz nit so kindisch sei.
+mn	43359	Kleinarl	1	És derfts nīt söchani Kīnnareīn måchn.
+mn	43372	Bad Gastein	1	Ös deafts nöt söchö Faxn måchn.
+mn	43378	Berg-Gruben	1	Seits nit so kinderische Låppm!
+mn	43379	Heiligenblut	1	Deisch derft nöt seitene Kinderein treibm.
+mn	4338	Köpenick-Kietz	1	I derft nich sone Kinderien drieben.
+mn	43381	Sankt Martin am Tennengebirge	1	Machts kane Dummheitn.
+mn	43384	Ramsau	1	Seits nicht so kindisch.
+mn	43391	Assach	1	Ös defts nit solchane Kinareien treibn.
+mn	43393	Donnersbach	1	Machtz net solche Kindareien. 
+mn	43412	Untertauern	1	Ös derft’s nit söchani Dummheitn treibn!
+mn	43420	Pöllau	1	Eis derfts nit sölltn Kindarein treibn.
+mn	43427	Oberweissburg	1	Ös däfz nit söde Gåggereien måchn.
+mn	43433	Sauerfeld	1	Ös derfts nöt söt[o?] Kindereien treibn.
+mn	43439	Ranten	1	Des deaft's nit so kindasche Såchn treibn.
+mn	43453	Strechen	1	Er derfst net solcham Kinnerein treibn.
+no	43455	Treglwang	1	Ös derfft net solchi Kindareian treibn.
+no	43457	Kalwang	1	Seid’s nit a so kinisch. 
+no	43458	Trofaiach	1	Ös derfts net sölchi Kinarei͠en treibn.
+no	43462	Hafendorf	1	Deafts net gor a so kinisch sein!
+no	4347	Herzfelde	1	Ii derfen nich sohne Kinnereien driewen.
+no	43480	Sankt Michael in Obersteiermark	1	Seds nöt so kündüsch.
+no	43488	Pusterwald	1	Dös derfts net so kindesch sein.
+no	43489	Sankt Oswald	1	Es derfts konne solchan Kindereien mach'n. (anfanga)
+no	43494	Sankt Marein bei Knittelfeld	1	E-is därfts net solchane (selti) Kindarein mochn!
+no	43497	Frohnleiten	1	Ir (Eïs) derfds net so kinnische Soch'n dreim!
+no	43505	Sankt Peter ob Judenburg	1	Müaßts net goa so kindisch sein.
+no	43530	Teufenbach	1	Durfts nit sulche dumme Sochen mochen.
+no	43534	Sankt Johann	1	Däs derft's nöt sölli Kindereina treib'n.
+no	43537	Kainach bei Voitsberg	1	Ös derfts net sulchi Dummheitn mochn. 
+no	43544	Gratwein	1	Seids nod[a?] so kindisch!
+no	4357	Tempelberg	1	Jie derfen nicht solche Kindereien driewen.
+no	43576	Fochnitz	1	Ös dürfts net so kindisch sein.
+no	43579	Wenigzell	1	Es derfts nit sölche Dummheit'n treib'm.
+no	43633	Ehrenschachen	1	Es derfts koani söchtn Dummheit’n mocha!
+no	4364	Döbberin	1	Jie derfen ni soone Kinderrien drieven.
+no	43640	Salmannsdorf	1	Eis dearfz net soöli kina rain traim.
+no	43662	Sankt Kathrein am Offenegg	1	Dös derfts nit sulchi Kinarein treibn.
+no	43699	Siget in der Wart	1	Es därft's nit solche Kindereien treib'n.
+no	43715	Stubenberg	1	Ös derfts net sochane Kinderein mochn.
+no	43726	Unterrohr	1	Dis derfts nöid sulche Kindargschpul treibn.
+no	43756	Eggersdorf	1	Måcht's nit so(u) kinische Såchn.
+no	43761	Sinabelkirchen	1	De-is deafts nit sölti Kinnarain trai(b)n.
+no	4377	Pamiecin	1	Jei dörfen nich sone Kinderreien dreiwen.
+no	43773	Bad Blumau	1	Dös dearftst nit sölchi Dummheiten treib'n.
+no	43782	Deutsch Tschantschendorf	1	E-is de-afts nit sulchi Kindareien trei-ibn.
+no	43850	Klostermarienberg	1	Eis derfts nid sau kindisch sein
+no	4388	Grabno	1	Ihr derft nicht solche Kindereien treiben.
+no	43889	Moschendorf	1	Eis derf'z nit seiilti Kïnaspül traib'n.
+no	43896	St. Jakob	1	Dēis megg it sene Zummheitn treibn. Seit it a sou kindisch. 
+no	43905	Oberpeischlach	1	Deis migg it sėline Kindereiin treibm.
+no	43909	Mörtschach	1	Dös derft's nöt sötanö hundsmöitn treibm.
+no	43910	Flattach	1	Dös därfts net so Kindisch sein!
+no	43938	Kolbnitz	1	Dös derfts nit sötane Kindereien treiben.
+no	43939	Ausservillgraten	1	Dös derft ött sölle Kindererei'n treib'm.
+no	43948	Assling	1	Oes dörft nött söllane Kindrareien treibn.
+no	43959	Lindsberg	1	Seids decht nit går a so Kindisch.
+no	43977	Kornat	1	Dös derft net soitane Dum̄heitn treibn.
+no	43982	Berg im Drautal	1	Dös terfs nit sötene Kindereien treibm.
+no	43988	Goderschach	1	Dös derfts nit sötam fåxn måchn. 
+no	4400	Trzemeszno Lubuskie	1	Ihr derft nich sone Kindereien treiben.
+no	44006	Kremsbrücke	1	Tös tärft nit sötanö Cind[r?]ein treibm.
+no	44010	Oberhof	1	Dös derfts nit solche Kindereien treiben.
+no	44038	Kleblach-Lind	1	Ihr derf[t?] nit solche Sachn machn.
+no	44040	Obermillstatt	1	Dös tearfts nit sötene Tummheitn måchn.
+no	44054	Patergassen	1	Dös derfts nit söchtene Kindareien treibn.
+no	44056	Steuerberg	1	Dös derft's nit går a so kindisch sein!
+no	44109	Hermagor	1	Dös derfts nit setene Tumheitn måchn.
+no	44117	Bleiberg-Kreuth	1	Dös deafts nit setane Dummheitn måchn.
+no	44124	Villach	1	Dös teafts nit solche Kindareien treibn. 
+no	44142	Schiefling	1	Ihr därfts nit solche Kindarein treibn.
+no	44162	Suetschach	1	Des toerfts nit solche Kindereien treibn.
+no	44174	Sankt Salvator	1	Dös terfz nit söchte Tumheitn treibm!
+no	44182	Heft	1	Seids nit a so kindisch!
+no	44189	Schiefling	1	Deis darfts net sölli
+no	44196	Modriach	1	Seids net so kindisch.
+no	44200	Launegg	1	Saps net so kinisch!
+no	44234	Obermühlbach	1	Dös dearfts nit söchtene Kindereien mâchn.
+no	44243	Hochfeistritz	1	Dös derfts nit solche Kindarein treibm.
+no	44248	Sankt Andrä	1	Dös (Ihr) dürfst nit solche Kinderreien treiben.
+no	44256	Glashütten	1	Seids net gor a so kinisch!
+no	44261	Sankt Peter im Sulmtal	1	Des dearft's neit sulche Dummheitn måch'n.
+no	44295	Oberhaag	1	Dös deafts net sovül Dummhaitn mochn.
+no	44303	Klagenfurt-Harbach	1	Es derfts nit so kindisch sein.
+no	44308	Eberndorf	1	Ihr derfz nit solche Kindereien treibn.
+no	44313	Lorenzenberg	1	Dös derfts net solch' Kind'sche Soichn treibn.
+no	44314	Sankt Margarethen	1	Ihr tärfz nit solche Cindarein treibn.
+no	44320	Bad Eisenkappel	1	Ihr derft nit soane Kindereien treibn
+no	44333	Paldau	1	Dös derfts nit sölchi Kinnereien treib'n.
+no	44347	Hohenbrugg an der Raab	1	Ihr (Ös) dearft nit sulchi Kinarei'n treib'n. (Kinagspül? - Gocklarei.)
+no	44358	Mogersdorf	1	Eis deafts nit söiche Buamstickl treim
+no	44371	Allerheiligen bei Wildon	1	Mochts kane Dummheiten
+no	44398	Leibnitz	1	Deis deafts net sòlche Kìnneraìn traibn.
+no	44414	Klöch	1	Sabs ( Tuats) (seid) do nit so tro(a)ttll! (dumm)
+no	44425	Ratschendorf	1	Ihr därft's net sölte Kindarein treibn.
+no	44433	Langegg	1	Machts kane Dummheit'n!
+no	44439	Ebental (Polom)	1	Ihr taffät et hetteinä Kindrareiän treibm
+no	44442	Steinwand (Podstenice)	1	Ihr tahfat et hettana Kindrareäni treibm
+no	44445	Obergras (Trava)	1	Ir deafät et hetäne̤i Kummhe̤iten tre̤iben
+no	44447	Göttenitz (Gotenica)	1	Ihr deaffòt et hettei nò Kendreión tribn
+no	44454	Nesseltal (Koprivnik)	1	Yr dearfot et hetteino Kindrareien treibn!
+no	44461	Tiefenbach (Briga)	1	Ihr därfät et hettanä Kendrareän treibm
+no	44465	Unterlag (Spodnji Log)	1	Ihr tiǟffät et hétanei Kindreiäu treibn
+no	44519	Wildensbuch	1	Ihr dörfet nit sonigi Chindereie triebe.
+no	44610	Wittenwil	1	Er törfed kei so Genggelizüüg tribe.
+no	44685	Neukirch an der Thur	1	Er törfet nöd eso toms züg tribe!
+no	44770	Mont-Tramelan	1	Dir dörfet nid settigi Dummheit tribe.
+no	44771	Pieterlen	1	Dir dörfet nit söttegi Chindereie trybe.
+no	44796	Merzligen	1	Dir dörft nid söttig Chindereie mache.
+no	44801	Gals	1	Dir dörf nid so dumms Züg mache.
+no	44832	Huggerwald	1	Dīr dērfe[?] nīt sŏnigi Chīngereie tribe
+no	44851	Ziefen	1	Dir dörfet nitt settigi Chindereie driibe.
+no	44858	Anwil	1	Dir dörfet nit settigi chindereie aschtelle.
+no	44888	Umiken	1	Er tōrfed ned settigi (sanigi) L[un?]pereye trybe.
+no	44994	Gänsbrunnen	1	Dir dörft nit so Chinderzüg mache.
+no	45009	Oensingen	1	Dir dörfet nit settige Chindereie mache.
+op	45022	Mühlethal	1	ir dö̀rfet net chinderligs màche.
+op	45067	Meisterschwanden	1	Ir törfe-nìd settigi chinderèie triibe.
+op	45192	Mülchi	1	Dir dörfet nid söttigi Chinderei mache.
+op	45195	Eigenthal	1	Ier döfid ned dere Chindereie triibe.
+op	4521	Wollin	1	Ji derbn nich sönne Kinderreien driem.
+op	4527	Rädel	1	Ji därven nich sönne Kingereien driewen.
+op	45279	Hildisrieden	1	Ihr dörfid ned settige Chindereie triebe!
+op	45299	Willisau	1	Iehr dörfid nid söttigs Galölizüg trybe.
+op	45312	Bleuen	1	D'ihr dörfit nit settigi Chindereie triibe.
+op	45345	Dielsdorf	1	Ihr dörfed nüd därigs Chinderüg mache.
+op	45356	Unterwagenburg	1	Ihr dörfett nūd e derigs Grätterlizüg tribe.
+op	4539	Wildenbruch	1	Gei dern nich sönne Kindereien driewen.
+op	45474	Boden bei Fischenthal	1	Ihr därfed nüd derigi Chindereie tribe.
+op	4549	Löwenbruch	1	Jei derfen nich sonne Kindereien driewen.
+op	45492	Dicken bei Degersheim	1	Ehr dörfet nöd derigi Kindereie tribe.
+op	45501	Bonstetten	1	Ihr dö[r?]fet kei dere Chindereie triebe.
+op	45529	Riedikon	1	Ihr törfed nüd so Chindezüg tribe! Nüd so chindelig tue!
+op	4560	Deutsch Wusterhausen	1	Jei derwen nich sone Kingereien driefwen.
+op	45611	Feusisberg	1	Ihr dörft nüt selleg[i] Dumheite triebe.
+op	45627	Starkenbach	1	Tüend doch nöd so tumm wie Gofä.
+op	45630	Risch	1	Machid au nüd derigs Chinderzüg.( Derigi Chinderie dörftd er de nüd mache!)
+op	45644	Reichenburg	1	Ihr dürfid nüd derige Chinderie tribä.
+op	45692	Süri	1	Dir dörft nit settigi Chinderei tribe.
+op	45694	Courlevon	1	Dir dörft nid setägi Dummheitä tribä
+op	45716	Brünisried	1	I[?r] dörfet nit sitig Chinderie triebe. [Erstes Wort für Korrektur überschrieben, dadurch nicht duetlich genug lesbar.]
+op	45718	Ferpicloz	1	Machet doch nit settigi Kaubereie!
+op	45722	Abländschen	1	Tüet m'r nit eso tumm ganggle.
+op	4573	Neu Golm	1	Jhr derft nicht sone Kindereien driwen.
+op	45734	Dentenberg	1	Dir dȏrfet nid settegi Chindereie tribe.
+op	45758	Mutten	1	Dir därfit nid settig Tummhéte mache.
+op	45764	Oberfrittenbach	1	Dir dörfid nid settigi Chindereie triibe.
+op	45784	Schüpfheim	1	Dr dörfit nid sötigi Chinderijä tribä.
+op	458	Wietrzno	1	Ju doäfe ni sohn Kinnerieg draiwe.
+op	4584	Hohenwalde	1	Ihr dorft nich sone Kindereien dreiven.
+op	45863	Gurzelen	1	Dir dörfet nid settigi Chindereie triibe.
+op	45878	Linden (Oberlangenegg)	1	Dihr dörfit nit settig Kingereie triibe.
+op	45891	Sörenberg	1	Dier dörfid ned sötigi Chindereye triibe.
+op	45892	Lungern	1	Triibid oi nid ä seler Nooleriää!
+op	4590	Kunice	1	Jei derfen nich sohne Kindereien treiven.
+op	4595	Mierczany	1	Ihr derft nich sonne Dumheeten treiwen.
+op	45962	Entschwil	1	Ihr dörft nit settigs chintligs Züg tribe.
+op	45980	Saxeten	1	Tüed nid eso chindlich (od. dum̄ ) därfür siter[mu?] dsalti.
+op	45992	Guttannen	1	Ehr terft nid e selis tumms Zyg machen.
+op	46009	Ulrichen	1	Ihr därfet nit settigy Chinderie triebu.
+op	46017	Gersau	1	Er dörfid nit e sernigi Chinderiä tribe.
+op	46021	Illgau	1	Ihr därfet nit so Chindäriä triebä.
+op	46026	Engi	1	Ihr dörfed nüd söttig Chinderiä tribä.
+op	46027	Leuggelbach	1	Ihr dörfed nüd dere ggüegelete Sache mache. (Kindelete Sache)
+op	4603	Toporow	1	Ihr derft nich sulche (sune) Kingerei'n treiben.
+op	46038	Linthal	1	Ihr dörfäd nüd so dumms Züg tribä.
+op	46040	Engelberg	1	Iär dörfid nid derä Chindärehä [Bogen unter eh] (treḫiba) [Bogen unter eh] trehibä [Bogen unter eh].
+op	46045	Erstfeld	1	Jhr derfet nit derä Chinderiä tribä.
+op	46048	Valendas	1	Ihr törft nit dere Chinderiee triebe.
+op	46050	Meierhof	1	iehr darft nit dara Gangleria triba.
+op	46051	Camana	1	Där tärft net derä Chinderia triba.
+op	46055	Nufenen	1	I-ähr törft nit dera Chindäriä triba.
+op	46059	Fanas	1	Iär törfänd nid derä Gofäriä tribä.
+op	46070	Mathon	1	Ös dörfat nit sötti Kindareia treiba.
+op	46071	Galtür	1	Ös dörfat nit söti Kinderria treiba.
+op	46073	Felsberg	1	Jer dörfen nit solchi (derigi) Kindereia trieba.
+op	46079	Fideris	1	Ier törft nid dere Chinderia trieben.
+op	4608	Alt Stahnsdorf	1	Ji derfen nich so'ne Kindereien driewen.
+op	46083	Klosters	1	Jer törft nit dera Chinderia trieben.
+op	46101	Wiesen	1	Ier törft nit dere Buebestückli mache.
+op	46104	Am Bach	1	Ihr törft nit Chinderia triba.
+op	46115	Lauenen	1	Ihr dörft net söttig Dummheiti mache
+op	46118	Stiegelschwand	1	Ihr dörfät nät sötig chindligi Sachä tribä.
+op	46119	Fieschertal	1	Ihär derft nit sottigi Chindäria tribä.
+op	46127	Bitsch	1	Ihr derf nimme settegi Chinderire triebe.
+op	46129	Agarn	1	Ihär tärft nit ä sottigi Chindäriä tribu.
+op	46132	Hasel	1	Jer derft nit settigi Chinderie triebu. 
+op	46142	Saas Grund	1	Iér därfet nit settigi Chinderié tribu.
+op	46143	Zwischbergen	1	Jär terft nit sottigi Chindäriä tribu. 
+op	46145	Zermatt	1	Ihr terft nit der Narr machu.
+op	-46146	Prettau (Predoi)	1	Dös törft net sölla Kindarain traibm
+op	46157	Luttach (Lutago)	1	Döis törft net sela Kindarain treibn.
+op	-46161	Hinterkirch (Graun)	1	sölle Kindareian törfts kone treibm
+op	-46162	Rabenstein (Moos)	1	ös törft nit sölle kindereidn treibm.
+op	46170	Tschöfs (Ceves)	1	Dös terft nit söile Kindereidn treibn.
+op	-46175	Pfunders (Fundres)	1	dös tört öt sölle Kindereien treibm.
+op	-46181	Antholz (Anterselva Di Mezzo)	1	Dös törft ött sölla kindrareidn treibn.
+op	-46195	Schabs (Sciaves)	1	Dös derft nöt sölla Kindereian mochn.
+op	-46215	Pichl	1	dȫ̌s derft ȫt a sou kīndīsch seīn
+op	-46217	Burgeis (Burgusio)	1	Öis derfz koane sölla Kindareian treibn.
+op	-46226	Kurzras (Corteraso)	1	Ös törft nit a so kindisch sein.
+op	-46227	Katharinaberg (Santa Caterina)	1	Ös dörft nit aso kindisch sei.
+op	-46234	Vernuer (Vernurio)	1	Ihr dörft nit sella Kindrspiel treibm.
+op	-46262	Stilfs (Stelvio)	1	ös törfts it söle kindereien treibn.
+op	46267	Laas (Lasa)	1	ös dörfts söta Kindarei[r?]en it treiben
+op	46283	Gargazon (Gargazzone)	1	Es terfts nit sete kinderaidn taibn.
+op	-46293	Sankt Peter Hinter Lajen (San Pietr	1	Ihr derft doi nöt sölcha Dummheiten mochen.
+op	-46305	Sankt Walburg (Santa Valburga)	1	Ös dörft nit a sou kindisch sei.
+op	-46319	Wangen (Vanga)	1	Ös dörft nöt sölla Kindereidn treibm.
+op	46324	Laurein (Lauregno)	1	Ior törft net sölle tumhaitn mochn.
+op	-46340	Kaltern (Caldaro)	1	Os terfts nöt sölla (sötta) Kindereidn traibm.
+op	-46344	Deutschnofen (Nova Ponente)	1	Iar tērt nit ållm sētta Kindrain måchen!
+op	-46351	Altrei (Anterivo)	1	Iahr derft nit a sölle Kindereien treiben
+op	-46353	Salurn (Salorno)	1	Ös terfts nit söta Kindaraidn traibn.
+op	46361	Stefansdorf (Santo Stefano)	1	Dös törft öt a sölla Kindrarni mochn.
+op	46365	Lusern (Luserna)	1	Ihr tört net treiben à söla Gekindra
+pq	46367	Ljetzan (Giazza)	1	[Nicht übersetzt.]
+pq	46369	Lusern (Luserna)	1	mán ziχ nɛt nɛran (d. i. spielen) vi di kíndɛ́r
+pq	46385	Nauders	1	Oes derfats itt sölla Kindreia treiba.
+pq	46386	Heiligkreuz	1	Sölla Kindereien dürfez koane mochn.
+pq	46391	Poppenbüll	1	Jüm dör't ni son Kinnerkråm drib'n (dri'm)
+pq	46407	Dahrenwurth	1	Jüm dörf nich son Kinn'rie drieb'n.
+pq	46420	Bergenhusen	1	Jümm dört ni sunn Kinnertääg driim.
+pq	46430	Owschlag	1	Ji dörft nig soen Kinnertög drib'n.
+pq	46443	Holtsee	1	Ji dörft nicht so'n Kinnerien vörhemm
+pq	46459	Pries	1	Ji dörft nig so'n Kinnerien drieben.
+pq	46481	Stakendorf	1	Ji dörft nich son Kinnerrien driwen.
+pq	46492	Behrensdorf (Ostsee)	1	Ji  dörgt ni so'n Kinnerkr[å?]m drîb'm.
+pq	465	Okunino	1	Ji dewä nich son Kinnerieä driwä.
+pq	46554	Sulsdorf	1	Ji dörf nich sonn Kinnerie driem.
+pq	46570	Staberdorf	1	Ji dörf nich so 'n Kinneree drib'n.
+pq	46637	Alte Kirche	1	Jem dörn ni so'n Kinnerkram drieb'n.
+pq	46652	Sollerupfeld	1	Ji dörm nich sonn Kinnerkram driem.
+pq	46666	Neuberend	1	Ji dörm nich son Kinnerie drim.
+pq	46684	Zimmert	1	I dörft nich so väl Kinnerrie driem.
+pq	46687	Damp	1	Ji dörft ni so'n Kinderkram driiwn.
+pq	46693	Westermarkelsdorf	1	Jie dörf nĭ sunn Kinnerren drib'm.
+pq	46784	Grossenwiehe	1	I mögen nich son Kinderien driim.
+pq	46798	Estrup	1	I dörm nich son Kinnerkram drihm. (driwn)
+pq	46806	Wippendorf	1	Ih dörm nicht son Kinnerspälen driem'n.
+pq	46823	Maasholm	1	Ji dö͡ärm ni son' Kinnerrīn' drīm.
+pq	46924	Beken (Bækken)	1	I dörb'n nich son Kinnerkram drib'n.
+pq	47139	Sandhatten	1	Ji dräft nich sucke Kinnertäge driwen.
+pq	47154	Adelheide	1	Ji dräft nich sucke Kinderre triben.
+pq	47171	Dreye	1	Ii dröft nech sone Kinnerreen trieben.
+pq	47183	Allerdorf	1	Ji dröft nich sone Kinnertörg drieb'n.
+pq	47189	Heerenland	1	Ji düüren neet sükse Kindereien driefen.
+pq	47203	Steenfelde	1	Ji durren nig 'hükse Kindereien driefen.
+pq	47219	Lohe	1	Jie dräwet nich sücke Kindereien driewen.
+pq	47224	Burgfelde	1	Ji drö͡äwt nich socke Kinnereen driew'n.
+pq	47235	Moorhausen	1	Ji dröft nich suck'e Kinnerre'in dri'bn.
+pq	4727	Klein Glien	1	Je darm nich sonne Kinnereien trieben.
+pq	47370	Bardenfleth	1	Ii drüfft nich sucke Kindereen triben.
+pq	4738	Niederwerbig	1	Jai derbn nich sonne Kingereien driben.
+pq	474	Kramarzyny	1	Ji däwe nich son Kingerig driwe.
+pq	47402	Mittelbauer	1	Jih dräft näg sulke Kindereen trib[e?]n.
+pq	47422	Neuenbülstedt	1	Ji dröft (dröwt) neg solke (sokke) (net sone) Kindereen (Kinnereen) driem (driebm).
+pq	47447	Neermoor	1	Ji dürr'n neet sücks Kinnerrejen drieben.
+pq	47455	Remels	1	Ji dürn nich sükke Kindere͡ÿen drifen!
+pq	47463	Petersfeld	1	Ji dräft socke Narrentäge nich maken.
+pq	47470	Jaderbollenhagen	1	Ji dröfft nich socke Kinner're driben.
+pq	4749	Zülichendorf	1	Jei dörrn nich sonne Kingereue drüwen.
+pq	47598	Offenwardenermoor	1	Yi möt nich son Kinneree driben. (Lat' dat Narrent noch)
+pq	4761	Schöneweide	1	Je derb'n nich sonne Kinderre(i)en driwen.
+pq	47612	Paddewisch	1	Ji dröft nicht sücke Kinnerehn driebn.
+pq	47624	Ober-Ochtenhausen	1	Ji dröft nech sun'n Kinnere drieb'n.
+pq	47650	Cirkwehrum	1	Ji düürn nÿs züks kinderéien drieven.
+pq	47657	Westerende-Holzloog	1	Ji dürr'n nich sücke Kinnerrej'n driew'n.
+pq	47670	Wiesede	1	Ij dröft nig sük Kinnereen drifen.
+pq	47677	Neustadtgödens	1	Ji dröft nich sükse Kinderre[n/e] driewen.
+pq	4770	Egsdorf	1	Jei derbt nich sohne Kindereien driewen
+pq	4776	Birkholz	1	Ihr derft nich sohne Kindereien dreiben.
+pq	478	Pradzonka	1	Ji dawä ni son Kinnärigä driwä
+pq	47840	Kükelühn	1	Jü dörft nich so'n Kinnerri drieb'n.
+pq	47861	Siggeneben	1	Ji dö(r)bn n(i)e son Kinnerie (Kinnertȫig) drieb'n.
+pq	47863	Hedwigenkoog	1	Jüm dör't ni son Kinnerrien driebn.
+pq	47885	Edemannswisch	1	Jüm dört ne sohn Kinneri driem.
+pq	4789	Briescht	1	Ihr derft nich sone Kindereien dreiben.
+pq	47893	Oesterborstel	1	Jüm dörf nie son Kinnerspäl driebm.
+pq	47907	Hamweddel	1	Ji dörfft ni so'n Kinneri drihm.
+pq	47916	Warder	1	Ji därft ni son Kinnerkram driem.
+pq	47935	Klein Barkau	1	Ji dörft ni sunn Kinnerkraam driebn.
+pq	47952	Mucheln	1	Ji därf ni so'n Kinnerei driem.
+pq	4800	Gross Briesen	1	Ihr derft nich solche Kindereien treifen
+pq	48096	Grömitz	1	Ji dörft nicht son Kinnerrien drieb'n.
+pq	48098	Friedrichskoog	1	Ji döwt nich so'n Kinnerkram driw'n.
+pq	48105	Barlteraltendeich	1	Jumm dör't ni so'n Kinnerkrahm driew'n.
+pq	48115	Holstenniendorf	1	Ji därf keen son Kennerkraom driew'n.
+pq	48126	Jahrsdorf	1	Ji därft ni son Kinnerkraam driem.
+pq	4813	Klopot	1	Ihr därft nich sone Kindereien traiwen.
+pq	48141	Ehndorf	1	Ji dörft ni son Kinnerspill drieven.
+pq	48156	Gönnebek	1	Ji dörft nich so'n Kinnerkram drieb'n.
+pq	48164	Wöbs	1	Ji dörf nich so Kinneri mä[s?]n.
+pq	48186	Süsel	1	Jie dörft nich sonn' Kinnerie'n drieb'n.
+pq	48233	Brunsbüttelerhafen	1	Ji dört ni so'n Kinnerkram drib'n.
+pq	48239	Brokdorf	1	Ji dörft nich son'e Kinderkram driwen.
+pq	4824	Radomicko	1	Ihr derft nich sone Kindereien dreiben.
+pq	48240	Spiekeroog	1	Ji dröfft nich sücks Kinnerrëen driefen.
+pq	48242	Berensch	1	Ji dräft ni soon Kinnerkram direm.
+pq	48247	Altenbruch	1	Ji dröft nech sohne K[e]nnerreen drieben.
+pq	48282	Norderney	1	Ji dürr'n ne sück kinnereën drieb'n.
+pq	48283	Baltrum-Ostdorf	1	Ji dür'n nich sück Kindereeen driven.
+pq	48302	Misselwarden	1	Ji drövt nicht son Kinnerkram driwen.
+pq	4832	Radnica	1	Ihr derft nich sune Kĭnderreien treiben.
+pq	48324	Weissenmoor	1	Jie dröfft ne sone Kindere drieben.
+pq	48342	Itzendorf	1	Ji dürrn neet sük kinnerspillen drieben.
+pq	48356	Arle	1	Ji dürn sücks Kindereen neet driefen.
+pq	48368	Stedesdorf	1	Ii drö(ä)ft  nich sücks Kinneree drieven.
+pq	48383	Wüppels	1	Ji dröft nich süks Kinnere drieben.
+pq	48392	Langwarden	1	Jie drǟft nich sokke Kinnere 'n driewen.
+pq	48401	Flögeln	1	Ji dräft neg sücke Kinnereen drieben.
+pq	48477	Iffens	1	Ji dröwt nich socke Kinnereen driewen.
+pq	48487	Blexen	1	Ji dröf't nich sucke Kinderre'en drieven.
+pq	48497	Altluneberg	1	Jü dräft nich son 'e Kinnere drieben.
+pq	48507	Hönau-Lindorf	1	Ji dräwt nicht son'n Kinderkram driwn.
+pq	48516	Graal-Müritz	1	Ji dörft nich sönn Kinnerien driew'n.
+qr	48522	Rerik	1	Ji dörben nich son'n Kinnerien drieben.
+qr	48532	Brodhagen	1	Jie dörft nich soen Kinnerien drieben.
+qr	48550	Toitenwinkel	1	Ji dörb'n nich so'n Kinjnar[?]jd'n drīb'n.
+qr	486	Niedamowo	1	Ji darwe ni sohn Kindereie driewe.
+qr	48675	Strukdorf	1	Jie dörbt nich sun Kinnerri drieben.
+qr	48702	Sereetz	1	Ji dörft nich sonn Kinnerien driem.
+qr	48716	Gross Voigtshagen	1	Ji drörft nich sonn Kinerie driebn.
+qr	48726	Beckerwitz	1	Ji dörf't nicht sönne Kinneriee drie'm.
+qr	48738	Steinhausen	1	Ii dräb'n nich sön'n Kinnerie'n dribb'n.
+qr	48752	Berendshagen	1	Ji dörwt nich sonn'n Kinnerien  drieben.
+qr	48765	Wiendorf	1	Jie dörm nich sön'n Kinneri'en drieb'n.
+qr	48790	Rethwisch	1	So n'n Kinnerkram dörm ji ni drib'n.
+qr	48800	Lentföhrden	1	Ji därft ni son Kinnerkram driew'n.
+qr	48812	Todesfelde	1	Ji dörft nich son Kinnerien driew'n.
+qr	49022	Kleinboden	1	Ji dörft nich sonn dumm Tüg driwen.
+qr	49043	Campow	1	Ihr dörft nicht solche Kinderien drieben.
+qr	49076	Nesow	1	Ji dräft nich son 'n Kīnerien driben
+qr	49090	Dalliendorf	1	Jie dörb'n nich son'n Kinnerien drieb'n.
+qr	49108	Neuhof	1	Jie dörft nicht sän Kinnerie drifen.
+qr	49122	Warnow	1	Ji dörb'n nich son'n Kinnĕri'n drieb'n.
+qr	49140	Güstrow	1	Ji dörben nich sonn Kinnerrien (Görenkram) driben.
+qr	49146	Drochtersen	1	Jieh dräft neech sollke Kinderrein drieben.
+qr	49162	Gross Nordende	1	Ji dörft nicht solchen Kinderkrām drīben.
+qr	49176	Quickborn	1	Jü schüllt ni sonn Kinnerkrahm driv'n.
+qr	49188	Jersbek	1	Ji schölt nich son'n Kinnerkram driewn.
+qr	49311	Riekenbostel	1	Ji dröft nich sölke Kinnerreen driben.
+qr	49322	Brochdorf	1	Ji dröft nich so'n Kindereen triebn.
+qr	49332	Bispingen	1	Ji drö͡äft nich so'n Kinnerstreichen maken.
+qr	49338	Wettenbostel	1	Jü dörft nich sonne Kinnerien driewen.
+qr	49348	Seedorf	1	Jü dörft nich ßunne Kinnerêen driem.
+qr	49362	Stoetze	1	Jü dörft nich ßonne Kinnereen driewen.
+qr	49498	Dannenberg (Elbe)	1	Ju dörft nich so'n Kinnerrien driben
+qr	495	Jaroszewy	1	Gie derwe nech son Kinderig driwe.
+qr	4950	Palck	1	Ihr därft nich suhne Kinderai traibn.
+qr	49509	Breetz	1	Ji dörben nich sön' Kinnerein driwen
+qr	49524	Laaslich	1	Gi derb'n nich sön Kinderei driew'n.
+qr	49534	Lübzow	1	Jih derben nich sön Kinnereien driven.
+qr	49551	Buchholz	1	Ji derm nich sön'n Kinnerspöll driebm.
+qr	49562	Hetzwege	1	Ji dräft nich son Kindertäg driven.
+qr	49569	Otter	1	Ji drä͡öft nich son'n Kinnerre͡i'n drieben.
+qr	49579	Ollsen	1	Jü dröft nech sone Kinnertög drieben.
+qr	49587	Westergellersen	1	Jü dörft nich sun Kinnereî driem.
+qr	49605	Barskamp	1	Jü dörft nich sonne Kinderee trieben.
+qr	4965	Stare Kramsko	1	Ihr dorft nicht sulche Kindereien treiben.
+qr	4968	Zodyn	1	Ihr dürft nie sune Kinderaien traiben.
+qr	49727	Wendhausen	1	Jü dörft nich sön'n Kinnereen drieben!
+qr	49752	Jessenitz	1	Ji dörm nich sonn Kiennerie drieben.
+qr	49767	Glaisin	1	Ji dörw't nich sönne Kinnerie'n driewen.
+qr	49778	Neese	1	Jieh dörm nich sönn Kinnerien driehm̄.
+qr	49794	Pampin	1	Ji dörbn nich son'n Kinnerien drieben.
+qr	4980	Tarnowa	1	Irr derft ni sulche Kinderein tr[e?]iben.
+qr	49802	Grabow	1	Ji derb'n nich so'n Kinderei trieb'n.
+qr	49813	Wangersen	1	Jie dröäft nich son'e Kinnerre drieb'n.
+qr	49821	Regesbostel	1	Ji dörft nich sünne Kinnereien driem'n.
+qr	49828	Tötensen	1	Iie dröb'n kein so'n Kinnerei drieben.
+qr	49840	Lassrönne	1	Iü dörft nich so'n Kinneree'n drieben.
+qr	49857	Juliusburg	1	Jü dörft nich son Kinderien drieben.
+qr	49881	Setzin	1	Ji dräwt nich son'n Kinneri drieb'n.
+qr	49898	Neuhof	1	Ji dörwen nich son'n Kihnnerien driewen.
+qr	50010	Gresse	1	Ji dö(r)ft nich sö̆n'n Kīnnerie drieb'n.
+qr	50027	Moraas	1	Ii dörft nich son'e Kinnerien triw'n.
+qr	50058	Paarsch	1	Ji dörft nich sön'n Kinnerien drieb'n.
+qr	50068	Barkow	1	Jie dör'n nich sonn'n Kinnerien drib'n.
+qr	50073	Schwinge	1	Ii dröwt nich so'n Kinnerree driv'n.
+qr	50087	Wisch	1	Ji dräft neg sohn Kinnertäg drib'n.
+qr	50117	Ottensen	1	Ji därf nicht son Kinnerien triem.
+qr	50130	Willinghusen	1	Jü dörf nig sôn Kinnertâg trib'n.
+qr	50142	Basthorst	1	Jü dörft nich sohn'n Kinneri drieb'n.
+qr	503	Szpegawsk	1	Ji derwe nich soone Kinderie driwe
+qr	5031	Lugow	1	Ihr dörft nicht sune Kinnereien treibn.
+qr	50321	Lehmrade	1	Jüh dörfd nich son'n Kinnerei drieb'n.
+qr	50332	Drönnewitz	1	Ji dörm nich son'n Kinnerie drieb'n.
+qr	50343	Gross Rogahn	1	Ji dörm nich sönn Kinnȇrien (Kinnȇknäp) driewm.
+qr	50357	Kladow	1	Jie dörft nich sönne Kinneried'n driewén.
+qr	50365	Hohen Pritz	1	Jieh dörben nich sonn'n Kinnarieren drieben.
+qr	50377	Jellen	1	Ji dörm nich sonn Kindereien driewen
+qr	50385	Lübsee	1	Ji dörft nich senne Kinnerie drieben.
+qr	50471	Bellin	1	Ji dahn nich soe Kinnerspell driwen.
+qr	50523	Retzow	1	Ji dörm nich son'n Kinnerie driwen.
+qr	50538	Hohenbollentin	1	Ji dörn nich sun Kinnärig'n driw'n.
+qr	50552	Golchen	1	Jie dörrn nich sonn Kinnaspill driem.
+qr	5056	Biala Wies	1	Ihr dürft nich sune Kinndirrei traiben.
+qr	50567	Strippow	1	Ji dahrm nich sonne Kinnareien drieben.
+qr	50575	Rosenhagen	1	Jie dörben nich sonn Kinnarie drieben.
+qr	50583	Siniechowo	1	Gi dörre nich sun Kinderie driewe.
+qr	50604	Drzewica	1	Ji dörre nich sün Kinerie driewe.
+qr	50622	Lisowo	1	Jieh döera nich mehä sohne Kinneriggaä driewä.
+qr	50719	Lubin	1	Ji döra nich sön Kinnari driwa.
+qr	50765	Gross Ridsenow	1	Ji dörb'n nich sonna Kinnarin drieb'n.
+qr	50779	Schlutow	1	Jie dörm nig sönn' Kinnerie driw'n.
+qr	50794	Seedorf	1	Ji dörd'n nich so'n Kinnärien drieb'n.
+qr	50805	Bentzin	1	Ji dörben nig sonn'r Kinn'rrien driewen.
+qr	50818	Ranzin	1	Ii dörm nich sonä Kinnärie driwan.
+qr	50830	Lassan	1	Ji dör'n nich so'n Kinneri'n drieben.
+qr	50840	Sallenthin	1	Gi dörm nich sohn Kinneri drieb'n
+qr	50844	Miedzyzdroje	1	Ji dör'n nich sün Kinnerie driem.
+qr	50850	Sieroslaw	1	Gei döt nich sen Kinnäriä driwä.
+qr	50872	Bedzieszewo	1	Ji döra nich sünn Kinnaria driwa.
+qr	50892	Skalin	1	Gi döre nich sün Kineri driwe.
+qr	5091	Boruja	1	Jhr derft nich sulche Kingdereien treiben.
+rs	50973	Koserow	1	Ji dörwen nich sun Kinnerie driewen.
+rs	50986	Trzesacz	1	Ji dörĕ nich süne Kinĕreĕ driwĕ.
+rs	51	Baerwalde	1	Sōn Kinä̌riegä dö̌wä̆ Ji nǐ drīwä̌.
+rs	51012	Hohen Wangelin	1	Jie dörm nich sönn Kinnerin'n drie'men.
+rs	51030	Rittermannshagen	1	Ji dörft nich sonn' Kinnerien driben.
+rs	51048	Tarnow	1	Ji dörft nich sön'n Kinnari'n drib'n.
+rs	51065	Trollenhagen	1	Ji dar'm nich sönna Kinnarin dri'm.
+rs	51081	Brohm	1	Jih dahrm'n nich sönne Kinnare driem'n.
+rs	51089	Eichhof	1	Ji darm nich sönn Kinnari drib'n.
+rs	51098	Gegensee	1	Ji darben nich sunne Kinneriegen drieben.
+rs	511	Krasniewo	1	Jie derwe nich sone Kiegerie driewn.
+rs	51101	Drogoradz	1	Ji darben nich solch Kinneri driven.
+rs	51112	Budzien	1	Jie darb'n nich sonne Kinneriej['n?] drieben.
+rs	51123	Krzywice	1	Ji döre͡ä ni sunn Ki|ne͡ä|rie driwe͡ä.
+rs	51135	Plantikow	1	Ii dörre nich sănn' Kinnerije driwĕ.
+rs	51143	Kloster	1	Ji dörn nich sönne Kinnerien drieb'm.
+rs	51146	Wiek	1	Ji dörb'n nich sone Kinnerien drieb'n.
+rs	51162	Nardevitz	1	Gie dörm nich sohne Kinnerie drieb'm.
+rs	51170	Zingst	1	Ji dörb'n nich soon Kinnärien drieb'n.
+rs	51173	Wendisch Langendorf	1	Ji dörb'm nich sonne Kinnerien drieb'n.
+rs	51179	Wüstenei	1	Jie därben nich sona Kinnarien drieben
+rs	51188	Saiser	1	Ji dör'm nich sonnă Kinnarig'n drieb'm
+rs	51191	Ahrenshoop	1	Jie därm nich sohn Kinnerie'n drieb'm.
+rs	5122	Gorzyca	1	Ihr derft nicht solche Kindereien treiben.
+rs	51232	Neu-Reddevitz	1	Ji dörm nich sone Kinnerie drieb'n.
+rs	51243	Langendamm	1	Jie dörrn nich sonne (auch: sohne) Kinnerie'n drieb'n.
+rs	51257	Redebas	1	Ji dörm nich son Kinnarien driem.
+rs	51267	Pütte	1	Jie dörm nich sone Kinneri driw'n
+rs	51277	Poseritz	1	Jī dö̂rm'n nîch sōnâ Kînnârien driem'n.
+rs	51288	Thiessow	1	Ji dörb'n nich sone Kinnerien maken.
+rs	5130	Ransko	1	Ihr derft nich sune Kinderreien traiben.
+rs	51346	Reppelin	1	Ji dörft nich son'n Kinnerien drieb'n.
+rs	51355	Kavelsdorf	1	Ji dörm nich sona Kinnarin drib'n.
+rs	51370	Müggenwalde	1	Ji dörm nich sona Kinnarien driebm.
+rs	51387	Steffenshagen	1	Gi dörm nich sohn Kinnerie drieben.
+rs	5139	Grudna	1	Ihr dirft nischt solche Kindereien treiben.
+rs	51397	Vierow	1	Ji döan son Kinnarien nich drïbn.
+rs	51409	Karlshagen	1	Ji dörb'n nich so'n Kinnerien drieb'n.
+rs	5141	Brody	1	Ihr derft nicht sulche Kindereien treiben.
+rs	51413	Trzebusz	1	Ji döre nich son Kinneridsch driwe.
+rs	51539	Kisserow	1	Jie dörb'n nich sonn'n Kinnerie drieb'n.
+rs	51549	Federow	1	Ji dörb'n nich sonn Kinnerie drieben.
+rs	51561	Klein Vielen	1	Ji darw'n nich son'n Kinnerien driwen.
+rs	51571	Holldorf	1	Ii darm nich sönne Kinnerin drib'n.
+rs	51584	Woldegk	1	Ji darb'm nich sön'n Kinnerien drieb'm.
+rs	51598	Trebenow	1	Jie darb'n nich sun Kinnarie moaken.
+rs	51611	Rossow	1	Ji da ne Kinnarie driben.
+rs	51624	Wawelnica	1	Ji dadn nich son'n Kinne(r)ringen dribn.
+rs	51637	Bergland	1	Gi dör'n nich sune Kind'ri driewen.
+rs	51646	Dabrowica	1	Jie döre nih sunn Kineriege driewe.
+rs	51661	Bobrowniki	1	Ji döra ne sun Kineriga driwa.
+rs	51805	Grabow	1	Jih darm'n nich sön'n Kinnerien'n drieb'n.
+rs	51816	Lärz	1	Ji darm nich sönnă Kinneridn driebn.
+rs	51832	Ahrensberg	1	Jieh darm'n nich sonna Kinnarien drieb'n.
+rs	51838	Hasselförde	1	Ji darm nich sönne Kinnare driem.
+rs	51850	Buchenhain	1	Ji darben nich sunn' Kinneri drieben.
+rs	51866	Röpersdorf	1	Ji darb'n nich sunn Kinnerien driben.
+rs	51877	Grünz	1	Ji dahn ni son'n Kinarihn dribn.
+rs	51893	Pargow (Pargowo)	1	Ji dad'n nich sün'n Kinnerri'n dreb'n.
+rs	51906	Zelislawiec	1	Ji darn nig sour'e Kinnerie driewen.
+rs	51918	Slotnica	1	Ji dară nĕ sōn Kinnerij driwa.
+rs	51934	Zukowo	1	Ji dară nĭ soën Kinn'rieă triwă.
+rs	5203	Nekielka	1	Ji darä nie son Kinnerig driwä.
+rs	52064	Papenbruch	1	Ji därb'n nich sönne Kinnereien drieben
+rs	52070	Wallitz	1	Gie derb'n nich sönne Kinnerein drieb'n.
+rs	52079	Menz	1	Gieh derwen nicht sonne Kinnerei driewen.
+rs	52086	Barsdorf	1	Gi derm nich sönne Kinnerei drieb'n.
+rs	52095	Petersdorf	1	Ji deărm nich sunne Kinnarien drieb'm.
+rs	5210	Skwierzyna	1	Err derfft nich sone Kindereien treiben.
+rs	52103	Flieth-Stegelitz	1	Ji darb'n nich sun'n Kinnarie drieben.
+rs	52113	Passow	1	Jie därwe nich sun Kindereien driewe.
+rs	52129	Widuchowa	1	Jie darb'n ni son Kinnerieen drieb'n.
+rs	52139	Banie	1	Jie darwen nee soone Kienerien driewen.
+rs	5214	Krobielewo	1	Ihr derft nich sohne Kendereien treiben.
+rs	52154	Obromino	1	Jie dāre ne sn Kinerie drieve.
+rs	52169	Brzezina	1	Ji döre ni sun Kinerig driwe
+rs	52276	Bagicz	1	Ji dȫǟra nich so'n Kienariega driewa.
+rs	52278	Lasin Koszalinski	1	Jie dörè nich son Kinerige driewe.
+rs	52311	Sieciemin	1	Ji drefe nich son Kinneri[e?] driewe.
+rs	52349	Pomysk Wielki	1	Ji' brukä nich son Kinnerigä driwä.
+rs	52359	Szymbark	1	Gie däwe nich son Kingerig driewe.
+rs	52374	Szklana Gora	1	Jü derft nicht sone Kindereien driwen
+rs	52396	Skowarcz	1	Ji derwe nich sone Kinderi driwe.
+rs	52428	Oberlakendorf (Solnica Górna)	1	Ju derfe nich sone Kingerien driwe.
+rs	52440	Deep (Czajcze)	1	Ji dreuwa nich son Kinnarija driewa.
+rs	52463	Bialecino	1	Jüh drowe nich soon Kinnerie driewe.
+rs	52478	Bronowo	1	Ji dräwa nich son Kin̄ärie driwä.
+rs	52484	Reddies	1	Jü brucka nich son Kinderri drüwa.
+rs	52567	Pasewark	1	Juh derwen nich sohne Kingerie driewen.
+rs	52578	Bad Rügenwalde	1	Ji derve nich son Kinerie driewe.
+rs	5259	Prusim	1	Ihr därft nicht solche Kindereien treiben.
+rs	52600	Radoslaw	1	Jie döwä nich sohe Kinnerije driewe.
+rs	52700	Losino	1	Jü brucke nich son Kinggerrie driewe.
+rs	5271	Przyborowko	1	Ihr derft nich sulche Kinderei'n treiben.
+rs	52714	Labiszewo	1	Ji drefe nich son Kingarien driwa.
+rs	52722	Karwen	1	Ji bruke nich son Kinderie driwe.
+rs	52755	Heubude (Stogi)	1	Ju derwe nich sone Kinderie driwe
+rs	52762	Skowronki	1	Ju derrwe nich so'ne Kingerie driwen.
+rs	52766	Rowy	1	Ji derwa nich sohe Kindari driwa.
+rs	52767	Machowinko	1	Ji däwe nich son Kingerie driwe.
+st	5277	Gleboczek	1	Gi dare ne son Kinerig driwe.
+st	52816	Hela	1	Ji dörwe nich sone Kinderie driwe.
+st	52819	Jaroslawiec	1	Ji dreuwe nich son Kinnerije driwe.
+st	52825	Krolowstrand (Królewice)	1	Ji derwe nich son Kin̄erij driwe.
+st	52854	Drzezewo	1	Ji döwe nich son Kingerei'e driewe.
+st	52865	Niebedzino	1	Ju derwe nich sone Kinderi driewe
+st	52871	Dabrowka Wielka	1	Juh därwe nich sohne Kinderie driewe
+st	52881	Luzino	1	Ju derwe nicht sone Kinderie driwe.
+st	52887	Pogorze	1	Ju derwe nich sone Kinderien drüwe
+st	52896	Bialogora	1	Juh dorwae nich sonae Kinderei driwae.
+st	52905	Karwenbruch	1	Jie derwe nicht sone Kindereien driewen.
+st	5291	Gorki Noteckie	1	Je derwe nich son Kingerein driwe.
+st	52913	Wladyslawowo	1	Ju darwe nich solche Kinderei driwe.
+st	52915	Lebieniec	1	Ju derwe nich mehr sone Kinderie driewe.
+st	52927	Zelazna	1	Juh' derwa nich son Kinderi driwa.
+st	52936	Tylowo	1	Ju derwe nich so ne Kinderie driwe.
+st	5305	Rapin	1	Ji därwen nich sone Kinnereien driwen
+st	5315	Pilka	1	Ji dafj son' Kinderik nich driwe.
+st	5316	Rzecin	1	Ji daro ne son Kinnerenko driwo.
+st	532	Zulawka Sztumska	1	Sohne Faye braucht er mehr nich mormachn.
+st	5322	Tarnowko	1	Ji daro ne son Kineriggio driwo
+st	5374	Groß Golle (Golaszewo)	1	Ji darä nich son Kinderign drüwe
+st	5386	Lubicz	1	Jie dare ni son Kinerige driwe.
+st	5397	Slonow	1	Ji dare ne so'n Kinnerie driewe.
+st	5402	Huta Szklana	1	Ji darŏ ne soŏn Kinnerigg driwŏ.
+st	5409	Marienbusch	1	Ji darô nî son Kinerigô driwô.
+st	5421	Ostrowki	1	Ji daro ni so Kinnerigge triwe.
+st	54871	Neuarad (Aradu Nou)	1	Ihr deaft nit Kindereie treiwe.
+st	54873	Bistritz (Bistriţa)	1	Er terft nät esutchen känderåen draebn.
+st	54878	Arzis (Artsyz)	1	Ihr dárft so ne Kendereia net treiba.
+st	54897	Wolfswinkel (Wilczy Kat)	1	Ji deäwe nech soun Kinnerigg drijwe
+st	549	Przecmino	1	Schie döve nich imme son Kinĕrij driwe.
+st	54901	Zarobka	1	Ji da͡äre nech son Kinnerigg drijwe
+st	54902	Brzozowka	1	Ji däwe nech son Kinespälkes driewe.
+st	54906	Brzezno	1	Ji dewe nech sohn Kinnerig driewe.
+st	54909	Zbojenko	1	Gih dewe nech son Kinerich driwe
+st	5491	Brzezno	1	Ji daro gaune son Kinnetög doo.
+st	54912	Siemiatkowo	1	Ji dēwe nech sohn Kinerigche driewe.
+st	54913	Sompolno	1	Chü däch ny son Kinorigio triwo. 
+st	54914	Sächsisch Regen (Reghin)	1	Der terft nät efu schee Känderain dreim.
+st	54915	Elek (Elek)	1	[nicht übersetzt]
+st	54916	Freidorf bei Temeschwar	1	Ihr derft nit so Kinderein treiwe
+st	54917	Sarata (Sarata)	1	Ihr dèrfét nét solche Kéndérniå dreibå.
+st	54918	Scheindorf (Sâi)	1	Iehr tef[?]d korrigiert it so-e Kinderei trajbe.
+st	54919	Fünfkirchen	1	Es teafts net solche marekstike traibn
+st	54921	Iklad	1	Ochtuntzwanzik. Esz te͜arfz net sŏlchasz Khindaspl treim.
+st	54922	Sanktanna (Sântana)	1	Toi teráft net só kindisé sáhá treiva.
+st	54924	Martinsdorf (Metiş)	1	Er terft net e̊selle̊ K̄ängderåe̊ treiwe̊n.
+st	54926	Bentschek (Bencecu De Sus)	1	Tir terft net solche Kinnereie treiwe
+st	54929	Agnetheln (Agnita)	1	Ir tiarfst net esialln Käinderoen dreimen. 
+st	54930	Gottlob	1	Ihr derfé nit solchi Kinereie treiwé
+st	54932	Klein-Schemlak (Semlacu Mic)	1	Ehr dirft net so Kinnereie dreiwe
+st	54933	Sankt Andreas (Sânandrei)	1	Dir derfft nett so Kinnereie treiwe.
+st	54935	Neuwerbas (Novi Vrbas)	1	Der terfs khe so Khinereie treivə. 
+st	54937	Groß Scham/Freudenthal (Jamu Mare)	1	Ihr derft net so Kinnerei treiwe
+st	54938	Torschau (Savino Selo)	1	ëar ta͑rfe khe͑ so khinara̹e-ã̷́ traewĕ̷̃
+st	54939	Weprowatz (Kruščić)	1	Ir tärfd khõ solxi kindraͥe måxe (traͥewe)
+st	54941	Neue Weingärten (-)	1	Ihr derft net sone Kendereia treiba.
+st	54942	Seimeny (-)	1	Ihr derfn ne̽tt so̰ne Kendèrei[e?] dreibe.
+st	54943	Neubeschenowa (Dudeştii Noi)	1	Deir derft neit sälch Kein'rei'n treiw'n.
+st	-55055	Oborki	1	Ji derfe nech son Kinderigj driwe.
+st	-55064	Zale	1	Ji dürfe nech solche Chine[??]erenne drieve.
+st	-55066	Zuromin	1	Ihr durft nicht solche Kindereien treiben.
+st	-55070	Grudusk	1	Ihr dürft nicht solche Kindereien treiben.
+st	-55072	Ostroleka	1	Ihr dürft nicht solche Dummheiten machen. 
+st	-55081	Ciechocinek	1	Ji köhne nech sohn Kinnerigge driewe.
+st	-55091	Skepe	1	I dijewe nech son Kinnerich driwe
+st	55094	Gradzanowo Koscielne	1	Ju därft nech sone Kinerej driewe.
+st	-55096	Modelka	1	Ji dewe nech su Kinnerich driewe.
+st	-55099	Makow Mazowiecki	1	Ji darft nie sohn Kindlichreio triebo.
+st	55106	Susk	1	Ji diere nech soun Kinnerije triwa.
+st	-55107	Zawidz Koscielny	1	Ji déive nech soken Kinerich trive.
+st	55109	Kondrajec Szlachecki	1	Ihr darft nicht Kinneränke driewe.
+st	-55110	Kicin	1	Ji döwä nech sohn Kinnärie triewä
+st	55111	Szostka	1	Ihr dürft solche Kinderrenken nicht machen.
+st	-55113	Kujawka	1	Ehr dirft net so komisch sei!
+st	55116	Osiek	1	Ji döwe nech sohn Kinerige driewe.
+st	-55117	Nowe Karwosieki	1	Sie dieve nech Damelich drieve.
+st	-55129	Lenie Male	1	Gi dewe nech Kinnesache drüwe
+st	-55133	Meczenino	1	Ju sollt nich solchit Kinderspel muoki.
+st	-55135	Dzierzaznia	1	Ihr derft nich solche Kindereien treibn.
+st	-55137	Konary	1	Ji darft nech sone Kinderanke driwe.
+st	-55139	Kozy	1	Ji dare ne se͜on Dö̆sheetŏ driewŏ.
+st	55140	Zglowiaczka	1	A. Ihr (könnt) kennt nicht solche Kindereien machen. B. Ihr derfat sotche Kendereia net treiba.
+st	55163	Grabkowo	1	Jik salt nich solch Kinweino driwo.
+st	-55164	Wieslawice	1	Jie daf nech so Kinnerenne treiben.
+st	-55166	Budy Borowickie	1	Ji dewe nech son Kindjet driewe.
+st	-55169	Orszymowo	1	Jï döwe ne son Kinnerigge drïewe.
+st	-55171	Nowy Dwór Mazowiecki	1	Yi dewe nech son Kineriche driwe.
+st	-55173	Kozie Glowy	1	Ihr derft nich süne Kinderei traïben.
+st	-55177	Brdow	1	Es derft's net selchene Kindastickeln treibn.
+st	-55181	Psary	1	Ji dare̊ ne̊ son' Kinnerige̊ driewe̊.
+st	-55187	Nowa Wies	1	Ji dewe näch son Kinnerije driwe.
+st	-55189	Miszory	1	Ji däwe nech son Kinnerrej driewe.
+st	5519	Berka v.d. Hainich	1	Deu derft nett solche Kinderei tieb (!)
+st	-55191	Secymin Polski	1	Ji diärfe mi nöch sun Knerich driefe.
+st	55210	Niechcianow	1	Ihr dürft nicht solche Dummheiten machen. 
+st	-55216	Kaptury	1	Ji diewe nech son Kinerej driewe.
+st	-55218	Stare Miasto	1	Ihr därft nich süne Kindereien treiben!
+st	-55226	Tarnowka	1	Ihr derft nicht solche Dummheiten machen.
+tu	-55238	Zychlin	1	Ihr derft nicht solche Kinderreien treiben.
+tu	-55240	Kopojno	1	Iehr derft nich sone Dummheïten machen
+tu	55244	Natalia	1	Ihr dürft nicht so Dummheiten machen – nicht so dämlich sein.
+tu	55252	Potrzaskow	1	Ihr dürft nicht solche Kindereien (Kinderspiele) treiben. 
+tu	-55254	Szamow	1	Ihr derfet net so was mache.
+tu	-55258	Wierzchy	1	Ihr derft nich sone Kinderrein triben
+tu	-55261	Gadowskie Holendry	1	Ihr derft nicht solche Kindereien treiben.
+tu	-55262	Turek	1	Ihr dürft nich so kindisch sein.
+tu	-55266	Sarbice	1	Je schäle nij Dummhiete driwe.
+tu	-55269	Zimne	1	Ji kenne ne soon Kinerig driwe
+tu	-55270	Leczyca	1	Ehr derfen netde so Dummheide dreiwe.
+tu	55271	Piatek	1	Ejr terfen net so kindisch sein.
+tu	-55300	Goliszew	1	Ihr derft net so Kinnereien treibe.
+tu	55305	Poroze	1	Sune Tummheet sellt ihr goar nich machn.
+tu	-55306	Rzymsko	1	Ihr dirft nich' solche Dummheiten (treiben) machen.
+tu	-55308	Baldrzychow	1	Ihr derft nich sone Kinderein treiben.
+tu	55320	Sanie	1	Ihr deft nich sone Kindersachen machen.
+tu	-55322	Marianow	1	Ihr dürft nicht so kindisch sein.
+tu	-55326	Jozefow	1	Ihr dirft nicht solche Kindereien treiben.
+tu	55330	Morawki	1	Dits derfts nid secho Kindrein treim.
+tu	-55331	Rzepiszew	1	Ihr derft nich solchen Schabernak treiben.
+tu	-55338	Justynow	1	Ihr derft nich so kindatschatschlig sein.
+tu	-55344	Slomkow Suchy	1	Ihr deaft net sechane Kindereien (Ausdruck dafür fehlt) traim.
+tu	-55349	Markowka	1	Ia derft nich solche Kin[dereß]ien treibn.
+tu	-55350	Rzgow	1	Er dürfen net solche Kinnereie treibe.
+tu	-55354	Laznowska Wola	1	Ihr derft eich nich so kindisch halten.
+tu	-55359	Kiebitztal (Kuznica)	1	Ihr derfts net solchene Kindereien treib'n.
+tu	-55360	Ostrow	1	Ihr dürft nicht immer solche Dummheiten treiben.
+tu	-55361	Wielka Wies	1	Ihr dürft nicht so dumm nützen.
+tu	-55362	Suchcice	1	Mecht nicht solch Spieleri, spielt sich nicht so.
+tu	-55363	Siemkowice	1	Ihr darft net sone Kendereia treibn.
+tu	-55365	Dobroslaw	1	Ihr dürft nicht so schlecht sein.
+tu	-55366	Belchatów	1	Ihr derft nich solche Bälgereien treiben.
+tu	-55373	Luszczanowice	1	Solche Kindereien dürft ihr nicht treiben.
+tu	-55375	Ozarow	1	Ihr dürft nich solche Kindereien treiben.
+tu	-55376	Jaworzno	1	Ihr derft eich nich so kindisch haben.
+tu	-55377	Natolin	1	Ihr dürft nich sulche Kinderei treiben.
+tu	-55382	Czarny Las	1	Ihr derft net solli Tummheite treibe.
+tu	-55383	Huta Stara A	1	Her darft ni sette Kinderein treibn.
+tu	55384	Myszkow	1	Ihr dürft nicht solche Kindereien treiben.
+tu	55387	Dabrowa Gornicza	1	Ihr dürft nicht solche Dummheiten treiben.
+tu	-55389	Kwaczala	1	Ihr derft net solche Kindereie dreiwe.
+tu	-55394	Freistadt (Fryštát)	1	Seid nicht so kindisch!
+tu	-55408	Bistritz (Bystrice Nad Olsí)	1	Ihr dürft nicht solche Kindereinen machen.
+tu	-55411	Radziechowy	1	Deis derft's nit soa Kinnerspiel moach'n.
+tu	-55415	Skomlin	1	Ihr dürft nicht solche Kindereien treiben.
+tu	-55416	Kamesznica	1	Diet's därft's niät seche Kinnerei'n treib'n!
+tu	-55418	Schönwalde (Wrzosy)	1	Ji dewe nich son kinerich driewe.
+tu	-55425	Wyszewo	1	Jie däwe nich son Kienersträck treiben.
+tu	-55522	Nojewo	1	Ihr dürft nicht solche Kinderreien treiben.
+tu	5717	Illeben	1	Ihr därft nech selche Kengeräin tribe.
+tu	573	Lykowo	1	Jî dörre nich sôn Kînesträ̂k drîwe.
+tu	5730	Gebesee	1	Ihr darft nech soddche Kinnerei’n driebe.
+tu	5752	Thalborn	1	Jhr därft nech selche Kinereien treibe.
+tu	5774	Nirmsdorf	1	Dr därft keene Spälerein treibe.
+tu	5810	Crölpa-Löbschütz	1	Ihr darft nich sulche Kingerrein treibe.
+tu	5827	Krössuln	1	Ihr därft nich sulche Kingerei treibe.
+tu	584	Dunowo	1	Ji diöwa nich son Kinneriega driwa.
+tu	5863	Michelwitz	1	D'r därft nich sitte Kängerein treibe.
+tu	5867	Hollenbach	1	Dieh derft nich su Kinnereein triebe.
+tu	5875	Schlotheim	1	Ihr müßt nich solche Kingereien trieben.
+tu	6074	Obertopfstedt	1	Döi tärft nech selche Kingeräin triebe.
+tu	6089	Etzleben	1	Ehir derft nech selche Kingeräien triebe.
+tu	6105	Allerstedt	1	Ihr därft nich silche Kingerei'n treiwe.
+tu	6116	Gleina	1	Ihr därft nich sulche Kingerei treibe.
+tu	6129	Kleinkayna/Kleinkaina	1	Ihr derft nich sulche Kinnereien treibe.
+tu	6168	Rehbach	1	Ihr düeft nich solche Kindereien treibn.
+tu	6171	Mengelrode	1	De derft nitt solche Kindereggen trieben.
+tu	6185	Kirchworbis	1	Die derft nit solche Kinnrstreiche triwe.
+tu	6196	Grosswenden	1	Ih (Dieh) derft nich sa (salche) Kingereien triewe.
+tu	6341	Auleben	1	De derft nich selche Kingere|ien triebe.
+tu	6359	Hackpfüffel	1	Ihr därft nich suolche Kingerrëën triewe.
+tu	6371	Mittelhausen	1	Ihr därft nich solche Kingereien treibe.
+tu	6388	Stedten	1	Ihr därft nich sulche Kinnerei'n treim'n.
+tu	6400	Ammendorf	1	Ihr därft nich suliche Kinnere͜i'n dreim͜'n.
+tu	6418	Glesien	1	Ihr derft nich solche Kinnereien treiben.
+tu	6426	Zwinge	1	Jie dürwet nich sau Kinrie triem.
+tu	6472	Stolberg (Harz)	1	Ihr dörft nich solche Kingerei triebe.
+tu	6577	Walkenried	1	De derft nich son'ne Kindereïje tribe.
+tu	6593	Königerode	1	De därfd nich sonne Kingereen driewen.
+tu	6610	Vatterode	1	Ihr därft nich sunne Kingerein treib'n.
+tu	6630	Freist	1	Ihr därft nich sohne Kinnerreien treiben.
+tu	6656	Drehlitz	1	Ihr derft nich solche Kinnerrein treim.
+tu	6660	Möst	1	Ihr därft nich solche Kinnereien treim.
+tu	6682	Ramsin	1	Jhr derft nich sonne Kinnerei'n treim.
+tu	6690	Braunlage	1	Jie dörben nich sonne Kinderien drieben.
+tu	6705	Rieder	1	Ji darm'n nich saune Kinderrieen drieb'n.
+tu	6793	Riefensbeek	1	Ji därwet nich koike Kinderien drïmen.
+tu	6801	Neuwerk	1	Gie derben nich sanne Kinderrieen drieben.
+tu	6821	Aschersleben	1	Jih darwet nich sonne Kinderieen driewen.
+tu	6831	Gröna	1	Ihr darft nich sonne Kindereien treiben.
+tu	6848	Elsdorf	1	Ihr dirft nich sonne Kinnereien treiben.
+tu	688	Pregowo Zulawskie	1	Ji därfe nich sone Kingerie driewe.
+tu	6891	Danstedt	1	Jie döhrt nich sau 'ne Kinderie drieben.
+tu	6960	Abbenrode	1	Jie diërt nich saune Kinderien drieben.
+tu	6981	Emersleben	1	Jie dörft nich sonne Kinderien drieben.
+tu	6995	Egeln	1	Ji derpen nich sonne Kinderien driwen.
+tu	7007	Eickendorf	1	Jü dormen nich sonne Kinneri’en drieben. (driemen.)
+tu	7022	Kämeritz	1	Jei därb'n nich sonne Kinderei'n drieb'n.
+tu	7033	Natho	1	Jä darmen nich sonne Kinnerräen trieben.
+uv	7180	Liemehna	1	Ihr därft nich sulche Kindereien treim.
+uv	7198	Röcknitz	1	Ihr därft nich solche Chindereien treibn.
+uv	7212	Lausa	1	Jar derft nich sulche Kindereien treim.
+uv	7225	Kosilenzien	1	Är därft nich sulche Kindereien treiben.
+uv	7246	Kahla	1	Ihr dörft nich süne Kindereien treiben.
+uv	7253	Ruhland	1	Ihr derft nich solche Kinereien treiben.
+uv	7263	Lauta	1	Ihr derft nich solche Kinderei'n treiben.
+uv	7363	Brösa	1	Ihr därft nich sunne Kindereien treiben.
+uv	7371	Falkenberg	1	Ihr derft nich sulche Kindereien treiben.
+uv	7384	Rosenfeld	1	Ihr derft nich solche Kindereien treiben.
+uv	7394	Wiederau	1	Ähr derft nich sone Kindereien treib'n.
+uv	74	Gwiezdzin	1	Jü dawe ni so'n Kindereie driwe
+uv	7412	Lugau	1	Ihr derft nich sonne Kindereien treiben.
+uv	7427	Dollenchen	1	Ihr derft nich solche Kindereien treiben
+uv	743	Rudki	1	Gi döra ni soen Kinerieg driewa.
+uv	7435	Petershain/Neupetershain	1	Ihr derft nicht solche Kindereien treiben.
+uv	748	Budy	1	Ji döwä ni son Kinnerig driwä.
+uv	7529	Schleesen	1	Ihr derft nich' sonne Kinnereien treib'n.
+uv	7546	Bleddin	1	Gäht doch nich sonne Flagsereien an.
+uv	7562	Klossa	1	Gi derben nich sonne Kindereien trieben.
+uv	7576	Werchau	1	Ji därfen nich sonne Kindereien driem.
+uv	7586	Wendisch Drehna/Walddrehna	1	Jei derft nich sone Kindereinen drieb'n.
+uv	7596	Schlabendorf	1	Ihr derft nich solche (sone) Kinderein treiben.
+uv	760	Zakrzewo	1	Gÿ dawa nie son Kinnerige drive.
+uv	7688	Straach	1	Je derb'n nich sonne Kingereien trieb'n.
+uv	769	Nowy Dwor	1	Ji dawa nich son Kinareiga drewa
+uv	7696	Rahnsdorf	1	Iä darbn nich sonne Dummheten triwn.
+uv	7710	Rohrbeck	1	Jei derben nich sonne Kingera͡ien drieb'n.
+uv	7721	Wahlsdorf	1	Jei därwe nich sonne Kingereien driewen.
+uv	7732	Hohendorf	1	Jei dörben nich sone Kinderei drieben
+uv	7747	Treppendorf	1	Ihr derft nich soone Kindereien machen.
+uv	7758	Sacrow	1	Ihr derft nich solche Kindereije treiben.
+uv	7964	Zedtlitz	1	Är darft nich sulche Kängerei treibm (treim).
+uv	7979	Hohnbach	1	Iär durft nich siche Kinderein treim.
+uv	80004	Grindelwald	1	Iehr derft nid settig Chinderijen tryben.
+uv	80023	Bosco	1	Ér tufut net daru Chindišpéli mochchu.
+uv	8011	Ziegra	1	Ehr dürft nich silche Kingerein treim.
+uv	803	Lunawy Male	1	Gi dörf dä nicht son Kinnärig driwä
+uv	8032	Rausslitz	1	Aehr darft nich siche Kingerein treib'n!
+uv	8055	Coswig	1	Ähr därft ni siche Kinderein treim.
+uv	8075	Langebrück	1	Ihr dürft nĭ siche (silche) Kindereien treib(e)n. (in nicht das i sehr kurz.)
+uv	8092	Frankenthal	1	Ihr derft ne söcke Kindereien treiben.
+uv	821	Bukowiec	1	Ii döwe nich so'n Kinerig driewe.
+uv	8272	Fuchshain	1	Är derft nich sulche Kingerei treim.
+uv	8289	Nerchau	1	Ihr därfd nich sulche Kindeoreien dreim.
+uv	83	Charzykowy	1	Ju dawe ni sohen Kinerig driwn.
+uv	8305	Limbach	1	Ehr derft nich silche Kingerein treim.
+uv	8321	Mergendorf	1	Ähr därfd nich siche Kingerreihn treim.
+uv	8345	Rostig	1	Ehr durft nich silche Kindereien treiben.
+uv	8358	Steinborn	1	Ihr dirft nie sitte Kinderein treim.
+uv	8368	Bernbruch	1	Ihr darft nu sulche Kinderein treibn.
+uv	8505	Dretschen	1	Ihr do͡arft nä siche Kindereien treiben.
+uv	8519	Kittlitz	1	Ihr dürft nä siche Kindereien treib'n.
+uv	8532	Kunnerwitz	1	Sed og ne su kindsch.
+uv	8546	Siekierczyn	1	Ihr dirft ne siche Kinderein dreib’n.
+uv	8560	Wolbromow	1	Ihr dürft nä sitte Kindereia treib'n.
+uv	8574	Pieszkow	1	Ihr dürft keen suan Kinderä träba.
+uv	8590	Prusice	1	Ihr de['r?]ft nĭ sullche Kinderei'n treiba.
+uv	8614	Ogonowice	1	Eir dürft nich sulche Kindereien treiba.
+uv	8716	Förstgen	1	Ihr dürft nicht solche Kindereien treiben.
+uv	8726	Ober Horka I	1	Err dürft nu sulche Kinderei'n treiben!
+uv	8736	Wegliniec	1	Ihr dürft ne sulche Kindschheoten treiben.
+uv	8740	Kierzno	1	Ihr durft nich süche Kingdereien treiben
+uv	8751	Szczytnica	1	Ihr darft ni s[u]lche Kinderrein treiba.
+uv	8762	Göllschau (Goliszów)	1	Ihr dirft nie sulche Kinderreien treiben.
+uv	8777	Bieniowice	1	Ihr dürft nie sulche Kinderrehn trebn.
+uv	880	Strzeczona	1	Jie döwe ne sunn Kinneriege driewe.
+uv	8852	Klein Priebus	1	Ihr mißt ni sulche Kindereien mach'n.
+uv	8858	Okraglica	1	Ihr dürft nie sulche Kinderei treiben.
+uv	8865	Koberbrunn	1	Err dürft ne sulche Kinderei träben.
+uv	8870	Armadebrunn (Studzianka)	1	Ihr dirft nie solche Kinderreen treb'n.
+uv	8878	Trzmielow	1	Eihr derft ne sulche Kindereen treben.
+uv	8888	Skladowice	1	Är dürft nich sulche Knidereen treben. 
+uv	895	Jelencz	1	Ji dawe ni soa Kinnespell driewe.
+uv	8972	Cantdorf	1	Ihr sollt nich solche Kindereien treiben.
+uv	8981	Eichwege	1	Ihr derft nich sone Kinderein machen.
+uv	899	Iwiec	1	Gie dawa ni son Kinariga driewa.
+uv	8990	Jedrzychowice	1	Ihr dürft nicht solche Kinder rein treiben.
+uv	9000	Kunzendorf (Kunice)	1	Ihr dörft ne siche Tummheten machen.
+uv	9015	Chichy	1	Ehr dirft nie sulche Kindereien treben.
+uv	9025	Przeclaw	1	Ehr dirft ni su͡iche Ki͡jnderee'n treeb'n.
+uv	9036	Jakubow	1	Eer tirscht nie sittne Kinderreen treben.
+uv	9052	Rzeczyca	1	Ehr derft nie mei sau ea Kinderspeio treben.
+uv	906	Busnia	1	Iie derfe nech son Kinnerieg driewe.
+uv	9143	Mehlen	1	Ihr derft nich sone Kingdereien treiben.
+uv	9152	Dluzek	1	Ihr derft nich sone Kindereien treiben.
+uv	9163	Bialowice	1	Ir̆ dirft nich sulche Kiñdereien treiben.
+uv	9179	Broniszow	1	Ehr derft ni sulj' Kindereen treben.
+uv	9193	Alt Tschau (Stare Żabno)	1	Ehr dürft nie sulche Kinderreen treben.
+uv	920	Lisie Katy	1	Jih dörwe nich sone Kinnerie driwe.
+uv	9200	Grochowice	1	Ihr thirrt nich sitte Kindereen treeben.
+uv	9207	Konradowo	1	Äir durft nie sulche Kinndereen treben.
+uv	9274	Staakow	1	Ihr derft nich sohne Kinderein treiben.
+uv	9280	Kaltenborn	1	Iähr derft nich sohne Kindereien treiben
+uv	9288	Czeklin	1	Ihr darft nich solche Kindereien treiben.
+uv	930	Goczalki	1	Ihr dörft nich soche Kinderei treibe.
+uv	9303	Lubiatow	1	Ihr dörft nich sune Kienderrain traiben.
+uv	9314	Zielona Gora	1	Ihr derft nich sulche Kindereien treiben.
+uv	9323	Zabor	1	Ihr dürft nich soune Kinderän träben.
+uv	9335	Ciosaniec	1	Eir türft nich sune Kinderein treiben.
+vw	9400	Miloszyce	1	Ihr dürft nich sulche Kindereien treiben.
+vw	9417	Prietzen	1	Ihr derft nich sŭ͜ilche Tummheeten machen. (ui verbunden als einen Buchstaben.)
+vw	9433	Ujazd Gorny	1	Ihr dürft nie sulche Kinscherei treiba.
+vw	9453	Lisowice	1	Ehr dürft ni sulche Kinderein treiben.
+vw	9558	Ligota Piekna	1	Eir dürft nich sullche Kinnscherroe treeben
+vw	9579	Jenkowice	1	Aier dirft nich sulche Kindereen treben. (machen)
+vw	9592	Jemielna	1	Ihr dürft nich sullche Kindereien treeben.
+vw	9612	Prawikow	1	Eir dirft ni sulche Kinderee treben.
+vw	9622	Warzyna	1	Eir dürft nich sulche Kinderreeen treben.
+vw	9717	Domanowice	1	Eire dürft nie solche Kinderee'n trēben.
+vw	9739	Kamien	1	Ihr darft nicht solche Kindereien treiben.
+vw	9760	Krzelow	1	Ihr durft ni sulche Kinderreien treiben.
+vw	9775	Staszowice	1	Ihr dirft nich sulche Kindereien treiben.
+vw	9799	Lazy Wielkie	1	Air dürft ni sulche Kindereien treben.
+vw	983	Gromaden	1	Ji döft ni sone Kinnärij driwä
+vw	984	Friedberg	1	Ji dörä ne so͡in Kinärig driwä.
+vw	9848	Godnowa	1	Eir dirft nich solche Kindereien treiben.
+vw	9877	Chroscina	1	Är dürft nie sulch Kinderreen treben.
+vw	9891	Gosciejewice	1	Eich därf nie sulche Kindereen treben.
+vw	99	Trumiejki	1	Ji dörfĕ nich sa͡onĕ Kingerrijj driewe.
+vw	990	Walownica	1	Gi dawe nigg son Kinerige driwe.
+vw	9903	Sonnenfeld (Orpischewo)	1	Eier dirft nich sulche Kindereen treben.
+vw	9919	Wierzowice Male	1	Eir dürft nich sulche Kindereen treben.
+vw	9926	Wodniki	1	Eihr türft nie sitte Kindereen treeben.
+vw	994	Kabat	1	Gie döwe nech sen Kinnerig driwe.
+vw	9984	Morkowo	1	Ähr dürft nie siulch Kinderrehn treb'm.
+vw	54872	Reval	1	Hīr türft nich ssolche Halbereien machen [… nich ssō halperīren)
+vw	52353	NA	1	Ji brucke nech son Kinderie driwe.
+vw	30173	Ajoncourt	2	Veūn deveume fère de pareils enfantilèges.
+vw	30197	Vaxy	2	[nicht übersetzt]
+vw	30214	Bénestroff	2	Vos ne deveumes fare de piats enfants en lês.
+vw	30225	Attilloncourt	2	In ne fame fare te telles bagatelle.
+vw	30248	Bezange-La-Petite	2	Vō ne devēume fère de pareillu enfantièje
+vw	30254	Maizières-Lès-Vic	2	Ve n' devéme fâre parèïe enfantiége
+vw	30268	Richeval	2	I ne vos omme permis de faire des proeïes âties.
+vw	30285	Lommerange	2	Ven ne dévèm fa des enfentillages pareils.
+vw	30314	Argancy	2	Zeu ne dêêveume fare des pérââilles affantillèges.
+vw	30325	Vernéville	2	I n'faume fare des enfantiièges enlè
+vw	30351	Ancy-Sur-Moselle	2	On ne deveume fâr de têls ofantilléges.
+vw	30361	Orny	2	Je' n'devreume tolèrer cest[ur?]s afantillèges.
+vw	30374	Hémilly	2	Veu n'oseu fâre des payraie enfentilliêge
+vw	30379	Champenay	2	Wo'n dui mi fär di pareil änfantilliäje.
+vw	30410	La Petite Lièpvre	2	Et ne vos à mis permis de faire de souëttes effantillages. / Il ne vous est pas permis de faire de pareilles enfantillages.
+vw	30421	Montreux-Vieux	2	Vos me dettes piu faire des mêmes toies d’ofin.
+vw	30429	Xhoffraix	2	In fait nin faire des jeus d’éfant ainti.
+vw	30436	Pont	2	I n'fâ nin fé dè djeu d'èfan parèie.
+vw	30058	Karkelbeck	3	Jums ne walna toke Wainÿstes prowÿti.
+vw	30068	Kinten	3	Jus ne turit tokuis Waikuiskus (?) prowit.
+vw	30078	Rudienen	3	Jus nepriwalot tokius Rasputus warÿti.
+vw	30083	Kolleschen (Kolletzischken)	3	Jus ne turit tokius Waikai warite.  
+vw	-54895	Warszawa	10	īər dǫrft nid āsę́lxə Kindərąi (dafür meist hebr. Katṓəs, nie ‚Spaß’) šbīlən (‘treiben’ nicht üblich).
+vw	9746	Kobyla Gora	10	Ihr müßt Euch niſcht ſo kindernariſch machen.
+vw	46572	Nebel	11	Jam mut egh sok Jonganskråm drîv.
+vw	46636	Hooge	11	Jeam töer ä sockea Kinderreien driwwea.
+vw	46640	Wobbenbüll	11	Jem möret äg sock Biernerei driwe.
+vw	46699	Horsbüll	11	Üm meihe ei ſak Bärneſpelln drive.
+vw	46759	Oland	11	Jam dürr e sok Berenwerk driwe.
+vw	46773	Mönkebüll	11	Jem möune ä ſok Jungensthöge vor ferre.
+vw	46888	Archsum	11	J mut ek sok Jungensreil driif.
+vw	47862	Helgoland	11	Djém däönnĭ(ch) Sseök Kinne(r) spell mṓke. (drīu)
+vw	48241	Wangerooge	11	Jum durt nicht ſuchs Benerrie driew.
+vw	F002p	Hindeloopen	11	Jimme mutte n't (of: naàt) 1) so likbōnnig 2) dwaän.
+vw	B079p	Zurich	11	Jimme moatte net sa bêrnêftich dwaen.
+vw	F036p	Oudemirdum	11	Jĭ̀mə mŭ̀tə nĭ̀t sằ bĕ̀nəg dwằn.
+vw	F003p	Woudsend	11	Jìm mòtte nèt sà bènnig dwaen
+vw	B084p	Wommels	11	Jim moat net sa bernachtig dwaen
+vw	F013c	Oudehaske	11	Jimme moatte net sa be(r)nachtig dwaen.
+vw	B094p	Grou	11	Jɩm(ə) m(w)at(ə) nεt sa lɩ̇ts ʋε:zə.
+vw	B024b	Wijns	11	Jim mu̯atə net sa benach'təh dwan
+vw	B099a	Opeinde	11	Jimme moatte net sa bernachtig dwaen.
+vw	B035a	Zwagerbosch	11	Jimme matte net sa benachtug/ben-achtug dwaan.
+vw	B014p	Paesens	11	Jim mat net sa benachtig wèze/dwaen.
+vw	G001b	Appelscha	11	Jim motte net za blnaettig dwan
+vw	46905	Westre	12	I mo iend dru sān Börnstreger.
+vw	46914	Sophiental	12	I maa nit drÿv sāaren Bör̄nvorker.
+vw	46932	Sonderburg (Sønderborg)	12	I ma itt driw ʃadnt Börnerie.
+vw	46938	Lysabbelholz (Lysabildskov)	12	I mo it drüw sorren [S?]Kosn [Pfeil zeigt, dass 'drüw' ans Ende des Satzes kommt.]
+vw	46939	Toftum	12	I' maa' indt dryvv' saarr'en Bòenztregg'er!
+vw	46948	Hönning (Hønning)	12	I maa it dryv saaet Bónvark.
+vw	46957	Beftoft (Bevtoft)	12	I maae it dryv saaen Börnstreger.
+vw	46968	Norder Wilstrup (Nørre Vilstrup)	12	I maa idt væe saa banne.
+vw	47006	List	12	J maa ent driŭ ʃaarn Börnkram.
+vw	47007	Jerpstedt (Hjerpsted)	12	I maa itgör sorn Barnverker
+vw	47016	Ellum	12	I tör it gi jer a mæ sāarren Bönnstræger.
+vw	47029	Kassöe/Kassö (Kassø)	12	I skal it gór saa'en Bórnstreger.
+vw	47040	Feldstedtholz (Feldstedskov)	12	Æd vil it göed soiend Börnstræger.
+vw	47048	Hagenberg (Havnbjerg)	12	I må it drüw såen Böenstrege.
+vw	47052	Hellwitt (Helved)	12	NEU (Buchstaben korrigiert): I maa it dryv saarren Bóenstræger.
+vw	47057	Kamptrup (Kamtrup)	12	I maa et drÿv s̆aaen Bönstreger
+vw	47066	Grönnebeck/Grönnebek (Grønnebæk)	12	I maa it brōg saaen Bönstreger.
+vw	47073	Tyrstrup	12	I maa it vær saa banne.
+vw	47078	Hvidding (Hviding)	12	I tór it drÿv ∫aadden Bórn∫treger.
+vw	56471	Merzdorf	41	Wü ṅedeischo tak żiżeze büsch.
+vw	56504	Burg	41	Wy nedyrbicźe tajku dźeźazu ruh nacź.
+vw	56507	Nochten	41	To ßo sa was njehodźi, tajke dźěcźaze Rajki cźinicź.
+vw	56520	Luppa	41	Tajke tryski činic njesměće.
+vw	56694	Widno	42	Niemohta taciego dzecẏnstwa prowadzẏc.
+vw	56784	Zelistrzewo	42	Wa tak bele co nie muszita robic.
+vw	56785	Jastarnia	42	Wanimuszita taczewö dziectwa robic.
+vw	56799	Zalakowo	42	Wa niemata taczych dzieczynstw robic.
+wx	56805	Sianowska Huta	42	wa nemoseta takego Dzecenstwa prowadz.
+wx	56814	Rebiechowo	42	Wa nie darwota tacie dzecyństwa prowadzyc.
+wx	56846	Piechowice	42	Wa niemuseta takie decynne sprawé prowadzec.
+wx	53478	Rombark	43	Niepotrźebuj[eć?]ie się ztakimy dzieczyns[?]imy zabawkamy zabawiać.
+wx	53489	Rytel	43	Nie musicie takiego dziecinstwa czynić.
+wx	53514	Lubocien	43	wy niepotrz ebujecię takie dzieczenstwo prowadzicz.
+wx	53521	Kamionka	43	Nie wolno nam takich dzieciństw prowadzić.
+wx	53535	Orzelek	43	Niewolno wam takiej dzieoinności prowadzic.
+wx	53538	Szyroslaw	43	Takich dziecinstw niepowinniśćie prowadzić.
+wx	53545	Pisanica	43	Nie mata takiego głupstwa ozÿnić.
+wx	53567	Glinki	43	Nie wolno wam się trudnić takiemi dzieciństwami.
+wx	53571	Gruczno	43	Wy nie musicie takich dziecinnośei wytwarzać.
+wx	53581	Slawianowo	43	Nie musicie takich dziecińskiech rzeczy czynić.
+wx	53602	Zoledowo	43	Nie musicie takich dzieciństw robić.
+wx	53616	Wrocki	43	Nie musicie takieg[e?] głupstwa robić.
+wx	53620	Morzewo	43	Nie powinniście takich dzieciństw pełnić.
+wx	53656	Bartosze	43	Nie musicie tak iak małe dzieci robić.
+wx	53663	Kraplewo	43	Nie zdało by się wam takich dziecińskich žartów prowadzić
+wx	53708	Pokrzydowo	43	Nie musicie takie dzieciństwo robić.
+wx	53710	Boleszyn	43	Niemusicie takiego dziecinstwa płatać.
+wx	53721	Nowy Swiat	43	Wy niemacie takie dziecinstwa pędzić.
+wx	53745	Wapno	43	Nie powinniście być takienic dziecinnemi.
+wx	53756	Mamlicz	43	Niewolno wam takich gł[up?]stw robić!
+wx	53760	Rojewo	43	Nie powinniście takich dzieciństw robić.
+wx	53771	Wiatrowo	43	Wy nie powinniście takiego dzieciństwa robić.
+wx	53819	Galezewo	43	Nie powinniṡcie takich dzieciństw prowaszić.
+wx	53822	Lojewo	43	Nie powinniście takiego dzieciństwa robić.
+wx	53834	Bielawy	43	Nie možecie być dzicinnymi.
+wx	53859	Chludowo	43	Nie macie czyniċ takiego dzieciństwa.
+wx	53872	Strzyzewo Koscielne	43	Nie musicie takich głupstw stroić.
+wx	53877	Kamieniec	43	Nie powinnĭście takiemĭ dziecĭństwamĭ się trudnić.
+wx	55537	Ceradz Koscielny	43	Nie powinniście robić takiego dziecicństwa
+wx	55565	Poznan	43	Nie powinniście takich faksów stroić.
+wx	55569	Lowecin	43	Nie wolno wam takie dziecinstwa robić.
+wx	55586	Mierzewo	43	Nie powinnisèie takich dziecinstw wypreawiać.
+wx	55592	Dabrowka Wielkopolska	43	Nieśmiycie takiégó dziecinnego głupƚwa gnai.
+wx	55593	Slupia	43	Nie muśicie się zajmować dziecinstioem.
+wx	55621	Babin	43	Nie powinniście takich dziecinstw (=dziwactw) wyprawiać.
+wx	55635	Tadeuszowo	43	Nie macie prowadzić takie dziecinstwo.
+wx	55646	Gorazdowo	43	Wam niewolno dziecinstwem się bawić.
+wx	55656	Sierakowo	43	Nie powinniście się takimi rzeczami jak dzieci bawić.
+wx	55688	Turew	43	Nie bądzćie tacy dziecinni.
+wx	55701	Ludwinow	43	Wy nie muṡicie takich dzieciástw robić.
+wx	55702	Radomierz	43	Nie macie takiego drieciństra robić.
+wx	55720	Kotlin	43	Nie powinnyṡeie dziecin skieh rzeezy robiċ
+wx	55725	Gorzno	43	Ja ṁemógł bym t[a]kiego dziecińilwa robié.
+wx	55729	Drzeczewo Pierwsze	43	Nie powinniscie takich dzieciństw prowadzić.
+wx	55733	Rusko	43	Wy nie powinniście trudnić się dzieciństwem.
+wx	55741	Brzezie	43	Nie powinniście takich dzieciństw robić.
+wx	55782	Torzeniec	43	Nie powinniście takick dzieciństw robić!
+wx	55794	Kuznica Slupska	43	Nieṡmiećie takich dzieċinnych zabawek prowadziċ.
+wx	55803	Kuklinow	43	Nie powinniṡcie się takiemi dziecinstwami bawi[ć?].
+wx	55828	Pomocno	43	Nie powinniście trudnić się takiemi dziecinstrami.
+wx	55848	Uciechow	43	Nie potizebujecie takiego dziecinstwa robić.
+wx	55855	Przygodziczki	43	Nie musicie takiego dziecinstwa crynić.
+wx	55859	Kaliszkowice Kaliskie	43	Niepowinniście takie robić dzieciństwa!
+wx	55878	Trebaczow	43	Nie ómiécie tákich dziecinnych zabaw prowadzić.
+wx	55894	Greboszow	43	Nie mozecie takich błosnow stroić.
+wx	55900	Pawlowice Gorzowskie	43	Nieśmiecie takiego dziecinstwa prowadzić.
+wx	55940	Skoraszewice	43	Niema głupstwa robić.
+wx	55947	Kwiatkow	43	Nie rob[c?]ie takiego dziecinstwa.
+wx	55991	Zabrze	43	Wy nie smiécie takich dziecinskich błoznow robić.
+wx	56013	Radoszowy	43	Nieśmiecie takich błoznów robic.
+wx	56022	Budziska	43	Wy nieśmiecie takie głupstwo robić.
+wx	56027	Stanica	43	Nie možecie takich dziecinstw pędzić.
+wx	56041	Murcki	43	Wy nie smiecie takich dzieczinskich błoznow robić.
+wx	56053	Wilkow	43	Wy nieśmiycie takich dziecinskich graczków prowadzić.
+wx	56069	Dobieszowice	43	Nie macie takich błoznów prowadzić.
+wx	56077	Ujazd	43	Nie smiecie takich błoznów czynić.
+wx	56086	Rzeczyce	43	Wy niemożećie takiego dzieciństwa prowadzié.
+wx	56167	Staniszcze Male	43	Wy nieśmiécie takich błoznów prowadzić.
+wx	56190	Ligota Proszkowska	43	Nismie[cie?] tekie błozny t[ra?]ibować.
+wx	56205	Radonia	43	Wy niesmiycie takiego Dziedzinstwa gonic
+wx	56237	Kotorz Wielki	43	Niesmiecie takich figlów płotać.
+wx	56247	Pawonkow	43	Wy nie śmiecie takiego dziecieństwa robić.
+wx	56252	Cieszowa	43	Nieśmiécie takiego dziecinstwa prowadzić.
+wx	56257	Zieliniec	43	Nie śmiecie takich głópstwów robić!
+wx	56269	Debiniec	43	Woj ńemacie takie dzeczenskie rzecze robić.
+wx	56274	Wedrynia	43	Nie smiecie takie dziecinstiej uczynki czynić.
+wx	56338	Frydek	43	Nie smiejcie tak zbyƚkowac.
+wx	56349	Pielgrzymowice	43	Nie śmiecie wy takich dziecinskich robot prowadzić.
+wx	56375	Nieboczowy	43	Wy niemożećie takich dziećinstwóv prowadzić.
+wx	56381	Swierklany Dolne	43	Wy nie smiy cie takich dziecinski błeznów czynic.
+wx	56539	Gieralcice	43	Nie śmiejcie takie błazne robić.
+wx	56549	Borki Wielkie	43	Wy nieśmiécie takie dziecinstwa prowadzić.
+wx	56576	Kamien Slaski	43	Takich blasnów nieśmicie robić.
+wx	56580	Strzelce Opolskie	43	Nieśmiecie takich błoznów prowadzić.
+wx	56600	Tarnowskie Góry	43	Nieszmiecie taki dziecinnstwa czynić!
+wx	56650	Bujaków	43	Takie fraszki niemožecie pędzié.
+wx	56681	Suszec	43	Wÿ niesmiecie takiego dziecienstwa prawadzić.
+wx	56761	Mgowo	43	Wyście nie powinni [t]akie dziecińnstwa robi[ś?] wyztwaza[é/ć?]
+wx	56850	Lekarty	43	Nie potrzebujecie takie dziecinstwa prowadzić.
+wx	56861	Lewald Wielki	43	Nie muszita takich dzecinskich rzeczi czinić.
+wx	56870	Januszkowo	43	Wy ni mata takich dziecinskich spraw wytwarzać.
+wx	56877	Zimna Woda	43	Niebąćtas dzećamy!
+wx	56884	Roklas	43	Nie polrzebujeta takiego dziecinstfa proeadzeć.
+wx	56897	Lipowiec	43	Wi nicmuśita takech dźiećinnich tabawkow prowadźeć
+wx	56903	Zawojki	43	Wie mi mata take Dzecinstwa prowadzic.
+wx	56916	Slawka Mala	43	Nie muszyta takech dzerynskech spran prowadzećz.
+wx	56953	Baranowo	43	Nie bądz dzieckiem.
+xy	56956	Macice	43	Nie mata takiego dziecinskiego głupstwa czinić.
+xy	56963	Narzym	43	Nie muszyta się tak pieszczić.
+xy	56966	Napierki	43	Nie musita take głupstwa robiecž
+xy	56975	Mierki	43	Wy nie musita takiego głupstwa stroieć.
+xy	56979	Butryny	43	Nie macie takie dziecinskie rzeczy prowadzić.
+xy	56994	Jerutki	43	Wÿ nepotrzebujeta takich dziecinskich rzezij gonić.
+xy	57047	Nowy Dwor	43	Nie mata tak po dziecin[ʃk?]u paʃłępować.
+xy	57066	Wysoki Grad	43	Nie mata takich dziecińskich rzecy cynić.
+xy	57070	Pogobie Srednie	43	Wy niemusita takiego głupstwa robieć.
+xy	57074	Lipnicken (Lipniki)	43	Wy niemusita taky dzieciństwow czinei.
+xy	-57081	Klebark Wielki	43	Niemoźeła (niemoźiecie) takiego dzieczynstwa prowadzić.
+xy	57106	Rybno	43	Nie wolno wama takiech dziedzinskiech spra[?] prowadzić
+xy	57168	Saplaty	43	Wÿ niemata takiech dziecinskiech rzeczÿcğniecz.
+xy	57181	Krutyn	43	Take głupstwa nie muschita c[y?]nić.
+xy	57183	Zdory	43	Takowych dziecinskych rzeczy nie czyncies.
+xy	57186	Ruda	43	Wy niematä täke dziecinzki chigli spowadzäć.
+xy	57191	Dybowo	43	Nie musita wy takich dziecińskich rzecow robić.
+xy	57203	Dlugosze	43	Wy nie musyta takie dziecinskie wchigle stroić.
+xy	57219	Sulimy	43	Nię musÿcię take dziecinske tzeczÿ pendzÿć.
+xy	57232	Wejdyki	43	Wy niemuśita tak robić jak małe dzieci.
+xy	57258	Wilkasy	43	Nie mata takiego dziecinstwa prowadzyć
+xy	57275	Czerwonka	43	Wy nimota take dzieczyjstwa robźeć.
+xy	57298	Zastruzne	43	Wy niemusita takiego dziecinskego sposzobu cynić.
+xy	57304	Skomack Wielki	43	Niemusicie iko dzieci zartować.
+xy	57318	Kile	43	Nie musita takie dziecinstwo prowadzić.
+xy	57321	Prawdziska	43	Wi nie musita take dzeciencwa cinic.
+xy	57340	Mosina	43	Nie powinis̄cie sie bawiċ tak jak dzieioki.
+xy	57348	Bnin	43	Nie maciesię takimi (takiemi) dzi[ce]iństwami trudnić.
+xy	57379	Binkowo	43	Nie możecie takiego dzieci[a?]stwa prowadzić.
+xy	57381	Kolniczki	43	Nie musicie robić takion dzi[cs?]instw.
+xy	57394	Januszkowo	43	Niemusicie być takiemi dziecinnemi.
+xy	57406	Dabrowka Ludomska	43	Wy nie możecie takich głupstwów prowadzić.
+xy	57407	Wiecanowo	43	Nie ważcie się takiego dzieciństwa robić.
+xy	57397	NA	43	my niepotszebujeta nie take dzieci gnaci.
+xy	55528	Słone	44	Vy nesmite takové dětinstvi vyvádět.
+xy	56290	Groß Hoschütz (Velke Hostice)	44	Nesmiče  tak zbytkowat̆!
+xy	56344	Ellgoth-Hultschin (Ostrava-Lhotka)	44	Wy nesmjte take dětinstwj west̆.
+xy	44317	Zell-Pfarre	45	Vi kna smite take vtruške reč devat.
+xy	I125a	Heille	100	 Guldər moe nie sŏŏ kiĕndərachtəch doen.
+xy	I140p	Axel	100	Judder moeten nie zoo kinderachtig doen
+xy	I103p	Cadzand	100	 Julder moeten nie sio kinderachtig zien .
+xy	I110a	Slijkplaat	100	Julder moeten niet zo kinderachtig doen
+xy	I095p	Hoedekenskerke	100	julder motte nie zọ kinderachtig dōē
+xy	I101p	Krabbendijke	100	Julder motten nie zo kinderochtig doenne
+xy	I058p	Westkapelle	100	jŭ̀ldər moetə nī́ sŏ̀ kĭ̀ndərằchtəg do^e
+xy	I062a	Serooskerke	100	je moeten nie zoo kinderachtig doe
+xy	I048p	Colijnsplaat	100	jö̆ldər mŏtə ni sō̆ ki̱ndəractəc du̱wə
+xy	I055p	Sint Annaland	100	Julder motte nie soo kinderachtig doen
+xy	K173a	Kruisland	100	Goeullie mot nie zoa kinderachtig doen
+xy	K155p	Zevenbergen	100	Gullie mot nie soŏ kindərāāchtəg doen
+xy	K162a	Oosteind	100	Jö̆llie mot niĕj zŏŏw kindərāāchtəg dŏĕn.
+xy	I032p	Burgh-Haamstede	100	Julder motte nie sô kinderachtig doe
+xy	I031a	Scharendijke	100	Julder motte nie zo kinderachtig doe
+xy	I023p	Dirksland	100	juule motte niet zoo kinderachtig doewe
+xy	K086p	Zuid-Beijerland	100	jullie motte nie zô kinderachtig doen
+xy	K093p	'S-Gravendeel	100	Jullie mŏ-nie/mottə nie zô kinderachtig doen.
+xy	K101a	Nieuwendijk	100	Gullie mŏet niee sŏ kijerĕchtig doen
+xy	I008p	Rockanje	100	Jullie motte niet zoo kinderachtig doen.
+xy	K042a	Vlaardingen	100	jullie motte niet zoo kinderachtig doen.
+xy	K012p	Ouderkerk Aan den Ijssel	100	Jullie motte nie so kinderachtig doen.
+xy	K022p	Willige Langerak	100	Jullie moet niet zoo kijnderakkig doen.
+xy	D005p	Den Haag	100	Jylī motə nī sō kindəraXtəX dun
+xy	E179p	Zwammerdam	100	Jullie motte nie(t) zoo kinderachtig doen.
+xy	E181p	Zegveld	100	jŭ̀llī́ moetə nī́t sṓ kĭ̀ndərằxtəx doen
+xy	E133p	Katwijk Aan Zee	100	Jəlu̱i mŏ̀dít zô kĭ̀ndərằchtəg doewn.
+xy	E138b	Abbenes	100	Jullie mot niet zo kinderachtig doen.
+xy	E147a	De Kwakel	100	Jullie motte niet zo kinderachtig doen.
+xy	E080a	Velsen	100	Jullie moete nieso kinderachtig doen
+xy	E086p	Zaandam	100	Jollie moete niet zo kinderachtig doen.
+xy	E041p	Egmond Aan Zee	100	Jollie motte niet so kinderachteg doen
+xy	E047a	Stompetoren	100	Julle moete niet so kinderachtig doen
+xy	E010p	Sint Maarten	100	Jollie moete niet zo kinderachtig doen.
+xy	E005p	Westerland	100	Jullie motte niet zoo kienderachtig doen.
+xy	A009p	De Waal	100	Jullie moete niet zòò kienderachtig do^en.
+xy	K218p	Bladel	100	Gellie (hat) moet nie soo kijnderèchteg doewn.
+xy	K214p	Lage Mierde	100	Gullie moet nie(t) zoo kenderattig doen
+xy	K165p	Udenhout	100	Gellie mot nie zo kenderḕtig doen
+xy	K104a	Herwijnen	100	Gullie mōt nie sò keierechtig doen
+xy	K035p	Hei-En Boeicop	100	Jullie motten niet zoo kainderachtig doen.
+xy	E192p	Utrecht	100	Jullie motte niet zoo kinderāchtig dôen ( doe-un)
+xy	E124p	Ankeveen	100	Jullie moete niet zooveul flauwekul hebbe
+xy	E091p	Monnickendam	100	julie moet niet soo kindragtəg toen
+xy	E058p	Hoorn	100	Jullie moet(e) niet soo kinderachtig doen.
+xy	E031a	Oostwoud	100	Jullə moetə nī́t zo̱ō kĭ̀ndərằchtəg doen.
+xy	E003a	Den Oever	100	jullie moete niet zò kienderachtig doen
+xy	Q095p	Maastricht	100	Geer moot neet zoe kinderechtĕg doen.
+xy	L281p	Borkel	100	Gellie moet nie zó keinderạchtig doewn
+xy	L226p	Woensel	100	Gellie moet nie sŏŏ kijndərḕchtəg dŏĕwn.
+xy	L177c	Middelrode	100	Ge moet nie zò kènder'echtig doen
+xy	L093p	Lith	100	Gellie moĕt nie soŏ kijndərĕ̀chtəg (bod) doen
+xy	L003p	Maurik	100	ǥœli mɔ ni sò kεindərεxtəx dun.
+xy	F165p	Amersfoort	100	Juulie moete niet so kiendrā́chtig doen.
+xy	F121p	Bunschoten-Spakenburg	100	julie moen niet zoo kingderachtig doen
+xy	E040a	Venhuizen	100	julle moete niet zoo kinderachtig doen
+xy	E040p	Enkhuizen	100	jullie motte niėt zoo kinderachtig doen
+xy	A001p	Midsland	100	(jim) motten niet zò kiender achtig do͡en.
+xy	Q102p	Sint Antoniusbank	100	ger mōōt nēēt zōē kinderechtech dōēn
+xy	L318p	Stramproy	100	Gao mŏtj neet zoë wichtərechtig doon.
+xy	L288b	Laar	100	Gê mŏ̀tj nḗt soi (vg. toit) kĭ̀njərächtĭ̀g dṓn.
+xy	L237p	Helmond	100	Gellie moet nie zò kinderechtig doen.
+yz	L157a	Oventje	100	Gellie moet nie zoe keinderăchtig doen.
+yz	L102p	Ravenstein	100	gèlī moet nī zō kei̯ndərachtəg dun
+yz	L010p	Wageningen	100	Jylī motə nī zō kindəraXtəg dun
+yz	F170p	Barneveld	100	Jullie mon nie soo kienderachtig doewn.
+yz	F124p	Putten	100	juuliə moetən niet zoo kiendəraxtix doen
+yz	F077p	Urk	100	Jului moeten niet zoo kiengerachteg doen.
+yz	B046a	Minnertsga	100	Jimm' mat net sa bennich wêze.
+yz	L290p	Panningen	100	Gē mut nēt sō wiXtəreXtəg dōn
+yz	L211p	Leunen	100	Gɪllie mót nie zò kienderɛ̄chtig dōēn.
+yz	L116p	Beek	100	chillie mot nie soŏ kiĕndərechtəch dōēn
+yz	L023p	Arnhem	100	Jullie mot nie soo kindərachtəg doen
+yz	F173p	Hoenderloo	100	Jullie mot nit zó kindərachtəg doen.
+yz	F128p	Vierhouten	100	Juuln mutn niet zoo kienderlijk doe(ng)
+yz	F102p	Oldebroek	100	Ie muttn neet zo kinderachtig doon ( gek doon)
+yz	F079p	Ens	100	Jie moet mit mekanger neit zo kingerachtig doon.
+yz	F052p	Kuinre	100	Jullie moet'n niet zo kienderachtig doen
+yz	B002p	Nes	100	Jimme moete niet zoo kinderachtig doen
+yz	F207p	Drempt	100	iele mot neet zo kinderachtig doon
+yz	F179p	Zutphen	100	Ielie mot nît zoo kinderachtig doan.
+yz	F132p	Diepenveen	100	Iellu mot niet zoo kindrachtig doên.
+yz	F106p	Windesheim	100	ieluu mutten niet zoo kinderachtig doen.
+yz	F086p	Rouveen	100	ī mun nēt zṓ kīnd'ràchtəg dṓn
+yz	F060p	Steenwijk	100	Ie moet'n neët so kienderachtig doon.
+yz	F021p	Oldeberkoop	100	Jim moeten niet zoo kienderachtig doen.
+yz	G279a	Zieuwent	100	ĕĕj mŏăt nēēt sŏŏ kindərachtəg dōōn
+yz	G246p	Lochem	100	ielø: mɔt ne:t so: kindəʀaxtəg do:n.
+yz	G197p	Holten	100	Ieleu munn neet zoo keendragtg doon
+yz	G139a	Arriën	100	ie mun nie(t) zoo kinderlik dõõ"n
+yz	G091d	Linde	100	ie mut mit mekarə niet zo kiendərachtig doen
+yz	G024p	Dwingeloo	100	Ie moet ni'jt zoo kienderachtig doon
+yz	C145p	Zevenhuizen	100	Jim moet'n niet so kinderachtig doen.
+yz	C063p	Oldehove	100	joe mouten nait zo kienderachtig doun
+yz	C023a	Hornhuizen	100	Joe mout'n nait zo leutje pōtje achtig doun!
+yz	G257p	Haaksbergen	100	ieleu mot ni zo keenderachtig doon
+yz	G173p	Almelo	100	Iejlen must neet zoo kinderachtig doon
+yz	G094p	Gramsbergen	100	i'j mut niet doen as een klein kind
+yz	G031p	Orvelte	100	Ie moet niet zo kinderachtig doen
+yz	G007p	Rolde	100	Ei moe(w)t ni(ie)t zoo kinneraachtig doe(w)n.
+yz	C148a	Glimmen	100	Jə mo̱ut'n nait sō kĭndəràchtig doun
+yz	C070a	Sint Annen	100	Ie motn nait zoo kinderachtig weezn.
+yz	C001b	'T Lage Van De Weg	100	Je mon'n nait zo kienerachtig doun.
+yz	G079a	Amsterdamscheveld	100	jullie moetən niet zó kinderachtig doen.
+yz	G058p	Emmen	100	Eei moet niet zo kinderachtig doen.
+yz	G012a	Nieuw-Buinen	100	je mout'n nait zoo kinderachtig doun
+yz	C156p	Muntendam	100	Ie moutn nait zoo kinderachtig doun.
+yz	C081p	Weiwerd	100	Je mout'n nait zoo kinderachtig doun (weez'n).
+yz	C042p	Spijk	100	Je mouten joe nait zo kienderachtig aanstellen
+yz	C165p	Bellingwolde	100	Ie  moutn nait zoo kindrachtig weez'n
+yz	G285p	Meddo	100	I-j môt nêet zôo kinderachtig dôon.
+yz	K189p	Essen	100	Ge mot sĕuw e kinderaachtichèje ni-j doen.
+yz	P133a	Terlanen	100	Ge moet zeutjen kjinderstreken niet uitzette
+yz	K191p	Meerle	100	Ge moet zulke kinderachtige dingen nie uithalen
+yz	K234p	Wechelderzande	100	?ə myt zu:ən kindəraxtixhe:də ni du:n
+yz	K305p	Olen	100	Gə muët zo: ən kèndərstre:kən nĭvərkoəpən
+yz	P025p	Aarschot	100	gə mut zūən kindərstrēkə ni dūn
+yz	P154p	Outgaarden	100	gęlə maugə zuən keŋərə(straikə) ni tūn
+yz	K196p	Poppel	100	Gijlie mot zulke kenderstreken niet uĭtzetten
+yz	K241p	Retie	100	gə mut suən kęndərstiēɔn ni dyn
+yz	K314a	Gompel	100	gə mǫt sūən kendərstrē'ən ni ọthanən
+yz	P047p	Loksbergen	100	Ge mŏĕit zōēən kingerstoeke ni doen
+yz	P174p	Velm	100	Dje moet zoe gin keingerstreke aöetzette
+yz	L353p	Eksel	100	Ge moet zoo weichtterstreek niet beginnen
+yz	Q001p	Zonhoven	100	diə mot ziegin kẹinərstrēk oətzẹtən
+yz	Q079p	Guigoven	100	džiẹ mǫṷx zọṷ keŋərętəx ni dọn
+yz	L360p	Bree	100	gɛ motj zu kɛnjəraziestriək ned anvaŋə/uətzɛtə/uithalen/uitsteken
+yz	L417p	As	100	Gèr moot zoo'n kènjerachtigheid/kènjersreek net oetzette
+yz	Q253p	Montzen	100	dèr moot əzön kingəreejə neet dōēwə
+yz	O009p	Gottem	100	Ge n moet zoo kinderachtig nie sijn
+yz	O182p	Volkegem	100	G'en moet gilder zuk gieën joejsstreek'n/toer'n uitsteek'n
+yz	I163p	Oosteeklo	100	gə mut giən kɛndəraxtəge:də̃ øtste:kə̃
+yz	I243p	Destelbergen	100	ge moet zue kinderachtig nie zijn
+yz	O112p	Elene	100	Keun de giə geen [ə?]nnorzeler toeren, perten uitsteken. gi leeleke kloon. (=clown)
+yz	I261p	Appels	100	Ge moetj zèkken kinderstreken ni uitzetten
+yz	O149p	Iddergem	100	gən[e?] maɛkənke̜nkəraxte̜rə[??] nitdun.
+yz	O275p	Herne	100	ɣə mut' zẹk' kiŋ'ərǫəz'əriə nijǫətstē'
+yz	I178p	Beveren	100	Ge moet zoeë 'n kinderstreken nie uitsteken
+yz	I268a	Kalfort	100	xə myt sünə kindəręxtəxaətə ni tūn
+yz	O178a	Molenbeek-Saint-Jean	100	Zoe en kignerstreike mo je nemi oeitoele 
+yz	P198p	Sint-Genesius-Rode	100	ge 'n moet zoen kinderstreke nie uitzette (ook wel: doeng)
+yz	55045/H051p	Wulpen	100	jə mujøədər nia sa n jøədər kleə nəjuə strəekəyta:lə
+yz	55005/N024p	Westvleteren	100	jə mu liŋs nɛ ɔsans zɔ kindəraxtig zī
+yz	N116p	Loker	100	jə mu gę zǫkə kiŋdərstre:kŋ dũ:
+yz	H016p	Oostende	100	jə mudazə ni: zɛ:vərən
+yz	55036/H061p	Koekelare	100	jə mussə kindəraxtəx nituə:n
+yz	55022	Houthulst	100	Je moe geren geen zukke zotte manieren doen
+yz	N130p	Wervik	100	Ge moe geen zeke kienderuiomier em
+yz	H005p	Uitkerke	100	Je moet da zukke geen kinderachtigheden uitsteken
+yz	55044/H068p	Loppem	100	jə muzoə kindraxtə ni tu:n
+yz	N041p	Pittem	100	gə mu sǫk xęən kindraxtəxēdən dūn
+yz	55023/N141p	Kortrijk	100	gən mu(t) zøkə kęndəraxtəxēn ni dun
+yz	K245p	Deurne	100	Ge mut zoon kindərachtøgkedə nie uitstekə
+yz	K332p	Onze-Lieve-Vrouw-Waver	100	Ge mut zoe en kinderstreeke ni toen
+yz	P018p	Kampenhout	100	Ge moeit zokken kinderoize niet doe
+yz	47114	Aarö (Årø)	12	I maa it dryv saarren Bónnstregr!
+yz	56462	Babow	41	Wü nederbischo take źischestwo gonisch.
+yz	53549	Zon	43	Takich dziciństw nie powinniście robić.
+yz	53561	Myslowice	43	Wy nie śmi eci takie dziecinstwa prowndzic!
+yz	43859	Schachendorf	46	Nekate se tako po dičinji ponašati.

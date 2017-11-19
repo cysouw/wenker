@@ -1,0 +1,2499 @@
+Index	Bogennummer	REDE_Namen	Sprache	WS38::Transliteration WS38
+ab	10029	Ringhuscheid	1	D'Leckt sen hockt oall de baußen op dem Feld oan mihen.
+ab	10044	Malberg	1	Die Leit sein hei[??]t ahl debaußen ob dem Fehl un miehen.
+ab	1009	Nowy Klukom	1	De Lühg sin hüt alle butn up'm Fill o mäga. 
+ab	1018	Lasko K Choszczna	1	De Lüd sin hüte alle buta um Fil un mähga. -
+ab	10215	Pantenburg	1	De Leit sen haut all ob em Fähl on mihen.
+ab	1023	Golin	1	De Lüüd sin hüt alle buten up dem Fill u määge.
+ab	10230	Beuren	1	De Leut seu haut all off dem Flor un mahen.
+ab	10259	Mörsdorf	1	Die Leut sin haut all ejaus ufdem Fell am Mähe.
+ab	10275	Badenhard	1	Die Leit sen haut all drauß uf dem Fell un mähe.
+ab	1029	Niekursko	1	d'Lüd sinn heit alle buto um Fill ou mögo
+ab	10300	Welterod	1	Dej Läjt senn häjt all uf'm Feld un mähe.
+ab	10315	Bleidenstadt	1	Die Leit sinn heit all draus uff'm Feld unn mehe.
+ab	10335	Espeler	1	De Lekt sinn hekt aldabaußen ob dat Feld ond mihen.
+ab	1035	Stobno	1	De Lüd sin hüt alle buto up dem Feld u mäjo.
+ab	10351	Brandscheid	1	Die Läkt senn huit all da boußen ob dem Feld un mihen.
+ab	10368	Büdesheim	1	De Leck sinn hock all de boußen ob d'em Fäll unn mien.
+ab	10381	Waldkönigen	1	De Leut se-in hout all erüß ob dem Fell on mähen.
+ab	1050	Krostkowo	1	Dei Lüd sin hüt alle buten um Fil u meje
+ab	10584	Kalenborn	1	De Leut seun hoaud all droausen of dem Färl un mäen.
+ab	10601	Gappenach	1	De Leit sein haut all ejauße of dem Fell on mähe.
+ab	10621	Rhens	1	Die Leut sem heut all drauß of em Feld on mäje.
+ab	10649	Attenhausen	1	Die Läit senn häit all drouse uff dem Feld un mähe.
+ab	10663	Heringen	1	Die Leut sen haut all drauß em Feld un meje.
+ab	10690	Honsfeld	1	De Löck sen höck all do bussen ob't Feld ohnd mähne.
+ab	10697	Dahlem	1	De Löck senn höck all dofür opp dem Fell on mähe.
+ab	10709	Aremberg	1	De Löck sen höck all droußen ob dem Fell ond mäen.
+ab	10736	Hohenleimbach	1	Die Leut sein heut all draußen ob dem Feld on mähe.
+ab	10857	Hatzfeld (Eder)	1	Di Loure sei haure all dause off demm Feld un mih.
+ab	10974	Haindorf	1	De Lühd sen hüht all dusse of den Fähld ou mäh=we. -
+ab	110	Rozpedziny	1	De Lüd send hütte allee buten opem Fil on mähe.
+ab	11132	Schwarzwald	1	De Lüth sinn hütt âll drussen of dân Feld on mähen.
+ab	11149	Wipfra	1	De Liete sinn hitte alle drussen offen Fälle onn homm'n.
+ab	11180	Remda	1	D' Leite sinn heite alle druss'n off'n Fälle onn haun.
+ab	11197	Zeutsch	1	Die Leite sin heite olle drusse uffem Felle on mähn.
+ab	11212	Breitenhain	1	De Leute sin̄ heute alle drussen off'n Felle un möhen (machen lus)
+ab	11230	Burkersdorf	1	Die Läde sin̄ häte olle draußen uffen Fälle un mehen.
+ab	11252	Seelingstädt	1	Die Leut sind heut alle draußen of dem Fälde und han.
+ab	11262	Seebach	1	D. Lüt sin hütt all trausen uft n Fäld un hauben.
+ab	1133	Debenke	1	Dei Lüd sünn hüt alle ob dem Fill u mäge.
+ab	1139	Gliszcz	1	Dai Lüd sind hüt alle buten up dem Fäll u mejä.
+ab	11467	Boilstädt	1	Die Lüht sinn hitt all drussen af dän Fäld un mäen.
+ab	11485	Ingersleben	1	D' Lihte sin hitte alle drussen of den Fälle on schniden
+ab	1150	Czarze	1	De Lüd sent hit alle bute opem Feld, on haue.
+ab	11515	Gutendorf	1	Di Leite sinn heite alle drussen uf' n Falle onn schneiden.
+ab	11539	Kleinschwabhausen	1	Die Leite sen heite alle drussen uff'n Fālle on hauen.
+ab	11568	Thalbürgel	1	Die Leite sen heite alle drussen of'n Felle un mehen.
+ab	1157	Bielczyny	1	Die Leut' sinn heut alle draußa uff'm Feld unn hauet Korn ab.
+ab	11586	Bad Köstritz	1	De Leite sin heite olle draußen ufen Falle un haun.
+ab	11607	Lumpzig	1	De Leite sin heite olle draußen uffn Falle un mähn.
+ab	1162	Sierakowo	1	Dei Lüd sönd hitte alle butten op däm Föll o hogge.
+ab	11645	Gleismuthhausen	1	Die Leut senn hait ölla dausn Fald un mahn. (auch: mahna.)
+ab	11673	Mitwitz	1	Die Leut sin heit [o/a?]lla daußen aufn Feld und meha.
+ab	11763	Aub	1	Die Leut sen heint alla dous'n Flur un mähn.
+ab	1178	Sokoliniec	1	Die Lüg sinn hüt alle buta um Fell u. meiga.
+ab	11805	Seidmannsdorf	1	Die Leut senn heit öllä taus'n uff'n Fäld un mähn.
+ab	11825	Wallenfels	1	Die Leut sin heint alla daun aufm Feld und mäha.
+ab	11844	Neudorf	1	Die Leit senn heint alla̽ daußen afm Feld und mäha̽.
+ab	11864	Draisendorf	1	Die Leit sènn heit alla drauß'n af'm Feld und mäha.
+ab	11881	Sohl	1	D'leit sen alle drausz'n af'n fēld z tan miä.
+ab	11896	Sülzdorf	1	Die Leut' senn heut alle daus of's Feld on̄ mäwe -
+ab	1192	Debsko	1	De Lṻd sinn hüt alle būtê um Fel u mähje.
+ab	11927	Bachfeld	1	Die Leut senn heit äll draußen uf'n Feld un mahn.
+ab	1197	Plociczno	1	De Lüd sin hüt all buta up dem Fill o mäja.
+ab	1203	Nakielno	1	De Lüt sin hüt alle buta up dem Fel un mäja.
+ab	12037	Hildburghausen	1	Die Leut sen̄ heit alle drauß'n uff'n Fald un mäh'n.
+ab	12070	Neuenbau	1	Die Leut' sen heit ölle daußen uffn Fald un mehen.
+ab	1208	Wissulke (Wiesiółka)	1	De Lüd sinn hütt alle butä upp dem Fill u mäjä.
+ab	12085	Grumbach	1	Då Leit sänn heit alle draußn off'n Fåld unn mehn.
+ab	12104	Frössen	1	De Leit' sänn heint alle daußen off'n Feld und mähje.
+ab	12125	Schwand	1	De Leit sänn heit alle daußn (daun) Feld unn mehn.
+ab	12148	Kottengrün	1	De Leut sei heut alle daun ofn Feld un meh[e/n?].
+ab	1215	Paruszka	1	Dei Lühd sünn hüt allä butem upp dem̄ Fihl uh megä.
+ab	12153	Meiningen	1	Die (Leut) Lüt senn heute all drosse offn Feld unn mäwe.
+ab	12167	Altendambach	1	Die Leut senn heut allä drußä offön Feeld o meöbä.
+ab	12184	Altenfeld	1	Die Leut sen heint ölle dausse uffe, Fäld un habe.
+ab	12341	Rohrbach	1	Die Leute sin heute alle drußn of n Fele unn mähn.
+ab	12371	St. Jacob bei Leutenberg	1	De Leite sinn heute alle drussen uff'n Feld un mähn (ärnten)
+ab	12390	Neundorf (bei Schleiz)	1	D' Leit sen heit alle droßen uf'm Feld (Fäld) un mäh'n (mah'n).
+ab	12410	Ebersgrün	1	Die Leit sei heint alle daußen Fēild und mehe.
+ab	12428	Roitzschau/Rotschau	1	Di Leit sei allezam̄ drau'n offn Fald unn meha.
+ab	12496	Horsdorf	1	Die Leut sen heut ölla daun auf'm Feld und meha.
+ab	12529	Ködnitz	1	Die Leut sen heint alla daußn aufm Feld und meha.
+ab	12556	Kornbach	1	DIe Leut' sen heut alle draußn afn Feld und méha.
+ab	12572	Habnith	1	Die Leut sen heut alla draß aufm Feld und mäha.
+ab	12594	Uchenhofen	1	Die Leut senn heit ölla daußn aufn Fald und mähn.
+ab	12616	Reutersbrunn	1	Die Leut sen heit ölle aufe Feld und mahe.
+ab	12656	Weismain	1	Die Leut sen heit alla daun und meha.
+ab	1278	Insko	1	De Lüd sin hüt allě būta(m) up dem Fill ǒ̌ mäja.
+ab	1287	Konotop	1	De Lüd sinn hüt alle buta op dem Fill o mäja.
+ab	12876	Lohma	1	De Leite sin heite olle drauhsen uff'en Falle un (mäh'n) hoχn.
+ab	12898	Heiersdorf	1	D' Leut sin heut alle (olle) draußen ofn Fald un haun.
+ab	12921	Sachsenburg	1	D' Leut' senn heut' oll' dauß'n uff'n Fald onn hau'n.
+ab	12942	Rothenfurth	1	De Leud sin heud alle (olle) daußen uff'n Fald un mah'n.
+ab	1296	Zabin	1	Die Lüd sinn heit alle but'a up demm Fill ua mäga.
+ab	12969	Borlas	1	De Leuite sein heuite olle daußen un mäh'n.
+ab	13005	Dohna	1	De Leide s[e?]in heite olle draußen uff'm Felde und hau'n.
+ab	13019	Porschdorf	1	De Leute sin heute alle draußen off'n Felde und mähen
+ab	13047	Morgenröthe	1	Die Leut' sei heut alle draun' of' m' Feld und mehe.
+ab	13054	Rittersgrün	1	De Leut sei heit alle draußen offen Feld un häne.
+ab	1315	Kamien	1	Dei Lüd sünn hüt allä bäuten umm FIll u megä.
+bc	13169	Saupersdorf	1	De Leit sei heit alle draußen offen Fald un mähe.
+bc	13187	Kühnheide	1	De Leut sei heit olle draußn ufm Fãld un mädern.
+bc	13210	Himmelmühle	1	Dŏ Leit sei heit allă offn Fald draußn un hāă.
+bc	13226	Rübenau	1	Die Leut sei heut alle draußen offen Fald un hah.
+bc	13269	Thurm	1	Die Leite sin' heite alle drauszen uff'm Fälle un' mäh'n. - (auch hähn.)
+bc	13286	Ursprung	1	Die Leut sei heut olle daußen uffm Fald un haa.
+bc	133	Sosnowo	1	Dei Lür sünn hüt alla butem upp dem Fill o mega
+bc	13317	Dittmannsdorf	1	De Loit sein heunt olla draußn of'm Fald on mähn.
+bc	13340	Grosshartmannsdorf	1	Dé Leid sein heit oll' daußen uffn Făld un hō'n.
+bc	13355	Reichenau	1	De Leite sein heite olle daußen uff'm Falde un hoan (hauen).
+bc	13372	Liebenau	1	De Leite sein heite alle daußen uff'm Feld und hauen.
+bc	1338	Dzidno	1	Dei Lüd sinn hüt alle bütten um Fill uh mäje.
+bc	13529	Wang-Brückenberg	1	D' Leite sein heite oalle desta uf'm Felde an ha'n.
+bc	13543	Pisarzowice	1	Die Leute sein heute alle uff'n Fèlde un haun.
+bc	13559	Boguszow-Gorce	1	Di Leute sein heute olle dessa uff'm Felde und mähn.
+bc	13655	Niederleutersdorf/Leutersdorf	1	De Loite sen hoite alle haußen uffn Failde und hobn.
+bc	13678	Rohnau (-)	1	De Leüte sein heüte oalle drauß'en off'n Felde und haul'n. (mahdern)
+bc	13700	Rebiszow	1	Die Leute sein heute Olle dessa uf'n Felde an mähn (haun)
+bc	13719	Siedlecin	1	De Leute sein heute olle uff im Felde ann haun (für mähen).
+bc	13727	Myslow	1	D' Leutla sein heute olle dessa uff 'm Felde und madern.
+bc	13745	Jugowa	1	Di Leute sein heute olle dessa uf m Felde und haun.
+bc	13830	Wlodowice	1	De Leute sein heute olle draußa off'm Felde on hahe.
+bc	13869	Biernacice	1	Die Leute sein heute dirhinda ufm Felde und haun.
+bc	13887	Rzymiany	1	Die Leute sinn heute olle draußen uf dam Felde und haun.
+bc	13898	Szadurczyce	1	De Leute sein hinte olle draußen uff'm Felde und haun.
+bc	13929	Stoszowice	1	Die Leute sein heute olle draußa uf' m Felde und haun.
+bc	13996	Lutomia Gorna	1	De Leute sein heute olle draußa ouf'm Felde und haun.
+bc	14023	Roztocznik	1	Die Leute sein heute olle draußa uf'm Felde und haun.
+bc	1403	Dobieszewo	1	Dei Lür sinn hüt alla buten up dem Fill un mega.
+bc	14034	Lipowa	1	Di Leute sein heute oalle draußa uff m Felde und haun.
+bc	14074	Michalow	1	D'Loitte sän hoitte olle dressen uf'm Felde und mähn.
+bc	14092	Karczow	1	Die Leute sein heute olle draußen uf'm Felde und mähen.
+bc	14159	Jutrzyna	1	De Leute sein heute olle draußen am Felde und haun.
+bc	1417	Rydzewo	1	Dei Lür sünn hüt allě buten upp děm Fēl ǔ mēgě.
+bc	14234	Brzoza	1	Die Leute sein heute olle draußen uf'm Felde und haun.
+bc	14250	Jaczkowice	1	Die Leute sein olle draußen uf'm Felde und mähn.
+bc	14275	Piastowice	1	Die Leute sein heute olle draußen uf'm Felde und hauen.
+bc	14305	Bozanow	1	Die Leute sein heute olle draußa uf damm Felde und hau'n.
+bc	1432	Rzepowo	1	De Lüd sin hüt alle buten up dem Fĕll u mäga.
+bc	14321	Rogow Sobocki	1	Die Leute sein olle draußa uf'm Felde und hau'n.
+bc	14382	Wölfelsdorf (Wilkanów)	1	Die Leute sein heute olle dosse of'm Falde on mähn.
+bc	1442	Lubowo	1	Dei Lüd sünd alle bute up' m Fill u mege.
+bc	14449	Thröm (Trebom)	1	De Leit sein heit olln daussn am Feld ons hahn.
+bc	14458	Szczytna	1	D Loite sein hoite olle draußa of m Felde on haun.
+bc	14471	Jaszkowa Gorna	1	De Leite sein heite olle draußa of'm Felde 'on mähn.
+bc	14486	Nadziejow	1	Die Leute sein heute alle draußa of dam Felde und haun.
+bc	145	Smardzko	1	Dei Lüür sünn hüt alle buutem um Feell u mäje.
+bc	14505	Piorunkowice	1	De Leite sain hinte olle drausza uf' m Felde und mähn.
+bc	1451	Steinforth (Brodźce)	1	T' Lüd sünn hüt allä böuten umm Fill ua mihjä.
+bc	14537	Bielice	1	Die Leite sein heite olle dasse of m Felde on madarn.
+bc	14560	Siemianowice Slaskie	1	De Leute sein heite olle dessa uf'm Felde und mohn.
+bc	1461	Wegorzewo Szczecineckie	1	Dai Lüd' sünd hüt alle buten up dem Feld un mehgä.
+bc	14613	Nohfelden	1	Die Leid sinn haut all' drauß ouff em Feld un mähe.
+bc	14635	Erzweiler	1	Die Leir sinn heit all drauß ufem Feld un mäe
+bc	14670	Nussbach	1	Die Leit sein heit all drauß uff'm Fèld unn méé.
+bc	14693	Dannenfels	1	Die Leut sein heut all drauß em Feld un (mähen). mehen.
+bc	14724	Monsheim	1	Die Leute sein heit all draus uff'm Feld un mähe.
+bc	14752	Sankt Matthias	1	De Leït seïn heït all droußen off dem Fällt onn mihen.
+bc	14955	Bescheid	1	Döi Lait säin heut aal e baußen off dem Fähl u' mehen.
+bc	14971	Allenbach	1	Di Leir sen haut all' dauß of dén Feld on mähe.
+bc	1499	Stara Rzeka	1	De Lied sinnt hieta alla buten uppem Fill u hugga.
+bc	14999	Berschweiler bei Kirn	1	Die Leit sinn haut all drauß oum Feld unn mähe.
+bc	15018	Bad Sobernheim	1	Die Leit sinn heit all drauß uf em Feld un mähe.
+bc	15042	Neu-Bamberg	1	Die Leid sein heit all draus uffem Feld un mehe.
+bc	15066	Bechtolsheim	1	Die Leut sein heut all drauß uffem Fold unn mähje
+bc	15088	Bollendorf	1	d'Lätt seie hätt all debāußen ob děm Feld ann mihen.
+bc	15096	Preist	1	De Leit sein heit aal det baußen ob dem Feäl on mihen.
+bc	15118	Pohlbach	1	Die Leit sehn haut ahl debaußen, off dem Fluar, unn mihen.
+bc	15137	Kautenbach	1	Déi Leit senn heit all drausen offem Feld onn mähe.
+bc	15334	Kirchberg (Hunsrück)	1	Die Leit sinn heit all' drauß uff dem Feld un mähe.
+bc	15349	Ellern (Hunsrück)	1	Die Leud sinn haud all drauß uff'm Fell unn mäe.
+bc	1536	Heidlauken (Bugorki)	1	Di Lüd' sönn hüde alle bute opp dat Föld onn haue.
+bc	15365	Bingen am Rhein	1	Die Lait sein heit all drauß uff ěm Feld unn måhe.
+bc	15394	Finthen	1	Die Leut sein haut all draus uf'm Feld un mähen.
+bc	1540	Heinrichswalde	1	De Lied' send alle butn opt Feld und haue.
+bc	15418	Schneeberg (Sněžník)	1	Die Leite sein heite olle dassen on Felde und haan.
+bc	15503	Zettel (Sedlo)	1	De Leite sei heit olle drauß'n uff'n Fald un(d) mäh'n.
+bc	1552	Pazuizen	1	De Lüd send alle bute oppet Feld un haue.
+bc	15538	Wisterschan (Bystřany)	1	Die Leite sein heite olle draußn uf'n Falde und mähn.
+bc	15550	Malschen (Malečov)	1	Die Laita sein haita drauß'n uff'n Felda un haan.
+bc	15638	Lukawetz (Lukavec)	1	Di Laite sein haite olle draußn ufn Felde und hahn.
+bc	1565	Gierver Lauken	1	De Liid sennd hide alle bute oppem Felld unn haue.
+bc	15681	Neudorf (Vrchběla)	1	De Lojta sein hojta olla draußn offm Falda und houn.
+bc	15685	Gastorf (Hoštka)	1	De Leite sein heite olle draußen uf'n Felde und han (mähn)
+bc	15690	Wegstädtl (Štětí)	1	De Leïte sein heïte olle draußn ufn Felde und han.
+bc	1571	Schmalleningken	1	De Lüd sönn hite aller bute opp ött Föld un haue.
+bc	15725	Nixdorf (Mikulášovice)	1	Do Leuto sein heuto ollo draußn offn Faldo und houn (mahörn).
+bc	1573	Groß Dirschkeim (Donskoye)	1	De Lied sent alla bute obbe Föld on mähe.
+bc	15751	Rückersdorf (Dolní Řasnice)	1	De Leut sein heut olle dausn ofm falde mādan.
+bc	1578	Rantau (Zaostrov'Ye)	1	De Lid sèn hide alla bute opp dem Föld onn haue.
+bc	158	Polczyn-Zdroj	1	Dei Lühd sinn hüt alle buten upp'm Fill ŭ meeje.
+bc	1580	Schulstein (Vol'Noe)	1	De Lid send hiede alle bute op e Feld on haue.
+bc	15807	Kamnitz-Neudörfl (Kamenická Nová Ví	1	D' Leit' sein heite oll draußn uffn Falde und mahdan.
+bc	15824	Zwickau (Cvikov)	1	De Leute sein heute (oa)lle draußn of'n Falde und haun.
+bc	15847	Christophsgrund (Kryštofova Údolí)	1	Dö Leute sein ollö draußen ufn Falde und hobn.
+bc	15858	Gränzendorf (Hraničá)	1	Die Leujte sein heujte o͜alle draußn off'n Fal'de und houn.
+bc	1588	Alt Susimilken (Tarassowka)	1	De Lied sind hiede alle bute oppe Föld on haue.
+bc	15971	Puletschnei (Pulečný)	1	Dö Leute sein heute olle daußn ofn Falde und houn (=mahdrn).
+bc	15975	Graber (Kravaře)	1	Heuta sain de Leuta olla draußn ufn Falda und hân.
+bc	15989	Thammühl (Staré Splavy)	1	De Leute san heita olle draußn uffm Felde und houn.
+cd	15995	Proschwitz (Česká Proseč)	1	Do Lojto sajn heute ollo draußn ufn Faldo und houbn.
+cd	16007	Harrachsdorf (Harrachov)	1	De Leute sein heute olle daußn offn Falde on mahn.
+cd	16015	Witkowitz (Vítkovice)	1	Die Leutǝ sein heutǝ ollǝ daußn ofm Feldǝ on haun.
+cd	16050	Forst (Fort)	1	D Lait sein heit olla daßn om Fald on hāhn.
+cd	16063	Gabersdorf (Libeč)	1	Die Leute sein heute olle desse om Felde on mähn.
+cd	16083	Bodisch (Bohdašin)	1	Die Leut sein heute olle daßa of'm Felde on hahn.
+cd	16139	Zwitschin (Zvičina)	1	Die Leit sein heit olle dassa om Feld an han.
+cd	16154	Großbock (Velká Bukovina)	1	Die Leit sein heite olle dassa of dam Fe[lde?] u. mähn.
+cd	16179	Schmiedeberg (Kovářská)	1	De Leit sei heit ålla drauße offn Fald un hanna.
+cd	1626	Tulpeningken (Zarečnoe)	1	Dä Lüd sänd hiede alle bute ob em Föld un haue.
+cd	16276	Waitzengrün (Loučná)	1	D'Leit san ållè draßn am Föild u mahn.
+cd	1628	Wisborienen (Livny)	1	De Lid send hite alle bute opet Feld on haue.
+cd	16298	Sittmesgrün (Mezirolí)	1	D'Leit sann heint ålla draß'n aff'n Feld u mah'n.
+cd	16322	Petersdorf (Petrov)	1	Dai Lait sänn hart olla draun am Faöld und mäh.
+cd	16338	Podletitz (Podlesice)	1	Di Leit sei heit olla draun afn Feld und haua.
+cd	16442	Kropitz (Krapice)	1	D'Leit san all'zam draßen am Föld u ma(h)n.
+cd	16470	Ebersfeld (Podlesi)	1	Leit san heint ålle am Feld draußn und mahn.
+cd	16491	Rabensgrün (Haje)	1	d Lait san heint oalla draßn afn Föld u mahn.
+cd	16523	Lintsch (Hlineč)	1	D' Lået sen haet ålla draßn am Fel o mahn.
+cd	1654	Postnicken (Zalivnoe)	1	De Lied send hiede alla bute oppe Feld on haue.
+cd	16602	Klotantschen (Kotaneč)	1	Die Leit senn heit ölla draun affm Feld und haua.
+cd	16610	Tschernowitz (Černovice)	1	De Leit sei olle am Feld und haue.
+cd	16625	Hawran (Havraň)	1	de Leit sei heit elle draußn om Feld un haue.
+cd	16636	Liebshausen (Libčeves)	1	De Leite sein heite alle draußen uffn Falde un tun han
+cd	1664	Labagienen/Haffwinkel (Zalivino)	1	De Lüd send hiede alla bute op dem Feld on haue.
+cd	16670	Priesen (Březno)	1	Die Leit sei heit olla ōm Feld un haua.
+cd	16689	Libeschitz (Liběšice)	1	De Leit sei heit ŏlle draun am Fẽld un haue.
+cd	16725	Leschkau (Ležky)	1	D Leid sönn heid o̊lla draun afn Fäld und don hau['?]n.
+cd	16739	Pschoblik (Pšovlky)	1	Die Leit' sei heit olle(r) drau'n af'n Feld und ton haua.
+cd	16751	Prag-Smichow (Smíchov)	1	Die Leute sind heute alle draußn auf dem Felde u. mähn.
+cd	16755	Weißbach (Bílý Potok)	1	Die Leite sein heite o͜alle draußa om (off'm) Felde ond hau'n.
+cd	16770	Schediwy (Šediviny)	1	Die Loite sein olle dessa of m Felde on tun han.
+cd	16775	Friedrichswald (Orlické Záhoří)	1	Die Leute sän heute o͡alle do͡aßa 'm felde o͡an fān.
+cd	16801	Böhmischdorf	1	De Leite sein heite olle draußn ohm Felde on hau'n.
+cd	16814	Rokitnitz (Rokytnice)	1	Die Leute senn heute dosse 'offm Felde on tunn haan.
+cd	1683	Kreuzingen (Bol'Shakovo)	1	De Lied sen alle bute oppet Fŏld on măhe.
+cd	16876	Nieder-Ullersdorf (Dolní Boříkovice	1	Die Loite sein hoite olle daußa ofm Falde u haan
+cd	16889	Heinzendorf (Hynčice Nad Moravou)	1	Die Leit sein heita olla drassn om Fald on hahn.
+cd	16907	Karlsdorf	1	dǝ laêt ʃaên haêt ọla dresn̥ oom̥ vaë̄t un(t) hān.
+cd	16932	Kuhberg	1	Die Leite sein heit ålle daußa om Felde, ond haan.
+cd	16949	Rausen (Rusín)	1	De Leite sein heit ålle daußa of 'n Felde ond mähn. (hån.)
+cd	1698	Buttkuhnen (Pokrovskoe)	1	De Lied send hiete aller bute opem Feld und haue.
+cd	16991	Breitenau (Bretnová Široká Niva)	1	De Leit sein heit o̊lle dräßn of'n Feld und han.
+cd	17012	Lobenstein (Úvalno)	1	De Leite sein heit olle dessn ofn Feld und han.
+cd	17029	Lohhäuser (Slatina)	1	D Leait san haint oll draßn afn Föld u mahn.
+cd	17061	Deutsch Thomaschlag (Německé Domasl	1	D Leit san heint alla draßn am Föll(d) u mahn.
+cd	17075	Polinken (Polínka)	1	Doi Leit sen heint ålla draßn afn Feld und mahna.
+cd	1708	Baltruschatschen (Jakovlevo)	1	De Lüd sön h[ü/u?]t alle bute opet Föld on haue.
+cd	17138	Albersdorf (Písařova Vesce)	1	d'Leit san heint oal draßn am Föld u mah'n.
+cd	17151	Damnau	1	Döi Leit san heint oll draß afm Föld und mahn.
+cd	17174	Piwana (Piňovany)	1	D' Leit san hei(n)t ålla draßn am Föld mahna.
+cd	17178	Kottiken (Chotíkov)	1	D Leut sän hei(n)t ålla draßn afn Feld und mahn.
+cd	17244	Dianaberg (Diana)	1	D'Leit san hãit àll draß'n af'm Föld und mō̽h'n.
+cd	17266	Wiedlitz (Vidice)	1	T' leilt sann heint olle drassn affm Föld und mahn.
+cd	17273	Honositz (Honezovice)	1	D' Leit san heint ola draßn am Föld und mahn.
+cd	17281	Dobrzan (Dobřany)	1	D' Lait san hait olla draß'n af'm Föld und mahn.
+cd	17306	Blisowa (Blížejov)	1	D' Leit san hei(n)t o̊lle afm Feld draßn und mahn.
+cd	17309	Hilbeten	1	D Leut sei heit ålla daußn ofn Fald un hah.
+cd	17325	Schönwald (Strážná)	1	De Loite sein hoit olle daußa of in Falde on han (hauen)
+cd	1733	Rottenen (Raktino)	1	De Liede send hiede alle ope Feld onn heaue.
+cd	17374	Ober-Ullischen (Horní Olešná)	1	D Leit sein heita olla dreß offn Fald un tun han.
+cd	17389	Bergstadt (Horní Město)	1	Heit sein olla Leit ofn Fäd und tun han.
+cd	1741	Pojerstieten (Kolodcy)	1	De Lüd send hüde alla bute ob dem Feld on hauen.
+cd	17433	Ranigsdorf (Linhartice)	1	D' Leit san hat olla draßn ofn Feld un haua.
+cd	17442	Müglitz (Mohelnice)	1	Die Leit sein heit olle draußn om Feld un haun.
+cd	17460	Ribnik (Rybniček)	1	Die Leit' sein olla offn Fäd und han.
+cd	17468	Stangendorf (Vendolí)	1	De Leut sein heit olla daußn ofn Fald un hôa.
+cd	1747	Beydritten (Pervomajskij)	1	De Lied sön hide alla bute oppe Föld on haue.
+cd	17504	Neu-Biela (Lavičné)	1	D Loit sein heit olla daus uffn Falt und houa.
+cd	17512	Schlettau (Slatina)	1	D Lat sann hant olla ofn Feld un hoa.
+cd	17520	Runarz	1	Di Lait sain haita ol͜a dauzn o͜fs Fālt un hān.
+cd	17521	Nebotein (Hnĕvotín)	1	Die Lait sā hait olli draußt (a)n Fald und hau.
+cd	17568	Tillendorf (Tylov)	1	De Leit sein heit oalla draußn ofn Fäd und han.
+cd	1758	Brasdorf (Antonovka)	1	Dĕ Lüd sönn hüde allă bute ŏp ĕm Föll ŏn hauĕ.
+cd	17585	Mladetzko (Mladecko)	1	De Leit sein heit olla drausn om Feld u. han.
+cd	17643	Seibersdorf (Bělá)	1	Där Leit sein heit olla drausn ofn Fald un han.
+cd	17659	Bernhau (Barnov)	1	Die Leit sein heit aolle draus'n ofn Feld un han.
+cd	17680	Klantendorf	1	Die Lait sein hait aole daße aom Fald aon haoun.
+cd	17687	Engelswald (Mošnov)	1	D Leit sein heit oll'e daustê ôn haon om fald.
+cd	17698	Nirklowitz (Mrsklesy)	1	D'Leit[e?] sein ofn Faeld, sie han.
+cd	17713	Punkendorf (Boňkov)	1	Die Leit sein heit olle dräßn ofn Föhld un haun.
+cd	1772	Groß Goldbach (Slavinsk)	1	De Lid sen hiede alla bute ob den Föld on haue.
+cd	17726	Halbendorf (Polouvsí)	1	De Leit sein heit oalle daße oam Fald oan hauun.
+cd	17737	Senftleben (Ženklava)	1	De Leit sein alle of dam Fäld on hon.
+cd	-17739	Polanka Wielka	1	Die Leit sind heit all draußen auf dem Feld und mähn.
+cd	-17744	Bulowice	1	Die Leite sind heite alle draußen am Feld und mähen.
+cd	-17746	Chocznia	1	Dèi Leit san (han) olli am Feld und mahnt.
+cd	-17749	Alt-Bielitz (Stare Bielesko)	1	Die Lojt sen hojt olle döußa ofem Fald an haun.
+cd	17759	Linz (Mlýnec)	1	D'Leit han heint olle daß'n am Feld und mahn.
+cd	17782	Kohlheim (Uhliště)	1	De Leit san heit [a/o?]lle draußn afn Feld und mahn.
+cd	17792	Čachrau (Čachrov)	1	D Lait san haid olle am Fäld und mahnt.
+cd	17801	Hurkental (Hůrka)	1	D Leut (Leit) sand heit olle am Feld draußt und mahnt.
+cd	17824	Rotsaifen (Červená)	1	D' Leit sand heit ulle am Föild draußt und toand mahn.
+cd	17832	Winterberg (Vimberk)	1	D' Leid sann heid uli draußt am Föld und mahn.
+cd	17843	Sehrlenz (Ždírec)	1	doj lajt san hajt oll(a) drausd(a) am feld u mejn.
+cd	17854	Irsching (Jiřín)	1	Dö Leit san heit olle draußn am Feld und mahn.
+cd	17862	Hilbersdorf (Jihlava-Heroltice)	1	Dei leit san heit olle am f[ⱱ?]ld draussn und mēn.
+cd	17876	Sollowitz (Salavice)	1	Dej Leit san heit olle draußt an Földern und mähn.
+cd	17878	Stannern (Stonařov)	1	D' Leit san heut olle draußen am Föd und tun mähn.
+cd	17881	Riegerschlag (Lodhéřov)	1	D Leid san heid ulli am Feld un doan mah.
+de	17882	Wenkerschlag (Dolní Radouň)	1	D' Leit san heut ule daust am Feld un mahn.
+de	17884	Buchen (Buk)	1	Dia Leid san heid ulli äm Föld daußt un mahn.
+de	17895	Hosterschlag (Člunek)	1	D' Leut san heit ulli daußt afn Feld un mahn.
+de	17898	Lipolz (Lipolec)	1	D' Leut san heiit olli af an Feld and mahn.
+de	17940	Czernowitz (Černovice)	1	Da Lait han heit olla draußn am Ocka und mahn.
+de	17942	Gundrum (Komořany)	1	Dea Loit san hoit olla draußt aufn Fald und mahn.
+de	17956	Prahlitz (Pravlov)	1	De Leit san heit olle draußn aufn Ocka und mahn.
+de	17961	Woikowitz (Vojkovice)	1	Die Leit san olle am Feld u. mahn.
+de	17967	Sub-Lechnitz (Lechnica)	1	Ti Leit sin heit alla traus uf um Felt unt möjan.
+de	17968	Topportz (Toporec)	1	Die Leut sain heut olle of'n Fald unt mäjn (Feld = [deotarß?]).
+de	17972	Hobgard (Chmeľnica)	1	Die [L?]eide sen ouue ow'n Feud ant mäh'n.
+de	17981	Neu Walddorf (Nová Lesná)	1	Die Lojt zain hoit olle dertausen ofn Fald (mäjn) män.
+de	17993	Durelsdorf (Tvarožná)	1	Di Leut sein heut alle dertaußen ofn Feld and mejn.
+de	17999	Leutschau (Levoča)	1	Die Leut sein alle draußen ofn Feld und mäihn.
+de	180	Galowo	1	Dei Lüd sind hüt alle buten upm Fel u mehge.
+de	18000	Zipser Neudorf (Spišská Nová Ves)	1	Die Lejt sejn hejt alle draussen of'n Feld u. mejn.
+de	18001	Wagendrüssel (Nálepkovo)	1	De Läit sënd heit alle drausn om Feld ound mähn.
+de	18003	Göllnitz (Gelnica)	1	De Leut sein heut alle daußn om Feld und mähn.
+de	18004	Dobschau (Dobšiná)	1	Die Leut sein heut olle draußen om Feld peim mähn.
+de	-18008	Schmöllnitz (Smolník)	1	De Leit send heit alle daussn om Lant unt mähn.
+de	18010	Metzenseifen (Medzev)	1	De Leut sain heut alle dauszn ofn Lan on Méhn.
+de	18013	Buchwald (Bučina)	1	D Leït hant heït uli am Foid draußtn und toant mah
+de	18018	Schattawa (Záton)	1	D' Leit hant he͜it u͜li draußn af'n Ocka und toun mah.
+de	18028	Zaborsch (Záhorí)	1	D Leid han heï(n)d ulli daußt afn Oka und toan(d) mā.
+de	18058	Hirschbergen (Hiršperky/Jeleni)	1	D Leit san teit allej draußt am Föld und mahn.
+de	18064	Honetschlag (Hodňov)	1	D Leit hant heit ulli fam Föld draußt und mahnt.
+de	18091	Kollerschlag	1	De leit hant heit àlsàna daußt am àka und mahn.
+de	18095	Sankt Thoma (Svatý Tomáš)	1	D Leit sand heit olle drauße am Feld und mand.
+de	18101	Hohenfurth (Vyšší Brod)	1	D' Leit san heit ulli draußn af'n Feld und toan mah.
+de	18132	Hummeln (Homole)	1	D Leit hant ulli draußtn am Föld und mahn.
+de	18135	Rudolfstadt (Rudolfov)	1	D' Leut san heut olle draußn am Feld und mah'n.
+de	18144	Gross-Radischen	1	D Leit san hẽit olli draußt am Feld und mahn
+de	18188	Priethal (Prídolí)	1	D' Leut san heunt ulli afn Feld und mahn.
+de	18192	Gollnetschlag (Klení)	1	D' Lät san hät uhli draußt am Föld und toan mah.
+de	18210	Weissenbach (Vysné)	1	D' Leit san heit ulli draußt afm Föld und mahn.
+de	18218	Langschwarza	1	De Leit san heit oille draußtn am Föd und mahn.
+de	1829	Rudszen (Poltavskoe)	1	De Lid sen hite alle bute oppet Feld un haue.
+de	18290	Unterwald	1	Dö Leut san heut oalle draußn am Feld u. Mahn.
+de	18296	Bad Grosspertholz	1	D’Leit san heint olli draußn aufn Feld und mahn.
+de	18310	Oberstrahlbach	1	D' Leit sand heit oli draußn am Feld und mahn.
+de	18359	Waldkirchen	1	De Leut san heit olle draußt auf'n Feld und mahn.
+de	18364	Hafnerluden (Lubnice)	1	Die Leut san heut olle draußen am Föld und mahn.
+de	18367	Schiltern (Štítary)	1	D Leit san heit olle draußt am Feld un tan mahn.
+de	18407	Töstitz (Těšetice)	1	(Die) De Leit san heint olle draustn am Oka und mahn.
+de	1842	Warupönen (Fëdorovka)	1	De Lied send hiete alle bute ob det Feld un haue.
+de	18432	Dietmanns	1	D' Leid san heud oili auf an Föid draußtn und mahn.
+de	18441	Schirmannsreith	1	D' Leit san heint olli am Föd draußt und tan mahn.
+de	18454	Hofern	1	D'Leut san heit alle drauß auf n'Föld und dan mahn.
+de	185	Jelnia	1	Dei Lüd sin hüt alle buten up dem Fill u mäga.
+de	18508	Gerstenfeld (Ječmeniště)	1	Dö Leit san heint olle am Föld draust und mahn.
+de	18525	Franzen	1	d' Leid san(d) heĩnd a̜lli åm̃ Föid draußd und mān.
+de	18534	Rosenburg	1	Die Leut san heut alle draußt auf'n Feld und mahn.
+de	18554	Oberdürnbach	1	Dö Leit san heint olli draußt aum Föld und mahn.
+de	18559	Aspersdorf	1	D'Leit sand hent oli draußd aum Fö[l?]d und ma-an.
+de	18607	Damnitz (Damnice)	1	De Leit san heint olle draußt af'm Föld und tan mah(n).
+de	18627	Tracht (Strachotín)	1	Ti Leit san heint ole traußtn af m Föld und tan ma.
+de	18637	Saitz (Zajecí)	1	Olli Läit tan haint am Föld mahna.
+de	18642	Höflein an der Thaya (Hevlín)	1	Do Laid san haind olle draußn in Föld in mah.
+de	18672	Stützenhofen	1	D Leit san olli drauß'n oum Fuld und mahn.
+de	18686	Bernhardsthal	1	Die Leit san heint olle draußt am Föld u. mahn.
+de	18701	Pyhra	1	D Leit san heint alli draußen am Feld und mahn.
+de	18707	Wilfersdorf	1	Dö Leit san olli draußt in Fö(l)d u. mahn.
+de	18716	Palterndorf	1	D Leut san heuit olli drauß'n åm Feld und mahn.
+de	18753	Münchwies (Vrícko)	1	Da Leit sei heit gma am Feld un ha sa.
+de	18759	Bettelsdorf (Solka)	1	D Láit sãj hãit ola 'm Wejt ont schnáín (hã).
+de	18763	Oberstuben (Horná Stubna)	1	di laet zọⱱ̃ hô̜ⱱŋt ollⱱ daus ŏm welt ont hān.
+de	18767	Krickerhäu (Handlová)	1	De Lait sain haint ålla om Weld daußen ond tōn hān
+de	18773	Deutsch-Litta (Kopernica)	1	Di Leut sḛḭ heut olle dauß uffm Weld ond ha̰ (hauen).
+de	18774	Hochwiesen (Vel'Ké Pole)	1	Dj Leut sai hait o̊lles dauß om Weld und haa.
+de	18786	Sankt Georgen bei Obernberg am Inn	1	D' Leid hand heint allsand af 'n fel außt und mahnt.
+de	18800	Hochburg	1	Do Leit hant heit oifon draußn aufm Fei̤d und mand.
+de	18805	Pischelsdorf am Engelbach	1	Dö b̯eut san heut ollö dr[e/a?]uß[n?] auf n Feld u [vorn?] mah?
+de	18846	Niederkappel	1	Dö Leut san heit alli daußt af’m feld und tun mah.
+de	18855	Niederwaldkirchen	1	D Leut hand heint alle amfeld daußt und mahn’d.
+de	18902	Dorf an der Pram	1	D. Leud han oli afn Feld und man.
+de	18910	Michaelnbach	1	D' Leit han alle in fä in Mahn.
+de	18923	Alkoven	1	De Leit sán heint oile auf dö fädá draust und máhn.
+de	1895	Königlich Damerau	1	De Lied send alla hiede bute obbem Felt on haue
+de	18984	Arnberg	1	D' Lait hand hait âisa͡na an Feïd daußt an Mah.
+de	18987	Rackering	1	D' Leit san hei(n)t ollö daußt afm Fä und mahn.
+de	19003	Pennewang	1	D’Leut hand heunt [a?]llö sieht übermalt aus daußt in fel und mahnd.
+de	19011	Sipbachzell	1	D’Leut san hent alle daußt afn feld und tuan mahn.
+de	1904	Pesseln	1	Dö Lied' sön hiedè allè buhtè op-pem Föld ann hauè.
+de	19070	Reichenau im Mühlkreis	1	D Leid hand hai(n)d olli draussd aum Fëü und loan ma(hn).
+de	19080	Gutau	1	D' Leut san heunt alli draußn [?]n Fel und mahn.
+de	19085	Hackstock	1	D' Leit san heit oisand draußt auf'm Föd und mahnt.
+de	19096	Traunstein	1	D' Leit san heit oli draußn am Föd und mahn.
+de	19138	Maria Laah	1	D L[e?]ut san heint alle daußt am Feld und mahn.
+de	19144	Haag	1	D'Leut san heit ålli-am Feld draußt'n und mahn.
+de	19154	Amstetten	1	D'Leut san heit olli am Feld draußt und mahn.
+de	19163	Wieselburg	1	Dö Leit san heint oli draußn am Föd und mahn.
+de	1919	Groß Gerlauken (Vjazovka)	1	De Lied sönd hiete alle bute opp dem Föld onn haue.
+de	19225	Steyregg	1	D Leut han heunt olli draußn åfn Feld u. ma͜hn.
+de	19233	Schwertberg	1	D'leit san heiñt õīls draußt am fǟt und mān.
+de	1924	Pakallnischken (Suvorovo)	1	De Lièd send hiete alle bute oppet Föld on̄ haue.
+de	19245	Bad Kreuzen	1	D' Leut hand heut ollsanda draußt af'n Feld u. mahn
+de	19257	Altenmarkt	1	D' Leit san olli heunt am Föld draußdn und tan mahn.
+de	19301	Els	1	d' Leit san heint ålli draußn am Feld in Mah.
+de	19311	Gneixendorf	1	d' Leit san hent olli draußt om Föd und mahn.
+de	19322	Fels am Wagram	1	de Leid sand heint olli draußtn aufm Föd und man.
+ef	19334	Oberhautzental	1	d Leit san heit olle draußn aufm Foeld u. mahn.
+ef	19401	Schönbühel an der Donau	1	d' Leut san(d) heu(n)t ålle aufm Acker draußtn und tan mah(n).
+ef	19404	Karlstetten	1	Dö Leit san heit olli draust'n am Feid und mãhn.
+ef	19419	Würmla	1	d' Leit san heit am Föd draußt und mahn.
+ef	19429	Ried am Riederberg	1	Die Leit san heint ōlle d'raußn am Föld und mahn.
+ef	19479	Mank	1	D' Leid ßan heid ole draußt'n auf n Föld und mān.
+ef	19486	Wilhelmsburg	1	D' Leit san heit ålli draußt am Föd und mahn.
+ef	19492	Stollberg-Siedlung	1	D' Leit soin alli am Feld draußt und mahn.
+ef	1953	Pillau	1	Döh Lüd sönnd hüdö alle butö ob dem Föld onn mähe.
+ef	19541	Grub	1	D' Leit san he͡int oilli draußn am Föjd und mahn.
+ef	1956	Patersort (Beregovoe)	1	Dei Lied sen hiede alla bute ob 'm Fēld on haue.
+ef	19564	Obergänserndorf	1	D' Leit san heunt olli auf d' Acka draußt in mahn.
+ef	19607	Raggendorf	1	D' Leit san heïnt olle aum Föd draußtn und mahn.
+ef	1962	Bergau (Tzwetkowo)	1	De Lied' sönd hiede alla bute oppem Föld' on haue.
+ef	19621	Stillfried an der March	1	D' Leit' san heind o̜lli draußt åm Föld ŭnd māhn.
+ef	19640	Grünau (Grinava)	1	Ti Leit san hẽit o(e)le traust am Fölt unt mān.
+ef	19642	20. Bezirk-Brigittenau	1	D' Leit' san heit ålle draußt am Feld und tan māh'n.
+ef	19646	Raasdorf	1	D' Leut san heut ålle drauß'n im Feld und mah'n.
+ef	19657	Breitensee	1	D' Leut san heit alle draußn auf'n Feld u. mahn.
+ef	19659	Theben (Devín)	1	Die Leit san heit olle draust auf'm Föld und mäh'n.
+ef	19667	Biedermannsdorf	1	De Leid san hei͜nt ålle draußd am Föd in Schnid.
+ef	19674	Enzersdorf an der Fischa	1	D' Leit san heint olle draußtn am Ocka u. tan mahn.
+ef	19696	Kittsee	1	De Leut san heut olli draussn am Föjd und mahn.
+ef	19705	Mischdorf bei Pressburg (Nové Košar	1	Tie Laid san haĩd oli traust am Föd un mana (tãn ma ̃).
+ef	19726	Rohrau	1	D, Leit san heut olle draussn am Föld und mahn
+ef	19739	Thiersee	1	D' Leit send heit āll außn aufm Fäd u. mahn.
+ef	19748	Achenwald	1	D' Leit sen heit [å/u?]ll außn afn Fel un mohn.
+ef	1977	Fuchsberg (Semënovo)	1	Dè Lied sön hide alla bute oppem Föll on haue.
+ef	19775	Obertrum am See	1	D' Leud hán heut oii áf'n Feud und máhn.
+ef	19787	Hochfeld	1	D'Leit hant heit oisand draußt aufn Feld und mahnd.
+ef	19823	Vorderfager	1	D' Leit hand heit oåi daußtn auf'n Feöd und mahnd.
+ef	19851	Schwendt	1	D' Leid send heind åi außn auf'm Föl und man.
+ef	19854	Waidring	1	D' Leit send hait oi außt aufn feid und toan mah.
+ef	19859	Kuchl	1	Dö Leut san heu(n)t allö auf'n Feid (Feld) drauß'n u. ma(h)n.
+ef	1987	Pregelswalde (-)	1	De Lid send hide alla oppem Föld onn haue.
+ef	19886	Schörfling	1	D' Leut han hei(n)t allsand am Fäh und toan mah(a).
+ef	19896	Gschwandt	1	D' Leut san heit olli draußt am Föld und mahn.
+ef	19901	Schlierbach	1	D Leid sand he͠id oöllö draußn aufn fäöd und doand má͠h. má͠hnd. 2 alternative Satzenden
+ef	19941	Sankt Gilgen	1	D’Leit hand oi in feid draust und män.
+ef	19945	Ebensee	1	D' Leut han hēit allö auf da Wiesn öns māh.
+ef	19947	Steyrling	1	D' Leut san heut olli draußt auf'n Feld und mahn.
+ef	19956	Bad Ischl	1	D Leut mahnt heunt allö draußt (daußt) am Feld
+ef	19965	Windischgarsten	1	D'Leid san heit ålli afn Fäd draußt und dãn mãh.
+ef	19971	Bad Goisern	1	D' Leit sand haint oe daust in Fäid und mehnd.
+ef	19977	Grundlsee	1	D' Leit san heiñt åll daußt aufn Feld (Fäld) und mahn.
+ef	19993	Wörschachwald	1	D' Leit san hen(n)t ōllö daustn aufn Fël und tau mahn.
+ef	20005	Trattenbach	1	Dïe Leit san heint olle draußn auf'm Fäid und mahn.
+ef	20008	Sulzbach	1	D' Leit san aũf d̄a Wien ũnd̄ mā̂́hn. (Am Fä schnei.)
+ef	20019	Ybbsitz	1	D' Leit san heint olli am 'ä draußt und tan ma'n.
+ef	20023	Gaming	1	D' Leit sand hent olli draußd'n aufn Föd und mahn(t).
+ef	20046	Kleinreifling	1	Dö Leut san heit alli draußn aufn feld und mahn.
+ef	20049	Mariazell	1	D' Leit san heit oli draußt am Föd und tan mahn.
+ef	20051	Neuhaus	1	D' Lait san hai(n)t olli draußt aufn Föd und mahn.
+ef	20058	Lassing	1	D'Leut san heint olle draußn aufn Feld und mahn.
+ef	20062	Ardning	1	D'Leit san heint olli auf'n Föd u. mahn.
+ef	20065	Weng	1	D' Leit san heint olli draußtn aufn Föd und mahn.
+ef	20067	Lainbach	1	D' Leit san heint ålle draußtn aufn Föid und mahn.
+ef	20069	Gollrad	1	D Leit san hei(n)t olle draußn af'n Fö(l)d und mahn.
+ef	20077	Oberort	1	D'Lent san heut (auch: heunt) oll draußtn auf'n Föld und mahn.
+ef	20090	Wext	1	De Lö ßint van Dage alle buten upt Feld un maiet.
+ef	20099	Leer	1	De Lüe sinnt von Dage ɑll buten uppt Felt un mɑit.
+ef	20110	Herbern	1	De Lüde send von Dage up dat Feld un meiht.
+ef	20117	Ringel	1	De Lüe sind hüte olle buten up 'n Felde un mägget.
+ef	20128	Hilter am Teutoburger Wald	1	De Lüe sind hüte alle dar buten uppen Fähle to mäggen.
+ef	20240	Bardel	1	De lüe zint nu alle boeten op het vele an't meien
+ef	20248	Haddorf	1	De Lüde sind nu alle buten up dat Feld un meid.
+ef	20259	Hörstel	1	De Lüh sünd nu alle te buten up't Feld te mäjen.
+ef	20269	Westerkappeln	1	Dei Lühe sind hüte alle der buten up'm Felde un mägget.
+ef	20283	Astrup	1	De Lüe sind hüte alle up'n Feile un mäet.
+ef	20346	Frensdorf	1	De Lö sind nu al boeten up 't Land un mäht.
+ef	20350	Elbergen	1	De Löde sind hüte (nu) alle buten up'n Felde un meiet.
+ef	20361	Setlage	1	De Löe sint hüte alle buten uppen Eske un meit.
+ef	20370	Merzen	1	De Lühe sind nu āle buten up den Felde un maiet.
+ef	20381	Vörden	1	De Lüe sind hüde alle buten up den Eske un meiet (mägget)
+ef	20384	Wielen	1	De Löö sind nuw alle buten up't Laand en mäj'd.
+ef	20446	Hoogstede	1	De lö sint vandage (nour) alle buten up't veild um mäit.
+ef	20454	Geeste	1	Dei Lüe sünd vandage alle bouten up't Feld un meiet.
+ef	20463	Dohren	1	Deh Lühe bünt hüte aolle buten uppen Felde un meihet.
+ef	20468	Renslage	1	De Lüh sind un ahle buten uppen Felde (Lanne) un meihet.
+ef	20481	Dinklage	1	Dei Lüe sint nu alle buten uppen Felde und maiet.
+ef	20543	Haren (Ems)	1	De Lüe bünt van Dage alle buten up et Feld tou maien.
+ef	20555	Hüven	1	De Lühe bünd van Dage alle buten uppen Felde un meihet.
+ef	20562	Garen	1	Dei Lühe sünd hüte ale buten up'n Eske (Felde) un maihet.
+ef	20575	Sevelten	1	De Lühe sünd nu alle buten up dät Feld un meihet.
+ef	20589	Neudersum	1	Däi Lühe sünd van Dage ale buten upt Feld un maohet.
+ef	20596	Neubörger	1	De Lüe sind un alle buten uppet Feld to majen.
+ef	20599	Neuarenberg	1	Däi Lüe sünd vann Dage ahle buten uppett Feld tau maien.
+ef	20604	Garrel	1	Deÿ Lüe sünd van Dāge ale buten up'n Felde un mägget.
+ef	20638	Visbek	1	De Lüe sünd van Dage alle buten upp'n Eske un mait.
+ef	2067	Enskemen (-)	1	Dĕ Lied' sĕnd hiete alle bute ŏppet Fĕld ŏn haue.
+ef	20710	Wietzendorf	1	Dei Lü' sünd hüte all buten up dan̄ Fell' un mei't.
+ef	20734	Colonie Syke	1	Dee Lüüe sünnd vndaage all buut'n upp'n Fellle unn meieit.
+ef	20753	Magelsen	1	Dei Lüe sind vandage alle up'n Felle un mei't.
+ef	20763	Nordkampen	1	De Lüe sünd van Dage alle buten up den Felde un meiht.
+ef	20774	Vierde	1	Däi Lüh sünd 'van Dahg al buten upe'n Fel un meiht.
+ef	20788	Schmarbeck	1	Dei Lüh sünd vandag 'all buten up'n Fell'n und maiht.
+ef	20798	Brümsen	1	De Lüe sunt von Daoge ahl buten op'n Felle un meit.
+ef	2081	Eydtkau (Eydtkuhnen)	1	De Lied senn hiete alle bute ob em Föld un haue.
+ef	20891	Dörpel	1	De Lühe sind von Dage arle buten up denn Felle un meihet.
+ef	20901	Maasen	1	De Lüe sünd alle buten up'n Felle un meijt
+fg	20917	Drakenburg	1	Di Lüe sünd hüte alle buten up dem Felde un meihet.
+fg	20920	Unterrodewald	1	Dëi Lüe sünd van Dage alle upp'n Felle un meiet.
+fg	20933	Thören	1	Dei Lüe sünd hüde alle buten up'n Felle un meiht.
+fg	20936	Hassel	1	Dei Lüe sünd vandaye arle buuten up'en Felle un mait.
+fg	20946	Scharnhorst	1	Dei Lüe sünd hüde alle bud'n upp'n Felle un meid.
+fg	20948	Aschen	1	De Lühe sind von Dage alle buten up'n Felde un meihet.
+fg	21024	Burlage	1	De Lüe sünd vön Dage arle buten up'n Felle un meihet.
+fg	21033	Hoysinghausen	1	Deh Lühe sind van dage alle buten upp'n fehle un mait.
+fg	21045	Brokeloh	1	Dei Lüe sünd van Dage alle buten up dän Felle un meiet.
+fg	21050	Empede	1	De Lüe sünd vandage alle buten up'n Felle un meiet.
+fg	21065	Gailhof	1	Dä Lüe sünd von Dage alle buten uppen Felle un mahet.
+fg	21074	Adelheidsdorf	1	De Lüe sünd hüte alle buten up 'm Felle un maih't.
+fg	21085	Nordburg	1	De Lüe sünd hüte alle buten up dem Felle un meihet.
+fg	211	Rodowo	1	Die Leut sind heut alle draußen o[ft?] dem Feld onn haue.
+fg	21105	Preussisch Ströhen	1	De Lüe sind vern Doage oalle buten up em Fele und meiet.
+fg	21190	Brockhausen	1	De Lüä ßünd van Dage alle bute ubbn feiilde tou Meien.
+fg	21199	Isenstedt	1	De Lüe sind vendage olle buten up den Fäile un maiet.
+fg	21218	Wietersheim	1	Dei Lühe sind (ve?)dage olle buten ub dän Feln un meihet.
+fg	21235	Hülshagen	1	Dä Lüe sind van Tage alle buten uppen Fehle un maht.
+fg	21252	Holtensen	1	Dei Loie sind huite alle biuten up'n Felle un mahet.
+fg	2127	Klein Nuhr (Sukhodol'Ye)	1	Die Lied senn hiede alle bute ob dem Feld on haue.
+fg	21280	List	1	Dä Lüe sind hüte alle butt'n upp'm Felle unn meiet.
+fg	21295	Immensen	1	Dei Lüe sind hüte alle butten upp'n Felle un mahet.
+fg	21305	Voigtholz-Ahlemissen	1	De Liee sind hite alle butt'm up'n Felle und maiet.
+fg	21316	Steinhagen	1	De Löüe sint van Dage olle bouten up den Faile un maigget.
+fg	21342	Krentruperhagen	1	Deu Luie sind van Dage olle biuten up den Feile un magget.
+fg	2135	Skungirren (Pen'Ki)	1	De Lied sent hiede aller bute opem Feld aohn auße
+fg	21355	Wendlinghausen	1	Diu Luie sind van Dage olle biuten up den Felle un mägget.
+fg	21362	Reher	1	da Leuie sind von Dage alle bêuten uppen Felle un meiet.
+fg	21384	Harderode	1	Deii Lu͡i sind huite alle bi͡uten uppn̂ Felle un ma͡it.
+fg	21405	Rheden	1	Da_i_ Luiè sind huite alle buten uppen Felle un meihet
+fg	21429	Nette	1	De (Dei) Lu-ie sind huite alle butten up dem Felle un mei-et.
+fg	21446	Steinlah	1	De Luie sind huite alle butten up den Felle un maet.
+fg	2145	Kurschen (Kuz'Mino)	1	De Lid sen hite aller bute op et Feld on haue.
+fg	21455	Gross Schiplage	1	De Liuie send vandage alle Büiden up den Fäule un maiget.
+fg	2161	Kalnen (-)	1	De Lied sönn hiete alle bute ob dat Föld onn haue.
+fg	21611	Schweicheln-Bermbeck	1	De Lüe sind hüte alle buten ub den Feile un meiget.
+fg	21632	Veltheim	1	De Lüe sind vandage olle but'n up'n Fele un mahet.
+fg	21666	Rohden	1	De Luï sin vando(a)ge alle biuten up'n Feile un mah't.
+fg	21679	Springe	1	De luie sind huite alle butten up'n felle un meihet.
+fg	21687	Vardegötzen	1	De Lui sind hu͡ite alle butten upp'n Felle un meiht.
+fg	21707	Rautenberg	1	De Luie sünd huite alle in Felle un mahet (w. a in Land).
+fg	2182	Soginten (Svirskoe)	1	De Lid sen alle bute opp et Feld un hauĕ.
+fg	21882	Bodenstedt	1	Die Luie sünd huite alle up den Fellé un maihet.
+fg	21902	Rautheim	1	Dä Lüe sind hüte alle up den Felle un meihet.
+fg	21936	Bartensleben	1	De Lüe sünd hüte alle buttn obn Felle un meiht.
+fg	2200	Narmeln (Polski)	1	De Lied sennd hieden alle buten opp'm Feld onn haue.
+fg	2204	Leysuhnen (Ščukino)	1	De Lid senn hide alla bute oppem Föld onn haue.
+fg	22044	Rottorf	1	De Lu'e sind hute alle butten op'n Felle un meiht.
+fg	22063	Hundisburg	1	Dei Lühe sind hiete alle druten op't Feld un meih'n.
+fg	22074	Farsleben	1	De Lie sind hite alle butt'n up dat Feld un ma(ei)gen.
+fg	22083	Reesen	1	De Luhe sind hute alle druten up det Fèld un mäen.
+fg	22092	Paplitz	1	Die Leie sind hüte alle but'n upp dät Feld un mäh'n
+fg	22111	Wasbüttel	1	De Liehe sönd hiete alle bútten op den Fèlle un weihet.
+fg	22149	Rätzlingen	1	De Lüe sünd hüte alle butt'n op'n Felle un maih't
+fg	2216	Hermsdorf (Pograničnyj)	1	De Lied sön hide alla but[e/n?] op dem Föld onn haue.
+fg	22172	Burgstall	1	De Lüde sünd hüte alle būten up det Feld un mähen.
+fg	22222	Reislingen	1	Dä Lüe sünd hüte alle budden up den Felle un meihet.
+fg	22249	Roxförde	1	De Lü sünd hüt all buten up det Feld und meien.
+fg	2225	Moritten (Oktjabrskoe)	1	De Lied sönn hiede alla bute opp em Feld on haue.
+fg	22264	Grieben	1	De Lüih sind hüte alle buht'n upp't Feld un mäihn.
+fg	22276	Zabakuck	1	Deh Lüh sind hüte alle buhten up't Feld un mäh'n.
+fg	22375	Westerholz	1	De Lüe sünd hüte alle butt'n up 'n Felle un meiht.
+fg	22384	Tülau-Fahrenhorst	1	De Lüh sünd hüte alle butten up'n Fell und meihen.
+fg	22394	Köbbelitz	1	De Lüh sünd hüt all buden upm Fell un main.
+fg	22407	Schenkenhorst	1	Dei Lü sünd hüt all upt Feld un mäg'a.
+fg	2242	Naunienen	1	Dö Lüd sön hüde alle bute ob em Fell on mähe.
+fg	22423	Querstedt	1	De Lüj sünd hüt all but'n up det Feld un maejen.
+fg	22443	Staffelde	1	De Lüe sind hüt all buten up det Feld un maien.
+fg	22453	Grosswudicke	1	De Lüie sind hüte alle buten ubt Feld un meihn
+fg	22574	Masel	1	De͡i Lüh sünd hüt alle buten up'n Fell un ma͡it.
+fg	22581	Höddelsen	1	De Lü sünd hüt all buüt'n up'n Fell un meih'n.
+fg	22599	Wöpel	1	Dih Lüh sünd hüt all buten üp't Feld und meien.
+fg	22621	Molitz	1	De Lüh sünd hüt all butn upt Feld un mähn.
+fg	22636	Rönnebeck	1	De Lü sünd all' but'n upt Feld un m(eiä)hn
+fg	22654	Iden	1	De Lüe sind hüt all büten upet Feld un mäigen
+fg	22667	Kuhlhausen	1	De Lüj sind hüt all buten up dät Feld un mäjn
+fg	22685	Proitze	1	De Lü' ßünd 'üt all (aol) butn up Feld un meihn.
+fg	22773	Holdenstedt	1	Däih Lüh sünd hüt all buten upp datt Feld und meihet
+fg	22796	Wustrow (Wendland)	1	De Lüt sünd hüt all bud'n upp Feld unn meihn.
+fg	22810	Lomitz	1	Dë͜ï Lü'r sänd hät all kut'n up Feld un meih'n.
+fg	22819	Jeggel	1	De Lüe sinn hüt all buten up' t Feld un mäien.
+fg	22832	Gross Lüben	1	De Lüg sind hüt all butn up dät Feld un mägn.
+fg	22846	Görike	1	De Leuh sind hüt all buten up Feld und mägen.
+fg	22910	Holthausen	1	De Lüüd sinnt van daag ahl der buuten om Feil on meien.
+fg	22931	Dahlhausen	1	De Lüe sind vandage alle buten ob dem felde un meihet.
+fg	22965	Langeloh	1	De Lü sind van Dage ale debuten op'm Felle un meiget.
+fg	22990	Halingen	1	Dai Luihe sinnt van Dage alle biutten op diäm Felle un megget.
+fg	22998	Neheim	1	Dei Luie sint van Daage alle biuten op diäm Felle un mägget.
+fg	23010	Niederbergheim	1	Dei Luië sind van daje alle biuten op diëäm Felle un mäjet.
+fg	23021	Kapellen	1	De Lüj sinn vann daag all bütten op et veld onn mäeje.
+fg	23031	Rheinberg	1	Die Lü sind von Dag all de bütte ob et Feld an mähje. -
+fg	23184	Holthausen bei Kirchhellen	1	Dä Lö sünd van Dage all de buten up't Feld un mähn.
+fg	23191	Herten	1	Dä Lü sind van Dage al dä butn opt Feld un mait.
+fg	23207	Waltrop	1	Dä Lüü sint van Dage all te buten opt Feld un mait
+fg	23218	Kamen	1	Dai Luie sind vandage alle te beuten op däm Felde und maiget.
+fg	23231	Norddinker	1	Dei Lui sind alle biut’n ogm Felle am Mäggen.
+fg	23261	Kessel	1	Dij Lüj sin vanddag allegar bütte obbed Feld ěn meije.
+fg	23271	Kehrum	1	De Lüj sinn van Daag alle de Lutte op et Feld on sein ant mäje.
+fg	23284	Hamminkeln	1	De Löj sänd van Daag all butten op et Feld on mäjen
+gh	23293	Erle	1	De Lüö sünd ven dage alle the buuten upt Felt un mäjht.
+gh	23343	Göttingen	1	De Löüe sind vanda alle bouten uppen Felle un mägget.
+gh	2338	Wenslowischken (Voznesenskoye)	1	De Lied send hide alle bute opp em Feld on haue.
+gh	23402	Holtwick	1	De Lüte sünt van Dage alle te buhten ubt Felt un mait.
+gh	23412	Seppenrade	1	De Lüh sind van Dag all buten upt Feld un maiht.
+gh	23419	Davensberg	1	De Lüh sind al büten ug en Hamg out Koun schnien.
+gh	23426	Vorhelm	1	De Lü sinnt fämdaag oal debuden upt Land ont schnien
+gh	23435	Stromberg	1	De Lüe sind von Dage ahle bouten up dat Feld un schneiet.
+gh	23453	Stockum bei Coesfeld	1	Deh Lüh deh sint van Dagh alle buhten uppet Felt un meiht.
+gh	23466	Nottuln	1	De Lüh sind vandag all buten up dat Land und mait.
+gh	23471	Münster	1	De Lüde sint van Dage alle buten up‘ Feld un maiet.
+gh	23478	Einen	1	De Lüh sint van Dag oall Buten op'n Fell un schniet.
+gh	23483	Greffen	1	De Löje sind alle buten up dat Feld und mäijet.
+gh	23494	Speelberg	1	De löj sin van dāg allemol bütte op et feld en mäje.
+gh	23498	Hemden	1	De Lüh hüet van dage all te Butten upp et Feld an't [?]eihen.
+gh	23507	Weseke	1	De Löh sünd van Dage alle te buten upt Land un maiht.
+gh	23545	Tüddern	1	De Lüh sen hüh allemohle buten en et Feld an et Miehe.
+gh	23566	Porselen	1	De Lüh sind hüh all bute oppene Fäll on mieh.
+gh	23602	Holzweiler	1	De Lüh sind hük all em Fäl am miehen.
+gh	23630	Evinghoven	1	De Löck send höck all dovör om Fäl un mihe.
+gh	23817	Reusrath	1	Die Lück sind hück all em Fell on haue.
+gh	23843	(Stolzenberg)	1	De Löck sennt düssen Dagg all'd'buten om Feil am mähen.
+gh	23858	Oberklüppelberg	1	De Lüh sitt nu alle dobuten op dem Felle un mägen.
+gh	23873	Valbert	1	De Lüe sind dien Dag alle buten op dem Felde un mäht.
+gh	23885	Sporke	1	De Luie sind dünn Daag all biuten op'em Felle un mägget.
+gh	23902	Schmallenberg	1	De Luie säit düendag all oppem Felle un mägget.
+gh	23906	Elmpt	1	De Lühj send van Dag all buiten op öt Feld en mìenen.
+gh	23922	Helenabrunn	1	Die Lü sent vondag all ob ät Feld ant mienen.
+gh	23933	Weißenberg	1	Die Lütt sénd hütt all dôbute op däm Fähl on miene.
+gh	2398	Mertensdorf (Tjomkino)	1	De Lid send hid all bute op dem Feld on haue.
+gh	2409	Trausen (Lipnyaki)	1	De Lied si|en hiede alla bute u͡oppem Fi|ell u͡on̄ haue.
+gh	24107	Hubbelrath	1	De Lütt sind hütt all tebutte opp dem Feil onn mehne.
+gh	24134	Barmen	1	De Lüt sind van Daag all do butten ob den Feld on meihen.
+gh	24156	Delle	1	Dä Lüh sind vandage all do buten obben Felle un mäget.
+gh	24167	Altena	1	De Lö͡ie sind van Dage alle op di͡äm Felle un maiget.
+gh	24180	Stockum	1	De Luie sind van Dage alle biuten opp diem Felle un megget. 
+gh	24208	Wall	1	De Löi sind vandag all buten op et Feld un miene.
+gh	24218	Vennikel	1	Die Lüh sind van desch all dr bouten ob ett fähld on mäin.
+gh	2426	Groß Pentlack (Kamenka)	1	Übersetzung nicht beendet und durchgestrichen: [De Lüd sen hete alle ob butn?]
+gh	24336	Berghausen	1	[...] sein haeure alle dösse uf dm Fält un mehn.
+gh	2436	Kowarren (Zaozernoye)	1	De Lied send hiede alle bute oppet Föld on haue.
+gh	24360	Bottendorf	1	De Leire sein herre alle dröße off den Fäld onn mehn.
+gh	24380	Bergfreiheit	1	Die Leide sen heite alle drauße uf'n Fälle un mehn.
+gh	24412	Roppershain	1	Die Liere sinn herre all drussen ofm Fälle un mehn.
+gh	24431	Konnefeld	1	Die Lüde snin hiedde (fast rr) alle drüssen uf'm Fälle un meh'n.
+gh	24454	Berneburg	1	De Lite sen hitte alle drußen off dem Felle  on mehen.
+gh	24466	Lüderbach	1	Die Liet sinn alle drussen uff däm Fäld un hauwen.
+gh	24490	Züschen	1	De Lüde sitt dünn Dag alle buten oppem Felde un mäggen. -
+gh	2452	Kleschowen (Kutusowo)	1	De Lüd send hiede alle bute op et Feld un haue.
+gh	24636	Rhadern	1	De Lüde sinn hödde alle drute uppden Felle un mäggen.
+gh	24659	Buhlen	1	D'Leide(e-i) sin hedde alle drusse off'n Fälle on mehn.
+gh	2466	Tolkmicko	1	De Lied sönn hiede alla bute opp'm Föld onn haue.
+gh	24677	Metze	1	Die Lierä sinn herrä allä drussen off dämm Feilä onn meen.
+gh	24695	Wattenbach	1	De Liede senn hirre alle drussen off dem Felle onn men̄e.
+gh	24715	Vockerode	1	Die Lihde sinn hide alle drussen uff dem Fälle oun mehn.
+gh	24737	Grosstöpfer	1	Deh Liete sinn hiete alle drüßen [t?]uff dähm Fälle un häuwen.
+gh	2474	Pierzchaly	1	De Lid sen hide alle bute op em Fäld on haue.
+gh	2482	Peterswalde (Piotrowiec)	1	De Lüd sön hide alla bute opem Föll on haue.
+gh	24884	Olsberg	1	Dai Luie sind dühn Dag alle terbiuten opp diäm Fälle un mägget.
+gh	24901	Sudeck	1	Dëi Luide si'd dünn Dag olle de butene (da draußen) up demm Felde un mägget.
+gh	24917	Braunsen	1	De Lüde sidd dün Dag olle te butene up dem Felde un mägget.
+gh	24926	Zierenberg	1	Die Lüde sei hödde olle druden ub den Felle un mähgen.
+gh	2494	Saruny	1	De Lud sünt hüde alle bute ob em Föld on mähe.
+gh	24942	Speele	1	De Lüde sin häǐde ahle druße uffen Fälle un mehn.
+gh	24959	Hermannrode	1	Dä Leue sind häte druten ub däm Felle un mäget.
+gh	2507	Wojciechy	1	De Lüd, sönn hiede alla bute opp em Föld on̄ mähn.
+gh	25113	Meiste	1	Dai Luie sind van Dage alle op diäm Felle un mägget.
+gh	25131	Fürstenberg	1	Dö Löie syd van dage olle biuten op dem Fälle un mägget.
+gh	25136	Scherfede	1	Däi Löüe säid dünndag olle terbouten up diem Fälle un mägget. 
+gh	25150	Körbecke	1	De Leue sind dün Dag olle bout'ne uppen Fälle un mägget.
+gh	25163	Gottstreu	1	Dei Leue sid huete alle buten up dem Felle und mägen.
+gh	25179	Esebeck	1	Dei Lüe sind hüte alle buten ub'n Felle meget.
+gh	25197	Ebergötzen	1	Dä Leuje sind hǖte alle būten upp'n Fulle un mā̈jet.
+gh	25214	Bönninghausen	1	Dä Luie sind van Dage alle biuten opp em Felle un mägget.
+gh	25223	Kirchborchen	1	Dei Löihe sind van dage olle biuten op dem Felle un mäigget. -
+gh	25343	Siebenstern	1	Dei Liüe sint hiüte olle terboüten up diäm Felle un mägget.
+gh	25354	Bruchhausen	1	Dai Luie sind vandage olle biuten up'n Felle un mäigget.
+gh	25363	Schönhagen	1	De L[ui?]e sint hüte alle butten up den felle un mäget. 
+gh	25373	Oldenrode	1	Dei Luin sind huite alle buten uppen Felle un mäget.
+gh	25391	Marke	1	De L(ieu)he sind 'h(üeu)te alle b(üau)ten up dm Felle un mäget.  
+gh	25407	Westerwiehe	1	de Löüe sim van dah ölle bouten uppen Faile un maihet.
+gh	25514	Haustenbeck	1	De Lui (i gz. schw.) sind van Dage olle biuten up'n Felle un maijet. - 
+gh	25522	Heesten	1	Deu Lui sind van Dage olle biuten up n Felle un mägget.
+gh	25543	Rischenau	1	Deu Lu-e sind van Dah olle biuten up'n Falle un meigget.
+gh	25560	Lobach	1	Dä Lüe seit huite alle biuten up den Felle un mähet.
+gh	25579	Wenzen	1	Dei Luie sind huite buiten upp ên Felle un meihet.
+gh	25596	Ackenhausen	1	Die Luie sind huite alle butten ub däen Felle un maget.
+gh	25607	Wolfshagen im Harz	1	Dai Lu͡ie sind hu͡ite alle butten up'n Felle un maiht.
+gh	25798	Kell	1	De Leut sein heut all/ejauße ob em Fell on mähe.
+gh	25824	Stromberg	1	Die Leit sein haut all jausse off demm Fäld am mähen.
+gh	25845	Staudt	1	Die Leit sein hout all jauße[r?] of'm Feld un mähe
+gh	2586	Jurkiszki	1	De Lied sen hiete alle bute oppet Föld un haue.
+gh	25876	Steinbach	1	Die Leut sinn hau alle draus uf dem Feld en mähe.
+gh	25904	Höfen	1	De Lück sent hück all do bußen op'm Feild on miäne.
+gh	25914	Gemünd	1	De Löck se höck all omm Feld on mähe.
+gh	2602	Maciejowieta	1	De Lied sinn hüde alle bute opp em Feld und haue.
+gh	26141	Iversheim	1	De Löck sen höck all dovür op em Feld on mähe.
+gh	26155	Gelsdorf	1	De Löck sen all eras ob et Feld män. 
+gh	26178	Ohlenberg	1	De Löck sen höck all om Fell on mähne.
+gh	26205	Seifen	1	De Leut sen heut all jussen of dem Feld un mähé.
+hi	26228	Gehlert	1	Die Leut' sein haut alle draus off dem Feld u. mäh'n.
+hi	26261	Waigandshain	1	däi Läu sei all hau däwse uf dem Feld enn mähe.
+hi	26283	Sinn	1	De i Leu sei hau all'drauße of dem Feld en douh mähe.
+hi	26312	Venwegen	1	De Lüh send hüh all de busse ob et Feld änn mihne.
+hi	26324	Üdingen	1	Dö Lök send hök all dofüe om Fäld on miëne.
+hi	26351	Borr	1	De Löck senn höck all op dänne Fäld on haue.
+hi	26578	Roisdorf	1	De Löck senn eruß onne Feld onn mäe.
+hi	26604	Geistingen	1	De Löck senn höck all druße op dem Feld am mähnen.
+hi	26627	Herchen	1	De Löck sen höck all do bußen op dem Feld on mähen.
+hi	26642	Mittelhof	1	De Leu senn heut all daußen off dm Feld öm mähen.
+hi	26664	Wilden	1	Die Lej säng huh all dusse off d'm Feld on mäh.
+hi	26683	Straßebersbach	1	Dei Leu sei hau all dause offm Fäld onn mee.
+hi	26712	Mariagrube	1	De Lüh send all do buße op et Feld on mihene.
+hi	26734	Niederzier	1	Die Lök send hök all dofüre om dem Fehl am miehn.
+hi	26753	Horrem	1	De Löck send höck all dofür om Fehld onn haue.
+hi	2676	Rygarby	1	De Lüd sen hüde alle bute ob em Föll on haihe.
+hi	26763	Poll	1	De Lück sinn hück all omm Feld unn haue (Kōhn, Klie, Weiß, Hafer) (möhen ??)
+hi	2691	Kolwiny	1	De Lid sĕn hiede alla bute ob em Feld on mähen (haue.).
+hi	27003	Heiligenhaus	1	Dé Löck sénn om Feil onn sén am mähen
+hi	27025	Faulmert	1	De Lüh seng all do bussen ob dem Fell on mähen. 
+hi	2703	Srokowo	1	Dö Liehd sönn hiede alla bühte oppem Fölt mähe. (Statt mähen) haue
+hi	27038	Hahnseifen	1	Die Lüh seng hütt all do busen ob dem Fell un mähen.
+hi	27064	Müsen	1	De Lü sin hö all dusse ob dem Feld on mäge. –
+hi	27074	Schameder	1	De Leire sei haure all döiße uf dem Feld un meh.
+hi	27106	Dudenhofen	1	Die Leit sann haut all drauß uff-em Feld unn mehe.
+hi	27135	Wenighösbach	1	Doe Leit sann heit all dauß ufom Feld un mehn.
+hi	2715	Stregiel	1	De Lÿd sönn hÿd alle buute oppem Föld on haue.
+hi	27150	Wiesthal	1	D[e'?] Leut sind heut all dauß of em Feld u. mehe.
+hi	27163	Massenbuch	1	Die Leut send heut all dauß uf dem Feld und mähwa.
+hi	27186	Neubessingen	1	Die Leut sen heuit ölla draus ufen Fald un  mäh'n.
+hi	27209	Dittelbrunn	1	Die Leut sen heut alla daus'n Feld und mähn.
+hi	27223	Vockenhausen	1	Die Leut seni heit all'drauß uff em Feld in mehe.
+hi	27244	Heddernheim	1	Die Leut' sinn heut alle drauß uff'em Feld un mehe.
+hi	2727	Budziska	1	De Lüdh sönd hüte alle buthe oppem Föld und haue.
+hi	27425	Bruchköbel	1	Di Leud sein haut all draus uff em Feld onnn mehe.
+hi	27444	Hailer	1	Dei Leut sai heut all drauß uff dem Feld on mehe.
+hi	2746	Chelchy	1	De Lüd' send hiete alle bute oppe Feld onn haue.
+hi	27461	Oberndorf	1	Die Läut sen häut all daès offem Feld on mähe.
+hi	27469	Rossbach	1	Die Leuit sein häuit all daus off'm Fäld on mähe=.(a)
+hi	27480	Hassenbach	1	Die Leut[e?] sänn heut alle draus auf n Feld und männ.
+hi	27501	Poppenlauer	1	Die Leut senn heut allä daus äs Feld unn mähä.
+hi	27507	Cratzenbach	1	Di Loit sein hoit all drauß off'm Feld en mäja.
+hi	2762	Wilkowo	1	De Lied senn hiede alle bute ohp em Feld on haue.
+hi	27692	Friedrichstal	1	Dai Leut sein heut all drauß off dem Ferld und meja.
+hi	27719	Leidhecken	1	Di Leut sei(n) haut all drauß uff d'm Feld ean mehwe. -
+hi	27742	Gelnhaar	1	Di Leuit sai haut all draus uf am Feald ean meje.
+hi	27765	Ulmbach	1	Die Leut sein heut all dauß om Feld on mähe.
+hi	27775	Eichenried	1	Die Leut senn heut all dauß auf demm Faeld oh mäeh.
+hi	27792	Wildflecken	1	Die Leut senn he'ut all daus off'm Féld on mähn
+hi	27807	Bastheim	1	Die Leut senn heut all dous ofn Fehlt un mäha.
+hi	2781	Karwiny	1	Die Leut sönn heut aller bauße off dem Feld onn haue.
+hi	27821	Philippstein	1	Die Leut sei haut all drauß ouff dem Feld en mähe.
+hi	27835	Dornholzhausen	1	Die Leur seij haur all dauß off d'm Feld enn mehe.
+hi	2800	Krzykaly	1	De Leut sein heit alla off em Fell on haun.
+hi	28010	Nonnenroth	1	Däi Leut sai haut all daus off d'm Fellt er[nnn?] mähwe.
+hi	28027	Götzen	1	Die Leut seih haut all dauhs of dem Feäld ean mewe.
+hi	28045	Altenschlirf	1	Die Läit seih häit all drausz uff 'em Faäld on mähe.
+hi	28063	Fulda	1	De Lit sen hit all druß of dem Fohlt on mähe.
+hi	28080	Rupsroth	1	Die Lüt sen hüt oll duisse of dem Fäld oh mähe.
+hi	28107	Gerthausen	1	Die Leut se[nn/im?] heut all deuße uffn Fäll un mebe.
+hi	2817	Mawry	1	Die Lait sain hait alla bauße offem Fell onn haue.
+hi	282	Zolna	1	Die Lüd sind hüt alle upp'm Fild u migge.
+hi	2827	Sarnowo	1	Die Leit seinn heite alla drauße offem Feld un haue.
+hi	28278	Krumbach	1	Die Leu sei hau all daus of amm Feald ean mähe.
+hi	28298	Londorf	1	Die Leu sei(ns) hau all uff'm Feald eann meje.
+hi	28315	Otterbach	1	Die Leu sei hau all dauß off damm Feald ernn mehe.
+hi	28330	Schwarz	1	Deh Liet si hiet all dusse im (omm) Föäld o mähwe.
+hi	28346	Grossenmoor	1	De Lid sen hit all drusse offem Fäld (br.) on mähe.
+hi	28358	Rasdorf	1	De Liēt senn hitt all drussã im Fell onn mäh'n.
+hi	28369	Wiesenthal	1	De Lut senn hütt aoll dusse offen Fäll oun män.
+hi	28392	Herzhausen	1	D'Leure sai haure all dauße off'm Fäld on mihe.
+hi	2846	Ledlawki	1	De Lied sönn hiede alla bute op em Föll haue.
+hi	285	Kosobudy	1	Dei Lied sin hiet alle buten, ob dem Fill un meggn.
+hi	28568	Betziesdorf	1	Die Laire sai haure all drauß off däm Fälld aen miehe.
+hi	28589	Neustadt (Hessen)	1	Die Lout sei hött all drouse offem Feld onn mih.
+hi	28605	Neukirchen	1	Die Läid seng häit all dräuste off'm Feld ön mehn.
+hi	28623	Gittersdorf	1	De Lied senn hitt all drusse off'm Fählt on mähn.
+hi	28640	Herfa	1	De Liet sinn hitt all drusse off dem Feld on mähn.
+hi	28651	Frauensee	1	De Liet sein hitt all druße uff'm Fäll on mähen.
+hi	289	Königswiese (Leśna Huta)	1	De Lid sint hit alle butem up dem Fill u mijn.
+hi	2900	Borawskie	1	De Lüd sönd hüde alle bute obb det Fild on haue.
+hi	2906	Zabrowo	1	Dei Lid send hitte alle buten op 'm Fell on hogge.
+hi	291	Lubichowo	1	Däh Lid sind hiet alle buthen uppem Fill un hauä
+hi	2916	Stanowo	1	Die Leite sind heite alle drause ǒff ěm Feld ǒn hauen
+hi	2923	Fijewo	1	De Leit send heite alle drauße of de Feld und mähe.
+hi	2935	Groß Koschlau	1	Di Loite sennd alle draussn off dem unn mehe
+hi	2955	Liksajny	1	Die Leit sönd heit alle drauße off dem Feld und mähe.
+hi	2962	Molza	1	Die Leut seie heut alle draußen offem Feld un (on) mähe.
+hi	2970	Warkaly	1	Die Lait saie hait alla ver a thea ofem Feld on haue.
+hi	2996	Bucznik	1	Die Leut sind heute alle drauße off dem Feld on haue.
+hi	300	Montauerweide	1	De Lied send hite alle bute op dat Land on haue.
+hi	300660	Sankt Roman	1	D' Leut send heut d'raußt & mahn.
+hi	300798	Reikersdorf	1	D' Leit hánd ollsaond daußt am Fö und mahnd.
+hi	301042	Rigaus	1	D'Leit sand hei(u)t oi aufe Fed daußt mah.
+hi	3058	Zyndaki	1	De L[éè?]d sen hide alla bute opem Fäld on haue
+hi	3069	Rychliki	1	D[ö?] Leut sönd alle drauße oft dem Feld onn (mähe) haue
+hi	3083	Chojnik	1	Die Leut sei heut alle off'm Feld onn haue.
+hi	3093	Ksiaznik	1	Die Leit seie heit allē drauß off'm Felled onn haue.
+hi	3111	Glotowo	1	De Leut seie heute alla vera Thea off em Fe̊ld on haue.
+hi	312	Ryman	1	Dei Lür sind hüt alla butem upp em Fel un megga.
+ij	3122	Derc	1	De Leit saie heute alla verr a Thea off em Fell on haue.
+ij	31677	Battweiler	1	Die Leit sinn heit all drauß uff'm Feld un mähe.
+ij	31695	Heltersberg	1	Die Leit siè heit all drauß uff m Feld un mähe.
+ij	31700	Ramberg	1	Die Leut sin heut all drauß uf'm Feld un mähe. (méhn)
+ij	31719	Geinsheim	1	Die Leud sinn heut all drauß uff'm Feld unn mahen.
+ij	31737	Diedenhofen	1	d Leit senn alleohūr de baußen opp d'r Gewann (Feld) 
+ij	31765	Laumesfeld	1	D'Leit sénn haut all dé fbaussen opp d'm Fled onn méhen.
+ij	31789	Beckingen	1	d'Leit sönn haut all dbaußen omm Fell onn mähen.
+ij	31800	Calmesweiler	1	D'e Leit senn haut all draus om Fell onn mähen.
+ij	31824	Steinbach bei Ottweiler	1	Die Leit sinn heit all drauß uf d'm Feld unn mähe.
+ij	32019	Dietschweiler	1	Die Leute sind heute alle draußen auf dem Felde u. mähen.
+ij	32040	Siegelbach	1	Die Leit bin heit all drauß uffem Feld un mehen.
+ij	32053	Alsenborn	1	Die Leut sein heut all drauß uff em Feld un mehen.
+ij	32067	Erpolzheim	1	Die Leit sinn heit all drauß uff'm Feld unn mehen.
+ij	32085	Kreuzweiler	1	D'e Leit sen haut al d bausen on mähen.
+ij	32102	Greimerath	1	De Leit sen haut al de bosen ob dem Fluer o mihen.
+ij	32119	Oberlöstern	1	Dei Leut sen haut all daußen of d'm Fell on mähen.
+ij	324	Podwilcze	1	Dei Lüür sünd hüt alle butem uppem Feel o mege.
+ij	3254	Jurkowo	1	De Lied sön hiede alle bute ob dem Föll on haua
+ij	3267	Pozarki	1	De Lied sen hiede alle bute op dem Feld on haue.
+ij	3272	Gawliki Wielkie	1	De Lied send hiede alle bute oppem Feld onn haue.
+ij	3280	Swietajno	1	De Lid send hide alle buten ob dem Föld on haue.
+ij	32855	Altviller	1	De Liet sin hūt oll drußen uf d'm Feld un mäjen.
+ij	32883	Woustviller	1	De Liedt sen héit all druß uff em Feld un mähe _
+ij	3301	Barschken	1	De Lüd sen hüde alle bute op dem Föld on haue.
+ij	33035	Rimling	1	Dé Lit sin heit all druß um Féld un mähé.
+ij	3304	Dawillen	1	Deh Lÿde sönn hÿde alle buhte opp dem Föld on̄ haue.
+ij	33055	Roppeviller	1	Di Litt sin heit all Druß ufm Feld un mähe.
+ij	33064	Dahn	1	Die Leut sinn heut all draus uff'm Feld unn méhèn.
+ij	3309	Dittauen	1	Hiede sönd de Lied' alle bute opet Fölld' un schniede.
+ij	33102	Gleiszellen	1	Die Leit sinn heit all drauß uf'm Feld unn mehen.
+ij	33111	Herxheimweyher	1	Die Leit sinn all drauß uff'm Feld unn mähe.
+ij	33126	Guinkirchen	1	De Liet sinn huht all uff'm Feld unn mähn.
+ij	33146	Überherrn	1	de Leid sin haut all' drauk uv em Feld un mähen
+ij	33159	Malstatt	1	Die Leut sinn hut all' drauß' uff'm Feld un mähen.
+ij	3318	Deegeln	1	De Lüd send hide aller bute op dat (op't) Fäld un haue (schneide).
+ij	33185	Niederwürzbach	1	Die Läit sinn heit all drous uf em Feld un mähe.
+ij	33331	Steinbuch	1	Die Leut sin heut all drauße uf dem Feld un mäje.
+ij	33346	Breitendiel	1	Die Leut' senn heut all d'auß uff'm Feeld un möha.
+ij	33364	Hundheim	1	Di Leut sen heut all daußem Fäld un möe.
+ij	33381	Steinbach	1	Die Leut senn heut öll daus uffm Fald un mä͜ewe.
+ij	33400	Eibelstadt	1	Die Leut senn haüt oall draus aufm Falld und mäwa.
+ij	3342	Pillkoppen	1	De Lied söend hiede aller oppe Föeld un haue.
+ij	33420	Rödelsee	1	Die Leut sin' heut' all' auf'n Fald und mäha.
+ij	3343	Karkeln	1	De Lüde sönd hüde alle bute uppet Föld un haue.
+ij	3345	Dünen (Ackmenischken)	1	De Lüd sönd hüde alle bute oppem Füld on haue.
+ij	3351	Pleine	1	De Lied sönn hiede alle bute oppet Fölld onn hau|ē.
+ij	33605	Erfelden	1	Die Leut sinn heut all drauß offem Feld un mähe.
+ij	33614	Traisa	1	Di Leit sin heit all draus offem Feld un mäe.
+ij	3362	Cullmen-Kulken	1	Di Lihd sönn hihde alle buhte opp'et Föllt onn hau-e
+ij	33631	Heubach	1	Die Leit sein heit all draus uff m Feld un meehe
+ij	3364	Rositten (Rybachiy)	1	De Lüd senn hiede alle buhte oppe Felt on haue.
+ij	33648	Hofstetten	1	Die Leit senn heit all dauß im Feld unn mehe.
+ij	33660	Bischbrunn	1	Die Leut sei all uff m Feald un meaba.
+ij	33677	Birkenfeld	1	Die Leut senn heut all daus uffn Fald un meaba.
+ij	33692	Rupprechtshausen	1	Die Leut senn heuit a̰lle daus aufn Fald u. mähwa.
+ij	33711	Gaibach	1	Die Leut sen heut all drauß auf'm Fald und mähen.
+ij	33725	Rüsselsheim	1	Die Leit sein heit all drauß uff'm Feld unn mehe.
+ij	33741	Langen (Hessen)	1	Die Leut seie heut all draus off'm Feld un meehe.
+ij	33849	Altlussheim	1	De Lait sin hai all draǒßuf em Feld un mähen.
+ij	33860	Schatthausen	1	D'Leid senn heid alleminnanner draus uff äm Feld ünn mää.
+ij	3387	Sassenhöhe (Augsgirren)	1	De Lüd seen hüde alle bute oppet Feld un haue.
+ij	34001	Daudenzell	1	D Leit senn heut all drauß uff em Feld un mähe.
+ij	34015	Billigheim	1	Die Leut sin heut all drauße uff em Feld un mähje
+ij	34025	Oberkessach	1	d Leut sind heut alle uf em Feld und mëhe.
+ij	34044	Ailringen	1	D'Leut senn heut all daus uf em Feld und mäwe.
+ij	34058	Lichtel	1	Die Leut san heut all draußa̰ ufn Fehld und mäwa̰.
+ij	34065	Windelsbach	1	Di Leut sann heut alli drauß uf'm Fǟld und mäābǎ.
+ij	34076	Ludwigshafen am Rhein	1	Die Leid sinn heit all drauß uff'm Féld unn mèh'n.
+ij	34096	Ursenbach	1	Die Leit sinn heit all draus uffm Fèld unn mehä.
+ij	34216	Gammelsbach	1	Die Lait senn heit all daus uf em Fell un mehe.
+ij	34228	Rumpfen	1	Die Leit sen heit alle dauß uf dem Felde und mähea.
+ij	34235	Gerichtstetten	1	Die Leut sinn heut all d[r?]uß uff'm Fēld un möhe.
+ij	3424	Beierstedt	1	De Lü'e süne hüte alle butten opp'n Felle un mei'et.
+ij	34247	Königshofen	1	Di Läüt sann heüt all uf m Feeld un meähwä.
+ij	34266	Aufstetten	1	Die Leut senn heut alla draußa auf'm Fald, un mäba.
+ij	34288	Weigenheim	1	Die Leut senn heut all uff'n Fald und mäha. 
+ij	34305	Bobstadt	1	Die Leit sin heit all draus ufem Feld un mehe.
+ij	34321	Mittershausen	1	Die Leit sin heit all drauß uffem Feld un mehe.
+ij	344	Modrolas	1	Dei Lür sinn hüt alla butem oppem Fill o möga
+ij	34447	Berghausen	1	D'Le[ic?]t sěnn he[ic?]t allě draußa uf'm Féll unn mäha.
+ij	34503	Winzerhausen	1	D'Leut sind haut älls d'ussa auf'm Feld und mähet.
+ij	34522	Liemersbach	1	Die Leut sind heut ölle daußa uf'em Feld u. mäha.
+ij	34535	Eutendorf	1	Dia̰ Leut senn heut alle dausa̰ uffém Fehld ond maiha̰.
+ij	34545	Honhardt	1	D'Leit san̄ heit all' daußa auf 'm Fēld und mäwä.
+ij	34557	Segringen	1	D Leut' sin heint alle in einige Nachbarorten äll) duss ufn Fèld und mähe.
+ij	34566	Graben	1	Die Leid senn heid all drauß uffem Fèll unn mähǎ.
+ij	34707	Odenheim	1	D'Lait senn hait all' drauß uf'm Feld un mäha.
+ij	34734	Massenbachhausen	1	D'Lait sěn hait all draußə uff əm Fäld un mähə.
+ij	34750	Binswangen	1	D'Leut sin heut alli draußa uf'm Feld u. mäha.
+ij	34773	Öhringen	1	D'Lěit sin hěit allé drǎußǎ uff(ǎ)m Fèld und mähǎ.
+ij	34791	Döttingen	1	Die Leit san̬ hait all daus uf'm Féld und mäwa (mäwḛa)
+ij	34802	Gaggstatt	1	D'Laid san̄ haid alli daußè uf'm Fēld und mǟwè.
+ij	34818	Dorfgütingen	1	D'Leit san heunt all dussa afm Féld und määh.
+ij	34838	Röckingen	1	D'Leut sen̄ hauat alla draußa offn Fäld und mäha.
+ij	34855	Windsfeld	1	D Leut sen heut all daus afn Feld u. mäha.
+ij	34872	Ettenstatt	1	D' (oder döi) Leit hăn heit all drăßn ăf'n Fḗld und māhă.
+ij	35003	Untermässing	1	De Lait sen heut alle draußn am Feld und mähn.
+ij	35011	Gimpertshausen	1	Die Leut sind heunt alle draußn auf dem Feld und mähen.
+ij	35026	Beratzhausen	1	Dar Leit sind heint alle drausen auf dem Feld und mahn.
+jk	35035	Eitlbrunn	1	D'Leid san heint all draßn aufm Feld und mah'n.
+jk	35046	Altenthann	1	Die Leut' sind heut' all' drauß'n auf dem Feld' und mäh'n.
+jk	35055	Rauenzell	1	D'Leut san heunt alle druß aufn̂ Feld und mäha. -
+jk	35067	Ismannsdorf	1	D' Leut senn heunt all draußn offn Feld und meha.
+jk	351	Smecino	1	Dei Louir sinn hüt (huit) all but'm upbem Fēl ŭ. mējä̆.
+jk	3516	Bornum	1	Dei Lüe sien hüte alle butten up dem Felle un meihet.
+jk	35165	Büchenbach	1	Die Leut henn heut alli draß'n aff'n Föld und moha.
+jk	35168	Seligenporten	1	D' Leut san heunt all drauß'n am Feld u mah'n.
+jk	35188	Günching	1	Dai Lait san heunt all draßn am Feld und māhn.
+jk	35195	Adertshausen	1	D Leit han heind ollzam am Feld dràßt und màh'n.
+jk	35204	Wiefelsdorf	1	Die Leut' san heut all draußt affm Feld und mahn.
+jk	35211	Bodenwöhr	1	D' Leit san heint all draßn afm Feld und mahn.
+jk	35223	Flachslanden	1	Die Leit senn heit all auf'n Feld drauß u. mäha
+jk	35236	Grosshabersdorf	1	Die Leit sen heint all drauß afn Féeld und denna mäha.
+jk	35254	Birnthon	1	D' Lait hen hḛḭt all draßn am Fēld u. méa.
+jk	35339	Röthenbach	1	Di Leit sen heint alli draß'n afm Föld u. meha.
+jk	35377	Alfeld	1	D' Leit sànn hḛḭnt all drauß aufm Föld und màhn.
+jk	35382	Ammerthal	1	D' Leut san heunt allzam draß af'm Feld und mah'n.
+jk	35393	Trisching	1	Dè Leut sand heut alle ofn Feld und màha'.
+jk	35517	Unternesselbach	1	Die Leut senn heu[e/n?]t olla drauß af'n Feld und mäha.
+jk	35524	Oberreichenbach	1	Die Leit sènn heint all drăß ăfn Feld und tènna mäha.
+jk	35544	Buckenhof	1	Die Leut sin heut alla draußn aufm Feld und mähn.
+jk	35562	Kirchröttenbach	1	Di Leit senn heḭt all drassn afn Fēld und mäiha.
+jk	35571	Hartenstein	1	Döi Leut han heunt all draß afm Feld und mahn.
+jk	35577	Schlicht	1	D' Leute san heut alle draßn aufn Feld u. mahn.
+jk	3558	Beckendorf	1	De Lüe seüd hüte (obseud) alle butten op den Felle un maih't.
+jk	35585	Kohlberg	1	D'Leit han heunt all draßn af m Feld und mahn.
+jk	35597	Oberlind	1	D Leit san heḭt allzam am Fèld draußn und māhn.
+jk	356	Porst	1	Dei Luid sind huit alla bautem upp demm Fe̊l ū meja.
+jk	35710	Haag	1	Die Leud senn heind oll daus aufm Fald und mäha.
+jk	3572	Domersleben	1	De Lüě sin hüte alle druten (auch butten) op et Feld un maiěn.
+jk	35729	Mühlhausen	1	Die Leut senn heut åll drauß aufn Feld und meha.
+jk	35755	Pautzfeld	1	Die Leut sen heit alla daun aufn Feld und meha.
+jk	35762	Moggast	1	Die Leut sĕn alla daun Feld und mĕhun.
+jk	35778	Pegnitz	1	Döī Leit sen heint allă drassen auf'm Fō̈ld und meīa.
+jk	35791	Speinshart	1	Döi Leut san heint all drauß'n auf'm Feld und mahn.
+jk	35799	Friedersreuth	1	D' Leit san all' draaßen aam Feld u. maad'n.
+jk	35807	Plössberg	1	D' Leut san heut all draßn afn Föld und mahn.
+jk	35824	Geusfeld	1	Die Leut senn heint ölla daußn Fald und mähan.
+jk	35843	Tütschengereuth	1	Die Leut sen âlla daun aufn Feld und mäha.
+jk	35857	Litzendorf	1	Die Leut sen heut all draun aufm Feld und meha.
+jk	3592	Prester	1	De Lide sin hite alle druten oppet Feld und meien.
+jk	36007	Hollfeld	1	Die Leut senn heit alla aufn Feld daun und thun mäha.
+jk	36017	Donndorf	1	Dei Leit sen̄ heit all draßn affn Fold und mohn.
+jk	36039	Kirchenpingarten	1	Dleit sen heint all draßn am Feld und meha.
+jk	36049	Hohenhard	1	D'Leut san heunt all draußn afn Feld und /:mäha:/ mahn.
+jk	36056	Leonberg	1	D' Leit sàn heint all àm Feld draß und màhn.
+jk	36065	Hohrodberg	1	Die Lüt se he't alle düsse uf em Feld un meije.
+jk	36084	Colmar	1	De Litt sen hette alle drusse ufem Fald un māije.
+jk	3609	Dalchau	1	Die Liede sind hiete alle druten up 't Feld un mähn.
+jk	3614	Schweinitz	1	Die Liede sin hiete alle druten up det Feld un mähn.
+jk	36159	Meistratzheim	1	D'Litt se hitt ahl drüsse uff'm Fald a maje.
+jk	36178	Müllen	1	D'Lit sin hit alli dussè ufm Fèld un maiè.
+jk	36202	Kniebis (Kr.Freudenstadt)	1	D'Leit senn heit älle uf'm Fèld dussě onn mājet.
+jk	3626	Nennhausen	1	Diee Lüe sind hüte alle büten up dätt Feld un mäahe.
+jk	36272	Ödsbach	1	D'Litt sin hit alli duß uf em Feld un dien main.
+jk	36277	Turquestein-Blancrupt	1	D'Lid sin hid alli drüße uf'm Feld im maije.
+jk	36282	Wangenbourg	1	Hit sin alli Litt druße im Fäld un mäije.
+jk	36309	Furdenheim	1	Alli Litt sén hitt drüsse uf em Fald un maje.
+jk	36334	Ruprechtsau	1	Die Litt sind hitt ale druhse uf ěm Fäld un mäje.
+jk	3634	Berge	1	Dihe Lühe sind hüte alle buhten up dett Feld un mähn.
+jk	36348	Achern	1	D Litt senn (sinn) hütt alle drußa uffm Feld un maiha.
+jk	36362	Saarburg	1	D'Litt sinn hytt alli druße uff em Feld un mäje.
+jk	3639	Pausin	1	Diee Lüh sind' hüte alle buuten upp dät Feld un mähn.
+jk	36489	Bois De Chêne	1	Die Litt sin hit alle drussen uf'm Feld und maje.
+jk	3649	Hermsdorf	1	Die Leute sin hit alle doußen uf dem Felde und mäjen.
+jk	36525	Wilshausen	1	Die Lytt senn hytt alli drusse uff'm Feld un maije.
+jk	36552	Marienthal	1	D'Litt sén hitt alli düsse uff em Fald un maje
+jk	36567	Fort-Louis	1	D'Litt sin hitt'alli drüßé uff'm Feld un majé.
+jk	36594	Bad Rotenfels	1	D'Lüt sind hüt alle dus uf'm Feld un mäget.
+jk	366	Przeradz	1	Dei Lüd sin hüt alle buten um Fill ue mege
+jk	3664	Birkholz	1	Die Lüde sind hüte all bouten up det Feld un mähn.
+jk	36737	Altwiller	1	Die Lit sin hit all' drüß of'm Feld un mäjen.
+jk	36755	Weislingen	1	D'Lit sin hit all drüß uf 'm Feld un mäje.
+jk	3677	Gielsdorf	1	Die Liede sind hiete alle druten ubet Feld un mäh'n.
+jk	36772	Lichtenberg	1	D'Lidd senn hidd alli drüssǎ uffm Fāld un mājǎ.
+jk	36789	Goersdorf	1	D'Litt sin hitt all drüs uf'm Feld un mäje.
+jk	36823	Siegen	1	D' Leit sin heit alli drauß uffm Fald un mähjen.
+jk	36842	Neuburgweier	1	De Leut' sinn heut' all' drauße uff em Feld unn mähe.
+jk	3688	Ringenwalde	1	Di Lide sin hite alle drut'n up det Feld un mäh'n.
+jk	36880	Bischoffingen	1	D Lüt sin alli dussä uffem Feld un meihä.
+jk	36898	Maleck	1	D'Lüt sin hüt alli dusse uf em Feld un mäie.
+jk	36911	Yach	1	D Lüt sin hüt alli dussa uf èm Fäld un mäia.
+jk	36933	Orschwiller	1	D'Litt sinn hitt alli diusse of'm Fald un maje.
+jk	37007	Bindernheim	1	D'Lid sé hid älli drüß uf ém Fäld un māia.
+jk	37025	Schmieheim	1	D'Litt sin hitt alli duß uff'm Fäld un mäjrn.
+jk	3703	Lehmannshöfel	1	Diee Liede sin hiete alle druter up dett Feld un mähn.
+jk	37035	Bollenbach	1	D’ Lut sin hit alli dus ufem Feld un maia.
+jk	37058	Le Hohwald	1	D'Lit sè hit alli drüßa ùf'm Stèck u meja.
+jk	3711	Warnick (Warniki)	1	Die Lide sinn hite alle buten up det Feld un mähen.
+jk	37119	Buchenberg	1	Die Litt sen hitt älli uffam feld druß un meiǎ.
+jk	37138	Rottweil	1	D' Leit sind hit äll dußa uf am Feld u. maihad.
+jk	37153	Obernheim	1	D'Leut sind heut älle duß uf am Fiald u. mähat.
+jk	3722	Zaszczytowo	1	(nicht übersetzt)
+jk	37302	Winterlingen	1	D'Leit send heit ell dussa ufm Fèld ond mèhet.
+jk	37314	Dürrenwaldstetten	1	Dia Leut sind heut äll duße aufem Feald u. mähat.
+jk	37333	Hausen am Bussen	1	D Liut send heut äll daußa auf em Feld & mähet.
+jk	37354	Baustetten	1	D'Leitt seand heit äll dussa uf'm Feald u. maihet (auch: mähet)
+jk	37369	Illertissen	1	Dleut send huid all dusse uff em Feld und mähet.
+jk	37388	Schenkenzell	1	di Leit sin hitt äll uf em Feld usse un maie.
+kl	37401	Aistaig	1	Dia Leut sind heut älle dußa uf am Feld un maihet.
+kl	3744	Rudnica	1	De Leite sinn heite alle draußen uff det Feld un mäjen.
+kl	37555	Stetten bei Haigerloch	1	D Leut sind hait äll dussa uffm Feld und doant mäha.
+kl	37571	Salmendingen	1	D'Leit sind heit älle dussa uff 'm Feald und mähat.
+kl	37581	Bernloch	1	D'Leut send heaut älle uf'm Feld dussa u. mähet.
+kl	37598	Gundershofen	1	Die Leut send heut äll dußa auf em Feld u. mähet. 
+kl	37607	Eggingen	1	Die Leit sand hait äll dussa ufm Féld u. mähat.
+kl	37622	Holzheim	1	D'Leut sind hḛit äll dussa ufm Feld u. mähat. [Tilde unter ‚heit‘ unter ‚e‘ und ‚i‘.]
+kl	37658	Oberwaldach	1	D'Leut send häud älle dusoa uf em Feld u. mäuhed.
+kl	37802	Bondorf	1	D'Leut sind heut äll drussa uf am Feld u. maihet.
+kl	37825	Lustnau	1	d'Leut send heut älté dussa uffam Feld und mähet.
+kl	37855	Dettingen an der Erms	1	D'Leit send heit älle dußa ufe'm Feld u. mäha.
+kl	37862	Donnstetten	1	D'Leit send hei(n)t äll dussa uffam Feld ond dennt mäha.
+kl	37869	Radelstetten	1	D'Leut send ällsand dusse uffem Feld u. dähnt mähe.
+kl	37883	Ballendorf	1	Diå Leit sennd ha͡int älle dusså uffam Fèld ond mähåt.
+kl	37900	Obermedlingen	1	D' Leut sénd he͜int àllé auf'm Feld dußdã, õnd déant mäã.
+kl	37902	Raumünzach	1	D'Leit (d'Lit) sinn heit (hit) alli duß uf em Feld un maie.
+kl	37947	Schönaich	1	D Leut send heṵt ällă̰ dussă̰ ŭfam Feld ge mähă̰.
+kl	38044	Hünerberg	1	Die Leut send heut älle dusse uffem Feld ond mähet.
+kl	38056	Gechingen	1	D' Leut sen heit all dusse uff em Feld on mähet.
+kl	38095	Denkendorf	1	D'Leut sein heiet äll duß uf'm Feld un mähet.
+kl	38116	Albershausen	1	D Leut send héit älle dußa ufem Feld u. màhet.
+kl	38136	Winzingen	1	D'Leut sind heun̰t àll dussa̰ uff'm Fèld r. màhèt.
+kl	38146	Zang	1	D'Leut send he͜ut älle ǎff am Feld dussa und maiet.
+kl	38155	Auernheim	1	D'Leut sind ha͜it älle daußda̰ off 'm Feld und mähet.
+kl	38169	Dennach	1	Dia Leut sen hoet alle ǎff am Fäll daußa ǒn maihat. 
+kl	38182	Tiefenbronn	1	D' Leid sen heut all' drauß uf'm Feld un mèhe.
+kl	38348	Schöckingen	1	D Leut send heied älle daußa uf em Feld u. mähet.
+kl	38373	Hegnach	1	Die Leit send heint älle aufem Feld daussa ond mähet.
+kl	38407	Steinenberg	1	D'Leut send heit älle draußa uf am Feld ond mäat.
+kl	38422	Ruppertshofen	1	Die Leud send heid älle uf a̰m Feald drussa̰ ond mähat.
+kl	38437	Fachsenfeld	1	D'Leut sḛnd heṵt älle daußa̰ auf m Fēld ond maihat.
+kl	38448	Baldern	1	Dia Leut' send äll' dussen ufm Feld u. maihet.
+kl	38482	Kleinvillars	1	Dia Leid senn heid allé uffam Feld drauß' onn mäa
+kl	38502	Hohenhaslach	1	D'Leut send heut alle daußa ufam Feld ond möha.
+kl	38623	Nendingen	1	D Leut sind hit äll dußa uffam Fiald und mäiet
+kl	38640	Rohrdorf	1	D'Leit sind huit all'dusse ufeim Feld und mähe.
+kl	38655	Völlkofen	1	Dia Leut sénd haint all draußè uff [é?]m Fèld ond mähet.
+kl	38666	Reichenbach	1	D'Leut sind həit alle dussa im Ösch (resp. Feld) und mähət.
+kl	38682	Mittelbuch	1	D'Leut sind heit alle duße ufem Feald u. mähet.
+kl	38695	Unteropfingen	1	D Leut sind heut all dussa uffem Feld u. mähet.
+kl	3871	Dreetz	1	De Lüd' sind hüt all' buten up't Feld un mäjen.
+kl	38720	Kicklingen	1	Dia Leut sind früt älle daußt aufm Feld und mähat.
+kl	38738	Westendorf	1	D' Leit sind hḛit alle draṵßta̰ of'm Feld und mä̰h'n.
+kl	38764	Waidhofen	1	D Leit san hḛit åi ān Fëid daußt und màn.
+kl	38774	Eschelbach an der Ilm	1	D'Leud san heunt ai draußt auf'n Faid und mahn.
+kl	3880	Brunne	1	Diee Lüe sind hüte alle buten up daet Feld un maehj'n.
+kl	38863	Pöttmes	1	D'Leut sen heint all an Fai'd dauß und mahn.
+kl	3887	Sommerfeld	1	De Lüh sind hüte alle buten up Feld un määhn.
+kl	38899	Hebrontshausen	1	D' Leut san heit alle drauß'n af'n Feld und mahnt.
+kl	38912	Oberglaim	1	D'Leut san heut alli draußn aufn Feld und ma̰hn
+kl	38935	Fronhofen	1	Dia Leut send heut alle draußa auf m Feld und mähat.
+kl	3896	Malz	1	De Lüde sin hüte alle buten up et Feld un mägen.
+kl	38963	Stepperg	1	Dia Leut sind heut alle draußen aufm Feld beim Mah'n.
+kl	3901	Stolzenhagen	1	De Lüde sîn hüte alle druten upp dät Fĕld un mään.
+kl	3906	Prenden	1	Die Lüde sind hüte albe buten uppen Felde un mäihn.
+kl	39062	Hafenreut	1	D Leut sind heut alle daußt auf'm Feld und mähend.
+kl	39089	Gerolfing	1	D Leit han heit aol draß'n in Föd und ma̰n.
+kl	39103	Irsching	1	D Leut han alle draus aufm Föld und mahn.
+kl	39116	Siegenburg	1	D' Leut san heṵn̰t alle am Feld daußt und màhn.
+kl	39126	Semerskirchen	1	D' Leut sand heut alle drauße auf m Feld u. mahn.
+kl	39140	Hofkirchen	1	Dö Leud san heut oalli draußn aufn Fejd u. mahn.
+kl	39160	Dürrenzimmern	1	D'Leit send heind alle aufm Feld draußa und mäha.
+kl	39179	Gundelsheim	1	Dia Leut sen heunt alli afm Feld daus und mäha.
+kl	3919	Trampe	1	Die Lüde sind hüte alle puten upp det Felt u. mähen.
+kl	39201	Walting	1	Dia Leit han heint all daßen af'm Feld und mahn.
+kl	39293	Bieswang	1	D Leut han deut all draßn af'm Föld und maha.
+kl	3931	Neureetz	1	De Liede sin hiete alle buten up'et Feld un mäjen.
+kl	39317	Pondorf	1	D Leut san heund alle am Feld drauß und mahn.
+kl	39329	Neukelheim	1	Dö Leut san heut alle draußn auf’n Feld u. mahn.
+kl	39342	Peising	1	D' Leut' san alle heut' drauß'n am Feld und mahn.
+kl	39356	Arlesried	1	D Leut send he͜it all aufm Feld duß und mähat.
+kl	39370	Türkheim	1	D'Leut sind heit alle dussa offm Feld und dund maia.
+kl	39398	Gauting	1	Die Leut san heut allesam draußn aufn Feld u. mahn.
+kl	3944	Kurzycko	1	De Liede sind hiete alle druten upp dat Feld un mäen.
+kl	39459	Kaufering	1	Dö Leit sen heit all am Feld daus und mäha.
+kl	39475	Eching am Ammersee	1	Die Leut seind heut alle draußa auf'm Feld und mäha.
+kl	3949	Grzymiradz	1	Die Lüde sind hiete alle drut'n up et Feld un mäh'n.
+kl	39494	Perlach	1	Dö Leut sand hent oalsam draust aufm Feld und mahn
+kl	39503	Zorneding	1	D Leut soan heut all draußt aufn Feld und mahn.
+kl	39509	Albaching	1	D’Leut san heut alö drauß[e?].
+kl	39515	Sankt Leonhard	1	D' Leit san heind oisam daust an Feldern und mahn.
+kl	39517	Niederraunau	1	He͜it send alle Leut uf'm Feld dussa̰ und maiet.
+kl	39529	Walkertshofen	1	D Leut sind hait alle dußa ufm Feld und maihat.
+kl	39546	Oberottmarshausen	1	D' Leut sind heut alle im Feld dusda̰ und mähan̰d.
+kl	3957	Lubiszyn	1	Die Lide sin hiete alle druten up det Feld un mejen.
+kl	39647	Mittelstetten	1	D'Leit sen hḛi[d/t?] all dauß auf'n Föl u. meh'n.
+kl	3965	Heinersdorf	1	Die Leide sind heite alle drauten uppt Feld un mähen.
+kl	39662	Bergkirchen	1	De Leut soin heut ai am (Fei) Foi dauß und mahn
+kl	39667	Unterschleissheim	1	Die Leit san heint alsam draußn am Feld beim mahn.
+kl	39673	Moosinning	1	D'Leut san heut alle draußn auf m Feld und māhn.
+kl	39687	Oberdorfen	1	D'Leit hant heḭt oisamt daust an Feld und mahnt.
+kl	39693	Wettenhausen	1	Dia Leut sind heuat alle dußa aufm Feld u. meihat.
+kl	39710	Zusmarshausen	1	D'Leut sind heũt alle daußta auf'm Feld und mähent.
+kl	39723	Täfertingen	1	D’Leut send heut all daußte auf’m Feald u. mähent.
+kl	39742	Gallenbach	1	D' Leit sen heit all drauß an Fel und mähn.
+kl	39865	Hilgertshausen	1	D Leit san heit all an Feld draus bam mahn
+kl	39880	Allershausen	1	D'Leut san heunt all daußt an Fell und mahn.
+kl	39891	Rast	1	D' Leid hant heint äi aufn Föid draus u. mahnd.
+kl	39901	Vilsheim	1	Dä Láit ha̰nt heut aisamt daußt an Feid u. ma̰hnd.
+lm	39954	Sattelbogen	1	D Leut san heunt ollzam̅ draußn aufn Feld und mahn.
+lm	39962	Krailing	1	D’Leut san Tilde unter „an“ heut o͡alle am Fe͡id daußt und mahnt große Tilde unter „ahn“.
+lm	39968	Oberried	1	Dö Lät sa̰n oa daßtn a̰m Fēd und ma̰ht [t ist über ein e drübergeschrieben]. 
+lm	40000	Pertolzhofen	1	D' Leut san heint all draß aufn Feld und màhn.
+lm	40012	Tiefenbach	1	D'Leut han heint all draßt am Feld und mahn
+lm	40047	Pemfling	1	d'Lät han sehr alla am Feld draßt und mahn
+lm	40057	Arnschwang	1	D'Lȃht (Lȃhd) san hȫ=dt all dra stn a fn Feíl und ma n.
+lm	40112	Wald an der Alz	1	D Leut sant heut oisan daust an Feld und mahn.
+lm	40137	Ranoldsberg	1	De Leut san heit alle drauß'n auf'n Feld und mahn.
+lm	40145	Erharting	1	D' Leit san áö aufn Feld beim Man̰.
+lm	40155	Gumpersdorf	1	D' Leut san heut allõ draußn aufn Feld und man
+lm	40191	Vilsbiburg	1	D Leud san heud oalli draußt aufm Feld und máhn.
+lm	40202	Gangkofen	1	D' Leut san hein̰t aïsam draußtn aufn Feïd und mahn.
+lm	40212	Neuhofen	1	D Leut sand heut allö draußt aufm Fēīd und ma̰hn.
+lm	40220	Bad Birnbach	1	D' Leut hant heint ollö draußt'n am Faid und mah'n.
+lm	40231	Ruhstorf an der Rott	1	D leut hand heṵt oisant außt aufn Feid u. mahnd.
+lm	40274	Wörth an der Isar	1	D' Leit hand heit oisand draußt aufn Fëid u. däant ma̰h.
+lm	40286	Griesbach	1	D'Leut san heut alle draußn aufn Feld und mahn.
+lm	40297	Indersbach	1	D Leut hand heunt oisant daußt aum Feild u. ma̰hnt.
+lm	40308	Walchsing	1	D Leut hand heut alle draust aufm Feld u dan̄ mahn.
+lm	40320	Kirchberg	1	D Leit hand heḭt ollsant draußn affm Feld und mahnd.
+lm	40331	Haag	1	D Leut hand heut olló draußn afn Aga u. mahn.
+lm	40402	Hankofen	1	D'Leut sand heit a=izam àm Feld dauß beim mahn.-
+lm	40414	Plattling	1	D Leut san heut alle ăfm Feld draußn im Ma̰h.
+lm	40420	Auerbach	1	Heund san alle Leud a̰n Fēĭd daust und ma̰hnd
+lm	40428	Saldenburg	1	D' Leut san heun̰t alle auf'n Feld im Mah̰n.
+lm	40439	Karlsbach	1	Dö Leut sand heut olle draußn aufn Fêid u. mahn.
+lm	40516	Steinach	1	D'Leud san heunt alle am Feld daußt und māh̰'n.
+lm	40524	Perasdorf	1	D' Leut hand heut ôizam euf'n Fêîd und mand.
+lm	40531	Regen	1	D' Lä-it san hä-it alla drast af'n Feld und mā-hn.
+lm	40535	Klingenbrunn	1	Heun̰d san d' Leud allö aufm (afm) Fe(ö)d und ma̬hnd.
+lm	40538	Riekofen	1	D' Leut san heut alle draußt am Feld und mah'n.
+lm	40597	Lindau (Bodensee)	1	D'Liet sind hitt alle dussa ufm Feald und meiend.-
+lm	40605	Schnellers	1	D Lit sind hiöt āll dußā uffm Feāld u. mēihet.
+lm	40613	Ratholz	1	D Lüt sind huit all dussa uffm Fèald und mèi´t.
+lm	40637	Eschbach	1	D'Lüt sind hüt alli dussa uf em Feld und maia.
+lm	40655	Erzingen	1	D'Lüt sind hüt älle duße uf em Feld und maie.
+lm	40757	Schienen	1	Di Lüt sind hüt alle uf em Fäld usa und mähet.
+lm	40771	Wollmatingen	1	D'Lüt sind hüt alli duste uf em Feld' und mähet. - 
+lm	40785	Kluftern	1	D'Lit sind huat alle ufem Feald uß und maiid.
+lm	40798	Obereisenbach	1	D Lit sind huat alle dussa uf am Feald und mäind.
+lm	40807	Ratzenried	1	Diǎ Litt sind hiǎt all děßa uf m Feld und mähet.
+lm	4081	Bantikow	1	De Lü̂d sünd hü̂t all' bûten up't Feld un mäjen.
+lm	40819	Kreuzthal	1	D'Leut send huit all duß auf'm Feald und mähat.
+lm	40844	Münchingen	1	De Lütt sind hüt alli ufem Feld uß und maia.
+lm	40863	Tengen	1	D'Lit sänd hit alli uff am Feld ussa und maiet (od. ge maia.)
+lm	40898	Billafingen	1	Die Leut sind heut all dus uf em Feld um lond mäe.
+lm	4093	Kränzlin	1	De Buer sind hüt all buten up det Feld un mägen.
+lm	41018	Eigeltingen	1	D'Lüt sind hüt alli duß uf em Feld und maiet.
+lm	4102	Seebeck	1	De Leue sind hüte alle druten upp dett Feld und mägen.
+lm	41049	Illmensee	1	d'Leut sind hiat alli dussa uffem Feald un mähit.
+lm	41057	Baindt	1	dLüt sind hiat alle dußa uf am Feld u. mähet.
+lm	41064	Ziegelbach	1	D'Leut sind hait alle dussa uff'm Feald und mähat.
+lm	41076	Maria Steinbach	1	d Leut sind ha̰it all' duß uffm Feald und mähat.
+lm	41086	Waldau	1	D'Lit sin hitt alli dusser auf'm Feld un majer.
+lm	41098	Hubertshofen	1	D Litt sind hit alle dussa uf am Fè(a)ld und maiat.
+lm	41114	Öfingen	1	D Lüt sim hütt älle duße ufem Feld und majet.
+lm	4112	Klein-Mutz	1	De Lüj' sind all buten up't Feld und mäjen 
+lm	4119	Gross Dölln	1	De Lüd sein hüt all buten upp't Feld unn mägen.
+lm	41200	Masevaux	1	D'Litt si hit ālla dussa uhm Fald un majo.
+lm	41214	Aspach-Le-Bas	1	d'Litt sin hitta alla dußa uf'm Fald un maja.
+lm	4123	Senftenhütte	1	De Lüde sin hüte alle buten upt Feld un mäjen.
+lm	41245	Lipburg	1	D. Litt sin hitt alle duß uf èm Feld un maiè.
+lm	41262	Utzenfeld	1	D'Lit sin hit alle dusse uf em Feld un maie.
+lm	41275	Schluchsee - Blasiwald	1	D'Lüt  sin hüt alle dus uf em Feld und maiet.
+lm	41296	Oberentzen	1	D'Lit sind héta alli dusa uf èm Fald un maiha.
+lm	41309	Feldkirch	1	D'Lütt sin hütt alli dusse uf'm Fäld un maje.
+lm	41336	Kappel	1	Dia Lüt sind hüt all dus uf em Feld und maiha.
+lm	41351	Urbès	1	D'Lit sin hit alle duse uffem Fald un māje.
+lm	41365	Rimbach-Près-Guebwiller	1	D'Lit sen hèt alli dussa uf'm Fald un māia.
+lm	4142	Stoki	1	De Lüde sin hüte alle but'n ub dat Feld und mäh'n.
+lm	41460	Rixheim	1	D'Lit sèn hèt alle duss uf-em Fald un mahia.
+lm	4152	Stoleczna	1	De Lüh sind hüte alle drutn up dat Feld un meäen.
+lm	41566	Ranspach-Le-Bas	1	D'Lit sinn hitt[ä?] alle duhsa uf'm F[ä?]ll unn māya.
+lm	41598	Lörrach	1	D'Lüt si hüt alle duße ufem Feld undmaie.
+lm	4161	Glazow	1	De Lüh sinn hüt'e all drut'n upt Feld nǒ mäje. -
+lm	41623	Hütten	1	D'Lütt sind hüt alli dusse uff em Fäld und māiè.
+lm	41653	Largitzen	1	d'alte Litt sin hiet alle duße ufem Feld un maihe.
+lm	4171	Okunie	1	De Lüt sin hüten all druten up dat Fild un mägen.
+lm	41714	Lucelle	1	D'Lit sin hitǎ āll dussǎ uf'm Fǎll un mǎjǎ.
+lm	41785	Höhenrain	1	D' Leid san hḛḭd àisam án Fëĭd außn und mán.
+lm	41801	Grosshöhenrain	1	D' Leit han heunt oisam beim Mah̰ daußn.
+lm	41811	Tattenhausen	1	d'Leut hant heut oi daußt aum Feid und mahnd.
+lm	41819	Ollarzried	1	Die Leut send heint  all dussa uff deam Feald und mähet.
+lm	41836	Kaufbeuren	1	D'Leit sind hoint alle dussa auf'm Feald ond mähet.
+lm	41845	Denklingen	1	D Leut sind heut all im Feld duß u. mähat.
+lm	41855	Raisting	1	D Leut sind heut all daus offm Feld und mähn.
+lm	41872	Baiernrain	1	De Leid san ei draus in Faid und man.
+lm	41932	Huglfing	1	D' Leit sen hḛit oll am Fa͡ell dauß un de͡a̠̰hna mah'n.
+lm	41939	Penzberg	1	Die Leut san heut an Feï draus und dean mahn.
+lm	41948	Reichersbeuern	1	D Leut sand heut allisamt dra[u?]ßen auf dem Feld u. mahn.
+lm	41953	Parsberg	1	Dö Leut san heut alle drauß'n auf'n Feld und mah'n.
+lm	41963	Kirchdorf am Inn	1	d' Leut ha̰n heut alle draußn aufm Feld u. ma̰hn.
+lm	41969	Aschau im Chiemgau-Niederaschau	1	Die Leut san heut alle drauß'n aufn Feld u. mah'n.
+lm	41971	Betzigau	1	D Leut sind hait all duß uffm Feld und mähet.
+lm	41980	Sulzschneid	1	D'Leut send heit alle duß uf'em Feld u. mähet.
+lm	41986	Steingaden	1	D Leit send heint all' auf'm Feld und mähḛnd
+lm	42039	Bayerniederhofen	1	Die Leut send heut all duß a im Feld und mähat.
+lm	42049	Jachenau	1	D' Leit sen hḛit oll am Fèll auß un mahn.
+lm	42056	Unterjoch	1	Die Leut sind alle heut dussa aufm Feld u. mähen.
+mn	42062	Oberau	1	D' Leit sen heḭnt all' daußn am Fḛld un den mahn.
+mn	42070	Eggstätt	1	D Leud sand heid oisam daust af m Faid und mahn.
+mn	42076	Traunwalchen	1	D'Leut san heunt aisamt aufn Feld daust und ma̰hnd.
+mn	42084	Kirchanschöring	1	D'Leut san heint oaisamt daußt auf'n Feid und mahn.
+mn	42116	Ruhpolding	1	D' Leut hend heut allsam aufń Feld daußt u. mähn.
+mn	42118	Anger	1	D. Leut hand heint ái drauß an Féid an Mahn.
+mn	42132	Ramsau bei Berchtesgaden	1	D' Leut san heint all draußt afn Feld u. mahn.
+mn	42140	Hachiville	1	T'Lekt sén hǒkt all do boußen om Feld a méihen.
+mn	42166	Niederwampach	1	D'Leit sinn haut all dobosen um Feld an menen.
+mn	42180	Neidhausen	1	T'Lèkt sen hokt all do bãußen om Feld an mien.
+mn	42236	Ettelbrück	1	D'Lètt sén hètt all do bauszen ob dem Fèlt a méen.
+mn	42254	Rambrouch	1	D'Leit sen all haut do buõssen op dem Feld a mĩenen.
+mn	42302	Eischen	1	t'Leit sin ha-ut do ba-ussen op dem Féld ann ménen.
+mn	42316	Hünsdorf	1	Lět sin hǒt alle gūrěnop děm Fěld fir zě méěn.
+mn	42341	Biwer	1	D'Leit sin haut al dobaussen ob dem Feld an se méem.
+mn	42414	Uewerkuer	1	D'Lét sin hǒt alle gūort do bǒuhsen um Fèld ǎn méinen.
+mn	42431	Peppange	1	d'Leit sinn haut all do bäußen ob dem Feld an se méihun.
+mn	42469	Schwarzenbach an der Pielach	1	De Leut san heunt alle drausst aufn Feld und tan mahn.
+mn	42470	Lehenrotte	1	D Leut sand heut olli draußn am Feld und tan mah.
+mn	42472	Thal	1	Do Leit san heut ålle draußn am Feld und tun mahn.
+mn	42477	Grillenberg	1	De Leit san heint olli draussn auf'm Föid und mah'n.
+mn	42520	Schneebergdörfl	1	D' Leut san heĩñt olle daußt aufn Feld u. mahn.
+mn	42527	Mollram	1	Dö Leit san heint olle draußt am Föld und tuan mahn.
+mn	42532	Frein an der Mürz	1	D Leut san heint all am Feld draußt und mahn.
+mn	42571	Massing	1	D' Leit san heit ålle a'fn Feld draust u. mah'n.
+mn	42573	Semmering	1	D' Leit san heit olli draußt am Föd und mah'n.
+mn	42587	Feistritz am Wechsel	1	Die Leit san heit olli drauß'n afm Föd u. mahn.
+mn	42612	Gleichenbach	1	D'Lait san haint olli am Föd draust und toan mahn.
+mn	42635	Weiden am See	1	Die Lait san haint olli drauß'n af'm Föld und mahn.
+mn	42637	Nickelsdorf	1	D Lait sann hait olli draustn am Föld und mahn.
+mn	42640	Siegersdorf	1	Dö Leut san heut ålle drauß'n auf'm Föd und mah'n.
+mn	42647	Stotzing	1	D' Leut san olli draußt am Föld um mahn.
+mn	42670	Wieselburg (Mosonmagyaróvár)	1	Te Leid san heit (heint) olli traussn auftn Föid und tan mān.
+mn	42688	Andau	1	Die Leit san heint olli draustn am Föld und mahn.
+mn	42691	Wiesen	1	D' Leit sei heit alli aufn Föld und tuin mah.
+mn	42701	Baumgarten	1	Die Leit san heit olli draussn am Feld und tan mahn.
+mn	42706	Apetlon	1	Die Leit san hei't olli draussn am Föld und mahn.
+mn	42722	Horitschon	1	Die Leute sein hent alle drauszn am Fold und mahn.
+mn	42728	Holling (Fertőboz)	1	Ochtatreisk. T Leid sinn olli trausst am Föld, und mahn.
+mn	42748	Frasnacht	1	d'Lüt send hütt ali dusse-n-ufem Feld ond mäied.
+mn	42821	Rietli	1	D'Lüt sönd hüt ali off de Wes am Mäje.
+mn	42843	Hohenems	1	D'Lüt sind hüt alle dus ufam Feald und tont meia.
+mn	42850	Bizau	1	D'Lütt seand hüt all uffom Feld uß und meiod.
+mn	42856	Riezlern	1	D'Lüt send hüt all ufm Feld dussa am maia.
+mn	42908	Gamprin	1	D'Lüt sin höt alle uf am Fel dossa am haia.
+mn	42926	Röns	1	Höütt ist alld ud Feld, gie mäja.
+mn	4293	Brielow	1	Die Lüe sin hute alle buten up det Feld un mähen. 
+mn	42933	Buchboden	1	D-Lüd sind hüd alle ofm Fäld und dön meia.
+mn	42939	Lech	1	D' Lüd send hüd åll uf'm Guäd dussä ond meiä.
+mn	42970	Sargans	1	D'Lüt sind hüt alli dä-juss uf äm Fäld und mäijend.
+mn	42977	Schruns	1	D’Lüt sind hüt all’ dossa of am Feld und mäjan.
+mn	42985	Vils	1	D Leut send heint all dussa uff m Feld und mähe.
+mn	43004	Hinterhornbach	1	D Lait seiå hait åll dauße aufm Fald und maje.
+mn	43013	Rinnen	1	D'Leut sei heind åll davor ufm Fald und maie.
+mn	43021	Ehrwald	1	D' Leit sönn heit all' duß auf' m Feld un mähå.
+mn	43022	Leutasch	1	D Leut senn heit olla dreßt afn Fald mahn.
+mn	43027	Bach	1	Dia Leut sei'n heint ålle daussa auf'm Fald und mahja.
+mn	43037	Silzerberg	1	Die Leut sein ålle d'auß'n af'n Fald und mahnen.
+mn	43055	Hatting	1	Die Leit sein oalle außn afn Feld und mahn.
+mn	4306	Deetz	1	De Lüde sind alle buten up det Feld un mäh'n
+mn	43070	Mils bei Imst	1	D'Lait sein heint oll dauße aufm Fald und maje.
+mn	43122	Unterried	1	Die Leit sein heit olle daföarn aufn Falde u. tian mahn.
+mn	43133	Holdernach	1	d. Leit sei heint oll am fald und maaia.
+mn	43152	Kauns	1	D Laiti sein heind oll aufm Fald daußa und tian maja.
+mn	43161	Unterberg	1	Die Leit sein heit alle af n Feld aufm mahn.
+mn	43162	Pertisau	1	Di Leit sen heiñd ållö aufn Feld u. teañ mähn.
+mn	43173	Brixlegg	1	D' Leit san heit olli drauß'n auf'n Feld und tean mahn.
+mn	43183	Penningdörfl	1	dLeut san hait olle außen aufn Föid und mahn.
+mn	4321	Fahrland	1	Die Lüe sind hüte alle buten up det Feld un mähn.
+mn	43210	Innsbruck	1	Die Leit sein heud ålle aufn aufn Feld und mahnen.
+mn	43224	Kolsassberg	1	Die Leit sen heit ålle außn auf’n Feld u. mahn.
+mn	43251	Aschau im Zillertal	1	Die Leut' sen alle aufn Feld u. mah'n.
+mn	43280	Krimml	1	D'Leit send he̊it o̊ll aufn Fåd aůßt und mahn.
+mn	43285	Trins	1	Die Lait sein heut olla afn Feld außn zu mahn.
+mn	43288	Dornauberg	1	De Leute (Loite) hent heit âlle drfoarn afn Felde u. mahnt.
+mn	4329	Steglitz	1	De Lüde sin hüde alle druten upet Feld un mehn.
+mn	43297	Schmirn	1	De Leut sein heut ålle außn afm Felde und mahn.
+mn	43301	Kitzbühel	1	D' Leit send he͡ind o͡i draußn aufn Fö͡id und mān.
+mn	43303	Hochfilzen	1	D' Leit san heit ålle draußt af'n Feld und mah'e. 
+mn	43310	Saalfelden am Steinernen Meer	1	D' Leit sand hei(n)t ai draußn auf'n Fejd und mant!
+mn	43315	Werfen	1	D' Leit sand heit oai daußt auf'n Feid und mahnd.
+mn	43331	Bramberg am Wildkogel	1	Dö Leut send heit åi(l) an Fe̊(l)d mahn.
+mn	43340	Niedernsill	1	D' (Mana)leit send  heint åil außd an fäid und dand mahn.
+mn	43347	Sankt Georgen	1	Insre Leit san heunt åll auf'n Feld und mahn.
+mn	43354	Goldegg	1	D' Leut sand heut å(i) daußn aufn Fe(i)d u teant ma.
+mn	43359	Kleinarl	1	D'Leit san hẽit åi außn aufn Föid und mãn.
+mn	43372	Bad Gastein	1	D' Leit sand heiñt å|i draußn (daußt) auf'n Fe|it und tant ma͡hn.
+mn	43378	Berg-Gruben	1	Die Leit sent ålle afn Felde und teut mehn.
+mn	43379	Heiligenblut	1	Dȏ Leit seint heit ålle d[avr?] afn Feld und toumb mah(n).
+mn	4338	Köpenick-Kietz	1	Die Leite sind hüte alle druten uf dem Felde und mähen.
+mn	43381	Sankt Martin am Tennengebirge	1	Dö Leit sand heit alle draußt am Feld beim Mahn.
+mn	43384	Ramsau	1	D' Leut seind oi doåhi u. mahn(d).
+mn	43391	Assach	1	D'Leut san heiñt all' daust'n auf'n Feld und mahnt.
+mn	43393	Donnersbach	1	Heit‘ san d Leit åa draustn am Feld und tein mahn.
+mn	43412	Untertauern	1	Dö Leit sand heint oidlåt daust auf’n föid und mahn’d. 
+mn	43420	Pöllau	1	Die Leit seind heint olli draußt auf'n Feld und mahn.
+mn	43427	Oberweissburg	1	Dö Leit send heit ålle drausta auf'n Fed und mahn.
+mn	43433	Sauerfeld	1	Dö Leit dan allö aufn Fed trausßt mahn.
+mn	43439	Ranten	1	Die Leit sent heit ål draußn auf'n Föld mahn.
+mn	43453	Strechen	1	Die Leit sen alle am Feld und den mahn.
+no	43455	Treglwang	1	D' Leut sand heut alli draußt und mahn.
+no	43457	Kalwang	1	D’Leit san heit olli am Füld draußn zan mahn.
+no	43458	Trofaiach	1	Di Leit san heiñt olli draußt aufn föid und mahn.
+no	43462	Hafendorf	1	Die Leut san heit olli daußt aufn Föld und mahn.
+no	4347	Herzfelde	1	Die Lüde sin hüte alle druten up det Feld un mähgen.
+no	43480	Sankt Michael in Obersteiermark	1	Di Leit san olli aufn Föld drauszn und tuan man.
+no	43488	Pusterwald	1	Die Leit seind heint olli daußt aufm Föld und mahn.
+no	43489	Sankt Oswald	1	Die Leut san heut alle drauß'n auf'n Feld und mah'n!
+no	43494	Sankt Marein bei Knittelfeld	1	D' Leut san heunt olli aufn Feld d'auszt und tan mahn.
+no	43497	Frohnleiten	1	D' Laët san haid olli drauß'n af'n Oka und maan.
+no	43505	Sankt Peter ob Judenburg	1	De Leit dean heiñt olle am Feld mahn.
+no	43530	Teufenbach	1	D Leit sand heit allo am Feld und mahn.
+no	43534	Sankt Johann	1	Die Leit' san heint alli drauß'n auf'n Föld und mah'nd.
+no	43537	Kainach bei Voitsberg	1	D’Leit san olli draußn aufn Feld und mahn.
+no	43544	Gratwein	1	D’ Leut san heit ā̊lle draußt am Feld (Åkker) und tan mā̊hn.
+no	4357	Tempelberg	1	Die Liede sied hiete alle drut up dem Felde un mäjen.
+no	43576	Fochnitz	1	Die Leut sen heint oll draußt aufn Feld und mahn.
+no	43579	Wenigzell	1	D' Leut san heit oll draußn aufm Föd und mah'n.
+no	43633	Ehrenschachen	1	d’Leut san heunt olli afm feld draußt mahn.
+no	4364	Döbberin	1	Di Lüde sin hite oalle druter uppet Feld und mägen.
+no	43640	Salmannsdorf	1	Dlait sain hąint olli daust afn föld und mā̜n
+no	43662	Sankt Kathrein am Offenegg	1	D' Leit saa heit olli draußa am Föld und mahn.
+no	43699	Siget in der Wart	1	Die Leit sein heit alle drausn u. mahn.
+no	43715	Stubenberg	1	Dö Leut san heunt oll draustn aufm Feld un mahn.
+no	43726	Unterrohr	1	Döi Leid san heid oille draußt aufm Feld u. mahn.
+no	43756	Eggersdorf	1	Die Leit' sein hei(n)t ålli draußtn auf'm Feld und mah'n.
+no	43761	Sinabelkirchen	1	Di Lait senn hai(n)t oll daußtn aufm Föld und tuin (tuan) mah(n).
+no	4377	Pamiecin	1	De Leide sinn heiden alle drauten up et Fäld un mähen.
+no	43773	Bad Blumau	1	D'Leut sen heuat olli am Feld drauß'n u. tuan mah
+no	43782	Deutsch Tschantschendorf	1	Die Leit se-in hei-it olli draußn auf dem Föld und mahn
+no	43850	Klostermarienberg	1	D' Leud sein heund olli draußt af'n Föld und mahn.
+no	4388	Grabno	1	Die Leite sind heite alle draußen uf dem Felde u. mäjen.
+no	43889	Moschendorf	1	D' Leit sein heint alli dausst af'n Föld ünd ton mahn.
+no	43896	St. Jakob	1	Die Leut hent heint ålle afm Felde bni Mähn.
+no	43905	Oberpeischlach	1	Die Leit sent heint o̊lle dauße afn Felde u. mahnint.
+no	43909	Mörtschach	1	Die Leit send heint ållö [ev?]or af'n Feld mahn.
+no	43910	Flattach	1	D' Leit send heit ålle draußn aufn Feld und mahn.
+no	43938	Kolbnitz	1	Dö Leit seint heint ålle aufn Feld u. tunnt mahnen.
+no	43939	Ausservillgraten	1	Die Leut san heint ālla dauße af'n Felde zi mah'n.
+no	43948	Assling	1	Die Leut san heint alle draußn afn Felde und mahnen.
+no	43959	Lindsberg	1	Die Leit sein heint ålle aufn Feld draußn und tuent mahn.
+no	43977	Kornat	1	Dö Leit seint heint alle dauße auf Felde und mahnen.
+no	43982	Berg im Drautal	1	Die Leit send heint ålle drauße auf'n Feld und mahnen.
+no	43988	Goderschach	1	De Leut sent he[n/a?]nt sieht korrigiert aus ålle afn feld dervoern und tuent manen.
+no	4400	Trzemeszno Lubuskie	1	Die Leite sin heite alle draußen uf dem Felde un mäjen.
+no	44006	Kremsbrücke	1	Tö Leit sänt hait ållö dafår aufn Fäült und mahnt.
+no	44010	Oberhof	1	Dö Leit seind heut olle draußn afn Feld und mahnan.
+no	44038	Kleblach-Lind	1	Die Leut sein heu[n?]t âlle draußn afn Feld und mahn.
+no	44040	Obermillstatt	1	De Leit sönt heint ålle d[a?]voar aufn Feld und tuent mahn.
+no	44054	Patergassen	1	Dö Leit sind heint ålle davor aufn Feld u. tunt mahnen.
+no	44056	Steuerberg	1	Die Leit sent heint ål[li?] af'n Föld draus'n und tant mahnen.
+no	44109	Hermagor	1	Die Leit seind heind ålle draußn afn Feld und tuant manen.
+no	44117	Bleiberg-Kreuth	1	De Leit san heint åle afn Feïld und tåmp manen.
+no	44124	Villach	1	Dö leit seint heite ålle draußn aufn Feld und mahn.
+no	44142	Schiefling	1	Heint seint olle Leit draußn auf dn Feld und tun mahn'n.
+no	44162	Suetschach	1	De Leit sein heint ålle (åle) draußn afn Feld und tåan mahn'n
+no	44174	Sankt Salvator	1	Die Leit sent heint åle dausn afn Feld und tombb mahn.
+no	44182	Heft	1	Dö Leit seint heint ålle draußn afn Feld u. tomp mahnan.
+no	44189	Schiefling	1	Die Leit seint heit olli aufn Ocka u. mahn.
+no	44196	Modriach	1	De Leit sant heint olli draußn aufm Feld und mahn.
+no	44200	Launegg	1	Die Leit dam heint alli auf da Wiesn drauß mahn.
+no	44234	Obermühlbach	1	De Leut sönd heunt âlle draußn afn Feld und moan.
+no	44243	Hochfeistritz	1	Die Leit seind heint oli daußn af'm Feld und mahnant.
+no	44248	Sankt Andrä	1	Die Leit sein heunt olle draußn af dar Wies’n und mahnan.
+no	44256	Glashütten	1	Dei Leit san heint olli afn Fööl draußn und tan mahn (ban Mahn).
+no	44261	Sankt Peter im Sulmtal	1	Die Leit san alle davor aufn Åcker u. toant mahn.
+no	44295	Oberhaag	1	Di Leit san hei(n)t olli af da Wiesn und toant mahn.
+no	44303	Klagenfurt-Harbach	1	De Leit seint alle draußn aufn Feld und tump mahnen.
+no	44308	Eberndorf	1	Dö Leit sein ålle draußen afn Feld und mahn.
+no	44313	Lorenzenberg	1	Döi Leit seind heint ålle drauße ahm å[ck?][er/a?] u. mahe.
+no	44314	Sankt Margarethen	1	De Leit sen heit åle draußn aufn Feld und tuan mahnan.
+no	44320	Bad Eisenkappel	1	Die Leit seint heit olle draußen u. mahn afn Feld.
+no	44333	Paldau	1	Di Leut san heut alli draußt auf da Wiesn und mahn.
+no	44347	Hohenbrugg an der Raab	1	Die Leut' san heut olli draußt auf 'n Feld und mahn.
+no	44358	Mogersdorf	1	D' Leit sein heint oll drauszn am Föld und mahn.
+no	44371	Allerheiligen bei Wildon	1	D'Leut san olle aufn Föld draußn und mahn
+no	44398	Leibnitz	1	Deı Lait sant haìt olli dafoa afm Oka un mahn.
+no	44414	Klöch	1	D' Leit san heit oll(e) dafurn af'n Ocka u. tuan Korn orbeitn (ursprünglich, aber durchgestrichen: Troad mahn).
+no	44425	Ratschendorf	1	D' Leut san heit olle draußn auf'n Fel(d) und mahn.
+no	44433	Langegg	1	Die Leut' sin heut olle draußen am Feld und mahn.
+no	44439	Ebental (Polom)	1	Dä Leitä hent heint ollä [w]oar aff n Wen und mahnänt
+no	44442	Steinwand (Podstenice)	1	Da Leitla sent heint ollä awoar affn Ackrn und maheant
+no	44445	Obergras (Trava)	1	D Le̤ita hent olla aroar afa Walda un mamànt
+no	44447	Göttenitz (Gotenica)	1	Dó Leitó hent heint olló awoar af’n Ackrn ónd mahnónt
+no	44454	Nesseltal (Koprivnik)	1	Do Leito hont heint ollo awoar afu_Ockr und manont
+no	44461	Tiefenbach (Briga)	1	Dä Leutä hent heint ollä woar shu afn Waldä und maheiänt
+no	44465	Unterlag (Spodnji Log)	1	Dä Leitä hent heint óllä awoar in Toalä (im Auteile) ünd mānänt
+no	44519	Wildensbuch	1	D'Lüüt sind hüt alli uf em Feld und mähet.
+no	44610	Wittenwil	1	D'Lüt sind hüt ali dusse uf em Fäld und mejed.
+no	44685	Neukirch an der Thur	1	D Lüht send hüt alli ufem Feld und meiet
+no	44770	Mont-Tramelan	1	Hüt sy d’Lüt alli uf dr Matte u mäie.
+no	44771	Pieterlen	1	D'Lüt si hüt alli uf em Feld usse u mäje.
+no	44796	Merzligen	1	Die Lüt si hüt alli auss uf em Fähl u mäie.
+no	44801	Gals	1	D'Lüt si hüt alli uf em Fäll usse u mäie. 
+no	44832	Huggerwald	1	D'Lit si hit ani ǒff em Fänd ǒsse ǒnd mäiē.
+no	44851	Ziefen	1	D'Lütt si hütt alli duss uf im Land und mäie.
+no	44858	Anwil	1	D'Lüt si hüt alli dusse uf em Fäld & mäie.
+no	44888	Umiken	1	D'Lüt sind hot alli dosse-u-ufem Feld und tüend maje.
+no	44994	Gänsbrunnen	1	D'Lüt sy höt alli dusse uf em Fäld und mäie.
+no	45009	Oensingen	1	D'Lüt si hüt aui duss uf em Fäud und mäje.
+op	45022	Mühlethal	1	di lüüt sina hüt àui ofem fänd use und määje.
+op	45067	Meisterschwanden	1	D'Lüt sünd hüt auwi ufem Fäld und mäje.
+op	45192	Mülchi	1	Hüt si all Lüt ufem m mäje.
+op	45195	Eigenthal	1	D'Lüt send hött alli ofem Land osse ond mäjid.
+op	4521	Wollin	1	Di Lüde sind hüte alle but'n upp et Feld un meähn.
+op	4527	Rädel	1	De Lude sin hüte alle druten up't Feld un mähen.
+op	45279	Hildisrieden	1	Die Lüt sind alli uf em Fäld usse und mäid. 
+op	45299	Willisau	1	Die Lüüt sind hütt alli uf em Fäld usse und mäje.
+op	45312	Bleuen	1	D'Lüt si hüt ani (alli) dusse uf em Fänd (Fäld) u mäie.
+op	45345	Dielsdorf	1	D'Lüt sind hüt all uf em Feld usse und mäed.
+op	45356	Unterwagenburg	1	D'Lüt sind hut uf em Fäld usse und mäed.
+op	4539	Wildenbruch	1	De Lüde sind hüt all druten up dät Feld un mähn.
+op	45474	Boden bei Fischenthal	1	D'Lüt sind hüt alli uf em Feld usse und mäed.
+op	4549	Löwenbruch	1	Die Lüde sin hüte alle druten up dät Feld un mäh'n.
+op	45492	Dicken bei Degersheim	1	D'Lüt sind hüt ali dosse of em Feld und tüend mäh.
+op	45501	Bonstetten	1	D'Lüt sind hut alli (duße) veruhse und māhid.
+op	45529	Riedikon	1	D'Lüt sind hüt alli uf em Fäld usse-n-und mäjed.
+op	4560	Deutsch Wusterhausen	1	Die Lide sin hiete alle druten ub det Feld un mäh'n.
+op	45611	Feusisberg	1	D'Lüt sind hüt all ufem Feld u. mehet.
+op	45627	Starkenbach	1	Höt sind alli Lüt ufem Feld und tüänd mäh.
+op	45630	Risch	1	Hütt sind all Lüt dussen uf em Fäld und mäjid (Hütt isch alls dusse und mät).
+op	45644	Reichenburg	1	d'Lüt sind hüt all uf em Feld ussä u. mähet. 
+op	45692	Süri	1	D'Lüt si hütt aui uf em Fäud usse u mäje.
+op	45694	Courlevon	1	d Lüt si hüt aui dussä uf äm Fäu u mäiä
+op	45716	Brünisried	1	D'Lüt si alle dusse uf um Feld u meie. 
+op	45718	Ferpicloz	1	Alles isch dusse uf em Fäud u tuet mäie.
+op	45722	Abländschen	1	Äs si hüt all Lüt am meije.
+op	4573	Neu Golm	1	Die Leite sin hiete alle druter up det Feld un mägen.
+op	45734	Dentenberg	1	D'Lüt si hut ani dussen uf em Fänd u mähie.
+op	45758	Mutten	1	D Lüt si hüt ani dusse uf em Fä̤nd (od. Acher) u mäji.
+op	45764	Oberfrittenbach	1	D'Lüt si hüt ani duss uf em Fänd u mäije.
+op	45784	Schüpfheim	1	D'Lüt si hüöt all doussä ufem Fänd uond mäjä.
+op	458	Wietrzno	1	Dei Luir sinn huit all bauten upp dem Feel un meege.
+op	4584	Hohenwalde	1	Die Leite sinn heite alle drauter ub det Feld un mäjen.
+op	45863	Gurzelen	1	Die lüt sy hüt alli uf em Fäld usse u mähje.
+op	45878	Linden (Oberlangenegg)	1	D'Lüt si hüt alli duss uf-em Fäld u mäje.
+op	45891	Sörenberg	1	D'Lüt si hüt alli dosse ond mäi-e.
+op	45892	Lungern	1	Hitt sind alli Liit ufem Mattli und mei-id.
+op	4590	Kunice	1	De Leide sinn hoiden alle draußen uf's Fald un maigan.
+op	4595	Mierczany	1	Die Leite sin huite alle drauße uffs Fald un mäjen.
+op	45962	Entschwil	1	D'Lüt si hüt alli uf em Fäld u meja.
+op	45980	Saxeten	1	D'Lüt si(n) hütt alli für[l?]i am Mäijen.
+op	45992	Guttannen	1	Dee Lyt syn hyt alli düssen uf em Fäld und mähjen.
+op	46009	Ulrichen	1	D'Lüt sind hytu älli vorna uf dum Fäld & mahjunt.
+op	46017	Gersau	1	D'Lüt sind alli dusse uf em Fäld und mäjed.
+op	46021	Illgau	1	Die Lüt sind hüt all dussä ufm Fäld & mähid
+op	46026	Engi	1	D'Lüt sind hüt alli d'usse ufem Feld und mäjid.
+op	46027	Leuggelbach	1	D'Lüüt sind all uf em Feld ussä und mähjed.
+op	4603	Toporow	1	De Leute sein heute olle draußen uf'n Felde u mägen.
+op	46038	Linthal	1	D’Lüt sind hütt alli uff äm Feld ussä und mäjäd.
+op	46040	Engelberg	1	D' Luit sind hüt all uf der Mattä ussä und mäiid.
+op	46045	Erstfeld	1	D Lit sind hit all dussä uf em Fäld und mäjäd.
+op	46048	Valendas	1	Die Lüt sind hüt alli dusne uf em Feld und mäie.
+op	46050	Meierhof	1	D'Lüt sind hit alli dusne uf am Feld unf mehand.
+op	46051	Camana	1	D'Lüt sind hüt alli dussna ufam Fäld und mäia.
+op	46055	Nufenen	1	Dia lüt sind hüt alli dussna ufm Fäld und mäiä.
+op	46059	Fanas	1	D'Lüt sind hüt alli dusnä uf äm Fäld u. mejänd.
+op	46070	Mathon	1	D Leit sei heind åll am Fald dussa und mahja.
+op	46071	Galtür	1	d Leit seii heint oall dußn auf m Fald und maha. -
+op	46073	Felsberg	1	D'Lüt sin hüt alli dussa uf am Feld & mäien.
+op	46079	Fideris	1	D’Lüt sind alli dußne uf em Fäld und mejend.
+op	4608	Alt Stahnsdorf	1	Die Liede sin hiete alle druter up det Feld un mägen.
+op	46083	Klosters	1	D Lüüt sind hüüt alli dussna ufm Föld & mehjend.
+op	46101	Wiesen	1	D'Lüt sin hütt alli uf em Fäld & tüen meä.
+op	46104	Am Bach	1	D'Lüt sind hüt alli dussna uf am Matt am mää
+op	46115	Lauenen	1	D'Lüt si hüt alli ussefür u mieye.
+op	46118	Stiegelschwand	1	Die Lüt si hüt alli ussänaha uf em Fäld u meiä.
+op	46119	Fieschertal	1	D'Litt sind alli uff däm Fäld & majänt.
+op	46127	Bitsch	1	D'Lit sind hitté älli üs uf d's Fäud goch mähjé.
+op	46129	Agarn	1	D'Lit sind hitu alli üs uf um Guät und mejund.
+op	46132	Hasel	1	D'Lit sind hitu alli vorn uf dum Fäld und tient meju.
+op	46142	Saas Grund	1	D'Lit sind alli uis uf um Fäld und mähjunt. 
+op	46143	Zwischbergen	1	D’Lit sind alli nis uf um Fäld und mähjunt.
+op	46145	Zermatt	1	T’Liet sind hitu alli uf dum Mattelti und tend da meje 
+op	-46146	Prettau (Predoi)	1	Di Lait san haiñt olla dause an Felda unt mān.
+op	46157	Luttach (Lutago)	1	Di Lait san hoite olla dauße afn Felde ban mahn.
+op	-46161	Hinterkirch (Graun)	1	t'leit sein heint olla on'of t'wiesn dr'rous un tuan maian.
+op	-46162	Rabenstein (Moos)	1	die leit sein heint olle efoure ofn feld und tien mân.
+op	46170	Tschöfs (Ceves)	1	Döi Leit sein heint olle in Feld, die voire zu Mahn.
+op	-46175	Pfunders (Fundres)	1	Die Leitö sein heint allö afn Feld afourö und mahn.
+op	-46181	Antholz (Anterselva Di Mezzo)	1	Dā leit sann heinte olla afönre ahn Felde und mahn.
+op	-46195	Schabs (Sciaves)	1	Di Leit sein heint olla afore afn Feld zi mahn.
+op	-46215	Pichl	1	Di Lait san haint o̜lla afn Felde zī mādn
+op	-46217	Burgeis (Burgusio)	1	Die Leit sein heaint olle ofervonzn afn Feld und maian.
+op	-46226	Kurzras (Corteraso)	1	Die Leit sian heint olle aufder Wies derforn mahnen.
+op	-46227	Katharinaberg (Santa Caterina)	1	Die Leit sein olle af der Wies, und tian mahnen
+op	-46234	Vernuer (Vernurio)	1	Die Leit sein heit olla a der Wiesa fohra mahn.
+op	-46262	Stilfs (Stelvio)	1	di leit sein heint ale drausn afn feld und maien.
+op	46267	Laas (Lasa)	1	Die Leit sein [a?]lle afn feld (Güter) und ma[u?]an
+op	46283	Gargazon (Gargazzone)	1	Di lait sain haint olle draußn afn feld und manen.
+op	-46293	Sankt Peter Hinter Lajen (San Pietr	1	Die Leut san heut olle afn Feld draußn zu mahnen.
+op	-46305	Sankt Walburg (Santa Valburga)	1	Di Lait sain het olle of der Wis (derfour) ausi man.
+op	-46319	Wangen (Vanga)	1	Die Leut sein heint olla af dr Wies daus und tian mahn
+op	46324	Laurein (Lauregno)	1	Di lait sein haint olla afn felt doroouor unt ma[i?]en.
+op	-46340	Kaltern (Caldaro)	1	Die Lait sain hait alli draussn af dr Wies und mahnen.
+op	-46344	Deutschnofen (Nova Ponente)	1	Die Lait sain heint ålle af dr Wies dr four za mähn.
+op	-46351	Altrei (Anterivo)	1	Die Leut sei heut olle drausen afn Feld un mahnen.
+op	-46353	Salurn (Salorno)	1	Die Lait tean olle afn Feld drausn mahnan.
+op	46361	Stefansdorf (Santo Stefano)	1	Di Lait san haint olla afn Felt afourö unt tian mahn.
+op	46365	Lusern (Luserna)	1	Die Leüt sein haüt alle aus ap Feld zu möhena 
+pq	46367	Ljetzan (Giazza)	1	diə lái̯tə zai̯n hái̯tə ál͡jə áu̯s in ákər tsə mɛ́n.
+pq	46369	Lusern (Luserna)	1	álə di lɔ́itə zaint hɔ̀itə áu̯s in áker un mḗnan.
+pq	46385	Nauders	1	Die Leit sein hein ôlla daußa afn Feld und maia.
+pq	46386	Heiligkreuz	1	Heut sein die Leute olle am Falde de[f/v?]orn und wölln mahn.
+pq	46391	Poppenbüll	1	De Lüd sind von'dag all but'n m Land un meihn.
+pq	46407	Dahrenwurth	1	De Lüd sünd vundâg (hüd) all bûd'n op d'Feld un meid.
+pq	46420	Bergenhusen	1	De Lüüt sünd vondag all buutn ap't Feld to main.
+pq	46430	Owschlag	1	De Lüd sind vundag all but'n op't Feld to mei'n.
+pq	46443	Holtsee	1	De Lü sünd vandag all bud'n opt Feld un meiht.
+pq	46459	Pries	1	De Lüüd sünd hüt all luten af'n Fell und meit.
+pq	46481	Stakendorf	1	De Lüd sünd hüt all buten up dat Feld un meiht.
+pq	46492	Behrensdorf (Ostsee)	1	De Löi sünd von dåg all bute op dat Field to maihn.
+pq	465	Okunino	1	Dei Lir sind hiet alle butä up dem Fil u megä.
+pq	46554	Sulsdorf	1	De Lüh sünd hüt all buten op det Feld to meihn.
+pq	46570	Staberdorf	1	De Lü sünd hüt al buden op't Feld un meiht.
+pq	46637	Alte Kirche	1	De Lüde sint vandag all buten ob't Feld to mein. - 
+pq	46652	Sollerupfeld	1	De Lüd sünd hṻt all buden op dat Feld un meien. 
+pq	46666	Neuberend	1	De Lüre snid hüd (auch „vondag“) all buden ub'd Feld un meihn.
+pq	46684	Zimmert	1	De Lüd, de sünd hüt all buden opt Feld to mein.
+pq	46687	Damp	1	De Lü sünd vundaag all buten uppt dat Feld un meiht.
+pq	46693	Westermarkelsdorf	1	De Lüh sünd hüt all but'n op'm Feld unn meit.
+pq	46784	Grossenwiehe	1	Dn Lühd sind hüt all buten op dat Feld un meien.
+pq	46798	Estrup	1	De Lüdt (Lüde, S[t?]eols) sind von Dag (hütt) al to samn/to sam budden op dat Feld to maien.
+pq	46806	Wippendorf	1	Die Lü sünd van dag all buten op dat Feld to meien.
+pq	46823	Maasholm	1	De Lǖd sünd hüt all būt'n op dat Feld un' meihen.
+pq	46924	Beken (Bækken)	1	De Lüd sind hüt all buten op't Feld un meien.
+pq	47139	Sandhatten	1	De Lüer sünd vondage all but(e)n up'n Fel un meiht.
+pq	47154	Adelheide	1	De Lür sünd vandag all buten upt Feld un meiht.
+pq	47171	Dreye	1	De Lüe sünnt vundage all büt'n upp'n Felde un meit.
+pq	47183	Allerdorf	1	De Lüer sünd vandag all but'n up'n Felde un meih't.
+pq	47189	Heerenland	1	De Lü bünt van Dage alle up Feld te main.
+pq	47203	Steenfelde	1	De Lü'e sünt van Dage alle buten up't Feld un maijen.
+pq	47219	Lohe	1	Dei Lüe sünd van Dage buten upt Feld un meihet.
+pq	47224	Burgfelde	1	De Lür sünd vandag'n all but'n up't Feld un meit.
+pq	47235	Moorhausen	1	De Lü'e sund vonda'g all' but'n up'n Fel' to mei'n.
+pq	4727	Klein Glien	1	De Lüde sin hüte alle drut up't Feld un mäh'n
+pq	47370	Bardenfleth	1	De Lü sund vondag all [...] bu[t?]on, oppn Feld, too meih'n.
+pq	4738	Niederwerbig	1	De Lüde sin hüte alle drut up det Feld un mähn
+pq	474	Kramarzyny	1	Dei Lüd sind hüt alle buten up dem Fild u. mehe.
+pq	47402	Mittelbauer	1	De Lüer sund Vandaag all buten up'n Fell un meiht.
+pq	47422	Neuenbülstedt	1	De Lüer sünd vöndaug all but'n op'n Feele un meit (meiht).
+pq	47447	Neermoor	1	De Lüü sünd van Dage alle vör buten ub 't Feld un mesjen.
+pq	47455	Remels	1	Deÿ Lü sünd van Dage (hüt) alle buten up't Feld un meien.
+pq	47463	Petersfeld	1	De Lüe sünd vandage all buten uppn Lann to meien.
+pq	47470	Jaderbollenhagen	1	De Lü sünnd Vonedag all buten upp'n Fell und meit.
+pq	4749	Zülichendorf	1	Die Lüde sin hüt alle drut uppet Feld un mähen.
+pq	47598	Offenwardenermoor	1	De Lue sund up'n Felle & meiht.
+pq	4761	Schöneweide	1	Di͡e Liede sinn hite alle drut uppet Fäld un mägen.
+pq	47612	Paddewisch	1	De Lüh sund von Dag allt buten ob datt Feld un meiht.
+pq	47624	Ober-Ochtenhausen	1	De Lür sünd ven dag all but'n ob'n fille un meit.
+pq	47650	Cirkwehrum	1	De lüü sünd van dage alle buuten up't feld un meijen.
+pq	47657	Westerende-Holzloog	1	De Lüü sünd nu all' buut'n up't Feld un meij'n. - 
+pq	47670	Wiesede	1	De Lü sünd van Dag all buten upt Feld un maie. 
+pq	47677	Neustadtgödens	1	De Lü sünd van dag all buten uppt Feld un meit.
+pq	4770	Egsdorf	1	Die Liede sie hiet alle drut uppet Feld un mäjen
+pq	4776	Birkholz	1	Die Leite sinn heite alle draußen uf det Feld un mähjen.
+pq	478	Pradzonka	1	Dei Lüd sind hüt alle buten um Fill u mägä
+pq	47840	Kükelühn	1	De Lü sünd all but'n opt Felt to meihn.
+pq	47861	Siggeneben	1	De Lüh([d?]) sünd hüt (vända[?]g) all but'n op'm Fell un meiht.
+pq	47863	Hedwigenkoog	1	De Lüüd sünd vondag all buden op Feld un meiht.
+pq	47885	Edemannswisch	1	De Lüd sünd he't all bud'n ob Feld und mee'd.
+pq	4789	Briescht	1	Die Leite sin heite alle draußen uf det Feld un mäjen.
+pq	47893	Oesterborstel	1	De Lüd sünd hüt all budn uppt Feld unn meiht.
+pq	47907	Hamweddel	1	De Lö bünt vondag all but'n op'n Fell un meiht.
+pq	47916	Warder	1	De Löö sönd vändag all bud'n op'n Fell un meid.
+pq	47935	Klein Barkau	1	De Lö sünd vond[oc/a?]h al budn obm Fell un mait.
+pq	47952	Mucheln	1	De Löi sünd vondag all büddn op Feld un meihd.
+pq	4800	Gross Briesen	1	De Leute sin alle draußen aufm Felde un mähen
+pq	48096	Grömitz	1	De Lüd sünd hüt all up'n Fell'l (Feld) nu meiht.
+pq	48098	Friedrichskoog	1	De Lüd’ sünd vandag all but’n op’t Feld un meiht.
+pq	48105	Barlteraltendeich	1	De Lüd sünd von Dag all bud'n op Feld un meiht.
+pq	48115	Holstenniendorf	1	De Lüüd sönd hüt all but'n obm fell un meiht.
+pq	48126	Jahrsdorf	1	De Lüd sönd vändahg all butt'n op'n Fel| unn meid.
+pq	4813	Klopot	1	De Leite sin heite olle draußen uf'n Fälde un majen.
+pq	48141	Ehndorf	1	De Lüüd sünd hüüt alltosam buten op dat Feld un meiht.
+pq	48156	Gönnebek	1	Die Lüd sünd von dag all opn Fell un meiht.
+pq	48164	Wöbs	1	De Lüü sünnt hüt all (but'n) inn n Fell und meihd.
+pq	48186	Süsel	1	De Lühr sünd hüt all but'n op'm Fell un meiht.
+pq	48233	Brunsbüttelerhafen	1	De Lüd sünd von Dag ob Land to meihn.
+pq	48239	Brokdorf	1	De Lüd sünd hüt all buten op datt Feld un meit.
+pq	4824	Radomicko	1	Die Leite sind heite alle draußen auf dan Falde und mähen. 
+pq	48240	Spiekeroog	1	De Lü sünd fandage all' buten upp't Feld un meien.
+pq	48242	Berensch	1	De Lü sünd vendaag all bud'n ob Feld unn meid.
+pq	48247	Altenbruch	1	De Lü sünd hüt tohg buten op'n Fell'n und meiht.
+pq	48282	Norderney	1	De Lü sünd van dag' all buten up d'feld un maien.
+pq	48283	Baltrum-Ostdorf	1	De Lü sünd van Dage all buten up'd Feld un maihen.
+pq	48302	Misselwarden	1	De Lü sünd von Dag all buten innt Feld unn meiht.
+pq	4832	Radnica	1	Die Leute sein heute olle uff dan Fālde und ho'n (hauen).
+pq	48324	Weissenmoor	1	De Lü s[u/ü?]nt al to hoop buten opp en  feln und meiht.
+pq	48342	Itzendorf	1	De lüe sünd vandag all buten up dat feld und meyen.
+pq	48356	Arle	1	De Lü sünd vendaag all upp't Land un meien.
+pq	48368	Stedesdorf	1	d'Lü sünd van Daag all buten up't Feld to meid'n.
+pq	48383	Wüppels	1	De Lüh sünd Vandag all buten upt Land un meiht.
+pq	48392	Langwarden	1	De Lü sund v'n dage alle buten uppt Land to meien.
+pq	48401	Flögeln	1	De Lüüd sünd vondåg al buten op'n Fell un meiht.
+pq	48477	Iffens	1	De Lü sünd vandagen all buten up't Land un meiht.
+pq	48487	Blexen	1	De Lü' sunt vandegen all' buten upp't Feld to mei'en
+pq	48497	Altluneberg	1	De Lüe sünd van Dage all buten op[?]n Fel un meit.
+pq	48507	Hönau-Lindorf	1	De Lü sünd hüte all but'n up'n Filn und meit.
+pq	48516	Graal-Müritz	1	Die Lǖr sünd hüt all būt'n up dat felt un meid'n.
+qr	48522	Rerik	1	Dei Lühr sünd hüt all buten upp'n Fell'n un meihden.
+qr	48532	Brodhagen	1	Dei Lüer sünd hüt all buden up dat Feeld un meien.
+qr	48550	Toitenwinkel	1	Dei Lṻ'r sünjt hṻt all butn up'n Filj un mei(j)dn.
+qr	486	Niedamowo	1	T' Lied dinn hit alle buten upp dem Fill unn migge.
+qr	48675	Strukdorf	1	De Lür sünd hüt all butten upen Fel und meiht.
+qr	48702	Sereetz	1	De Lüt sünd hüt all but'n upn Fell un meit.
+qr	48716	Gross Voigtshagen	1	Dei Lühr sühnd hüt all buten uppn Fehll un mehden.
+qr	48726	Beckerwitz	1	Dei Lüer sünd hüt all but'n up'n Fel'l und mei'n.
+qr	48738	Steinhausen	1	Dei Lür'r sünd all but'n upp'n Fell'l un med'n
+qr	48752	Berendshagen	1	De(i) Lühr sünd hüt all buten upp datt Feld un meigen.
+qr	48765	Wiendorf	1	Dei Lühr sünd hüt all but'en ub'm Fell'e un mäh'n
+qr	48790	Rethwisch	1	De Lüh sünd vondag all buten up't Feld un meiht.
+qr	48800	Lentföhrden	1	De Lüd sönd hüt all but'n op dat Feld un meiht.
+qr	48812	Todesfelde	1	De Lüd sünd vondag all ob'n Fell un meid.
+qr	49022	Kleinboden	1	Dei Lüh sünd hüt all' but'n upt Feld un mè[h?]t.
+qr	49043	Campow	1	De Lür sünd hüt all buten ub Feln und mait.
+qr	49076	Nesow	1	Dei Lür sǖnd hüt all budden up denn Fel'l un meht.
+qr	49090	Dalliendorf	1	Dei Lühr sünd hüt all but'n up'n Fehl'n und meth'n.
+qr	49108	Neuhof	1	Dei Lür sünd hüt all buten up dat Feld un Mejen.
+qr	49122	Warnow	1	Dei Lühr sünd hüt all but'n up'n Fel'l un mëid'n.
+qr	49140	Güstrow	1	De Lüer sünd hǖt all buten ub dem Fellen (ubben Fellen (dat Feld)) un meiden.
+qr	49146	Drochtersen	1	De Lü e sünd vondage all buden ubb'n Felle unn meiht.
+qr	49162	Gross Nordende	1	De Lǖd sind hüt all buten op't Feld und meien.
+qr	49176	Quickborn	1	De Lüd sünd vörndag all open Fell und meiht
+qr	49188	Jersbek	1	De Lüüh sünd hüüt al'l buten up't Feld un mei't.
+qr	49311	Riekenbostel	1	De Lüe sünd vendaag arl buten up denn Felle un meiht.
+qr	49322	Brochdorf	1	De Lü sünd verdag all butn ubn feln un meit.
+qr	49332	Bispingen	1	Dêi Lü' sünd vandaag all' buten up'n Fell'n  un mai't.
+qr	49338	Wettenbostel	1	De Lüt sünd hüt alle buten up'n Feln und meiht.
+qr	49348	Seedorf	1	Dê Lüh ßünd hüt arl but'n up'n Fell un meiht.
+qr	49362	Stoetze	1	De Lüh ßünd vandag all but'n upn Felln un meiht.
+qr	49498	Dannenberg (Elbe)	1	De Lüd sünd hüt all buten up dat Feld und maihen.
+qr	495	Jaroszewy	1	Die Lüd sind hit alle butem ob dem Fel un mege.
+qr	4950	Palck	1	D' Loit sain hoit ou haußen uff'n Faild und mi͡ähn
+qr	49509	Breetz	1	De Lühr sünd hüt all buten uppt Feld un mähn.
+qr	49524	Laaslich	1	De Lüü sünd all buten op döt Feld unn mäh'n.
+qr	49534	Lübzow	1	De Lüdg sind all upt Feld u mähgen.
+qr	49551	Buchholz	1	De Lüd sünd hüt all but'n up dett Feld un mäh'n.
+qr	49562	Hetzwege	1	De Lüt sünd van Dag all buten up'n Felln und meiht.
+qr	49569	Otter	1	De͡i Lü sünd hüt āll buten upp'n Felln un meiht.
+qr	49579	Ollsen	1	De Lü sünd von dag all buten uppen felle und meihn.
+qr	49587	Westergellersen	1	Deî Lü sünd hüt allbutn upn Felle un meit.
+qr	49605	Barskamp	1	De Lüt sünd hüt all but'n up'n Feln und meit.
+qr	4965	Stare Kramsko	1	Die Leute sein heute olle uf dann Felde und hauen.
+qr	4968	Zodyn	1	Die Lueut sain hueut olle haaßen uf'n Feld und ho'n.
+qr	49727	Wendhausen	1	De Lüüd sünd hüt all but'n upp'n Fell'n un meiht.
+qr	49752	Jessenitz	1	Dei Lüer sünd hüt all buten ob dat Feld un mehten.
+qr	49767	Glaisin	1	Dei Lühr sühnd hüt all' buten upp'n Fel'n un meed'n.
+qr	49778	Neese	1	Deih Lühr sünd hüt all buten up den Fell und meihen.
+qr	49794	Pampin	1	Dei Lühr sünd hüt all but'n upn Fel un mäh'n.
+qr	4980	Tarnowa	1	D' Leut sein heut oll' draußen uff'n Feld' und hoh'n.
+qr	49802	Grabow	1	De Lüt sünd all but'n up't Feld un maih'n.
+qr	49813	Wangersen	1	De Lüer sünd vön Dag all but'n ob'n Fil'n un meit.
+qr	49821	Regesbostel	1	Deeï Lü'e sünd hüt all but'n up'n Fel'n un mai'd
+qr	49828	Tötensen	1	De Lüe sünd van Dag all buten up'n Fel'n un meihn. -
+qr	49840	Lassrönne	1	De Lüd' sünt hüt all buten up'n Fell'n und meiht
+qr	49857	Juliusburg	1	Dei Lüd sünd hüt all buten up'n Fell un maiht.
+qr	49881	Setzin	1	Dei Lür sünd hüt all but'n upp'n Fehl'n un med'n.
+qr	49898	Neuhof	1	Dei Lüür sühnd hüt all buten up'n Fehll un meten.
+qr	50010	Gresse	1	Dei Lǖ(r) sǖnd hǖt all būt'n up'a Fēl'l un mēhn'n.
+qr	50027	Moraas	1	Dei Lür sènd hüt all buten up den'n Fel'n un mehten.
+qr	50058	Paarsch	1	De Lür sünd hüt all but'n up'n Fell' un mehd'n.
+qr	50068	Barkow	1	Dei Lühr sünd hüüt all but'n up'n Fell'n un meid'n.
+qr	50073	Schwinge	1	De Lüd sünd vundag' all but'n op'n Fill'n und meih't.
+qr	50087	Wisch	1	De Lüd sünd vundag all but'n up'n Fell un meid
+qr	50117	Ottensen	1	De Lüüd sönd hüt all buten op dat Feld to m[e/n?]in.
+qr	50130	Willinghusen	1	De Lüt sünd hüt all but'n ob'n Fell un meiht.
+qr	50142	Basthorst	1	Dei Lüü sühnd von'n Daag all' but'n upp'n Fehln'n un meht.
+qr	503	Szpegawsk	1	Dee Lüd sen[d/m?] hitte alle butem upp dem Feld un haue (mähe)
+qr	5031	Lugow	1	Die Leut sein heut olle drauß'n uf 'm Feld und mähn.
+qr	50321	Lehmrade	1	Dei Lüh sünd van Dag all bud'n ubd Feld un mähd.
+qr	50332	Drönnewitz	1	Dei Lühr sündj hüd all buhd'n up'd Fel'l un mejd'n
+qr	50343	Gross Rogahn	1	Dei Lühr sünd hüt all but'n up-m Feel-l (Feld) un meht.
+qr	50357	Kladow	1	Dei Lühr sünd hüt all but'en up den'n Fehl'n un med'n.
+qr	50365	Hohen Pritz	1	Dei Lühr sünd hüht all buthen uppt Feld unn meih'n.
+qr	50377	Jellen	1	Dei Lühr sünd hüt all buten ub den'n Felln und meihn.
+qr	50385	Lübsee	1	Dei Lühr sünd hüt all buten uppen Felln un meihn.
+qr	50471	Bellin	1	De Lüd sin hütten all buten upp t Feld un mägen.
+qr	50523	Retzow	1	Dei Lüd sünd hüt all buten up dat Fild un meihen.
+qr	50538	Hohenbollentin	1	Dei Lühr sün hüt all but'n up den Fill un meih'n.
+qr	50552	Golchen	1	Dei Lühr sünd hüt all buten uppen Fill un meig'n.
+qr	5056	Biala Wies	1	Die Leut sain heut oll draßen uff dann F[è͜i͜e͜]ld u. hohn Kurrn.
+qr	50567	Strippow	1	Dei Lühr sünt hüt all but'n up det Filt un meig'n.
+qr	50575	Rosenhagen	1	Dei Lühr sünd all bud'n ub dat Feld und meigen.
+qr	50583	Siniechowo	1	Die Lüre sint hüt alle buten um Fel on mähn.
+qr	50604	Drzewica	1	D' Lür sünd hüt alle butem um Fill uo meh e.
+qr	50622	Lisowo	1	Dei Lüär sünn hüt alle butem um Fill o (a) meijjä.
+qr	50719	Lubin	1	Dei Lür sünt alla buten up dem Fild u meha.
+qr	50765	Gross Ridsenow	1	Dei Lühr sünd hüt all butt'n up'n Fell'n un meid'n.
+qr	50779	Schlutow	1	Dei Lüar sünd hüt all' but'n up'n fel'n un meih'n.
+qr	50794	Seedorf	1	Dei Lüür sünd hüt all but'n up'n Fill un meig'n.
+qr	50805	Bentzin	1	Dei Lü'r sünd hüt all buten up dat Feld un meig'n.
+qr	50818	Ranzin	1	Dei Lühr sind hüt all buten ob dat Feld un meyen.
+qr	50830	Lassan	1	Dei Lür sünd hüt all' buten up dat Feld un meigen.
+qr	50840	Sallenthin	1	Dei Lühr sünd hüt all but'n up't Feld un meig'n.
+qr	50844	Miedzyzdroje	1	De Lühr sünd hüt all buten up dem̄ Fill u mäg'n
+qr	50850	Sieroslaw	1	Dei Lür sünd hüt allä butem upm Feld un mähä.
+qr	50872	Bedzieszewo	1	Dei Lühr sünd hüt allä butem um Fell o mäihä.
+qr	50892	Skalin	1	De Lür sint hüt alle butem up dem Fild o mähe.
+qr	5091	Boruja	1	Dä Leut' sein heut olle draußen uf dan Feld und hohn (mähen).
+rs	50973	Koserow	1	Dei Lür sün hüt all buten up dem Fel un meigen.
+rs	50986	Trzesacz	1	Dei Lür sünd hüt allě butem upp'm Fill o meě.
+rs	51	Baerwalde	1	Dei Lüd sünn allä hüt uppäm Fel u mēgä.
+rs	51012	Hohen Wangelin	1	Dei Lür sünd hüt all budn upt Feld unn meih'n.
+rs	51030	Rittermannshagen	1	Dei Lühr sünd hüt all buten up'n Fell'n und meiden
+rs	51048	Tarnow	1	Dei Lühr sünd hüt all but'n up'n Fill un mei'n.
+rs	51065	Trollenhagen	1	De Lüd sünd hüt all but'n up'n Fell un meig'n.
+rs	51081	Brohm	1	De Lühr sünd hüht all but'n upp den'n Fell unn meig'n.
+rs	51089	Eichhof	1	De Lüd sünd hüt all but'n upp dat Feld un mäg'n
+rs	51098	Gegensee	1	De Lühd' sind hüt all buten up dat Feld un mähgen.
+rs	511	Krasniewo	1	De Lüd sent von daog alle bute opp dem Feld on̄ mähen.
+rs	51101	Drogoradz	1	De Lüd sünd hüt all buten und mägen.
+rs	51112	Budzien	1	De Lüd sind hüt all buten up dat Feld un mäj'n
+rs	51123	Krzywice	1	Dai Lüd sinn hüt alleä́ butem um Fill uo meje͡ä.
+rs	51135	Plantikow	1	Dei Lüd sinn hüt alle buten up'm Fill un mäju.
+rs	51143	Kloster	1	Dei Lür sünd hüt all but'n up dat Feld un meig'n.
+rs	51146	Wiek	1	Dē͡i Lüür sünd hüt all but'n up'n Fell un meig'n.
+rs	51162	Nardevitz	1	Dei Lühr sünd hüt all bud'n up den'n Fell'l un maig'n.
+rs	51170	Zingst	1	Dei Lüh'r sünd hüüt all buhd'n uppt Feld un meig'n.
+rs	51173	Wendisch Langendorf	1	Dei Lühr sünd hüt all but'n up'n Fell'n un meig'n.
+rs	51179	Wüstenei	1	Dei Lüd sünd hüt all buten up dat Feld un meigen.
+rs	51188	Saiser	1	Dei Lüür sünd hüt all buten ub'm Fel'l un meig'n
+rs	51191	Ahrenshoop	1	Dei Lü͡ăr sünd hǖt all bud'n up'm Fell'l un[t?]meig'n.
+rs	5122	Gorzyca	1	Die Leite sin heite alle draußen of dem Falde u. mähen
+rs	51232	Neu-Reddevitz	1	Dei Luhe sünd hüt all buten up dat Feld un meigen.
+rs	51243	Langendamm	1	Dei Lühr sünd hüt all but'n upp'n Fell'l un meig'n.
+rs	51257	Redebas	1	Dei Lühr sünd hüt all buten up denn Fell un meign.
+rs	51267	Pütte	1	Dei Lüd sünd hüt all but'n upp'n Fell'n un meig'n
+rs	51277	Poseritz	1	Dei Lǖâr sü̂nd hǖt âll būt'n ûp dât Fêld ûn meig'n.
+rs	51288	Thiessow	1	Dei Lühr sünd hüt all buten upp ' n Fell'l un meih'n.
+rs	5130	Ransko	1	Die Leute sein heu oll draßen uf dan̄ Fèld und mähen.
+rs	51346	Reppelin	1	Dei Lühr sünd hüt all but'n up'n Feel un meid'n.
+rs	51355	Kavelsdorf	1	Dei Lühr sünd hüt all buten up den Fell[ee?] un meigen.
+rs	51370	Müggenwalde	1	Dei Lür sünd hüt all butn upp denn'n Fell'l un meign.
+rs	51387	Steffenshagen	1	Dei Lühr sünd hüt all buten up't Feld un meigen.
+rs	5139	Grudna	1	Die Leite sind heit alle draußen of dem Felde und mejen.
+rs	51397	Vierow	1	Dei Lür sünd hüt alltauchop (all') but'n up'n Fell un meig'n.
+rs	51409	Karlshagen	1	Dei Lüd sünd hüt all but'n up'm Fell'n u. meig'n
+rs	5141	Brody	1	Die Leut sind heut oll draußen ufn Feld und mägen.
+rs	51413	Trzebusz	1	Dei Lüd sünd hüt alles butem um Fell o mädsche.
+rs	51539	Kisserow	1	Dei Lühr sünd hüt all but'n up'n Fell'n un meih'n.
+rs	51549	Federow	1	Dei Lühr sünd hüt all buten up'n Fel un meih'n.
+rs	51561	Klein Vielen	1	Dei Lühr sünd hüt all buten up'n Felln un m[a?]h'n.
+rs	51571	Holldorf	1	De Lühr sünd hüt all buten up't Fell un meig'n.
+rs	51584	Woldegk	1	De Lüd sünd hüt all but'n up'n Fell un meig'n.
+rs	51598	Trebenow	1	De Lüet sin hüt all buten upt Feld un mäg'n.
+rs	51611	Rossow	1	De Lüd sind hüt all buten ob dat Fäld o mägen.
+rs	51624	Wawelnica	1	De Lüd sind hüt all butn upt Feld und mägn.
+rs	51637	Bergland	1	De Lühd sünd hüt all but'n upt Feld o mäg'n.
+rs	51646	Dabrowica	1	Die Lüd sinn alle butem up dem Fill oh mehge.
+rs	51661	Bobrowniki	1	Dei Lüd sinn hüt alle rute upt Filld u mega.
+rs	51805	Grabow	1	Dei Lühr sünd hüt all but'n up den'n Fel'l und meihd'n.
+rs	51816	Lärz	1	Dei Lühr sünd hüt all butn uppn Fell'l un meidn.
+rs	51832	Ahrensberg	1	De Lür sünd hüt all but'n up den'n Feld' un meig'n.
+rs	51838	Hasselförde	1	De Lüd sünd hüt all buten upp dat Feld un meig'n.
+rs	51850	Buchenhain	1	De Lüt' sind hüt all buten up Feld un mägen.
+rs	51866	Röpersdorf	1	De Lüd' sind hüt all buten up't Feld un mägen.
+rs	51877	Grünz	1	De Lüd sind hüt all but'n upt Feld o mäg'n.
+rs	51893	Pargow (Pargowo)	1	De Lüd sint hüt all bet'n up dat Feld un mäg'n
+rs	51906	Zelislawiec	1	De Lüj' sind hüt all buten up'd Fild un mäjen.
+rs	51918	Slotnica	1	Dē Lüj sin hüt alle butǎ um Fill u majǎ.
+rs	51934	Zukowo	1	De Lüj sinn hüt allĕ bută up dem Fill u. mägă.
+rs	5203	Nekielka	1	De Lüt sin hüt alle buten op dem Fil o mäjä.
+rs	52064	Papenbruch	1	De Lǖd sin hüt all' bu͡uten up dät Feld un mähgen.
+rs	52070	Wallitz	1	De Lüd sind hüt all but'n up det Feld un mägen. -
+rs	52079	Menz	1	De Lühd sind hüt alle buhten up det Feld und mähgen.
+rs	52086	Barsdorf	1	De Lüd sünd hüt all butn upp det Feld un mägen.
+rs	52095	Petersdorf	1	De Lüt sind but'n ubt Feld un mägn.
+rs	5210	Skwierzyna	1	D' Leite sinn heite alle draußen uffs Feld unn mäjen.
+rs	52103	Flieth-Stegelitz	1	De Lüd' sind hüt all (alltohoop) buten up dat Feld un mäg'n.
+rs	52113	Passow	1	De Lüt sind all buten up dat Feld un mäge.
+rs	52129	Widuchowa	1	De Lüd sint hüt all but'n up't Feld un mähjen.
+rs	52139	Banie	1	De Lüd sind hüt all buten upp dat Feld un mägen.
+rs	5214	Krobielewo	1	Da Leite sind hinte alle draußen uf dem Falde und magen.
+rs	52154	Obromino	1	De Lüy sinn hüt alle bute ucht Fild un mäyn.
+rs	52169	Brzezina	1	De Lüj sind hüt alle buten up dem Fill u meje.
+rs	52276	Bagicz	1	Dei Lühr sind hüht alla buten upp 'm Fill un̄ mega.
+rs	52278	Lasin Koszalinski	1	Dei Lür sünd hüt allè butè up dem Fel unn megè
+rs	52311	Sieciemin	1	Dei Lür sind hüt alle buten up dem Fill un möge
+rs	52349	Pomysk Wielki	1	Dei Lid sind hit aller buten oup em Fild ou meihä.
+rs	52359	Szymbark	1	De Lied sind hit alle buten ob dem Feld o megge
+rs	52374	Szklana Gora	1	Die Lide sind hüte alle büten up dem Felde und hauen.
+rs	52396	Skowarcz	1	Die Lüd send vondo͜ag alle bute op dem Föld onn hauen (mähen)
+rs	52428	Oberlakendorf (Solnica Górna)	1	De Lid send hide aller ob dem Feld on haue.
+rs	52440	Deep (Czajcze)	1	Dei Lühr sünd hüt alla buda ubbem Fehl un meha.
+rs	52463	Bialecino	1	De Lüd sind hüt alle bute upp dem Fild un mäjen
+rs	52478	Bronowo	1	Dei Lid sind hit alla budä up dem Fill und mehä.
+rs	52484	Reddies	1	Dei Lüd sind hüt alla buten uppem Fild un mäha.
+rs	52567	Pasewark	1	De Lied send von deag alle buten opp dem Feld on mähen. 
+rs	52578	Bad Rügenwalde	1	Dei Lühr sind hät alle buten up'em Fel un meige.
+rs	5259	Prusim	1	Die Leite sin heite alle drausen ufs Feld und mägen.
+rs	52600	Radoslaw	1	Dei Lür sind hüt alle butä uppem Felj un mehje.
+rs	52700	Losino	1	Dei Lied send hiet alle bute oppem Feld o mähe.
+rs	5271	Przyborowko	1	Die Leute sin heute olle draußen uf dem Felde und meìgen.
+rs	52714	Labiszewo	1	Dei Lied sind hit alle buta ob dem Fild o meiha.
+rs	52722	Karwen	1	Dei Lüd sünd hüt all[e?] bude up dem Fild un meie.
+rs	52755	Heubude (Stogi)	1	De Lid send hite alle bute ob dem Feld on mähen.
+rs	52762	Skowronki	1	De Lid sent von Doag alla buten opp em Lang onn hauen.
+rs	52766	Rowy	1	Dei Lied sind hiet alle buta up dem Fild un meia.
+rs	52767	Machowinko	1	De Lir sind hit alle bute uppem Fill un mä'e.
+st	5277	Gleboczek	1	Dej Lüt sin hüt alle bute up em Fill o möge.
+st	52816	Hela	1	De Lide sind von dog alle bute oppem Feld on sense.
+st	52819	Jaroslawiec	1	Dei Lür sünd hüt alltop budde un meje.
+st	52825	Krolowstrand (Królewice)	1	Dei Lür sind hüt alle bute up dem Fel un meje.
+st	52854	Drzezewo	1	De Lid sind hiet alle bute up dem Fild un meihe.
+st	52865	Niebedzino	1	De Lüd send hüt alle buten op dem Feld o meie
+st	52871	Dabrowka Wielka	1	Dei Liehd send hiet alle buten opp'm Feld' ah meige
+st	52881	Luzino	1	De Lyd sennt hit alle buten op dem Felde meihe.
+st	52887	Pogorze	1	De Lied' send hit all buten op dem Feld un mähe
+st	52896	Bialogora	1	Dei Lüd sind hüt allae butae up dem Fäld un maigae.
+st	52905	Karwenbruch	1	De Lid sen hiet alle bute ob dam Land un meien.
+st	5291	Gorki Noteckie	1	De Lüd sin hüte alle drut up detn Feld un mäje.
+st	52913	Wladyslawowo	1	De Lid send hite alle bute ob dem Feld on mähe.
+st	52915	Lebieniec	1	Dei Liede send hiet alle bute oppem Feld o meige
+st	52927	Zelazna	1	De Lied sind hit all'aë buten op'em Fild o'h meihja.
+st	52936	Tylowo	1	De Lide sint hit alleh buten, op dem dem Feld un meigeh.
+st	5305	Rapin	1	De Lüde sin hüte alle druten upp dätt Feld unn mägen
+st	5315	Pilka	1	De Lid' sin hit' alle drute up dem Fal' un mäje.
+st	5316	Rzecin	1	Di Lüd sin hütto alle ferro deue un felle nägo.
+st	532	Zulawka Sztumska	1	De Leut sind alle off'm Feld un haue
+st	5322	Tarnowko	1	Dey Lüd sin hüt alle butto up dem Fel oh mejo.
+st	5374	Groß Golle (Golaszewo)	1	De Lüd sinn hüt alle butä up dä Feld o mäje
+st	5386	Lubicz	1	Die Lüg sind hüte alle drute um Fill unn mäge.
+st	5397	Slonow	1	De Lüd' sin hüt all drut up'm Fill un mäje.
+st	5402	Huta Szklana	1	De Lüd sinn hüt alle buttŏ upp dem Fill unn mäjiŏ.
+st	5409	Marienbusch	1	De Lüd sinn hüt alle buto um Fill o mäjo.
+st	5421	Ostrowki	1	De Lüd sin hüt alle bute up em Fill, u mäje.
+st	54871	Neuarad (Aradu Nou)	1	Die Leit sein heint alli draus am Feld und mä'e'.
+st	54873	Bistritz (Bistriţa)	1	De laet sae haet ålle turt durtaes âf dem fiëlt ånd mē.
+st	54878	Arzis (Artsyz)	1	Die Leit sen heit alle draußa uf'm Feld on mäēn.
+st	54897	Wolfswinkel (Wilczy Kat)	1	De Lijd sent hit alle butte up'em Fell o hogge
+st	549	Przecmino	1	Dei Lühr sün hüt alle butem um Fill ǔ̌ mehje.
+st	54901	Zarobka	1	Dej Lüd sen hüt alle buute op dem Fell o mäeje
+st	54902	Brzozowka	1	De Lied sent hit alle butte opem Fell o hoge.
+st	54906	Brzezno	1	Dej Lied send hit alle butte oppem Fell o hogge.
+st	54909	Zbojenko	1	De Lid sent hit ale ob dem Fel o hoge
+st	5491	Brzezno	1	De Lüd sin hüt alle buto uppem Fell uh meggio.
+st	54912	Siemiatkowo	1	D'Lied send hit alle butte ob em Fel o hogche.
+st	54913	Sompolno	1	d’Lüd sin hüt alo ve do Dojo um Fel u mächio.
+st	54914	Sächsisch Regen (Reghin)	1	De Lait sai hait alle durtaus af dem Field and mi.
+st	54915	Elek (Elek)	1	Ti Laid san haind alli trăus ŭfn Féld ŭnd mèăvă.
+st	54916	Freidorf bei Temeschwar	1	Die Leit sein heint alli drous ufm Feld und mähe
+st	54917	Sarata (Sarata)	1	D’ Leit ßen heit ä̀lle daußå auf dr Stèpp’ ě on mäåt.
+st	54918	Scheindorf (Sâi)	1	T’ Lajt send hajt alle duse dusse ufem Feld. und mähěd.
+st	54919	Fünfkirchen	1	Ti lait sain haint allə traustn am feld un mēn
+st	54921	Iklad	1	Ochtunttreiszik. Ti Leit szan heut oli trauszt am Fl͜-lt unt tan mán.
+st	54922	Sanktanna (Sântana)	1	Ti Láit sén haint állé trausz am fe(ö)ld un mé(ö)á.
+st	54924	Martinsdorf (Metiş)	1	De̊ Legd sen hegd alle derteos af dem Fialt und mehn.
+st	54926	Bentschek (Bencecu De Sus)	1	Die Leit sein heint alli drauss uff’m Feld un mäe
+st	54929	Agnetheln (Agnita)	1	De Let son het allent derteiss af dem Feld ont men.
+st	54930	Gottlob	1	Die Leit sin alle drauss am Feld un mähé
+st	54932	Klein-Schemlak (Semlacu Mic)	1	Die Leit seḭ heint alli draŭß ŭffm Feld ŭn tŭe meje
+st	54933	Sankt Andreas (Sânandrei)	1	Die Leit sin heit alli drɑus uff’m Feld un mɑ̈e.
+st	54935	Neuwerbas (Novi Vrbas)	1	Ti leit sin hei(n)t al traus ufm Feld un meə.
+st	54937	Groß Scham/Freudenthal (Jamu Mare)	1	Die Leit sin heint alli draŭssŭff’m Feld un mähe
+st	54938	Torschau (Savino Selo)	1	di laeth sin haeth ål đraus ufm feltʰ ùn tùn meʿe̷ ([?]mėĕn)
+st	54939	Weprowatz (Kruščić)	1	di laͥeth sin hãẽnth åli dráus ufem feld ŭn (tŭn) meiĕ
+st	54941	Neue Weingärten (-)	1	Die Leit sen heit alle draussa uf der Step (Schtep) on hauen.
+st	54942	Seimeny (-)	1	D Leit sen heit alle draůß ůfm Feld on mähn.
+st	54943	Neubeschenowa (Dudeştii Noi)	1	D‘ Leit seͥn heit all draus oͧf’m Feld oͧn meh’n
+st	-55055	Oborki	1	D' Lid send hitt alle bute opem Fell o hog͜he.
+st	-55064	Zale	1	Dié Lieve sent alle op em Felt ok ohoche.
+st	-55066	Zuromin	1	Die Leute sind heut alle draußen auf dem Felde u. mähen.
+st	-55070	Grudusk	1	Die Leute sind heute alle draußen auf dem Feld zum Mähen.
+st	-55072	Ostroleka	1	Die Leute sind heute alle auf dem Felde und hauen.
+st	-55081	Ciechocinek	1	De Lied send hitt alle opem Lahn o hogge.
+st	-55091	Skepe	1	De Lièd send hit alle bute op dam Fel o hoche.
+st	55094	Gradzanowo Koscielne	1	Die Liete send hiet alle ute ob dem Feld o hogge.
+st	-55096	Modelka	1	De Liede send hitte alle op dem Fäld on mäjje.
+st	-55099	Makow Mazowiecki	1	De Lid sin hito alle biud und mäho.
+st	55106	Susk	1	Dei Lit send hit ale bute op em Feld o hocha.
+st	-55107	Zawidz Koscielny	1	Dǝ Lit send alle op em Feld ok hoche.
+st	55109	Kondrajec Szlachecki	1	De Mensch sind hiete all om Feld om hoche.
+st	-55110	Kicin	1	De Liet senn hüta allä butä uppem Fll on hoajä.
+st	55111	Szostka	1	Die Leute sind alle auf dem Feld und hauen
+st	-55113	Kujawka	1	Die Leit sin heit alle drauß uff'm Feld und mäh.
+st	55116	Osiek	1	De Lied send hit ale bute obem Fell o hoge.
+st	-55117	Nowe Karwosieki	1	De Lied sen hinte alle Buten ob dam Fel ok hoche.
+st	-55129	Lenie Male	1	Dej Lied sem alle oppen Feld o hoge.
+st	-55133	Meczenino	1	Di Lied sent hieti (hiedi) ali buti op it Felt un haui.
+st	-55135	Dzierzaznia	1	Die Leit sin(t) heit alle draußn auf's Feld (auch: auf'm Feld) und haun.
+st	-55137	Konary	1	De Liet send hit alle bute up dem Fel o hage.
+st	-55139	Kozy	1	De Lüd sin hüd all be͜ūtŏ up em Fell ŭ mäjŏ.
+st	55140	Zglowiaczka	1	Altsiedler u. Wolhynier: Die Leute sind heute alle auf dem Felde und mähen./Umsiedler aus Bessarabien: Dia Leit sen heit älle uf dar Stepp on mäat.
+st	55163	Grabkowo	1	de Lid sin fadadeijo alig np vll. fehlt u-Kringel? den Field o majo.
+st	-55164	Wieslawice	1	Dej Liet senn hiet alle buttem opem Fell o neje.
+st	-55166	Budy Borowickie	1	Die Lied send hite ale bute oppen Feht oh hoche.
+st	-55169	Orszymowo	1	D Lied send hit alle butte opem Fell o hogge.
+st	-55171	Nowy Dwór Mazowiecki	1	De Lied sen hiete ale bute op dam Fell un haaje.
+st	-55173	Kozie Glowy	1	De Leut sinn heut alle draßen uffs Land und höin.
+st	-55177	Brdow	1	D'Leit sant oale draßt am Föld und mahnant.
+st	-55181	Psary	1	D'Lüd senn alle̊ bute̊ up'em Fill on mäije̊.
+st	-55187	Nowa Wies	1	De Lied send hütte alle bute op em Fell on hoge
+st	-55189	Miszory	1	De Lid send hide aller bute op am Fild o hoge.
+st	5519	Berka v.d. Hainich	1	De Lüt sonn hitt alle drussen off dem Fäld und mähen.
+st	-55191	Secymin Polski	1	Da Lit sen butte opem Fel o hoche.
+st	55210	Niechcianow	1	Die Leute sind heute alle draußen auf dem Feld und hauen.
+st	-55216	Kaptury	1	De Lid send hitte alle bute om Lahn o hogge.
+st	-55218	Stare Miasto	1	Die Leit sind heit olle draussen uffs Feld und hä-uen.
+st	-55226	Tarnowka	1	Die Leite sind heite alle dr[a?]ußen auf dem Feld und hauen.
+tu	-55238	Zychlin	1	Die Leite sind heite alle draußen auf dem Acker und hauen
+tu	-55240	Kopojno	1	Die Leit sin heit alle draußen auf's Feld u. tun mähn.
+tu	55244	Natalia	1	Die Menschen sind heute alle draußen auf dem Felde beim Mähen.
+tu	55252	Potrzaskow	1	Die Leute sind heute alle draußen auf dem Felde und mähen.
+tu	-55254	Szamow	1	Die Leit sin heit all ,drauß uf der Stepp, um zu mäha.
+tu	-55258	Wierzchy	1	Die Leit sin heit alle uffs Land draussen un mägen.
+tu	-55261	Gadowskie Holendry	1	DIe Leut' sin heut olle draßin uff dem Feld und hojn.
+tu	-55262	Turek	1	Die Leute sind heute [a/e?]lle [a/e?]uf dem Felde zum Mähen.
+tu	-55266	Sarbice	1	De Liet sin hiete alle uppe Feld un mäje.
+tu	-55269	Zimne	1	D' Lied sen hite alle butte op dem Feel o meege.
+tu	-55270	Leczyca	1	Die Leit sinn heit alle drauß uff'm Feld un mehn.
+tu	55271	Piatek	1	Die Leit sin heit alle drauß uf dem Feld und mejen.
+tu	-55300	Goliszew	1	Die Leit sin heit alle drauß auf dem Feld un mähn.
+tu	55305	Poroze	1	De Loit tun hoitn olle draaßn uffn Land höun.
+tu	-55306	Rzymsko	1	Die Leute sind heite alle auf dem Feld draußen und mähen.
+tu	-55308	Baldrzychow	1	Die Leut sind heute alle draußen aufn Feld und mähen
+tu	55320	Sanie	1	Die Leit sein heit all uffs Land und wolln haun.
+tu	-55322	Marianow	1	De Leute sind alle heute draußen auf den Felde[m/rn?] und hauen.
+tu	-55326	Jozefow	1	Die Leut sind heut olle draußn uff dem Land und houn.
+tu	55330	Morawki	1	Dej Leit san heind oll am Felj und mahn.
+tu	-55331	Rzepiszew	1	Die Leite sind heite all auf dem Felde u. hauen.
+tu	-55338	Justynow	1	De Leit sind heit alle uffs Feld mit'm Haun.
+tu	-55344	Slomkow Suchy	1	Die Lait hand hait olle draussen am Faild und mahn.
+tu	-55349	Markowka	1	Die Leite sein heite alle draußn ufn Feld und mähn.
+tu	-55350	Rzgow	1	Die Leit sin heit all drauhs uf'm Feld un mähn.
+tu	-55354	Laznowska Wola	1	Die Leit seind heite alle draußen aufs Land und haun.
+tu	-55359	Kiebitztal (Kuznica)	1	Deie Leit' sein heut' alle drauß'n am Feld und mäh'n.
+tu	-55360	Ostrow	1	Die "Menschen" (Leute) sind heute alle draußen auf dem Felde zum mähen.
+tu	-55361	Wielka Wies	1	Die Leute sind heute alle draußen auf dem Felde und mähen.
+tu	-55362	Suchcice	1	Die L[eü/eï?]t sind heut ăf'n Feld u. mähen.
+tu	-55363	Siemkowice	1	Die Leit sen heit alle draußn uff de Stepp' und mähn.
+tu	-55365	Dobroslaw	1	Dei Leute mähen heut alle auf dem feld.
+tu	-55366	Belchatów	1	Die Leite sein heite alle draußen uf dem Felde und hauen.
+tu	-55373	Luszczanowice	1	Heute sind alle Leute draußen auf dem Felde und mähen.
+tu	-55375	Ozarow	1	Die Leute sind heute alle draußen auf dem Felde und mähen.
+tu	-55376	Jaworzno	1	Die Leite sind heite alle uffen Feld draußen und tun hauen.
+tu	-55377	Natolin	1	Die Leute sein heute olle ufm Felde und hauen.
+tu	-55382	Czarny Las	1	Die Leit sinn heit alli trause auf dem Land und haue.
+tu	-55383	Huta Stara A	1	De Leit san heit olle draußn uff'm Feld und haan.
+tu	55384	Myszkow	1	Die Leute sind heute alle draußen auf dem Felde und mähen.
+tu	55387	Dabrowa Gornicza	1	Die Leute sind heut alle drauszen auf dem Felde u. mähen.
+tu	-55389	Kwaczala	1	Die Leit sin hait alle drauß' uff'm Feld un mäen.
+tu	-55394	Freistadt (Fryštát)	1	Heute sind alle Leute auf dem Felde u. mähen.
+tu	-55408	Bistritz (Bystrice Nad Olsí)	1	Die Leute sind heute alle draußen auf dem Felde und mähen.
+tu	-55411	Radziechowy	1	Dei Leit han oalle draßen af'n Fäld un mahen.
+tu	-55415	Skomlin	1	Die Leit(e) sind heit(e) alle uffs Feld und haue(n).
+tu	-55416	Kamesznica	1	D' Leit han haint olle draß'n am Feld und mah'n.
+tu	-55418	Schönwalde (Wrzosy)	1	De Lüd send hüt alle bude op dem Fel o mäche.
+tu	-55425	Wyszewo	1	Dei Lür sinn hüt alle butem up dem Fel unn meje.
+tu	-55522	Nojewo	1	Die Leute sind heute alle auf dem Feld, beim mähen.
+tu	5717	Illeben	1	De Lit sin hit all drussen uf den Faelle on mähe.
+tu	573	Lykowo	1	Dei Lü̂r sünd hü̂t alle buten up demm Fêl ô mêge.
+tu	5730	Gebesee	1	D’ Lid sinn hidde aoll drussen uff’n Falle on haumn (mähen, schnieden)
+tu	5752	Thalborn	1	De Leite sen heite alle drussen uf'n Fă̈lle on hau'n.
+tu	5774	Nirmsdorf	1	De Leite sen heite alle uffen Falle on haun.
+tu	5810	Crölpa-Löbschütz	1	D Leite sinn heite olle drussen uffn Falle unn hauen.
+tu	5827	Krössuln	1	Die Leite sin heute alle draußen uff'n Fälle un hau'n.
+tu	584	Dunowo	1	Dei Lür sinn hüt alle buta upp demm Fill oa mega.
+tu	5863	Michelwitz	1	De Leite sin heite alle draußen uf'n Fälle un machen lus (mähen).
+tu	5867	Hollenbach	1	Die Lüte sin hütte alle drußen uff dem Falde.
+tu	5875	Schlotheim	1	Die Lüte sin hüte alle drußen uf dem Felle und mähen.
+tu	6074	Obertopfstedt	1	De Liehte sinn hiete alle drussen off den Fälle unn hauwen.
+tu	6089	Etzleben	1	De Lüte sinn hüte alle drussen ofn Fälle un mäh'n.
+tu	6105	Allerstedt	1	De Leite sinn heite alle drussen uff'n Fälle un mehen.
+tu	6116	Gleina	1	De Leite sinn heite alle drußen uff'n Felle un heu'n.
+tu	6129	Kleinkayna/Kleinkaina	1	Die Leite sin heite alle draußen uf 'n Fälle und hauen.
+tu	6168	Rehbach	1	Die Leite sin heite alle draußen uffn Felde und hauen.
+tu	6171	Mengelrode	1	Die Lidde sinn hidde alle drussen uff dem Faʰlle un mehn. 
+tu	6185	Kirchworbis	1	Die Lidde sin hidde alle drussen uff dam Falle un hauwen.
+tu	6196	Grosswenden	1	Die Liete sin hiete alle drussen uffen Fälle un hauen (mahn).
+tu	6341	Auleben	1	De Liete sinn hiete alle drusse[nn/m/na?] uff d'n Fälle unn mähen.
+tu	6359	Hackpfüffel	1	D' Liete sinn hiete alle uf'n Fälle un mäïen.
+tu	6371	Mittelhausen	1	Dä̌ Leite sinn heite alle drussene uff'n Falle unn mahn.
+tu	6388	Stedten	1	De Leite sin heite alle drussene uf'n Felle un mähn.
+tu	6400	Ammendorf	1	De Leite sin hinte alle draußen uf'n Felle un hau'n.
+tu	6418	Glesien	1	Die Leite sin heite alle draußen uf'n Feld un mägen.
+tu	6426	Zwinge	1	De Lüh sinn hüta alle truhten un mäht.
+tu	6472	Stolberg (Harz)	1	Di Liete sin hiete alle drussene uff den Fälle un mägen.
+tu	6577	Walkenried	1	De Lite sinn hite alle drußene uf'n Falle un hauen.
+tu	6593	Königerode	1	D'Liede sinn hiede alle drussen uff'n Fälle un mägen.
+tu	6610	Vatterode	1	De Leite sin heite alle draußen uf'n Fälle un mäjen.
+tu	6630	Freist	1	Die Leite sin heite alle draußen uf dem Felle un mägen.
+tu	6656	Drehlitz	1	De Leite sin heite alle draußen ufn Felle un mägen.
+tu	6660	Möst	1	Die Leite sin heite alle uffen Felle un mäh'n.
+tu	6682	Ramsin	1	De Leite sin heite alle drauß'n uff'n Felle un mägen. 
+tu	6690	Braunlage	1	Dei Liede sind hiete alle druten op dem Felle un meigen.
+tu	6705	Rieder	1	De Līde sin hidde alle drute op'n Felle und meien.
+tu	6793	Riefensbeek	1	Dä Lüe ßind hüte alle druten uch'n Felle un mäjet.
+tu	6801	Neuwerk	1	De Liehe sind hiete alle butten oppen Felle und meigen.
+tu	6821	Aschersleben	1	Dei Liede sinn hiete alle op dene Felle und me|ien. (e͜   i)
+tu	6831	Gröna	1	De Leite sin heite alle draußen uff 'n Felle un mähe.
+tu	6848	Elsdorf	1	Die Leite sin heite alle draußen uf'n Felle un mähen.
+tu	688	Pregowo Zulawskie	1	De Lied send vondo͡ag alle bute opp dem Föld on haue.
+tu	6891	Danstedt	1	De Lüe sind hüte alle butt'n ob Felle un meihet.
+tu	6960	Abbenrode	1	De Lüe sind hüte alle butten ob'n Felle un meiet.
+tu	6981	Emersleben	1	Deh Lühe sund hüte alle butten ob'm Felle un meihen.
+tu	6995	Egeln	1	Di Lite sin hite ålle butten oppen Felle un meien.
+tu	7007	Eickendorf	1	De Lüde sin hüte alle buffen op[n]t Felle Feld un meihen.
+tu	7022	Kämeritz	1	Die Lüde sin hüte alle druten up det Feld un mäh'n.
+tu	7033	Natho	1	Die Leide sin hite alle drut ucht Feld un mähn.
+uv	7180	Liemehna	1	Dä Leite sinn heite alle draußen uffen Fällde un mägen (haun).
+uv	7198	Röcknitz	1	De Leite sinn heide alle drauß[n/en?] um Felde un haun.
+uv	7212	Lausa	1	De Leute sinn heute alle draußen uffem Falde unn mahen.
+uv	7225	Kosilenzien	1	Die Leite sinn heite alle draußen uffn Felde und mähen.
+uv	7246	Kahla	1	Die Leite sin heite alle draußen uf'n Felde und hau'n.
+uv	7253	Ruhland	1	Die Leite sind heite alle draußen auf dem Felde und mäen.
+uv	7263	Lauta	1	Die Leite sind heite alle draußen a͡uf 'm Felde und hau(e)'n.
+uv	7363	Brösa	1	Die Leite sin heite alle draußen uffen Felde un mächen.
+uv	7371	Falkenberg	1	Die Leite sin heite alle draußen uffen Fele un mägen.
+uv	7384	Rosenfeld	1	Die Leite sin heite alle draußen uffen Felde un mägen.
+uv	7394	Wiederau	1	Di Leite sinn heite alle drauß'n uff's Feld un mägen.
+uv	74	Gwiezdzin	1	Dei Lüd sind hüt alle biuten u megge.
+uv	7412	Lugau	1	Die Leite sin heite alle draußen uff dem Felde un mäjen.
+uv	7427	Dollenchen	1	Die Leute sinn heit alle draußen uff dem Felde und mähen
+uv	743	Rudki	1	De Lüd sinn hüt alle bute upp dem F'lt u mäga.
+uv	7435	Petershain/Neupetershain	1	Die Leute sind heite alle draußen auf dem Felde und mähen.
+uv	748	Budy	1	De Lüd sinn hüt allä buten upp dem Fell u mäjä.
+uv	7529	Schleesen	1	Die Leite sinn heite alle draus uff's Feld un mächen.
+uv	7546	Bleddin	1	De Leite sin heite alle drauß uffs Feld un mägen.
+uv	7562	Klossa	1	De Leite sinn hiete olle drußen uffs Feld un mägen.
+uv	7576	Werchau	1	Die Liete sinn hiete alle drusen uppt Feld unn mächen.
+uv	7586	Wendisch Drehna/Walddrehna	1	Unse Liede sin int Feld un mäjen.
+uv	7596	Schlabendorf	1	Die Leite sin̄ heite alle draußen ufs Feld u. mähen.
+uv	760	Zakrzewo	1	Dei Lüd müsda hüt alla büten upp dem Fel megge.
+uv	7688	Straach	1	De Liede śinn hiete alle drut'n up't Feld un mäjen.
+uv	769	Nowy Dwor	1	Dei Lüd sünd hüt allä buten up dem Fill uh mäga
+uv	7696	Rahnsdorf	1	De Liete sinn hithe alle drut ubt Feld un mächen.
+uv	7710	Rohrbeck	1	De Liede sin hiete alle drut up dat Feld un mägen.
+uv	7721	Wahlsdorf	1	Die Lüde sin hüde alle druter up dät Feld und mäïen.
+uv	7732	Hohendorf	1	Dei Lide sind hite olle drouß upt Fäld un mägen.
+uv	7747	Treppendorf	1	Die Leite sin heite alle drausten uf das Feld und mäjen.
+uv	7758	Sacrow	1	Die Leite sind heite alle draußen auf dem Felde und mähjen.
+uv	7964	Zedtlitz	1	Die Leite sin heite alle draußen uffn Falle un haun (mähn).
+uv	7979	Hohnbach	1	Di Leute sin heute aolle draußn uffm Falde un haun.
+uv	80004	Grindelwald	1	D'Lyt syn alli ussna uf em Fäld und mäihen.
+uv	80023	Bosco	1	t Lét sén hit alli ufum lon un maijan.
+uv	8011	Ziegra	1	Di Loite sinn hoite olle draußen uff'n Falde un haun.
+uv	803	Lunawy Male	1	De Lüd sünnt hütta allä butä upem Fill u hauä
+uv	8032	Rausslitz	1	De Loite sinn hoite oalle drauß'n uff'n Felde unn hau'n.
+uv	8055	Coswig	1	De Loite sin hoite olle draußn uffn Falde und mähn.
+uv	8075	Langebrück	1	Di Leute sein heute olle draußen uffen Felde und mah'n.
+uv	8092	Frankenthal	1	De Leute sein heute alle draußen of 'n Felde u mähe.
+uv	821	Bukowiec	1	De Lüde send hüte alle buuten op dem Föll hŏ[h/j?]e.
+uv	8272	Fuchshain	1	De Leite sein heite alle draußen uffn Falde unn haun.
+uv	8289	Nerchau	1	De Leide sin heide alle draußen uffen Fälde un mäh'n
+uv	83	Charzykowy	1	Dai Lüd sind hüt alle biuten up däm Fel u meje.
+uv	8305	Limbach	1	Die Loite sin hoite alle draußen uff'n Falde un haun.
+uv	8321	Mergendorf	1	De Leute sin heude alle draußen ufn Felde un miähn.
+uv	8345	Rostig	1	Die Lette sein hätte alle draußen uffn Felde und haun.
+uv	8358	Steinborn	1	Die Loite sein hoite olle haußn uf'm Felde und haun.
+uv	8368	Bernbruch	1	Die Leute sein heute olle draußn uf dann Felde und haun.
+uv	8505	Dretschen	1	De Leüte sein olle draußen ufm Felde und mähen.
+uv	8519	Kittlitz	1	D'Leute sein heute o͡alle hauß'n uf'm Felde und hoon.
+uv	8532	Kunnerwitz	1	De Leute sein heute olle haußen uff'm Felde und haun.
+uv	8546	Siekierczyn	1	De Leute sein heute olle haußen uff'm Felde und miähn (hoob'n).
+uv	8560	Wolbromow	1	D' Leut' sein heut olle daußn (dässn) ufm Feld an haun. -
+uv	8574	Pieszkow	1	D' Leute säen heute oll dessa ufm Felde und hoan.
+uv	8590	Prusice	1	Dĭ Leute sein heute olle dessa uff_im Felde und haun.
+uv	8614	Ogonowice	1	Die Leute sein heute olle droßen uf dam Felde und mähn.
+uv	8716	Förstgen	1	Dĕ Leute sind heute olle draußen auf dem Felde u. mähen.
+uv	8726	Ober Horka I	1	De Leute sein heute olle hauß'e uff'm Felde und madern.
+uv	8736	Wegliniec	1	Die Leute sein heute olle draußen uff'n Felde und thun hau'n.
+uv	8740	Kierzno	1	Die Leute sein heute alle daußen uf'm Felde und hoben (madern)
+uv	8751	Szczytnica	1	Di Leute sein heute olle dessa ufim Felde und hauhn.
+uv	8762	Göllschau (Goliszów)	1	Die Leute sein heute olle dessen uff'm Felde und haun (Mader).
+uv	8777	Bieniowice	1	Di Leute sehn heute olle dessen uf'm Felde und hauen.
+uv	880	Strzeczona	1	Dei Liüd sünd hüt alle biuten um Fill o meege.
+uv	8852	Klein Priebus	1	De Leute sein heute olle drauß'n uf'm Felde und hau'n. 
+uv	8858	Okraglica	1	Die Loite sein heute olle haussen uff'n Felde und hoen.
+uv	8865	Koberbrunn	1	De' Leute sähn heute olle huoßen uff'm Felde u. hohn.
+uv	8870	Armadebrunn (Studzianka)	1	Die Leute seea heute olle drußen uff'm Felde und haun.
+uv	8878	Trzmielow	1	Dei Leut' sein heut oll droßen uf'm Felde un miähn.
+uv	8888	Skladowice	1	Die Leute sehn heute olle droßen uff dem Felde und maun.
+uv	895	Jelencz	1	Dei Lüed sin hüt alle butem upem Feell u meegn.
+uv	8972	Cantdorf	1	Die Leite sein alle draußen up Feld und hauen Korn.
+uv	8981	Eichwege	1	Die Leite sein heite alle draußen ufen Felde u. hauhn.
+uv	899	Iwiec	1	Dei Lühd sün hüt alla buten up dem Fild uh mega.
+uv	8990	Jedrzychowice	1	Die Leute sind heute olle draußen uf dahn Felde und mähen. 
+uv	9000	Kunzendorf (Kunice)	1	De Leute sün heute olle haußen uff'm Fälde und hohn.
+uv	9015	Chichy	1	De Leute senn heut olle haußen uf 'n Felde und hohn.
+uv	9025	Przeclaw	1	D͡   Loit͡   seen hoit oo͡   dro͡aß ͡  n uf͡   m Fe͡jlde miäh ͡  n.
+uv	9036	Jakubow	1	De Leut senn heut oll droaßen ufm Feld und mäan.
+uv	9052	Rzeczyca	1	Dĕ Leut sehn heut oll droaßen uf n Feld und miähn.
+uv	906	Busnia	1	Die Lied send hitte alle bute oppem Föll on haue.
+uv	9143	Mehlen	1	De Leite sin heute olle draußen uff dem Falde un maijen.
+uv	9152	Dluzek	1	Die Leute sein heute olle draußen uff dan Felde und hauen.
+uv	9163	Bialowice	1	Di Leute sein heute olle raus uf's Feld un mähen.
+uv	9179	Broniszow	1	D' Loit' senn hoit oll' drosen uf'n Faill' und senn Gruos haun.
+uv	9193	Alt Tschau (Stare Żabno)	1	D' Leute seen heute olle droßen uf 'm Felde und hoon.
+uv	920	Lisie Katy	1	De Lied' senn hitt all buthe opp em Föll und haue.
+uv	9200	Grochowice	1	Die Loit se[e?]n hoite olle driȃußen uf'n Felde und schneeden (mit Sichel; haun mit Sense)
+uv	9207	Konradowo	1	Die Leit' sen hoit oll droßen uf dam Feld' und miähn.
+uv	9274	Staakow	1	Die Leite sin heite alle draußen uf'n Felde und mähjen.
+uv	9280	Kaltenborn	1	Die Laite sin heite olle draußene uff'n Falde und majn.
+uv	9288	Czeklin	1	Die Leute sein heute olle draußen auf dem Falde und hauen. 
+uv	930	Goczalki	1	De Leite sint heite alle draußen off dem Felde on mehe.
+uv	9303	Lubiatow	1	Di Leuite sain heuite olle haußen uf'n Failde und mähe (haue)
+uv	9314	Zielona Gora	1	Di Leute sein heute olle draußen uf'm Felde und mähn.
+uv	9323	Zabor	1	Die Lōite sèn heute olle hoßen uf n Fêlle und haun.
+uv	9335	Ciosaniec	1	Di Loit sein heut oll' draußen uff damm Feld und haun.
+vw	9400	Miloszyce	1	Die Leute sind heute olle draußen uf dam Felde und mähen.
+vw	9417	Prietzen	1	De Loite de sein heute olle draußen uff'n Felde und haun.
+vw	9433	Ujazd Gorny	1	D' Leute sein heute oalle drau[sz/ß]a ufem Felde und haun.
+vw	9453	Lisowice	1	Di Leute seen heut olle dessen uf'n Felde und mähn.
+vw	9558	Ligota Piekna	1	Die Lo͡eute seen hoote olle dressen (dro͡essen) uffm Felde un mähn (haun).
+vw	9579	Jenkowice	1	De Loite sen hoite olle drossen uf'm Felde und haun.
+vw	9592	Jemielna	1	Die Leute sind hëte alle draußen uff damm Fillde und mähen.
+vw	9612	Prawikow	1	Die Leute seen heute olle droßen uffen Fälde und hau'n.
+vw	9622	Warzyna	1	Die Leute seen hiete olle drossen uf damm Felde und mähn.
+vw	9717	Domanowice	1	De Loute seen ho͡ute olle drossen (od. dressen) und miähn.
+vw	9739	Kamien	1	Die Leite sind heute alle draußen uff dem Felde und mähen.
+vw	9760	Krzelow	1	De Leute sein heute oalle dressen uf m Felde und hoan.
+vw	9775	Staszowice	1	Die Loite säin houte alle droußen uff'm Felde und hauen.
+vw	9799	Lazy Wielkie	1	Die Leute seen heute olle dressen uf'm Felde und hauen.
+vw	983	Gromaden	1	De Lüd sün hüt all buten up em Fill u mähje.
+vw	984	Friedberg	1	Dei Lüd sünn hüt allä bu͡iten upp däm Fehll o͡u mejä.
+vw	9848	Godnowa	1	De Leite seän hoeute olle dressen uf'em Felde u. mäh'n.
+vw	9877	Chroscina	1	D' Loit sen hoit oll' droß'n uff'n Falld und hoan.
+vw	9891	Gosciejewice	1	Die Leute sen heute olle droßen auf dam Falde un mihn.
+vw	99	Trumiejki	1	De Lied sönnd hitte aller buten opp dem Fell onn hojje.
+vw	990	Walownica	1	De Lüd sinn hüt alle buten opem Fel o mege.
+vw	9903	Sonnenfeld (Orpischewo)	1	Die Loite seen hoite olle drossen uf'm Felde und haun (:hoan:) (:mähen:).
+vw	9919	Wierzowice Male	1	Die Loite seen hoite olle dressen uf dam Felde und mähen. -
+vw	9926	Wodniki	1	Die Leute seen heute olle droaßen uf dam Felde und hoan.
+vw	994	Kabat	1	De lüd send hüt alle ob dem Fall o hogge.
+vw	9984	Morkowo	1	Die Loit sehn hoit oll drioß'n ufm Faild und miähn.
+vw	54872	Reval	1	Ti Mänšn̥ ssintöjte halle troussn̥ hauf tas Welt hunt mēhen.
+vw	52353	NA	1	Dei Lied send hüt allä buten ob demm Feld oh main
+vw	30173	Ajoncourt	2	Les aens sont toute sourto ochdu dans lé prèe et saïe.
+vw	30197	Vaxy	2	Les gens sont toutes ajed'heu dans lé campégne et y scéent.
+vw	30214	Bénestroff	2	Les gens sont tous sortis ajedeu dans les champs po seyis
+vw	30225	Attilloncourt	2	Les gens sent dejã devant lóche et meu[??] d[ans?] les cha[ms?]
+vw	30248	Bezange-La-Petite	2	Les gens sont òjedu toute fīe dans les champ et sāïe
+vw	30254	Maizières-Lès-Vic	2	Lé gens sont âhéd'jeu toute de fûe dans lé chan êt saïon.
+vw	30268	Richeval	2	Tot chaiquine dons les champs ahodié et sojé.
+vw	30285	Lommerange	2	Anu tourtout les gens sont  dehours dans les champs et fauchons.
+vw	30314	Argancy	2	Les gens sont toutes fieu ojd'hu, dans les champs et fauchent.
+vw	30325	Vernéville	2	[?]ortō lé gens sant dan lé champs énn et fauchent.
+vw	30351	Ancy-Sur-Moselle	2	Les gens sont tortu dans les champs aujdhu et fauche.
+vw	30361	Orny	2	Les gens sont tout' auj'd'hu dans les champs po faucher.
+vw	30374	Hémilly	2	Lé geans son torte fieu de sty oj'dhu y son dân les chans que fôche
+vw	30379	Champenay	2	Li jan son tortü don li Schan ä sojon.
+vw	30410	La Petite Lièpvre	2	Lés djang so a͜udj͜edauï tortus fû͜es è lè campagne é s͜aï͜o.  / Les gens sont aujourd'hui tous dehors ù la campagne et fauchent.
+vw	30421	Montreux-Vieux	2	Les gens sont agedeu tut tschu les chants ê sayie.
+vw	30429	Xhoffraix	2	Les gins sont û tot foû po soie so les champs.
+vw	30436	Pont	2	Lè djin son û torto al campagn è i so-iè.
+vw	30058	Karkelbeck	3	Zmons ſzendien ÿra wiſi ant Lauko ir kerta.
+vw	30068	Kinten	3	Źmones ÿra szendien wisi lauke ant Lauko ir Źole pjaun.
+vw	30078	Rudienen	3	Zmônés ÿra ſzendien wisſi lauke ant Lauko ir pjaun.
+vw	30083	Kolleschen (Kolletzischken)	3	Szendien yr wiſsi Zmones ant Lauko ir ſzenege(sic?).
+vw	-54895	Warszawa	10	d̥i menšən (‘Leute’ nicht üblich) senən hąĩnt alə drǫusən ǫf dę̄im fęl̥d in šnaidən (‘mähen’ nicht üblich).
+vw	9746	Kobyla Gora	10	Die Leute ſinnen hant alle hauſten auf dem Feld und hakn.
+vw	46572	Nebel	11	A Lidj san dalang altåmal bütjan üv-t Fial tå hauan.
+vw	46636	Hooge	11	Dea Mennskeimea sean delling allea böettea a  det Fäjl to hauean.
+vw	46640	Wobbenbüll	11	Dü Lüdde senn delling all büdde at Feel tü hauen.
+vw	46699	Horsbüll	11	Dä Kialſe ſemd deling all ütt ehwt fill ta meihen.
+vw	46759	Oland	11	Dö Judde sen delling alltemol uft Feel to hauen.
+vw	46773	Mönkebüll	11	De Menſchene ſen delleng ahl ödde ad Feil to hauen.
+vw	46888	Archsum	11	De Lid’d’en sen delling alltemaal bütten üp Träsk tö hauen.
+vw	47862	Helgoland	11	De lĕ́ / (Mènsken) sèn dòllóng állemōl béüötten īpt stéck gā(r)s èn māie.
+vw	48241	Wangerooge	11	Da Liuden ſind dülun all but ug deit Lan to meihen.
+vw	F002p	Hindeloopen	11	De lîêad binne joo allegaar buuten òp 't laànd ôên 't maaien.
+vw	B079p	Zurich	11	De ljue binne hjoed allegearre op it lân oan it meanen.
+vw	F036p	Oudemirdum	11	Də lī́ə bĭ̀nə joeət ŏ̀ləgĕ̀rə bū́tən ọ̆p ət lṑn oan t meanən.
+vw	F003p	Woudsend	11	De mésken binne jôêǝt àllejir op ǝt lôân ôan ǝt méjenèn.
+vw	B084p	Wommels	11	De ljue bin hjoed allegear op 't lân oan 't meanen
+vw	F013c	Oudehaske	11	De liu binne joed ollegerre boeten op it lean oan it meanen.
+vw	B094p	Grou	11	ət folk is (h)ju'əd butən/də ljö bɩnə (h)ju'əd ɔləgjεrs butən ɔp ət lɔ:n o'ən (ə)t mɩ̇'ənən.
+vw	B024b	Wijns	11	də ljʌə binə juət ɔləjerə in 't fjɪlt oən't mɪənən
+vw	B099a	Opeinde	11	De ljue binne hjoed allegearre (bûten) op 't lân oan 't meanen.
+vw	B035a	Zwagerbosch	11	De minsken binne jœ̂t alle gjerre boeten op it lân aan it mêênen.
+vw	B014p	Paesens	11	De ljú bin hjoed allegearre op 't lân oan 't meanen.
+vw	G001b	Appelscha	11	De minsken bin joeje alle bieten op 't laand an 't mēnnen
+vw	46905	Westre	12	E' Folk er édau oll u o Mark aah hugg.
+vw	46914	Sophiental	12	E Folk er e daa o[ł?]d ūd aă e Mark aă slaa.
+vw	46932	Sonderburg (Sønderborg)	12	E Folk e all u ŏe Mark edau o ʃlō.
+vw	46938	Lysabbelholz (Lysabildskov)	12	Edau æ olt Folk ŭ æ e Mark o höest.
+vw	46939	Toftum	12	Old e' Folk æ' uh'r aa e' Mark ĭ davv aa' mejj.
+vw	46948	Hönning (Hønning)	12	Æ Folk er idau olsammen uer aa æ Mark aa fjóest.
+vw	46957	Beftoft (Bevtoft)	12	E Folk er e dau aal ud aa e Mark aa höst.
+vw	46968	Norder Wilstrup (Nørre Vilstrup)	12	Æ dav er old æ Folk ue aa æ Mark aa hòest.
+vw	47006	List	12	E Folk er idau ald ud o e Mark o vel hog.
+vw	47007	Jerpstedt (Hjerpsted)	12	Æ Folk er idau ol uer aa æ Mark aa mæi
+vw	47016	Ellum	12	Æ Folk er idau old ud aa æ Mark aa höst.
+vw	47029	Kassöe/Kassö (Kassø)	12	E Folk er e dav old ud aa e Mark aa höst.
+vw	47040	Feldstedtholz (Feldstedskov)	12	Old Folk æd ued aaed Mark æ dav od höest.
+vw	47048	Hagenberg (Havnbjerg)	12	E Folk ä edaw oll ud o e Mark å hüest.
+vw	47052	Hellwitt (Helved)	12	E Faalk er aald der ud o e Mark og hòst.
+vw	47057	Kamptrup (Kamtrup)	12	Æ Folk er oldsammel ædau uer aa æ Mark aa hö=est.
+vw	47066	Grönnebeck/Grönnebek (Grønnebæk)	12	Æ Folk er olsammel ur o æ Mark aa hȫst.
+vw	47073	Tyrstrup	12	Ædav æ old æ Fŏlk uer aa æ Mark aa höst.
+vw	47078	Hvidding (Hviding)	12	E Folk er edar old ud aa e Mark aa hjó∫t.
+vw	56471	Merzdorf	41	Te luze ßu zinza schikne wonze na tom golu a ßeku.
+vw	56504	Burg	41	Ludzo hsu dzensa schitzy na poli a hsykaja.
+vw	56507	Nochten	41	Ludźo ßu dźenßa schitzy na Polu a ßycźeja.
+vw	56520	Luppa	41	Ludźo su dźensa wšitcy wonka na polu a syku.
+vw	56694	Widno	42	Cẏ ludze są dzẏs wszẏscẏ w polu i seką.
+vw	56784	Zelistrzewo	42	Ty ledze so dzys wszeszce na polu a seko.
+vw	56785	Jastarnia	42	Ty się [sic!] dziso wszeczte [sic!] bujten na polu a sekó.
+vw	56799	Zalakowo	42	Te ludzi son dzis wszyscy buten na polu i ceczon [sic!].
+wx	56805	Sianowska Huta	42	Ludze sę dzis fschistki buten na Pou seÿę.
+wx	56814	Rebiechowo	42	Ledze są dzes wszesce buten na polu a seką.
+wx	56846	Piechowice	42	Dzys są wsyscy ludze ná polu i seką.
+wx	53478	Rombark	43	Ludzie szyscy dziś są wpolu i śieko.
+wx	53489	Rytel	43	Wszyscy ludzie są dzisiaj na polu i kaszą.
+wx	53514	Lubocien	43	Te ludzie są dziś wszyscy na dworź[u?] na polu sieką (czyli kośą)
+wx	53521	Kamionka	43	Ludzie są dziś wszyscy na polu i sieką.
+wx	53535	Orzelek	43	Ludzie są wszyscy wpolu i sieczą.
+wx	53538	Szyroslaw	43	Dziś wszýscy ludzie są na polu i koszą czyli zniwią.
+wx	53545	Pisanica	43	Ludzie so dzisiay wszyszy na polu i kosza.
+wx	53567	Glinki	43	Wszyscy ludzie są dzisiaj na polu i sieką.
+wx	53571	Gruczno	43	Ludzie są dziś wszyscy na polu i koszą.
+wx	53581	Slawianowo	43	Ludzie sa wszyscy w polu i sieką.
+wx	53602	Zoledowo	43	Ludzie są dziś wszyscy na polu i koszą.
+wx	53616	Wrocki	43	Ludzie dzisiaj wszyści są na polu isieczą.
+wx	53620	Morzewo	43	Wszyscy ludzie są dziś na polu i sieką.
+wx	53656	Bartosze	43	Wszysczy ludzie sa dzisiay na polu przy Kozbie.
+wx	53663	Kraplewo	43	Ludzie sa dzis wszyscy na dworzu no polu i sieka.
+wx	53708	Pokrzydowo	43	Zudzie szisiaj sa wszyscy na dworzu na polu i sieka.
+wx	53710	Boleszyn	43	Wszyscy ludzie sa dzis na polu i sieka. 
+wx	53721	Nowy Swiat	43	Ludzie sa dzisiaj wszysey na polu i szna.
+wx	53745	Wapno	43	Dzisiaj są wszyscy ludzie na polu i sieką.
+wx	53756	Mamlicz	43	Ludzie są dziś wszyscy w polu i [koa?]ą.
+wx	53760	Rojewo	43	Ludzie są dzi siaj wszyscy na polu i sieką.
+wx	53771	Wiatrowo	43	Ludzie są dzisiaj wszyscy na polu i sieką.
+wx	53819	Galezewo	43	Wszyscy ludzie są dzisioj na polu i koszą.
+wx	53822	Lojewo	43	Ludzoe są wszyscy na polu i koszą.
+wx	53834	Bielawy	43	Ludzie są dziesiaj wszyscy na polu i koszą.
+wx	53859	Chludowo	43	Ludzie sa dzisiaj wszyscy w polu i sieka.
+wx	53872	Strzyzewo Koscielne	43	Ludzie są dzisiaj wszyscy na polu i koszą
+wx	53877	Kamieniec	43	Ludzie są dzĭś wszyscy w polu ĭ sieką.
+wx	55537	Ceradz Koscielny	43	Dzisiaj są wszyscy ludzie na polu i sieką.
+wx	55565	Poznan	43	Wszyscy ludzie dziś w polu sum i sieką.
+wx	55569	Lowecin	43	Wszyscy ludzie dzisiaj są poza domem na polu i koszą.
+wx	55586	Mierzewo	43	Ludzie są dziś wszyscy na polu i młócą.
+wx	55592	Dabrowka Wielkopolska	43	Ludzie są dzisiaj wszysey na polu i sieką.
+wx	55593	Slupia	43	Ludzie są dziśiaj wszycy na polu i tam siwką
+wx	55621	Babin	43	Wszyscy ludzie są dzisiaj na polu i koszą (=sieką)
+wx	55635	Tadeuszowo	43	Dzisiaj wszyscy ludzie są na polu i sieką.
+wx	55646	Gorazdowo	43	Ludzie są dziś wszyscy na polu i koszą.
+wx	55656	Sierakowo	43	Wszyscy ludzie są dzisiaj na polu i sieką.
+wx	55688	Turew	43	Dzisiaj niemasz nikogo w domu, sieką na polu.
+wx	55701	Ludwinow	43	Wszyscy ludzie są dzisiaj na polu i sieką.
+wx	55702	Radomierz	43	Ludzie są dziś wszyscy na polu i sieką.
+wx	55720	Kotlin	43	Ludzie są dziṡ wszyscy na polu i sieką.
+wx	55725	Gorzno	43	Deisiaj są wszyscy ludzie na polu i koszą.
+wx	55729	Drzeczewo Pierwsze	43	Ludzie są dzisiaj wszyscy na dworze w polu i koszą.
+wx	55733	Rusko	43	Dzisiaj ludzie są na dworze i w polu sieką
+wx	55741	Brzezie	43	Ludzie są dziś wszyscy na polu i sieką.
+wx	55782	Torzeniec	43	Ludzie są dzisiaj wszyscy w polu i sieką.
+wx	55794	Kuznica Slupska	43	Wszyscy ludzie są dzis w polu i koszą.
+wx	55803	Kuklinow	43	Wszyscy ludzie są dziśiaj na polu i koszą.
+wx	55828	Pomocno	43	Ludzie dzisiaj są wszyscy w polu i koszą.
+wx	55848	Uciechow	43	Dzisiaj są ludzie wszyscy na polu i sieką.
+wx	55855	Przygodziczki	43	Ludzie są dziś wszyscy sa polu i sieką.
+wx	55859	Kaliszkowice Kaliskie	43	Ludzie są dziś wszyscy na polu i sieką.
+wx	55878	Trebaczow	43	Ludzie są dzisiej wszyscy na polu i sieką zboze.
+wx	55894	Greboszow	43	Ludzie s[e?]m dziśej wszyscy na polu i sieką.
+wx	55900	Pawlowice Gorzowskie	43	Ludzie są dzisiej wsyscy na polu i sieką.
+wx	55940	Skoraszewice	43	Wszyscy ludzie są dzis napolu i usi[a/es?]zenia.
+wx	55947	Kwiatkow	43	Wszyscy ludzie som (są) dzisio (siaj) na polu i siekom (ą)
+wx	55991	Zabrze	43	Ludzie dzisiej są wrzyjscy na polu i sieką.
+wx	56013	Radoszowy	43	Dzisiej są wszyścy ludzie na polu w sieczeniu.
+wx	56022	Budziska	43	Ludzie dzisiok wszyscy som na polu i sies[k?]om!_
+wx	56027	Stanica	43	Ludzie są dziesaj wszyścy na polu a sieczą.
+wx	56041	Murcki	43	Ludzie wieś są dzisiej w rzysczy na polu i sięką.
+wx	56053	Wilkow	43	Ludzie są dzisiej wszyscy na polu a sieką.
+wx	56069	Dobieszowice	43	Ludzie są dzisiéj wszyscy na polu a sieką.
+wx	56077	Ujazd	43	Ludzie są dziś wszyscy na polu i sieką.
+wx	56086	Rzeczyce	43	[C/B?]i ludzie są dzisiej wszycy na dworze na tym polu _
+wx	56167	Staniszcze Male	43	Ci ludzie są dzisiej wszyjscy na polu i sieczą (sieką).
+wx	56190	Ligota Proszkowska	43	Ludzie są dziesiej na polu i sieką.
+wx	56205	Radonia	43	Ludzie są dzisiaj wszyjscy na Polu.
+wx	56237	Kotorz Wielki	43	Ludzie są wsysce na polu a sieką.
+wx	56247	Pawonkow	43	Ludzie są dzisiéj wszystry na polu i sieką.
+wx	56252	Cieszowa	43	Ludzie są dzisiej wszysey na polu i sieką.
+wx	56257	Zieliniec	43	Wsyscy ludzie są dzisiej na polu a sieką.
+wx	56269	Debiniec	43	Ludzié są dzisiej wszyscy na polu a sieką.
+wx	56274	Wedrynia	43	Ludzie są dzisiej wszysey na polu i sieką.
+wx	56338	Frydek	43	Ludzie są dzi iej wszysćiy na polu i sieka.
+wx	56349	Pielgrzymowice	43	Ludzie są dziśo wszyjscy na polu i sieką.
+wx	56375	Nieboczowy	43	Ludzie sóm dziśi wszójscy na dworze na polu i śieczóm.
+wx	56381	Swierklany Dolne	43	Ludzie są dzisiok wszyscy na dworze na polu a sieką.
+wx	56539	Gieralcice	43	Ludzie dzisiay wszyszscy na polu są i sieką.
+wx	56549	Borki Wielkie	43	[C/B?]i ludzie są dzisiaj wszyscy na polu i sieką.
+wx	56576	Kamien Slaski	43	Ci ludzie sa dsisiaj wszysczy na polu a siec[i?]a.
+wx	56580	Strzelce Opolskie	43	Ludzie są dzisiaj wszysey na polu i sieką.
+wx	56600	Tarnowskie Góry	43	Ludzie wszyjsey są na dworze na polu i sieką.
+wx	56650	Bujaków	43	Dzisiaj są wszyszey ludzie na polu i sieczą.
+wx	56681	Suszec	43	Ludzie są dziś wszyzy na polu i sieką.
+wx	56761	Mgowo	43	Ludzie są dzisiaj (dziś) wszystkie na polu i (sieką)tną.
+wx	56850	Lekarty	43	Ted ludzie sa wszytkie na polu i sieka.
+wx	56861	Lewald Wielki	43	Ludzie sa dziszay wszisey na polu i sieko. 
+wx	56870	Januszkowo	43	Ludzie sa dzisay wsiscy na polu i sieka. 
+wx	56877	Zimna Woda	43	Ludzie sa dzisai wszysci na polu i seko
+wx	56884	Roklas	43	Ludzie so dzis fsysey na polu i sleko.
+wx	56897	Lipowiec	43	Ludzie so dzisai wszisei napolu i zniewuio
+wx	56903	Zawojki	43	Ludze so wsisci dzisai na Polu io [F?]rawesieko.
+wx	56916	Slawka Mala	43	Dzyszay zo wszystke lu dze na polu i szeko.
+wx	56953	Baranowo	43	Ludze so wsysiy na polu i sieko
+xy	56956	Macice	43	Dzisay wsisci ludzie na polu i sieko.
+xy	56963	Narzym	43	Ludzie sa dziszaj wszysiy na polu i sieka.
+xy	56966	Napierki	43	Ludze so dzisai wsiszi na polu i sno.
+xy	56975	Mierki	43	Dzisiay sa wszystkie ludzie na polu i sieka. 
+xy	56979	Butryny	43	Ludzi dzis sa wszystkie na olu i sieka.
+xy	56994	Jerutki	43	Ludze[c?]sa dzysaj wszijsziy nad worzu, napolu i zno.
+xy	57047	Nowy Dwor	43	Dzisieiy ha [whzyhzazy?] ludzie na polu i sieka.
+xy	57066	Wysoki Grad	43	Dzisiay sa ludzie wszystkie na polu i zniwuio.
+xy	57070	Pogobie Srednie	43	Ludzie sa dzisia[d?] wsys[cz?]y na polu i sieko.
+xy	57074	Lipnicken (Lipniki)	43	Ludzie dziś wsizstke na polu i śeko.
+xy	-57081	Klebark Wielki	43	Ludzie są dzis wszyṡe[i?] na polu i sieką (koszą).
+xy	57106	Rybno	43	Ludzie dzis wszyscy na polu i zna. 
+xy	57168	Saplaty	43	Ludzie sza wszyszczy dziszay na polu szieka.
+xy	57181	Krutyn	43	Ludsihe dschischag wsytke na polu scheko
+xy	57183	Zdory	43	Whzystkie ladzie hza na polu i sieko
+xy	57186	Ruda	43	Ludzi driziaj szo wszyske na polu i sieko.
+xy	57191	Dybowo	43	Ludzie są wszysćij dzcsiaj na polu i sieką.
+xy	57203	Dlugosze	43	Ludzie szo dzisai wszyscy na polu i koszo.
+xy	57219	Sulimy	43	Ludzie so dzijs whzijstcij na polu i szeko
+xy	57232	Wejdyki	43	Ludzie dzis szo na polu i tno.
+xy	57258	Wilkasy	43	Ludzie sa dzysiaj wsyslkie na dworzin na polu i kosza.
+xy	57275	Czerwonka	43	Dzyszoj so wszystkie ludzie na polu i szeko.
+xy	57298	Zastruzne	43	Ludzie so dzis wszyszczy na polu i sieka.
+xy	57304	Skomack Wielki	43	Ludzie sa dzisay whzyszcy na dworzu i sieka.
+xy	57318	Kile	43	Ludzie dris wsystkie na dwo[niu?] na hwlu i kohzo. 
+xy	57321	Prawdziska	43	Ludze so wsisci na polu dzisay i seco.
+xy	57340	Mosina	43	Ludzie som dziś wszyscy na polu i sieką.
+xy	57348	Bnin	43	Ludzie są dzisiaj wszyscy na polu i siekom (sieką). 
+xy	57379	Binkowo	43	Ludzie wszyscy som dzisio w polu i siekom.
+xy	57381	Kolniczki	43	Dzisio są wszyscy ludzie na polu i sieką.
+xy	57394	Januszkowo	43	Ludzie są dzisiej wszyscy chet na polu i sieką.
+xy	57406	Dabrowka Ludomska	43	Ludzie som dzisio wszyscy na polu i siekąm.
+xy	57407	Wiecanowo	43	Ludzie są dzisiaj wszyscy na polu i sieką.
+xy	57397	NA	43	(nicht transliteriert)
+xy	55528	Słone	44	Lidi jsou všecky dnes na poli a sečou.
+xy	56290	Groß Hoschütz (Velke Hostice)	44	Lude su dneskaj wssici na polu a sseču.
+xy	56344	Ellgoth-Hultschin (Ostrava-Lhotka)	44	Lide jsau dnes wssecy na polu a sseču.
+xy	44317	Zell-Pfarre	45	Ld so ns vs tone na pul pa sičejo.
+xy	I125a	Heille	100	Də mḕnsə (lao) zun vandōāgə alləmōālə buutn op 't lant an 't mōājə.
+xy	I140p	Axel	100	De mênschen zien vandàag allemaa buten op het land an't maaien
+xy	I103p	Cadzand	100	D’èrbereis zien (’t Volk is) vandage allemale buten op ’t land an ’t maaien.
+xy	I110a	Slijkplaat	100	D'erbeiers zīn vandaoge allemaol buten op 't land an 't maoien
+xy	I095p	Hoedekenskerke	100	de lui bin vandaege ōllemille buuten op 't land an 't maaien
+xy	I101p	Krabbendijke	100	De leu bin vandaege allemaele buten op t land an t moaien
+xy	I058p	Westkapelle	100	də mềnsən bĭ̀n vằndêgə ồləmêlə bū́tən ŏ̀p t lằŋt ằn t mồjən
+xy	I062a	Serooskerke	100	ze b{e/i}n van deage alle maelle ne de noek ge maaie
+xy	I048p	Colijnsplaat	100	də me̯sə* bin ôləmêlə vandêgə ŏp tlant ŏm tə mō̆iən**
+xy	I055p	Sint Annaland	100	De vinters bin vandège ao*llemè buten op 't land an't mao*ien
+xy	K173a	Kruisland	100	De meense zijn vandâôg aamâôl op 't laand aan 't maaien
+xy	K155p	Zevenbergen	100	Də mḕnsə zijn vandaōg alləmaōl buitən op ət lāānt aŏnt maaiə
+xy	K162a	Oosteind	100	Də mēēsə zen vandōāg alləmōāl būītən op ət laand ŏăn 't maajə.
+xy	I032p	Burgh-Haamstede	100	Ze binnen vandaehe oomae buten op 't land an 't moaien
+xy	I031a	Scharendijke	100	't Volk is vandaege oalemaele bute op 't land an 't maoien
+xy	I023p	Dirksland	100	die lui binne vandaege allemaele buuten op et land an er maoien
+xy	K086p	Zuid-Beijerland	100	de loi zàijn vandēg allemel boite op 't land an 't maaie(n)
+xy	K093p	'S-Gravendeel	100	Də mȩsə zijn vandæg alləmæ̆l buitə op 't land an 't maojə.
+xy	K101a	Nieuwendijk	100	De miense zijn vandaag allemaol buiten ŏep tlaand aon t maaie
+xy	I008p	Rockanje	100	De lui binne vandaag allemaal buten op 't land an 't maoie.
+xy	K042a	Vlaardingen	100	De lui benne vandaag allemaal buiten op et land aan 't maaien.
+xy	K012p	Ouderkerk Aan den Ijssel	100	De lui benne vandaèg allemaal buite op et land aan 't mâoie.
+xy	K022p	Willige Langerak	100	Die lui zijn vandaog allemaol buiten op het land aan 't mijen.
+xy	D005p	Den Haag	100	't Folk is fandāX aləmāl bœtə op 't lant an't mājə
+xy	E179p	Zwammerdam	100	De lui benne vandaag allemaal buiten op et land an't maaie
+xy	E181p	Zegveld	100	Də lui zijn vandā́x ằlləmā́l buitə ŏ̀p 't lằnt ā́n (ằn) 't mā́jə
+xy	E133p	Katwijk Aan Zee	100	Də mĕ̀nsə bĕ̀nt vằndêg ằləgêr bu̱itə ŏ̀p ət lằnt ằnət mêjə.
+xy	E138b	Abbenes	100	Het hêle volk is v(an)daag op 't land an 't maaien
+xy	E147a	De Kwakel	100	de manne (knechten) zijn vandaag allemaal buiten op 't land aan 't maaien
+xy	E080a	Velsen	100	De lui sijn fandaag allemaal buite op't land an't maaie
+xy	E086p	Zaandam	100	De loi benne vandaag allegaar boite op ut land an't māie.
+xy	E041p	Egmond Aan Zee	100	De loi benne vendaeg allegaer boite op et langt an et maaie
+xy	E047a	Stompetoren	100	Ze benne vandaag allemaal (of "allegaar") buite in 't land an 't maaie
+xy	E010p	Sint Maarten	100	De mense ben(ne) vandaag allegaar buiten op 't land an 't maie.
+xy	E005p	Westerland	100	De lui bin vandaag allemaal buten op 't langd an 't maoien.
+xy	A009p	De Waal	100	De leu benne fòndaag allemaal bute op 't lònde òn 't maaie.
+xy	K218p	Bladel	100	De luij zen vandoagh chelèk op 't lant oan 't maaie.
+xy	K214p	Lage Mierde	100	De lui zen vendaog allemoal buiten op 't land oan 't maoien
+xy	K165p	Udenhout	100	't Volk is vandaog ammol buiten opt laand aŏn 't mḕje
+xy	K104a	Herwijnen	100	De minse zijn vandoag allemoal buiten op 't laand oan 't maaie
+xy	K035p	Hei-En Boeicop	100	De kerls zijn vandaag allemaal buiten op ut land aan ut maaien
+xy	E192p	Utrecht	100	De minse zijn (binne) vāndââg āllemââl op ut land an ut mââie
+xy	E124p	Ankeveen	100	Ze zijn vandoag allemoal druk an 't moaie op 't land
+xy	E091p	Monnickendam	100	də leu sein fədaag altəmaal buitə op 't land aan 't maa(ie)ə
+xy	E058p	Hoorn	100	De minsche ("lui" wordt heel weinig gebruikt) zijn fendaag allemaal buite op het land an 't maaie.
+xy	E031a	Oostwoud	100	Zə bĭ̀nnə vằndā́g ằlləgā́r ŏ̀p 't lằnd ằn 't mā́jən.
+xy	E003a	Den Oever	100	de menske binne ven daag allegaar buuten op et langd an et moaie
+xy	Q095p	Maastricht	100	’t Volk is vandaog allemaol boete op ’t land aon ’t meje.
+xy	L281p	Borkel	100	De luij zen vandoag allemàl op 't land aan 't sneije
+xy	L226p	Woensel	100	Ons folk is fandāāg alləmŏăl op ət lāānt ŏăn 't mḕjə
+xy	L177c	Middelrode	100	De minse zèn vandaag amol bòte op 't laand on 't mèjen
+xy	L093p	Lith	100	Də minsə zijn vandaag alləmoăl op ət lant oăn't mḕjə (bad)
+xy	L003p	Maurik	100	də lœi zεin vɑnda:x ɑləmɔ:l bœytə ɔp ət lɑ:nt an ət mɑ:jə
+xy	F165p	Amersfoort	100	De luie bin vandṑg ā́llemṑl buute op tlā́nd ằn t meie.
+xy	F121p	Bunschoten-Spakenburg	100	de luu(j) binnen vandaog allemaal buten op het langd an h't meiën
+xy	E040a	Venhuizen	100	De lui benne vundaag allegaar buiten op het land an het maaien
+xy	E040p	Enkhuizen	100	de lui binne vandaag allemaal buuten op 'et land an ut maaie
+xy	A001p	Midsland	100	De lui ben vandaag allegaan buuten op het land an 't maaien
+xy	Q102p	Sint Antoniusbank	100	de Luj zīn vandaag allemaol bōēte op 't lānt aan 't mejje
+xy	L318p	Stramproy	100	Də luu zeen vandaach alləmaol op 't lantj aan 't meijə
+xy	L288b	Laar	100	də lŭ̀j zḗn vằndā́g ằmmoal boetə ŏ̀p 't lằnt ā́n_'t mĕ̀jə
+xy	L237p	Helmond	100	De lui zing vandaag allemol buijten op 't land an 't meijen.
+yz	L157a	Oventje	100	De lui zeeng vandaag allemol buit op 't laond an 't măien.
+yz	L102p	Ravenstein	100	də minsə zen vandaog aləmol boeytənopət lānt āntmêi̯ə
+yz	L010p	Wageningen	100	də loèi̯ zin vandāg aləmaol bòeytə(y+a.c.) obət land aonət mài̯ə
+yz	F170p	Barneveld	100	De luu/minsen bin vandaag allemoal op ut laand an 't meijen.
+yz	F124p	Putten	100	də luu bin vandaag alemaol opət lānt an t meiən
+yz	F077p	Urk	100	De leujen binnen vandage op ət laand aan 't meien.
+yz	B046a	Minnertsga	100	De ljue binne hjoed allegear' yn 't lân oan 't meanen.
+yz	L290p	Panningen	100	Dǝ lœ̀[ ̯̆?] zīn vandaog alǝmaol̊ butǝ op ǝt laŋt ant mê[ ̯̆?]ǝ
+yz	L211p	Leunen	100	't-Folk is-fandaag allemól bŭute-n-óp 't-feld án 't mɛ̄ie.
+yz	L116p	Beek	100	də minsə siĕn fandoāg alləmoăl buŭtə op ət lāānd oăn 't mḕjə
+yz	L023p	Arnhem	100	Də minsə sin fandoāg alləmoāl buūtən op 't lant ant moāiə
+yz	F173p	Hoenderloo	100	De luu sìn vandò:g alləmò:l butən op 't land an 't meiən.
+yz	F128p	Vierhouten	100	De manlu bin vanda̱a̱ge allema̱o̱le buutn op 't laand oan 't mèjn
+yz	F102p	Oldebroek	100	De luu (manluu, het volk) bint vandage allemaole buuten op 't laand an't meien.
+yz	F079p	Ens	100	De meensen binnen vandoage allemäl buiten op et laand aant mäjen.
+yz	F052p	Kuinre	100	De minz'n bin vandage allemoale buten op 't land an 't mei'n
+yz	B002p	Nes	100	De lui binne vandaag allemaal buten op het lân aan het maaien
+yz	F207p	Drempt	100	de luu bunt vandage allemaole buuten op 't land an 't mei-jen
+yz	F179p	Zutphen	100	Ze bint vandage allemoal buuten op 't land an 't mêien (maaien)
+yz	F132p	Diepenveen	100	De lu sind vandage allemaol buten op 't land an 't maeien.
+yz	F106p	Windesheim	100	de luu bint vandage allemaal op 't land oan 't mei-en.
+yz	F086p	Rouveen	100	't fòlk ìs vandāgə àləmṑlə būt'n òp 't lānt ànt' mēj'n
+yz	F060p	Steenwijk	100	De luud'n binn'n vandège allemaole bu(u)ten op 't laant an'tmèjen
+yz	F021p	Oldeberkoop	100	De luden ben vandeage allemoale buuten op et laand an het mi-jja.
+yz	G279a	Zieuwent	100	də lēū bunt fandagə alləmôâlə bŏĕtən op 't lant aan 't mḗjṇ
+yz	G246p	Lochem	100	de: lø: bint fanda:gə aləmao:lə bytn̥ ɔp 't land'an 't mɛ:jn̥.
+yz	G197p	Holten	100	De leu zeent vandaage almòòle boetn op 't laant an 't meejn
+yz	G139a	Arriën	100	de luu (zint, bint) vandage allemoale buut'n op 't lāānd an 't meien
+yz	G091d	Linde	100	de luu bint vandagə alləmaole naor tlaant hen mei-jn
+yz	G024p	Dwingeloo	100	De lu'j bint vandège allemoalə buut'n op 't laand an 't meej'n
+yz	C145p	Zevenhuizen	100	De luu/'t Volk binn'n vandoag allemoal op 't laand an 't meien.
+yz	C063p	Oldehove	100	alle minsken binnen vandoag buuten op't laand aan 't maaien
+yz	C023a	Hornhuizen	100	Mins'n bin'n vandoag ālmoal boet'n op 't laand aan 't zicht'n
+yz	G257p	Haaksbergen	100	de leu bunt vandage allemaole boet(e)n op 't laand an 't mèj(e)n
+yz	G173p	Almelo	100	De leu zint vandage allemaole boeten op 't land an 't mèjen
+yz	G094p	Gramsbergen	100	de luu bint vandeage allemoale op 't laand an 't meien
+yz	G031p	Orvelte	100	De menz'n bint vandaag allemaol boeten op 't laand an 't meij'n
+yz	G007p	Rolde	100	D'luu zind vandoag aalmoal (boetn) op 't laand an 't mè(ie)'n
+yz	C148a	Glimmen	100	Də lum (mênsk'n) bin văn doag ăltmoal boet'n op 't lă̄ă̄nd ăn't maai'n.
+yz	C070a	Sint Annen	100	Zie bin vandoag aalmoal boetn op 't laand aan 't maaien.
+yz	C001b	'T Lage Van De Weg	100	't Volk is vandoag al moal boet'n op 't laand aan 't maai'n
+yz	G079a	Amsterdamscheveld	100	də lù bennən vandaagə allemṑl butən op 't laand aan 't meiən.
+yz	G058p	Emmen	100	De luu zint vandaag almaol boet'n op 't laand an 't meien.
+yz	G012a	Nieuw-Buinen	100	de luu binn'n vandaage almaol buut'n op 't laand aan 't maai'n
+yz	C156p	Muntendam	100	De luu binn vandoage aalmoal boetn op 't laand aan 't moaien
+yz	C081p	Weiwerd	100	De manshn bin'n vandö́g aal mó̄l (boet'n) op (nó̄r) 't laand aan 't maai'n.
+yz	C042p	Spijk	100	Manluu ben'n vandoag allemoal boeten op 't laand aan 't maaien
+yz	C165p	Bellingwolde	100	de luu binn vandȯage aalmȯal boetn ȯp t laant aan t maainn
+yz	G285p	Meddo	100	De leu bunt vandâage allemaôle boet’n op ‚t land ant meei-j’n.
+yz	K189p	Essen	100	De meensche zèn v'ndoag allemoal buite-n-op 't felt oon 't maaië.
+yz	P133a	Terlanen	100	De minse zijn vandooëg allemooil boete op t feld en main
+yz	K191p	Meerle	100	De meensen zen vandaog allemaol buite op t veld aan t maaien
+yz	K234p	Wechelderzande	100	də bu:rə ze̞n vanda:χ aləma:l uptfe̞lt o:nt me̞:ə
+yz	K305p	Olen	100	Də boerən zèn vandaog alləgaa ont mêən.
+yz	P025p	Aarschot	100	dǝ me̩nsǝ zän (zęn) vandɔȫg alǝmɔȫ up t fält ɔȫn(...?) mŏă
+yz	P154p	Outgaarden	100	də mensə ze̜n dǣn dāx a(lə)mọəl upət fæltantmọəjə
+yz	K196p	Poppel	100	Ze zÿ̆n vandaog allemaal bùiten op 't veld ('t veld in) om te maeien; of en ze zÿ̆n aan 't maeien
+yz	K241p	Retie	100	də meinsn zä vəndɔ̄g aləgɔər op 't fe̜lt ɔn ʃme̜iən.
+yz	K314a	Gompel	100	də mɛensən ze̜ vandō̜g aləmō̜l bō̜tən op t fɛelt ō̜n t mē̜j(...)
+yz	P047p	Loksbergen	100	De minse zèn vandaag allemōəl buite œ̆p 't felt en zèn en 't mōə.
+yz	P174p	Velm	100	De minse zen vandoëg allemoël te baöete op 't veld en an't meië.
+yz	L353p	Eksel	100	De minsen zien vandaag allemaol in t veld aan t ma͡ie
+yz	Q001p	Zonhoven	100	də minsə zē̜jə vand[??]x aləmōəl bōətən op t fē̜lt åən d mē̜ən.
+yz	Q079p	Guigoven	100	də minsə zen høyn åməl bõətən op ət fe̜lt e̜nt mẽ̜ə.
+yz	L360p	Bree	100	də minsə (niet lieden, lui) zeˑn vandaˑχ alləmɔˑl ɔptfeltj aˑn't mejə.
+yz	L417p	As	100	Alleman ès vandaag boeten͡op t veld om te meije (beter: boeten in de bèm)
+yz	Q253p	Montzen	100	dǝ luuj zönt huuj alǝmōl bōetǝs ŏopǝ vèlt ant meejǝnǝ
+yz	O009p	Gottem	100	De menschen zyn vandaage allemaale buiten en se zyn aan 't maaien.
+yz	O182p	Volkegem	100	De mens'n zin vandoë (vandogge) ollemolle buit'n ip 't land om te moëjn (beeze(g) mee moëjn).
+yz	I163p	Oosteeklo	100	də mænsxən zɛjn van[oə?] amoələ ɛn dən akərə ɛn an tm[oəə̃?]
+yz	I243p	Destelbergen	100	De menschen zyn vanduige allemoal buiten op 't land in ze moaien allemoal
+yz	O112p	Elene	100	Iedereen, alleman eis vandake oub de kautere i ze zijn aan't pikken. mouən (mouen).menschen = meinschen
+yz	I261p	Appels	100	De menchen (fr. ch) zè vandâog allemôal buiten op 't veldj ont moôien
+yz	O149p	Iddergem	100	dəmənschənzɛvandɔgalləməlbɔtənɔp't[w?]elt ɔn 't mɔən.
+yz	O275p	Herne	100	Dǝmĩs'kǝzē̜våndǫǝɣålǝmuǝbǫǝt'nǫptfẹl'duǝntmu(ǝ)n.
+yz	I178p	Beveren	100	De meinsen zÿ vandoug allemoul buiten op't veild en zÿn am moin.
+yz	I268a	Kalfort	100	dǝ būrǝn zȩn vandāɣ alǝmā bǫǝtǝn up t fẹlt ānt mǫ
+yz	O178a	Molenbeek-Saint-Jean	100	De meense zein vandoeg allemo oppet vèld on 't mooi-je.
+yz	P198p	Sint-Genesius-Rode	100	De minse zen vandaog allemoe buiten op t velt veu te muin.
+yz	55045/H051p	Wulpen	100	də mæənsxən zi ̃ vanda:galəma:lə bytən ɔptla ̃t bezəgmɛmɔjə̃.
+yz	55005/N024p	Westvleteren	100	də mɛ̃sxən zĩ vanda:gə ɔl bytən ø̜p 't væld ɔm tə mɔĩ.
+yz	N116p	Loker	100	də mɛ̃s̩ŋ zĩ vãdɔwagə o̜l o̜p də ste̜kŋ uŋm tə pæ̈kŋ
+yz	H016p	Oostende	100	də mæ̂n[sx?]ən zin vondogə ɔlə gɔrəɔpt vælt æn ɔs mɔjən
+yz	55036/H061p	Koekelare	100	də mænsxən zin vandɔəgɔl bytn antmɔjn.
+yz	55022	Houthulst	100	De menschen zien vandage al up't land om te maoïen.
+yz	N130p	Wervik	100	De mainsch-n zien vondaege aeltienemaele buiten èp het lou en ze maeien.
+yz	H005p	Uitkerke	100	De Menschen zien vandaoge allemaolle buuten op 't land en an 't ma[?]ien.
+yz	55044/H068p	Loppem	100	də mæns'n zin vandɔəg alemɔlə byt'n optlant ant mɔj'n.
+yz	N041p	Pittem	100	də me̜nsəŋ zen vandɔ̄gə ɔləmōlə bytən e̜ptlant fōə tə mɔ̄eəŋ.
+yz	55023/N141p	Kortrijk	100	də menskən zin vandɔ̄g ōl bytn øp t vǟld (t lan) ant mɔ̄jn.
+yz	K245p	Deurne	100	De mensə zen vandôg allemôl buitə oep 't felt aan 't meeien.
+yz	K332p	Onze-Lieve-Vrouw-Waver	100	De mènse zén vand[o/a?]ug allegaae boaten oep 't vélt ann te moae.
+yz	P018p	Kampenhout	100	De mense zen vandoug allemoul boiten oep 't veld en oun 't moo(...)
+yz	47114	Aarö (Årø)	12	E Folk æ aalsammell dæeue aa e Mark aa hóest.
+yz	56462	Babow	41	Te luze ßu zinßa schi[c?]kne na tom polu a seku.
+yz	53549	Zon	43	Wszyscy ludzie są dzioiaj na dworze w polu i sieką.
+yz	53561	Myslowice	43	Ludzie są wszyscy na polu i sieką.
+yz	43859	Schachendorf	46	Ljudi su si vani na polju i kosu. 

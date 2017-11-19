@@ -1,0 +1,343 @@
+title: Extracting order features of Wenker sentence 9
+author: Michael Cysouw
+date: '2017-10-03'
+original_data: WS9_syntax.txt column 5, presence coded as "X"
+recoding:
+# ==========
+- recodingOf:
+  - gewesen3
+  - gewesen7
+  attribute: tense BIN GEWESEN
+  values:
+    1: ich WAR bei der Frau
+    2: ich BIN bei der Frau GEWESEN
+    3: ich BIN GEWESEN bei der Frau
+  link:
+    '- + -': 2
+    '- + X': 1
+    NA + NA: 0
+    X + -: 3
+  originalFrequency:
+    '- + -': 59
+    '- + X': 2241
+    NA + NA: 192
+    X + -: 6
+  comments: ~
+# ==========
+- recodingOf: und8
+  attribute: first conjunction
+  values:
+    1: ich bin gewesen, habe gesagt
+    2: ich bin gewesen UND habe gesagt
+  link:
+    '-': 1
+    X: 2
+  originalFrequency:
+    '-': 19
+    X: 2287
+  comments: ~
+# ==========
+- recodingOf: ich9
+  attribute: repetition ICH
+  values:
+    1: ich bin gewesen und habe gesagt
+    2: ich bin gewesen und ICH habe gesagt
+  link:
+    '-': 1
+    X: 2
+  originalFrequency:
+    '-': 2196
+    X: 110
+  comments: ~
+# ==========
+- recodingOf:
+  - es11
+  - es14
+  attribute: order ES IHR
+  values:
+    1: ich habe ES IHR gesagt
+    2: ich habe IHR ES gesagt
+    3: ich habe ES IHR ES gesagt
+  link:
+    '- + -': 0
+    '- + X': 2
+    NA + NA: 0
+    X + -: 1
+    X + X: 3
+  originalFrequency:
+    '- + -': 127
+    '- + X': 606
+    NA + NA: 192
+    X + -: 1565
+    X + X: 8
+  comments: ~
+# ==========
+- recodingOf:
+  - zu12
+  - ihr13
+  attribute: preposition ZU IHR
+  values:
+    1: ich habe es ihr gesagt
+    2: ich habe es ZU ihr gesagt
+  link:
+    '- + -': 0
+    '- + X': 1
+    NA + NA: 0
+    X + X: 2
+  originalFrequency:
+    '- + -': 35
+    '- + X': 2152
+    NA + NA: 192
+    X + X: 119
+  comments: ~
+# ==========
+- recodingOf: und16
+  attribute: second conjunction
+  values:
+    1: ich habe gesagt, sie hat gesagt
+    2: ich habe gesagt UND sie hat gesagt
+  link:
+    '-': 1
+    X: 2
+  originalFrequency:
+    '-': 247
+    X: 2059
+  comments: ~
+# ==========
+- recodingOf:
+  - da17
+  - sie18
+  attribute: connector DA
+  values:
+    1: sie hat gesagt
+    2: DA hat sie gesagt
+  link:
+    '- + -': 0
+    '- + X': 1
+    NA + NA: 0
+    X + -: 2
+  originalFrequency:
+    '- + -': 72
+    '- + X': 2195
+    NA + NA: 192
+    X + -: 39
+  comments: ~
+# ==========
+- recodingOf:
+  - hat19
+  - gesagt21
+  attribute: tense HAT GESAGT
+  values:
+    1: sie SAGTE
+    2: sie HAT GESAGT
+  link:
+    '- + -': 0
+    '- + X': 1
+    NA + NA: 0
+    X + X: 2
+  originalFrequency:
+    '- + -': 61
+    '- + X': 1489
+    NA + NA: 192
+    X + X: 756
+  comments: ~
+# ==========
+- recodingOf: dass23
+  attribute: complementizer DASS
+  values:
+    1: sie sagte, sie will
+    2: sie sagte, DASS sie will
+  link:
+    '-': 1
+    X: 2
+  originalFrequency:
+    '-': 2092
+    X: 214
+  comments: ~
+# ==========
+- recodingOf:
+  - hat25
+  - sagen28
+  - sagen37
+  - hat39
+  attribute: tense HAT WOLLEN SAGEN
+  values:
+    1: sie will sagen
+    2: sie HAT wollen sagen
+  link:
+    '- + - + - + -': 0
+    '- + - + X + -': 1
+    '- + - + X + X': 2
+    '- + X + - + -': 1
+    NA + NA + NA + NA: 0
+    X + - + X + -: 2
+  originalFrequency:
+    '- + - + - + -': 2
+    '- + - + X + -': 2225
+    '- + - + X + X': 7
+    '- + X + - + -': 28
+    NA + NA + NA + NA: 192
+    X + - + X + -: 44
+  comments: ~
+# ==========
+- recodingOf:
+  - will27
+  - sagen28
+  - will36
+  - sagen37
+  - will38
+  attribute: order WILL SAGEN
+  values:
+    1: sie WILL SAGEN
+    2: sie SAGEN WILL
+  link:
+    '- + - + - + - + -': 0
+    '- + - + - + X + -': 0
+    '- + - + - + X + X': 2
+    '- + - + X + X + -': 1
+    '- + X + - + - + -': 0
+    NA + NA + NA + NA + NA: 0
+    X + - + - + - + -: 0
+    X + - + - + X + -: 1
+    X + X + - + - + -: 1
+  originalFrequency:
+    '- + - + - + - + -': 1
+    '- + - + - + X + -': 13
+    '- + - + - + X + X': 87
+    '- + - + X + X + -': 140
+    '- + X + - + - + -': 25
+    NA + NA + NA + NA + NA: 192
+    X + - + - + - + -: 1
+    X + - + - + X + -: 2036
+    X + X + - + - + -: 3
+  comments: ~
+# ==========
+- recodingOf:
+  - will27
+  - sagen28
+  - will36
+  - sagen37
+  - will38
+  attribute: absence WILL sagen
+  values:
+    1: sie WILL sagen
+    2: sie sagt
+  link:
+    '- + - + - + - + -': 0
+    '- + - + - + X + -': 2
+    '- + - + - + X + X': 1
+    '- + - + X + X + -': 1
+    '- + X + - + - + -': 2
+    NA + NA + NA + NA + NA: 0
+    X + - + - + - + -: 0
+    X + - + - + X + -: 1
+    X + X + - + - + -: 1
+  originalFrequency:
+    '- + - + - + - + -': 1
+    '- + - + - + X + -': 13
+    '- + - + - + X + X': 87
+    '- + - + X + X + -': 140
+    '- + X + - + - + -': 25
+    NA + NA + NA + NA + NA: 192
+    X + - + - + - + -: 1
+    X + - + - + X + -: 2036
+    X + X + - + - + -: 3
+  comments: ~
+# ==========
+- recodingOf:
+  - es29
+  - es34
+  attribute: order ES IHRE TOCHTER
+  values:
+    1: sie will ES ihrer Tochter sagen
+    2: sie will ihrer Tochter ES sagen
+  link:
+    '- + -': 0
+    '- + X': 2
+    NA + NA: 0
+    X + -: 1
+    X + X: 0
+  originalFrequency:
+    '- + -': 43
+    '- + X': 45
+    NA + NA: 192
+    X + -: 2217
+    X + X: 1
+  comments: ~
+# ==========
+- recodingOf:
+  - auch30
+  - auch35
+  attribute: order AUCH IHRE TOCHTER
+  values:
+    1: sie will es AUCH ihrer Tochter sagen
+    2: sie will es ihrer Tochter AUCH sagen
+  link:
+    '- + -': 0
+    '- + X': 2
+    NA + NA: 0
+    X + -: 1
+    X + X: 0
+  originalFrequency:
+    '- + -': 275
+    '- + X': 224
+    NA + NA: 192
+    X + -: 1800
+    X + X: 7
+  comments: ~
+# ==========
+- recodingOf: zu31
+  attribute: preposition ZU IHRE TOCHTER
+  values:
+    1: sie sagt es ihrer Tochter
+    2: sie sagt es ZU ihrer Tochter
+  link:
+    '-': 1
+    X: 2
+  originalFrequency:
+    '-': 2097
+    X: 209
+  comments: ~
+# ==========
+- recodingOf:
+  - dass23
+  - will27
+  - sagen28
+  - will36
+  - sagen37
+  - will38
+  attribute: interaction DASS WILL
+  values:
+    1: sie sagte, sie WILL sagen
+    2: sie sagte, sie sagen WILL
+    3: sie sagte, DASS sie WILL sagen
+    4: sie sagte, DASS sie sagen WILL
+  link:
+    '- + - + - + - + - + -': 0
+    '- + - + - + - + X + -': 0
+    '- + - + - + - + X + X': 2
+    '- + - + - + X + X + -': 1
+    '- + - + X + - + - + -': 0
+    '- + X + - + - + - + -': 0
+    '- + X + - + - + X + -': 1
+    '- + X + X + - + - + -': 1
+    NA + NA + NA + NA + NA + NA: 0
+    X + - + - + - + X + -: 0
+    X + - + - + - + X + X: 4
+    X + - + - + X + X + -: 3
+    X + X + - + - + X + -: 3
+  originalFrequency:
+    '- + - + - + - + - + -': 1
+    '- + - + - + - + X + -': 3
+    '- + - + - + - + X + X': 20
+    '- + - + - + X + X + -': 8
+    '- + - + X + - + - + -': 25
+    '- + X + - + - + - + -': 1
+    '- + X + - + - + X + -': 2031
+    '- + X + X + - + - + -': 3
+    NA + NA + NA + NA + NA + NA: 192
+    X + - + - + - + X + -: 10
+    X + - + - + - + X + X: 67
+    X + - + - + X + X + -: 132
+    X + X + - + - + X + -: 5
+  comments: ~

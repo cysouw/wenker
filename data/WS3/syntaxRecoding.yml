@@ -1,0 +1,244 @@
+title: Recoding of word order Wenker sentence 3
+author: Michael Cysouw
+date: '2017-10-19'
+original_data: WS3_1syntax.txt
+recoding:
+# ==========
+- recodingOf:
+  - hinein3
+  - hinein7
+  - hinein12
+  attribute: tu hinein
+  values:
+  - tu Kohle in den Ofen
+  - tu HINEIN Kohle in den Ofen
+  - tu Kohle HINEIN in den Ofen
+  - tu Kohe in den Ofen HINEIN
+  link: [1,4,3,0,0,2,0,0]
+  originalFrequency:
+    '- + - + -': 2066
+    '- + - + X': 165
+    '- + X + -': 62
+    '- + X + X': 1
+    NA + NA + NA: 192
+    X + - + -: 10
+    X + - + X: 1
+    X + X + -: 1
+  comments: ~
+# ==========
+- recodingOf: die5
+  attribute: die kohle
+  values:
+  - Kohle
+  - DIE/EIN Kohle
+  link:
+    '-': 1
+    X: 2
+  originalFrequency:
+    '-': 2271
+    X: 35
+  comments: ~
+# ==========
+- recodingOf:
+  - den9
+  - ofen10
+  attribute: den ofen
+  values:
+  - in DEN Ofen
+  - in Ofen
+  link:
+    '- + -': 0
+    '- + X': 2
+    NA + NA: 0
+    X + X: 1
+  originalFrequency:
+    '- + -': 71
+    '- + X': 747
+    NA + NA: 192
+    X + X: 1488
+  comments: ~
+# ==========
+- recodingOf: einlegen11
+  attribute: alternative verb
+  values:
+  - absence
+  - presence (tu Kohle einlegen)
+  link:
+    '-': 1
+    X: 2
+  originalFrequency:
+    '-': 2292
+    X: 14
+  comments: ~
+# ==========
+- recodingOf: etwas4
+  attribute: presence etwas
+  values:
+  - tu Kohle in den Ofen
+  - tu ETWAS Kohle in den Ofen
+  link: [1,2]
+  originalFrequency:
+    '-': 2155
+    X: 151
+  comments: ~
+# ==========
+- recodingOf:
+  - die16
+  - Milch17
+  attribute: die milch
+  values:
+  - DIE Milch
+  - Milch
+  link:
+    '- + -': 0
+    '- + X': 2
+    NA + NA: 0
+    X + X: 1
+  originalFrequency:
+    '- + -': 2
+    '- + X': 75
+    NA + NA: 192
+    X + X: 2229
+  comments: ~
+# ==========
+- recodingOf:
+  - kochen15
+  - kochen25
+  attribute: position kochen
+  values:
+  - dass die Milch KOCHT
+  - dann KOCHT die Milch
+  link: [0,1,0,2]
+  originalFrequency:
+    '- + -': 6
+    '- + X': 2291
+    NA + NA: 192
+    X + -: 9
+  comments: ~
+# ==========
+- recodingOf:
+  - zu24
+  - fängt21
+  - anfängt23
+  - fängt26
+  - anfängt27
+  attribute: absence zu
+  values:
+  - anfängt zu kochen
+  - anfängt kochen
+  link:
+    '- + - + - + - + -': 0
+    '- + - + - + - + X': 2
+    '- + - + - + X + -': 2
+    '- + - + X + - + -': 2
+    '- + X + - + - + -': 2
+    NA + NA + NA + NA + NA: 0
+    X + - + - + - + -: 0
+    X + - + - + - + X: 1
+    X + - + - + X + -: 1
+    X + - + X + - + -: 1
+    X + X + - + - + -: 1
+  originalFrequency:
+    '- + - + - + - + -': 428
+    '- + - + - + - + X': 14
+    '- + - + - + X + -': 4
+    '- + - + X + - + -': 70
+    '- + X + - + - + -': 5
+    NA + NA + NA + NA + NA: 192
+    X + - + - + - + -: 48
+    X + - + - + - + X: 409
+    X + - + - + X + -: 981
+    X + - + X + - + -: 345
+    X + X + - + - + -: 2
+  comments: ~
+# ==========
+- recodingOf:
+  - fängt21
+  - an22
+  - anfängt23
+  - fängt26
+  - anfängt27
+  attribute: anfangen
+  values:
+    1: F̈ÄNGT AN zu kochen
+    2: ANFÄNGT zu kochen
+    3: AN zu kochen FÄNGT
+    4: zu kochen ANFÄNGT
+  link:
+    '- + - + - + - + -': 0
+    '- + - + - + - + X': 4
+    '- + - + - + X + -': 0
+    '- + - + X + - + -': 2
+    '- + X + - + - + -': 0
+    '- + X + - + - + X': 0
+    '- + X + - + X + -': 3
+    NA + NA + NA + NA + NA: 0
+    X + X + - + - + -: 1
+  originalFrequency:
+    '- + - + - + - + -': 464
+    '- + - + - + - + X': 417
+    '- + - + - + X + -': 12
+    '- + - + X + - + -': 415
+    '- + X + - + - + -': 12
+    '- + X + - + - + X': 6
+    '- + X + - + X + -': 973
+    NA + NA + NA + NA + NA: 192
+    X + X + - + - + -: 7
+  comments: ~
+# ==========
+- recodingOf:
+  - wird14
+  - kochen15
+  - wird18
+  - wird20
+  - fängt21
+  - anfängt23
+  - kochen25
+  - fängt26
+  - anfängt27
+  - wird28
+  attribute: order verbs
+  values:
+    1: (zu) kochen ANFÄNGT/WIRD
+    2: WIRD/ANFÄNGT (zu) kochen
+  link:
+    '- + - + - + - + - + - + - + - + - + -': 0
+    '- + - + - + - + - + - + X + - + - + -': 0
+    '- + - + - + - + - + - + X + - + - + X': 1
+    '- + - + - + - + - + - + X + - + X + -': 1
+    '- + - + - + - + - + - + X + - + X + X': 1
+    '- + - + - + - + - + - + X + X + - + -': 1
+    '- + - + - + - + - + X + - + - + - + -': 0
+    '- + - + - + - + - + X + X + - + - + -': 2
+    '- + - + - + - + X + - + X + - + - + -': 2
+    '- + - + - + X + - + - + X + - + - + -': 2
+    '- + - + X + - + - + - + X + - + - + -': 2
+    '- + - + X + - + - + - + X + - + - + X': 0
+    '- + - + X + - + - + - + X + - + X + -': 0
+    '- + - + X + X + - + - + X + - + - + -': 1
+    '- + X + - + - + - + - + - + - + - + -': 0
+    '- + X + X + - + - + - + - + - + - + -': 1
+    NA + NA + NA + NA + NA + NA + NA + NA + NA + NA: 0
+    X + - + - + - + - + - + X + - + - + -: 2
+    X + - + - + X + - + - + X + - + - + -: 2
+  originalFrequency:
+    '- + - + - + - + - + - + - + - + - + -': 5
+    '- + - + - + - + - + - + X + - + - + -': 248
+    '- + - + - + - + - + - + X + - + - + X': 89
+    '- + - + - + - + - + - + X + - + X + -': 417
+    '- + - + - + - + - + - + X + - + X + X': 5
+    '- + - + - + - + - + - + X + X + - + -': 985
+    '- + - + - + - + - + X + - + - + - + -': 1
+    '- + - + - + - + - + X + X + - + - + -': 414
+    '- + - + - + - + X + - + X + - + - + -': 7
+    '- + - + - + X + - + - + X + - + - + -': 106
+    '- + - + X + - + - + - + X + - + - + -': 6
+    '- + - + X + - + - + - + X + - + - + X': 1
+    '- + - + X + - + - + - + X + - + X + -': 1
+    '- + - + X + X + - + - + X + - + - + -': 1
+    '- + X + - + - + - + - + - + - + - + -': 8
+    '- + X + X + - + - + - + - + - + - + -': 1
+    NA + NA + NA + NA + NA + NA + NA + NA + NA + NA: 192
+    X + - + - + - + - + - + X + - + - + -: 10
+    X + - + - + X + - + - + X + - + - + -: 1
+  comments: ~

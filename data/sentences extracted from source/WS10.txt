@@ -1,0 +1,2499 @@
+Index	Bogennummer	REDE_Namen	Sprache	WS10::Transliteration WS10
+ab	10029	Ringhuscheid	1	Öch wöllet oh net meh dun!
+ab	10044	Malberg	1	Eich well et och net mir erum dohn.
+ab	1009	Nowy Klukom	1	Ick wi't uck nik ne meh/e wed de do/a.
+ab	1018	Lasko K Choszczna	1	Ick witt ock nimehr weddr doa!
+ab	10215	Pantenburg	1	Ech wöllt och nöt me douen!
+ab	1023	Golin	1	Ik witt' ok ni mehe wedde dohe!
+ab	10230	Beuren	1	Ech well et och net mi dohn!
+ab	10259	Mörsdorf	1	Ech well et net wirra dohn.
+ab	10275	Badenhard	1	Ich well-et ach net me wiere dhun.
+ab	1029	Niekursko	1	Ik wad ok n'ni me'e(r?) wed de dou.
+ab	10300	Welterod	1	Ich wells ach nett me werre doun.
+ab	10315	Bleidenstadt	1	Ich will's aach nitt mih werre dhu(n).
+ab	10335	Espeler	1	Ech will dat o nitt mi hannenahn duhn.
+ab	1035	Stobno	1	Ick wi dat ok ni mehe doho.
+ab	10351	Brandscheid	1	Ech well et och net mer dun.
+ab	10368	Büdesheim	1	Ech wäll et och nätt mēr doun.
+ab	10381	Waldkönigen	1	Ech well et och net mieh wehr dōhn.
+ab	1050	Krostkowo	1	Ik wi dat ek ni wede deue!
+ab	10584	Kalenborn	1	Ech wel äd och kainmol me don.
+ab	10601	Gappenach	1	Ech wel et och net mie wied er dohn.
+ab	10621	Rhens	1	Ech well et uch net mi widder do??
+ab	10649	Attenhausen	1	Äich well's aach nett meh werra dou.
+ab	10663	Heringen	1	Ich well's ach net mih wirer doun.
+ab	10690	Honsfeld	1	Ich well et och net mie wedder dohn!
+ab	10697	Dahlem	1	Ech well et net wie doon.
+ab	10709	Aremberg	1	Ech wel et och met mie don.
+ab	10736	Hohenleimbach	1	Ech well-et net mie dohn.
+ab	10857	Hatzfeld (Eder)	1	Ech well es och net mi werrer duh.
+ab	10974	Haindorf	1	Ich wöll's au net meh wi-er do!
+ab	110	Rozpedziny	1	Ick well et ock nicht mehe weddn dohne.
+ab	11132	Schwarzwald	1	Ech well es a nech miâ wedder thuâ.
+ab	11149	Wipfra	1	Ech wäll's o nech wetter thue.
+ab	11180	Remda	1	Ech wäll's o nech werdder mache.
+ab	11197	Zeutsch	1	Ich wills o nich merre werder thu.
+ab	11212	Breitenhain	1	Ech wölls ā nech mehr wieder thue.
+ab	11230	Burkersdorf	1	Ich wills a nicht mehr wieder thue!
+ab	11252	Seelingstädt	1	Ich will es au nicht wieder thu.
+ab	11262	Seebach	1	Ich wills au nih mih wéder thu.
+ab	1133	Debenke	1	Iksch we dat ok ne wäddä dauä.
+ab	1139	Gliszcz	1	Ÿk wÿ dat ok nÿ meä wäddn daun.
+ab	11467	Boilstädt	1	Ech wälls au nech mehr wäder thue.
+ab	11485	Ingersleben	1	Ech wälls au nech miê wädder dua.
+ab	1150	Czarze	1	Ek well et ok nech mehe wede done.
+ab	11515	Gutendorf	1	Ech wälls o nech wetter thue.
+ab	11539	Kleinschwabhausen	1	Ech wall's og nech mie wädder du.
+ab	11568	Thalbürgel	1	Ich wills och nich mie wetter thu.
+ab	1157	Bielczyny	1	I will s a nimme wieder thoa.
+ab	11586	Bad Köstritz	1	Ich wills āch nich meh widder thuo,
+ab	11607	Lumpzig	1	Ich wills o nich mieh widder thu.
+ab	1162	Sierakowo	1	Oeck we dat ock ne möe wedde daune.
+ab	11645	Gleismuthhausen	1	Ich wills a net wieder thu!
+ab	11673	Mitwitz	1	Ich will's a nimme wide thu.
+ab	11763	Aub	1	Ich wills a niedma wieder thua.
+ab	1178	Sokoliniec	1	Ick witt ok ne mehe wedde doa.
+ab	11805	Seidmannsdorf	1	Ich wills à met mer widder thu.
+ab	11825	Wallenfels	1	Ich will's a numme thu!
+ab	11844	Neudorf	1	E-ich will's a nimmer tho!
+ab	11864	Draisendorf	1	Ich wills a nimmer widder thōn!
+ab	11881	Sohl	1	Ich will's a nimm'r wied'r tua!
+ab	11896	Sülzdorf	1	Ich wills a net widder thu_!
+ab	1192	Debsko	1	Ick witt ok ni mēê wedde doê.
+ab	11927	Bachfeld	1	Ich will's ä nimmer widder thu!
+ab	1197	Plociczno	1	Ick we dat ok ne wedder daun.
+ab	1203	Nakielno	1	Ick wi dat ok ne meh wedda doa.
+ab	12037	Hildburghausen	1	Ich wills a nett widd'r thu.
+ab	12070	Neuenbau	1	Ich wills a nimmer widder thu!
+ab	1208	Wissulke (Wiesiółka)	1	Ick wi'tt ock ni mehe werdde dohö.
+ab	12085	Grumbach	1	Ig will's å nett mer widder thu.
+ab	12104	Frössen	1	E-ich will's ā nimmer weider tho.
+ab	12125	Schwand	1	Ich wills äh nett me wieder tha.
+ab	12148	Kottengrün	1	Ich wills aa nimmer wieder tha!
+ab	1215	Paruszka	1	Ick wah datt ock ni meä wädde dohä.
+ab	12153	Meiningen	1	Ich wills ah nimmer widder thu!
+ab	12167	Altendambach	1	Ich wills ach nät wittör thu.
+ab	12184	Altenfeld	1	Ich wills a net widder thu!
+ab	12341	Rohrbach	1	Yech wiel's a nech mie wedr thu!
+ab	12371	St. Jacob bei Leutenberg	1	Īch will's a nich mehr weder thun!
+ab	12390	Neundorf (bei Schleiz)	1	Öich will's ä nimm'r wöid'r daun!
+ab	12410	Ebersgrün	1	Ich wills aber ēi net wieder thu.
+ab	12428	Roitzschau/Rotschau	1	chwills obr aa nimm'r machn.
+ab	12496	Horsdorf	1	ī' wills a net méh' wiede thu!
+ab	12529	Ködnitz	1	Ich will's a nimer tho.
+ab	12556	Kornbach	1	Ich wills a nimmer tho.
+ab	12572	Habnith	1	Ich wills a nimmea wieda thau!
+ab	12594	Uchenhofen	1	Ich wills ah nicks mer thua.
+ab	12616	Reutersbrunn	1	Ich willst a nex mär thu!
+ab	12656	Weismain	1	Ich will's ober a nimä tho.
+ab	1278	Insko	1	Ik wid't uk nĕ mēĕ wedde dōă.
+ab	1287	Konotop	1	Ick witt ock ne mee wedde doa!
+ab	12876	Lohma	1	Ich will's o nich widder thu (moche).
+ab	12898	Heiersdorf	1	Ich will's ao nich meh wieder thun.
+ab	12921	Sachsenburg	1	Ich will's oh ni wied'r mach'n!
+ab	12942	Rothenfurth	1	Ich will's o nie meh wieder duhn.
+ab	1296	Zabin	1	Ick witt uck ni mehr wedde doha.
+ab	12969	Borlas	1	Ich well's och nech wieder thun.
+ab	13005	Dohna	1	Ich will's oh ni meh widd'r thun!
+ab	13019	Porschdorf	1	Ich wills och nich mehr wieder thun.
+ab	13047	Morgenröthe	1	Ich wells ä nimmer thu.
+ab	13054	Rittersgrün	1	Ich wills ä nimmer wieder thu.
+ab	1315	Kamien	1	Ig wit ug ni mehr wäddä däaun.
+bc	13169	Saupersdorf	1	Ich wills anett meh thu.
+bc	13187	Kühnheide	1	Ich wölls à net wieder máchng (oder: thu).
+bc	13210	Himmelmühle	1	Ich wills a nimmăr wiedăr thuă.
+bc	13226	Rübenau	1	Iig wills a nich mee thu!
+bc	13269	Thurm	1	Ich will es ä nich mähr widder thun.
+bc	13286	Ursprung	1	Ich wills a nich me wieder thu.
+bc	133	Sosnowo	1	Ick wü dat uck nich mea werra daua.
+bc	13317	Dittmannsdorf	1	Ech wells a nech meh wieder thu.
+bc	13340	Grosshartmannsdorf	1	Ich wills o nĭ meh wida duhn.
+bc	13355	Reichenau	1	Ich will's oh ni meh wieder thun.
+bc	13372	Liebenau	1	Ich will's oh ni meh wieder thun!
+bc	1338	Dzidno	1	Ich wi dat ohk ni măjä weddn dähä.
+bc	13529	Wang-Brückenberg	1	Ich wihls nimme wieder macha.
+bc	13543	Pisarzowice	1	Iech wiels au nimme wieder thun.
+bc	13559	Boguszow-Gorce	1	Ich wiels au wedder nimme thun!
+bc	13655	Niederleutersdorf/Leutersdorf	1	Ich wöll s o nö mi machen.
+bc	13678	Rohnau (-)	1	īch will's oh ne mih moachen.
+bc	13700	Rebiszow	1	Ich wiel's au nimme wieder dhun.
+bc	13719	Siedlecin	1	Ich wārs nemmie (wetter nä) macha.
+bc	13727	Myslow	1	Ich wiel's nimmeh wieder thun.
+bc	13745	Jugowa	1	Ich wihl's au ni meh wieder thun.
+bc	13830	Wlodowice	1	Iech wiell's aa nemme wieder thun.
+bc	13869	Biernacice	1	Ich wils salber nimme thun.
+bc	13887	Rzymiany	1	Ich wiel es och nich wieder thun.
+bc	13898	Szadurczyce	1	Ich wils nimme mihr wieder thun.
+bc	13929	Stoszowice	1	Ich wiels au nimme wieder thun.
+bc	13996	Lutomia Gorna	1	Ich wiel's och nimme wieder thun.
+bc	14023	Roztocznik	1	Ich wīls ōch nich wieder thun.
+bc	1403	Dobieszewo	1	Ik willt uk ni werra daua.
+bc	14034	Lipowa	1	Iich wiels ooch nimmer wieder thun.
+bc	14074	Michalow	1	Ich wiel's o nimme wieder thun.
+bc	14092	Karczow	1	Ich will es och nie mee wieder thun.
+bc	14159	Jutrzyna	1	Ich wils o nimme wieder thun!
+bc	1417	Rydzewo	1	Ick wü 't uck ni mee werre daue.
+bc	14234	Brzoza	1	Ich wiel es och nich mehr wieder thun!
+bc	14250	Jaczkowice	1	Ich will es och ni me wieder thun!
+bc	14275	Piastowice	1	Ich wils och nich mehr wieder thun.
+bc	14305	Bozanow	1	Ich wiel's oo nimme wieder thun.
+bc	1432	Rzepowo	1	Ick wit ok ne mehe wedde dohe.
+bc	14321	Rogow Sobocki	1	Ich wiels o nimme wieder thun.
+bc	14382	Wölfelsdorf (Wilkanów)	1	Ech wels nemme thun.
+bc	1442	Lubowo	1	Ik wiet uck ni werre dau.
+bc	14449	Thröm (Trebom)	1	Ich well’s a nimma weder thun.
+bc	14458	Szczytna	1	Ich wils a nemme wieder macha.
+bc	14471	Jaszkowa Gorna	1	Iech wiols a nemme wieder thun!
+bc	14486	Nadziejow	1	Ich will et och nicht mehr wieder thun.
+bc	145	Smardzko	1	Ick wüt ook nich mehe werre daue.
+bc	14505	Piorunkowice	1	Ich wihls au ni meh wieder thun!
+bc	1451	Steinforth (Brodźce)	1	Ijj witt t' ?uk ni mehä weddä dauä.
+bc	14537	Bielice	1	Ech wel's a nemme weder thun!
+bc	14560	Siemianowice Slaskie	1	Ich wil's au wetter nimme thun.
+bc	1461	Wegorzewo Szczecineckie	1	Ick will et ok ni mehr weddä dauä.
+bc	14613	Nohfelden	1	Eich will et ag nemme wirer dun.
+bc	14635	Erzweiler	1	Ich will's nimmi dun.
+bc	14670	Nussbach	1	Ich wills äch nimmi wirrèr dun.
+bc	14693	Dannenfels	1	Ich will's nimmi wirrer dué.
+bc	14724	Monsheim	1	Ich wills awer net me wierer dan.
+bc	14752	Sankt Matthias	1	Eïch wellet ôch net mih widder duhn!
+bc	14955	Bescheid	1	Äich wöll et och nött meh douen.
+bc	14971	Allenbach	1	Eich well et ach net me wierer doun!
+bc	1499	Stara Rzeka	1	Idj wad dat uck ni' meha wedda doana.
+bc	14999	Berschweiler bei Kirn	1	Ich well et aach nett meh wierer thoun.
+bc	15018	Bad Sobernheim	1	Eich wills ag nimme wirre dun.
+bc	15042	Neu-Bamberg	1	Ich will's ach netmeh wirrer thu.
+bc	15066	Bechtolsheim	1	Ich wells aach nett meh wirre duh'.
+bc	15088	Bollendorf	1	Eich well et och net mih wieder dohn!
+bc	15096	Preist	1	Eich wöll et nöt me don.
+bc	15118	Pohlbach	1	Ech wellet net me duhn.
+bc	15137	Kautenbach	1	Eich wellet aag net wirra doun.
+bc	15334	Kirchberg (Hunsrück)	1	Eich will et aach nitt meh wiere dhun.
+bc	15349	Ellern (Hunsrück)	1	Euch will's ag gar nitt meh dhun!
+bc	1536	Heidlauken (Bugorki)	1	Ek wöll et ok nich wedder done!
+bc	15365	Bingen am Rhein	1	Ich will's āch nitt mehr widder dhun.
+bc	15394	Finthen	1	Ich will's ach nit mer wieder thun!
+bc	1540	Heinrichswalde	1	Ek well et ok nich mehr wedder donn.
+bc	15418	Schneeberg (Sněžník)	1	Ich wie's a nimme(j) machen.
+bc	15503	Zettel (Sedlo)	1	Ich wills a nimm(e)r tu'a.
+bc	1552	Pazuizen	1	Eck wel et ock nich mehr wedder dohn?
+bc	15538	Wisterschan (Bystřany)	1	Ich wars a nimma wieder tun.
+bc	15550	Malschen (Malečov)	1	Ich will's a nimmej wiedar moch'n.
+bc	15638	Lukawetz (Lukavec)	1	Ich wills a nich mehr mochn.
+bc	1565	Gierver Lauken	1	Eck well et uck nich mehr wedder dohne.
+bc	15681	Neudorf (Vrchběla)	1	Ich wills ou nimmej wiedr machn!
+bc	15685	Gastorf (Hoštka)	1	Ich wills a ni meï wieder tun!
+bc	15690	Wegstädtl (Štětí)	1	Ich wills a ni mehr wieder mochn.
+bc	1571	Schmalleningken	1	Oeck wöll ött uck nich mehr wedder done.
+bc	15725	Nixdorf (Mikulášovice)	1	Ich wiehs ou nimmie machn.
+bc	1573	Groß Dirschkeim (Donskoye)	1	Eck well ett ock nich meha weda done.
+bc	15751	Rückersdorf (Dolní Řasnice)	1	ich wölls ne mī machn.
+bc	1578	Rantau (Zaostrov'Ye)	1	Ek wöll èt ok nich mér wedda doun.
+bc	158	Polczyn-Zdroj	1	Ick wi'tt uck nich mehr wedde daue.
+bc	1580	Schulstein (Vol'Noe)	1	Eck wel et ok nich meha wedda donn.
+bc	15807	Kamnitz-Neudörfl (Kamenická Nová Ví	1	Ihch was nemmej machn.
+bc	15824	Zwickau (Cvikov)	1	Yech (sp. ie) w(e)ll's ou ne(i)mmi tun.
+bc	15847	Christophsgrund (Kryštofova Údolí)	1	Ich wölls ou nemie machn.
+bc	15858	Gränzendorf (Hraničá)	1	Ich wills ou nem-mi wiedr tun.
+bc	1588	Alt Susimilken (Tarassowka)	1	Oeck will et ock nich mehr dohne.
+bc	15971	Puletschnei (Pulečný)	1	Ich will's ou nemieh' machn.
+bc	15975	Graber (Kravaře)	1	Ich war's a nimmê wiedr mochn.
+bc	15989	Thammühl (Staré Splavy)	1	Ich wills ou ni meja wiedr tun.
+cd	15995	Proschwitz (Česká Proseč)	1	Ich wels ou nimer wiedr machn.
+cd	16007	Harrachsdorf (Harrachov)	1	Ich well's ou ne meïr machn.
+cd	16015	Witkowitz (Vítkovice)	1	Ich wells â wettə nemmə mochn.
+cd	16050	Forst (Fort)	1	Ich wells a wetta nee mochn!
+cd	16063	Gabersdorf (Libeč)	1	Ich wills a nimmer wieder tun!
+cd	16083	Bodisch (Bohdašin)	1	Ich will's a nimme wieder tun.
+cd	16139	Zwitschin (Zvičina)	1	Ich wills a wetter nee tun.
+cd	16154	Großbock (Velká Bukovina)	1	Ich wêlls a wettr ne tun.
+cd	16179	Schmiedeberg (Kovářská)	1	Ich wills an net wieder måchn!
+cd	1626	Tulpeningken (Zarečnoe)	1	Öck wöll et ok nich mehr wedder dohne.
+cd	16276	Waitzengrün (Loučná)	1	Ih wüll's a nimma wieda toun.
+cd	1628	Wisborienen (Livny)	1	Eck well et uck nich mehr wedder done!
+cd	16298	Sittmesgrün (Mezirolí)	1	Ich wls a nimma tou(n).
+cd	16322	Petersdorf (Petrov)	1	Ich wühs nimmer wieder tau.
+cd	16338	Podletitz (Podlesice)	1	Ich wills a nimmer to.
+cd	16442	Kropitz (Krapice)	1	I wüll's a nimma tou(n).
+cd	16470	Ebersfeld (Podlesi)	1	Ich wills nimmå toun.
+cd	16491	Rabensgrün (Haje)	1	I wüils a nimma toun.
+cd	16523	Lintsch (Hlineč)	1	Ich wills a nimma tau.
+cd	1654	Postnicken (Zalivnoe)	1	Eck wöll et ok nich meha wedda dohne!
+cd	16602	Klotantschen (Kotaneč)	1	Ich wills aa net meja tou!
+cd	16610	Tschernowitz (Černovice)	1	Ich wärs a nimmer mochen.
+cd	16625	Hawran (Havraň)	1	Ich wills a nimmer mochn.
+cd	16636	Liebshausen (Libčeves)	1	Ich wills a nimehr wieder mochen.
+cd	1664	Labagienen/Haffwinkel (Zalivino)	1	Ik well et ok nich mea wedda done.
+cd	16670	Priesen (Březno)	1	Ich wills ā něměr moachň.
+cd	16689	Libeschitz (Liběšice)	1	Īch wills nimmermēhr moachn.
+cd	16725	Leschkau (Ležky)	1	Ich will s a nimmamehr widda dou!
+cd	16739	Pschoblik (Pšovlky)	1	Ich will's a nimme(r) wide(r) moch'n!
+cd	16751	Prag-Smichow (Smíchov)	1	Ich will es auch nicht mehr wieder tun.
+cd	16755	Weißbach (Bílý Potok)	1	Ich wa's (wil's) oa nemme tun!
+cd	16770	Schediwy (Šediviny)	1	Ich wills a wettr nemme tun.
+cd	16775	Friedrichswald (Orlické Záhoří)	1	Ich wa's gewieß nemme macha.
+cd	16801	Böhmischdorf	1	Ich wiells a nemme wiedr tun.
+cd	16814	Rokitnitz (Rokytnice)	1	Ich wills a nemme wieder macha!
+cd	1683	Kreuzingen (Bol'Shakovo)	1	Ok woll et ok nich mehr wedder done.
+cd	16876	Nieder-Ullersdorf (Dolní Boříkovice	1	Ich war es auch nemme tun.
+cd	16889	Heinzendorf (Hynčice Nad Moravou)	1	Ich wells a nimmer wiedr tun.
+cd	16907	Karlsdorf	1	ex wāršun (werde es schon) nimŋ mòxŋ.
+cd	16932	Kuhberg	1	Ich wells a nimme wieder tun!
+cd	16949	Rausen (Rusín)	1	Ich wihl es a nie mie mer wieder tun!
+cd	1698	Buttkuhnen (Pokrovskoe)	1	Eck well et ok nich mehr wedder dohne.
+cd	16991	Breitenau (Bretnová Široká Niva)	1	Ech wiëls a nie mehr wiëder mochn.
+cd	17012	Lobenstein (Úvalno)	1	Ech wells a nie mehr wijdr tun.
+cd	17029	Lohhäuser (Slatina)	1	Ich wülls a näi mäia wida tou.
+cd	17061	Deutsch Thomaschlag (Německé Domasl	1	I wül's a nimma wieda tou(n).
+cd	17075	Polinken (Polínka)	1	I wills a nimma wieda toun.
+cd	1708	Baltruschatschen (Jakovlevo)	1	Oek wöll et ok nich mehr wedder dohne.
+cd	17138	Albersdorf (Písařova Vesce)	1	Ich wüls a nimma tou(n).
+cd	17151	Damnau	1	I wül's a nimma wieda tou(n).
+cd	17174	Piwana (Piňovany)	1	I wüll's a nimmamäia tou(n)!
+cd	17178	Kottiken (Chotíkov)	1	I wills o nimmameia måchn. (tou(n)).
+cd	17244	Dianaberg (Diana)	1	Ich wüll's ā nimmǝ tàu.
+cd	17266	Wiedlitz (Vidice)	1	I wüls nimma meja tou(n).
+cd	17273	Honositz (Honezovice)	1	Ich wils a nimmå wiedå tåu.
+cd	17281	Dobrzan (Dobřany)	1	I wia s a nimma maia tou!
+cd	17306	Blisowa (Blížejov)	1	Ich wills a nimmamea tou!
+cd	17309	Hilbeten	1	Ich waß net wäa tua.
+cd	17325	Schönwald (Strážná)	1	Ich will's au nimme wieder tun.
+cd	1733	Rottenen (Raktino)	1	Eck well et ok nich mehr wedder dohne.
+cd	17374	Ober-Ullischen (Horní Olešná)	1	Ich wills a nimmr wijdr tun.
+cd	17389	Bergstadt (Horní Město)	1	Doas los ich mer gesäeh sein.
+cd	1741	Pojerstieten (Kolodcy)	1	Eck well ock nich mea weda done.
+cd	17433	Ranigsdorf (Linhartice)	1	Eich weis au wet mer woch amol taun.
+cd	17442	Müglitz (Mohelnice)	1	Ich wērs ā nie wieder måchn.
+cd	17460	Ribnik (Rybniček)	1	Ech well's a nimmer weder mochn!
+cd	17468	Stangendorf (Vendolí)	1	Äich wäis a net mehr wedr tôu.
+cd	1747	Beydritten (Pervomajskij)	1	Ek war et ok nich wedda dahne.
+cd	17504	Neu-Biela (Lavičné)	1	Ejch wehs a net mehr weder tiu.
+cd	17512	Schlettau (Slatina)	1	Aich bais es weidr nett mehr mochn.
+cd	17520	Runarz	1	Ich bels ā nī mēr bīdǝ tun.
+cd	17521	Nebotein (Hnĕvotín)	1	Ich bill's ach nimme(ha)a mochn.
+cd	17568	Tillendorf (Tylov)	1	Ich wües a nimmer wiäder tun.
+cd	1758	Brasdorf (Antonovka)	1	Ek wöll et ok nich mea wedda dohne.
+cd	17585	Mladetzko (Mladecko)	1	Ich warfch nimmer tun.
+cd	17643	Seibersdorf (Bělá)	1	Ech wells a niema tun.
+cd	17659	Bernhau (Barnov)	1	Ech well's a nimmahr weder tun.
+cd	17680	Klantendorf	1	Iech wiels nimmer tun.
+cd	17687	Engelswald (Mošnov)	1	Ech wiêlls ao nimmr wiedr tun.
+cd	17698	Nirklowitz (Mrsklesy)	1	Ech wells a nimmer mochn.
+cd	17713	Punkendorf (Boňkov)	1	Es wills au nie wieder tun.
+cd	1772	Groß Goldbach (Slavinsk)	1	Oeck well et ok nich mea dohne.
+cd	17726	Halbendorf (Polouvsí)	1	Eich wells a nimmer weider tun.
+cd	17737	Senftleben (Ženklava)	1	Ech wels o nemer wedder tun.
+cd	-17739	Polanka Wielka	1	Ich wills nimie tue.
+cd	-17744	Bulowice	1	Ich wers auch nimmer wieder tun.
+cd	-17746	Chocznia	1	I wéils nimame moche.
+cd	-17749	Alt-Bielitz (Stare Bielesko)	1	Eche wejl's a nemmej wejder tün!
+cd	17759	Linz (Mlýnec)	1	Ich wills a nimma tou.
+cd	17782	Kohlheim (Uhliště)	1	I wills a nima tou.
+cd	17792	Čachrau (Čachrov)	1	I wias a niema tou.
+cd	17801	Hurkental (Hůrka)	1	I wölls a nimma toa.
+cd	17824	Rotsaifen (Červená)	1	I tuas o ch nimma!
+cd	17832	Winterberg (Vimberk)	1	I wels a niemå wiedå toa(n).
+cd	17843	Sehrlenz (Ždírec)	1	i bi(a)s a net me(a) tejun.
+cd	17854	Irsching (Jiřín)	1	I wills ach nit mehr wieder toun.
+cd	17862	Hilbersdorf (Jihlava-Heroltice)	1	I wills a net widǝ toun.
+cd	17876	Sollowitz (Salavice)	1	I wüls a nimma to.
+cd	17878	Stannern (Stonařov)	1	I wills a nimmer to.
+cd	17881	Riegerschlag (Lodhéřov)	1	I wiads a nimmer toa.
+de	17882	Wenkerschlag (Dolní Radouň)	1	I wüls a nimma toa.
+de	17884	Buchen (Buk)	1	I wls nimmr toa.
+de	17895	Hosterschlag (Člunek)	1	I wlls a nimmr wieder toi (toa).
+de	17898	Lipolz (Lipolec)	1	I wüll's a nimmer wieda toa.
+de	17940	Czernowitz (Černovice)	1	Ich bills ach nimma tuin (toan).
+de	17942	Gundrum (Komořany)	1	Ich biarsch a nimmer tuan.
+de	17956	Prahlitz (Pravlov)	1	I wülls a nimmermehr tan.
+de	17961	Woikowitz (Vojkovice)	1	I bas nimma mochn!
+de	17967	Sub-Lechnitz (Lechnica)	1	Ich will's a net mehr wied'r thun.
+de	17968	Topportz (Toporec)	1	Ich wülls äüch nüh mejer tun.
+de	17972	Hobgard (Chmeľnica)	1	Ich wëu's och müh' nëch tun!
+de	17981	Neu Walddorf (Nová Lesná)	1	Ich wëlls äuch nech mej tun.
+de	17993	Durelsdorf (Tvarožná)	1	Ich wes nech mej tun.
+de	17999	Leutschau (Levoča)	1	Ich wells äuch nëch meih wieder tun.
+de	180	Galowo	1	Ick witt ok nië mehä wedde daue.
+de	18000	Zipser Neudorf (Spišská Nová Ves)	1	Ich wel es auch nech mehr wieder tun.
+de	18001	Wagendrüssel (Nálepkovo)	1	Ich bell es ach nech bida tun.
+de	18003	Göllnitz (Gelnica)	1	Ich bell es ach nech meh bida tun.
+de	18004	Dobschau (Dobšiná)	1	Ich bell es och nett me bieder  ton.
+de	-18008	Schmöllnitz (Smolník)	1	Ich bel es ach néch mé tún.
+de	18010	Metzenseifen (Medzev)	1	Dos beaich ach nécht mé thun.
+de	18013	Buchwald (Bučina)	1	I wias e nimma meha toa!
+de	18018	Schattawa (Záton)	1	Ih weijs a nimmermehr toa.
+de	18028	Zaborsch (Záhorí)	1	I wias a nima mea toa.
+de	18058	Hirschbergen (Hiršperky/Jeleni)	1	I wüll's a nima toa.
+de	18064	Honetschlag (Hodňov)	1	I wülls a nima wieda toah.
+de	18091	Kollerschlag	1	I wüs a nimma wida toa.
+de	18095	Sankt Thoma (Svatý Tomáš)	1	I will's a nimmermehr toa.
+de	18101	Hohenfurth (Vyšší Brod)	1	I wülls a nima wieda toan.
+de	18132	Hummeln (Homole)	1	I wlls a nimmermear toa.
+de	18135	Rudolfstadt (Rudolfov)	1	I wills a nimmr mehr moch'n.
+de	18144	Gross-Radischen	1	I wülls a nimma toa.
+de	18188	Priethal (Prídolí)	1	Y wül's nimma wieda toa(n).
+de	18192	Gollnetschlag (Klení)	1	Ih wls nimma toa.
+de	18210	Weissenbach (Vysné)	1	Dós wüll i oba a niema toa.
+de	18218	Langschwarza	1	I wûs a nimamehr doa.
+de	1829	Rudszen (Poltavskoe)	1	Eck well et uck nich mehr wedder dohne!
+de	18290	Unterwald	1	I wüll's a nimma mea tuan!
+de	18296	Bad Grosspertholz	1	I wülls a nima wieda toa.
+de	18310	Oberstrahlbach	1	I wüls e nima toan.
+de	18359	Waldkirchen	1	I will's a nia mehr wieder tuan.
+de	18364	Hafnerluden (Lubnice)	1	I wülls a nimmer wieder tuan.
+de	18367	Schiltern (Štítary)	1	I wirs nimma mocha.
+de	18407	Töstitz (Těšetice)	1	I wüs a nimma wieda då!
+de	1842	Warupönen (Fëdorovka)	1	Ek wel et ok nich mehr werdder done.
+de	18432	Dietmanns	1	I wüs a nima wida doan.
+de	18441	Schirmannsreith	1	I wüis a nimma toan.
+de	18454	Hofern	1	I wüll's nimma wieda doan.
+de	185	Jelnia	1	Ick wi et ok ni meh wedda dohn
+de	18508	Gerstenfeld (Ječmeniště)	1	I wülls a ni wida toa!
+de	18525	Franzen	1	I wüis a nǝama doan.
+de	18534	Rosenburg	1	I wirs gwiß nimmer tuan.
+de	18554	Oberdürnbach	1	I wull's a nimma wieda toan.
+de	18559	Aspersdorf	1	I wüs a nima toa(n).
+de	18607	Damnitz (Damnice)	1	I will's ach g'wiß nimma wieda ta(n).
+de	18627	Tracht (Strachotín)	1	I wülls a nimmrmehr ta!
+de	18637	Saitz (Zajecí)	1	I wülls a nimma mochn.
+de	18642	Höflein an der Thaya (Hevlín)	1	I wüls a nima toa.
+de	18672	Stützenhofen	1	I wülls a nima toa.
+de	18686	Bernhardsthal	1	I wüll's a nia mehr wieda toa!
+de	18701	Pyhra	1	I wülls a nimmermehr toa.
+de	18707	Wilfersdorf	1	I will's nimma toa(n).
+de	18716	Palterndorf	1	I wülls a nimma toan.
+de	18753	Münchwies (Vrícko)	1	A(?)i weills mea net m?chn.
+de	18759	Bettelsdorf (Solka)	1	É béjs á net meja tu(n).
+de	18763	Oberstuben (Horná Stubna)	1	Ex bels âx net (mj?r?) bid? tūn.
+de	18767	Krickerhäu (Handlová)	1	Ich bās āh net mehr bida tōn.
+de	18773	Deutsch-Litta (Kopernica)	1	Auich bills ach nit mehr bajtr täju.
+de	18774	Hochwiesen (Vel'Ké Pole)	1	I bulls a ne mehr bieda tu.
+de	18786	Sankt Georgen bei Obernberg am Inn	1	I wul 's a nimmamehr toan!
+de	18800	Hochburg	1	I waogs a nima taon.
+de	18805	Pischelsdorf am Engelbach	1	I wuis a nime wide toan.
+de	18846	Niederkappel	1	I wülls a nim̅a wida tua [Wort sieht merkwürdig abgesetzt aus, u ohne Kringel.]
+de	18855	Niederwaldkirchen	1	I wülls a nimmamer toan.
+de	18902	Dorf an der Pram	1	I wiels a nimma toa.
+de	18910	Michaelnbach	1	I wül's a gwiß nimma toan.
+de	18923	Alkoven	1	I wüs eh nimmá toán!
+de	1895	Königlich Damerau	1	Eck well et ock nich mehr wedda dehne.
+de	18984	Arnberg	1	I wears a inima(?) toâ.
+de	18987	Rackering	1	I wü(ll)s a nimma toa.
+de	19003	Pennewang	1	Ich mechts a nimma tañ.
+de	19011	Sipbachzell	1	I wills á nimma tuan.
+de	1904	Pesseln	1	Oeck wöll'et ohk nich mehr wedder dohnè!
+de	19070	Reichenau im Mühlkreis	1	I wüis a nimma doa(n).
+de	19080	Gutau	1	I wills a nimma toan.
+de	19085	Hackstock	1	I tuas eh nimma.
+de	19096	Traunstein	1	I wills a nimma tuan.
+de	19138	Maria Laah	1	I wills a nimma toan.
+de	19144	Haag	1	I wias eh nimma toan.
+de	19154	Amstetten	1	I wülls nimma tuan.
+de	19163	Wieselburg	1	I wüs a nimmamehr toan.
+de	1919	Groß Gerlauken (Vjazovka)	1	Öck wöll ött ok nich mehr wedder dohne!
+de	19225	Steyregg	1	I wills a nimma toan.
+de	19233	Schwertberg	1	i tuās e nimma.
+de	1924	Pakallnischken (Suvorovo)	1	Eck well et nich mehr wädder dohne.
+de	19245	Bad Kreuzen	1	I wias nimma tan
+de	19257	Altenmarkt	1	I wias a net wieda mehr toan.
+de	19301	Els	1	Mei' Lebba' tua i' dös nimma.
+de	19311	Gneixendorf	1	I wirs a nimmamehr toa.
+de	19322	Fels am Wagram	1	I wirs oba a nimmermehr toan.
+ef	19334	Oberhautzental	1	I wülls a nimma tuan.
+ef	19401	Schönbühel an der Donau	1	I wir s a nimma toa.
+ef	19404	Karlstetten	1	I wüs a nid meha wieda duan!
+ef	19419	Würmla	1	I wüs a nimma mähr toa!
+ef	19429	Ried am Riederberg	1	I wülls halt a nimmer mehr taun.
+ef	19479	Mank	1	I wüi's a net mer wieda tau. (net mer = imma)
+ef	19486	Wilhelmsburg	1	I tuas eh nimma.
+ef	19492	Stollberg-Siedlung	1	I wills a nimmermehr toa.
+ef	1953	Pillau	1	Eck wöll ett ok nicht meeha wedda dohne.
+ef	19541	Grub	1	I tua's eh neama (nimma).
+ef	1956	Patersort (Beregovoe)	1	Êck wull et ok nich mehr wedder dohne.
+ef	19564	Obergänserndorf	1	I tui's e nia mehr.
+ef	19607	Raggendorf	1	I wirs oh nimma toa(n)
+ef	1962	Bergau (Tzwetkowo)	1	Oeck wöll et ok nich mehr wädda dohne!
+ef	19621	Stillfried an der March	1	I wiǝrd's a nimmǝr mear toan.
+ef	19640	Grünau (Grinava)	1	I wülls a nimm(e) mea mochn.
+ef	19642	20. Bezirk-Brigittenau	1	I wir's a nimma wida tuan.
+ef	19646	Raasdorf	1	I will's a nimma wieda tan.
+ef	19657	Breitensee	1	I wills nimma mehr toan!
+ef	19659	Theben (Devín)	1	J wüll's a nit mehr wieder tuan!
+ef	19667	Biedermannsdorf	1	I tuas eh nimmamea!
+ef	19674	Enzersdorf an der Fischa	1	I wülls nimma mea tuan.
+ef	19696	Kittsee	1	I wis o nimma wida tuan.
+ef	19705	Mischdorf bei Pressburg (Nové Košar	1	J wüs a nima wieda ta.
+ef	19726	Rohrau	1	I wüll's a niama tuan!
+ef	19739	Thiersee	1	I wüs a nimma toa.
+ef	19748	Achenwald	1	I' wüs a nimma tua.
+ef	1977	Fuchsberg (Semënovo)	1	Oek wöll üt ok nich mea done.
+ef	19775	Obertrum am See	1	I tua'? a' gwiß nimmá!
+ef	19787	Hochfeld	1	I mågs a nia nimma toan.
+ef	19823	Vorderfager	1	I wüs a nimma wieda toå. (üblich: I wüs e nimma toån)
+ef	19851	Schwendt	1	I wüis a wieda nimma toa(n).
+ef	19854	Waidring	1	I wuis a nimma wieda toa!
+ef	19859	Kuchl	1	I wii's nimā toa!
+ef	1987	Pregelswalde (-)	1	Eck well et ok nich mea wedda done!
+ef	19886	Schörfling	1	Dös tua i nimma!
+ef	19896	Gschwandt	1	I wills nimma wieda toan.
+ef	19901	Schlierbach	1	I wüs a nöd nu amoö doã (goa nimma.)
+ef	19941	Sankt Gilgen	1	I tuns a nima.
+ef	19945	Ebensee	1	I wü's e neama doa.
+ef	19947	Steyrling	1	I wills a nima wiedn toa.
+ef	19956	Bad Ischl	1	I tuas neamma.
+ef	19965	Windischgarsten	1	Dös tua i neama!
+ef	19971	Bad Goisern	1	I wü dås neama doa.
+ef	19977	Grundlsee	1	I wir's gwiß neamma toan!
+ef	19993	Wörschachwald	1	I wüs neama toa(n).
+ef	20005	Trattenbach	1	I wüs nerma wieda toan.
+ef	20008	Sulzbach	1	I duas e nima (neama)
+ef	20019	Ybbsitz	1	I tua's eh neama!
+ef	20023	Gaming	1	I wü(l)s a nima wieda doa(n)
+ef	20046	Kleinreifling	1	I wills nama to̊an.
+ef	20049	Mariazell	1	I wüs a neama wieda toan.
+ef	20051	Neuhaus	1	I wülls a neama wieda toan.
+ef	20058	Lassing	1	I wüs a neama toan.
+ef	20062	Ardning	1	I wüs a neama toa.
+ef	20065	Weng	1	I wüs a neamma wieda toa.
+ef	20067	Lainbach	1	I wüs a nema toan.
+ef	20069	Gollrad	1	I wü(ll)s e neama toan.
+ef	20077	Oberort	1	I will's a net mehr tuan!
+ef	20090	Wext	1	Jk willt ok nich währ dohn.
+ef	20099	Leer	1	Ick willt ɑuch gɑr nich mɑ̈hr wiɑ̈r dohn!
+ef	20110	Herbern	1	Ik will et auk nig mär wir dohen!
+ef	20117	Ringel	1	Ick willt auk nich mähr wier dohn.
+ef	20128	Hilter am Teutoburger Wald	1	Ick will et auk nich mär wieer dohn.
+ef	20240	Bardel	1	Ik wil het ok nig meer weer doon!
+ef	20248	Haddorf	1	Ik will et auk nich mär wir doun.
+ef	20259	Hörstel	1	Ik wilt nu nig mer wiär dohn.
+ef	20269	Westerkappeln	1	Ik willt auk nich mehr wier doun.
+ef	20283	Astrup	1	Jck will't ak nich mehr wir doon.
+ef	20346	Frensdorf	1	Ik will't ok nicht wir dohn.
+ef	20350	Elbergen	1	Jck will't ak nich mähr wehr dhon.
+ef	20361	Setlage	1	Jk willt ock nümmer nich wär dohn.
+ef	20370	Merzen	1	Jck willt ock nich mehr wer don!
+ef	20381	Vörden	1	Jk will't auk nigg mähr wier dohn.
+ef	20384	Wielen	1	Ik salt nooit weer doon.
+ef	20446	Hoogstede	1	Ik wil et oak nich mär wär doon.
+ef	20454	Geeste	1	Ik will't uk nich mehr wär doun!
+ef	20463	Dohren	1	Ik will dät oak nig währ dohn.
+ef	20468	Renslage	1	Ick will ät ock nich mehr währ daun.
+ef	20481	Dinklage	1	Jk will et uk nich wedder daun.
+ef	20543	Haren (Ems)	1	Jk will't uk nig mehr währ doun.
+ef	20555	Hüven	1	Jk will dat uck nich mehr währ daue.
+ef	20562	Garen	1	Jck will't uck nich wär daun'n!
+ef	20575	Sevelten	1	Jk willt ok nich wedder doun.
+ef	20589	Neudersum	1	Jck willt ouck nah meer wär daouen.
+ef	20596	Neubörger	1	Ik wilt ok nich mer wer don.
+ef	20599	Neuarenberg	1	Jik willt ock nich währ daun.
+ef	20604	Garrel	1	Jk will't ok nich mehr wär daun.
+ef	20638	Visbek	1	Jck will et uck nich mehr wedder daun!
+ef	2067	Enskemen (-)	1	Eck well et ok nich mehr wedder dohne.
+ef	20710	Wietzendorf	1	Jck will't ok nich mehr werder dauhn.
+ef	20734	Colonie Syke	1	Jck willt ook gaar nich well'r doon.
+ef	20753	Magelsen	1	Jck willt ok nich wedder douhn!
+ef	20763	Nordkampen	1	Jk will et ok nig wedder douhn.
+ef	20774	Vierde	1	Jck willt ock nich mehr wedder dauhn.
+ef	20788	Schmarbeck	1	Jck willt ok nich wedder daun.
+ef	20798	Brümsen	1	Eck will't ok gaornich wädder don.
+ef	2081	Eydtkau (Eydtkuhnen)	1	Eck well et uck nich mehr wädder done.
+ef	20891	Dörpel	1	Jck will et uck nich mehr weddr dohn!
+ef	20901	Maasen	1	Jk will't ok nich mehr wedder dohn.
+fg	20917	Drakenburg	1	Jck wüll et ok nich mehr wedder d??u!
+fg	20920	Unterrodewald	1	Jck will et ok nich mehr werder doun!
+fg	20933	Thören	1	Jck will et ock nich mehr wedder dauhn.
+fg	20936	Hassel	1	Jck willt ock nich mehr wedder dauhn.
+fg	20946	Scharnhorst	1	Ick will't uck nich mehr werder daun.
+fg	20948	Aschen	1	Ik will et ok nich mehr wedder dohn!
+fg	21024	Burlage	1	ik will et ok nich mehr we'er don.
+fg	21033	Hoysinghausen	1	Jck willt ok nicht währ teun.
+fg	21045	Brokeloh	1	Jk will et ok nich mehr wühr dune.
+fg	21050	Empede	1	Jck will et ok nich mehr wehr daun!
+fg	21065	Gailhof	1	Eck willt ok nich wier dauen.
+fg	21074	Adelheidsdorf	1	Jck will et ok nich mehr wedder dauh'n!
+fg	21085	Nordburg	1	Jk will et ok nich mehr wer daun.
+fg	211	Rodowo	1	Oech wöll es uch nich mehr widder thune.
+fg	21105	Preussisch Ströhen	1	Ek welt ouch nech mehr wer doun.
+fg	21190	Brockhausen	1	Jck willt auk nich wiär dhoun.
+fg	21199	Isenstedt	1	Ick will ett ock nich wier dōue.
+fg	21218	Wietersheim	1	Eck willt ok nich mehr wier dauen.
+fg	21235	Hülshagen	1	Ek will dat ok nich mehr wehr daun.
+fg	21252	Holtensen	1	Ek will't eok nich (mähr) wehr daun!
+fg	2127	Klein Nuhr (Sukhodol'Ye)	1	Eck well et oik nich mehr wedder doone.
+fg	21280	List	1	Eck willet ok nich mähr wehr daun!
+fg	21295	Immensen	1	Ek will''t ok nich mehr wir dauen.
+fg	21305	Voigtholz-Ahlemissen	1	Jck willet ock nich währ daun!
+fg	21316	Steinhagen	1	Ik will et auk nich wär weier daun!
+fg	21342	Krentruperhagen	1	Ek will't öuk nich meier wedder deun.
+fg	2135	Skungirren (Pen'Ki)	1	Eck well et ock nich mehr wäder done.
+fg	21355	Wendlinghausen	1	Eck will et auck nich meier wedder deun.
+fg	21362	Reher	1	Ek willt auk nich mâr wir dâuên.
+fg	21384	Harderode	1	Eck willt äuk nich mehr wier deün!
+fg	21405	Rheden	1	Ek will et e-uk nich mer wer däuee.
+fg	21429	Nette	1	Eck will et ok nich mehr wedder daun.
+fg	21446	Steinlah	1	Ek will et ăk nich mehr wedder dauhn.
+fg	2145	Kurschen (Kuz'Mino)	1	Ich will's a nĕmme tō.
+fg	21455	Gross Schiplage	1	Ik willt auk nig mär wui'r dohn!
+fg	2161	Kalnen (-)	1	Öck wöll et ock nich mehr wedder dohne.
+fg	21611	Schweicheln-Bermbeck	1	Ick will et auck nich mähr wier dauen.
+fg	21632	Veltheim	1	Eck will't ok nich mäer wie'r dau'n.
+fg	21666	Rohden	1	Eck will't eok nich wiër dauhn.
+fg	21679	Springe	1	Eck will't ok nich meer wiër daun.
+fg	21687	Vardegötzen	1	Ek will't eok nich mehr wier dau'n!
+fg	21707	Rautenberg	1	Eck will't eok niu nich weer daun.
+fg	2182	Soginten (Svirskoe)	1	Eck wöll ĕt nĭch mehr wäder done.
+fg	21882	Bodenstedt	1	Jik will et ok nich mehr wedder däuen.
+fg	21902	Rautheim	1	Ick will et ok nich wädder dauhen!
+fg	21936	Bartensleben	1	Ik will et ok nich wer dou'n.
+fg	2200	Narmeln (Polski)	1	Ek well t' uck nich mehr wedder dohnen!
+fg	2204	Leysuhnen (Ščukino)	1	Eck well et ok nich meha wedda dohne.
+fg	22044	Rottorf	1	Ick will et aoch nich mehr wedder dauhn.
+fg	22063	Hundisburg	1	Ick will et ok nich mehr wedder dauhn!
+fg	22074	Farsleben	1	Ick will et ok nich wedder dohn.
+fg	22083	Reesen	1	Ik will et ok nich wedder duen.
+fg	22092	Paplitz	1	Ik will et ok nich mehr wedder duen!
+fg	22111	Wasbüttel	1	Jck will et ok nich mehr wedder daun.
+fg	22149	Rätzlingen	1	Jck willt ook nich wedder daun.
+fg	2216	Hermsdorf (Pograničnyj)	1	Ek wöll et ok nich meha wedda dohne.
+fg	22172	Burgstall	1	Jch will et ock nicht mehr war dohn.
+fg	22222	Reislingen	1	Ik will et ok nich mehr wedder daun.
+fg	22249	Roxförde	1	Jk willt auk nich wärrer dao.
+fg	2225	Moritten (Oktjabrskoe)	1	Oeck wöll ett ok nich mea wedda done.
+fg	22264	Grieben	1	Jck willt ook nich mihr wedder dohn!
+fg	22276	Zabakuck	1	Jck willt ook nich mihr wedder dohn!
+fg	22375	Westerholz	1	Jck will't ock nich mehr wer dohn!
+fg	22384	Tülau-Fahrenhorst	1	Jck will et ock nicht mehr wär dohn!
+fg	22394	Köbbelitz	1	Ick willt auk nich mehr werrer dohn.
+fg	22407	Schenkenhorst	1	Ick willd ouk nich mer doun.
+fg	2242	Naunienen	1	Ök well öt ock nich möha wedda dohne.
+fg	22423	Querstedt	1	Ick will't ook nich mehr werrer dohn!
+fg	22443	Staffelde	1	Ick will dat ook nich werrer dohn.
+fg	22453	Grosswudicke	1	Ick willt ohk nich mihr wedder dohn.
+fg	22574	Masel	1	Jck will't ok nich währ doun!
+fg	22581	Höddelsen	1	Jk will det ök nich mehr wär daun.
+fg	22599	Wöpel	1	Jck will't auk nich werr dohn.
+fg	22621	Molitz	1	Ik will dät ouk nich mehr werrer dohn.
+fg	22636	Rönnebeck	1	Ik will't nich w(äe)rrer dohn!
+fg	22654	Iden	1	Ick will't ok nich wädder dohn.
+fg	22667	Kuhlhausen	1	Jk will det ok nich mihr wärrä dohn.
+fg	22685	Proitze	1	Jk will't ok nich mehr werrer dohn.
+fg	22773	Holdenstedt	1	Jck willt ok nig mehr wedder daun.
+fg	22796	Wustrow (Wendland)	1	Jk will dat ok nich mehr werrer dohn.
+fg	22810	Lomitz	1	Jck will dät ock nich mehr werrer doun.
+fg	22819	Jeggel	1	Ik will'd ook nich mehr wedder dhon.
+fg	22832	Gross Lüben	1	Ik will dät ok nich mehr werrer doahn.
+fg	22846	Görike	1	Ik will et ok nich wäher dohn.
+fg	22910	Holthausen	1	Ick wèll et auk ne me-ir doon.
+fg	22931	Dahlhausen	1	Ek welt ouk nich mä wir daun
+fg	22965	Langeloh	1	Eck well't ok nit mä wiër daun.
+fg	22990	Halingen	1	Jek well et iauk nitt meer weÿer dhaun!
+fg	22998	Neheim	1	Jek well et äouk nitt mähr woier dauhn.
+fg	23010	Niederbergheim	1	Iëk well et ock nitt mähr wuiër dauen!
+fg	23021	Kapellen	1	Ek well et ock nimmer weer duun.
+fg	23031	Rheinberg	1	Ek wel et ok nit mer wehr dhun.
+fg	23184	Holthausen bei Kirchhellen	1	Jk will ätt ok nig mä wier daun.
+fg	23191	Herten	1	Eck wellt ak nig wiee daun!
+fg	23207	Waltrop	1	Eck well et nit mä wiär daun.
+fg	23218	Kamen	1	Jik well ät äuk nit mähr weier daun.
+fg	23231	Norddinker	1	Ick welt ok nit wuier dauen!
+fg	23261	Kessel	1	Ek wellet ock nemmer wehr dun!
+fg	23271	Kehrum	1	Ek well et ok nimmer döcker duhn.
+fg	23284	Hamminkeln	1	Eck well et ok niet mehr wehr duhn.
+gh	23293	Erle	1	Ick willt ock nich wä duon.
+gh	23343	Göttingen	1	Jck will et auk ni mä weyer daun.
+gh	2338	Wenslowischken (Voznesenskoye)	1	Eck wöll ett ock nich mehr wedder dohne.
+gh	23402	Holtwick	1	Ik willt ohk nich wiär dohn.
+gh	23412	Seppenrade	1	Jck will et auk nich wiär dohn.
+gh	23419	Davensberg	1	Jck will et ok nich wier doen.
+gh	23426	Vorhelm	1	Jk will et auk nig mär wihr doen!
+gh	23435	Stromberg	1	Jck will ett auck nich mär weer doen.
+gh	23453	Stockum bei Coesfeld	1	Jck will et an patt nich wiä dohn.
+gh	23466	Nottuln	1	Jck willt auk nich wier dohn.
+gh	23471	Münster	1	Jk will et auk nich mehr wier dhon.
+gh	23478	Einen	1	Ick willt aouk nich mäh wieer doahn.
+gh	23483	Greffen	1	Jck will et auk nich mä wejer douhn.
+gh	23494	Speelberg	1	Ek sall et ok niet meer weer duhn.
+gh	23498	Hemden	1	Jk willt ok neud wär dohn.
+gh	23507	Weseke	1	Jk will et ok nich mär wär don.
+gh	23545	Tüddern	1	Ech well et ǒch nět mieh duen. –
+gh	23566	Porselen	1	Ich well et och net mie dun.
+gh	23602	Holzweiler	1	Ech wellet och net mi wirr done!
+gh	23630	Evinghoven	1	Ech well et och nett mieh wier donn.
+gh	23817	Reusrath	1	Ech well et och nit mih widder dunn!
+gh	23843	(Stolzenberg)	1	Ech well et och net miĕh wedder dohn.
+gh	23858	Oberklüppelberg	1	Eck well et ock nich meh wier daun.
+gh	23873	Valbert	1	Ieck wellt ok nit wier daun.
+gh	23885	Sporke	1	Jëck well't okk nit mehr wier daun.
+gh	23902	Schmallenberg	1	Jk ewllt äuk nit wir daun.
+gh	23906	Elmpt	1	Ech well et og neet noch ens duhn.
+gh	23922	Helenabrunn	1	Ich well öt net mie duen.
+gh	23933	Weißenberg	1	Ech wéll et och net mih wirr donn.
+gh	2398	Mertensdorf (Tjomkino)	1	Ik wa et ok nich mehr weda dohn.
+gh	2409	Trausen (Lipnyaki)	1	JEik well ett ock nich mea wedda done.
+gh	24107	Hubbelrath	1	Ech well et och nitt me weder donn.
+gh	24134	Barmen	1	Eck well et ok nitt meahr meahr dom.
+gh	24156	Delle	1	Eck wäll't ok net wiër daun!
+gh	24167	Altena	1	Īěk well et a͡uk nit mi͡er wi͡er dauhn.
+gh	24180	Stockum	1	Jek wällt ok nit mehr wëier daun.
+gh	24208	Wall	1	Ek well et ok net mih widder donn!
+gh	24218	Vennikel	1	Ek well et ok nimmer wehr duhn.
+gh	2426	Groß Pentlack (Kamenka)	1	Öck will datt ok nich mehr wedder don.
+gh	24336	Berghausen	1	Ech walls ö net werrer dün!
+gh	2436	Kowarren (Zaozernoye)	1	Eck well et ok nich mehr wedder done!
+gh	24360	Bottendorf	1	Ech wells öch nett werrer dünn.
+gh	24380	Bergfreiheit	1	Ech wells ah net meh wedder duhn.
+gh	24412	Roppershain	1	Ich wälls nett werrer dunn!
+gh	24431	Konnefeld	1	Ich wiells öh nit mih wirrer dunn.
+gh	24454	Berneburg	1	Ech well es au net wedder ton.
+gh	24466	Lüderbach	1	Ich wills au nitt mihe wedder dhu.
+gh	24490	Züschen	1	Jeck wellt auk nitt meh wiedder donn.
+gh	2452	Kleschowen (Kutusowo)	1	Eck well et ok nich mehr wedder dhon.
+gh	24636	Rhadern	1	Ek will et auch nittmeh wedder donn.
+gh	24659	Buhlen	1	Ech welz au net wedder dunn.
+gh	2466	Tolkmicko	1	Öck wölle't ock nich mea wedda dohne.
+gh	24677	Metze	1	Ech wälls äu nedd werrer dunn.
+gh	24695	Wattenbach	1	Ech wälls au nett mehr werrer dunn!
+gh	24715	Vockerode	1	Ich wells ei nidd wedder dou.
+gh	24737	Grosstöpfer	1	Ich well es äh nit mehr wedder thu!
+gh	2474	Pierzchaly	1	Ek wöll et uk nich mea werra dohne.
+gh	2482	Peterswalde (Piotrowiec)	1	Ek wa et uck nich mea wedda done.
+gh	24884	Olsberg	1	Ik wellt ok nitt mer wir dauhn.
+gh	24901	Sudeck	1	Ick will't auk nich mei widder doun.
+gh	24917	Braunsen	1	Ick willt auk ni mei widder dohn!
+gh	24926	Zierenberg	1	Eck will et auk ne mei thaun!
+gh	2494	Saruny	1	Ock wüll et ok nich mehe werdde dohne.
+gh	24942	Speele	1	Ich  walls oh nit mehr widder dohn.
+gh	24959	Hermannrode	1	Eck well et ack nech mehr daun.
+gh	2507	Wojciechy	1	Öck wöll et ok nich mea wedde dohne.
+gh	25113	Meiste	1	Jk wellt ok nit mär wuier dauhn!
+gh	25131	Fürstenberg	1	Jck wi(e)ll ett ack nitt wyr dauen.
+gh	25136	Scherfede	1	Jck willet ahk nie mäh widder douen.
+gh	25150	Körbecke	1	Jk will et auk ne-i mei widder daun.
+gh	25163	Gottstreu	1	Ick will et auch nich mei wier daun.
+gh	25179	Esebeck	1	Ik will et ok nich mëhr wier dauen.
+gh	25197	Ebergötzen	1	Ek will et āk nich mehr wēhr daun!
+gh	25214	Bönninghausen	1	Ick wellet ock nitt männ wuier däun.
+gh	25223	Kirchborchen	1	Ik well et auk net mär wer dauen!
+gh	25343	Siebenstern	1	Ich will et auk nie wiär daun.
+gh	25354	Bruchhausen	1	Ik will et auk nie mehr wieder daun.
+gh	25363	Schönhagen	1	Ek will et ok nich mêr wêr daun.
+gh	25373	Oldenrode	1	Ek will et eauk nich mehr wirr deaun.
+gh	25391	Marke	1	Eck willet (öau)k nich mehr wihr d(eau)en.
+gh	25407	Westerwiehe	1	Ik witt ok nich mär weïer douen.
+gh	25514	Haustenbeck	1	Eck will et auk nich ma wir deuhn (2 Sylb.)
+gh	25522	Heesten	1	Jck willt auk nich mehr wier deun!
+gh	25543	Rischenau	1	Eck will ät auk nich mâr wedder daun.
+gh	25560	Lobach	1	Eck will ett auck nich mehr wehr daun.
+gh	25579	Wenzen	1	Eck will et euck nich mehr wi-er dä-un.
+gh	25596	Ackenhausen	1	Eck will et auk nich mehr wier dean!
+gh	25607	Wolfshagen im Harz	1	Eck will't uok nich wedder dhauen.
+gh	25798	Kell	1	Ech wellet och net meh dohn.
+gh	25824	Stromberg	1	Ech wellet och nett me wirrer dohn.
+gh	25845	Staudt	1	Ech well et och net wirra dohn.
+gh	2586	Jurkiszki	1	Eck wöll ött ok nich mehr wädder dohne!
+gh	25876	Steinbach	1	Eich will es ach net me wirrer thone.
+gh	25904	Höfen	1	Ich well et ooch net eongs don.
+gh	25914	Gemünd	1	Ich well et ooch nett mie dohn.
+gh	2602	Maciejowieta	1	Jck will et ok nich mehr wedder dohn.
+gh	26141	Iversheim	1	Ich well et och net mie wedde dohn.
+gh	26155	Gelsdorf	1	Ech well et ned mieh dohn
+gh	26178	Ohlenberg	1	Ech well et och nit mieh widder dou.
+gh	26205	Seifen	1	Ech well et och net mih wirrer dohn.
+hi	26228	Gehlert	1	Ich well es ach nicht mehr wirrer thou!
+hi	26261	Waigandshain	1	Äich will et ach net werrer dou!
+hi	26283	Sinn	1	Aich well's net mi dou!
+hi	26312	Venwegen	1	Ech weill et och nett mih dohn.
+hi	26324	Üdingen	1	Ich well öt och net mi wedde thon.
+hi	26351	Borr	1	Ech well et och net mie wedde donne.
+hi	26578	Roisdorf	1	Ech well et och net mi wedde donn!
+hi	26604	Geistingen	1	Ech well et ooch net mie wedder dohn.
+hi	26627	Herchen	1	Ech well et och net mie wedder dohn.
+hi	26642	Mittelhof	1	Ech well et och net mehr wirrer dohn!
+hi	26664	Wilden	1	Ech wäll ätt och nett mieh wierer doh.
+hi	26683	Straßebersbach	1	Ech wills ach net werer dou.
+hi	26712	Mariagrube	1	Ich well et och net mi/e we/er donn.
+hi	26734	Niederzier	1	Ich wellet och net mie wedde don.
+hi	26753	Horrem	1	Ich well et och nett mieh donn.
+hi	2676	Rygarby	1	Öck wöll et ok nich mea wedda dohne.
+hi	26763	Poll	1	Ich well et ōch nitt mieh widder duan!
+hi	2691	Kolwiny	1	Ek well et ock nich wedda dōne!
+hi	27003	Heiligenhaus	1	Éch wéll ét och nétt mé dōhn.
+hi	27025	Faulmert	1	Ech wel et och net mehr wiër dohn.
+hi	2703	Srokowo	1	Oik wôll ött nich mehr wädder dohne.
+hi	27038	Hahnseifen	1	Ech well et och net mehr duhn.
+hi	27064	Müsen	1	Ech well et och net meh werer da!
+hi	27074	Schameder	1	Ech wälls äch net mi werrer dhu.
+hi	27106	Dudenhofen	1	Ich wills aach nitt meh wirrer thon.
+hi	27135	Wenighösbach	1	Ich wells ach nemme wira thou.
+hi	2715	Stregiel	1	Öck wöll ätt ook nich mehr wedder dorne!
+hi	27150	Wiesthal	1	Ich will es a net mehr wieder thue.
+hi	27163	Massenbuch	1	Ich will's ag nit mehr wieder thua.
+hi	27186	Neubessingen	1	I wills a nes mia thua.
+hi	27209	Dittelbrunn	1	Ich will's auch nis meh thua.
+hi	27223	Vockenhausen	1	Ich wills aach netmi thou(ng).
+hi	27244	Heddernheim	1	Ich will es ag net mehr widder dhu.
+hi	2727	Budziska	1	Eck well et nich möhr wädder dhone!
+hi	27425	Bruchköbel	1	Ich wills aach nedd mih wirrer thon!
+hi	27444	Hailer	1	Eich well's ach neït mih wirrer duh.
+hi	2746	Chelchy	1	Eck well ett ock nich mehr wedder dohne.
+hi	27461	Oberndorf	1	Ich wells ach ne me do.
+hi	27469	Rossbach	1	Ich well's a net me wier thu.
+hi	27480	Hassenbach	1	Ich wills a nies mior thu.
+hi	27501	Poppenlauer	1	Ich wills a niähmär thuä.
+hi	27507	Cratzenbach	1	Ich wills aach nit mi werra dou.
+hi	2762	Wilkowo	1	Eck will et uck nich mehe wedde dohne!
+hi	27692	Friedrichstal	1	Eich wills ach nit mär wirer thau.
+hi	27719	Leidhecken	1	Aich wills aach nait wirrer doun.
+hi	27742	Gelnhaar	1	Aich wills aach näit mi wirrer doa!
+hi	27765	Ulmbach	1	Ich well's a niet meh wi-er do.
+hi	27775	Eichenried	1	Ich wells au net meh wiere du?
+hi	27792	Wildflecken	1	Ich well's net wihr thu.
+hi	27807	Bastheim	1	Ich wells ach nes meh thue.
+hi	2781	Karwiny	1	Oech wöll es ooch nich meh wädder thue.
+hi	27821	Philippstein	1	Aich will's ach neit mer wirrer dou.
+hi	27835	Dornholzhausen	1	Ach wills ach net wirrer dou.
+hi	2800	Krzykaly	1	Ech wa(?)h es och nich mea wedda thue.
+hi	28010	Nonnenroth	1	Aich wöllst eag neit wirrer doan.
+hi	28027	Götzen	1	Eich wills ach näit muh wirrer deuh!
+hi	28045	Altenschlirf	1	Aich wells aach nett wieder thoo(?)h.
+hi	28063	Fulda	1	Ich wills au net widder do.
+hi	28080	Rupsroth	1	Ich will's au net meh wier du.
+hi	28107	Gerthausen	1	Ich will's a nit mehr witter thua.
+hi	2817	Mawry	1	Öch wöll's och nich mó wödda thue.
+hi	282	Zolna	1	Ick wi't uck ni me wedde daun.
+hi	2827	Sarnowo	1	Ech well es och nich meh wedda thue.
+hi	28278	Krumbach	1	Aich wills aach neat mih werre dou.
+hi	28298	Londorf	1	Äch will's aach nitt wirrer du (es)
+hi	28315	Otterbach	1	Äch wills ach nitt mih werra duh.
+hi	28330	Schwarz	1	Eg wells oach nett meh werre do.
+hi	28346	Grossenmoor	1	Ich wälls au net weder to!
+hi	28358	Rasdorf	1	Ich will's au nätt meh widder tho!
+hi	28369	Wiesenthal	1	Ich wills au net me wer thu.
+hi	28392	Herzhausen	1	Ag will's äch nitt mi wirre do.
+hi	2846	Ledlawki	1	Öck wöll et nich mea wädda deone.
+hi	285	Kosobudy	1	Ick well dat och nich mehr wedder dauna.
+hi	28568	Betziesdorf	1	Äech wills oach nett mieh werre duh.
+hi	28589	Neustadt (Hessen)	1	Ich wälls och nett mi wärre du.
+hi	28605	Neukirchen	1	Ich wells öhch net mi werre düh.
+hi	28623	Gittersdorf	1	Ech wells ai net meh werre doh!
+hi	28640	Herfa	1	Ech well es auch nett werre doh.
+hi	28651	Frauensee	1	Ech wells äu nett mehe witter thu.
+hi	289	Königswiese (Leśna Huta)	1	Itch will dat uk nich meä wäde dohne.
+hi	2900	Borawskie	1	Ick wöll et ok nich mehr wädder done.
+hi	2906	Zabrowo	1	Ick wellet ok nich mee wedde dhaune.
+hi	291	Lubichowo	1	Itch will et uck nich meiä weddä dohnä.
+hi	2916	Stanowo	1	Êch well's ôch nich mehr wedder thue.
+hi	2923	Fijewo	1	Ech well es och nich mehr wieder thue.
+hi	2935	Groß Koschlau	1	Ech well es ooch nich mer wedder thue.
+hi	2955	Liksajny	1	Oech wöll's och nich mieh wödder thue.
+hi	2962	Molza	1	Ech well es och nich wedder thu.
+hi	2970	Warkaly	1	Ech well es och nich meh wedda thue.
+hi	2996	Bucznik	1	Ech wöll eß och nich mehr wedder thue.
+hi	300	Montauerweide	1	Eck well et ock nich mehr wedder dohne.
+hi	300660	Sankt Roman	1	I tuas eh nimma.
+hi	300798	Reikersdorf	1	I tuas eh nimmá!
+hi	301042	Rigaus	1	I wer's gwiß neama toa - Kinder sagen: himmigwiß
+hi	3058	Zyndaki	1	Ek wel et nich mea wedda done.
+hi	3069	Rychliki	1	Öch woll es ooch nich mihr wedder thue.
+hi	3083	Chojnik	1	Oech wöll es ochch nich mir wödder thue!
+hi	3093	Ksiaznik	1	Ech wöll es och nich mi e wudde thue.
+hi	3111	Glotowo	1	Öch wöll ös och nich meh wedda thue.
+hi	312	Ryman	1	Ik will dat uk nich meha werra daua.
+ij	3122	Derc	1	Ech well es ach nich meha wedda thun.
+ij	31677	Battweiler	1	Ich will's ach net mehn werrer dun.
+ij	31695	Heltersberg	1	Ich will's a nimme wirrer duhn.
+ij	31700	Ramberg	1	Ich will's ach nimmän dhun!
+ij	31719	Geinsheim	1	Ich wills ach net widder daun.
+ij	31737	Diedenhofen	1	Ech well et och net mej machen (daun).
+ij	31765	Laumesfeld	1	Ech wéll ét och netmäi doun.
+ij	31789	Beckingen	1	Ich well et ach nemme dehen.
+ij	31800	Calmesweiler	1	Eich wellet ach nemme duhn.
+ij	31824	Steinbach bei Ottweiler	1	Eich will es aach nett mehr werrer duhn.
+ij	32019	Dietschweiler	1	Ich will auch net mehr wieder thun.
+ij	32040	Siegelbach	1	Ich wills a nimmi due.
+ij	32053	Alsenborn	1	Ich wills aach net mä wirre duhn.
+ij	32067	Erpolzheim	1	Ich wills a nimmi wirrer dha.
+ij	32085	Kreuzweiler	1	Éch well et och nett moei doun.
+ij	32102	Greimerath	1	Ech well et och net mi dun.
+ij	32119	Oberlöstern	1	Eich well et aag net me wider doun.
+ij	324	Podwilcze	1	Ick witt uck nich mehe werre daue!
+ij	3254	Jurkowo	1	Oek wöll et ok icht mehr wedda done.
+ij	3267	Pozarki	1	Ek wel et ok nich mehr wedder done!
+ij	3272	Gawliki Wielkie	1	Eck well et ook nich mehe wädder dohne.
+ij	3280	Swietajno	1	Eck well et ock nich mehe weddee dohne.
+ij	32855	Altviller	1	Ich will es och nimmé wieda dhun.
+ij	32883	Woustviller	1	Ich wēlls āh nimme widder duhn.
+ij	3301	Barschken	1	Ek wöll et ok nich mehr wedder done.
+ij	33035	Rimling	1	Ich will's a nimmè mach'n
+ij	3304	Dawillen	1	Eck wöll ett ook nich mehr wedder dohne.
+ij	33055	Roppeviller	1	Ich wells a nemmer widr dun.
+ij	33064	Dahn	1	Ich will's äh nimmi wirrèr duh.
+ij	3309	Dittauen	1	Öck wöll ett ok nich mehr wedder dohe.
+ij	33102	Gleiszellen	1	Ich will's ach nimmi dhun!
+ij	33111	Herxheimweyher	1	Ich wills äch nimmi dau.
+ij	33126	Guinkirchen	1	Ich will-t auch nimmé dien!
+ij	33146	Überherrn	1	Eich man't mein Leppdag nimme dun.
+ij	33159	Malstatt	1	Ich will's ach ne meh dun.
+ij	3318	Deegeln	1	Eck well et ok nich wedder done.
+ij	33185	Niederwürzbach	1	Ich wills ah nemme weder dun.
+ij	33331	Steinbuch	1	Ich wills ach net mer wirrer dhu.
+ij	33346	Breitendiel	1	I will's a nimmi mei thoun!
+ij	33364	Hundheim	1	J wills awer a nimme done.
+ij	33381	Steinbach	1	J wills au nemmer thua.
+ij	33400	Eibelstadt	1	I wills a nitt wittar thua.
+ij	3342	Pillkoppen	1	Öek wöell et ok nich mehr wedder dohne.
+ij	33420	Rödelsee	1	I will's a' niamm'r thua.
+ij	3343	Karkeln	1	Öck war it uck nich mehr wedder dohne!
+ij	3345	Dünen (Ackmenischken)	1	Ock wöll et ok nicht mehr wedder done.
+ij	3351	Pleine	1	Öck wöll et ook nich mehr wedder done.
+ij	33605	Erfelden	1	Ich will es aag nett wirrer thun.
+ij	33614	Traisa	1	Ich wills a net me wirra tu!
+ij	3362	Cullmen-Kulken	1	Eck wöll et ok nich mehr wädder dohne.
+ij	33631	Heubach	1	Ich wills aa gor nimmäihn daouhn.
+ij	3364	Rositten (Rybachiy)	1	Eck well et ook nich mehr wedder dohne!
+ij	33648	Hofstetten	1	Ich wills ach nett mäi wirrer tou!
+ij	33660	Bischbrunn	1	I will's nimmia thann!
+ij	33677	Birkenfeld	1	I wills a nömma wieder thun.
+ij	33692	Rupprechtshausen	1	I wélls ah neß wär thua.
+ij	33711	Gaibach	1	I wills ā nix mèr widder dua.
+ij	33725	Rüsselsheim	1	Ich well's aach nett meh wirre dh? (Nasal)
+ij	33741	Langen (Hessen)	1	Ich wills aach net meh wirrer doh.
+ij	33849	Altlussheim	1	Ich will's ā nimmeh widder thu.
+ij	33860	Schatthausen	1	Ih will's ā nimmĭ wĭder daun.
+ij	3387	Sassenhöhe (Augsgirren)	1	Ek well et ok nich mehr wedder dhone.
+ij	34001	Daudenzell	1	J wills a nimmer daun!
+ij	34015	Billigheim	1	Ich will es auch nie mehr daune.
+ij	34025	Oberkessach	1	Ich will au nimme thau
+ij	34044	Ailringen	1	I wills au nimme done.
+ij	34058	Lichtel	1	I wills a nimme thoa.
+ij	34065	Windelsbach	1	Ih wills ah nimmi toa.
+ij	34076	Ludwigshafen am Rhein	1	Ich will's āch nimmer widder dūhe!
+ij	34096	Ursenbach	1	Ich wills a némmé wirra dau.
+ij	34216	Gammelsbach	1	Ich wills á nimäi wira dau.
+ij	34228	Rumpfen	1	Ich wills a nimmer wieder daun.
+ij	34235	Gerichtstetten	1	Ī will's ă nimm'r dūn.
+ij	3424	Beierstedt	1	Ik will et ok nich (mehr) wēr daun!
+ij	34247	Königshofen	1	Ih wills a nimmi widr tohanä.
+ij	34266	Aufstetten	1	I will's a nit mehr wieder thua.
+ij	34288	Weigenheim	1	I wills a nämmer thanna.
+ij	34305	Bobstadt	1	Ich wills aach nimmeh wirrer dho.
+ij	34321	Mittershausen	1	Ich will's aa ni mäin wirrer doun.
+ij	344	Modrolas	1	Ick witt ok ni mea werra daua.
+ij	34447	Berghausen	1	Ih wills ah némméé widdar doo.
+ij	34503	Winzerhausen	1	Ih wills au nimme dhoa.
+ij	34522	Liemersbach	1	Ih will's a nemme wieder dua.
+ij	34535	Eutendorf	1	Ih will's awr nemme doa!
+ij	34545	Honhardt	1	I wills a gwīs nimmi dua.
+ij	34557	Segringen	1	I wills a net widder thoae!
+ij	34566	Graben	1	I will's a nimméhn widder dun.
+ij	34707	Odenheim	1	I will's a nimme doh (zwischen o u. u)
+ij	34734	Massenbachhausen	1	I wills a ni meh wieder dhu.
+ij	34750	Binswangen	1	I wills a nimmi wiedar dhua!
+ij	34773	Öhringen	1	I wīlls némmé dō.
+ij	34791	Döttingen	1	I wills a nimme widder dhue.
+ij	34802	Gaggstatt	1	I wills ā nidd mèa widder doa.
+ij	34818	Dorfgütingen	1	I wills nimmi thoa!
+ij	34838	Röckingen	1	I wills a nimmer meha wieder thoa.
+ij	34855	Windsfeld	1	I wills nemmer thaa.
+ij	34872	Ettenstatt	1	I wills ā némmer widder thou.
+ij	35003	Untermässing	1	I wühls a nehmer wieda thuan.
+ij	35011	Gimpertshausen	1	I wills auch nit wieder thun.
+ij	35026	Beratzhausen	1	I will es auch niat wida tao.
+jk	35035	Eitlbrunn	1	I wills a nimma wieda doa!
+jk	35046	Altenthann	1	Ich will's auch ni't mehr wieda thu!
+jk	35055	Rauenzell	1	I will's a nimmi wieda thoa.
+jk	35067	Ismannsdorf	1	I willis a nimmer dhuh.
+jk	351	Smecino	1	Ick will datt ok ni mehä wärrä dauä.
+jk	3516	Bornum	1	Ek will et ok nich mehr wedder dau'n.
+jk	35165	Büchenbach	1	Ih wills ah nimmer thou.
+jk	35168	Seligenporten	1	I will's a nimma wieda thau-n.
+jk	35188	Günching	1	Ih wills ach niad wieda thāu!
+jk	35195	Adertshausen	1	I wills à nimma wida dáu.
+jk	35204	Wiefelsdorf	1	Ih will's a net wehr thou!
+jk	35211	Bodenwöhr	1	I wills a nimma wieda dou.
+jk	35223	Flachslanden	1	I wills a nemmr thoa.
+jk	35236	Grosshabersdorf	1	I wills a nemmer doh!
+jk	35254	Birnthon	1	I will's a nemmer widder thou.
+jk	35339	Röthenbach	1	I will's ah nemmer wider thou!
+jk	35377	Alfeld	1	I wüls à niat meia wida thou.
+jk	35382	Ammerthal	1	I will's a nimma thou!
+jk	35393	Trisching	1	I thuas nimma.
+jk	35517	Unternesselbach	1	I wills a nemmer toa.
+jk	35524	Oberreichenbach	1	I will's ā nèmmé widé ton!
+jk	35544	Buckenhof	1	I wills a nimmr thua!
+jk	35562	Kirchröttenbach	1	I wills ā nimma wida dou.
+jk	35571	Hartenstein	1	I wills a nimma wieda thou!
+jk	35577	Schlicht	1	I wills nima wieda thou.
+jk	3558	Beckendorf	1	Ick will et ok nich mehr wedder wä'r dau'n.
+jk	35585	Kohlberg	1	I wills a nimma wieda dou!
+jk	35597	Oberlind	1	I wills a nimma dun.
+jk	356	Porst	1	Ick wī datt ok nī meä wäddä daua.
+jk	35710	Haag	1	Ich wills ez a widr nemmr dann.
+jk	3572	Domersleben	1	Ick will et ok nich mehr wedder daun.
+jk	35729	Mühlhausen	1	Ich wills nemmr thå.
+jk	35755	Pautzfeld	1	Ich wills a nüme wiedé tho.
+jk	35762	Moggast	1	Ich wills ā nimmă wiedă thō.
+jk	35778	Pegnitz	1	I wil's a nimma wieda thou!
+jk	35791	Speinshart	1	I will es a nimma wieda thou.
+jk	35799	Friedersreuth	1	I wia's (werde es) a g'wiß nimma döun.
+jk	35807	Plössberg	1	I wills a nimma tou.
+jk	35824	Geusfeld	1	Ich wills ā nix m'r thua.
+jk	35843	Tütschengereuth	1	Ich wills anümmer wiedè thâ!
+jk	35857	Litzendorf	1	I wills a nimma wieda thò.
+jk	3592	Prester	1	Ik will et ok nich wedder dohn.
+jk	36007	Hollfeld	1	Ich wills och nümma tha.
+jk	36017	Donndorf	1	Ich wills  a nimma tho.
+jk	36039	Kirchenpingarten	1	Ich wls a nimma wieda thou!
+jk	36049	Hohenhard	1	I wills a nimma wieda thou!
+jk	36056	Leonberg	1	Ich wills ă nimma wida dou!
+jk	36065	Hohrodberg	1	I wells o nemm thüe.
+jk	36084	Colmar	1	I well's oi nemm weder thüe.
+jk	3609	Dalchau	1	Ick will et ook nich wedder duen!
+jk	3614	Schweinitz	1	Ick will et ook nich wedder duhn!
+jk	36159	Meistratzheim	1	I well's gor nemm mache.
+jk	36178	Müllen	1	Ÿ will's au nimm wider dièn.
+jk	36202	Kniebis (Kr.Freudenstadt)	1	I wills ao némmé dao.
+jk	3626	Nennhausen	1	Ik willt ok nich mehr wedder dohn.
+jk	36272	Ödsbach	1	I' will's aber nimmi wider do.
+jk	36277	Turquestein-Blancrupt	1	Ich wills nimm widder düĕ.
+jk	36282	Wangenbourg	1	Ich wills a nimmi thun.
+jk	36309	Furdenheim	1	èch wélls awer aü némm noch emol dön.
+jk	36334	Ruprechtsau	1	Ich will's nĕtt nŏch ĕ mōl dhun.
+jk	3634	Berge	1	Ick willet ok nig mehr wädder duhnn.
+jk	36348	Achern	1	I wills au nimme widdr dua!
+jk	36362	Saarburg	1	Ich will's ā nimmé duhn.
+jk	3639	Pausin	1	Ick will ett ōch nich mehr wedder thuen.
+jk	36489	Bois De Chêne	1	I will's au nimmeh' widder thun!
+jk	3649	Hermsdorf	1	Ich will es och nich mehr widder thun.
+jk	36525	Wilshausen	1	I well es au net mehr wéder tuèn.
+jk	36552	Marienthal	1	I well's aui némmé duen.
+jk	36567	Fort-Louis	1	I will's ah nimmi wied'r duhn.
+jk	36594	Bad Rotenfels	1	I will's ā nimme dua.
+jk	366	Przeradz	1	Ik wü dat uk ni mea werre daue.
+jk	3664	Birkholz	1	Ik will es ok nicht mehr wedder duhn.
+jk	36737	Altwiller	1	Ich will's a nimme wider dun!
+jk	36755	Weislingen	1	Ich will's ä nimme widder dhun.
+jk	3677	Gielsdorf	1	Ick will et ohk nimmer wedder (nimier) duhn.
+jk	36772	Lichtenberg	1	Ech well's au nemmă wéddă duhn!
+jk	36789	Goersdorf	1	Ich will's au nimmi dun!
+jk	36823	Siegen	1	Ich will's aw'r a nimmi thun.
+jk	36842	Neuburgweier	1	Ich will's auch nicht mehr widder thun.
+jk	3688	Ringenwalde	1	Ick will et ok nich mehr wedder duen.
+jk	36880	Bischoffingen	1	Ih wills au nimmi duä.
+jk	36898	Maleck	1	I will's nimme meh due.
+jk	36911	Yach	1	I wills au ňimi widr thu.
+jk	36933	Orschwiller	1	I well's au nimm mache.
+jk	37007	Bindernheim	1	I well's âi ném wédr mâcha.
+jk	37025	Schmieheim	1	I will's äu nimmi widder dua.
+jk	3703	Lehmannshöfel	1	Ick will et ok ni mehr wedder duen.
+jk	37035	Bollenbach	1	J wills au nmi dua
+jk	37058	Le Hohwald	1	J wèls eu nèmin wèdd'r macha.
+jk	3711	Warnick (Warniki)	1	Ick will et ok nich mehr wedder duen.
+jk	37119	Buchenberg	1	J wills au nimmi doă.
+jk	37138	Rottweil	1	I wils au nim̄a wieder dua.
+jk	37153	Obernheim	1	I wills au nemme toa.
+jk	3722	Zaszczytowo	1	Ick will et och nich mehr wedder thun!
+jk	37302	Winterlingen	1	I wells au nemma wiedr thoa.
+jk	37314	Dürrenwaldstetten	1	I wills au nimme wieder doa.
+jk	37333	Hausen am Bussen	1	I will as au nitt mehr wieder thun.
+jk	37354	Baustetten	1	I will's au nimm doa.
+jk	37369	Illertissen	1	I wills au numma dua.
+jk	37388	Schenkenzell	1	I will's au nimmi dua!
+kl	37401	Aistaig	1	Ih wills au nimme wieder thua! (resp. dua)
+kl	3744	Rudnica	1	Ick willt och nich mer wedder thun.
+kl	37555	Stetten bei Haigerloch	1	I wills aber nimme doa.
+kl	37571	Salmendingen	1	I will's au nimme dua!
+kl	37581	Bernloch	1	I wills au nemme wieder dhă.
+kl	37598	Gundershofen	1	I wills au nemme dhuan.
+kl	37607	Eggingen	1	I will's au nimmai duo.
+kl	37622	Holzheim	1	I wills au nim̄e wiedr tṵa.
+kl	37658	Oberwaldach	1	I will's au nemme wieder dhoa.
+kl	37802	Bondorf	1	I will's au nimme wieder thua.
+kl	37825	Lustnau	1	I wills au nemme doa!
+kl	37855	Dettingen an der Erms	1	I will's au nemma dua,
+kl	37862	Donnstetten	1	I will's au nemme wieder du(a).
+kl	37869	Radelstetten	1	I will's au nimmi mei wieder tunn.
+kl	37883	Ballendorf	1	I wills au némmé wieder doå.
+kl	37900	Obermedlingen	1	I' wills o nöt mea wiedr doa.
+kl	37902	Raumünzach	1	J will's au nimme wĭder thue.
+kl	37947	Schönaich	1	Ih wills au nemme wieder do̰ă̰ (tho̰ă̰).
+kl	38044	Hünerberg	1	I wills au nemme wieder doe.
+kl	38056	Gechingen	1	Ih wills nemme soah.
+kl	38095	Denkendorf	1	I wills au nemme thoan!
+kl	38116	Albershausen	1	I wills gwièß nemme doa!
+kl	38136	Winzingen	1	I' wills au nimme mai thua (das in thua weich gesprochen)
+kl	38146	Zang	1	I wills nemme thoă.
+kl	38155	Auernheim	1	I wills ò nimmi doa.
+kl	38169	Dennach	1	I wills au nemme dō.
+kl	38182	Tiefenbronn	1	J will's au nemme widder du.
+kl	38348	Schöckingen	1	I wills auh nemme doa.
+kl	38373	Hegnach	1	I wills au nemme wieder doa.
+kl	38407	Steinenberg	1	I wills au nemme doa.
+kl	38422	Ruppertshofen	1	I wills au net wieder doa.
+kl	38437	Fachsenfeld	1	I will's au nemme wied?r doa.
+kl	38448	Baldern	1	I' will es o net mehr wieder thun.
+kl	38482	Kleinvillars	1	I wĭll's ā nemme dō.
+kl	38502	Hohenhaslach	1	I wills aber au gwies nemme dua.
+kl	38623	Nendingen	1	I wills au nimma widĕr dua.
+kl	38640	Rohrdorf	1	J will's nimme dua.
+kl	38655	Völlkofen	1	I will's au némme wieder thoan.
+kl	38666	Reichenbach	1	I wills au(o) nimme doa. (ao=au)
+kl	38682	Mittelbuch	1	I wills it wieder tue.
+kl	38695	Unteropfingen	1	I wills au numa meh dăa.
+kl	3871	Dreetz	1	Ick will't ok nich miehr wä dohn.
+kl	38720	Kicklingen	1	I wills au net mea dua.
+kl	38738	Westendorf	1	I wills au nimmä mäa dua.
+kl	38764	Waidhofen	1	I wüis à nimmà wiedà doa!
+kl	38774	Eschelbach an der Ilm	1	I wëis a nimmer mehr doa.
+kl	3880	Brunne	1	Ick will et ok nich miehr wedder douhn.
+kl	38863	Pöttmes	1	I wi's o nimma toa.
+kl	3887	Sommerfeld	1	Ick willt ok nich mehr wedder dohn.
+kl	38899	Hebrontshausen	1	I will's a nimma wieda thoa.
+kl	38912	Oberglaim	1	I wölls a nima wieda thoa!
+kl	38935	Fronhofen	1	I wills nemm'r thoa.
+kl	3896	Malz	1	Ick will et ok nich mihr wedder dohn.
+kl	38963	Stepperg	1	I wills nimma thoă.
+kl	3901	Stolzenhagen	1	Ik wîll et ok nich mehr wedder dhuen.
+kl	3906	Prenden	1	Ik will et ok nich wedder thun!
+kl	39062	Hafenreut	1	I wills au nicht meh wieder thun.
+kl	39089	Gerolfing	1	I wüls a nima dōu.
+kl	39103	Irsching	1	I wills a nemma thun.
+kl	39116	Siegenburg	1	I will's a nimma thoan.
+kl	39126	Semerskirchen	1	I will s a nŏt mehr wieda thua!
+kl	39140	Hofkirchen	1	I wül es auch nimma wiedr dau.
+kl	39160	Dürrenzimmern	1	I wills nemmar doa.
+kl	39179	Gundelsheim	1	I wills auch nimmer thoa!
+kl	3919	Trampe	1	Ick will es ok nicht mehr wedder thun.
+kl	39201	Walting	1	I will's a nét wieder thua.
+kl	39293	Bieswang	1	I wills o nemmea thou.
+kl	3931	Neureetz	1	Ik willet ok nich mier wedder don.
+kl	39317	Pondorf	1	I wills a nimma thoa.
+kl	39329	Neukelheim	1	I wills a niuw thoa.
+kl	39342	Peising	1	I will's a nima wieda thua.
+kl	39356	Arlesried	1	I wills au nŏma me do.
+kl	39370	Türkheim	1	I wills au numa dua.
+kl	39398	Gauting	1	I wills au numa dua.
+kl	3944	Kurzycko	1	Ick will't ok nich mehr wedder dhuan.
+kl	39459	Kaufering	1	Dös will i nimmer doa.
+kl	39475	Eching am Ammersee	1	Ich wills a nimma wieda doa.
+kl	3949	Grzymiradz	1	Ick will'et och nich mehr wedder duh'n.
+kl	39494	Perlach	1	I wüls aber nimar thoa.
+kl	39503	Zorneding	1	I wials a nimma wieda thoan.
+kl	39509	Albaching	1	[Satz nicht vorhanden]
+kl	39515	Sankt Leonhard	1	I wuis a niema wieda thoan.
+kl	39517	Niederraunau	1	I will's nummă doa!
+kl	39529	Walkertshofen	1	I will's au nimma dhua.
+kl	39546	Oberottmarshausen	1	I' wills o nimma tua.
+kl	3957	Lubiszyn	1	Ik will et nich mehr wedder thuen!
+kl	39647	Mittelstetten	1	I will's o nimmer mear dua.
+kl	3965	Heinersdorf	1	Ick will et ook nich mehr wedder duhn.
+kl	39662	Bergkirchen	1	I wills a nimma doa.
+kl	39667	Unterschleissheim	1	I wills niema thune!
+kl	39673	Moosinning	1	I wills a nimma wieda thuan!
+kl	39687	Oberdorfen	1	I wuis a nima wida doa!
+kl	39693	Wettenhausen	1	I wills au nime wiedr toa.
+kl	39710	Zusmarshausen	1	I wills au nima mea thoa!
+kl	39723	Täfertingen	1	I will’s au nim̄’r mehr thoa.
+kl	39742	Gallenbach	1	I wills o nimma wieda thun.
+kl	39865	Hilgertshausen	1	I will a nim a thuan.
+kl	39880	Allershausen	1	I wills a nimma thoa.
+kl	39891	Rast	1	I' wöls a nima dhuä.
+kl	39901	Vilsheim	1	I wuis a nima doa.
+lm	39954	Sattelbogen	1	I wills a nim̅a daun [große Tilde unter „un“].
+lm	39962	Krailing	1	I we͡is [plus großes Zirkumflex über „eis“] a nim̅a da͡u.
+lm	39968	Oberried	1	J wias a nima tau.
+lm	40000	Pertolzhofen	1	I wills a nimma dou!
+lm	40012	Tiefenbach	1	I wills a nimma wieda dou.
+lm	40047	Pemfling	1	I wills oba a nimma thoa.
+lm	40057	Arnschwang	1	I wull's a nimma dou!
+lm	40112	Wald an der Alz	1	I wüls nima wida doa.
+lm	40137	Ranoldsberg	1	I wuis a nimma dhoa.
+lm	40145	Erharting	1	I wĕis a nima toan.
+lm	40155	Gumpersdorf	1	I wells a nimma wieda toa.
+lm	40191	Vilsbiburg	1	I wers a nimma wieda thoa.
+lm	40202	Gangkofen	1	I weïs a nimma wida thoan.
+lm	40212	Neuhofen	1	Ī wags á nimmá thuá!
+lm	40220	Bad Birnbach	1	I wialls a nima tua.
+lm	40231	Ruhstorf an der Rott	1	I wills a nimma thoan.
+lm	40274	Wörth an der Isar	1	I wëis a nöt wieda doa.
+lm	40286	Griesbach	1	I wills a not mehr wieder thoan.
+lm	40297	Indersbach	1	I weis a nimma toa.
+lm	40308	Walchsing	1	I wills a nimmer dua.
+lm	40320	Kirchberg	1	I mog's à nimma wieda doà.
+lm	40331	Haag	1	I wüis a nima doa!
+lm	40402	Hankofen	1	I weis a nimma no a moi doa!
+lm	40414	Plattling	1	I wüis abăr ā nimmă thoa.
+lm	40420	Auerbach	1	I wöis a nima doa.
+lm	40428	Saldenburg	1	I thus fein gwiß nimma.
+lm	40439	Karlsbach	1	I well es auch nimma wieda thua.
+lm	40516	Steinach	1	Dös thaui nimma! Dös dou i ... oder dös dua i...
+lm	40524	Perasdorf	1	I wuis a nimmā dôa.
+lm	40531	Regen	1	I duas mei löbta (mein lebetag) nima!
+lm	40535	Klingenbrunn	1	I waös gwis nimma doan!
+lm	40538	Riekofen	1	I' will's nimma thua!
+lm	40597	Lindau (Bodensee)	1	I wills o numma wieder doa.
+lm	40605	Schnellers	1	I wills numma du.
+lm	40613	Ratholz	1	J wills au numma wiedr du.
+lm	40637	Eschbach	1	J will's au nüma wieder thua.
+lm	40655	Erzingen	1	I' will es ou nit meh wieder thue.
+lm	40757	Schienen	1	J will's au numma thua.
+lm	40771	Wollmatingen	1	J' will's ou nime thue.
+lm	40785	Kluftern	1	J' will's numma dua.
+lm	40798	Obereisenbach	1	I wills numa du.
+lm	40807	Ratzenried	1	I wills numma(?) dua.
+lm	4081	Bantikow	1	Ick will't ôk nich mehr wedder dôn.
+lm	40819	Kreuzthal	1	I will's au nimma wieder thu.
+lm	40844	Münchingen	1	J wills gar nümmi dua.
+lm	40863	Tengen	1	I will's au numma to.
+lm	40898	Billafingen	1	J wills nima tua.
+lm	4093	Kränzlin	1	Ick will't ok nich währ dohe.
+lm	41018	Eigeltingen	1	J will's au numme doe.
+lm	4102	Seebeck	1	Ick willt ok nich mehr wädder dohn.
+lm	41049	Illmensee	1	J will's numma thoa.
+lm	41057	Baindt	1	I wills numma thua.
+lm	41064	Ziegelbach	1	I wills ou numma meh dua.
+lm	41076	Maria Steinbach	1	I' wills au nömma mea do!
+lm	41086	Waldau	1	J wills au nimmi widder duè
+lm	41098	Hubertshofen	1	J wills au nimma tua.
+lm	41114	Öfingen	1	Ech wills au nimme wider doan.
+lm	4112	Klein-Mutz	1	Ick willt aok nich mehr weeder duhe.
+lm	4119	Gross Dölln	1	Ick willt ok nich mihr wädder dohn.
+lm	41200	Masevaux	1	I wills ō nimma düo.
+lm	41214	Aspach-Le-Bas	1	Ich will's ōi nimmă widd'r düa!
+lm	4123	Senftenhütte	1	Ick will det oak nich mehr wedder dohn!
+lm	41245	Lipburg	1	J' will's au' nimmi wieder duè!
+lm	41262	Utzenfeld	1	J wills nimme me due!
+lm	41275	Schluchsee - Blasiwald	1	J wills au nüma wieder dua.
+lm	41296	Oberentzen	1	Ich wills oi nim thüa.
+lm	41309	Feldkirch	1	J will's a nimmi dua.
+lm	41336	Kappel	1	Ich will es au nimi thua.
+lm	41351	Urbès	1	I wills o nimmemeh thue.
+lm	41365	Rimbach-Près-Guebwiller	1	I wèll 's au nimma mèh d'hüa.
+lm	4142	Stoki	1	Ick will et og ni mehr wedder duen.
+lm	41460	Rixheim	1	èch wèlls g'wèss nèmme meh düa.
+lm	4152	Stoleczna	1	Ick willt ohk ne mihr dädde(ä) dun(ä)n.
+lm	41566	Ranspach-Le-Bas	1	I will's og nimme wieder thüa!
+lm	41598	Lörrach	1	J will's o nümme meh duä.
+lm	4161	Glazow	1	Ick willt ook nĭ mir wedda doon!
+lm	41623	Hütten	1	J wills au nümmi wieder duè.
+lm	41653	Largitzen	1	I will's nim meh thue!
+lm	4171	Okunie	1	Ik will et uok nich mehr wedder dohe.
+lm	41714	Lucelle	1	I wills o nimmè düă.
+lm	41785	Höhenrain	1	I wüis gwies nimá doa.
+lm	41801	Grosshöhenrain	1	Dös due i aba nimma.
+lm	41811	Tattenhausen	1	I wills ah nimma wieda thoa.
+lm	41819	Ollarzried	1	I will's au it mö wied(e)r thu.
+lm	41836	Kaufbeuren	1	I wills o nimma daun.
+lm	41845	Denklingen	1	I will's gwiß nimma doa.
+lm	41855	Raisting	1	I wills o nima thua.
+lm	41872	Baiernrain	1	I wáis nimma toa.
+lm	41932	Huglfing	1	I' wills oh niema thoa.
+lm	41939	Penzberg	1	I willt a nimma thoa.
+lm	41948	Reichersbeuern	1	I thuas nimma.
+lm	41953	Parsberg	1	I will es a nie mehr wieder thuan!
+lm	41963	Kirchdorf am Inn	1	I wills a nimma wieda thua.
+lm	41969	Aschau im Chiemgau-Niederaschau	1	I will's nimma thuan.
+lm	41971	Betzigau	1	I wills au nummamö do.
+lm	41980	Sulzschneid	1	I wills ab(é)r nimma doa.
+lm	41986	Steingaden	1	I' will's o' nimmer thoan.
+lm	42039	Bayerniederhofen	1	J will's o nimma thua!
+lm	42049	Jachenau	1	I wills nia nimma thoa.
+lm	42056	Unterjoch	1	J will es auch nie mehr than.
+mn	42062	Oberau	1	I dus nima!
+mn	42070	Eggstätt	1	I wills a nimma wieda doan.
+mn	42076	Traunwalchen	1	I wills a nimmă thua.
+mn	42084	Kirchanschöring	1	I wills a nima thoan!
+mn	42116	Ruhpolding	1	I' wills a nimma thoa.
+mn	42118	Anger	1	Dös thuai aba gwis nima.
+mn	42132	Ramsau bei Berchtesgaden	1	I will's a nit mehr wieda thoan!
+mn	42140	Hachiville	1	Ich wéll et ŏch nik méi dun.
+mn	42166	Niederwampach	1	Ech vell et och nit me erem dunn.
+mn	42180	Neidhausen	1	Ech wel et och net me 'rem doûen.
+mn	42236	Ettelbrück	1	Éch wĕll ètt och nîet mîe dun.
+mn	42254	Rambrouch	1	Ech well et och nît mîe din.
+mn	42302	Eischen	1	Ech well et och nit mé dinn.
+mn	42316	Hünsdorf	1	Éch vĕl ĕt nĕt mé dôen. Resp: dun
+mn	42341	Biwer	1	Éch wel et och net mĕ erem don!
+mn	42414	Uewerkuer	1	Éch dĭn et ŏch nét erem.
+mn	42431	Peppange	1	Ech well dat och nut mĕi dongen.
+mn	42469	Schwarzenbach an der Pielach	1	I wüs a neama tuan.
+mn	42470	Lehenrotte	1	I wills a neama tuan.
+mn	42472	Thal	1	I wûlls nema tuan.
+mn	42477	Grillenberg	1	I wü's a nit mea wieda toa.
+mn	42520	Schneebergdörfl	1	I tuas eh neama!
+mn	42527	Mollram	1	I wüll 's a neama wieda tuan.
+mn	42532	Frein an der Mürz	1	I wills a neama toa.
+mn	42571	Massing	1	J will's a nia mehr net toa.
+mn	42573	Semmering	1	I' wüs à nimma tuan.
+mn	42587	Feistritz am Wechsel	1	I wüs neama mehr toan.
+mn	42612	Gleichenbach	1	I wüs a neama toa.
+mn	42635	Weiden am See	1	I wüll's a nimma wieda toa!
+mn	42637	Nickelsdorf	1	I wülls a nimmä mâ tuan.
+mn	42640	Siegersdorf	1	I wüll's a nimma tuan
+mn	42647	Stotzing	1	I tuas a nima mehr.
+mn	42670	Wieselburg (Mosonmagyaróvár)	1	i wüis a nimma mea tuan (tã)
+mn	42688	Andau	1	I wüls a nit wieda toa.
+mn	42691	Wiesen	1	I wüls e nima toa.
+mn	42701	Baumgarten	1	I wül es a nimma mea tuan!
+mn	42706	Apetlon	1	I' wülls nimmemea toa.
+mn	42722	Horitschon	1	Ich wüll es auch nicht mehr wieda tōn.
+mn	42728	Holling (Fertőboz)	1	I wülls a nimmamea tua.
+mn	42748	Frasnacht	1	I wills au nüme tue.
+mn	42821	Rietli	1	I wills nomme tue.
+mn	42843	Hohenems	1	I will’s gwiß numma toa.
+mn	42850	Bizau	1	J will's gweos nümma tuo.
+mn	42856	Riezlern	1	I wills au nömma dua!
+mn	42908	Gamprin	1	I wels o numma doh.
+mn	42926	Röns	1	Das willi aber numma tua
+mn	4293	Brielow	1	Ick will et ohk nich mehr wedder duhn.
+mn	42933	Buchboden	1	I wills gwüss nimma duo.
+mn	42939	Lech	1	I will's a nemmä deä.
+mn	42970	Sargans	1	I wills au nümä tuä.
+mn	42977	Schruns	1	Jch will’s o nümma tua.
+mn	42985	Vils	1	I will s gwiß nimmer tuan.
+mn	43004	Hinterhornbach	1	I wills o nimmr tia.
+mn	43013	Rinnen	1	I wills o it nomal tia.
+mn	43021	Ehrwald	1	I will's ou it nomål tuå.
+mn	43022	Leutasch	1	I wills nimma mia toa.
+mn	43027	Bach	1	I will's o nimmer tian.
+mn	43037	Silzerberg	1	I will's o nimme (no a mål) tien.
+mn	43055	Hatting	1	I wills a nimma wiedr toan!
+mn	4306	Deetz	1	Ick will et ok nich wedder dohn.
+mn	43070	Mils bei Imst	1	I wills o numma wieder tia.
+mn	43122	Unterried	1	I will's numma tian.
+mn	43133	Holdernach	1	I wills numma tia
+mn	43152	Kauns	1	I wills ou numma tian.
+mn	43161	Unterberg	1	I wills a gwieß nimmer toan!
+mn	43162	Pertisau	1	I woars gwiß nimma toañ.
+mn	43173	Brixlegg	1	I mechts a nia mea toan.
+mn	43183	Penningdörfl	1	I will es a nimma mehar toan.
+mn	4321	Fahrland	1	Ik will et ok nich mehr wedder duehn.
+mn	43210	Innsbruck	1	I weard gwiß nimmer tian.
+mn	43224	Kolsassberg	1	Ich will’s a nimmer toan.
+mn	43251	Aschau im Zillertal	1	Ih will's nimmer tuan.
+mn	43280	Krimml	1	I wühs e a neama toa.
+mn	43285	Trins	1	I wills a nimmer tuan.
+mn	43288	Dornauberg	1	I wills a nimmar tue.
+mn	4329	Steglitz	1	Ick willt ok nich mähr wedder dun.
+mn	43297	Schmirn	1	I wills a nimmar thien!
+mn	43301	Kitzbühel	1	I weis a nima toa.
+mn	43303	Hochfilzen	1	I will's a nimmer mehr tuan.
+mn	43310	Saalfelden am Steinernen Meer	1	I wÿs a neama toa.
+mn	43315	Werfen	1	I wüs a neama doa.
+mn	43331	Bramberg am Wildkogel	1	I wüs neama doa(n).
+mn	43340	Niedernsill	1	I wüs eh a neama toan.
+mn	43347	Sankt Georgen	1	I tuas neama.
+mn	43354	Goldegg	1	I wüs a neama toa.
+mn	43359	Kleinarl	1	I wü's a neama wieda toa!
+mn	43372	Bad Gastein	1	I weas gwies neama toån.
+mn	43378	Berg-Gruben	1	I wills a nemma tuen!
+mn	43379	Heiligenblut	1	I will's a neammermehr toa(n).
+mn	4338	Köpenick-Kietz	1	Ick will et och nich mehr widder dun.
+mn	43381	Sankt Martin am Tennengebirge	1	Ich werds nimma tau.
+mn	43384	Ramsau	1	I tuas a gå nenma.
+mn	43391	Assach	1	I wüll's neamei toa.
+mn	43393	Donnersbach	1	I wer a nemma to̊a.
+mn	43412	Untertauern	1	I wer’s a neama wieda toa
+mn	43420	Pöllau	1	I wüll's a neama toan!
+mn	43427	Oberweissburg	1	I wäs a woi neama toa.
+mn	43433	Sauerfeld	1	I wi's a net wieda doa.
+mn	43439	Ranten	1	I wüll's åba a neama toå.
+mn	43453	Strechen	1	I wüls a neama toan.
+no	43455	Treglwang	1	I will's neama toan.
+no	43457	Kalwang	1	I wir’s neomma toan.
+no	43458	Trofaiach	1	I wirs a neama toañ.
+no	43462	Hafendorf	1	I willis richti neama toan.
+no	4347	Herzfelde	1	Ick will et ok ni mir wedder duhe.
+no	43480	Sankt Michael in Obersteiermark	1	I wülls neahma tån.
+no	43488	Pusterwald	1	I wülls neama toan.
+no	43489	Sankt Oswald	1	I mog's a neama mehr toan.
+no	43494	Sankt Marein bei Knittelfeld	1	I will's ah net meah (od. meh(r)) toan.
+no	43497	Frohnleiten	1	I wia's niama dóa!
+no	43505	Sankt Peter ob Judenburg	1	I wers wohl neama toa.
+no	43530	Teufenbach	1	I wer's neama tuan.
+no	43534	Sankt Johann	1	I wülls a neamma toan.
+no	43537	Kainach bei Voitsberg	1	I wülls a niama ton.
+no	43544	Gratwein	1	I wers a neama (niama) mehr tuan (tan).
+no	4357	Tempelberg	1	Ich will et och nich mehr wedder thun.
+no	43576	Fochnitz	1	I wülls ?uehma toan.
+no	43579	Wenigzell	1	I wüs a neahmo toah.
+no	43633	Ehrenschachen	1	I wülls eh neama toan.
+no	4364	Döbberin	1	Ick well et ock nimmehr wedder dun.
+no	43640	Salmannsdorf	1	I wüls a nit mear wida tunn!
+no	43662	Sankt Kathrein am Offenegg	1	I wülls a nit mehr tuan!
+no	43699	Siget in der Wart	1	I wuls a nit mehr tan.
+no	43715	Stubenberg	1	I wüs a neama wieda toa.
+no	43726	Unterrohr	1	I wulls mehr nit tuan.
+no	43756	Eggersdorf	1	I tua's gwiß nit mehr.
+no	43761	Sinabelkirchen	1	I wülls a nia (nit) mea wida tua(n).
+no	4377	Pamiecin	1	Ick will et ok nich meh wedder duhn.
+no	43773	Bad Blumau	1	I wülls nit mehr tua.
+no	43782	Deutsch Tschantschendorf	1	I wülls a nit mehr wieda tuan.
+no	43850	Klostermarienberg	1	I wülls a nid mea tuan.
+no	4388	Grabno	1	Ich will es och nicht mehr wedder thun!
+no	43889	Moschendorf	1	I wüll's a seinti(?) niama toan.
+no	43896	St. Jakob	1	I tü’s niemer.
+no	43905	Oberpeischlach	1	I wills a nima tün!
+no	43909	Mörtschach	1	I will's a niöma toån.
+no	43910	Flattach	1	I tuas niamma.
+no	43938	Kolbnitz	1	I wers a neamer tuaa.
+no	43939	Ausservillgraten	1	I will's a nimma tien.
+no	43948	Assling	1	I wills a nicht mahr wieder tuin.
+no	43959	Lindsberg	1	I wers gwiß nimma tuen!
+no	43977	Kornat	1	I wills a niama tuan. I wills a net leichtla wieda tuan.
+no	43982	Berg im Drautal	1	I wills a niema tuen
+no	43988	Goderschach	1	I wills a niamar tuen.
+no	4400	Trzemeszno Lubuskie	1	Ich will es och nich meh widder thun.
+no	44006	Kremsbrücke	1	I wü's a nöama toan.
+no	44010	Oberhof	1	I wills a neama widar tan.
+no	44038	Kleblach-Lind	1	I wills niamer tuan.
+no	44040	Obermillstatt	1	I wears a richtig neame (taen) toen.
+no	44054	Patergassen	1	I wills a nema toan!
+no	44056	Steuerberg	1	I wer's g'wiß neama toan.
+no	44109	Hermagor	1	I wers a neama wiada tuan.
+no	44117	Bleiberg-Kreuth	1	I weas neama toan.
+no	44124	Villach	1	I wills a niama wieda tuan.
+no	44142	Schiefling	1	Ich werd's niemehr tun!
+no	44162	Suetschach	1	I wills a nia mehr wieda tan (od. tun).
+no	44174	Sankt Salvator	1	I tua's richti neamar.
+no	44182	Heft	1	I wers neama tan!
+no	44189	Schiefling	1	I wills beileibe neamer toan.
+no	44196	Modriach	1	I wulls a nema toan.
+no	44200	Launegg	1	I wills g'wiß neama toa.
+no	44234	Obermühlbach	1	I wer's niama tuan.
+no	44243	Hochfeistritz	1	I will s as nia mehr toan.
+no	44248	Sankt Andrä	1	I will’s a neama toan!
+no	44256	Glashütten	1	I wülls (=werde) scha niama tuan. {Das turi niama}
+no	44261	Sankt Peter im Sulmtal	1	I will's a niama tua(n).
+no	44295	Oberhaag	1	I wül's neamamea toa(n).
+no	44303	Klagenfurt-Harbach	1	I wears a niama tuan.
+no	44308	Eberndorf	1	I wälls a niama tuan.
+no	44313	Lorenzenberg	1	I will's a niama tan!
+no	44314	Sankt Margarethen	1	I bils anima bida tun.
+no	44320	Bad Eisenkappel	1	I wills neama tuan.
+no	44333	Paldau	1	I will's nit mehr tuan!
+no	44347	Hohenbrugg an der Raab	1	I wüll's a nit meahr wieda tuan.
+no	44358	Mogersdorf	1	I wülls a nimma wida toan.
+no	44371	Allerheiligen bei Wildon	1	I wärs nimma tuan.
+no	44398	Leibnitz	1	I wll’s a niama mer toan.
+no	44414	Klöch	1	I tua's gaunz gwiß nit mehr.
+no	44425	Ratschendorf	1	I wüll's a niama toan.
+no	44433	Langegg	1	I wers a niammer tuan!
+no	44439	Ebental (Polom)	1	I bill's a net mear biedr tuän!
+no	44442	Steinwand (Podstenice)	1	I bells a net mear biedr tuän
+no	44445	Obergras (Trava)	1	I bell às a nett mear tuän
+no	44447	Göttenitz (Gotenica)	1	I bill’s a net mir biedr tuän
+no	44454	Nesseltal (Koprivnik)	1	I bills anet mer tuon
+no	44461	Tiefenbach (Briga)	1	I bells a net mear biedr tuän
+no	44465	Unterlag (Spodnji Log)	1	I bill äs ānet miär bidr tüän
+no	44519	Wildensbuch	1	I wotts au nümme tue.
+no	44610	Wittenwil	1	Ich wills nüme tue.
+no	44685	Neukirch an der Thur	1	I wills nüme tue.
+no	44770	Mont-Tramelan	1	I wott’s nümme mache.
+no	44771	Pieterlen	1	I wotts o nümme meh mache.
+no	44796	Merzligen	1	I wott das o nümme meh mache.
+no	44801	Gals	1	J wotts o nimme mache. 
+no	44832	Huggerwald	1	I wills o nimmi tue.
+no	44851	Ziefen	1	I wills au nimme mache.
+no	44858	Anwil	1	I wills nümme tuë.
+no	44888	Umiken	1	J wells nüme mache!
+no	44994	Gänsbrunnen	1	I wot's au nümme mache!
+no	45009	Oensingen	1	I wotts au nümme mache.
+op	45022	Mühlethal	1	I wölt's au nümme màche!
+op	45067	Meisterschwanden	1	I wötts au nümme mache.
+op	45192	Mülchi	1	I wius au nie meh mache.
+op	45195	Eigenthal	1	J wells nümme mache. 
+op	4521	Wollin	1	Ick will ett ok nich mehr wedder duen!
+op	4527	Rädel	1	Ick willet ok nich miehr wedder dohn.
+op	45279	Hildisrieden	1	J wills nöme es zweutsmol tue. 
+op	45299	Willisau	1	Ich will's ouw nümme mache!
+op	45312	Bleuen	1	I wiu(ll)s ou nümme wieder mache!
+op	45345	Dielsdorf	1	I will's au nüme tue.
+op	45356	Unterwagenburg	1	Ich wills ä nümme mache.
+op	4539	Wildenbruch	1	Ik will et ok nich wedder duhn.
+op	45474	Boden bei Fischenthal	1	Ich woll s au nümme tue!
+op	4549	Löwenbruch	1	Ick will et ock nich mihr wedder duhn.
+op	45492	Dicken bei Degersheim	1	I wills au nüme tue.
+op	45501	Bonstetten	1	Ich wills gwiß uf Ehr numme tue.
+op	45529	Riedikon	1	i will's au nümme tue.
+op	4560	Deutsch Wusterhausen	1	Ik will et ok nich mehr wedder dhun.
+op	45611	Feusisberg	1	I' wills nümmä tuä.
+op	45627	Starkenbach	1	I wills gär nümmmä tue.
+op	45630	Risch	1	Ich wills au nümme mache.
+op	45644	Reichenburg	1	Jch will's au nüme tue. 
+op	45692	Süri	1	I wott's nümmeh mache!
+op	45694	Courlevon	1	I wots o nümme machä
+op	45716	Brünisried	1	J wöll es o umhi nütme mache.
+op	45718	Ferpicloz	1	J wott's au nie me tue!
+op	45722	Abländschen	1	I will's nie meh mache
+op	4573	Neu Golm	1	Ick willet ok nich mehr widder duhr.
+op	45734	Dentenberg	1	I wills nimme meh mache.
+op	45758	Mutten	1	I wott’s némme mache.
+op	45764	Oberfrittenbach	1	I wott's o nemme mache!
+op	45784	Schüpfheim	1	I wotts au nüomä machä.
+op	458	Wietrzno	1	Ick willt ok ni mehä werre daue!
+op	4584	Hohenwalde	1	Ik will et och nich mehr widder due.
+op	45863	Gurzelen	1	I wills-o nid no einisch mache.
+op	45878	Linden (Oberlangenegg)	1	I wills o nit meh ume mache.
+op	45891	Sörenberg	1	I wells gwüss nömme tue.
+op	45892	Lungern	1	I wills oi nimmä meh tio.
+op	4590	Kunice	1	Ich will es och nich mehr widder thun.
+op	4595	Mierczany	1	Ich will es aoch nich meh wedder thun!
+op	45962	Entschwil	1	I wills nit meh mache!
+op	45980	Saxeten	1	I wills o nimme machen.
+op	45992	Guttannen	1	I will das o nimma umhi machen.
+op	46009	Ulrichen	1	Ich willsus ouch nieme tuon!
+op	46017	Gersau	1	I wills au nümme tue.
+op	46021	Illgau	1	Ich wills au nümme tuä
+op	46026	Engi	1	Ich wills au nüd wider tue.
+op	46027	Leuggelbach	1	Ich will's au nümme tue.
+op	4603	Toporow	1	Ich will's ooch nich mihrd wieder thun.
+op	46038	Linthal	1	Ich wills au nümmä tuä.
+op	46040	Engelberg	1	Ich will's au nümme tüä (auch „nuim̄ä“).
+op	46045	Erstfeld	1	J wils äu nimme wider tüä.
+op	46048	Valendas	1	Ich will's au nit wider tue.
+op	46050	Meierhof	1	Ich wills nia meh tuena.
+op	46051	Camana	1	E wells au nömma tua!
+op	46055	Nufenen	1	I will's au nit meh wider tua!
+op	46059	Fanas	1	I will's au g'wüß nümmä tuä.
+op	46070	Mathon	1	I will's ja numma tia.
+op	46071	Galtür	1	I wills o numma tia-.
+op	46073	Felsberg	1	J wills au nimma wieder tua.
+op	46079	Fideris	1	I will’s au nümme tuen.
+op	4608	Alt Stahnsdorf	1	Jck will et ook nich mehr widder dhun!
+op	46083	Klosters	1	I wills au nit wirem tuon.
+op	46101	Wiesen	1	I will's nie me tuen.
+op	46104	Am Bach	1	Ich will's au nümma tua.
+op	46115	Lauenen	1	I well ses o net mieh tue
+op	46118	Stiegelschwand	1	I wills og nät meh unchi tuä!
+op	46119	Fieschertal	1	Ich wiuws nimmä me tuä.
+op	46127	Bitsch	1	J wius ses öi nimme töe.
+op	46129	Agarn	1	Ich wills oi nimä machu.
+op	46132	Hasel	1	Jch will sus öü nimmä tüö.
+op	46142	Saas Grund	1	Ich will sus oi nimme wider tio!_
+op	46143	Zwischbergen	1	Ich will sus oi ni mä meh tuä.
+op	46145	Zermatt	1	Ich will sis eu nima tue
+op	-46146	Prettau (Predoi)	1	I wils a nimma tüi.
+op	46157	Luttach (Lutago)	1	I wölls niama tie.
+op	-46161	Hinterkirch (Graun)	1	i wills gonz gwies nimma tian.
+op	-46162	Rabenstein (Moos)	1	i wills a niemer tien
+op	46170	Tschöfs (Ceves)	1	I wils a nüamer tian.
+op	-46175	Pfunders (Fundres)	1	I wears a nimma tüön.
+op	-46181	Antholz (Anterselva Di Mezzo)	1	I wills a nimma tian!
+op	-46195	Schabs (Sciaves)	1	I wills a nimma tion.
+op	-46215	Pichl	1	i wills animma tian.
+op	-46217	Burgeis (Burgusio)	1	I wills a nimmar teau.
+op	-46226	Kurzras (Corteraso)	1	I wills nimmer tian.
+op	-46227	Katharinaberg (Santa Caterina)	1	I tua s enk schua nimmer mä.
+op	-46234	Vernuer (Vernurio)	1	I wills a nimar tuan.
+op	-46262	Stilfs (Stelvio)	1	i wils a nimr tean.
+op	46267	Laas (Lasa)	1	i wills a nimmr tian
+op	46283	Gargazon (Gargazzone)	1	I wills a nimmermear tien!
+op	-46293	Sankt Peter Hinter Lajen (San Pietr	1	I wills nimmer tian.
+op	-46305	Sankt Walburg (Santa Valburga)	1	I wills niemr tia.
+op	-46319	Wangen (Vanga)	1	I will dä iats nimmer tian.
+op	46324	Laurein (Lauregno)	1	I will s a niamor tian.
+op	-46340	Kaltern (Caldaro)	1	I wills a nimmer teau.
+op	-46344	Deutschnofen (Nova Ponente)	1	I wills a nit noumal tiä!
+op	-46351	Altrei (Anterivo)	1	I wills a nit mear noumol (wieder) tian.
+op	-46353	Salurn (Salorno)	1	I wills nit noamol meha tean.
+op	46361	Stefansdorf (Santo Stefano)	1	I wills nimma tian.
+op	46365	Lusern (Luserna)	1	I wils o net wiedar tüann!
+pq	46367	Ljetzan (Giazza)	1	ì vis àŋka níχt mɛr túə̯n
+pq	46369	Lusern (Luserna)	1	dítsan vìliχ aux nímər  tǖ́nan [oder: dítsan tǖχ ɔ̀x ne mḗrə]
+pq	46385	Nauders	1	I wills gwies ou nimma tian.
+pq	46386	Heiligkreuz	1	I wills niömma tion.
+pq	46391	Poppenbüll	1	Ick will dat ock ni mehr weller dohn.
+pq	46407	Dahrenwurth	1	Ik will dad ok nich (mêr) well'r do-un!
+pq	46420	Bergenhusen	1	Ick wüll dat ock ni weller dohn.
+pq	46430	Owschlag	1	Ick will dat ock gar nig wedder dohn.
+pq	46443	Holtsee	1	Ick will dat ock ni werrer doon.
+pq	46459	Pries	1	Ik well dat ok nich weller dohn.
+pq	46481	Stakendorf	1	Jk well't ok nich mer werrer daun.
+pq	46492	Behrensdorf (Ostsee)	1	Jck will dat ock ni wer'r daun.
+pq	465	Okunino	1	Ick will dat ok nich meä werrä dauä.
+pq	46554	Sulsdorf	1	Jck will dat ock nich mehr weller dohn.
+pq	46570	Staberdorf	1	Jck will dat ok ni weller dohn.
+pq	46637	Alte Kirche	1	Jck will't ock ni weller dohn.
+pq	46652	Sollerupfeld	1	Jck will et ock nich mehr wärrer dohn.
+pq	46666	Neuberend	1	Ick wöll et ock nich mehr werre dohn!
+pq	46684	Zimmert	1	Jck will et ock nie wärrer dohn.
+pq	46687	Damp	1	Ick will datt ock nich mehr werrer dohn.
+pq	46693	Westermarkelsdorf	1	Jck will datt uck ni mer weller don.
+pq	46784	Grossenwiehe	1	Jck will et ock nich mehr wärrer dohn.
+pq	46798	Estrup	1	Ick will dat ock nich wedder dohn!
+pq	46806	Wippendorf	1	Jck will et nümmer mehr werrer dohn!
+pq	46823	Maasholm	1	Jk wild ok ni wedder don.
+pq	46924	Beken (Bækken)	1	Ick will't ock nich mehr wedder don!
+pq	47139	Sandhatten	1	Jck will't ok gar nich wedder dohn.
+pq	47154	Adelheide	1	Jck wilt ok nich wedder dohn!
+pq	47171	Dreye	1	Ick wüllt ock nech weller dohn!
+pq	47183	Allerdorf	1	Ik willt ok nich weller dohn.
+pq	47189	Heerenland	1	Ik will't ook neet meer weer duen.
+pq	47203	Steenfelde	1	Ik wil't ook nig meer weer doen.
+pq	47219	Lohe	1	Jck will dat uck nich mihr wer daun!
+pq	47224	Burgfelde	1	Jck will't uck nich wedder dohn!
+pq	47235	Moorhausen	1	Jck willt ohk nich well'r dohn.
+pq	4727	Klein Glien	1	Ick will't ok nich mehr wadder dohn.
+pq	47370	Bardenfleth	1	Ick willt ok gonne weller dohn.
+pq	4738	Niederwerbig	1	Ik will et ok nich mehr wedder duhn.
+pq	474	Kramarzyny	1	Ick will dat ok nich meeh wedde daue.
+pq	47402	Mittelbauer	1	Ick will't ok näg mehr weller dohn!
+pq	47422	Neuenbülstedt	1	Eck well't ok neg mer wedder dohn.
+pq	47447	Neermoor	1	Ick willt ok neet mehr weer doon!
+pq	47455	Remels	1	Ik wil't ook nich meer weer doun.
+pq	47463	Petersfeld	1	Jck willt ok gar nich wedder dohn.
+pq	47470	Jaderbollenhagen	1	Jck will't ok nich wedder don.
+pq	4749	Zülichendorf	1	Ick willt ok nich mehr wedder duen.
+pq	47598	Offenwardenermoor	1	Jck will't ok ganß sücka(?) nich weller dohn.
+pq	4761	Schöneweide	1	Ick will es ook nich mehr wedder du'en.
+pq	47612	Paddewisch	1	Jck willt ok nicht mehr weller dohn!
+pq	47624	Ober-Ochtenhausen	1	Jcl(?) willt å? Nech weller don.
+pq	47650	Cirkwehrum	1	Ik will't ook nÿt meer weer doen.
+pq	47657	Westerende-Holzloog	1	Jck will dat ok nich mehr wär dohn
+pq	47670	Wiesede	1	Jk willt ok nig meer wedder doon.
+pq	47677	Neustadtgödens	1	Jk will't ok nich weer don!
+pq	4770	Egsdorf	1	Ick willet ok nich mehr wedder duhn.
+pq	4776	Birkholz	1	Ich willet och nich mer widder duhn!
+pq	478	Pradzonka	1	Jck witt ock nie meä wädä dauä.
+pq	47840	Kükelühn	1	Jck will't ock ni werrer dhon!
+pq	47861	Siggeneben	1	Jck will datt ock n(i)e mihr we(a)ller daun!
+pq	47863	Hedwigenkoog	1	Jck will datt ock ni mehr waller dohn.
+pq	47885	Edemannswisch	1	J? wüll dat ok nich mehr werrer don.
+pq	4789	Briescht	1	Ick will et och nich mehr widder duhn.
+pq	47893	Oesterborstel	1	Jck wüll dat ock ni mehr weller dohn.
+pq	47907	Hamweddel	1	Jk wöll datt ok ni wĕ dohn!
+pq	47916	Warder	1	Eck well dat ock ni meer weller daun.
+pq	47935	Klein Barkau	1	Jck will't ok ni wer daun.
+pq	47952	Mucheln	1	Jk will dat ock ni weller dauhn!
+pq	4800	Gross Briesen	1	Ich will es ooch nich mehr widder thun
+pq	48096	Grömitz	1	Jck will dat ok nich weller dohn.
+pq	48098	Friedrichskoog	1	Jck wüll dat uck nich waller dohn!
+pq	48105	Barlteraltendeich	1	Jck will dat ok ni weller doh'n.
+pq	48115	Holstenniendorf	1	Eck well at ock ni weller doh'n.
+pq	48126	Jahrsdorf	1	Ek well datt ock ni ens weller dohn.
+pq	4813	Klopot	1	Ich will es och nich mer wedder thun
+pq	48141	Ehndorf	1	Jk will dat ok ni mehr wärder dohn.
+pq	48156	Gönnebek	1	Jck will datt ock ne weller daun.
+pq	48164	Wöbs	1	Jck will datt uck nich wärr'r daohn.
+pq	48186	Süsel	1	Jck will dat ock nich miehr weller dohn!
+pq	48233	Brunsbüttelerhafen	1	Jk will dat ok ni weller dohn.
+pq	48239	Brokdorf	1	Jk will dat ok nich weller dohn.
+pq	4824	Radomicko	1	Ick wills och nich mehr widder thun.
+pq	48240	Spiekeroog	1	JK will't ook nich wär doon!
+pq	48242	Berensch	1	Jck will datt uck ni weller dohn.
+pq	48247	Altenbruch	1	Jck will dat uck ne mehr weller dohn!
+pq	48282	Norderney	1	Ick will't ok ne mer wer don.
+pq	48283	Baltrum-Ostdorf	1	Ick will d'ok nich mehr wehr don.
+pq	48302	Misselwarden	1	Jck willt ok gar ni weller doon.
+pq	4832	Radnica	1	Ich war's o ne mieh wieder thue.
+pq	48324	Weissenmoor	1	Jck wüllt ne werler dohn!
+pq	48342	Itzendorf	1	Ik wil dat ok neet wäer doon.
+pq	48356	Arle	1	Ick will't neet wär doon!
+pq	48368	Stedesdorf	1	Ick will't ook nich wär doon.
+pq	48383	Wüppels	1	Ick will't ok nich wedder dohn.
+pq	48392	Langwarden	1	Ick willd uck nich (mehr) wedder dohn.
+pq	48401	Flögeln	1	Ick willt ock neg mehr wehr dohn!
+pq	48477	Iffens	1	Ick will't ok nich mehr wedder dohn.
+pq	48487	Blexen	1	Jck will't uck gar nich weller dohn.
+pq	48497	Altluneberg	1	Jck will't ok nich wedder dohn.
+pq	48507	Hönau-Lindorf	1	Eck willt ock nicht werder dohn.
+pq	48516	Graal-Müritz	1	Jck will dat uck nich eins werră dauh'n.
+qr	48522	Rerik	1	Jck will datt ock nich werre dauhn.
+qr	48532	Brodhagen	1	Jk will dat ok nich mehr werre dauhn.
+qr	48550	Toitenwinkel	1	Jck will dett ok nich mia werrä dauhn.
+qr	486	Niedamowo	1	Ick will't ok nich wedder daune.
+qr	48675	Strukdorf	1	Jck will dat ock nie mehr weller daun.
+qr	48702	Sereetz	1	Jck willt ok nich enmal werrer don.
+qr	48716	Gross Voigtshagen	1	Ick wüll dat ok nich miehr wedder dauhn.
+qr	48726	Beckerwitz	1	Ick will datt ok nich werrer dau'n.
+qr	48738	Steinhausen	1	Ik willt ok nich mihr werrer dauhn!
+qr	48752	Berendshagen	1	Ick will datt ok nich wië werre daun.
+qr	48765	Wiendorf	1	Jck will dat ok nich werre dauhn.
+qr	48790	Rethwisch	1	Jk well dat ok ni weller dohn.
+qr	48800	Lentföhrden	1	Ick well dat ock ni mehr weller dohn.
+qr	48812	Todesfelde	1	Jck willt ok nu nich weller daun.
+qr	49022	Kleinboden	1	Jck will dat ok nich mer werre daun.
+qr	49043	Campow	1	Ik willes ok nicht mehr werre daun.
+qr	49076	Nesow	1	Jk will dat ok nich werre daun.
+qr	49090	Dalliendorf	1	Ick willt ook nicht mihe werre daun.
+qr	49108	Neuhof	1	Jk will dat uk nich mihe werre daun.
+qr	49122	Warnow	1	Jck will dat ock nich eins werrĕ dauhn.
+qr	49140	Güstrow	1	Ick will dat ok nich wedder dohn.
+qr	49146	Drochtersen	1	Jck willt ook neech mehr wedder dohn!
+qr	49162	Gross Nordende	1	Jck will't ok nicht wedder dohn.
+qr	49176	Quickborn	1	Jk well dat ok ni weller dohn.
+qr	49188	Jersbek	1	Jk will datt ok nich welle (e kurz) dunn.
+qr	49311	Riekenbostel	1	Jk will dat uk nich weller dōn!
+qr	49322	Brochdorf	1	Jk willt ok nich weller duhn.
+qr	49332	Bispingen	1	Jck will't oak goar nich wed'er dauhn.
+qr	49338	Wettenbostel	1	Ik will et ock nich mehr wedder daun
+qr	49348	Seedorf	1	Jk will't ok nich mehr werrer dôn.
+qr	49362	Stoetze	1	Jck will dat ok nich warre don.
+qr	49498	Dannenberg (Elbe)	1	Jck will et ok nich mehr wedder dohn.
+qr	495	Jaroszewy	1	Ek will dat ouk nech mehe wede daune.
+qr	4950	Palck	1	Ich wills o nich ni wiedert thun.
+qr	49509	Breetz	1	Ick will't ock nich mehr werrer dohn!
+qr	49524	Laaslich	1	Ick willt ok nich mehr werrer dohn.
+qr	49534	Lübzow	1	Ick willt ok nich werrer dohn.
+qr	49551	Buchholz	1	Ick willt ok nich mehr wärrer dohn!
+qr	49562	Hetzwege	1	Jk will't ock nich woller dohn!
+qr	49569	Otter	1	Jck will datt ok nich mir weller daaun.
+qr	49579	Ollsen	1	Eck well dat ok necht wüder daun.
+qr	49587	Westergellersen	1	Jk wilt ok nich weder daun.
+qr	49605	Barskamp	1	Jick will et ock nich wärde doun.
+qr	4965	Stare Kramsko	1	Ich will es o nicht mehr wieder thun.
+qr	4968	Zodyn	1	Ich will's o nie mie wieder thun!
+qr	49727	Wendhausen	1	Jck willt ock nich mehr werrer dohn.
+qr	49752	Jessenitz	1	Jck will dat ock nich miehr werrer daun.
+qr	49767	Glaisin	1	Ick will't ook goa nich werre dauhn!
+qr	49778	Neese	1	Jk will dat ok nich mehe werre dauhn.
+qr	49794	Pampin	1	Jk will't ok nich mihr werre dauhn.
+qr	4980	Tarnowa	1	Ich wills o ni mi wieder thun.
+qr	49802	Grabow	1	Ick will't ook nich mehr wärrer dohn.
+qr	49813	Wangersen	1	Eck will dad ok nich weller dohn!
+qr	49821	Regesbostel	1	Jck will't ook nich mehr wedder daoun.
+qr	49828	Tötensen	1	Ik will't ak nich mehr werr daun.
+qr	49840	Lassrönne	1	Ick will dat ook nich mehr weller dohn.
+qr	49857	Juliusburg	1	Jck will't ok goâr nich werrer douhn.
+qr	49881	Setzin	1	Ik will't ok nich mehr wedder dauhn.
+qr	49898	Neuhof	1	Ick will datt ok nich miâ werra dauhn.
+qr	50010	Gresse	1	Jck will't uk nich werre dauhn.
+qr	50027	Moraas	1	Ick will dat ok nich mihr wedder dauhn.
+qr	50058	Paarsch	1	Ik will dat ohk nich miä werrn dauhn!
+qr	50068	Barkow	1	Ick will dat ock nich mihr werre dau'n.
+qr	50073	Schwinge	1	Ick will dat ok nich mehr wedder dohn.
+qr	50087	Wisch	1	Jck wüll datt ok nich mehr wer dohn!
+qr	50117	Ottensen	1	Jk will dat ok nig mehr wedder dohn.
+qr	50130	Willinghusen	1	Jk will dat ok nich werrer don.
+qr	50142	Basthorst	1	Jk will dad ook nich werrer daun'n.
+qr	503	Szpegawsk	1	Eck well et ook nich mehr wedder dohne.
+qr	5031	Lugow	1	Ich wills o nimme wieder thun.
+qr	50321	Lehmrade	1	Jck will dat ock nich werre dau'n.
+qr	50332	Drönnewitz	1	Ick will't uck nich mie werre daun'n.
+qr	50343	Gross Rogahn	1	Ick will datt ok nich werrĕ daun.
+qr	50357	Kladow	1	Ick will dat ock nich mir wärer daun
+qr	50365	Hohen Pritz	1	Jck will datt uck nich werra daun.
+qr	50377	Jellen	1	Jck will dat ock nich mehr werre daun.
+qr	50385	Lübsee	1	Jk willt ok nich (mire) werre daun!
+qr	50471	Bellin	1	Ich will dat ock nich wärrer dohn.
+qr	50523	Retzow	1	Ick will dat uck nich mir werre daun.
+qr	50538	Hohenbollentin	1	Ick will dat uk nich wärra daun!
+qr	50552	Golchen	1	Ick will't uck nich miă werra daun!
+qr	5056	Biala Wies	1	Ich will's o nimmi wieder thun!
+qr	50567	Strippow	1	Ik will dat uk nich mir werra daun!
+qr	50575	Rosenhagen	1	Ick will't uck nich werra daun!
+qr	50583	Siniechowo	1	Jck willt ock nich mer wedder daue
+qr	50604	Drzewica	1	Ick widd uck nich werre daue
+qr	50622	Lisowo	1	Ick witt ok nich mehr wäera daue.
+qr	50719	Lubin	1	Ik will dat uk nich wärra dau.
+qr	50765	Gross Ridsenow	1	Jk will dat ok nich werra daun.
+qr	50779	Schlutow	1	Jck will datt ock nig mia werra daun.
+qr	50794	Seedorf	1	Ick will dat uck nich miä werrä daun.
+qr	50805	Bentzin	1	Ick will dat uck nich mie'r wer'r daun.
+qr	50818	Ranzin	1	Ick will dat ok nich miä werrä daun!
+qr	50830	Lassan	1	Ick will dat uck nich mir werrä dauhn.
+qr	50840	Sallenthin	1	Ik will dat uk nich werra daue.
+qr	50844	Miedzyzdroje	1	Ick will dat uck nich mier werrer daun.
+qr	50850	Sieroslaw	1	Jk willt uk nich mehr werä dauä.
+qr	50872	Bedzieszewo	1	Ick willt uck nich meha werra daua.
+qr	50892	Skalin	1	Ik will dat uk nich mehê werre dauhê.
+qr	5091	Boruja	1	J. will's och nie mer wider tun.
+rs	50973	Koserow	1	Ik willt uk nich mehe werre dauhn.
+rs	50986	Trzesacz	1	Ick will't uck nich mehĕ werrĕ dauĕ.
+rs	51	Baerwalde	1	Ick wïd't ōk nĭ waddä dauä.
+rs	51012	Hohen Wangelin	1	Ick will dat ok nich miehr werrn dauhn.
+rs	51030	Rittermannshagen	1	Jck will't uck nich miehr werra dauhn.
+rs	51048	Tarnow	1	Ick will dad ōk nich mia werra daun.
+rs	51065	Trollenhagen	1	Jk willt ok nich werra dohn!
+rs	51081	Brohm	1	Jck will datt ohk nich mihr (mia) werra dohn!
+rs	51089	Eichhof	1	Ick will dat uk nich mea werra dohn.
+rs	51098	Gegensee	1	Ick will dat uck nich mehr wedda dohn.
+rs	511	Krasniewo	1	Eck well ditt uck nich mehr wedder done!
+rs	51101	Drogoradz	1	Ick willt uck nich mer werrer dhon.
+rs	51112	Budzien	1	Ick will ett uck nich mehr werrer dohn.
+rs	51123	Krzywice	1	Ick wi dat uck ni me/eä/wer/reä dau/eä.
+rs	51135	Plantikow	1	Ick witt' uck nĕ werrĕ dauĕ.
+rs	51143	Kloster	1	Ick will dat uck nich mihe werre daun.
+rs	51146	Wiek	1	Ick will dat ok nich mier werrea doun'r.
+rs	51162	Nardevitz	1	Ick will dat ok nich miä werrä daun.
+rs	51170	Zingst	1	Ick will't uck nich mihr werră dauhn'n.
+rs	51173	Wendisch Langendorf	1	Jck will't uk nig ein's werre(r) dauhn.
+rs	51179	Wüstenei	1	Ick will dat ouk nich mihr werra douhn.
+rs	51188	Saiser	1	Ick will datt uck nich eis werra daun.
+rs	51191	Ahrenshoop	1	Ich will dat uck nich wärră daun!
+rs	5122	Gorzyca	1	Ich will es och nicht wieder thun.
+rs	51232	Neu-Reddevitz	1	Jck willt uck nich eins wärrn daun.
+rs	51243	Langendamm	1	Ick will datt uck nich mia werra daun!
+rs	51257	Redebas	1	Ick will dat uck nich miehr werra dauhn!
+rs	51267	Pütte	1	Ick willt uck nich mie werre daun
+rs	51277	Poseritz	1	Îk wîll'd ûk nîch mīâ wêrrâ daun.
+rs	51288	Thiessow	1	Ick will dat uck nich mihr wedde dauhn.
+rs	5130	Ransko	1	Ich wills och nich mih wieder thun.
+rs	51346	Reppelin	1	Ick willt ok nich mia werre doun.
+rs	51355	Kavelsdorf	1	Ik will dat ok nich werä daun.
+rs	51370	Müggenwalde	1	Ick will datt uck nich werra daun.
+rs	51387	Steffenshagen	1	Ick will dat uck nich miehr werre dauhn.
+rs	5139	Grudna	1	Ich will es och nischt mehr wieder thun!
+rs	51397	Vierow	1	Ick willt uck nich mia werra daun.
+rs	51409	Karlshagen	1	Ick will't uck nich miehr werre dhaun.
+rs	5141	Brody	1	Ich will es och nicht mehr wieder thun.
+rs	51413	Trzebusz	1	Ick wit uck nich mee werre daue!
+rs	51539	Kisserow	1	Jck will dat ock nich mir werre daun!
+rs	51549	Federow	1	Jck will dat ok nich mia werre daun.
+rs	51561	Klein Vielen	1	Jck will dat uck nich öfter werre dauhn.
+rs	51571	Holldorf	1	Ik willt ok nich mia werra dohn.
+rs	51584	Woldegk	1	Ick will't ok nich mia werra dohn.
+rs	51598	Trebenow	1	Ick will et nich mehr werra dohn.
+rs	51611	Rossow	1	Ek wet ok nech wera don.
+rs	51624	Wawelnica	1	Ik willt uk nich öfter dohn.
+rs	51637	Bergland	1	Ick wit uk nich meä werrä doon!
+rs	51646	Dabrowica	1	Ick wi datuck neh mehe werre dauhe.
+rs	51661	Bobrowniki	1	Ick witt uk ne werre daua.
+rs	51805	Grabow	1	Ick will dat ok nich miehr werer dau'n.
+rs	51816	Lärz	1	Ick will datt ook nich miă warrĕ dōhn.
+rs	51832	Ahrensberg	1	Jck will dat ok nich werra dohn!
+rs	51838	Hasselförde	1	Ick will dat ok nich mia wärra don!
+rs	51850	Buchenhain	1	Ik willt oak nich mehr wedder dohn.
+rs	51866	Röpersdorf	1	Ick will't ok nich mehr werrer dohn!
+rs	51877	Grünz	1	Ick wid'd ohk ne werra dohn.
+rs	51893	Pargow (Pargowo)	1	Ik wit ük ne mey wärer dohn!
+rs	51906	Zelislawiec	1	Ick witt uck nich werra dohn!
+rs	51918	Slotnica	1	Ick witt uck ne mēĕ werrĕ donă.
+rs	51934	Zukowo	1	Ick widd uck nĭ mehe dohă.
+rs	5203	Nekielka	1	Ik wid dat ok nimmä wedä doä.
+rs	52064	Papenbruch	1	Ick wollt' ook nich mehr wärrer dohn.
+rs	52070	Wallitz	1	Ick willt ok nich mehr werre dohn!
+rs	52079	Menz	1	Ik will es ok nicht mehr wärrer dohn.
+rs	52086	Barsdorf	1	Ick willt oik nich mir werra dohn.
+rs	52095	Petersdorf	1	Ick will't ok nich weăra dohn!
+rs	5210	Skwierzyna	1	Ich will es och nich mehr widder thun.
+rs	52103	Flieth-Stegelitz	1	Ick will't ook nich wèrra dohn.
+rs	52113	Passow	1	Ick will't ok nich mia wärra dohn.
+rs	52129	Widuchowa	1	Ick will't ook ni mihr wedder dohn.
+rs	52139	Banie	1	Ick will't uk ne wedder dohn.
+rs	5214	Krobielewo	1	Ich will es auch nicht mehr weder thaun.
+rs	52154	Obromino	1	Ick witt uck ne mehe dohne.
+rs	52169	Brzezina	1	Ick wi det uok ni mehe werre doh'a.
+rs	52276	Bagicz	1	Jck will t uck nich mea werra daua.
+rs	52278	Lasin Koszalinski	1	Ick will dat uck nich mehe werre daue.
+rs	52311	Sieciemin	1	Ick willt ock nich mehr warre daue.
+rs	52349	Pomysk Wielki	1	Ik will dat ouk nich mehr wedder daunä.
+rs	52359	Szymbark	1	Ek wel dat uck nich mehr daune.
+rs	52374	Szklana Gora	1	Ick will dat ok nich mir widder daun.
+rs	52396	Skowarcz	1	Ek well dit uck nich mehr wedder done.
+rs	52428	Oberlakendorf (Solnica Górna)	1	Ek wellet uk nich mehr wedder dohne.
+rs	52440	Deep (Czajcze)	1	Ick war dat ok nich mea werra daua!
+rs	52463	Bialecino	1	Ick will dat ok nich mehr werre daun.
+rs	52478	Bronowo	1	Ick will dat ok nich meä werrä dauä!
+rs	52484	Reddies	1	Jck will et ock nich mehr wedder daua.
+rs	52567	Pasewark	1	Eck well et uck mehr wedder dohne.
+rs	52578	Bad Rügenwalde	1	Jck willt ok nich mehr werrer daue!
+rs	5259	Prusim	1	Ich will es och nicht mehr wieder thun.
+rs	52600	Radoslaw	1	Ick will dat ock eich mehä wärrä duä.
+rs	52700	Losino	1	Ick well dat ock nich mehr wedder daue!
+rs	5271	Przyborowko	1	Ich will es och nich mehr wieder thun!
+rs	52714	Labiszewo	1	Ick will dat ock nich wedd? dauna.
+rs	52722	Karwen	1	Ick will dat ok nich mehr wedder daune.
+rs	52755	Heubude (Stogi)	1	Eck well et uck nicht mehr wäder dohne.
+rs	52762	Skowronki	1	Ek wel et ok nich mea wedda done.
+rs	52766	Rowy	1	Jck will dat ok nich mehr wedder dauan.
+rs	52767	Machowinko	1	Jck wa dat ok nich werre dauhne.
+st	5277	Gleboczek	1	Ick wet ouk ni mehre wedde doun.
+st	52816	Hela	1	Ick will et uck nich mehr wedder dohn.
+st	52819	Jaroslawiec	1	Ick will dat ohk nich werre daue.
+st	52825	Krolowstrand (Królewice)	1	Jck will dat ok nich mehe werre daun.
+st	52854	Drzezewo	1	Ick will dat ok nich mehr wedder daune.
+st	52865	Niebedzino	1	Eck well dat uck nich mehr wedder daune!
+st	52871	Dabrowka Wielka	1	Eck well dat uck nich wedder daune.
+st	52881	Luzino	1	Eck well es ok nich mehr wedder daune.
+st	52887	Pogorze	1	Eck well et ok nich mehr wedder done.
+st	52896	Bialogora	1	Eck well dat nich mehr wedder daunar.
+st	52905	Karwenbruch	1	Eck well dat uck nicht mehr wedder doone.
+st	5291	Gorki Noteckie	1	Ik will et ok nich mehr wedder duhn.
+st	52913	Wladyslawowo	1	Ik well dat uck nicht mehr wedder done.
+st	52915	Lebieniec	1	Eck well dat uck nich mehr daune.
+st	52927	Zelazna	1	Ick will dat uck nich mehr wedder dauhna.
+st	52936	Tylowo	1	Ek well dat uk nich mehr wedder daune.
+st	5305	Rapin	1	Ick will ett ock nich mehr dohn.
+st	5315	Pilka	1	Ick well dat nicht mehre wedde thon.
+st	5316	Rzecin	1	Ik wi et ok ni mei dau.
+st	532	Zulawka Sztumska	1	[Satz nicht übersetzt]
+st	5322	Tarnowko	1	Ick witt ock ne mehe wedde douo.
+st	5374	Groß Golle (Golaszewo)	1	Ich wüd ok ne mehr wedder doä.
+st	5386	Lubicz	1	Ick will dat uck nich mehe wedde doe.
+st	5397	Slonow	1	Ick will't uck ne mehr wedder dohe.
+st	5402	Huta Szklana	1	Ick willt ok ne meé wedde doŏ.
+st	5409	Marienbusch	1	Ick witt ok ne meé wädde sloô.
+st	5421	Ostrowki	1	Ik wi dat ok ni mee doe.
+st	54871	Neuarad (Aradu Nou)	1	Ich will's ā nimea tun.
+st	54873	Bistritz (Bistriţa)	1	Ich wäl et och nae mī wider dā.
+st	54878	Arzis (Artsyz)	1	Ich will's a nĕmme tō.
+st	54897	Wolfswinkel (Wilczy Kat)	1	Ek we't ok neh meje wäde doune.
+st	549	Przecmino	1	Ick willt uck nich mēr werre dauĕ.
+st	54901	Zarobka	1	Ek we ’t öuk ne meje wedde doue.
+st	54902	Brzozowka	1	Eck wällt ok nech mehe wäade dohne.
+st	54906	Brzezno	1	Eck well dat ock nech meje doune.
+st	54909	Zbojenko	1	Ek well dat ok nech meje done.
+st	5491	Brzezno	1	Ik wet ok ni möe wede doo.
+st	54912	Siemiatkowo	1	Eck well d ock nech mèhe waede dohne.
+st	54913	Sompolno	1	Ik wy dat önk ny mejo wedda düo.
+st	54914	Sächsisch Regen (Reghin)	1	Ich wäl et och na nu weider dan.
+st	54915	Elek (Elek)	1	Īch willz ā nimr tuă!
+st	54916	Freidorf bei Temeschwar	1	Ich will’s ouch nit mehr wiedr tun
+st	54917	Sarata (Sarata)	1	I wills au gwīeß némme wǐddr doå.
+st	54918	Scheindorf (Sâi)	1	I. will’s a it me wiede̊r tuo
+st	54919	Fünfkirchen	1	Ih wez ā ned mēa widə tān
+st	54921	Iklad	1	J wllsz à neáma tãã.
+st	54922	Sanktanna (Sântana)	1	J' wils néméé toua.
+st	54924	Martinsdorf (Metiş)	1	Ech wäll e̊t uch nemi wedder dean.
+st	54926	Bentschek (Bencecu De Sus)	1	Ich will’s a nimu nochmol moche!
+st	54929	Agnetheln (Agnita)	1	Ech wäll et och netmi weder den.
+st	54930	Gottlob	1	Ich will-s a nime wieder maché!
+st	54932	Klein-Schemlak (Semlacu Mic)	1	Ich will’s ou nimmi wiedr tŭe
+st	54933	Sankt Andreas (Sânandrei)	1	Ich will’s ɑɑ nimmi widdr mache.
+st	54935	Neuwerbas (Novi Vrbas)	1	Ich wil sa nimi witr̥ tun. 
+st	54937	Groß Scham/Freudenthal (Jamu Mare)	1	Ich will’s ach nimmer wieder tŭn
+st	54938	Torschau (Savino Selo)	1	ix wils ä nimiͤ tû̜̃
+st	54939	Weprowatz (Kruščić)	1	Ixwils å (nimir) net mêar tu
+st	54941	Neue Weingärten (-)	1	Ich will's a neme thon.
+st	54942	Seimeny (-)	1	Ich wills a nemme widder dṵ!
+st	54943	Neubeschenowa (Dudeştii Noi)	1	Ëich weillt ouch nimmi tun.
+st	-55055	Oborki	1	Ek well dat ok nech mehe waede done.
+st	-55064	Zale	1	Ech wa dat och ne mä done.
+st	-55066	Zuromin	1	Tu ich überhaupt nicht mehr.
+st	-55070	Grudusk	1	Ich will es nie mehr wieder tun.
+st	-55072	Ostroleka	1	Ich werd es nich' mehr tun.
+st	-55081	Ciechocinek	1	Eck well dat nech mehe dohne.
+st	-55091	Skepe	1	Ek wa dat ok ne meier done.
+st	55094	Gradzanowo Koscielne	1	Ik war dat ok ne mehr weder don!
+st	-55096	Modelka	1	Ek well et ok nech waede done.
+st	-55099	Makow Mazowiecki	1	Ick wah dat mejo nie dino.
+st	55106	Susk	1	Ek well dat nech meja duone.
+st	-55107	Zawidz Koscielny	1	Ek wel dat nech wadə donne.
+st	55109	Kondrajec Szlachecki	1	Ek well de nich wade done.
+st	-55110	Kicin	1	Ek well dat mehä wädä donä.
+st	55111	Szostka	1	Ich will es nie wieder machen!
+st	-55113	Kujawka	1	Ich will's nimmi tu.
+st	55116	Osiek	1	Ek weld ok nech mehe dohne!
+st	-55117	Nowe Karwosieki	1	Ek well mehe blat nech dohn.
+st	-55129	Lenie Male	1	Eck wa dat ne mäe doone.
+st	-55133	Meczenino	1	Eck well dat nich mehr doni.
+st	-55135	Dzierzaznia	1	Ich wer's nich mehr tun.
+st	-55137	Konary	1	Etch well dat ock nech mea wade done.
+st	-55139	Kozy	1	Ik wid eōk ne mee wedde deōe!
+st	55140	Zglowiaczka	1	A: Ich will das auch nicht mehr wieder machen. B: I will's a neme doa.
+st	55163	Grabkowo	1	Ik we ok ne mehr don.
+st	-55164	Wieslawice	1	Ek well ät ok nech me moke!
+st	-55166	Budy Borowickie	1	Eck well dat eh ok nech mehe wedde dohe.
+st	-55169	Orszymowo	1	Ech well dat och nech wäde doone.
+st	-55171	Nowy Dwór Mazowiecki	1	Eck well dat ok nech mehe wede done!
+st	-55173	Kozie Glowy	1	Ich will's oh nimmi widder tün.
+st	-55177	Brdow	1	I wölls nimmemea doan!
+st	-55181	Psary	1	Ick wei dat ouk nēi wedde done.
+st	-55187	Nowa Wies	1	Eck well dat ock nech mähe done.
+st	-55189	Miszory	1	Ek well dat ok nech mehr wedder doahne.
+st	5519	Berka v.d. Hainich	1	Ech well es au nett mien wedder thon.
+st	-55191	Secymin Polski	1	Eck wo dat ock neh meja donne.
+st	55210	Niechcianow	1	Ich wills auch nicht mehr wieder tun. 
+st	-55216	Kaptury	1	Ek wa dat nech meie (e-i-e) done!
+st	-55218	Stare Miasto	1	Ich wills öüch nich wieder machen.
+st	-55226	Tarnowka	1	Ich tu's nicht mehr.
+tu	-55238	Zychlin	1	Ich wer schon nich mehr machen.
+tu	-55240	Kopojno	1	Ich will es auch nicht mehr wieder tun.
+tu	55244	Natalia	1	Ich will’s nie nicht wieder tun.
+tu	55252	Potrzaskow	1	Ich will es ach nicht mehr wieder tun. 
+tu	-55254	Szamow	1	I will's nemme don.
+tu	-55258	Wierzchy	1	Ich ?ill's ooch nich mehr widder tun.
+tu	-55261	Gadowskie Holendry	1	Ich wills auch nich mieh wieder tuhn.
+tu	-55262	Turek	1	Ich will es nicht mehr machen.
+tu	-55266	Sarbice	1	Ik will dat de nie mehe doon
+tu	-55269	Zimne	1	Ek we't ouk ne meh wede dohe!
+tu	-55270	Leczyca	1	Ich will's aach nimmi widdr due.
+tu	55271	Piatek	1	Ich wils nemi tuhe.
+tu	-55300	Goliszew	1	Ich wills nimmer nit tun!
+tu	55305	Poroze	1	Ich war's nie nich meer wieder machn.
+tu	-55306	Rzymsko	1	Ich ?ll es nicht mehr tun.
+tu	-55308	Baldrzychow	1	Ich wer's auch nich mehr tun.
+tu	55320	Sanie	1	Ich will's nich mehr machen.
+tu	-55322	Marianow	1	Ich will s nicht mehr machen.
+tu	-55326	Jozefow	1	Ich was ouch nich wieder tun!
+tu	55330	Morawki	1	Ich wull's a nit meje wiede te.
+tu	-55331	Rzepiszew	1	Ich well's nich meh tu'n!
+tu	-55338	Justynow	1	Ich wers aber och nich mehr machen.
+tu	-55344	Slomkow Suchy	1	I waills a nimmer wieder tua.
+tu	-55349	Markowka	1	Ich will es och nich me wida tun.
+tu	-55350	Rzgow	1	Ich will's ach net meh wiedr tun.
+tu	-55354	Laznowska Wola	1	Ich wer's och nich mehr machen.
+tu	-55359	Kiebitztal (Kuznica)	1	Ich will's auch net mehr wieder tun
+tu	-55360	Ostrow	1	Ich will es nicht mehr tun.
+tu	-55361	Wielka Wies	1	Ich will es nicht mehr tun.
+tu	-55362	Suchcice	1	Ich will's nicht wieder machen.
+tu	-55363	Siemkowice	1	Ich will's nimme wieder tu.
+tu	-55365	Dobroslaw	1	Ich we?d es nicht mehr tun.
+tu	-55366	Belchatów	1	Ich wärs schon nich mehr machen.
+tu	-55373	Luszczanowice	1	Ich will es nicht wieder tun!
+tu	-55375	Ozarow	1	Ich will ds auch nicht mehr wieder tun.
+tu	-55376	Jaworzno	1	Eh werd es nicht mehr tun.
+tu	-55377	Natolin	1	Ich wasch och nimmer tun.
+tu	-55382	Czarny Las	1	Ich will es a nimmermehr mache.
+tu	-55383	Huta Stara A	1	Ich will es a nimmemeh tun
+tu	55384	Myszkow	1	Ich will es auch nicht mehr wieder tun.
+tu	55387	Dabrowa Gornicza	1	Ich will es auch nicht mehr wiedr tun.
+tu	-55389	Kwaczala	1	Ich will es auch nimmi wieder tun.
+tu	-55394	Freistadt (Fryštát)	1	Ich werde es auch nicht mehr tun!
+tu	-55408	Bistritz (Bystrice Nad Olsí)	1	Ich will es auch nie wieder machen.
+tu	-55411	Radziechowy	1	I' wüll's a nimmer daun.
+tu	-55415	Skomlin	1	Ich wers nicht mehr tun.
+tu	-55416	Kamesznica	1	Ich wüll's a nimmä tau!
+tu	-55418	Schönwalde (Wrzosy)	1	Ek welt ok nich wäde done.
+tu	-55425	Wyszewo	1	Ick willt ok nich mehr wärrer daue.
+tu	-55522	Nojewo	1	Ich werde es nicht mehr wieder tun.
+tu	5717	Illeben	1	Ech wäll's au nech mehr wäder thue.
+tu	573	Lykowo	1	Ick will dat ôck nich mê-e werre daue.
+tu	5730	Gebesee	1	Ech wäll’s o nech mi wäder dun.
+tu	5752	Thalborn	1	Ech wälls nech wätter thu.
+tu	5774	Nirmsdorf	1	Ech wälls nech wetter mache.
+tu	5810	Crölpa-Löbschütz	1	Ich wills och nich marre wetter thu
+tu	5827	Krössuln	1	Ich will's och nie nich wedder thue.
+tu	584	Dunowo	1	Ick will dat uck nich mehe werre daua.
+tu	5863	Michelwitz	1	Ich will's abber o nich mi widder thu.
+tu	5867	Hollenbach	1	Ich wellz äu nich werr thu.
+tu	5875	Schlotheim	1	Ich wälls au nicht wätter thun.
+tu	6074	Obertopfstedt	1	Ech wälls au nech möh wätter thou.
+tu	6089	Etzleben	1	Ech wäll's au nech wedder ithoue.
+tu	6105	Allerstedt	1	Ech well's oh nech mieh wedder thu!
+tu	6116	Gleina	1	Ich will's och nich wädder thue.
+tu	6129	Kleinkayna/Kleinkaina	1	Ich will's oh nich wetter thu.
+tu	6168	Rehbach	1	Ich wills ooch nich mehe widder thun.
+tu	6171	Mengelrode	1	Ich wäll ess a nitt müh wedder dun.
+tu	6185	Kirchworbis	1	Ich wells a nit mehr wedder thu.
+tu	6196	Grosswenden	1	Ich wills au nich mäh wädder thu!
+tu	6341	Auleben	1	Ich wills au nich mieh wädder thue.
+tu	6359	Hackpfüffel	1	Iech will's ä nich wedder thue.
+tu	6371	Mittelhausen	1	Ich will's och nich mieh wedder thu.
+tu	6388	Stedten	1	Ich will's och nich mi wedder dun.
+tu	6400	Ammendorf	1	Ich wills o nicht wedder thun.
+tu	6418	Glesien	1	Ich will es o nich meh wedder thun.
+tu	6426	Zwinge	1	Eck will dat ak nich wier thaun.
+tu	6472	Stolberg (Harz)	1	Ich will es au nich wädder thu!
+tu	6577	Walkenried	1	Ich will's au nich wedder thun.
+tu	6593	Königerode	1	Ich will's ä nich mäh wedder don.
+tu	6610	Vatterode	1	Ich wills au nich meh wädder thun.
+tu	6630	Freist	1	Ich will's och nich wetter thun.
+tu	6656	Drehlitz	1	Ich will's o nich mehr wedder thun.
+tu	6660	Möst	1	Ich will es oh nich weller thun.
+tu	6682	Ramsin	1	Ich wills oh nich meh wedder machen.
+tu	6690	Braunlage	1	Eck will et ok nich mehr wedder dauhn.
+tu	6705	Rieder	1	Eck will et ōk nich mehr wedder dau'n.
+tu	6793	Riefensbeek	1	Eck will'et ok nich mer dauen!
+tu	6801	Neuwerk	1	Ek will et ok nig mehr wedder daun.
+tu	6821	Aschersleben	1	Eck will et ok nich mehr wedder dauen.
+tu	6831	Gröna	1	Ih will's och nich mehr wedder thun.
+tu	6848	Elsdorf	1	Ich will es och nich mehr wedder thun.
+tu	688	Pregowo Zulawskie	1	Ek well et uk nich mehr wedder dohnen.
+tu	6891	Danstedt	1	Eck willet ok nich wedder daun.
+tu	6960	Abbenrode	1	Eck willet oak nich mêhr wedder dauen.
+tu	6981	Emersleben	1	Eck will et ohk nich mehr wedder dau'n!
+tu	6995	Egeln	1	Ick will et ok nich mêr wedder daun!
+tu	7007	Eickendorf	1	Ik will et ok nich mehr wedder dauhen.
+tu	7022	Kämeritz	1	Jck will et ok nich mehr wedder duen!
+tu	7033	Natho	1	Ick willt ok nich mehr wedder thuen.
+uv	7180	Liemehna	1	Ich wills oh nich me'ä wedder thun.
+uv	7198	Röcknitz	1	Ich wills oh nich mier wedder thun.
+uv	7212	Lausa	1	Ich will's o nich miär widder tuhn.
+uv	7225	Kosilenzien	1	Ich wills oh nich wieder thun!
+uv	7246	Kahla	1	Ich will's o nich mehr widder thun.
+uv	7253	Ruhland	1	Ich will es auch nich mehr wieder thun.
+uv	7263	Lauta	1	Ich will's auch nich(t) wieder thun.
+uv	7363	Brösa	1	Ich will es oh nich mehr wedder thun!
+uv	7371	Falkenberg	1	Ich will es o nich mehr wedder machen.
+uv	7384	Rosenfeld	1	Ich will's o nich me wedder thun.
+uv	7394	Wiederau	1	Ich will's oh nich mehr wedder duhn.
+uv	74	Gwiezdzin	1	Jck wid't uk ni wedde deue (doue).
+uv	7412	Lugau	1	Ich will es oh nich wedder machen.
+uv	7427	Dollenchen	1	Ich will es ōch nich mee widder thun!
+uv	743	Rudki	1	Jck wi dat ok ni mehe wede doa.
+uv	7435	Petershain/Neupetershain	1	Ich will es auch nicht mehr wieder thun.
+uv	748	Budy	1	Jck witt ok ni mehä weddä duä!
+uv	7529	Schleesen	1	Ich will es oh nich mehr wedder dhun.
+uv	7546	Bleddin	1	Ich wills oh nich wädder (wässer) machen.
+uv	7562	Klossa	1	Ick will ett o nich mehr wedder thun!
+uv	7576	Werchau	1	Ick willt oh nich wedder thuen.
+uv	7586	Wendisch Drehna/Walddrehna	1	Ick werret nich mehr wedder duen.
+uv	7596	Schlabendorf	1	Ich wills nicht wedder thun.
+uv	760	Zakrzewo	1	Ick wi dad uck nie mea wedda daue.
+uv	7688	Straach	1	Ick will et ok nich meh wedder thun.
+uv	769	Nowy Dwor	1	Ick wih dat uk nih meh dauhn.
+uv	7696	Rahnsdorf	1	Ick willt oh nich mehr wedder thun.
+uv	7710	Rohrbeck	1	Ick will'et ok nich mehr wedder duhn.
+uv	7721	Wahlsdorf	1	Icke will et ok nich mehr wedder duen.
+uv	7732	Hohendorf	1	Ick will et ök nich mehr wedder dhun.
+uv	7747	Treppendorf	1	Ich will es och nich mehr wieder thun!
+uv	7758	Sacrow	1	Ich will's och nich mehr wieder thun.
+uv	7964	Zedtlitz	1	Ich wills o nich mir widder thun.
+uv	7979	Hohnbach	1	Ich wills o nich mihr witter thun.
+uv	80004	Grindelwald	1	I wills o nimma tuen.
+uv	80023	Bosco	1	Éch well s öw nemma tüa.
+uv	8011	Ziegra	1	Ich will's o nich mir widder thun!
+uv	803	Lunawy Male	1	Ek will dat ock nich meä wedde done.
+uv	8032	Rausslitz	1	Ich will's ō nich meh we/er thuin!
+uv	8055	Coswig	1	ch wills o ni meh werer thun!
+uv	8075	Langebrück	1	Ich will's o ni wiëder tun.
+uv	8092	Frankenthal	1	Ich well's o ne mieh wieder thun.
+uv	821	Bukowiec	1	Ik we't ok nech mehe  wedde dohne!
+uv	8272	Fuchshain	1	Ich wills o nich mie widder machen.
+uv	8289	Nerchau	1	Ich will's och nich widder dhun.
+uv	83	Charzykowy	1	Jg wi dat ouk ni mehe wedde deua.
+uv	8305	Limbach	1	Ich will's o nich mih witter thun.
+uv	8321	Mergendorf	1	Ich wills o nich widder dun.
+uv	8345	Rostig	1	Ich wills oh nich mih weder thun!
+uv	8358	Steinborn	1	Ich will's o ni mei wider thun (machen).
+uv	8368	Bernbruch	1	Ich will es och nich mehr wieder dun!
+uv	8505	Dretschen	1	Ich wills o nä mie wieder thun.
+uv	8519	Kittlitz	1	Ich wills oh nämi wiedr moch'n!
+uv	8532	Kunnerwitz	1	Ich warsch nemmieh wieder machen.
+uv	8546	Siekierczyn	1	’ch wills o nimmi wieder dhun.
+uv	8560	Wolbromow	1	Ich wills o (au) nimmi mach'n.
+uv	8574	Pieszkow	1	Ich wiells oa nie mie wieder thuin.
+uv	8590	Prusice	1	Ich wiels au ni meh wieder thun.
+uv	8614	Ogonowice	1	Eich weil es o nicht mehr weider thuo.
+uv	8716	Förstgen	1	Ich will es och nicht wieder thun!
+uv	8726	Ober Horka I	1	Iech will's o nimmi wieder mach'n!
+uv	8736	Wegliniec	1	Ich will's o nü meh wieder thun.
+uv	8740	Kierzno	1	Ich wills o nimmih wieder thun.
+uv	8751	Szczytnica	1	Ich wils o ni wieder thun.
+uv	8762	Göllschau (Goliszów)	1	Ich will's och nimme wieder thun.
+uv	8777	Bieniowice	1	Ich wil's au ni me we-ider thun.
+uv	880	Strzeczona	1	Ig witt ock ne mehe wedde deöhe!
+uv	8852	Klein Priebus	1	Ich wills nimmi wieder thun.
+uv	8858	Okraglica	1	Ich will es o nie mi wieder thun!
+uv	8865	Koberbrunn	1	Eech will's oh ne wieder machen.
+uv	8870	Armadebrunn (Studzianka)	1	Eich wills oh nie mür weider thun.
+uv	8878	Trzmielow	1	Eich wills o ni mei weider thun.
+uv	8888	Skladowice	1	Eich wills au nie mei weider thun.
+uv	895	Jelencz	1	Ick we't ock ne mehe wedde deue.
+uv	8972	Cantdorf	1	Ich will es ooch nicht mehr wieder thau.
+uv	8981	Eichwege	1	Ich wills och nich mehr wieder thun.
+uv	899	Iwiec	1	Ick witt uck nicht mähä waddä duhne.
+uv	8990	Jedrzychowice	1	Ich will es o nicht mie wieder thun.
+uv	9000	Kunzendorf (Kunice)	1	Ich wihl's och nich meh wieder thun.
+uv	9015	Chichy	1	Ich wills o ni mi wieder thun!
+uv	9025	Przeclaw	1	Aich wejll's au nie meh weder thun.
+uv	9036	Jakubow	1	Eich weil's au nie mei weder thiun.
+uv	9052	Rzeczyca	1	Aich wells o nie mei machn.
+uv	906	Busnia	1	Ek well dat ok nech mée wedde done.
+uv	9143	Mehlen	1	Ich will es o nich mehr wedder thun.
+uv	9152	Dluzek	1	Ich will's oo nich mi wieder thun.
+uv	9163	Bialowice	1	Ich will's o nich mie wieder thun.
+uv	9179	Broniszow	1	Eich wehl's au nie mei weider thun!
+uv	9193	Alt Tschau (Stare Żabno)	1	Eich will's au nie mei weider thun!
+uv	920	Lisie Katy	1	Ek will't ock nich mehr wedder dohn.
+uv	9200	Grochowice	1	Eich well s oo nie mei weider thiun.
+uv	9207	Konradowo	1	Eich wäll's ô nie mei weider thiun.
+uv	9274	Staakow	1	Ich will's ōch nich meh' widder thun!
+uv	9280	Kaltenborn	1	Ich will es oh nich mehr widder thun.
+uv	9288	Czeklin	1	Ich will es och nich mi wieder thun.
+uv	930	Goczalki	1	Ich wöll öß och nech mehr widder thune.
+uv	9303	Lubiatow	1	Ich wills o nich mie wieder thun.
+uv	9314	Zielona Gora	1	Ich will's o ni mehr wieder thun!
+uv	9323	Zabor	1	Ich wills au nicht mehr weider thun.
+uv	9335	Ciosaniec	1	Eich well es auch nich weider thun.
+vw	9400	Miloszyce	1	Ich will es och nich mehr wieder thun.
+vw	9417	Prietzen	1	Īch warsch och nich meh wieder thun.
+vw	9433	Ujazd Gorny	1	Ich wils o nimmee wieder macha!
+vw	9453	Lisowice	1	Eech weels au nimmei weder thun.
+vw	9558	Ligota Piekna	1	Eich wills au nimma weidr tuun.
+vw	9579	Jenkowice	1	Aich wail's au nimmai waider machen.
+vw	9592	Jemielna	1	Ich will es ohch nich mehr wieder thun.
+vw	9612	Prawikow	1	Eich weil's au ni mei weider thun!
+vw	9622	Warzyna	1	Eich weil es oa nie meir weider thun.
+vw	9717	Domanowice	1	Eich weils au nie mei weider thun.
+vw	9739	Kamien	1	Ich will es och nicht mehr wieder thun.
+vw	9760	Krzelow	1	Ich will's oa nie mei weider thun.
+vw	9775	Staszowice	1	Äich wäll's oa nich weider tuein
+vw	9799	Lazy Wielkie	1	Aich wail 's au ni mei waider thun!
+vw	983	Gromaden	1	Jck wa'et auk ni meä weddä dauä.
+vw	984	Friedberg	1	Ick we dat auk ne meä weddä dauä.
+vw	9848	Godnowa	1	Eich will es nimme weider thun.
+vw	9877	Chroscina	1	Eich wels o ni mei weider teun!
+vw	9891	Gosciejewice	1	Eich wel es o nie mei weider thun!
+vw	99	Trumiejki	1	Oeck wöll oett ok nich mehr wedder done.
+vw	990	Walownica	1	Jck witt ock nigg mehe wedde done.
+vw	9903	Sonnenfeld (Orpischewo)	1	Eich (ech) will's nimmaj weider thun.
+vw	9919	Wierzowice Male	1	Eich weil's au nich mei weider thun!
+vw	9926	Wodniki	1	Eich wells oa nie meih weider thun.
+vw	994	Kabat	1	Eck well dat ok nech mehe wädde dohne.
+vw	9984	Morkowo	1	Eich well's o nie mei weider thjun.
+vw	54872	Reval	1	Ich will tas ouch nichmēr wīder machen.
+vw	52353	NA	1	Ick well dat uck nich mehr wedder dhaune
+vw	30173	Ajoncourt	2	Je ne lo frè pu non pu.
+vw	30197	Vaxy	2	Je ne vû pu non pu lo fâre.
+vw	30214	Bénestroff	2	Assi je ne vi pu lo fare.
+vw	30225	Attilloncourt	2	Je ne lo fera pu.
+vw	30248	Bezange-La-Petite	2	Osse je ne vā pu recommenci.
+vw	30254	Maizières-Lès-Vic	2	Je n'vû pu lo refâre.
+vw	30268	Richeval	2	Je ne vieu pi recommencieu.
+vw	30285	Lommerange	2	Je ne vieu plus le fare nou pus.
+vw	30314	Argancy	2	Jeu n'lo fra pu non pu.
+vw	30325	Vernéville	2	Ma je' n'lo fra pu.
+vw	30351	Ancy-Sur-Moselle	2	Je ne veu pu lo fare non pu.
+vw	30361	Orny	2	J'e n'vieus pu fare colet.
+vw	30374	Hémilly	2	Je ne vie pu lô fâre non pu.
+vw	30379	Champenay	2	Jenn wü pü lo rekmonsi.
+vw	30410	La Petite Lièpvre	2	Dje ne vue pu rezaire cela. Je ne veux plus recommencer cela.
+vw	30421	Montreux-Vieux	2	Achi i ne le ferait pus.
+vw	30429	Xhoffraix	2	Ju ne l’ferai pus nin pus.
+vw	30436	Pont	2	Dju nu'l frè pu, saf!
+vw	30058	Karkelbeck	3	Aſz noru niekados tai darÿti
+vw	30068	Kinten	3	Asz nebnoru(sic) ta wēl daujaus darÿti.
+vw	30078	Rudienen	3	Aſz daugiaus teip nedarÿſù.
+vw	30083	Kolleschen (Kolletzischken)	3	Aſz daugaus ir ne nora(sic?) teip daryte.
+vw	-54895	Warszawa	10	ixχ̮ węl (scheinbar auch wǫl üblich!) əs ǫux n̥id̥ mę̄ər wid̥ər maxən.
+vw	9746	Kobyla Gora	10	Ich will es auch niſcht mehr thün.
+vw	46572	Nebel	11	Ik wal-t ok egh muar wedar du.
+vw	46636	Hooge	11	Ick wallt ok ä wi dina!
+vw	46640	Wobbenbüll	11	Ick wal dat ock eg mor werer dühn.
+vw	46699	Horsbüll	11	Ick wellt ock ei mur wüder daun.
+vw	46759	Oland	11	Ick walt ok e mor wie dühn.
+vw	46773	Mönkebüll	11	Ek wal dat ok ä we dunn!
+vw	46888	Archsum	11	Ik wellt uk ek muar wedd’er dö.
+vw	47862	Helgoland	11	Ek wèllet ŏ́ck gṑr niwwḗr dŏ́ /.
+vw	48241	Wangerooge	11	Ik wullt uck nich mo wider do.
+vw	F002p	Hindeloopen	11	Iek sòl 'et nooit wu' dwaän.
+vw	B079p	Zurich	11	Ik seil it nea hwer dwaen.
+vw	F036p	Oudemirdum	11	Ik sŏ̀lt nooit wĕ̀ dwằn.
+vw	F003p	Woudsend	11	Ik zòl ǝt nóit wê dwa̩̽n.
+vw	B084p	Wommels	11	Ik seil 't noait wer dwaen
+vw	F013c	Oudehaske	11	Ik sol it net we(r) dwaen.
+vw	B094p	Grou	11	Ik sɩl ət no'ɩ̇t wεr dwa:n.
+vw	B024b	Wijns	11	Ik sɪl ət woɪt wer dwa:n
+vw	B099a	Opeinde	11	Ik seil 't noait wer dwaen.
+vw	B035a	Zwagerbosch	11	Ik scil it nooit wer dwaan.
+vw	B014p	Paesens	11	Ik scil 't nooit wer dwaen.
+vw	G001b	Appelscha	11	ik zal 't nooit wer dwan
+vw	46905	Westre	12	E will aah īnd gör et meer igen!
+vw	46914	Sophiental	12	NEU (Buchstaben korrigiert): Æ vil heller int mēr göe de iggen.
+vw	46932	Sonderburg (Sønderborg)	12	E will helle itt gör ĕ mēr.
+vw	46938	Lysabbelholz (Lysabildskov)	12	Ae vil alle güre egen.
+vw	46939	Toftum	12	E' vil' heldér indt góerr ett mihér.
+vw	46948	Hönning (Hønning)	12	A vil ekheier aller góer et meer.
+vw	46957	Beftoft (Bevtoft)	12	Æ vil aa it gjör e meer igjen!
+vw	46968	Norder Wilstrup (Nørre Vilstrup)	12	Æ vil heller it góer et tier!
+vw	47006	List	12	E vel heller int gör et igjen!
+vw	47007	Jerpstedt (Hjerpsted)	12	Æ vil osse it gör et igjen.
+vw	47016	Ellum	12	Æ vil heller int meer gör et igjen.
+vw	47029	Kassöe/Kassö (Kassø)	12	Æ vil aa it gór et meer.
+vw	47040	Feldstedtholz (Feldstedskov)	12	Ed vil heller it görd et igjen.
+vw	47048	Hagenberg (Havnbjerg)	12	Ä will ehelle it güre egien.
+vw	47052	Hellwitt (Helved)	12	NEU (Buchstaben korrigiert): Æ vil heller it egæn gyer det tie.
+vw	47057	Kamptrup (Kamtrup)	12	A vil heller oller gör et meer.
+vw	47066	Grönnebeck/Grönnebek (Grønnebæk)	12	A wil heller it göer et meer.
+vw	47073	Tyrstrup	12	A vil heller it göer 'et meer.
+vw	47078	Hvidding (Hviding)	12	Æ vil heller it gjór et meer igjen.
+vw	56471	Merzdorf	41	Ja nog jo teke wezej saskej zinisch(?).
+vw	56504	Burg	41	Ja teź nochzu sasso cźinicź.
+vw	56507	Nochten	41	Ja to njecham jazy cźinicź.
+vw	56520	Luppa	41	Njecham to tež wjacy činić.
+vw	56694	Widno	42	Joh tego ju więcẏ nie zrobię.
+vw	56784	Zelistrzewo	42	Io tėż teho wgici nie chcę zrobyic.
+vw	56785	Jastarnia	42	Jo niechco tełö wicy robyc.
+vw	56799	Zalakowo	42	Ja niechcie to tez więce zrobyc.
+wx	56805	Sianowska Huta	42	ÿa to nÿechca wazi robyic.
+wx	56814	Rebiechowo	42	Jö to też niechcę więcy zrobić.
+wx	56846	Piechowice	42	Jó to też wiancej niechce zrobiec.
+wx	53478	Rombark	43	Ja téś tego więcey czyńié niecheĕ.
+wx	53489	Rytel	43	Nie ??ce więceg tego czynić.
+wx	53514	Lubocien	43	Ja niechce tego nigdy więčy czynicz.
+wx	53521	Kamionka	43	Niecheç też wię céj czynić tego.
+wx	53535	Orzelek	43	Nie chcę tego więwj czynic.
+wx	53538	Szyroslaw	43	Juź tego częśćiej czynić niechcę.
+wx	53545	Pisanica	43	Ja tego teź už wionceŷ niç uczÿnie.
+wx	53567	Glinki	43	Ja tego też juź więcej nie nezynię.
+wx	53571	Gruczno	43	Ja też tego już więcéj nie chcę czynić.
+wx	53581	Slawianowo	43	Nie uczynię jwż wię céj!
+wx	53602	Zoledowo	43	Już też tego więcćj nie uczynię.
+wx	53616	Wrocki	43	Ja nechce tego więcy robić.
+wx	53620	Morzewo	43	Ja też tego więcéj nie uczynię.
+wx	53656	Bartosze	43	Juź ia tego więcey nie uczynię.
+wx	53663	Kraplewo	43	Niechce teź to więcéj czynić.
+wx	53708	Pokrzydowo	43	Ja to téź nie chce więcej uczyníc.
+wx	53710	Boleszyn	43	Już więcej tego nie usczynię.
+wx	53721	Nowy Swiat	43	Ja teź nięchec więcéj czynić!
+wx	53745	Wapno	43	Jo już tego więcej nie zrobie!
+wx	53756	Mamlicz	43	Wiecźj tego nieuczynię.
+wx	53760	Rojewo	43	Nie chciałem wię cej tego uczynić.
+wx	53771	Wiatrowo	43	Ja nie chcę też już więcej tego uczyniċ.
+wx	53819	Galezewo	43	Jo też tego znów nie chce uczyni? !
+wx	53822	Lojewo	43	Ja tęgo więcej nie uczynię.
+wx	53834	Bielawy	43	Nie usczy nię tego więećj.
+wx	53859	Chludowo	43	Ja też tego więcej nik uczynię.
+wx	53872	Strzyzewo Koscielne	43	Teź juź więcej razi tego nie uczynćę. 
+wx	53877	Kamieniec	43	Nie chćę tego tež więcej razy uczynĭc!
+wx	55537	Ceradz Koscielny	43	Ja też tego już więcéj nic uczynię!
+wx	55565	Poznan	43	Już wię cej razyłego nie zrobię.
+wx	55569	Lowecin	43	Już więcéj tego nie zrobię.
+wx	55586	Mierzewo	43	Juz̆ tego nie chcę więcéj uczynie!
+wx	55592	Dabrowka Wielkopolska	43	Ja tego już niechcę wiecéj, zrobić!
+wx	55593	Slupia	43	Ja nie chcę tego więcej.
+wx	55621	Babin	43	Już tego nigdy nie zrobię!
+wx	55635	Tadeuszowo	43	Ja niechcę juž wicej razy tego zrobić.
+wx	55646	Gorazdowo	43	Ja takže tego więcéj nieuczynią.
+wx	55656	Sierakowo	43	Nie uczynię tego drugi raz.
+wx	55688	Turew	43	Już tego więcéj raz nie będę robi?
+wx	55701	Ludwinow	43	Już tego więcy nie zrobię!
+wx	55702	Radomierz	43	Satz nicht zu finden
+wx	55720	Kotlin	43	Niechce juź więcy tego czyniė.
+wx	55725	Gorzno	43	Już tego nigdy nie zrobčę.
+wx	55729	Drzeczewo Pierwsze	43	Niechcę tego więcéj razy robić.
+wx	55733	Rusko	43	Nie chcę wię c? tego popełnic dzieć s??ej córce.
+wx	55741	Brzezie	43	Ja już też tego więcéj nie uczynię.
+wx	55782	Torzeniec	43	Nie chcę też juž tego więcéj rzynić!
+wx	55794	Kuznica Slupska	43	Już więcej tego też czyni niechcę!
+wx	55803	Kuklinow	43	Ja juź więcy tego czyniłnie będę.
+wx	55828	Pomocno	43	Ja tež tego rięcéj nie uczynię.
+wx	55848	Uciechow	43	Już wię céj razy nie uczynię tego.
+wx	55855	Przygodziczki	43	Ja już więcéj razy tego nie będę czynił!
+wx	55859	Kaliszkowice Kaliskie	43	Niechçę tego więcéj uczynić.
+wx	55878	Trebaczow	43	Jał tez nie chca tego więcej cynić.
+wx	55894	Greboszow	43	Juz niechca wimce tego ucynic.
+wx	55900	Pawlowice Gorzowskie	43	Jau niechcam więcej razy zrobić.
+wx	55940	Skoraszewice	43	Niechce tego więcej robie.
+wx	55947	Kwiatkow	43	Satz nicht zu finden
+wx	55991	Zabrze	43	Jo piź tego mi chca więcej robić.
+wx	56013	Radoszowy	43	Jo tego juž więcej niezrbobia.
+wx	56022	Budziska	43	Jo tež to wiency niechcam zrobié.
+wx	56027	Stanica	43	Ja bym jusz tego więcéj nie uczynił!
+wx	56041	Murcki	43	Jo też niechcan to zaś więczej czynic.
+wx	56053	Wilkow	43	Joł nie chran wiancyj juž tygo czynić.
+wx	56069	Dobieszowice	43	Niechcan tege juž więc? czyni?
+wx	56077	Ujazd	43	Ja juž to więcej nie uczynię!
+wx	56086	Rzeczyce	43	Joł niechcam tyż więcy czynié.
+wx	56167	Staniszcze Male	43	Jo juž tyž tego niechcam więcy robić!
+wx	56190	Ligota Proszkowska	43	Jus tes tego nie chca cenić.
+wx	56205	Radonia	43	Ja bych rad był, gdyby jusz nic nie czynił.
+wx	56237	Kotorz Wielki	43	Juz tego nie zrobię.
+wx	56247	Pawonkow	43	Joł juz nie chca tego więcej robić!
+wx	56252	Cieszowa	43	Jo tez tego juz więcéj niechca ucynić.
+wx	56257	Zieliniec	43	Juž tygo uie bana robić.
+wx	56269	Debiniec	43	Ja jusnyęnze nieh?ę tego ?yniss(?).
+wx	56274	Wedrynia	43	Jau już tego niechcę wieney czynić!
+wx	56338	Frydek	43	Juź ta tego więcyj nie chca czynic.
+wx	56349	Pielgrzymowice	43	Ja tesz tego zaś więcej niechcę czenić.
+wx	56375	Nieboczowy	43	Ja nie chcem tego nigdy uczynić.
+wx	56381	Swierklany Dolne	43	Jo niechčę to łež więcey czynić.
+wx	56539	Gieralcice	43	Juź więcej tego nèe czynię.
+wx	56549	Borki Wielkie	43	Ja tež to niechčę znów čzynić.
+wx	56576	Kamien Slaski	43	Ja juź to wiechcem robić.
+wx	56580	Strzelce Opolskie	43	Ja juž tež tego niecheę wię cej cry nié.
+wx	56600	Tarnowskie Góry	43	Ja téź to saś nie cheę czynié!
+wx	56650	Bujaków	43	Niechcę juźtéź daléj tego czynić!
+wx	56681	Suszec	43	Ja tež niechcem tego więcej uczijnic.
+wx	56761	Mgowo	43	ja [ją?] niechec to znowu (więce) zrobie.?
+wx	56850	Lekarty	43	Ja tćź niechcę tego więcėj robić.
+wx	56861	Lewald Wielki	43	Ja niechce tego więcey czinic.
+wx	56870	Januszkowo	43	Ja tez niechce to źiencey ciniéć.
+wx	56877	Zimna Woda	43	Ja tego juz więcy ćińeć nie będe.
+wx	56884	Roklas	43	Ja nie będe tego więcei cynył.
+wx	56897	Lipowiec	43	Ja teś niechce wiencÿ cinié.
+wx	56903	Zawojki	43	Ja tes to jus nieche srobiecz.
+wx	56916	Slawka Mala	43	Ja tez tego juz wiency czynic nie bęnde.
+wx	56953	Baranowo	43	Ja wienceÿ tego nie bęnde cÿnie.
+xy	56956	Macice	43	ja nie chce tego wienci czynio.
+xy	56963	Narzym	43	Ja iuz tez tego jęcey nie uczynie.
+xy	56966	Napierki	43	Ja to tez wienzi niechcze ziniečz.
+xy	56975	Mierki	43	Ja tego teź źęcy nie zrobie.
+xy	56979	Butryny	43	Ja tego juź źęcey nie uczynie.
+xy	56994	Jerutki	43	Ja tez iuz więceÿ nie uczinie.
+xy	57047	Nowy Dwor	43	Niechcę ia tez więcÿ czynic.
+xy	57066	Wysoki Grad	43	Ja tego iuz wiencey nie uczynie.
+xy	57070	Pogobie Srednie	43	Ja niechcze to tez iescze raz robieć.
+xy	57074	Lipnicken (Lipniki)	43	ja nie będe jęczéj częnił.
+xy	-57081	Klebark Wielki	43	Niechca (niechcę) więcy tego też czynić.
+xy	57106	Rybno	43	Ja tego znowu uczÿnić nie chce.
+xy	57168	Saplaty	43	Ja iuz więrzÿ niechce tego ucÿniecz.
+xy	57181	Krutyn	43	Ja to wienzey niechze zinitsch.
+xy	57183	Zdory	43	Więczey tez tego nie uczynie.
+xy	57186	Ruda	43	Uz ja jęcei tego nie będe robił.
+xy	57191	Dybowo	43	Ja nie chcę téz̆ zięcéj tak robić.
+xy	57203	Dlugosze	43	Ja to i więcei niechce czynić.
+xy	57219	Sulimy	43	Ja to nigeli nię uczÿnię.
+xy	57232	Wejdyki	43	Ja juz tez tego niechce więcéj czynić.
+xy	57258	Wilkasy	43	Nie chce i więcej robić.
+xy	57275	Czerwonka	43	Jo juz żęcy nigdy tego niezrobiże.
+xy	57298	Zastruzne	43	Ja tego tez więczey nię będe czynił.
+xy	57304	Skomack Wielki	43	Ja więcey tego czynic niechce.
+xy	57318	Kile	43	Ja tego niechce więczey zÿnić.
+xy	57321	Prawdziska	43	Ja to teraz niechcze ucziniec.
+xy	57340	Mosina	43	Jo juź tego wiency nie bede robiuł.
+xy	57348	Bnin	43	Niechcę téz tego drugi raz uczynić.
+xy	57379	Binkowo	43	Jo juz nie chce tego więćej robić.
+xy	57381	Kolniczki	43	Jo też już więcy tego nie zrobię.
+xy	57394	Januszkowo	43	Juź tego nigdy michcę czenięć!
+xy	57406	Dabrowka Ludomska	43	Jo juž tego wiency nie zrobien.
+xy	57407	Wiecanowo	43	Jo też nie chcę tego wiecy robić.
+xy	57397	NA	43	jo hce i tisz nie wiency znowu robici
+xy	55528	Słone	44	Ia to nechci vickrát dělat!
+xy	56290	Groß Hoschütz (Velke Hostice)	44	Ja už to ne zrobym.
+xy	56344	Ellgoth-Hultschin (Ostrava-Lhotka)	44	Ja tež to juž wjc nechcu robit̆!
+xy	44317	Zell-Pfarre	45	Jes vočm to tud nak več spet nared-t.
+xy	I125a	Heille	100	Ik sal 't nōōit meĕr doen.
+xy	I140p	Axel	100	'k Zan het nooit meer doen
+xy	I103p	Cadzand	100	‘k zal ’t nôait mêe doen. 
+xy	I110a	Slijkplaat	100	'k zan't nooit mier daun; of da doen'k nooit mier
+xy	I095p	Hoedekenskerke	100	ik za 't nooit mi dōē
+xy	I101p	Krabbendijke	100	Ik za tet nooit mi doên
+xy	I058p	Westkapelle	100	k sằ t nồjt mĭ̀ do^e
+xy	I062a	Serooskerke	100	ik zat nooit me doe
+xy	I048p	Colijnsplaat	100	ik sat nō̆īt mē duə
+xy	I055p	Sint Annaland	100	Ik zat nooit mae* doen
+xy	K173a	Kruisland	100	Ik zal et nooit meer doen
+xy	K155p	Zevenbergen	100	Ik salt noŏit meĕr doen
+xy	K162a	Oosteind	100	Ik sal 't nŏŏit mĕĕr dŏĕn.
+xy	I032p	Burgh-Haamstede	100	'k sat nōōit mì doe
+xy	I031a	Scharendijke	100	'k Zal 't nooit mi doe
+xy	I023p	Dirksland	100	ik zul et noait meër doewe
+xy	K086p	Zuid-Beijerland	100	ik zèl 't nooit meer doen
+xy	K093p	'S-Gravendeel	100	'k Sel 't nooit meer doen.
+xy	K101a	Nieuwendijk	100	k Sel t nuooit mieer doen
+xy	I008p	Rockanje	100	Ik zal 't nooit meer doen
+xy	K042a	Vlaardingen	100	Ik zel et nooit meer doen.
+xy	K012p	Ouderkerk Aan den Ijssel	100	Ik saèl et nooit mir doen.
+xy	K022p	Willige Langerak	100	'k zal 't nooit meer doen
+xy	D005p	Den Haag	100	Ik sal t nōi̯t mēr dun
+xy	E179p	Zwammerdam	100	'k Zel 't nooit meer doen
+xy	E181p	Zegveld	100	'k sằl hĕ̀t noit mḗr doen(ook: 'k sĕ̀l hĕ̀t enz)
+xy	E133p	Katwijk Aan Zee	100	Kzĕ̀l ə nŏ̀it m^r doewn.
+xy	E138b	Abbenes	100	Ik zal het nooit meer doen.
+xy	E147a	De Kwakel	100	Ik zal 't nooit meer doen
+xy	E080a	Velsen	100	Ik sal het nooit meer doen
+xy	E086p	Zaandam	100	Ik zel ut nooit meer doen
+xy	E041p	Egmond Aan Zee	100	Ik zel et nooit meer doen
+xy	E047a	Stompetoren	100	Ik sal 't nooit (of "nooit niet") meér doen
+xy	E010p	Sint Maarten	100	Ik zel 't nooit meer doen.
+xy	E005p	Westerland	100	'k Zel gien meer doe.
+xy	A009p	De Waal	100	Ik zel 't nooit meer do^en.
+xy	K218p	Bladel	100	Ik sal 't noŏit meĕr doewn.
+xy	K214p	Lage Mierde	100	Ik zal 't niemer doen
+xy	K165p	Udenhout	100	'k zal 't nóót mir doen
+xy	K104a	Herwijnen	100	Ik sul't nòoit mèr doen
+xy	K035p	Hei-En Boeicop	100	Ik zel ut nooit meer doen
+xy	E192p	Utrecht	100	Ik zel 'ut nooit meer dôen ( spr: "doeun")
+xy	E124p	Ankeveen	100	Ik zal het nooit meer doen
+xy	E091p	Monnickendam	100	'k sal 't noo(ie)t mee(r) doen
+xy	E058p	Hoorn	100	Ik sal het nooit meer doen.
+xy	E031a	Oostwoud	100	Ik zĕ̀l ət nooit meer doen.
+xy	E003a	Den Oever	100	'k zallet nooit meer doen
+xy	Q095p	Maastricht	100	Iech zal 't noets nee mie doen.
+xy	L281p	Borkel	100	Ik zal't nooit mér doewn.
+xy	L226p	Woensel	100	Ik salt nŏŏit niemər dŏĕwn.
+xy	L177c	Middelrode	100	Ik zal 't nòit mir doen
+xy	L093p	Lith	100	Ik salt noōt(oor) meĕr doen
+xy	L003p	Maurik	100	ɪk zɑl ət no:t mɪ:r dun
+xy	F165p	Amersfoort	100	k sằl t nooit meer doen.
+xy	F121p	Bunschoten-Spakenburg	100	ik zal et nooit meer doen
+xy	E040a	Venhuizen	100	Ik zel het nooit meer doen
+xy	E040p	Enkhuizen	100	ik zel 'et nooit meer doen
+xy	A001p	Midsland	100	Ik zel 't nooit wer doen
+xy	Q102p	Sint Antoniusbank	100	iech zāl 't nōēts mīē dōēn
+xy	L318p	Stramproy	100	Ich zeltj noëts mië doon.
+xy	L288b	Laar	100	ĭ̀ch sằl 't noits mééir dṓn
+xy	L237p	Helmond	100	Ik zal 't nooit meer doen.
+yz	L157a	Oventje	100	Ik zăl ‘t noit mir doen.
+yz	L102p	Ravenstein	100	ək sal 't nōi̯ mer dun
+yz	L010p	Wageningen	100	Ik za 't nōi̯t mêr dun
+yz	F170p	Barneveld	100	Ik zal 't ok nooit meer doewn.
+yz	F124p	Putten	100	ik zal ət nooit weer doen
+yz	F077p	Urk	100	Ik zal ət nooit maar doen.
+yz	B046a	Minnertsga	100	Ik scil it noait wer dwaen.
+yz	L290p	Panningen	100	ək salət nōu̯t mēr dōn
+yz	L211p	Leunen	100	Ik sal 't noeət (of noe͜ət) (nie) mɛr dóen
+yz	L116p	Beek	100	ik sal ət nōōit mĕr dōēn
+yz	L023p	Arnhem	100	Ik salt noōit weēr doen
+yz	F173p	Hoenderloo	100	Ik zal 't nooit weer doen.
+yz	F128p	Vierhouten	100	Ik zal 't nooit meèr doen
+yz	F102p	Oldebroek	100	ik zal 't nooit weer doon
+yz	F079p	Ens	100	Ik zel et nooit meer doon.
+yz	F052p	Kuinre	100	'k Zal nooit meer doen
+yz	B002p	Nes	100	Ik zi̱l het nooit we̱e̱r doen
+yz	F207p	Drempt	100	ik zal 't nooit meer doon
+yz	F179p	Zutphen	100	Ik zal 't noot weer dôn.
+yz	F132p	Diepenveen	100	Ik zal 't nooit meer doên.
+yz	F106p	Windesheim	100	ik zul 't nooit meer doen.
+yz	F086p	Rouveen	100	Ik zàl 't nōit wēr dōn
+yz	F060p	Steenwijk	100	Ksalt nooit meer doon.
+yz	F021p	Oldeberkoop	100	Ik zal 't nooit meer doen!
+yz	G279a	Zieuwent	100	ik sal 't nōōit mêêr dōōn
+yz	G246p	Lochem	100	ik salt no:it we:ʀ do:n.
+yz	G197p	Holten	100	'k Zal t ook noojt wie^r doon
+yz	G139a	Arriën	100	'k zā nooit meer dõõn
+yz	G091d	Linde	100	kzalt nooit weer doen
+yz	G024p	Dwingeloo	100	Ik zal 't nooit wièr doon
+yz	C145p	Zevenhuizen	100	k Sel 't nooit weer doen.
+yz	C063p	Oldehove	100	'k zal 't nooit weer doun
+yz	C023a	Hornhuizen	100	'k Sèl nait wur doun.
+yz	G257p	Haaksbergen	100	ik_zal 't nôôit wie(r) doo(n)
+yz	G173p	Almelo	100	Ik zal 't ok nooit weer doon
+yz	G094p	Gramsbergen	100	ik zal 't nooit weer doen
+yz	G031p	Orvelte	100	Ik zal 't nooit weir doen
+yz	G007p	Rolde	100	'k Zal t nooit weer doe(w)n
+yz	C148a	Glimmen	100	'k Sèl (3) 't no̱o̱it wèer do̱un
+yz	C070a	Sint Annen	100	Ik zel 't nooit weer doun.
+yz	C001b	'T Lage Van De Weg	100	'k zel't nooit weer doun.
+yz	G079a	Amsterdamscheveld	100	ik zal hət nooit weer doen.
+yz	G058p	Emmen	100	Ik zal 't nooit meêr doen.
+yz	G012a	Nieuw-Buinen	100	ik zel 't nooit (noeit) weer doun
+yz	C156p	Muntendam	100	'k Sel 't nooit weer doun.
+yz	C081p	Weiwerd	100	'k zel 't nooit weer daun.
+yz	C042p	Spijk	100	Ik zel 't nooit weer doun
+yz	C165p	Bellingwolde	100	Ik wil t nooit weer doun
+yz	G285p	Meddo	100	Ik zal ‘t nooit mêer doon.
+yz	K189p	Essen	100	k Sal 't ook niemmeer doen.
+yz	P133a	Terlanen	100	Ik zal da oek ni mee doe
+yz	K191p	Meerle	100	'k Zal 't oòk nimmer doen
+yz	K234p	Wechelderzande	100	'ksalt ɔk ni me ɛdu:n
+yz	K305p	Olen	100	Iksalətoknömèdŏen/Iksalətoknimiiədŏen
+yz	P025p	Aarschot	100	k zalduək nə mĭə dūn
+yz	P154p	Outgaarden	100	ix sål dọx nə mi duŋ
+yz	K196p	Poppel	100	Ik of: 'k zal 't ook nimmer doen
+yz	K241p	Retie	100	k sål dọk nə miə dyn
+yz	K314a	Gompel	100	ek sal ət ọk ni mīə dun
+yz	P047p	Loksbergen	100	Og zal 't nemiə doen og ni
+yz	P174p	Velm	100	Ich zal het og ni mië doen
+yz	L353p	Eksel	100	Ich zal het ooch nie mie doen
+yz	Q001p	Zonhoven	100	ix saldō ni mi dūən
+yz	Q079p	Guigoven	100	ix sal ət ŭk nə me dọn
+yz	L360p	Bree	100	ix sal(ə)t ɔux net miər don
+yz	L417p	As	100	Ich zal 't ouch neet mie doun
+yz	Q253p	Montzen	100	ich zal ət ooch nit mīējə doewə
+yz	O009p	Gottem	100	'k En zal 't nie mer doen, ook
+yz	O182p	Volkegem	100	'k en zal 't oeëknie mieër doen ofwel: 'k en zal 't ekik oeëk nie mieër doen
+yz	I163p	Oosteeklo	100	kə̃ goət nə miɛr dun
+yz	I243p	Destelbergen	100	k zal t nok ne mi-er doen
+yz	O112p	Elene	100	'k en zal 't noot ne meer doen.
+yz	I261p	Appels	100	'k zaan ' t wôk nemieër doen
+yz	O149p	Iddergem	100	kən za k ni ma dun
+yz	O275p	Herne	100	kən zåd yək nəmiə dyn
+yz	I178p	Beveren	100	'k Zāl 't oeëk nie mieër doen
+yz	I268a	Kalfort	100	ksal duək nəmə dūn
+yz	O178a	Molenbeek-Saint-Jean	100	ik zal et oek nemi doon
+yz	P198p	Sint-Genesius-Rode	100	ik sal het doek ne mi doong
+yz	55045/H051p	Wulpen	100	k gɔn t nimɛ du:n
+yz	55005/N024p	Westvleteren	100	kə gɔt uk ni mɛ dū
+yz	N116p	Loker	100	kxõ tuk ni më: dũ:
+yz	H016p	Oostende	100	k zə:n to:k ni me dun
+yz	55036/H061p	Koekelare	100	kxɔnto:k nimɛ duən
+yz	55022	Houthulst	100	K gaan took nie mēē doen
+yz	N130p	Wervik	100	'K goe 't ook nie mee doen
+yz	H005p	Uitkerke	100	'k Ga t ook nie mi doen
+yz	55044/H068p	Loppem	100	kgɔən toək nimeə duən 
+yz	N041p	Pittem	100	ksal twǫk ni mēər dūn
+yz	55023/N141p	Kortrijk	100	k zol t uək ni mę dūn
+yz	K245p	Deurne	100	K sal took nie mər doen
+yz	K332p	Onze-Lieve-Vrouw-Waver	100	'k zal het oeck ni mèe doen
+yz	P018p	Kampenhout	100	Ik zal d ook nemeer doe
+yz	47114	Aarö (Årø)	12	A vil helle it góe et mee!
+yz	56462	Babow	41	A nȯk ja teke wezej [ß] saßej zinisch.
+yz	53549	Zon	43	Niechce więcej już tego uczynić.
+yz	53561	Myslowice	43	Ja też już niechca dalej czynic!
+yz	43859	Schachendorf	46	Neću već to učinjiti. 

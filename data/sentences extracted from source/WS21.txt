@@ -1,0 +1,2499 @@
+Index	Bogennummer	REDE_Namen	Sprache	WS21::Transliteration WS21
+ab	10029	Ringhuscheid	1	Wäem hat hän di neu Geschicht erzalt?
+ab	10044	Malberg	1	Wähm hat e die nei Geschicht beziëhlt.
+ab	1009	Nowy Klukom	1	Weim hät he de nieg (Gaumenl.) Geschicht vätällt?
+ab	1018	Lasko K Choszczna	1	Wem het he de nig Geschicht vetählt?
+ab	10215	Pantenburg	1	Wäm hoat en die neu Geschicht erzählt.
+ab	1023	Golin	1	Wem het he de nieg Geschicht votellt?
+ab	10230	Beuren	1	Bämm hot e dat Steckelche verzellt?
+ab	10259	Mörsdorf	1	Bem hore de neu Geschicht vazellt
+ab	10275	Badenhard	1	Wem hor=e die nei Geschicht verzahlt?
+ab	1029	Niekursko	1	Weimo het he de nigg Geschicht vatjallt?
+ab	10300	Welterod	1	Wem horre dej nâj Keschichd verzehbd? (kesohd?)
+ab	10315	Bleidenstadt	1	Wem horre die nei Geschicht verzählt?
+ab	10335	Espeler	1	Wem hat hen de neie Geschicht erzallt.
+ab	1035	Stobno	1	Weimo had he de nikt Geschicht vetellt?
+ab	10351	Brandscheid	1	Wem hout er die nei Geschicht verzaalt
+ab	10368	Büdesheim	1	Wäïm haot säïn dē neï Geschicht erzellt?
+ab	10381	Waldkönigen	1	Wem hôt en die neu Geschicht verzelhlt?
+ab	1050	Krostkowo	1	Wem hält hei dei nig Geschicht vetelt
+ab	10584	Kalenborn	1	Bem had är de neu Geschichd verzehlt.
+ab	10601	Gappenach	1	Bem hat er de nau Geschicht verzehlt.
+ab	10621	Rhens	1	Wem hor er die neu Geschicht verzellt?
+ab	10649	Attenhausen	1	Wem herre die näi Geschicht verzählt?
+ab	10663	Heringen	1	Wem horr'er die neu Geschicht verzallt?
+ab	10690	Honsfeld	1	Wemm hat hen de neu Geschicht verzahlt?
+ab	10697	Dahlem	1	Wemm hät he de neu Geschicht verzellt?
+ab	10709	Aremberg	1	Wem hat er de neu Geschicht erjählt.
+ab	10736	Hohenleimbach	1	Bäm hat er die neu Geschicht'verzelt?
+ab	10857	Hatzfeld (Eder)	1	Wäm hett er de naue Geschichte verzahlt.
+ab	10974	Haindorf	1	Bän hatt' ä de neu Geschöüchte erzahlt?
+ab	110	Rozpedziny	1	Wem hät er de nig Geschicht vertellt.
+ab	11132	Schwarzwald	1	Wân heât a de naue Geschichte erzeâlt?
+ab	11149	Wipfra	1	Waen hatte en di neie Geschichte erzoahlt.
+ab	11180	Remda	1	Wân hateren d'neie Geschichte erzehlt?
+ab	11197	Zeutsch	1	Wan hotter die naue Geschichte erzählt.
+ab	11212	Breitenhain	1	Wām hat ār die Neue Geschichte erzählt?
+ab	11230	Burkersdorf	1	Waen hott er die neue Geschichte erzohlt?
+ab	11252	Seelingstädt	1	Wam hot ar die naue Geschichte darzohlt?
+ab	11262	Seebach	1	Bähr hättnd nobe Geschichten erzahlt.
+ab	1133	Debenke	1	Wem hät hei dei nigä Geschichte vetällt.
+ab	1139	Gliszcz	1	Wäm hätt hai dai nigg Geschicht fatällt.
+ab	11467	Boilstädt	1	Wänn hätt är düh nauwe Geschöchte erzoalt?
+ab	11485	Ingersleben	1	Wahn hätte di nuwwe Geschechte arzalld?
+ab	1150	Czarze	1	Wem het he de nig Geschicht vatett.
+ab	11515	Gutendorf	1	Wenn hat da de neie Geschechte erzählt.
+ab	11539	Kleinschwabhausen	1	Wān hatte 'n die neie Jeschichte ārzählt?
+ab	11568	Thalbürgel	1	Wän hatte de naue Geschichte erzehlt?
+ab	1157	Bielczyny	1	Wem hat er die neu G'schichte verzählt?
+ab	11586	Bad Köstritz	1	Wan hottern die naue Geschichte derzehlt?
+ab	11607	Lumpzig	1	Wann hotte de naue Geschichte drzohlt?
+ab	1162	Sierakowo	1	Wäm hett hei dei nigg Geschicht vetellt?
+ab	11645	Gleismuthhausen	1	Wann hottr die neu Gschicht däzielt?
+ab	11673	Mitwitz	1	Wem hot er die neu G'schicht de ziehlt.
+ab	11763	Aub	1	Ban hot 'r die neuea Gschichte verzehlt.
+ab	1178	Sokoliniec	1	Weima het he de nik Geschicht vätält.
+ab	11805	Seidmannsdorf	1	Warn hot'r die neua G'schicht d'rziealt?
+ab	11825	Wallenfels	1	Wem hot e die neu' G'schicht eziehlt?
+ab	11844	Neudorf	1	Wem ho_ut r die nei Gschicht erzillt.
+ab	11864	Draisendorf	1	Wem hot ĕr die nei G'schicht derziehlt?
+ab	11881	Sohl	1	Worn haut'r döi neu g'schichte d'rzillt?
+ab	11896	Sülzdorf	1	Bann hatt'er die neu Geschichte d'rzehlt
+ab	1192	Debsko	1	Wäe het die de nieg Geschicht vetällt?
+ab	11927	Bachfeld	1	Wäm hott'r die neu G'schicht drziählt?
+ab	1197	Plociczno	1	Woime hät he de nieg Geschicht vetällt.
+ab	1203	Nakielno	1	Weim hät he de nig Geschicht vetellt?
+ab	12037	Hildburghausen	1	Wan hot'r die neue G'schichte erzehlt?
+ab	12070	Neuenbau	1	Wann hot 'r die neu Geschicht d'rzihlt?
+ab	1208	Wissulke (Wiesiółka)	1	Weim hett he de nieg Geschicht vätellt?
+ab	12085	Grumbach	1	Wann hott är denn die neie Geschicht darziehlt.
+ab	12104	Frössen	1	Wem hott'r de neie Geschicht d'rzillt?
+ab	12125	Schwand	1	Wem hot'r de nei Geschicht erzieehlt?
+ab	12148	Kottengrün	1	Wem hot er die neue Geschicht derziehlt?
+ab	1215	Paruszka	1	Wäm hätt hei dei nig Geschicht vatellt?
+ab	12153	Meiningen	1	Bam hatt er di neu Geschichte e[?]rzählt.
+ab	12167	Altendambach	1	Wann host'n die neu Goschichte dörzahlt?
+ab	12184	Altenfeld	1	Wan hot er denn die neu Geschicht erziehlt?
+ab	12341	Rohrbach	1	Wan huate än die naube Geschichte arzählt?
+ab	12371	St. Jacob bei Leutenberg	1	Wän hat'r die naue Geschichte erzehlt?
+ab	12390	Neundorf (bei Schleiz)	1	Wän (Wen) hat' r'n döi neue G'schicht' 'rzehlt.
+ab	12410	Ebersgrün	1	Wem hot arn die neie Geschichte darzehlt.
+ab	12428	Roitzschau/Rotschau	1	Wann hotr de neie Gschicht erzehlt?
+ab	12496	Horsdorf	1	Wem hout è die neua G'schichte èzîêhlt.
+ab	12529	Ködnitz	1	Wem hoter denn die nei Gschicht däzielt?
+ab	12556	Kornbach	1	Wem hot er die nai Gschicht derzihlt.
+ab	12572	Habnith	1	Wem haut er die neua Gschicht erzialt?
+ab	12594	Uchenhofen	1	Wann hotter die neu Geschich d'rzählt.
+ab	12616	Reutersbrunn	1	Wann hett'r die neu Gschichte erziehlt?
+ab	12656	Weismain	1	Wem hot er die neu Gschicht derzehlt?
+ab	1278	Insko	1	Wemma het 'ĕ de nij Geschicht vĕtellt.
+ab	1287	Konotop	1	Weim hätt he de nig Geschicht vetällt?
+ab	12876	Lohma	1	Wan hotter de naue Geschichte d'rzohlt?
+ab	12898	Heiersdorf	1	Wenn hat'r die neu Geschicht erzehlt?
+ab	12921	Sachsenburg	1	Wahn hott'a die neu' G'schicht' dazählt?
+ab	12942	Rothenfurth	1	Wam hadr de neue Geschichd arzahld?
+ab	1296	Zabin	1	Weim hät he de nieg Geschicht vetellt?
+ab	12969	Borlas	1	Wan hott'r de neuie Geschichte erzählt?
+ab	13005	Dohna	1	Wahn hett'n de neie Geschichte drzahlt?
+ab	13019	Porschdorf	1	Wem hat'r die neue Geschichte derzahlt?
+ab	13047	Morgenröthe	1	Wäm hot er die Geschicht erzehlt (Geschichterzehlt) ?
+ab	13054	Rittersgrün	1	Wään hoter dä die neie Gschicht därzehlt?
+ab	1315	Kamien	1	Wäm hät hei dei nig Geschicht fätällt?
+bc	13169	Saupersdorf	1	Wann hoter die neue Geschicht erzehlt?
+bc	13187	Kühnheide	1	Wänn hat r die neue Geschicht derzöhlt?
+bc	13210	Himmelmühle	1	Wann hot ar die neia Geschicht derzehlt.
+bc	13226	Rübenau	1	Wan̄ hot er die neue Geschicht erzöhlt?
+bc	13269	Thurm	1	Wem hot er die neie Geschichte erzehlt?
+bc	13286	Ursprung	1	Wann hotr die neue Geschicht derzeehlt?
+bc	133	Sosnowo	1	Wem hett hei dei nig Geschicht vatellt.
+bc	13317	Dittmannsdorf	1	Wann hot ar de noia Gschicht darzehlt?
+bc	13340	Grosshartmannsdorf	1	Wān hodd a die neie Gschicht dă zähld?
+bc	13355	Reichenau	1	Wam hoat ar de neie Geschichte derzahlt.
+bc	13372	Liebenau	1	Wan hat er'n de neie Geschichte derzählt?
+bc	1338	Dzidno	1	Wemm hätt hei dei nich Geschicht vatällt.
+bc	13529	Wang-Brückenberg	1	Wahm hod'a die neie Geschichte derzahlt?
+bc	13543	Pisarzowice	1	Wahe hot a die neue Geschichte deezahlt?
+bc	13559	Boguszow-Gorce	1	Wam hōt a die neue Geschichte (d) erzahlt?
+bc	13655	Niederleutersdorf/Leutersdorf	1	Wam hade die noie Geschichte derzahlt?
+bc	13678	Rohnau (-)	1	Woahm hodder de neue Gschichte derzahlt?
+bc	13700	Rebiszow	1	Wamm hoht a die neue Geschicht derzahlt?
+bc	13719	Siedlecin	1	Wamm hoot a de neue Geschichte derzahlt.
+bc	13727	Myslow	1	Wahm hoot a die neue Geschichte dirzahlt?
+bc	13745	Jugowa	1	Wann hot a denn di neue Geschichte dirzahlt?
+bc	13830	Wlodowice	1	Wam hot a die neue Geschichte drzehlt?
+bc	13869	Biernacice	1	Wam hod a denn die neue Geschichte dirzahlt?
+bc	13887	Rzymiany	1	Wam hoht a die neue Geschichte derzählt?
+bc	13898	Szadurczyce	1	Wam hoat a de neue Geschichte d'rzahlt?
+bc	13929	Stoszowice	1	Wam hot a die neue Geschichte derzahlt?
+bc	13996	Lutomia Gorna	1	Wam hot a de neue Geschichte derzahlt.
+bc	14023	Roztocznik	1	Wam hōt a die neue Geschichte derzahlt?
+bc	1403	Dobieszewo	1	Wema het hei dei nig Geschicht vatellt?
+bc	14034	Lipowa	1	Wam hot a die neue Geschichte dr zahlt?
+bc	14074	Michalow	1	Wam hod a di neue Geschichte d'rzahlt?
+bc	14092	Karczow	1	Wam hot a die neue Geschichte derzählt?
+bc	14159	Jutrzyna	1	Wam hot a d neue Geschichte derzahlt?
+bc	1417	Rydzewo	1	Wäm hett hei dei nīg Geschicht vōtellt?
+bc	14234	Brzoza	1	Wam hot a die neue Gischichte dirzehlt?
+bc	14250	Jaczkowice	1	Wam hed ar die neue Geschichte arzählt?
+bc	14275	Piastowice	1	Wam hod a di neue Geschichte derzählt?
+bc	14305	Bozanow	1	Wann hooda die neue Geschichte drrzahlt?
+bc	1432	Rzepowo	1	Weim hät he nig Geschicht vätält?
+bc	14321	Rogow Sobocki	1	Wam hot'a di neue Geschichte derzahlt?
+bc	14382	Wölfelsdorf (Wilkanów)	1	Wam hot a die neue Geschichte derzehlt?
+bc	1442	Lubowo	1	Wem hett hei dei nig Geschicht vetellt?
+bc	14449	Thröm (Trebom)	1	Wam hat’r die neie Geschichte derzahlt.
+bc	14458	Szczytna	1	Wam hot a d noie Geschichte derzählt?
+bc	14471	Jaszkowa Gorna	1	Wam hot a die neie Geschechte derzehlt.
+bc	14486	Nadziejow	1	Wam hot er die neue Geschechte erzehlt?
+bc	145	Smardzko	1	Wemm hät hei dei nieg Geschicht vatellt?
+bc	14505	Piorunkowice	1	Wam hot a die neue Geschichte derzahlt?
+bc	1451	Steinforth (Brodźce)	1	Wähm hätt hei dei nij Jeschischt votällt?
+bc	14537	Bielice	1	Wam hot a die neie Geschichte derzehlt?
+bc	14560	Siemianowice Slaskie	1	Wam hot a die neie Geschichte derzahlt?
+bc	1461	Wegorzewo Szczecineckie	1	Wem hät hai dai nig Geschicht vätält.
+bc	14613	Nohfelden	1	Wem harr er die nau Geschicht erziehlt?
+bc	14635	Erzweiler	1	Wann harr er der die nei G'schicht erzehlt?
+bc	14670	Nussbach	1	Wem horrèr die nei Geschicht verzéhlt?
+bc	14693	Dannenfels	1	Wem het er die neu Geschicht verzehlt?
+bc	14724	Monsheim	1	Wem hot er die neu Geschicht verzählt?
+bc	14752	Sankt Matthias	1	Wemm hôtte de neï Geschicht erzehlt?
+bc	14955	Bescheid	1	Wemm hoat hä döi nau Geschicht erzöllt?
+bc	14971	Allenbach	1	Wem hro er die nau Geschicht verziehlt?
+bc	1499	Stara Rzeka	1	Weam had he de niej Geschicht vatellt.
+bc	14999	Berschweiler bei Kirn	1	Weem horrer die nau Geschiecht verziehlt?
+bc	15018	Bad Sobernheim	1	Wem horrer die nei Geschicht verziehlt.
+bc	15042	Neu-Bamberg	1	Wem horer die nei Geschicht vezehlt.
+bc	15066	Bechtolsheim	1	Wem hott er die neu Geschicht erzöhlt?
+bc	15088	Bollendorf	1	Wem hot en die nai Geschicht erzīlt?
+bc	15096	Preist	1	Wem hoeten die neu Geschicht erzielt?
+bc	15118	Pohlbach	1	Wäm hat ene die nei Geschicht erzählt?
+bc	15137	Kautenbach	1	Wäm haotta de'i nei Geschicht verzellt?
+bc	15334	Kirchberg (Hunsrück)	1	Wem horre die nei Geschicht verziehld?
+bc	15349	Ellern (Hunsrück)	1	Wem horr'r die nau Geschiegd verziehld?
+bc	1536	Heidlauken (Bugorki)	1	Wem hewwt hö de niee Geschichte vertellt?
+bc	15365	Bingen am Rhein	1	Wem hot ĕr die nai Geschicht verzehlt?
+bc	15394	Finthen	1	Wem hott er die neu Geschicht verzählt?
+bc	1540	Heinrichswalde	1	Wem hewt he de nie Geschichte vertellt?
+bc	15418	Schneeberg (Sněžník)	1	Wan hott a denn die neie Geschichte dazahlt?
+bc	15503	Zettel (Sedlo)	1	Wan hott'r die neie Geschichte drzählt?
+bc	1552	Pazuizen	1	Fer wem heft he de niee Geschichte vertällt?
+bc	15538	Wisterschan (Bystřany)	1	Wahn hotr die neie Gschichte drzählt?
+bc	15550	Malschen (Malečov)	1	Wan hout'r die naia G'schichta dargahlt?
+bc	15638	Lukawetz (Lukavec)	1	Wan houdr die naje Geschichte drzejlt?
+bc	1565	Gierver Lauken	1	Wem hefft he de nie e Geschichte vertellt?
+bc	15681	Neudorf (Vrchběla)	1	Wahn hodr denn die noje Geschichta drzahlt?
+bc	15685	Gastorf (Hoštka)	1	Wan heut'r die neie Geschichte drzahlt.
+bc	15690	Wegstädtl (Štětí)	1	War houdr die neïe Geschichte drzahlt?
+bc	1571	Schmalleningken	1	Wem hett he de niee Geschichte vartellt?
+bc	15725	Nixdorf (Mikulášovice)	1	Wahn houdr do dicho neue Goschichto drzahlt?
+bc	1573	Groß Dirschkeim (Donskoye)	1	Wem hab he de nie Geschichte vatellt.
+bc	15751	Rückersdorf (Dolní Řasnice)	1	Wān hot er de neue geschicht derzālt?
+bc	1578	Rantau (Zaostrov'Ye)	1	Wem hefft he' dè niè Geschichte vàtellt.
+bc	158	Polczyn-Zdroj	1	Wämm hett hei dei niej Jeschicht vetellt?
+bc	1580	Schulstein (Vol'Noe)	1	Wem hewt'a dem nie Geschichte vatellt?
+bc	15807	Kamnitz-Neudörfl (Kamenická Nová Ví	1	Waan houd? die neie Gschicht drzaalt?
+bc	15824	Zwickau (Cvikov)	1	Wan hoad'r die neue Geschichte drzahlt?
+bc	15847	Christophsgrund (Kryštofova Údolí)	1	Wan hot a die neue Geschiche drzahlt?
+bc	15858	Gränzendorf (Hraničá)	1	Waan hout a die neue Geschöchte drzahlt?
+bc	1588	Alt Susimilken (Tarassowka)	1	Wem hett he de niee Geschichte vertellt?
+bc	15971	Puletschnei (Pulečný)	1	Wan hout a die neue Gschichte drzahlt?
+bc	15975	Graber (Kravaře)	1	Wân hôdr die neua Geschichta drzâhlt?
+bc	15989	Thammühl (Staré Splavy)	1	Wan hozut ar die neja Gschichta drzahlt.
+cd	15995	Proschwitz (Česká Proseč)	1	Wahn hot ar die neuo Geschichte erzählt?
+cd	16007	Harrachsdorf (Harrachov)	1	Wahn hout a die neue Geschechte drzahlt?
+cd	16015	Witkowitz (Vítkovice)	1	Wân hodə denn de neuə Geschichtə dəzâhlt?
+cd	16050	Forst (Fort)	1	Wām hot a de neia Geschecht dezählt?
+cd	16063	Gabersdorf (Libeč)	1	Wam hod a die neue Geschechte drzehlt?
+cd	16083	Bodisch (Bohdašin)	1	Wam hot an dn schiene Geschichte dozahlt?
+cd	16139	Zwitschin (Zvičina)	1	Wam hoda die neie Geschecht drzählt?
+cd	16154	Großbock (Velká Bukovina)	1	Wam hot (d)r (ar) die neier Geschechte drzählt?
+cd	16179	Schmiedeberg (Kovářská)	1	Mann hotr de neia Gaschicht drzehlt?
+cd	1626	Tulpeningken (Zarečnoe)	1	Var wem het er dä nie Geschichte vartellt.
+cd	16276	Waitzengrün (Loučná)	1	Wiam hout er döi neia Gschicht dazühlt?
+cd	1628	Wisborienen (Livny)	1	Var wem hat he de nie Geschichte vartellt?
+cd	16298	Sittmesgrün (Mezirolí)	1	Wea haut au döi neia Gschicht daziahlt?
+cd	16322	Petersdorf (Petrov)	1	Wer haotan diri naer Gschicht dazüht.
+cd	16338	Podletitz (Podlesice)	1	Weh hott er die neia Gschicht dazelt?
+cd	16442	Kropitz (Krapice)	1	Wea haut ea döi neia G'schicht dazühlt?
+cd	16470	Ebersfeld (Podlesi)	1	Wem hät er däs neie Gschichtl erzühlt.
+cd	16491	Rabensgrün (Haje)	1	Wer håut oar die neia Gschicht dåzült?
+cd	16523	Lintsch (Hlineč)	1	Wia håot er dåe nåja Gschicht dazialt?
+cd	1654	Postnicken (Zalivnoe)	1	Wem heft he de niee Geschichte vatellt?
+cd	16602	Klotantschen (Kotaneč)	1	Wä hât er dij neija Gschicht dâzellt
+cd	16610	Tschernowitz (Černovice)	1	Wem hottr de neie Geschichte drzehlt?
+cd	16625	Hawran (Havraň)	1	Wa hotr de' de neie Gschicht drzählt?
+cd	16636	Liebshausen (Libčeves)	1	Wan hot er die neie Geschichte derzählt.
+cd	1664	Labagienen/Haffwinkel (Zalivino)	1	Wem heft he de nie'e Geschichte vatellt.
+cd	16670	Priesen (Březno)	1	Wem hōt er die neie Gschīcht drzēhlt?
+cd	16689	Libeschitz (Liběšice)	1	Wem hŏtar die neie Gschocht drzēhlt?
+cd	16725	Leschkau (Ležky)	1	Wäh hod ?a die naja Gschicht dazelld?
+cd	16739	Pschoblik (Pšovlky)	1	Wem hott'e(r) die nāier Gschicht der(r)zellt.
+cd	16751	Prag-Smichow (Smíchov)	1	Wem hat er die neue Geschichte erzählt.
+cd	16755	Weißbach (Bílý Potok)	1	Wam hod͜'a die neije Geschechte derzohlt?
+cd	16770	Schediwy (Šediviny)	1	Wam hot an di neue Geschechte drzalt.
+cd	16775	Friedrichswald (Orlické Záhoří)	1	Wam hōt an die neue Geschechte drzählt?
+cd	16801	Böhmischdorf	1	Wan hot arn de neie G'schichte drzehlt?
+cd	16814	Rokitnitz (Rokytnice)	1	Wahm hot an die neue Geschichte derzehlt?
+cd	1683	Kreuzingen (Bol'Shakovo)	1	Wem hett he de niee Geschichte vertellt?
+cd	16876	Nieder-Ullersdorf (Dolní Boříkovice	1	Wann hot har die noi'e Geschichte drzahlt?
+cd	16889	Heinzendorf (Hynčice Nad Moravou)	1	Wam hoter die neia Gaschicht dazählt?
+cd	16907	Karlsdorf	1	wām hôd͜ ɐ den dī naêa gəšiχt dɐtsöŷt?
+cd	16932	Kuhberg	1	Wan hot a die neie Geschichte derzählt?
+cd	16949	Rausen (Rusín)	1	Wan hot ar die neie Geschichte erzählt?
+cd	1698	Buttkuhnen (Pokrovskoe)	1	Wem het he de Geschichte vartellt?
+cd	16991	Breitenau (Bretnová Široká Niva)	1	Wan hodr die neie Geschicht drzählt?
+cd	17012	Lobenstein (Úvalno)	1	Wahn hodrn die neije Geschichte drzehlt?
+cd	17029	Lohhäuser (Slatina)	1	Wea hout a deï naia Gschicht dazühlt?
+cd	17061	Deutsch Thomaschlag (Německé Domasl	1	Wean haut da denn döi neia Gschicht dazüalt?
+cd	17075	Polinken (Polínka)	1	Wia haut er döi neia Gschicht dazühlt.
+cd	1708	Baltruschatschen (Jakovlevo)	1	Wem hat hee de nüe Geschichde vertellt?
+cd	17138	Albersdorf (Písařova Vesce)	1	Wear houta döi neia Gschicht dazüahlt?
+cd	17151	Damnau	1	Wea hout er döi naia Gschicht dazüahlt?
+cd	17174	Piwana (Piňovany)	1	Wea håt (d)a döi neia Gschicht dazüalt?
+cd	17178	Kottiken (Chotíkov)	1	We͜ian h?t ea(r) dös naia Gschichtl dazölt?
+cd	17244	Dianaberg (Diana)	1	We͠ə hàut ə döi neiə Gschicht dəzüəhlt?
+cd	17266	Wiedlitz (Vidice)	1	Wian houtna döi neie Gschicht daziohlt.
+cd	17273	Honositz (Honezovice)	1	Wian hot a daei naja Gschicht dazialt.
+cd	17281	Dobrzan (Dobřany)	1	Wea hot enk döi neua Gschicht dazüahlt?
+cd	17306	Blisowa (Blížejov)	1	Wian håot er dej neie Gschicht dázialt?
+cd	17309	Hilbeten	1	Wam hot ar denn di noia Gaschicht gasågt.
+cd	17325	Schönwald (Strážná)	1	Wam hot a de noie Geschichte drzahlt?
+cd	1733	Rottenen (Raktino)	1	Wem heft hei de nieje Jeschichte vätellt?
+cd	17374	Ober-Ullischen (Horní Olešná)	1	Wam hout ar d neia Gschicht darzählt?
+cd	17389	Bergstadt (Horní Město)	1	Wam hotem doas neia Geschichtla die?zojt? [dierzojt?]
+cd	1741	Pojerstieten (Kolodcy)	1	Wem heft he de eüe Geschichte vatelt?
+cd	17433	Ranigsdorf (Linhartice)	1	Wem huto d' neia G'schicht d'zillt?
+cd	17442	Müglitz (Mohelnice)	1	Wäm hŏt er denn die nāje Geschicht dazehlt?
+cd	17460	Ribnik (Rybniček)	1	Wam hot'r die naia Geschicht derzählt?
+cd	17468	Stangendorf (Vendolí)	1	Wann hotrn däi neua Geschicht drzäihlt?
+cd	1747	Beydritten (Pervomajskij)	1	Wem heft hä de nië Geschichte vatellt.
+cd	17504	Neu-Biela (Lavičné)	1	Wann hot r d neuja Gschicht dzählt?
+cd	17512	Schlettau (Slatina)	1	Wem hot er d naie Geschicht dezielt?
+cd	17520	Runarz	1	Bām hōt ār də naia G'ešecht dətsēlt?
+cd	17521	Nebotein (Hnĕvotín)	1	Bem hout(er) die nuj(e) Gschicht (dejs nuj(er) Ratsl) d(er)zählt.
+cd	17568	Tillendorf (Tylov)	1	Wan hotern die neia Geschicht derzöht?
+cd	1758	Brasdorf (Antonovka)	1	Wem hefft'ă dĕ nie Geschichte fătellt?
+cd	17585	Mladetzko (Mladecko)	1	Waan hodr die neia Geschicht drzehlt.
+cd	17643	Seibersdorf (Bělá)	1	Wan houtern die neia Geschichte derzählt?
+cd	17659	Bernhau (Barnov)	1	Wan hot'r denn die eie Geschicht erzellt.
+cd	17680	Klantendorf	1	Wam hoetr dejnn die náie Gschicht drzählt?
+cd	17687	Engelswald (Mošnov)	1	Wam hotr die neiê Gêschicht drzehlt?
+cd	17698	Nirklowitz (Mrsklesy)	1	Wam hout er die neia G'schicht drzehlt.
+cd	17713	Punkendorf (Boňkov)	1	Wam hot a die neia Geschicht dzählt
+cd	1772	Groß Goldbach (Slavinsk)	1	Wem häwt he de nie Geschichte fatällt?
+cd	17726	Halbendorf (Polouvsí)	1	Wam hot er die neie Geschicht drzehlt?
+cd	17737	Senftleben (Ženklava)	1	Wam hot er die neie Geschicht drzehlt.
+cd	-17739	Polanka Wielka	1	Wem hut er die neue Geschicht verzählt?
+cd	-17744	Bulowice	1	Wem hat er die neie Geschichte verzählt.
+cd	-17746	Chocznia	1	Wen hot er die neie Gschicht verzöllt?
+cd	-17749	Alt-Bielitz (Stare Bielesko)	1	Wam hot har due noje Geschichtla dezählt.
+cd	17759	Linz (Mlýnec)	1	Wen ho̊ut a de nai Gschicht dazöhlt?
+cd	17782	Kohlheim (Uhliště)	1	Wem hot ?a de nuie Gschicht dazielt.
+cd	17792	Čachrau (Čachrov)	1	Wem hot ea de mĭie Gschicht dazehlt?
+cd	17801	Hurkental (Hůrka)	1	Wem hot a die neiche Gschicht daöhlt?
+cd	17824	Rotsaifen (Červená)	1	Wen hot a de neiche Gschicht dāzöllt?
+cd	17832	Winterberg (Vimberk)	1	Wem hot ea(r) die neie Gschicht dazöihlt?
+cd	17843	Sehrlenz (Ždírec)	1	i bem hot (a) doj naj gŝiĥt d(a)celt?
+cd	17854	Irsching (Jiřín)	1	Wen hot er die neue Gschicht dazöhlt?
+cd	17862	Hilbersdorf (Jihlava-Heroltice)	1	Wem hotə des neie Gschichtl dəzəlt?
+cd	17876	Sollowitz (Salavice)	1	Wem hot er die Gschicht drzöhlt.
+cd	17878	Stannern (Stonařov)	1	Wem hot er dös neue Märl dazöt.
+cd	17881	Riegerschlag (Lodhéřov)	1	Weim hod r dan di Neiikeit d'r zählt?
+de	17882	Wenkerschlag (Dolní Radouň)	1	Wem hodr an deï neie Gschicht dazöhlt?
+de	17884	Buchen (Buk)	1	Weim hot r dei neii Gschicht däzöhlt
+de	17895	Hosterschlag (Člunek)	1	Weïm hotr die neigi Gschicht drzählt?
+de	17898	Lipolz (Lipolec)	1	Wem hot er dei nei G'schicht daz ählt?
+de	17940	Czernowitz (Černovice)	1	Bejm hoda dej naje Gschichtn erzählt?
+de	17942	Gundrum (Komořany)	1	Beim ho tea ran dej nuj Gschicht deazealt?
+de	17956	Prahlitz (Pravlov)	1	Wem hot er die neie Gschicht erzöhlt?
+de	17961	Woikowitz (Vojkovice)	1	Wem hot er denn? de neiche Gschicht dazählt?
+de	17967	Sub-Lechnitz (Lechnica)	1	Wem hot er ti neji Raschicht verzählt.
+de	17968	Topportz (Toporec)	1	Wan hot dr die noja Geschicht derzäjhlt
+de	17972	Hobgard (Chmeľnica)	1	Wann hatt er due neije Dischichte dezäut?
+de	17981	Neu Walddorf (Nová Lesná)	1	Wan hot dr di noie Geschicht ertsejlt.
+de	17993	Durelsdorf (Tvarožná)	1	Went hat der die neuje Geschicht derzäjlt.
+de	17999	Leutschau (Levoča)	1	Wen hat er die neue Geschicht derzäihlt.
+de	180	Galowo	1	Wähm hätt hei dei nieg Geschicht votällt?
+de	18000	Zipser Neudorf (Spišská Nová Ves)	1	Wen hot er die nje Geschicht erzejlt?
+de	18001	Wagendrüssel (Nálepkovo)	1	Bëhnen hoda de neue Geschichte dazē̈hlt.
+de	18003	Göllnitz (Gelnica)	1	Benen hot'a de neue Geschichte dazéhlt?
+de	18004	Dobschau (Dobšiná)	1	Bem hot er die naja Gaschicht derzählt?
+de	-18008	Schmöllnitz (Smolník)	1	Benen hota de náje Geschicht dazählt?
+de	18010	Metzenseifen (Medzev)	1	Ben [Wen?] hota d? neue Meachéng dazéhlt.
+de	18013	Buchwald (Bučina)	1	Weim hot a den dei neühi Gschicht dazeïht?
+de	18018	Schattawa (Záton)	1	Wem hot er dej nuj Gschicht dazäjt?
+de	18028	Zaborsch (Záhorí)	1	We͂im hod a de͂in deï neii Gschicht dazi͡d.
+de	18058	Hirschbergen (Hiršperky/Jeleni)	1	Wejm hota vej neu'i Gschiacht vezählt.
+de	18064	Honetschlag (Hodňov)	1	Weim hot a die nei G'schicht dazült?
+de	18091	Kollerschlag	1	Wen hat a de nai gschicht dazöht.
+de	18095	Sankt Thoma (Svatý Tomáš)	1	Wen hot er den d nei Gschicht dazählt?
+de	18101	Hohenfurth (Vyšší Brod)	1	Wem hot a die neii Gschicht dazöhlt.
+de	18132	Hummeln (Homole)	1	Wem hot ear di neihi Gschicht drzelt?
+de	18135	Rudolfstadt (Rudolfov)	1	Wem hot ér die neii G'schicht derzählt?
+de	18144	Gross-Radischen	1	Wem hat er die nei Gschicht dazählt.
+de	18188	Priethal (Prídolí)	1	Waonn hot a dej neuhi G'schicht dazühlt. 
+de	18192	Gollnetschlag (Klení)	1	Wejm hot (a) dej nähi Gschicht d(a)zü(l)t.
+de	18210	Weissenbach (Vysné)	1	Wem hot er die Nei(i)gkeit derzölt?
+de	18218	Langschwarza	1	Wein hot er dim de neiche Gschicht dazöht?
+de	1829	Rudszen (Poltavskoe)	1	Wem hat he de nie Geschichte vertellt?
+de	18290	Unterwald	1	Wem hot er denn dö neuchi Gschichl dazöhlt?
+de	18296	Bad Grosspertholz	1	Wem hat er die neichi Gschicht dazählt.
+de	18310	Oberstrahlbach	1	Wem hot er die neuche G'schicht dazöhlt?
+de	18359	Waldkirchen	1	Wen hot a die neiche Gschicht dazählt?
+de	18364	Hafnerluden (Lubnice)	1	Wem hot er de neiche G'schicht derzöhlt?
+de	18367	Schiltern (Štítary)	1	Wem hot er demm die neiche Gschicht derzöhlt.
+de	18407	Töstitz (Těšetice)	1	Wem hot a denn de neiche Gschicht dazölt?
+de	1842	Warupönen (Fëdorovka)	1	Wem hat he de niee Jeschichte vartellt?
+de	18432	Dietmanns	1	We͞m hod ͡a dë neichi Gschicht dazö͡it?
+de	18441	Schirmannsreith	1	Wem hod a de neiche Gschicht dazöit?
+de	18454	Hofern	1	Wem hot a die neichi Gschicht dazöhlt?
+de	185	Jelnia	1	Wäm hät hei de nig Geschicht vätellt?
+de	18508	Gerstenfeld (Ječmeniště)	1	Wem hot a di neiche Gschicht dazöhlt?
+de	18525	Franzen	1	Wen͂ håd a dè neichi Gschiχd dazöid?
+de	18534	Rosenburg	1	Wem hot er die neiche Gschicht derzählt?
+de	18554	Oberdürnbach	1	Wem hot er die neichi Gschicht dazählt?
+de	18559	Aspersdorf	1	Wem hod a den de neuchi Gschicht dazöd.
+de	18607	Damnitz (Damnice)	1	Wem hot' da'n de naiche Gschicht dazöhlt?
+de	18627	Tracht (Strachotín)	1	Wem hootr tenn di neie Gschicht trzölt?
+de	18637	Saitz (Zajecí)	1	Won hot er die naii Gschicht drzöhlt.
+de	18642	Höflein an der Thaya (Hevlín)	1	Wem hoda den dö naiche Gschicht dazöhlt?
+de	18672	Stützenhofen	1	Wem hot er d' neii Gschicht dazouhlt.
+de	18686	Bernhardsthal	1	Wem hot a die neuche G'schicht dazöhlt?
+de	18701	Pyhra	1	Wem hat a die neichi Gschicht dazöhlt?
+de	18707	Wilfersdorf	1	Wem hot er dö neuche G'schicht' dazöht?
+de	18716	Palterndorf	1	Wem hot a die neuchi (neui) G'schicht dazôhlt
+de	18753	Münchwies (Vrícko)	1	Am wam hottr da son nei Gaschiche vrzählt?
+de	18759	Bettelsdorf (Solka)	1	A bém hot'r d' naia G'schicht d'rzejt?
+de	18763	Oberstuben (Horná Stubna)	1	A bîm hųt ⱱ  di nai̯ⱱ  gⱱšiχ̘̟t dⱱrtsẹlt. 
+de	18767	Krickerhäu (Handlová)	1	Bem hot her den de naÿa Geschicht derzählt.
+de	18773	Deutsch-Litta (Kopernica)	1	A bem hut'o di neuj G'schajchte drzehlt.
+de	18774	Hochwiesen (Vel'Ké Pole)	1	Bäim ho̊t hä dj neua Geschicht unzäilt?
+de	18786	Sankt Georgen bei Obernberg am Inn	1	Wen hat a dö neichi G'schicht vozöhlt?
+de	18800	Hochburg	1	Wem hora an die nei Gschicht vr zöt.
+de	18805	Pischelsdorf am Engelbach	1	Wem hat er die neichö Gschicht vzöhlt.
+de	18846	Niederkappel	1	Wen hat er die neui Gschicht vazöhlt.
+de	18855	Niederwaldkirchen	1	Wen hat a denn de neich Ge[s]chicht vazöhlt.
+de	18902	Dorf an der Pram	1	Wen hod a di neiche Gschicht vozölt.
+de	18910	Michaelnbach	1	Wen hat e dö neu G'schicht vazöhlt?
+de	18923	Alkoven	1	Wem håt á dö neiche Gsch[i/e?]cht [zwei Haken mit sehr blassem Punkt] vázöt?
+de	1895	Königlich Damerau	1	Wem häwt he dis nie Geschichte vatelt?
+de	18984	Arnberg	1	Wem hât a do neig Gschicht vozöit?
+de	18987	Rackering	1	Wem haod a dö nei Gschicht dazöh(l)t? 
+de	19003	Pennewang	1	Wen håt a denn dö neu Gschicht vazölt?
+de	19011	Sipbachzell	1	Wenn hat er denn di[e?] nur ein Haken neiche G’schicht dazöhlt?
+de	1904	Pesseln	1	Wem hefft hē dē ni_è Geschichtè vertellt?
+de	19070	Reichenau im Mühlkreis	1	Wen håd a dö nai Gschichd vazoid?
+de	19080	Gutau	1	Wen hat a die neuchi Gschicht dazölt?
+de	19085	Hackstock	1	Wen hot a de neiche G'schicht vazöid?
+de	19096	Traunstein	1	Wen hot er nie neue Gschicht erzählt?
+de	19138	Maria Laah	1	Wen hât er dö ? neiche Gschicht vazölt?
+de	19144	Haag	1	Wen håt a denn dö neiche Gschicht dazölt.
+de	19154	Amstetten	1	Wen hot er denn die neiche Gschicht dazöh't?
+de	19163	Wieselburg	1	Wem hod a dneichi Gschicht vazöhlt?
+de	1919	Groß Gerlauken (Vjazovka)	1	Wem hat he die nie Geschichte vertällt?
+de	19225	Steyregg	1	Wen hat er dö nei Gschicht vazölt?
+de	19233	Schwertberg	1	Wem ha͠oda dõ neiīchõ gšicht vazȭt?
+de	1924	Pakallnischken (Suvorovo)	1	Wem hett he de nië Geschichte vertällt.
+de	19245	Bad Kreuzen	1	wem hat eea dö neue G'schicht vozählt?
+de	19257	Altenmarkt	1	Wen hot a d' neichi Gschicht dazöhlt?
+de	19301	Els	1	Wem hat er denn dö meichi Gschicht vazählt?
+de	19311	Gneixendorf	1	Wen hot a denn d' neichi Gschicht dazōit.
+de	19322	Fels am Wagram	1	Wem hot'r de meichi G'schicht d'rzöt?
+ef	19334	Oberhautzental	1	Wem hot a die neichi Gschicht dazölt?
+ef	19401	Schönbühel an der Donau	1	Wen håt er denn dö neuche Gschicht dazählt?
+ef	19404	Karlstetten	1	Wem hoda die neichi G'schicht dazählt?
+ef	19419	Würmla	1	Wem hot a d? neiche Gschicht dazöht?
+ef	19429	Ried am Riederberg	1	Wem hāt er die neuche G'schicht dazählt?
+ef	19479	Mank	1	Wen hod a dö neuchi Gschicht dazölt (dazöjt.)
+ef	19486	Wilhelmsburg	1	Wen håt er den dö neichi Gschicht dazählt?
+ef	19492	Stollberg-Siedlung	1	Wem hat er denn die neiche G'schicht dozöhlt.
+ef	1953	Pillau	1	Wann hefft höh dee nüe Geschüchte vatällt.
+ef	19541	Grub	1	Wein hout er denn die neichi Gschicht dazöjt?
+ef	1956	Patersort (Beregovoe)	1	Wem heft hei dei niee Geschichte vatellt?
+ef	19564	Obergänserndorf	1	Wem hot a denn dö neiche Gschicht dazöhlt?
+ef	19607	Raggendorf	1	Wem hot a dneiche Gschicht dazöh(l)t?
+ef	1962	Bergau (Tzwetkowo)	1	Wem häft a de nie Geschichte vatällt?
+ef	19621	Stillfried an der March	1	Wem hod ər d'n dė naichi Gschicht dərzölt?
+ef	19640	Grünau (Grinava)	1	Wem hot ten te(a) ti ne(i) Schicht tazölt.
+ef	19642	20. Bezirk-Brigittenau	1	Wem håt er die neiche G'schicht dazöhlt?
+ef	19646	Raasdorf	1	Wem håt er d'neuchi G'schicht dazöhlt?
+ef	19657	Breitensee	1	Wem hat er die neue Gschicht drzählt?
+ef	19659	Theben (Devín)	1	Wem hod'a die neiche G'schicht tazölt?
+ef	19667	Biedermannsdorf	1	Wem håd a denn de neiche Gschichd dazöhd?
+ef	19674	Enzersdorf an der Fischa	1	Wen hod a dö neichi Gschicht dazöt?
+ef	19696	Kittsee	1	Wem hot ea de nei?hi [neichi?] G'schicht erzöhlt?
+ef	19705	Mischdorf bei Pressburg (Nové Košar	1	Wen hoda ti naigi Kschicht tazöd.
+ef	19726	Rohrau	1	Wem hot er die neue Gschicht dazöhlt?
+ef	19739	Thiersee	1	Wem hoat ea di noi Gschicht dazöht
+ef	19748	Achenwald	1	Wem hoda denn ?nuj Gschicht vazöt?
+ef	1977	Fuchsberg (Semënovo)	1	Wem häfta de nie Geschichte fatellt?
+ef	19775	Obertrum am See	1	Wem had a' denn dö neu Gschicht väzöt?
+ef	19787	Hochfeld	1	Wem hot a dö nei Gschicht vozöd.
+ef	19823	Vorderfager	1	Wem håt a dö neiö Gschicht vazöit.
+ef	19851	Schwendt	1	Wem hod a d'nui Gschicht vajöit?
+ef	19854	Waidring	1	Wem håt n d'noi Gschicht vazoit?
+ef	19859	Kuchl	1	Wem håt ā di neiö Gschicht vazö(hl)t. [Über (hl) steht ein i]
+ef	1987	Pregelswalde (-)	1	Wem hefft he de ni Geschichte vatellt?
+ef	19886	Schörfling	1	Wen hat a denn dö neichö Gschicht vazöht? (nicht wem)
+ef	19896	Gschwandt	1	Wem hot er die neii Gschicht verzöhlt?
+ef	19901	Schlierbach	1	Wen haod a dö na͜i Bogen unter „ai“ Gschichd vazöd?
+ef	19941	Sankt Gilgen	1	Wem håta dö nei Gschicht vozöd.
+ef	19945	Ebensee	1	Wen hãt a denn dö noi Gschicht vazöht?
+ef	19947	Steyrling	1	Wen hat a dö neui Gschicht vazöhlt?
+ef	19956	Bad Ischl	1	Wem hat a di neuchi Gschicht vrzöhlt? (dazöhlt).
+ef	19965	Windischgarsten	1	Wen håd a denn dö nei Gschicht vazöht?
+ef	19971	Bad Goisern	1	Wem ho̊at a denn de noi G'schicht vozõ͜ad?
+ef	19977	Grundlsee	1	Wen håt a die noi Gschicht vazöhlt?
+ef	19993	Wörschachwald	1	Wem håd a dö nei Gschiechd dazä(i)d.
+ef	20005	Trattenbach	1	Wem hot er dë neiche Gschicht dazöt.
+ef	20008	Sulzbach	1	Wen hât a denn de neiche Gschicht darzöt.
+ef	20019	Ybbsitz	1	Wen hot a denn di neichi G'schicht vazöhlt?
+ef	20023	Gaming	1	Wem hot a denn de neichi G'schicht da zöid?
+ef	20046	Kleinreifling	1	Wem hot er dö neii Gschicht vazöhlt?
+ef	20049	Mariazell	1	Wen had'a d'neigi Gschicht dozöht?
+ef	20051	Neuhaus	1	Wem hod a dö neichi Gschicht dazölt?
+ef	20058	Lassing	1	Wem hot ea die neichi Gschicht dazàid?
+ef	20062	Ardning	1	Wem hot a die neugi Gschicht vazöd.
+ef	20065	Weng	1	Wem hot a d' neichi Gschicht vazöit?
+ef	20067	Lainbach	1	Wen håt a d'neie Gschicht vazöiht?
+ef	20069	Gollrad	1	Wen hot er die neigi Gschicht verzählt?
+ef	20077	Oberort	1	Wem hot a die nenge G'schicht derzählt?
+ef	20090	Wext	1	Well het he de nié Geschichte fetellt?
+ef	20099	Leer	1	Wel hɑ̈ff he de niee Geschicht vertellt?
+ef	20110	Herbern	1	Wel häf he de niee Geschichte vertelt?
+ef	20117	Ringel	1	Wirken häw he de nigge Geschichte vertällt?
+ef	20128	Hilter am Teutoburger Wald	1	Wen häff he de nigge Geschichte vertellt?
+ef	20240	Bardel	1	Wel hef he de neie geschigte verteld?
+ef	20248	Haddorf	1	Wel häf hei de nei[?]e Geschichte vertellt?
+ef	20259	Hörstel	1	Wen hef he de niiju Geschigte vertelld.
+ef	20269	Westerkappeln	1	Wieken heww hei dei nigge Geschichte vertellt?
+ef	20283	Astrup	1	Wen het he de nien Geschichte votellt?
+ef	20346	Frensdorf	1	An wel hef he de neie Geschichte vertelt?
+ef	20350	Elbergen	1	Well häf he de neie Geschichte vatellt?
+ef	20361	Setlage	1	Wel häf he de neie Geschichte vertellet?
+ef	20370	Merzen	1	Well häf he düsse nehe Geschichte vertellet?
+ef	20381	Vörden	1	Well häww di de nien (niggen) Geschichte vortellt?
+ef	20384	Wielen	1	Wel hef he de nijje Geschiedenisse verteld?
+ef	20446	Hoogstede	1	Wel hef he de nye geschichte verteld?
+ef	20454	Geeste	1	Well hǟw he͜ï de͜ï ne͜ïe Geschïchte vertellt?
+ef	20463	Dohren	1	Wekern häf heh de neie Geschichte vetellet?
+ef	20468	Renslage	1	Wehl häft hei de neien Geschichte vertählt?
+ef	20481	Dinklage	1	Well hef hei dei neien Geschichte vertellt (dertellerd)
+ef	20543	Haren (Ems)	1	Well häf heï deneïe Geschichte vertellet?
+ef	20555	Hüven	1	Wel häf he de nehe Geschichte vertellt?
+ef	20562	Garen	1	Weckern haff heï deï neïe Geschichte vertell't?
+ef	20575	Sevelten	1	Wecker hef he de nehe Geschichte vertellt?
+ef	20589	Neudersum	1	Wel häf hei dei neie Geschichte vertellet?
+ef	20596	Neubörger	1	Wel het he de ene Geschichte vertelt.
+ef	20599	Neuarenberg	1	Well häff ümm däi näie (ne͜ä in) Vertellsell vertellt?
+ef	20604	Garrel	1	Wekkern het heÿ deÿ neÿe Geschichte vertellt?
+ef	20638	Visbek	1	Wen het he de näen Geschichte vertellt?
+ef	2067	Enskemen (-)	1	Wem hat hē dĕ nië Geschichte vortellt?
+ef	20710	Wietzendorf	1	Kein'n hätt hei dei neie Geschichte vertellt?
+ef	20734	Colonie Syke	1	Wenn'n hett hee dee neen Geschichte verrtellt.
+ef	20753	Magelsen	1	Wo keinem (e-i) het hei (e-i) nei neie (e-i) Geschichte vertellt?
+ef	20763	Nordkampen	1	Wann hat hee de Geschichte vertellt?
+ef	20774	Vierde	1	Wo kâin het häi dai näie Geschichte vertellt.
+ef	20788	Schmarbeck	1	Wokein´n hat hei dei neie Geschichte vertellt?
+ef	20798	Brümsen	1	Wenn hät he de neen Geschichte votellt?
+ef	2081	Eydtkau (Eydtkuhnen)	1	Wem hat er die niee Geschichte vortällt.
+ef	20891	Dörpel	1	Wenn het he de nee Geschichte vertellt?
+ef	20901	Maasen	1	Wem hätt he de nee Geschichte verdel? [entweder verdelt oder verdeld. Buchstabe wurde korrigiert.]
+fg	20917	Drakenburg	1	Wen hütt hei dei neie Geschichte vertellt?
+fg	20920	Unterrodewald	1	Wen hat hëi dëi nëie Geschichte vertellt?
+fg	20933	Thören	1	Wem hat hei dei neie Geschichde vertellt?
+fg	20936	Hassel	1	Wakeinen hat hei dei neie Geschichte vertellt?
+fg	20946	Scharnhorst	1	Wem hadd hei dei neie Geschichte vertellt?
+fg	20948	Aschen	1	Wem het heh de nehe Geschichte vertellt?
+fg	21024	Burlage	1	Wenn hefft he de ne'e Geschichte vertellt?
+fg	21033	Hoysinghausen	1	Wen hett hei dei neie Geschichte vertellt?
+fg	21045	Brokeloh	1	Wän het hei dei neien Geschichte vertellt?
+fg	21050	Empede	1	Wen hat hei de nie Geschichte vertellt?
+fg	21065	Gailhof	1	Wen hat hei dä nie Geschichte vertelt.
+fg	21074	Adelheidsdorf	1	Wem hat hei de nie Geschichte vertellt?
+fg	21085	Nordburg	1	Wem hat hei de nie Geschichte vetellt?
+fg	211	Rodowo	1	Wem hatt er die neue Geschicht vorrzählt?
+fg	21105	Preussisch Ströhen	1	Wo ge-in häbst du dei ?nue Geschechte vertillt?
+fg	21190	Brockhausen	1	Wänn hewwhe de ni͡äen Geschichte vertellt?
+fg	21199	Isenstedt	1	Wene hätt häi de nien Geschichte vertällt?
+fg	21218	Wietersheim	1	Wähn hätt hei dei neien Geschichte vertellet.
+fg	21235	Hülshagen	1	Wene hat hei dä nien Geschicht vertelt?
+fg	21252	Holtensen	1	Wene hat hei dei näie Geschichte vertellt?
+fg	2127	Klein Nuhr (Sukhodol'Ye)	1	Wem häft he de nihe Geschichte vertellt?
+fg	21280	List	1	Wen hatt hei dä nie Geschichte vertellt?
+fg	21295	Immensen	1	Wem hatt hei dei niee Geschichte vertellt?
+fg	21305	Voigtholz-Ahlemissen	1	Wem hat hei de nie Geschichte vertellt?
+fg	21316	Steinhagen	1	Wen häw häi de nēigge Geschichte vertellt?
+fg	21342	Krentruperhagen	1	Wenne hett heu deu nügge Geschichte vertellt?
+fg	2135	Skungirren (Pen'Ki)	1	Wem had he de nie Geschichte vertellt.
+fg	21355	Wendlinghausen	1	Wenne hätt heu deu nigge Geschichte vertellt?
+fg	21362	Reher	1	Wän hett hâi dö neuen Geschichte vertellt?
+fg	21384	Harderode	1	Wän hett hei deii ne͡iie Geschichte vertellt?
+fg	21405	Rheden	1	Weme hett hei dä ne=i=e Geschichte vertellt?
+fg	21429	Nette	1	Wem hät hei dei ne͝- ie Geschichte vertellt?
+fg	21446	Steinlah	1	Weme hat hei denn dei nĕ-ĭe Geschicht vertellt?
+fg	2145	Kurschen (Kuz'Mino)	1	Wem hel he de nie Geschichte vertellt?
+fg	21455	Gross Schiplage	1	Wän hät hei de nuige Geschichte votellt?
+fg	2161	Kalnen (-)	1	Wem hett hee de niee Geschichte vertellt?
+fg	21611	Schweicheln-Bermbeck	1	Wen hest du dei niggen Geschichte vertellt.
+fg	21632	Veltheim	1	Wänn hätt hei de neiee Geschichte vertelt?
+fg	21666	Rohden	1	Wene hät hei de neïjen Geschichte vertellt?
+fg	21679	Springe	1	Wäm hett hei dei n͠eë geschichte vertellt?
+fg	21687	Vardegötzen	1	Wēme hat hei de nië Geschichte vertellt?
+fg	21707	Rautenberg	1	Weme hat hei dei neïen Geschichte vertellt?
+fg	2182	Soginten (Svirskoe)	1	Wem hett hä de nīĕ Geschichte fortellt;
+fg	21882	Bodenstedt	1	Wäne het hei dei naie Geschichte vertelt?
+fg	21902	Rautheim	1	Wäme hat hei dä nüe Geschichte vortellt?
+fg	21936	Bartensleben	1	Wem hatte de nie Geschichte vortellt.
+fg	2200	Narmeln (Polski)	1	Wem hewt he de niege Geschichte vertälllt.
+fg	2204	Leysuhnen (Ščukino)	1	Wem häfft he de ni Geschichte vatällt?
+fg	22044	Rottorf	1	Wem hat hei dä nie Geschichte vortellt?
+fg	22063	Hundisburg	1	Wen hat hei de nihe Geschichte vortellt.
+fg	22074	Farsleben	1	Wecken hat he de nie Geschichte vertellt?
+fg	22083	Reesen	1	Wen het he de neie Geschichte vortelt.
+fg	22092	Paplitz	1	Wen hätte die neie Geschichte vörtellt?
+fg	22111	Wasbüttel	1	Wem hat hei de Geschichte vartellt?
+fg	22149	Rätzlingen	1	Wem harre denn de niee Geschichte vertellt?
+fg	2216	Hermsdorf (Pograničnyj)	1	Wem hewt he di nie Geschichte vatällt.
+fg	22172	Burgstall	1	Weken hät he de nai Geschichte vortellt?
+fg	22222	Reislingen	1	Wen hat hei dä nihe Geschichte vertellt?
+fg	22249	Roxförde	1	Wäkern hät he de niee Geschichte vertellt.
+fg	2225	Moritten (Oktjabrskoe)	1	Wem heft he de nie Geschichte vatellt?
+fg	22264	Grieben	1	Weck'n hätt t'de näi Geschichte vertällt?
+fg	22276	Zabakuck	1	Wän het hä deh neii Geschichte vertellt?
+fg	22375	Westerholz	1	Wem hat he de neie Geschichte vortellt?
+fg	22384	Tülau-Fahrenhorst	1	Wökken het he de nee Geschichte vertellt?
+fg	22394	Köbbelitz	1	Weckern hett er de nei Geschicht vertällt?
+fg	22407	Schenkenhorst	1	Wekkern hert hei dei nei Geschicht vöätellt?
+fg	2242	Naunienen	1	Wem heft ä dö nie Geschichte vatellt?
+fg	22423	Querstedt	1	Wökkern hädder de nei Jeschicht vötällt?
+fg	22443	Staffelde	1	Wöcken hat hei de neie Geschichte vötellt?
+fg	22453	Grosswudicke	1	Wecken hät här de neië Geschichte vertällt?
+fg	22574	Masel	1	Wecke'n het he͡i de͡i na͡ie Geschichte vertellt?
+fg	22581	Höddelsen	1	Wekkern het he de ne Geschicht vertellt?
+fg	22599	Wöpel	1	Wekkern hatt he de neit Geschicht vertöllt?
+fg	22621	Molitz	1	Wäkern hät he de neei Geschicht vötellt.
+fg	22636	Rönnebeck	1	Wöckern is de näi Geschicht vö(i)tellt?
+fg	22654	Iden	1	Wöcker het he de näi Geschicht vertellt?
+fg	22667	Kuhlhausen	1	Wä'n hett he de neie Geschicht vör[?]tällt.
+fg	22685	Proitze	1	Wen 'att 'n de nee Geschicht vertellt?
+fg	22773	Holdenstedt	1	Käihnem hutt häih daih näihe Geschigt vertellt?
+fg	22796	Wustrow (Wendland)	1	Wen hatt he de nie Geschicht vertellt?
+fg	22810	Lomitz	1	Wë͜ïn hät hë͜ï de në͜ï Geschicht vertellt?
+fg	22819	Jeggel	1	Wökkern het he de nëi Geschicht vertellt?
+fg	22832	Gross Lüben	1	Weckern hät he de nei Geschicht vertellt.
+fg	22846	Görike	1	Wem hät er de neie Geschicht vertällt.
+fg	22910	Holthausen	1	Wenn het he de ne-i Geschechte vertault?
+fg	22931	Dahlhausen	1	Wiem hiet he nigge Geschichte vertallt?
+fg	22965	Langeloh	1	Wem hi͡et hä dä nigge Geschichte vetallt?
+fg	22990	Halingen	1	Wäim hiät hai dai nigge Geschichte vertallt?
+fg	22998	Neheim	1	Biämme hiät hei dei nigge Geschichte vertallt?
+fg	23010	Niederbergheim	1	Wiëäme hiëät hai dei nigge Geschichte vertallt?
+fg	23021	Kapellen	1	An wään häät hään et ne͡ije Vertällsel vertällt?
+fg	23031	Rheinberg	1	Wenn hät hei die neue Geschich vertält?
+fg	23184	Holthausen bei Kirchhellen	1	Wänn hett hä de nehe Geschichte vörtallt?
+fg	23191	Herten	1	Wä giät hä dä nigge Geschichte vatallt?
+fg	23207	Waltrop	1	Wian hiät häi dä nigge Geschichte vüätallt?
+fg	23218	Kamen	1	Wiäm hiät hai dei nigge Geschichte vertelt?
+fg	23231	Norddinker	1	Wäin härt hei dei nigge Geschichte vertalt.
+fg	23261	Kessel	1	Wi͡j hett he͡j de neje Geschichte vertällt?
+fg	23271	Kehrum	1	Wy hät hej die moje Geschichte vertellt?
+fg	23284	Hamminkeln	1	Wenn hätt he die neje Geschichte vertellt?
+gh	23293	Erle	1	Wenn het he di nije Geschichte vötellt?
+gh	23343	Göttingen	1	Wieker hät he de nigge Geschichte vetalt
+gh	2338	Wenslowischken (Voznesenskoye)	1	Wem hatt he de niee Geschichte vertellt?
+gh	23402	Holtwick	1	Well hett he(i) de nie Geschichte vöartellt?
+gh	23412	Seppenrade	1	Well hätt he die nie Geschicht vertellt?
+gh	23419	Davensberg	1	Wemm het he de niee Geschicht vötellt.
+gh	23426	Vorhelm	1	Wekken hät he de nie Geschichte fätellt?
+gh	23435	Stromberg	1	Wecker hätt hee de nigge Geschichte votellt?
+gh	23453	Stockum bei Coesfeld	1	Wäll häv heh noh deh nehe Geschickte ertellt?
+gh	23466	Nottuln	1	Well heff he datt nie Vörtelzelken vörtellt
+gh	23471	Münster	1	Well hett he de nie Geschichte vertellt?
+gh	23478	Einen	1	wel hät heh de nie Geschicht väölellt.
+gh	23483	Greffen	1	Wecker heff he de nije Geschichte vötellt?
+gh	23494	Speelberg	1	Wij hät héj dÿ néje geschichte vertällt?
+gh	23498	Hemden	1	Wen hef u de nie Geschichte vertällt?
+gh	23507	Weseke	1	Wäl häw he de neuie Geschigte vötält?
+gh	23545	Tüddern	1	Wähme hät hä die nüh Geschěechte vertällt?
+gh	23566	Porselen	1	Wem hät häh die meu Geschichte vertauht?
+gh	23602	Holzweiler	1	Wém hat hé die nö Geschichte verzāllt?
+gh	23630	Evinghoven	1	Wemm hät ä de neu Geschichte verzallt?
+gh	23817	Reusrath	1	Wemm hätte die neu Geschichte verzahlt?
+gh	23843	(Stolzenberg)	1	Wämm hätt hä de neu Geschichte vertault?
+gh	23858	Oberklüppelberg	1	Wem hätte de 'neuee Geschichte vertallt?
+gh	23873	Valbert	1	Wiäme hiät hei dei nigge Geschichte vertallt.
+gh	23885	Sporke	1	Wi͡ämme hi͡ätt hai de nigge Geschichte ver[?]tallt?
+gh	23902	Schmallenberg	1	Wiämme hiätte dahi nigge Geschichte vertalt.
+gh	23906	Elmpt	1	Wämm hät he͜ä dot neu Stöeksken vertällt?
+gh	23922	Helenabrunn	1	Wem hät dä dot neut Stöcksken vertällt.
+gh	23933	Weißenberg	1	Wäm(k) hätt hä die nöü Geschichte vertallt?
+gh	2398	Mertensdorf (Tjomkino)	1	Wem hewt er de nie Geschichte vertellt.
+gh	2409	Trausen (Lipnyaki)	1	Wem hi-eft a de ni-e Geschichte vatiellt?
+gh	24107	Hubbelrath	1	Wämm hätte de nö͜ü Geschichte vertault?
+gh	24134	Barmen	1	Wäm heet hä de neue Geschechte vertollt?
+gh	24156	Delle	1	Wiäkem hätt hä de nigge Geschichte vertallt?
+gh	24167	Altena	1	Bi͡ämme hi͡ät sei de nigge Geschichte vertallt?
+gh	24180	Stockum	1	Biämme hiät hei deu nigge Geschichte vertallt?
+gh	24208	Wall	1	Wäm hat hä de neu Geschichte vertellt?
+gh	24218	Vennikel	1	Wem hütte die nei Geschesch vertellt?
+gh	2426	Groß Pentlack (Kamenka)	1	Wem he[?]fft er de niee Geschischte vortellt
+gh	24336	Berghausen	1	Wämm hot hä die nöwwe Geschichte verzahlt?
+gh	2436	Kowarren (Zaozernoye)	1	Wem het he de niee Geschichte vertellt?
+gh	24360	Bottendorf	1	Wänn horre da de nöwe Geschichte verzahlt.
+gh	24380	Bergfreiheit	1	Wenn hodde die neie Geschichte verzahlt?
+gh	24412	Roppershain	1	Bäm hoat hä dann die neue Geschichte verzahlt?
+gh	24431	Konnefeld	1	Wer hot (hot) denn de neije Geschichte verzahlt? (unbbe, nüw̅e)
+gh	24454	Berneburg	1	Wem hat he die nouwe Geschechte erzehlt?
+gh	24466	Lüderbach	1	Wäm het hä die neje Geschichten erzahlt?
+gh	24490	Züschen	1	Biäm hiätt hai dai nigge Geschichte vertallt.
+gh	2452	Kleschowen (Kutusowo)	1	Wem hett he de niee Geschichte vertelt?
+gh	24636	Rhadern	1	Wenn hät he de nigge Geschichte vertallt?
+gh	24659	Buhlen	1	Wänn hodd'e die nogge G'schichte v'rzallt?
+gh	2466	Tolkmicko	1	Wem hewwt hē dĕ nie Geschichte vatellt?
+gh	24677	Metze	1	Wämä hodd häh dä noggä Gäschechdä verzallt?
+gh	24695	Wattenbach	1	Wämme hodde hä de nugge G'schächte verzahlt.
+gh	24715	Vockerode	1	Wäm hedd hä due nauwe Gschichde verzähld.
+gh	24737	Grosstöpfer	1	Wähm hett hä deh nuwe Geschichte erzählt
+gh	2474	Pierzchaly	1	Wem hett he de nie Geschichte vatellt?
+gh	2482	Peterswalde (Piotrowiec)	1	Wem hewta de niee Geschichte vatellt?
+gh	24884	Olsberg	1	Baime häitte dai nig ge Geschichte vertallt?
+gh	24901	Sudeck	1	Wemme hädd hei de nigge Gesgichte vertallt?
+gh	24917	Braunsen	1	Wem hed he de nigge Geschichte vertallt?
+gh	24926	Zierenberg	1	Wem hat hei de niege Geschichte vertallt?
+gh	2494	Saruny	1	Wem heft hö de nie Geschichte fatellt?
+gh	24942	Speele	1	Wem hotte de nugge Geschichte verzahlt? 
+gh	24959	Hermannrode	1	Wem hät hai dä nege Geschichte erdält?
+gh	2507	Wojciechy	1	Wem hewwt a de nie Geschichte vatällt.
+gh	25113	Meiste	1	Wiämme hiät hai dai nigge Geschichte vertallt?
+gh	25131	Fürstenberg	1	Wyene hyet hei dei Geschichte vertallt?
+gh	25136	Scherfede	1	Wieme hiet häi däi nigge Geschichte vertällt?
+gh	25150	Körbecke	1	Wi͡äne hät he de niggen Geschichte vertällt?
+gh	25163	Gottstreu	1	Wem hät hei dei neue Geschichte vertällt?
+gh	25179	Esebeck	1	Wene hüt hei dei niege Geschichte vertellt?
+gh	25197	Ebergötzen	1	Wähne hütte dä nï̅e Geschichte vertellt?
+gh	25214	Bönninghausen	1	Wiäne hiät hei de nigge Geschichte vetallt?
+gh	25223	Kirchborchen	1	Wiäme hiät heī deī neggen Geschechte vertallt?
+gh	25343	Siebenstern	1	Wiäme hät hoi dei nigge Geschichte vertällt?
+gh	25354	Bruchhausen	1	Wiäne het hai de niggen Geschichte vertelt.
+gh	25363	Schönhagen	1	Wene het hei de nige geschichte vertellt?
+gh	25373	Oldenrode	1	Wëne het hei dei nëie Geschichte vertellt?
+gh	25391	Marke	1	Wem het hei de n(äi)ge Geschichte vertellt?
+gh	25407	Westerwiehe	1	Weckern hätt he de niggen Geschichte vörtellt?
+gh	25514	Haustenbeck	1	Wenne hätt hä de nigje Geschichte vatellt?
+gh	25522	Heesten	1	Wen het heu deu nigge Geschichte vertellt?
+gh	25543	Rischenau	1	Wänne hät heu deu no͡_igge Geschichte vertellt?
+gh	25560	Lobach	1	Wene hett hei dä neie Geschichte vortällt.
+gh	25579	Wenzen	1	Weme hätt hei dei näie Geschichte varrtellt?
+gh	25596	Ackenhausen	1	Wenne hett hei dei neuie Geschichte vertellt?
+gh	25607	Wolfshagen im Harz	1	Wi͡äme hätt ͡ĕ dĕ nä͡ie Geschichte vertellt?
+gh	25798	Kell	1	Bem hätt er die neue Geschichte verzält?
+gh	25824	Stromberg	1	Bemm härre die neije Geschichte erzehlt?
+gh	25845	Staudt	1	Wem hot ä die nei Geschicht vazehlt
+gh	2586	Jurkiszki	1	Wem hätt he de niee Geschichte vertällt?
+gh	25876	Steinbach	1	Wim hot er de|i neue Geschicht erzählt?
+gh	25904	Höfen	1	Wämm hat heä de neu Geschicht verzalt?
+gh	25914	Gemünd	1	Wämm hätté di nöi Geschichte verzallt?
+gh	2602	Maciejowieta	1	Wem hat he de nüe Geschichte vartellt?
+gh	26141	Iversheim	1	Wämm hät eä de neu Geschichte ve?zallt?
+gh	26155	Gelsdorf	1	Wämm häß due die nö Geschich vezallt.
+gh	26178	Ohlenberg	1	Bem hät er die neu' Geschicht verzallt?
+gh	26205	Seifen	1	Wem hätt er die neue Jeschichte verzallt?
+hi	26228	Gehlert	1	Wem härr er die naue Geschichte verzahlt?
+hi	26261	Waigandshain	1	Wiei har e di nau Geschicht verzahlt?
+hi	26283	Sinn	1	Wem hott er de-i nau Geschichte erzehlt?
+hi	26312	Venwegen	1	Wämm hat hä de neu Geschichte verzahlt?
+hi	26324	Üdingen	1	Wäm hät hä de nöi Geschichte vezahlt?
+hi	26351	Borr	1	Wämm hät häe de neu Geschichte vezahlt?
+hi	26578	Roisdorf	1	Wemm hätt äe de neu Geschichte vezallt?
+hi	26604	Geistingen	1	Wemm hät her de neue Geschichte verzallt.
+hi	26627	Herchen	1	Wemm hät he de neu Geschichte verzallt?
+hi	26642	Mittelhof	1	Wäm hät er de neue Geschicht verzahlt?
+hi	26664	Wilden	1	Wem hätt häh die neijje Geschichte verzallt?
+hi	26683	Straßebersbach	1	Wämm horre de naue Geschichte erzallt?
+hi	26712	Mariagrube	1	Wemm hat hä|e de nö|e Geschichte verzalt?
+hi	26734	Niederzier	1	Wäm hätt ia de nö Geschechte vezahlt?
+hi	26753	Horrem	1	Wemm hätt hêêr de neu Geschichte vezahlt.
+hi	2676	Rygarby	1	Wenn hefft a de nie Geschichte vatellt.
+hi	26763	Poll	1	Wemm hätt hu die neu (nöüi) Geschichte verzallt?
+hi	2691	Kolwiny	1	Wem hu? a de nie Geschichte vertellt?
+hi	27003	Heiligenhaus	1	Wämm hät ͜e dé nöj Geschichte verzallt.
+hi	27025	Faulmert	1	Wemm hät hä de neu Geschichte verzallt.
+hi	2703	Srokowo	1	Wem häffter dä nüh Geschichte vertällt.
+hi	27038	Hahnseifen	1	Wem het hä die neuen Geschichen verzallt?
+hi	27064	Müsen	1	Wem härre de negge Geschechte verzahlt?
+hi	27074	Schameder	1	Wemm hott'e de nüwe Geschichte erzahlt?
+hi	27106	Dudenhofen	1	Wemm hoi rar die nau Geschichte vezäilt.
+hi	27135	Wenighösbach	1	Wemm hora die nei Geschichte erzähilt.
+hi	2715	Stregiel	1	Wäm hädd hö de nӱe Geschichte varttällt?
+hi	27150	Wiesthal	1	Wem hot er die neue Geschichte erzahlt.
+hi	27163	Massenbuch	1	Wam hoat er die neue Geschichta verzählt?
+hi	27186	Neubessingen	1	Wan hoat r die neu a Gschichta varzäihlt?
+hi	27209	Dittelbrunn	1	Wan hat däe die neua Gschichta dezehlt.
+hi	27223	Vockenhausen	1	Wäm horre die nei G'schicht v'rzihlt?
+hi	27244	Heddernheim	1	Wem hott'r die neu Geschicht verzählt?
+hi	2727	Budziska	1	Wer wähm hat he de nue Geschichte vertällt?
+hi	27425	Bruchköbel	1	Wem horre de nau Geschichte verzehlt?
+hi	27444	Hailer	1	Wem hot'r deï nau G'schichte vezählt?
+hi	2746	Chelchy	1	Wem hett he de nie Geschichte vertellt?
+hi	27461	Oberndorf	1	Wämm het er die neue Geschichte erzählt?
+hi	27469	Rossbach	1	Bemm hot'r die näṵi G'schichte verzehlt?
+hi	27480	Hassenbach	1	Bann hoat ar die neu Gschichte arzählt?
+hi	27501	Poppenlauer	1	Wann hoät är die nua Gschichtä värzäilt?
+hi	27507	Cratzenbach	1	Wem hot'r di noi G'schicht 'rzehlt?
+hi	2762	Wilkowo	1	Wem had er de niee Geschicht vetellt?
+hi	27692	Friedrichstal	1	Wem hore de nau Geschicht erzehlt?
+hi	27719	Leidhecken	1	Wem hoat 'r die naue Geschicht 'rzählt?
+hi	27742	Gelnhaar	1	Wem horre di nau G'schichde a'zehlt?
+hi	27765	Ulmbach	1	Bemm hore da die näue G'schichte d'zahlt.
+hi	27775	Eichenried	1	Bämmi hohre die neu Geschichd drzahlt?
+hi	27792	Wildflecken	1	Bem hota die neue Geschichte derzahlt.
+hi	27807	Bastheim	1	Băen host da die neue G'schichte verzählt?
+hi	2781	Karwiny	1	Wem hott är die neue Geschichte verzählt?
+hi	27821	Philippstein	1	Wem hot he die naue Geschichte erzählt.
+hi	27835	Dornholzhausen	1	Wem horre dej nau Geschicht verzohlt?
+hi	2800	Krzykaly	1	Wam hott da de neue Geschichte verzählt?
+hi	28010	Nonnenroth	1	Weem horre däi naue G'schichte verzaolt?
+hi	28027	Götzen	1	Wem horrn die nau G'schichte v'rzahlt?
+hi	28045	Altenschlirf	1	Baäm hoat der die nau Geschicht erzahlt?
+hi	28063	Fulda	1	Bem hot ä de neu Geschicht verzehlt?
+hi	28080	Rupsroth	1	Bäm hot er die neu Geschecht verzehlt.
+hi	28107	Gerthausen	1	Bäe hoat hä die neu Geschichte drzählt?
+hi	2817	Mawry	1	Wam hotta de nai Geschicht' vazählt?
+hi	282	Zolna	1	Wem hett hei dee nij Geschicht' vertellt?
+hi	2827	Sarnowo	1	Wem hott a die neie Geschich't fazählt?
+hi	28278	Krumbach	1	[Satz nicht vorhanden]
+hi	28298	Londorf	1	Wem harre die nau G'schicht v'rzahlt?
+hi	28315	Otterbach	1	Wehm hott ähr däi nau Geschichte varzehlt?
+hi	28330	Schwarz	1	Bem'm hoat hä de (nau) nou Geschicht vezahlt?
+hi	28346	Grossenmoor	1	Bäm (br) hoatte dee nöu Geschicht' verzahlt?
+hi	28358	Rasdorf	1	Bemm hottä de neu Geschicht verzahlt?
+hi	28369	Wiesenthal	1	Bäem haot heä de neu  Geschichte drzahlt?
+hi	28392	Herzhausen	1	Wem horre d'naue G'schichte verzohlt?
+hi	2846	Ledlawki	1	Wem hefft a de nä Geschichte vatellt?
+hi	285	Kosobudy	1	Wem hett de nig Geschicht vertellt?
+hi	28568	Betziesdorf	1	Wäemm horre die naue Gschichte erzohlt?
+hi	28589	Neustadt (Hessen)	1	Wemm horre da die nauw(?)e Gaschichte verzahlt?
+hi	28605	Neukirchen	1	Bem horre die neie Geschichte verzahlt?
+hi	28623	Gittersdorf	1	Bähm horre die neu Geschicht verzahlt?
+hi	28640	Herfa	1	Beem hat er de nau Geschahtn(?) verzahlt.
+hi	28651	Frauensee	1	Bähn hott häh de näubve Geschichte erzahlt.
+hi	289	Königswiese (Leśna Huta)	1	Wäm hät he de nij Geschicht vätellt?
+hi	2900	Borawskie	1	Var wem hätt he de nüe Geschichte vartällt?
+hi	2906	Zabrowo	1	Wem hett hei dei nig Geschicht vetellt?
+hi	291	Lubichowo	1	Wem heft he däh nieg Geschicht vätellt.
+hi	2916	Stanowo	1	Wem hott hä die neie Geschichte verzählt?
+hi	2923	Fijewo	1	Wem hat er de neie Geschichte erzählt?
+hi	2935	Groß Koschlau	1	Wem hott er die neie Geschichte erzehlt?
+hi	2955	Liksajny	1	Wem hoat ähr die neie Geschichte verzählt?
+hi	2962	Molza	1	Wem hott err die neue Gschichte erzählt?
+hi	2970	Warkaly	1	Wenn hota die nai Geschichte vazählt?
+hi	2996	Bucznik	1	Wem hott er die neue Geschichte verzählt.
+hi	300	Montauerweide	1	Wem hewt he de nige Geschichte vertellt?
+hi	300660	Sankt Roman	1	Wem hat er a neûchi Gschicht vazihlt?
+hi	300798	Reikersdorf	1	Wen hoat á denn de nei Gschicht dázöhlt?
+hi	301042	Rigaus	1	Wem hot a die noi Gschicht vazöt?
+hi	3058	Zyndaki	1	Wem hefta de nie Geschichte fatellt.
+hi	3069	Rychliki	1	Wem hoat er de neue Jeschichte verzählt?
+hi	3083	Chojnik	1	Wäm hott'r die neue Geschichte verzählt?
+hi	3093	Ksiaznik	1	Wem hott ē die neie Geschichte verzählt?
+hi	3111	Glotowo	1	Wann hott a de neu Geschichte vazählt?
+hi	312	Ryman	1	Wem hätt hei dei nig Geschicht fatellt.
+ij	3122	Derc	1	Wem hot a die nei Geschicht vazählt?
+ij	31677	Battweiler	1	Wem hadd'r die nei Geschicht erzählt?
+ij	31695	Heltersberg	1	Wem hot'r die nei Geschicht verzählt?
+ij	31700	Ramberg	1	Wem hot er dann die neu Gschicht verzählt? (verzéhlt)
+ij	31719	Geinsheim	1	Wem hodd'er die neu G'schicht verzählt?
+ij	31737	Diedenhofen	1	Wem hott en die nau Geschicht erzielt?
+ij	31765	Laumesfeld	1	Wém hott énn die nau Geschieht erzi/elt?
+ij	31789	Beckingen	1	Wäm had er die nau Geschichte verzehlt?
+ij	31800	Calmesweiler	1	Wäm harer die nau Geschicht verzehlt?
+ij	31824	Steinbach bei Ottweiler	1	Wem harrer die nei' Geschicht verzeelt?
+ij	32019	Dietschweiler	1	Wem hat er die neue Geschichte verzählt?
+ij	32040	Siegelbach	1	Wem horrer die nei Geschicht verzehlt?
+ij	32053	Alsenborn	1	Wem horre die neu Geschicht verzehlt.
+ij	32067	Erpolzheim	1	Wemm horrer die neu Gschicht vezehlt?
+ij	32085	Kreuzweiler	1	Wemm hot en d'e nau Gi(?)schicht erzoehlt.
+ij	32102	Greimerath	1	Wäm hätt e die nau Geschicht erzelt?
+ij	32119	Oberlöstern	1	Wem hat er de-i nau Geschicht erziehlt?
+ij	324	Podwilcze	1	Wääm hett hei dei nieg Geschicht vatellt?
+ij	3254	Jurkowo	1	Wöm hett a de nie Geschichte satelt?
+ij	3267	Pozarki	1	Wem heft he de nie Geschichte vertellt?
+ij	3272	Gawliki Wielkie	1	Wem hätt he de nie Geschichte vertällt?
+ij	3280	Swietajno	1	Wem hàtt he de nie Geschichte vertellt?
+ij	32855	Altviller	1	Wem hot a d'nöiw Geschicht vazehlt?
+ij	32883	Woustviller	1	Wemm hattrr die nou Geschīcht vezählt?
+ij	3301	Barschken	1	Wem hetthe dä nien Geschichte vertellt?
+ij	33035	Rimling	1	Wäm had ér di nou Géschicht vérzèhlt.
+ij	3304	Dawillen	1	Wem hefft er deh nÿe Geschicht vertellt?
+ij	33055	Roppeviller	1	Wem had r die nei Gschicht verzehlt.
+ij	33064	Dahn	1	Wém harrèr die neu G'schicht verzéhlt?
+ij	3309	Dittauen	1	Far wem hett he de niee Geschichte vertellt.
+ij	33102	Gleiszellen	1	Wem hott'r die nei Gschicht verzähilt?
+ij	33111	Herxheimweyher	1	Wem hot'r d'nei Geschicht verzäihlt?
+ij	33126	Guinkirchen	1	Wen hat'r de nuhw Geschicht gezehlt?
+ij	33146	Überherrn	1	Wem hat r die Nauigkät lo verzehlt?
+ij	33159	Malstatt	1	Wem hat er die neie Geschichte verzählt?
+ij	3318	Deegeln	1	Wem hett he de nige Geschichte vertellt.
+ij	33185	Niederwürzbach	1	Wem hater die nei Geschicht vezehlt.
+ij	33331	Steinbuch	1	Wem hot er die neue Geschichte erzählt?
+ij	33346	Breitendiel	1	Wemm hot'r die neu G'schichta v'rzehilt?
+ij	33364	Hundheim	1	Wem hot'r die neu Gschichde vrzēild.
+ij	33381	Steinbach	1	Wan hoat'r di neuiwe Gschichte verzöilt.
+ij	33400	Eibelstadt	1	Wann hoat at die neua G'schichta darrzehlt?
+ij	3342	Pillkoppen	1	Wem hefft he de nige Geschichte vertellt?
+ij	33420	Rödelsee	1	Wan hat'r die neua G'schicht' erzählt?
+ij	3343	Karkeln	1	Wam hewt he de niee Geschichte vertellt?
+ij	3345	Dünen (Ackmenischken)	1	Wem hat he de nie Geschichte vertellt?
+ij	3351	Pleine	1	Far wem hett he de nie Geschicht vertellt?
+ij	33605	Erfelden	1	Wem horr'r die neu Geschicht verzählt?
+ij	33614	Traisa	1	Wem horra die nei Geschicht vezelt?
+ij	3362	Cullmen-Kulken	1	Wähm hätt hen däh nie Geschichte vertällt?
+ij	33631	Heubach	1	Wemm horr'r dann die nei Geschichte vezäihlt?
+ij	3364	Rositten (Rybachiy)	1	Wem häft he de niee Geschichte vertällt?
+ij	33648	Hofstetten	1	Wem horer die nei Geschichte vezäilt?
+ij	33660	Bischbrunn	1	Wem hoat er die neu Gschichta vrzäillt.
+ij	33677	Birkenfeld	1	Wam hoat'r die neue Gschichta verzeïlt.
+ij	33692	Rupprechtshausen	1	Warn hattr die neua Gschichta dezähilt?
+ij	33711	Gaibach	1	Wan hat ar die neua G'schicht erzäihlt?
+ij	33725	Rüsselsheim	1	Wem hot er die nei Geschicht vezehlt?
+ij	33741	Langen (Hessen)	1	Wem horrer die neu Geschicht verzählt?
+ij	33849	Altlussheim	1	Wem hot er die nai Gschicht verzählt?
+ij	33860	Schatthausen	1	Wem hoder die nei G'schichd verzehld?
+ij	3387	Sassenhöhe (Augsgirren)	1	Wem hätt he de nüe Geschichte vertällt?
+ij	34001	Daudenzell	1	Wem hot'r di nei Gschichte verzählt?
+ij	34015	Billigheim	1	Wem hat er die neue Gschichte verzehlt?
+ij	34025	Oberkessach	1	Wem hot er die neu Gschichtä verzahlt?
+ij	34044	Ailringen	1	Weim hat er die neu G'schichte verzählt.
+ij	34058	Lichtel	1	Wēn hat'r di neu G'schīcht derzählt?
+ij	34065	Windelsbach	1	Wemm hotr di neu Gschicht derzöilt.
+ij	34076	Ludwigshafen am Rhein	1	Wemm hodd'r die nei' G'schischt verzēhlt?
+ij	34096	Ursenbach	1	Wémm hora die neu Gschicht varzäihlt?
+ij	34216	Gammelsbach	1	Wem hot er die nei Geschichte vezäilt?
+ij	34228	Rumpfen	1	Wem hot er die neue G'schichte erzählt?
+ij	34235	Gerichtstetten	1	Wem hot er die neue G'schichte verzäihlt.
+ij	3424	Beierstedt	1	Wēme hat hei ('e) dē ni'e Geschichte våtellt?
+ij	34247	Königshofen	1	Wem hotr di neu Gschichte vrzehilt?
+ij	34266	Aufstetten	1	Wann hat ar die neua Geschichte erzèilt?
+ij	34288	Weigenheim	1	Wann hat ar die neu Gschicht derzeïlt?
+ij	34305	Bobstadt	1	Wem horrer die nai Gschicht verzäihlt.
+ij	34321	Mittershausen	1	Wem horer die nei G'schicht verzäilt.
+ij	344	Modrolas	1	Wem hett hei dei nieg Geschicht votellt?
+ij	34447	Berghausen	1	Wehm hatt'ar die neu Gschicht vorzehlt.
+ij	34503	Winzerhausen	1	Wem (oder welem) hot 'r dui (sell') nuie (oder: de nui) G'schicht verzählt?
+ij	34522	Liemersbach	1	Wem hat'r die neu Gschicht verzählt?
+ij	34535	Eutendorf	1	Weam hattr die neu Gschicht varzählt?
+ij	34545	Honhardt	1	Wem hat er die neu Gschicht verzählt?
+ij	34557	Segringen	1	Wen ha(o)t'r die nei Gschicht verzehlt?
+ij	34566	Graben	1	Wem hadd er dann die nei G'schicht verzehld?
+ij	34707	Odenheim	1	Wem hat er die neue Gschicht verzèhlt?
+ij	34734	Massenbachhausen	1	Wem hat ǝr di enai Gschicht verzèhlt?
+ij	34750	Binswangen	1	Wem hat er die neu Geschichte verzählt.
+ij	34773	Öhringen	1	Wēm hat ĕr die nei Gschicht verzēhlt?
+ij	34791	Döttingen	1	Wem hat'r die nai Gschicht verzäuhlt?
+ij	34802	Gaggstatt	1	Wemm hadd èr die nai G'schichd èrzéilt?
+ij	34818	Dorfgütingen	1	Wen hatrn dia neu G'schicht verzëihlt.
+ij	34838	Röckingen	1	Wen hotter dia neu Gschicht verzählt?
+ij	34855	Windsfeld	1	Wenn habt er denn die neue Gschicht erzahlt.
+ij	34872	Ettenstatt	1	Wen hout'r dei nui Gschicht derzielt.
+ij	35003	Untermässing	1	Wen houta de neu Gschicht dazählt.
+ij	35011	Gimpertshausen	1	Wem hot er die neu Geschicht verzählt.
+ij	35026	Beratzhausen	1	Weam hot a dae neue Gschicht vozält.
+jk	35035	Eitlbrunn	1	Wem hot a dei nei Gschicht dazält?
+jk	35046	Altenthann	1	Wem hat er die neue G'schicht erzählt?
+jk	35055	Rauenzell	1	ween
+jk	35067	Ismannsdorf	1	Wen hot r denn dia nei Gschicht derziehlt?
+jk	351	Smecino	1	Wem hät hei dei nig Geschicht vâtellt?
+jk	3516	Bornum	1	Weme hat hei dei nie Geschichte vortellt?
+jk	35165	Büchenbach	1	Wem hout dr döi nai Gschicht drzöihlt.
+jk	35168	Seligenporten	1	Wem hot a dei neua Gschicht dazählt?
+jk	35188	Günching	1	Wem haota die nai Gschicht dazählt?
+jk	35195	Adertshausen	1	Wéan hot a de nei Gschicht dazölt?
+jk	35204	Wiefelsdorf	1	Wem hot er die neu Gschicht vozöhlt?
+jk	35211	Bodenwöhr	1	Wen hot er dëi nei G'schicht vozilt?
+jk	35223	Flachslanden	1	Wen hat er die nei Gschicht derzellt?
+jk	35236	Grosshabersdorf	1	Wen hat er die neia Gschicht derzehlt?
+jk	35254	Birnthon	1	Wenn hâut ér di nai Gschicht dazielt.
+jk	35339	Röthenbach	1	Wen haut'r döi neia G'schicht derzélt?
+jk	35377	Alfeld	1	We hout a döi neie G'schicht dazöhlt?
+jk	35382	Ammerthal	1	We hot a die neu G'schicht vozählt?
+jk	35393	Trisching	1	Wem hat er die neu Gschicht dazeht?
+jk	35517	Unternesselbach	1	Wee hatter die nei G'schicht derzöllt?
+jk	35524	Oberreichenbach	1	Wèn hŏt é die nei Gschicht özölt.
+jk	35544	Buckenhof	1	Wenn hot or die nei Gschicht érzählt?
+jk	35562	Kirchröttenbach	1	Wen hout èr déi neia Gschicht derzühlt.
+jk	35571	Hartenstein	1	Wem hout a dö neue Gschicht dazühlt.
+jk	35577	Schlicht	1	Wen h?n(?)ita den die neue Gschicht dazählt?
+jk	3558	Beckendorf	1	Wem hat hei de nie Geschichte vertellt?
+jk	35585	Kohlberg	1	Wen hot a döi nei Gschicht vozählt.
+jk	35597	Oberlind	1	Wer hout a die nei Gschicht dazählt.
+jk	356	Porst	1	Wem hätt hei dei nig Geschicht vatällt?
+jk	35710	Haag	1	Wen hadr di neu Gschichd drzelld.
+jk	3572	Domersleben	1	Wem'n hat e de nie Geschichte vertellt?
+jk	35729	Mühlhausen	1	Wem håter die neu G'schicht erzellt.
+jk	35755	Pautzfeld	1	Wen hot èé die neu Gschicht dezählt?
+jk	35762	Moggast	1	Wem hŏt er die neu G'schicht dazählt?
+jk	35778	Pegnitz	1	Wem hoută di neuă Gschicht dăzült?
+jk	35791	Speinshart	1	Wem hout a döi neie G'schicht dazehlt.
+jk	35799	Friedersreuth	1	Wen håut a d'nei G'schicht vazilt.
+jk	35807	Plössberg	1	Wer hata dei neue Gschicht dazählt?
+jk	35824	Geusfeld	1	Wem hot er dia neu G'schichte derzéllt?
+jk	35843	Tütschengereuth	1	Wém hot è die neu Gschicht èzählt.
+jk	35857	Litzendorf	1	Wem hotta die neu Gschicht dazehlt?
+jk	3592	Prester	1	Wem hat er de nie Geschichte verthält?
+jk	36007	Hollfeld	1	Wen hot a die neu Gschicht dazählt?
+jk	36017	Donndorf	1	Wen hot e die neu Gschicht dezelt.
+jk	36039	Kirchenpingarten	1	We haut a die nei Gschicht dazlt.
+jk	36049	Hohenhard	1	Wer haota die neu G'schicht dazilt?
+jk	36056	Leonberg	1	Weà haout a den döi neia Gschicht dazilt.
+jk	36065	Hohrodberg	1	Wenn het er die noi Gschicht verzöhlt?
+jk	36084	Colmar	1	Wam hätt er de néie Geschecht verzèlt.
+jk	3609	Dalchau	1	Wen het hä die neie Geschichte vortellt?
+jk	3614	Schweinitz	1	Wem hüt hä de neie Geschichte vertällt?
+jk	36159	Meistratzheim	1	Wem hett'r d'nei Gschicht verzählt?
+jk	36178	Müllen	1	Wém hét 'r die nei Gschicht v'rzéhlt?
+jk	36202	Kniebis (Kr.Freudenstadt)	1	Weăm ho(a)t'r diă nei Gschīchd verzēhld?
+jk	3626	Nennhausen	1	Wähn hätt r die neie Geschichte vörtellt.
+jk	36272	Ödsbach	1	Wem het er d'nei G'schicht verzehlt?
+jk	36277	Turquestein-Blancrupt	1	Wm hedd' er d'nei Kschicht erzehlt?
+jk	36282	Wangenbourg	1	Wem hett er die nei Gschicht verzehlt?
+jk	36309	Furdenheim	1	Wann hett'er néï G'schécht verzohlt.
+jk	36334	Ruprechtsau	1	Wem hed er die neije Gschichd verzehld?
+jk	3634	Berge	1	Wän hette dänn die neie Geschichte vertellt?
+jk	36348	Achern	1	Wèmm hètt'r d'nei Gschiecht v'rzèhlt?
+jk	36362	Saarburg	1	Wem hat 'r die néj G'schicht verzéhlt?
+jk	3639	Pausin	1	Wähm hätte diee neie Geschichte vertällt.
+jk	36489	Bois De Chêne	1	Wem het er die neu Geschichte verzählt.
+jk	3649	Hermsdorf	1	Wem hat hä die neue Geschichte verzellt?
+jk	36525	Wilshausen	1	Wemm hatt'r die neïj G'schicht verzählt?
+jk	36552	Marienthal	1	Wam hät'r d'näj G'schecht verzählt.
+jk	36567	Fort-Louis	1	Wém het d'r die nej G'schicht g'sa-d?
+jk	36594	Bad Rotenfels	1	Wem hat er d'neu G'schicht erzēhlt?
+jk	366	Przeradz	1	Wäm het hei dei nieg Geschicht vertellt.
+jk	3664	Birkholz	1	Wem hat er die neue Geschichte erzählt.
+jk	36737	Altwiller	1	Wemm hat er dö nej Gschicht erzehlt.
+jk	36755	Weislingen	1	Wem hat'r die nöw G'schicht verzehlt?
+jk	3677	Gielsdorf	1	Wäm hätt er die nigge Geschichte vertällt?
+jk	36772	Lichtenberg	1	Wemm heddăr d'nöü Gschecht värzählt?
+jk	36789	Goersdorf	1	Wem hett er die nei G'schicht verzählt.
+jk	36823	Siegen	1	Wamm hat'r d'nei G'schicht verzehltl?
+jk	36842	Neuburgweier	1	Wem hatt 'r d'neu' G'schicht' verzählt?
+jk	3688	Ringenwalde	1	Wäm hett hä di nee Geschichte vertellt?
+jk	36880	Bischoffingen	1	Wem hetter diu neu Gschicht verzählt?
+jk	36898	Maleck	1	Wem het er die neui G'schicht verzählt?
+jk	36911	Yach	1	Wäm hét r di néi Gschicht vèrzélt?
+jk	36933	Orschwiller	1	Wamm hétt 'r die néi G'schicht erzählt.
+jk	37007	Bindernheim	1	Wam hèd er déa näi Gschécht arzählt?
+jk	37025	Schmieheim	1	Wämm het'r dia neu G'schicht verzählt?
+jk	3703	Lehmannshöfel	1	Wäm hät er diee neie Geschichte vertellt?
+jk	37035	Bollenbach	1	Wem hatr di neu Gschicht verzellt?
+jk	37058	Le Hohwald	1	Wem hétt'r dia nèj Gschicht verzéhlt?
+jk	3711	Warnick (Warniki)	1	Wem het hä die neie Geschichte vertellt.
+jk	37119	Buchenberg	1	Wem hättr die neib Gschicht gsait (verzellt).
+jk	37138	Rottweil	1	Wäam hät er die neub Gschicht verzellt?
+jk	37153	Obernheim	1	Wenn hat'r dia neub Gschicht verzellt.
+jk	3722	Zaszczytowo	1	Wem hat he die neie Geschichte ve(?)zällt?
+jk	37302	Winterlingen	1	Weam håt er die nui Gschīcht verzellt?
+jk	37314	Dürrenwaldstetten	1	Weam hotèr dia nui Gschicht verzèhlt?
+jk	37333	Hausen am Bussen	1	Waem hot er dia nui Gschicht verzehlt.
+jk	37354	Baustetten	1	Weam hot'r d nui Gschiecht verzehltn?
+jk	37369	Illertissen	1	Weam hatr dia nui Gschicht verzöhlt.
+jk	37388	Schenkenzell	1	Wem hot er di nei Gschīcht verzelld?
+kl	37401	Aistaig	1	Weam hot ear dia neub Gschicht verzählt.
+kl	3744	Rudnica	1	Wen hatter de neie Jeschichte verzellt?
+kl	37555	Stetten bei Haigerloch	1	Weam hŏtt dr dia neub Gschīcht verzählt.
+kl	37571	Salmendingen	1	Weam hott'r dia nui Gschicht v'rzehlt?
+kl	37581	Bernloch	1	Weam hot'r dui nui Gschiecht verzehlt?
+kl	37598	Gundershofen	1	Weam hôt er dui nui G'schicht verzehlt?
+kl	37607	Eggingen	1	Wam hotr dui nui Gschicht verzéhlt.
+kl	37622	Holzheim	1	Weam hatr de nui Gschicht verzöhlt?
+kl	37658	Oberwaldach	1	Weam hod er dia neu G'schichd verzählt.
+kl	37802	Bondorf	1	Weam hot er dui nui Gschīcht verzéhlt?
+kl	37825	Lustnau	1	Weam hott er dui nui Gschīcht verzählt?
+kl	37855	Dettingen an der Erms	1	Weam hot 'r dui nuia Gschicht verzehlt.
+kl	37862	Donnstetten	1	Wämm hŏt'r dui nuia G'schicht verzählt?
+kl	37869	Radelstetten	1	Wem hat er dui nui Gschicht verzählt?
+kl	37883	Ballendorf	1	Wäam hatt  er dui nuiå Gschicht verzēhlt?
+kl	37900	Obermedlingen	1	Wéam hot'r dia nuia Gschicht vrzöhlt?
+kl	37902	Raumünzach	1	Wem hat (hot, het) er e neie Gschicht verzéhlt?
+kl	37947	Schönaich	1	Weam hot’r dui nui Gschīcht verzählt?
+kl	38044	Hünerberg	1	Weam hot er dui neu Gschicht verzählt.
+kl	38056	Gechingen	1	Weam hot er dui nui Gschicht verzählt.
+kl	38095	Denkendorf	1	Weam hot'r dui nui Gschīcht verzählt?
+kl	38116	Albershausen	1	Weam hot er dui nuia Gschicht verzehlt?
+kl	38136	Winzingen	1	Weam hot er dui nuia Gschīcht vrzéhlt?
+kl	38146	Zang	1	Weam hat er dui nui G'schicht derzählt.
+kl	38155	Auernheim	1	Wèam hòt'r dé nui Gschicht v'rzáhlt?
+kl	38169	Dennach	1	Wem hat ar die neu G'schīcht verzählt?
+kl	38182	Tiefenbronn	1	Wem hot er die nui Gschicht verzählt.
+kl	38348	Schöckingen	1	Weam hott er dui nui Gschicht erzählt?
+kl	38373	Hegnach	1	Weam hot er dia nui Gschicht verzählt.
+kl	38407	Steinenberg	1	Wèam hot ar dui nui Gschicht erzählt?
+kl	38422	Ruppertshofen	1	Weam hot er diu nui Gschicht verzählt?
+kl	38437	Fachsenfeld	1	Weam hot er dui nuia Gschĭcht verzählt?
+kl	38448	Baldern	1	Wem hot er die nui G'schicht verzählt?
+kl	38482	Kleinvillars	1	Wēm hadd'r di nei Gschichd vărzéhlt.
+kl	38502	Hohenhaslach	1	Wem hot er dui nei Gschicht verzéhlt?
+kl	38623	Nendingen	1	Wiam hättär dia neib Gschicht vĕrzĕllt.
+kl	38640	Rohrdorf	1	Weam hot er di nei G'schiecht verzéllt?
+kl	38655	Völlkofen	1	Weam hot èr dia nui Gschicht èrzéhlt.
+kl	38666	Reichenbach	1	Weam haot er de nui Gschīcht verzēhlt?
+kl	38682	Mittelbuch	1	Weam hat er dia nui Gschicht verzéllt.
+kl	38695	Unteropfingen	1	Weam hotr die nui G'schicht verzehlt?
+kl	3871	Dreetz	1	Wer'n het he de meije Geshicht votellt?
+kl	38720	Kicklingen	1	Weam hat er uie Gschichte erzählt?
+kl	38738	Westendorf	1	Wéam haut er dia nuia G'schicht verzöhlt.
+kl	38764	Waidhofen	1	Wem hŏt à dé nei Gschicht vàzëit.
+kl	38774	Eschelbach an der Ilm	1	Wem hata dö neie Gschit vozöit?
+kl	3880	Brunne	1	Waem het aeh diee naeie Jeschichte vertellt?
+kl	38863	Pöttmes	1	Wem hot o de neu Gschicht vazöit.
+kl	3887	Sommerfeld	1	Wän hätter de neie Geschichte vertelt?
+kl	38899	Hebrontshausen	1	Wem ha(o)t a de neu G'schicht däzählt?
+kl	38912	Oberglaim	1	Wem hat er dö neue Gschicht vozählt.
+kl	38935	Fronhofen	1	Wem hotr die nui Gschicht vozählt.
+kl	3896	Malz	1	Wem hät ä de neie Geschichte vertällt?
+kl	38963	Stepperg	1	Weam hot'r dia nei G'schicht erzählt?
+kl	3901	Stolzenhagen	1	Wäm hät hä dîè neîe Geschîchte vertellt?
+kl	3906	Prenden	1	Wäm het hä die neie Geschichte vertält?
+kl	39062	Hafenreut	1	Wem hat er die neu Gschicht erzählt?
+kl	39089	Gerolfing	1	Wen hot er dö neue Gschicht verzehlt?
+kl	39103	Irsching	1	Wem hat er die noi Gschicht dazählt.
+kl	39116	Siegenburg	1	Wen hot er (denn) dö neue Gschicht vozehlt?
+kl	39126	Semerskirchen	1	Wem hat er di neu G'schicht dazählt?
+kl	39140	Hofkirchen	1	Wem hoada die neu Gschicht vozült.
+kl	39160	Dürrenzimmern	1	Weam hot ĕr dia nuia Gschicht verzählt?
+kl	39179	Gundelsheim	1	Weam hat er dia neua Gschicht verzählt.
+kl	3919	Trampe	1	Wehm hötter die nue Geschichte vertellt?
+kl	39201	Walting	1	Wem hot er denn dia nei Gschicht verzehlt?
+kl	39293	Bieswang	1	Weäm haut er döi neua Gschicht derziehlt?
+kl	3931	Neureetz	1	Wem hät er di de neie Jeschichte vertällt?
+kl	39317	Pondorf	1	Wem hot er die neu Gschicht vozählt/dazählt?
+kl	39329	Neukelheim	1	Wem hat er die neue Gschicht erzählt. 
+kl	39342	Peising	1	Wem hat er dö neu G'schicht erzählt.
+kl	39356	Arlesried	1	Weam hautr dia nui Gschicht v'rzellt?
+kl	39370	Türkheim	1	Weam haut ear diea nui Gschicht vrzöhlt?
+kl	39398	Gauting	1	Wem had ee de neu Gschicht vozait.
+kl	3944	Kurzycko	1	Wem hett hä de nie Geschichte vertellt?
+kl	39459	Kaufering	1	Wein hot er die neu Gschicht verzöhlt?
+kl	39475	Eching am Ammersee	1	Wem hot er die neie Gschicht verzählt.
+kl	3949	Grzymiradz	1	Wem hett'r die nie'e Geschichte vertellt.
+kl	39494	Perlach	1	Wenn hat er die neu Gschicht verzöllt.
+kl	39503	Zorneding	1	Wem homt e? die Gschicht erzählt.
+kl	39509	Albaching	1	Wem hat die noi G’schicht erzählt?
+kl	39515	Sankt Leonhard	1	Wem hot a dö nei Gschicht vazehlt.
+kl	39517	Niederraunau	1	Weăm haut'r diă nui G'schicht v'rzöhllt?
+kl	39529	Walkertshofen	1	Weam hautr di nui Gschicht vrzöhlt?
+kl	39546	Oberottmarshausen	1	Wem hot der denn dö nui G'schicht verzöhlt?
+kl	3957	Lubiszyn	1	Wäm het hä de neie Geschichtn vertellt?
+kl	39647	Mittelstetten	1	Wem hod ar di nei Gschicht erzöld?
+kl	3965	Heinersdorf	1	Wem hett er die neie Geschichte vertellt?
+kl	39662	Bergkirchen	1	Wem hot a die neue Gschicht voz?hlt.
+kl	39667	Unterschleissheim	1	Wem hatn die neu G'schicht verzeihlt?
+kl	39673	Moosinning	1	Wem hat er die neu Gschicht dozählt?
+kl	39687	Oberdorfen	1	Wen hat a denn dö nei Gschicht vozoit?
+kl	39693	Wettenhausen	1	Wem hatr die noi Gschicht verzählt.
+kl	39710	Zusmarshausen	1	Wem hat er die nui Gschicht verzöhlt?
+kl	39723	Täfertingen	1	Weam hot’r die nui G’schicht verzöllt?
+kl	39742	Gallenbach	1	Vem hot er die nei Gschicht erzehlt.
+kl	39865	Hilgertshausen	1	Wem hat a dö neu Gschischt vörzöhlt.
+kl	39880	Allershausen	1	Wen hot er denn dö neu Gschicht vozült.
+kl	39891	Rast	1	Wen hod a de nei Gschicht vazöld?
+kl	39901	Vilsheim	1	Wüm hoat èa dö neu Gschicht vōzéüt.
+lm	39954	Sattelbogen	1	Wen hot a döi neui Gschicht dazölt.
+lm	39962	Krailing	1	Wem ho͡ut er den die nu͡i Gschicht daze͡ît.
+lm	39968	Oberried	1	Wem hot [a?] [Gekrakel, das gestrichen aussieht] dö nui Gschicht azieht.
+lm	40000	Pertolzhofen	1	Wem hot a die nei Gschicht dazéhlt.
+lm	40012	Tiefenbach	1	Wem had a dnä Gschicht vozählt.
+lm	40047	Pemfling	1	Wem hot a de nä Gschicht dazühlt?
+lm	40057	Arnschwang	1	Wen hoda de nui G'schicht vozehlt?
+lm	40112	Wald an der Alz	1	Wem hota dö neu Gschicht vozölt.
+lm	40137	Ranoldsberg	1	Wem hod er de nei G'schicht vazähld.
+lm	40145	Erharting	1	Wem hát a den die nui Gschicht dazēöt.
+lm	40155	Gumpersdorf	1	Wem hat a dö neuö Gschicht vazählt.
+lm	40191	Vilsbiburg	1	Wem had ea dö neu Gschicht dazäit?
+lm	40202	Gangkofen	1	Wem hoat a, dö nei Gschicht vazeït.
+lm	40212	Neuhofen	1	Wem hot á du neu Gschicht dazēit?
+lm	40220	Bad Birnbach	1	Wem hot er dö nei Gschicht dazaid.
+lm	40231	Ruhstorf an der Rott	1	Wem hout a dö neu Gschicht vozoit.
+lm	40274	Wörth an der Isar	1	Wem hot a denn dö nei Gschicht vozëid?
+lm	40286	Griesbach	1	Wem hoat er dö neu Gschicht erzehlt.
+lm	40297	Indersbach	1	Wen hoat a denn dö neu Gschicht dazeit.
+lm	40308	Walchsing	1	Wem hat er die neu Gschicht verzählt.
+lm	40320	Kirchberg	1	Wem hod er denn die neu Gschicht dazelt.
+lm	40331	Haag	1	Wem hat a denn dö noi Gschicht dazählt?
+lm	40402	Hankofen	1	Wem hout a denn dö nei Gschicht voze-it?
+lm	40414	Plattling	1	Wem hat ea(r) denn die neu Gschicht dazeït.
+lm	40420	Auerbach	1	Wen hot a de noi Gschicht dazēĭd.
+lm	40428	Saldenburg	1	Wem hat a da do Neuègkeit vazählt?
+lm	40439	Karlsbach	1	Wem hât ee dö noi Gschicht erzählt?
+lm	40516	Steinach	1	Wem hot a die nui Gschicht vozähöt (zéhlt).
+lm	40524	Perasdorf	1	Wem hot er den die nôi Gschicht vazēit.
+lm	40531	Regen	1	Wem hod a dö nui Gschicht vazöiht?
+lm	40535	Klingenbrunn	1	Wem hat a denn dö neu Gschicht vazoöt? oder "dazoöt"
+lm	40538	Riekofen	1	Wem hot a dö neu G'schicht dazählt.
+lm	40597	Lindau (Bodensee)	1	Weam hott ar dië nei Gschicht verzellt.
+lm	40605	Schnellers	1	Weām hōt ār die nōu Gschicht verzōllt? 
+lm	40613	Ratholz	1	Wèam hatta de nui Gschicht vrzöllt.
+lm	40637	Eschbach	1	Wem hät'r die nöi Gschicht verzehlt?
+lm	40655	Erzingen	1	Wem hät er die nei G'schicht verzählt?
+lm	40757	Schienen	1	Wem hät'r die neu G'schicht verzehlt?
+lm	40771	Wollmatingen	1	Wem hät er die neu G'schicht verzelt?
+lm	40785	Kluftern	1	Wenn hotar dia nui Gschicht verzellt.
+lm	40798	Obereisenbach	1	Weam hot ear di nui Gschicht varzelt?
+lm	40807	Ratzenried	1	Weam haot ăr dia nue Gschicht vărzehlt?
+lm	4081	Bantikow	1	Wär'n hett he de neie Jeschicht vertellt?
+lm	40819	Kreuzthal	1	Weam hot a dia nui Gschicht verzöllt?
+lm	40844	Münchingen	1	Wem hättr di nai Gschicht văzéllt.
+lm	40863	Tengen	1	Wem hättr dia neu Gschicht verzellt.
+lm	40898	Billafingen	1	Weam hot er die neu Gschicht verzöhlt?
+lm	4093	Kränzlin	1	Wern het he de neie Jeschicht vertellt?
+lm	41018	Eigeltingen	1	Wem hät er d'neu Gschicht verzehlt.
+lm	4102	Seebeck	1	Wem hät he de neie Geschichte vertellt.
+lm	41049	Illmensee	1	Wemm hot er dia nui G'schicht verzéllt.
+lm	41057	Baindt	1	Weam hot er dia nui Gschicht verzehlt?
+lm	41064	Ziegelbach	1	Weam hot ear dia nui G'schicht verzéllt?
+lm	41076	Maria Steinbach	1	Weam haut'r dia nui Gschicht verzöllt.
+lm	41086	Waldau	1	Wemm hétter die nai Gschicht verzellt?
+lm	41098	Hubertshofen	1	Wem hät r die neu Gschicht verzellt.
+lm	41114	Öfingen	1	Weam hätt er die neub Gschecht verzält?
+lm	4112	Klein-Mutz	1	Wem hes du de neie Geschicht' vertellt?
+lm	4119	Gross Dölln	1	Wähn hätt er de neie Geschicht vertellt.
+lm	41200	Masevaux	1	I wäm hāt r dīa nèja Gschichta vrzählt?
+lm	41214	Aspach-Le-Bas	1	Wenn hatt'r d'näia J'schichta verzèhlt?
+lm	4123	Senftenhütte	1	Wäne hett hä de nije Geschichte vertällt?
+lm	41245	Lipburg	1	Wèm het'r die nei G'schicht verzèlt.
+lm	41262	Utzenfeld	1	Wem hät er di nei Gschicht verzellt?
+lm	41275	Schluchsee - Blasiwald	1	J wem hät er de neui Gschicht verzélt?
+lm	41296	Oberentzen	1	In wèna hètr dia néi Gschicht verzélt?
+lm	41309	Feldkirch	1	Wemm hett'r di neu Gschicht verzellt?
+lm	41336	Kappel	1	Wem hät er die neu G'schicht verzühlt.
+lm	41351	Urbès	1	I wem hat er d neje Gschicht vertehlt?
+lm	41365	Rimbach-Près-Guebwiller	1	Wém hat ār d'nēi G'schēcht v'rzèhlt?
+lm	4142	Stoki	1	Wäm het er di nüe Geschichte vertellt?
+lm	41460	Rixheim	1	Wem hat er dia nèia Gschècht verzèhlt?
+lm	4152	Stoleczna	1	Weäm hätt heä de nie Geschicht veätällt?
+lm	41566	Ranspach-Le-Bas	1	Wam hätt'r d'neye Gschicht vrzellt?
+lm	41598	Lörrach	1	Wem hot er die neui Gschicht verzehlt?
+lm	4161	Glazow	1	Wem hätta de nī Geschicht vatellt?
+lm	41623	Hütten	1	Wĕm hät er die neu G'schicht verzällt?
+lm	41653	Largitzen	1	Wem hätt'r d'neue Gschicht erzählt?
+lm	4171	Okunie	1	Wem het he de nieg Geschichte vertellt?
+lm	41714	Lucelle	1	Wămm hăt'r dia nei? Gschiăcht erzählt?
+lm	41785	Höhenrain	1	Wen hàdá dö nei Gschicht vŏzöid?
+lm	41801	Grosshöhenrain	1	Wem hot a denn s' Neuaß vozëit.
+lm	41811	Tattenhausen	1	A wen hat a dö neu Gschicht vozöhlt.
+lm	41819	Ollarzried	1	Wem haut er die nui G'schicht vérzöhlt?
+lm	41836	Kaufbeuren	1	Weem haut'r die nui G'schicht verzölt.
+lm	41845	Denklingen	1	Weam hotr dia nui Gschicht v'rzöhlt?
+lm	41855	Raisting	1	Wen hat r die nui Gschicht erzöhlt?
+lm	41872	Baiernrain	1	Wem hod a de nei Gschicht vozaid.
+lm	41932	Huglfing	1	Wem hot'r die nui Gschicht gset?
+lm	41939	Penzberg	1	Wem hot er die neu Gschicht vazeiht?
+lm	41948	Reichersbeuern	1	Wem hat er die neue Geschichte verzöhlt?
+lm	41953	Parsberg	1	Wem hat er do' neue G'schicht' erzählt?
+lm	41963	Kirchdorf am Inn	1	Was fur ian hot er di neu Gschicht vozählt.
+lm	41969	Aschau im Chiemgau-Niederaschau	1	Wem hot er die neu G'schicht vozählt?
+lm	41971	Betzigau	1	Wem hotta die nui Gschicht vrzöllt.
+lm	41980	Sulzschneid	1	Weam hota dia nui G'schicht v'rzöllt?
+lm	41986	Steingaden	1	Wem hoat r die nui Gschicht verzihlt.
+lm	42039	Bayerniederhofen	1	Wem hat er die nui G'schicht erzählt?
+lm	42049	Jachenau	1	Wem hot a de nui Gschicht vozöhlt.
+lm	42056	Unterjoch	1	Wem haut er die neu Gschicht erzählt?
+mn	42062	Oberau	1	Wem hot er die nei Gschicht verzählt?
+mn	42070	Eggstätt	1	Wem hod a dö neu Gschicht dazaid?
+mn	42076	Traunwalchen	1	Wem hat a dö neu Gschicht vozählt.
+mn	42084	Kirchanschöring	1	Wem hot er dö nui Gschicht dazäht?
+mn	42116	Ruhpolding	1	Wem h?d er dö neu G'schicht vozöhlt?
+mn	42118	Anger	1	Wem hot a do noi Gschicht vozöt.
+mn	42132	Ramsau bei Berchtesgaden	1	Wem hot a de nui Gschicht vozählt?
+mn	42140	Hachiville	1	Wem hat hen dei nei Geschicht verzalt.
+mn	42166	Niederwampach	1	Wem huot hien den nei Geschicht erzelt.
+mn	42180	Neidhausen	1	Wem hat en de nei Geschicht verzallt?
+mn	42236	Ettelbrück	1	Wiem huot en de nei Geschicht erziehlt?
+mn	42254	Rambrouch	1	Wiene huot hien de nei Geschicht erzielt.
+mn	42302	Eischen	1	Wem hu-et en de nei Geschischt erzeelt?
+mn	42316	Hünsdorf	1	Wiem huet'en de nei Geschicht erzielt.
+mn	42341	Biwer	1	Wiem huot den de nei Geschicht erzielt?
+mn	42414	Uewerkuer	1	Wem huot hen de nei Geschicht erziehlt?
+mn	42431	Peppange	1	Wiem hat en die nei Geschicht erziult?
+mn	42469	Schwarzenbach an der Pielach	1	Wem hot er de neiche Gschicht dazählt?
+mn	42470	Lehenrotte	1	Wem hot er dö neuchi Gschicht dazöhlt.
+mn	42472	Thal	1	Wem hat er die neiche Gschicht darzehlt.
+mn	42477	Grillenberg	1	Wen hot ea de neichi Gschicht dazöit?
+mn	42520	Schneebergdörfl	1	Wen hot er die neuche G'schicht darzöhlt?
+mn	42527	Mollram	1	Wem hot a denn dö neiche Gschicht dazählt?
+mn	42532	Frein an der Mürz	1	Wem hat a di neie Gschicht vazöhlt.
+mn	42571	Massing	1	Wen hat er d'neii G'schicht derzöhlt? (verzöhlt)
+mn	42573	Semmering	1	Wem hot a dö neuchi G'schicht dazöhlt?
+mn	42587	Feistritz am Wechsel	1	Wen hot a dann die nei'i G'schicht dazöit?
+mn	42612	Gleichenbach	1	Wen hout a dan die neichi Gschicht dezöüd?
+mn	42635	Weiden am See	1	Wen hoda d'neichi Gschicht drzühlt?
+mn	42637	Nickelsdorf	1	Wen hot er dn die naichi Gschicht erzöhlt.
+mn	42640	Siegersdorf	1	Wem hat a dö neiche G'schicht dazählt?
+mn	42647	Stotzing	1	Wen hot ea d'neichi Gschicht drzöhlt?
+mn	42670	Wieselburg (Mosonmagyaróvár)	1	Weim hod'a te neii (neichi) Kschicht tazöid?
+mn	42688	Andau	1	Wen hota thn die neuhi Gschicht dazölt.
+mn	42691	Wiesen	1	Wen hot a denn d'neii Gschicht dazöhlt?
+mn	42701	Baumgarten	1	Wem hot ea die neue Gschicht dazöhlt?
+mn	42706	Apetlon	1	Weim heout'r d'neii Gschicht derzählt?
+mn	42722	Horitschon	1	Wem haut er die neichi Gschicht erzöhlt?
+mn	42728	Holling (Fertőboz)	1	Wenn hod a tn t(e)i kschicht tazöüllt.
+mn	42748	Frasnacht	1	Wem hätt-r di neu Gschicht verzellt?
+mn	42821	Rietli	1	Wemm hed er die neu Gschicht verzellt?
+mn	42843	Hohenems	1	Wem hoat er di neu Geschicht verzählt.
+mn	42850	Bizau	1	Weam hat dr die nüe Gschicht arzellt?
+mn	42856	Riezlern	1	Wem heder de nü Gschicht verzellt?
+mn	42908	Gamprin	1	Wem hätter d’neu Geschecht verzelt?
+mn	42926	Röns	1	Weam hät dear die neue Gschicht verzellt.
+mn	4293	Brielow	1	Wäa hät hä die nue Jeschichte vertellt?
+mn	42933	Buchboden	1	Wem hädder die nei gschichd verzellt?
+mn	42939	Lech	1	Wemm hed'r diä nui Gschichd v'rzäld.
+mn	42970	Sargans	1	Wem hät-r diä nöü Gschicht verzelt?
+mn	42977	Schruns	1	Wem hot ar die neu G’schicht erzellt.
+mn	42985	Vils	1	Wöm hot er di nuie Gschicht verzellt?
+mn	43004	Hinterhornbach	1	Wemm hatr di nui Gschicht dörzöhlt?
+mn	43013	Rinnen	1	Weam hot ar die nui Gschicht verzehlt?
+mn	43021	Ehrwald	1	Wem hat er die nui G'schicht derzöilt?
+mn	43022	Leutasch	1	Wen hot s die nui Gschicht derzählt.
+mn	43027	Bach	1	Wöm hat er dia nui Gschicht verzöhlt?
+mn	43037	Silzerberg	1	Wem hat er die nuie G'schicht' derzöhlt? (In wem)
+mn	43055	Hatting	1	Wen̠ hoat|er die nua Gschicht darzöhlt?
+mn	4306	Deetz	1	Wem hett'e de neie Geschichte vertellt.
+mn	43070	Mils bei Imst	1	Wem hot ar dia nui Gschicht derzöhlt?
+mn	43122	Unterried	1	Wem hot er die nuie Gschicht darzöhlt.
+mn	43133	Holdernach	1	Wem hot ar die nuie Gschicht darzölt.
+mn	43152	Kauns	1	Wöm hotr dia nui Gschicht drzöhlt?
+mn	43161	Unterberg	1	Wean hat er die nuie Gschichte derzöhlt?
+mn	43162	Pertisau	1	Wem håda dö noii Gschicht dazählt.
+mn	43173	Brixlegg	1	Wem hot ea die noi Gschicht vazöllt?
+mn	43183	Penningdörfl	1	Weam hot ear dia noie Gtschicht verzoit?
+mn	4321	Fahrland	1	Wen het hä die neie Geschichte vertellt?
+mn	43210	Innsbruck	1	Wem håt ear die nein Gschicht derzählt.
+mn	43224	Kolsassberg	1	Wem håt er die nuie Gschicht derzält.
+mn	43251	Aschau im Zillertal	1	Wem hoat ea de(i) neue Gschicht erzöhlt.
+mn	43280	Krimml	1	Wem hot ea de noi Gschicht vazöht?
+mn	43285	Trins	1	Won hot er die nüie Gschichte derzöhlt?
+mn	43288	Dornauberg	1	Wem hotr de noia Gschichte drzöhlt?
+mn	4329	Steglitz	1	Wen hätt a de neie Jeschichte vertellt?
+mn	43297	Schmirn	1	Wen hotran di neie Gschichte derzöhlt?
+mn	43301	Kitzbühel	1	Wem hoada dö neii/noii Gschicht vazeid?
+mn	43303	Hochfilzen	1	Wen hat er die neie Gschicht vazählt?
+mn	43310	Saalfelden am Steinernen Meer	1	Wem ha-ut a denn dö noi Gschicht vazoit?
+mn	43315	Werfen	1	Wen håt  dö noi G'schicht vazöit?
+mn	43331	Bramberg am Wildkogel	1	Wem håt a d’noi Gschicht vazö(i)d.
+mn	43340	Niedernsill	1	Wen håt a dö noi Gschicht dazöiht.
+mn	43347	Sankt Georgen	1	Wem håt a dö neichö Gschicht vazöhlt?
+mn	43354	Goldegg	1	Wen håt'a dö nöi Gschicht vazöit.
+mn	43359	Kleinarl	1	Wem hout a dé noi G'schicht vazöht?
+mn	43372	Bad Gastein	1	Wem håut a dö noi Gschicht vazöit?
+mn	43378	Berg-Gruben	1	Wen hät ea die noie Gschichte dazöilt?
+mn	43379	Heiligenblut	1	Wen håt er die neje Gschicht dazehlt?
+mn	4338	Köpenick-Kietz	1	Wem het er die neie Geschicht vertellt.
+mn	43381	Sankt Martin am Tennengebirge	1	Wem hat er dö neuchi Gschicht vazöhlt?
+mn	43384	Ramsau	1	Wen hot er die noi Må (offenes a) vazuhlt?
+mn	43391	Assach	1	Wen het a d noii G'schicht vazoilt?
+mn	43393	Donnersbach	1	Wem hat er die neiche Geschicht verzöhlt.
+mn	43412	Untertauern	1	Wem hot a d’nui Gschicht vazölt?
+mn	43420	Pöllau	1	Wein hot er di neige Gschicht dazählt.
+mn	43427	Oberweissburg	1	Wen håot e dö Gschicht vazöt?
+mn	43433	Sauerfeld	1	Wem håt ear di neie Gschicht ezoit(?)?
+mn	43439	Ranten	1	Wen håt a die nui Gschicht vazölt?
+mn	43453	Strechen	1	Wem hat a dnei Gschicht wazölt.
+no	43455	Treglwang	1	Wem hat er die neichi Gschicht dazöhlt?
+no	43457	Kalwang	1	Wein hot a die neigi Gschicht vazölt.
+no	43458	Trofaiach	1	Wen hot a die neuchi Gschicht dazöit?
+no	43462	Hafendorf	1	Wen hot a die neuigi Gschicht dazählt.
+no	4347	Herzfelde	1	Wen hätt he die niee Geschichte vertellt?
+no	43480	Sankt Michael in Obersteiermark	1	Wem hotta de neigi Gschicht azöhlz?
+no	43488	Pusterwald	1	Wem hot er 'd neige Gschicht vazöhlt.
+no	43489	Sankt Oswald	1	Wem hat a den die neuche Gschicht dazöhlt? (vazöhlt)
+no	43494	Sankt Marein bei Knittelfeld	1	Wein hot er die neuche G'schicht dazöhlt?
+no	43497	Frohnleiten	1	Wem hod a de naegi G'schicht dazölt?
+no	43505	Sankt Peter ob Judenburg	1	Wen hot a denn die neige Gschicht vazöhlt?
+no	43530	Teufenbach	1	Wem hot a d'neuge Gschicht vazählt?
+no	43534	Sankt Johann	1	Wem hot er die neigi Gschicht erzöhlt.
+no	43537	Kainach bei Voitsberg	1	Wen hot a die neigi Gschicht vazählt.
+no	43544	Gratwein	1	Wem håt er die neichi Gschicht dazåhlt?
+no	4357	Tempelberg	1	Wem hät er die nüe Geschichte vertellt?
+no	43576	Fochnitz	1	Wenn hot er denn die neuge Gschicht derzehlt?
+no	43579	Wenigzell	1	Wem hot er d'neige Gschicht dazöhlt?
+no	43633	Ehrenschachen	1	Wen hot a d’neugi Gschicht dazöhlt?
+no	4364	Döbberin	1	Wäme het er die niee Geschichte vertellt?
+no	43640	Salmannsdorf	1	Wem hot a de neue Gschicht dazelt.
+no	43662	Sankt Kathrein am Offenegg	1	Wen hot a d'neii G'schicht dazöhlt?
+no	43699	Siget in der Wart	1	Wem hot e die neie Gschicht dezöht.
+no	43715	Stubenberg	1	We hat a d'neuche G'schicht dazöht.
+no	43726	Unterrohr	1	Wem haut er die neuchi Gschicht dazöhlt?
+no	43756	Eggersdorf	1	We(i)n håt er denn die neige Gschicht dazö(i)hlt.
+no	43761	Sinabelkirchen	1	Wai(n) hot a di naigi Gschicht dazölt?
+no	4377	Pamiecin	1	Weme hat hä die neie Geschichte vertällt?
+no	43773	Bad Blumau	1	Weia hot a die neigi G'schicht dazählt?
+no	43782	Deutsch Tschantschendorf	1	Wem hot er die nei-i Gschicht dazöhlt?
+no	43850	Klostermarienberg	1	Wein hot a da d'neuchi Gschicht dazöhlt.
+no	4388	Grabno	1	Wen hat er die neine Jeschichte verzählt? (verzellt)
+no	43889	Moschendorf	1	Wem hot a d'neichi G'schicht dazöhlt?
+no	43896	St. Jakob	1	Wen håt er die Gschich epper derzēilt.
+no	43905	Oberpeischlach	1	Wen hota die Gschichte dazeihlt?
+no	43909	Mörtschach	1	Wen håt er die noiö G'schicht dazölt?
+no	43910	Flattach	1	Wen håt er denn die neie G'schicht dazöhlt?
+no	43938	Kolbnitz	1	Wen höt er die neue Gschicht derzöhlt?
+no	43939	Ausservillgraten	1	Weme hot a die noie Gischichte dozölt?
+no	43948	Assling	1	Wem hat er die noie Geschichte erzöhlt?
+no	43959	Lindsberg	1	Wenn håt a denn die neie Gschicht dazehlt.
+no	43977	Kornat	1	Wem hot er denn dö neuche Gschicht vazählt?
+no	43982	Berg im Drautal	1	Wein håt a die noie G'schicht dazöhlt?
+no	43988	Goderschach	1	Wen håt er denn dö naje Gschicht derzählt.
+no	4400	Trzemeszno Lubuskie	1	Weme hat er die neie Geschichta verzellt?
+no	44006	Kremsbrücke	1	Wön hota dö noiö Gschicht darzöölt?
+no	44010	Oberhof	1	En wölchn hot er dö neuge Gschicht dazöhlt?
+no	44038	Kleblach-Lind	1	Wenn hät er die noe Gschicht verzojlt.
+no	44040	Obermillstatt	1	Wön håt a de noie G'schicht dezöhlt?
+no	44054	Patergassen	1	Wenn hat a de noije Gschicht darzöhlt?
+no	44056	Steuerberg	1	Wen håt er den die neich G'schicht derzöllt?
+no	44109	Hermagor	1	Wen håt er die noie Gschicht dazahlt?
+no	44117	Bleiberg-Kreuth	1	Weïn håt er denn de naiche Gschicht darzeïlt?
+no	44124	Villach	1	Wen håt er die mie Gschicht dazählt.
+no	44142	Schiefling	1	Wem hot er die neie Gschicht drzählt?
+no	44162	Suetschach	1	Web håt er die nöie Gschicht d'zählt?
+no	44174	Sankt Salvator	1	Wenn håt ar den die noie Gschicht varzöhlt?
+no	44182	Heft	1	Wen håt er die neige Gschicht dazählt?
+no	44189	Schiefling	1	Wem hot er die neigi Gschicht verzahlt.
+no	44196	Modriach	1	Wenn hatt er die neigi Gschicht dazählt?
+no	44200	Launegg	1	Wen hot er di neigi G'schicht dazöhlt?
+no	44234	Obermühlbach	1	Wem hât a die nâje G'schicht dazöhlt?
+no	44243	Hochfeistritz	1	Wän hot er die noi Gschichte dazölt.
+no	44248	Sankt Andrä	1	Wein hot er die neige G’schicht erzöult?
+no	44256	Glashütten	1	Wem hot er denn de neiichi Gschicht (Neiigkeit) dazöhlt
+no	44261	Sankt Peter im Sulmtal	1	Wem hat er die neugi Gschicht dezöhlt?
+no	44295	Oberhaag	1	Wen hot ea di neigi Gschicht dazölt?
+no	44303	Klagenfurt-Harbach	1	Wem hot a de neiche Gschicht vazöhlt?
+no	44308	Eberndorf	1	Wem håta die naie Gschicht erzöhlt?
+no	44313	Lorenzenberg	1	Wem håt er die neige Gschicht vazöhlt?
+no	44314	Sankt Margarethen	1	Bem håta de neie Gschicht azählt?
+no	44320	Bad Eisenkappel	1	Wem hota die neie Gschicht azählt?
+no	44333	Paldau	1	Wen hot er die neigi G'schicht derzählt.
+no	44347	Hohenbrugg an der Raab	1	Wem hot er die neigi Gschicht dazöhlt.
+no	44358	Mogersdorf	1	Wen hot a d neie G'schicht dazöit?
+no	44371	Allerheiligen bei Wildon	1	Wem hot a d'Neuigkeit vadazöhlt?
+no	44398	Leibnitz	1	Wen hot ea di naìgi G’schicht dazöhlt?
+no	44414	Klöch	1	Wem er eppa (etwa) dö Neuigkeit derzählt hot?
+no	44425	Ratschendorf	1	Wenn ho e(r) d' neige Gschicht dazöhlt?
+no	44433	Langegg	1	Wem hat er die neie Gschicht dazahlt?
+no	44439	Ebental (Polom)	1	Bemon (Bamon) hot ar dei neiä Gäschichtä drzehlät?
+no	44442	Steinwand (Podstenice)	1	Bemon hot ar dei neiä Gäschichtä drzehlât?
+no	44445	Obergras (Trava)	1	Buimon hot ar dei ne̤ia Gäschichta drzàl?
+no	44447	Göttenitz (Gotenica)	1	Bemon hot ar dei neió Göschichtó drzehlt
+no	44454	Nesseltal (Koprivnik)	1	Banon hot ar dei neio Goschichto drzelot?
+no	44461	Tiefenbach (Briga)	1	Bamon hot ar dei neiä Gäschichtä drzehl?
+no	44465	Unterlag (Spodnji Log)	1	Bámon hot ar dä neuä Gäschichtä arzéhlt
+no	44519	Wildensbuch	1	Wem hät er die neu Gschicht verzellt?
+no	44610	Wittenwil	1	Wemm hätter di neu Gschicht vrzellt?
+no	44685	Neukirch an der Thur	1	Wem hat er die neu Gschicht verzellt?
+no	44770	Mont-Tramelan	1	Wäm het är di neui Gschicht verzёut?
+no	44771	Pieterlen	1	Wäm het-er di neui Gschicht erzellt.
+no	44796	Merzligen	1	Wäm het er die neui Gschicht erzellt?
+no	44801	Gals	1	Wäm het er di neui Gschicht erzellt?
+no	44832	Huggerwald	1	Wämm hedder die neii Gschicht verzellt?
+no	44851	Ziefen	1	Wäm hed er die neui Gschicht verzellt?
+no	44858	Anwil	1	Wämm het er die nöii Gschicht verzellt?
+no	44888	Umiken	1	Wem het er die neue Gschicht verzellt?
+no	44994	Gänsbrunnen	1	Wäm het er die nöi Gschicht verzöut.
+no	45009	Oensingen	1	Wäm het er die neuji Gschicht verzöut?
+op	45022	Mühlethal	1	Wem het'er di nög gschicht verzöut?
+op	45067	Meisterschwanden	1	I wemm het er di nöi gschìcht verzélt.
+op	45192	Mülchi	1	Wäm het er die neui Gschicht erzellt.
+op	45195	Eigenthal	1	J wem hed er di neu Gschecht verzellt.
+op	4521	Wollin	1	Weäm hett heä de neie Geschichte vörtellt?
+op	4527	Rädel	1	Wen hàt he de neie Geschichte vertellt?
+op	45279	Hildisrieden	1	Wem het är die neu Gschecht verzellt.
+op	45299	Willisau	1	I wem hed är die neu G'schicht erzellt?
+op	45312	Bleuen	1	Wäm het er die nöii (neui) G'schicht verzeu(ll)t?
+op	45345	Dielsdorf	1	Wem hät er die neu Gschicht verzellt?
+op	45356	Unterwagenburg	1	Wäm hät er di neu Gschicht verzällt?
+op	4539	Wildenbruch	1	Wen het he de neie Geschichte vertellt?
+op	45474	Boden bei Fischenthal	1	Wem hät er die neue Gschichte verzellt?
+op	4549	Löwenbruch	1	Wen hät ha die neie Geschichte vertellt?
+op	45492	Dicken bei Degersheim	1	Wem het er di neu G'schicht verzellt?
+op	45501	Bonstetten	1	Wem hät er die neu Gschicht verzellt.
+op	45529	Riedikon	1	Wem hät er di neu Gschicht verzellt?
+op	4560	Deutsch Wusterhausen	1	Wem hat er die neie Geschichte allene vertellt?
+op	45611	Feusisberg	1	Wem hät'r die nöi G'schicht verzählt?
+op	45627	Starkenbach	1	Wem hätt er die neu Gschicht verzellt?
+op	45630	Risch	1	I wem hed er die nü Gschicht verzellt?
+op	45644	Reichenburg	1	J wäm hät er die nü Gschicht verzellt?
+op	45692	Süri	1	Wäm het är die nöji Gschicht erzeut?
+op	45694	Courlevon	1	Wäm het är die nöii Gschicht erzäut.
+op	45716	Brünisried	1	Wem het er die nüi Gschecht erzellt?
+op	45718	Ferpicloz	1	Wäm het er dy neue Gschicht verzapft?
+op	45722	Abländschen	1	Wäm het dr di nüwi Gschicht verzellt.
+op	4573	Neu Golm	1	Wem hat er die neue Geschichte vertehlt.
+op	45734	Dentenberg	1	Wäm het er die noii(ü?) Gschicht verzeut?
+op	45758	Mutten	1	Wäm het er die neui Gschicht erzënt?
+op	45764	Oberfrittenbach	1	Wäm het er die neui Gschicht erzöut?
+op	45784	Schüpfheim	1	Wämm het'r di nüöi Gschicht verzellt?
+op	458	Wietrzno	1	Wem hätt hei die nieg Geschicht' vĕtellt?
+op	4584	Hohenwalde	1	Wem hätt er die neie Jeschichte erzählt.
+op	45863	Gurzelen	1	Wäm het er die neui Gschicht vertellt?
+op	45878	Linden (Oberlangenegg)	1	Wäm het er di neu-i Gschicht erzellt?
+op	45891	Sörenberg	1	Wem hed är die G'schecht usgleid?
+op	45892	Lungern	1	Wämm hed’r diä niww Gschicht vrzelld?
+op	4590	Kunice	1	Wam hät ha die naie Geschichte verzellt?
+op	4595	Mierczany	1	Wam hut ern die Geschichte verzellt?
+op	45962	Entschwil	1	Wemm het er nüji Gschicht erzellt?
+op	45980	Saxeten	1	Wämm heder die nüwi Gschicht erzelld?
+op	45992	Guttannen	1	Wäm hed är dee niww G'schicht erzelld?
+op	46009	Ulrichen	1	Wäm hät är die niw Gs[ch]icht erzehlt?
+op	46017	Gersau	1	I wem heder diä nü Gschicht verzellt.
+op	46021	Illgau	1	Wem het är die nü Gschicht ärzehlt?
+op	46026	Engi	1	Wem het är die neu Gschicht vezellt?
+op	46027	Leuggelbach	1	Ä wem het er die nü Gschicht verzellt?
+op	4603	Toporow	1	Waam hot a de neue Geschichte derzählt?
+op	46038	Linthal	1	Wem(m) hett er de nü Gschicht erzellt.
+op	46040	Engelberg	1	Wem hed är die nui Gschicht ärzelld?
+op	46045	Erstfeld	1	Wem het är die ni Gschicht erzellt?
+op	46048	Valendas	1	Wem hät er die nüw G'schicht erzählt?
+op	46050	Meierhof	1	Wem het er die nuw Gschicht vrzellt?
+op	46051	Camana	1	Wemm het är diä nöw Gschicht erzellt?
+op	46055	Nufenen	1	Wem het är dia nü Gschicht ärzellt?
+op	46059	Fanas	1	Wem hed'r die nü G'schicht ärzellt?
+op	46070	Mathon	1	Wem håtr die nui Gschicht drzöllt?
+op	46071	Galtür	1	Wöm hoat er die neui Gschicht varzöllt?
+op	46073	Felsberg	1	Wem hät er dia neu Gschicht erzählt?
+op	46079	Fideris	1	Wäm hed-er di nü G’schicht azellt?
+op	4608	Alt Stahnsdorf	1	Wem hat ha die neie Geschichte verzellt?
+op	46083	Klosters	1	Wäm hedr di nü Gschichti ärzällt?
+op	46101	Wiesen	1	Wäm het er die nü Gschicht erzällt.
+op	46104	Am Bach	1	Wem hed'r dia nüw Gschicht erzellt?
+op	46115	Lauenen	1	Wäm hät er di nüwi Gschecht erzällt?
+op	46118	Stiegelschwand	1	Wäm het er di nüwi Gschicht erzellt?
+op	46119	Fieschertal	1	Weläm hett är die niw Gschicht erzellt?
+op	46127	Bitsch	1	Welem het dr die niw Gschicht erzeut.
+op	46129	Agarn	1	Wälum hättr di nibi Gschicht erzällt?
+op	46132	Hasel	1	Welum het är die niwi Gschicht erzellt?
+op	46142	Saas Grund	1	Wellum het är die niwi Gschicht erzellt?
+op	46143	Zwischbergen	1	Welum het är d'niw Gschicht ärzellt?
+op	46145	Zermatt	1	Welmu het er d’niw Gschicht erzelt
+op	-46146	Prettau (Predoi)	1	Wen hotta di noie Gschichte dozeilt.
+op	46157	Luttach (Lutago)	1	Wen hotta di noie gschichte dozölt?
+op	-46161	Hinterkirch (Graun)	1	Wöim hotr dia nui Gschicht drzalt.
+op	-46162	Rabenstein (Moos)	1	Wen hot er de nuie Gschichte derzölt?
+op	46170	Tschöfs (Ceves)	1	Wen hot er den die nuie Gschichte derzölt.
+op	-46175	Pfunders (Fundres)	1	Wen hatt er die Gschichtö dozöhlt.
+op	-46181	Antholz (Anterselva Di Mezzo)	1	Wön otta die noie Gschichte dozölt?
+op	-46195	Schabs (Sciaves)	1	Wen ottaren dö noiö Gschichte derzölt?
+op	-46215	Pichl	1	Wein ot a denn di nou gschichte dozölt.
+op	-46217	Burgeis (Burgusio)	1	Weim hotr die nui Gschicht derzeilt.
+op	-46226	Kurzras (Corteraso)	1	Wem hot er die nue Gschicht derzöhlt.
+op	-46227	Katharinaberg (Santa Caterina)	1	Wem hot er die nue Gschicht derzöhlt?
+op	-46234	Vernuer (Vernurio)	1	Wen hot er die nua Gschichte erzöhlt.
+op	-46262	Stilfs (Stelvio)	1	Wem hot r di nui gschicht dr tsëlt.
+op	46267	Laas (Lasa)	1	wöm hötr di nui gschicht darzöhlt
+op	46283	Gargazon (Gargazzone)	1	Weim hotr di nuie gschicht erzeilt?
+op	-46293	Sankt Peter Hinter Lajen (San Pietr	1	Wem hot er epper di G'schichte erzöhlt.
+op	-46305	Sankt Walburg (Santa Valburga)	1	Weim hot er denn denuie Gschicht dertseilt?
+op	-46319	Wangen (Vanga)	1	Wem hot er den die nuia Gschicht drzöhlt?
+op	46324	Laurein (Lauregno)	1	Wen hot er di nui gschicht dorzöilt?
+op	-46340	Kaltern (Caldaro)	1	In wen atr di nuia Gschicht drzöhlt?
+op	-46344	Deutschnofen (Nova Ponente)	1	Wemm håt ēr dēi nui Gschicht drzēhlt?
+op	-46351	Altrei (Anterivo)	1	Wem hat er die nuia Gschicht darzöhlt.
+op	-46353	Salurn (Salorno)	1	In wén hot ear die nuie Gschicht darzölt.
+op	46361	Stefansdorf (Santo Stefano)	1	Win ottadönn die noiö Gschichtö dozöilt?
+op	46365	Lusern (Luserna)	1	Wem hot ar [d]arzehlt da neüge Geschicht?
+pq	46367	Ljetzan (Giazza)	1	ƀɛ́mɛ hàtər galḗrt .... náü̯ʒə .... (‚Geschichte’ fehlt)
+pq	46369	Lusern (Luserna)	1	ƀḕmə hā̀tər ɛ̀r kɔntā́t (oder: køt) də nɔ́i̯ə stɔ́rià?
+pq	46385	Nauders	1	Wem hatr denn dia nuia Gschicht drzöilt?
+pq	46386	Heiligkreuz	1	Wem hot ar die nuie Gschichte derzöhlt.
+pq	46391	Poppenbüll	1	Wem (gewöhnlich: wull) hedd he de nie Geschicht vertellt?
+pq	46407	Dahrenwurth	1	Kên hed he de ni'r Geschich verteld?
+pq	46420	Bergenhusen	1	Wull hett he de nier Geschigde vertellt?
+pq	46430	Owschlag	1	Wöll hett he denn de nie Geschichte vertellt?
+pq	46443	Holtsee	1	Wölk'n hed he de nie Geschicht vertellt.
+pq	46459	Pries	1	Wömm hett he de nie Geschich vertellt?
+pq	46481	Stakendorf	1	Wem har he de nie Geschicht vertellt?
+pq	46492	Behrensdorf (Ostsee)	1	Wenn hett he de nee Geschich vertellt?
+pq	465	Okunino	1	Wem hett hei die niech Geschicht vätellt?
+pq	46554	Sulsdorf	1	Wicken hätt he de nee Geschich vertellt.
+pq	46570	Staberdorf	1	Wik'ken hett he de ne Geschich vertellt.
+pq	46637	Alte Kirche	1	Wull hätt he de nie-e Geschichte vertellt?
+pq	46652	Sollerupfeld	1	Wem het he de nie Geschichte vertällt?
+pq	46666	Neuberend	1	Wer hed he de niee Geschichde vetelld?
+pq	46684	Zimmert	1	Wem hät he de nie Geschichte vertellt?
+pq	46687	Damp	1	Wer hett he de nie Geschichde vertellt?
+pq	46693	Westermarkelsdorf	1	Wer hett he de ne Geschich vertellt?
+pq	46784	Grossenwiehe	1	Wer hett he de nüe Geschichte vertellt?
+pq	46798	Estrup	1	Wer het he de nüe Geschichte (Vetellung) vetellt.
+pq	46806	Wippendorf	1	Weer hett he de niee Geschichte vertellt?
+pq	46823	Maasholm	1	Wer het em de ni Geschicht vertellt.
+pq	46924	Beken (Bækken)	1	Wer hätt he de nie Geschichte vötellt.
+pq	47139	Sandhatten	1	Wenn hätt he de nen(u?) Geschicht vatellt?
+pq	47154	Adelheide	1	Wenn hett he de nee Geschicht vertellt?
+pq	47171	Dreye	1	Wenn hett he de nehe Geschichte vertellt?
+pq	47183	Allerdorf	1	Wern hett he de nee Geschichte vertellt?
+pq	47189	Heerenland	1	Well het he de nee Geschichten vertellt.
+pq	47203	Steenfelde	1	Wel het hÿ de neije Geschichte vertelt?
+pq	47219	Lohe	1	Well hef hei die neie Geschichte vertellt?
+pq	47224	Burgfelde	1	Well hett he de nee Geschich vertellt?
+pq	47235	Moorhausen	1	Wenn hett he de ne'i Geschich vutellt?
+pq	4727	Klein Glien	1	Wäne hädd e de neie Geschichte vertöllt?
+pq	47370	Bardenfleth	1	Wen hett he de nee Geschichte vertellt?
+pq	4738	Niederwerbig	1	Wäm hät hä de neie Geschichte vertellt?
+pq	474	Kramarzyny	1	Wem hett hei dei nig Geschicht votellt? 
+pq	47402	Mittelbauer	1	Wärn het he de neeh Geschichte vohtellt?
+pq	47422	Neuenbülstedt	1	Wakeen hätt he de nuch/nee/nie Geschicht vertellt?
+pq	47447	Neermoor	1	Well het hee de neje Gesgigte vertellt.
+pq	47455	Remels	1	Wel het heÿ de neÿe Geschichte verteld?
+pq	47463	Petersfeld	1	Well hett he de neje Geschichte vortellt.
+pq	47470	Jaderbollenhagen	1	Wem hett he de ne'e Geschichte vertellt?
+pq	4749	Zülichendorf	1	Wäene hät hä die neue Geschichte vertellt.
+pq	47598	Offenwardenermoor	1	Wenn het se de nee Geschich vertellt?
+pq	4761	Schöneweide	1	Wen hett ä die ne(i)'e Jeschichte vertellt?
+pq	47612	Paddewisch	1	Kehn hätt he de nehe Geschicht verthellt?
+pq	47624	Ober-Ochtenhausen	1	Wo kehn hed he de neer Geschichte vertellt?
+pq	47650	Cirkwehrum	1	Wel het hij de neiste geschichte vertellt?
+pq	47657	Westerende-Holzloog	1	Well hett he de neej Geschicht vertellt?
+pq	47670	Wiesede	1	Wel het di de nee Geschicht vertellt?
+pq	47677	Neustadtgödens	1	Well hett he de nee Geschicht vertellt?
+pq	4770	Egsdorf	1	Wem het hä die neie Jeschichte verzellt?
+pq	4776	Birkholz	1	Wem hat ern die neie Jeschichte verzällt?
+pq	478	Pradzonka	1	Wähm hät hei dei nig Geschicht vätällt?
+pq	47840	Kükelühn	1	Ween hett he de nie Geschich vertellt.
+pq	47861	Siggeneben	1	wenn (wicker) hett he(i) de nie Geschich vertellt?
+pq	47863	Hedwigenkoog	1	Wakeen het he de niee Geschich vertellt?
+pq	47885	Edemannswisch	1	Woken hed he de nieh Geschichde vertelld?
+pq	4789	Briescht	1	Wem hat er die neia Geschichte verzellt?
+pq	47893	Oesterborstel	1	Wekehn hett he de nieder Geschich vertelld?
+pq	47907	Hamweddel	1	Wat von een hett he de nee Geschich vätellt?
+pq	47916	Warder	1	Wokeehn het hee de nee Geschichte vätellt?
+pq	47935	Klein Barkau	1	Wokeen hett he de nee Geschich vertellt?
+pq	47952	Mucheln	1	Wen het he de ne-i Geschich vertellt?
+pq	4800	Gross Briesen	1	Wem hat er die neue Geschichte verzällt?
+pq	48096	Grömitz	1	Wokeen hett de ni Geschicht vertellt?
+pq	48098	Friedrichskoog	1	W’keen hat he de niee Geschich vertellt?
+pq	48105	Barlteraltendeich	1	Wokehn hett he de niev Geschich vertellt?
+pq	48115	Holstenniendorf	1	Wokeen het he de nie Geschicht vertellt?
+pq	48126	Jahrsdorf	1	Wokeen hett he de nei Geschich vätellt?
+pq	4813	Klopot	1	Wam hot ha de neie Geschichte verßählt?
+pq	48141	Ehndorf	1	Wokehn hätt he de nie Geschichte vertellt?
+pq	48156	Gönnebek	1	Wokeen hett he de nee Geschich vertellt.
+pq	48164	Wöbs	1	Wokeen hätt he de nee Geschich vertellt?
+pq	48186	Süsel	1	Wokee'n hett he de nie Geschich' vertellt?
+pq	48233	Brunsbüttelerhafen	1	Wokeen hed he de ni'e Geschich vertellt?
+pq	48239	Brokdorf	1	Wem hett he de niee Geschichtn' vertellt?
+pq	4824	Radomicko	1	Wam hat er die neie Geschichte erzählt?
+pq	48240	Spiekeroog	1	Well hett he dat nee Vertellsel vertellt?
+pq	48242	Berensch	1	Keen hedd em de neer Geschichte vertellt?
+pq	48247	Altenbruch	1	Kehn hätt he de nee Geschichte vertällt?
+pq	48282	Norderney	1	Well hätt he de nee geschicht vertellt?
+pq	48283	Baltrum-Ostdorf	1	Wel het he de ne Geschicht vertellt.
+pq	48302	Misselwarden	1	W'keen hett de nee Geschichte vertellt?
+pq	4832	Radnica	1	Wam hot ha die neue Geschichte verzählt?
+pq	48324	Weissenmoor	1	Kehn het de Geschichte vertellt?
+pq	48342	Itzendorf	1	Wel het de ne geschicht vertelt.
+pq	48356	Arle	1	Well hett he de nej Geschicht vertellt?
+pq	48368	Stedesdorf	1	Well hett he de nee Geschicht vertellt?
+pq	48383	Wüppels	1	Well hett he de nee Geschicht vertellt?
+pq	48392	Langwarden	1	Well hétt hee den nēGeßgichte vertellt?
+pq	48401	Flögeln	1	Wokeen hett se de nee Geschichte vertellt?
+pq	48477	Iffens	1	Wen het he de nehe Geschichte vertellt?
+pq	48487	Blexen	1	Well hätt he de ne'e Geschichte vertellt?
+pq	48497	Altluneberg	1	Wokeen hett he de nee Geschichte vertellt?
+pq	48507	Hönau-Lindorf	1	Woken'n hett he de nee Geschichte vertellt.
+pq	48516	Graal-Müritz	1	Wekken hett hei dei ni Geschicht vertellt.
+qr	48522	Rerik	1	Wen'n hätt'e dei nieh Geschicht vertellt?
+qr	48532	Brodhagen	1	Wecken hätt hei dei nie'e Geschicht vertellt?
+qr	48550	Toitenwinkel	1	Wehn'n hett hei dei nih(j) Geschicht vöàtelld?
+qr	486	Niedamowo	1	Wehm hett hei dei nieg Geschicht vetellt?
+qr	48675	Strukdorf	1	Wokeen hätt se de nie Geschich vertellt?
+qr	48702	Sereetz	1	Weggern het he de ne Geschich vertelt?
+qr	48716	Gross Voigtshagen	1	Weggen hett hei dei nig Geschicht vétellt.
+qr	48726	Beckerwitz	1	Weggen het hei dei nige Geschicht vertellt?
+qr	48738	Steinhausen	1	Wän hett hei dei ni Geschicht vertellt?
+qr	48752	Berendshagen	1	Wehn hett he(i) de(i) nieg Geschicht vertellt?
+qr	48765	Wiendorf	1	Wecke'n hett hei dei nie Geschicht vetellt.
+qr	48790	Rethwisch	1	Wokeen hett he de neu Geschich vertellt?
+qr	48800	Lentföhrden	1	Wem'm het he de nej' Geschich vertellt?
+qr	48812	Todesfelde	1	Kein hett he de nie Geschich vertellt?
+qr	49022	Kleinboden	1	Weckein het hei dei nieh G'schicht vortellt?
+qr	49043	Campow	1	Wem har he de niee Geschicht vertellt?
+qr	49076	Nesow	1	Wäm'm het hei dei nie Geschichte vörtellt.
+qr	49090	Dalliendorf	1	Wecken hett hei dei nieg Geschicht vetellt?
+qr	49108	Neuhof	1	Wän het hei dei nige Geschichte vertält.
+qr	49122	Warnow	1	Weck'n hett hei dei nie Geschicht vetellt?
+qr	49140	Güstrow	1	Weggen hett he de ni Geschicht vertellt.
+qr	49146	Drochtersen	1	Keen hedd he de neie Geschichte vertellt?
+qr	49162	Gross Nordende	1	Wo kehn hät he de nie Geschichte vertellt?
+qr	49176	Quickborn	1	Wokehn hett he de nee Geschich vertellt.
+qr	49188	Jersbek	1	Wekkern hett he de nie Geschicht vertellt?
+qr	49311	Riekenbostel	1	Wen hett he de ne'e Geschichte vetellt?
+qr	49322	Brochdorf	1	Kern hett he de nee Geschicht vertellt?
+qr	49332	Bispingen	1	Keinen hett hei dei neie Geschicht vertellt?
+qr	49338	Wettenbostel	1	Kēn'n hett he de nee Geschichte vertellt?
+qr	49348	Seedorf	1	Kên'n hett hê dê nêe Geschichde vertelld?
+qr	49362	Stoetze	1	Wen hett he de nèie Geschichte vertellt?
+qr	49498	Dannenberg (Elbe)	1	Wen het he de nie Geschichte vertellt?
+qr	495	Jaroszewy	1	Wem heft hei dei nig Geschicht vetellt.
+qr	4950	Palck	1	Wam hutt a d'noi G'schicht dirrzauht.
+qr	49509	Breetz	1	Wöckern hat he de nei Geschicht vetellt.
+qr	49524	Laaslich	1	Wöckern hät he de neu Geschicht vertellt.
+qr	49534	Lübzow	1	Wekern het heh de nei Geschicht vertellt.
+qr	49551	Buchholz	1	Wökkern hätt he de nei G'schicht vertellt?
+qr	49562	Hetzwege	1	Wern hät he de nee Geschicht vertellt?
+qr	49569	Otter	1	Wokein hett hei dei neie Geschicht vertellt?
+qr	49579	Ollsen	1	Keinen het hei de neie Geschicht vertellt.
+qr	49587	Westergellersen	1	Kein? n' hät heî deî neîe Geschichte vertellt.
+qr	49605	Barskamp	1	Wem het he de nee Geschichte vertellt?
+qr	4965	Stare Kramsko	1	Wann hot a die neue Geschichte verzählt.
+qr	4968	Zodyn	1	Wam huat a die nueue Geschichte derzahlt?
+qr	49727	Wendhausen	1	Keen'n hätt he de nehe Geschicht vertellt?
+qr	49752	Jessenitz	1	Wecken het hei dei nie Geschicht vertellt?
+qr	49767	Glaisin	1	Wökken hett hei dei ni Geschicht vötellt?
+qr	49778	Neese	1	Wöken hett' hei dei nie Geschicht vetellt?
+qr	49794	Pampin	1	Weggen hett hei dei nie Geschicht vötellt?
+qr	4980	Tarnowa	1	Wahm hott a denn die neue Geschicht erzählt.
+qr	49802	Grabow	1	Wöcker'n het he de nei Geschicht vertellt.
+qr	49813	Wangersen	1	Wa ken'n hedd he de neer Geschichte vörtellt?
+qr	49821	Regesbostel	1	Wem hadd heeï deeï neeï' Geschichte vertellt?
+qr	49828	Tötensen	1	Keen het he de ne'e G'schicht verteelt?
+qr	49840	Lassrönne	1	Keen'n hätt he de nee Geschicht vertellt?
+qr	49857	Juliusburg	1	Wokein'n hätt hei dei nie Geschicht vertellt?
+qr	49881	Setzin	1	Wecken hett hei dei niehe Geschicht vertellt?
+qr	49898	Neuhof	1	Wecken hett hei dei nie Geschicht vötellt?
+qr	50010	Gresse	1	Wuk'n hĕt hei dei niäh(r) Geschichde vĕtellt?
+qr	50027	Moraas	1	Weggen hett hei dei nige Geschicht vertellt?
+qr	50058	Paarsch	1	Wekken het hei de ni Geschicht vetellt?
+qr	50068	Barkow	1	Weck'n het hei dei nie G'schicht vetellt?
+qr	50073	Schwinge	1	Keh'n hät he de nee' Geschich vertellt?
+qr	50087	Wisch	1	Kehn hett he de nei Geschicht vutellt?
+qr	50117	Ottensen	1	Wokeen hett he die nie Geschichte vartellt?
+qr	50130	Willinghusen	1	Wo keen héft he de nèe Geschich vertellt?
+qr	50142	Basthorst	1	Wegkein'n hätt hei dei nie Geschichd vertellt?
+qr	503	Szpegawsk	1	Wem heft hae dee niee Geschicht vertellt.
+qr	5031	Lugow	1	Wam hott er die neue Geschicht' nozählt?
+qr	50321	Lehmrade	1	Wokein hett hei dei nie Geschicht vertelld?
+qr	50332	Drönnewitz	1	Wekken het hei dei nij Geschicht vetellt?
+qr	50343	Gross Rogahn	1	Weck iern hätt hei dei nie Geschicht vörtellt?
+qr	50357	Kladow	1	Weck gen het hei dei nie Geschicht vertällt?
+qr	50365	Hohen Pritz	1	Wänen hütt hei dei nieh Geschicht fätellt?
+qr	50377	Jellen	1	Wecken hett hei dei nie Geschicht vertellt?
+qr	50385	Lübsee	1	Wecken hätt hei dei nie Geschicht vertellt?
+qr	50471	Bellin	1	Wem hett he de nig Geschicht vätellt?
+qr	50523	Retzow	1	Wecken hett hei dei nig Geschicht vertellt?
+qr	50538	Hohenbollentin	1	Wäm hätt hei dei nig Geschicht vätällt?
+qr	50552	Golchen	1	Weckan hät hei dei nieg Geschicht vertellt.
+qr	5056	Biala Wies	1	Wam huat a di neue Geschicht virrzahlt?
+qr	50567	Strippow	1	Wekkan hett hed nieg Geschicht vertellt?
+qr	50575	Rosenhagen	1	Wecken hätt hei dei nieg Geschicht vertällt?
+qr	50583	Siniechowo	1	Wem hätt hei dei nieh Geschichte vertellt?
+qr	50604	Drzewica	1	Wem hette dei ni Geschicht vötellt?
+qr	50622	Lisowo	1	Wäern hett hei dei nigg Geschicht vätählt.
+qr	50719	Lubin	1	Wem het hei dei ni Geschicht vatellt?
+qr	50765	Gross Ridsenow	1	Wekken hätt hei dei nie Geschicht vöatellt.
+qr	50779	Schlutow	1	Wähn'n hett hei dei nieg Geschicht vetällt?
+qr	50794	Seedorf	1	Weckgen het hei dei niech Geschicht vöätellt?
+qr	50805	Bentzin	1	Weiken het hei dei nieg Geschicht vertellt.
+qr	50818	Ranzin	1	Wem het hei dei nie Geschicht vöätelt?
+qr	50830	Lassan	1	Wecken het hei dei nieg' Geschicht vätellt?
+qr	50840	Sallenthin	1	Wenn hät hei dei nieg Geschicht vertällt?
+qr	50844	Miedzyzdroje	1	(Satz nicht vorhanden)
+qr	50850	Sieroslaw	1	Wem hät hei dei nie Geschicht vätellt?
+qr	50872	Bedzieszewo	1	Wem hät hei dei nieg Geschicht vertellt.
+qr	50892	Skalin	1	Wem hätt hei de nieg Geschicht vertellt?
+qr	5091	Boruja	1	Wam hot a die neue Geschicht' erzahlt.
+rs	50973	Koserow	1	Wem het hei de nie Geschicht vertellt?
+rs	50986	Trzesacz	1	Wemm hett hei de nee Geschicht vĕtellt?
+rs	51	Baerwalde	1	Wäm hät hei dei nig G'schicht vätällt.
+rs	51012	Hohen Wangelin	1	Wäggan hett hei dei nie Geschicht vertellt.
+rs	51030	Rittermannshagen	1	Wekken hett hei dei nie Geschicht vetellt?
+rs	51048	Tarnow	1	Wekken hed hei dei ni Geschicht vötelt.
+rs	51065	Trollenhagen	1	Weckan het he de nie Geschicht vatelt.
+rs	51081	Brohm	1	Weckan hett he de neh Geschicht vatellt?
+rs	51089	Eichhof	1	Wekkan hetta de nieg Jeschicht vötellt?
+rs	51098	Gegensee	1	Wecken'n het he de nieg' Jeschicht' vertellt?
+rs	511	Krasniewo	1	Wem heft he de niege Geschichtn vertellt?
+rs	51101	Drogoradz	1	Wem het he de nig Geschicht vertellt?
+rs	51112	Budzien	1	Wem hett he de nieg Geschicht vertellt.
+rs	51123	Krzywice	1	Werreä hett hai dai niej Geschicht vaoteält?
+rs	51135	Plantikow	1	Wemme hätt hei dei nig Geschicht vertellt?
+rs	51143	Kloster	1	Wecken hätt hei dei nige Geschicht vetellt?
+rs	51146	Wiek	1	Wen'n het hēi dēi niege Geschichdea vertellt?
+rs	51162	Nardevitz	1	Wecken hett hei dei nige Geschicht veötellt.
+rs	51170	Zingst	1	Weck'n hett hei dei nieg Geschicht vĕtellt?
+rs	51173	Wendisch Langendorf	1	Wecke(r)n het hei dei nige Geschicht ve(r)tellt?
+rs	51179	Wüstenei	1	Wen hett hei dei niege Geschicht vatellt?
+rs	51188	Saiser	1	Wecken hett hei dei niga Geschicht vötellt.
+rs	51191	Ahrenshoop	1	Wen hätt hei dei nieg Geschichte vöätelld?
+rs	5122	Gorzyca	1	Wem hot er die neie Geschicht erzählt.
+rs	51232	Neu-Reddevitz	1	Wem hett hei dei niege Geschicht fötellt.
+rs	51243	Langendamm	1	Wecken (wähn) hett hei dei nie Geschicht vöatellt?
+rs	51257	Redebas	1	Wekken hett hei dei nieg Geschicht vatellt?
+rs	51267	Pütte	1	Weggen hett hei dei niege Geschicht vertellt?
+rs	51277	Poseritz	1	Wēn'n hêt hei dei nīgê Gēschîcht vōtellt?
+rs	51288	Thiessow	1	Wekken hett hei dei nig (auch "nei" Geschichtt vertellt?
+rs	5130	Ransko	1	Wam hot a die neue Geschicht erzählt?
+rs	51346	Reppelin	1	Wecken hett hei dei nig Geschicht vetellt?
+rs	51355	Kavelsdorf	1	Wen het hei dei nige Geschicht vätellt.
+rs	51370	Müggenwalde	1	Wegg'n hett hei dei ni Geschicht vöatellt?
+rs	51387	Steffenshagen	1	Wekken hett hei dei nieg' Geschicht vötellt.
+rs	5139	Grudna	1	Wem hat er die neie Jeschichte erzählt?
+rs	51397	Vierow	1	Weckan hett hei dei nig Geschicht vöatellt?
+rs	51409	Karlshagen	1	Wem hät hei dei nieg Geschicht vertellt?
+rs	5141	Brody	1	Wam hot er die neue Geschichte erzählt?
+rs	51413	Trzebusz	1	Wem het hei dei nitsch Geschicht vatellt?
+rs	51539	Kisserow	1	Wecke het die dei nie Geschicht vötellt?
+rs	51549	Federow	1	Wecken hett hei dei nie Geschicht vetellt?
+rs	51561	Klein Vielen	1	Wem het hei dei nieg Geschicht vertellt?
+rs	51571	Holldorf	1	Wekkan hett he de nee Geschicht vertellt?
+rs	51584	Woldegk	1	Wekka'n het he de niech Jeschicht vertellt?
+rs	51598	Trebenow	1	Weckan hät't he de nie Geschicht vatellt?
+rs	51611	Rossow	1	Wekan hätta de nie Geschicht vatellt?
+rs	51624	Wawelnica	1	Wem het he de nie Geschicht fatellt?
+rs	51637	Bergland	1	Wem het he die nieg Geschicht vatelt.
+rs	51646	Dabrowica	1	Wemme het hei dei nieg Geschicht fetellt?
+rs	51661	Bobrowniki	1	Wemm hätt hei dei nig Geschicht vätellt?
+rs	51805	Grabow	1	Weggen het hei dei nie Geschicht vertählt?
+rs	51816	Lärz	1	Weggan hett hei dei nei Geschicht vetellt?
+rs	51832	Ahrensberg	1	Weckan hätt he de nie Geschicht vatellt?
+rs	51838	Hasselförde	1	Wäikan het he de ne Geschicht vötellt?
+rs	51850	Buchenhain	1	Weckan hätt he de nieg' Geschichte vertällt?
+rs	51866	Röpersdorf	1	Wem het he de ni Geschicht vertellt?
+rs	51877	Grünz	1	Wem hätt he de ni Geschicht (G wie J) vätellt? (ä wie Aest??)
+rs	51893	Pargow (Pargowo)	1	Wem hät he de nieg Geschicht vettellt.
+rs	51906	Zelislawiec	1	Wem hät he de nieg Geschicht vertellt?
+rs	51918	Slotnica	1	Wem' hätt he de nij Geschicht vĕtellt?
+rs	51934	Zukowo	1	Weimă het he de nieg Geschicht vetellt?
+rs	5203	Nekielka	1	Wem het he de Geschicht vetjahlt?
+rs	52064	Papenbruch	1	Wän hatt he de neie Geschichte vertellt.
+rs	52070	Wallitz	1	Wem hett he de neie Geschicht votällt?
+rs	52079	Menz	1	Wem hät er de neie Geschicht vetellt?
+rs	52086	Barsdorf	1	Wehn hät he de neie Geschicht votellt?
+rs	52095	Petersdorf	1	Wen hett he dr nië Geschicht veătellt.
+rs	5210	Skwierzyna	1	Wem hatt err'n d'neie Jeschichte erzählt?
+rs	52103	Flieth-Stegelitz	1	Wem hätt he de nie Geschicht vatellt?
+rs	52113	Passow	1	Wem hatta da nie Geschicht vatellt?
+rs	52129	Widuchowa	1	Wem hett he de nieg Geschicht vertellt?
+rs	52139	Banie	1	Wem hätt he de nieg Geschicht vertellt.
+rs	5214	Krobielewo	1	Wonn hot ha de neie Geschichte erzahlt?
+rs	52154	Obromino	1	Wem hett he' de nieg Geschicht verthellt?
+rs	52169	Brzezina	1	Wemm het he de nig' Geschicht vatellt?
+rs	52276	Bagicz	1	Wem hett hei dei nieg Geschicht vatellt?
+rs	52278	Lasin Koszalinski	1	Wähm hett hei dei nig Geschicht vòtellt.
+rs	52311	Sieciemin	1	Wem hett hei dei nig Geschicht vertellt?
+rs	52349	Pomysk Wielki	1	Wem hett hei dä niech Geschicht vertellt.
+rs	52359	Szymbark	1	Wem heft sei de nig Geschicht vetellt?
+rs	52374	Szklana Gora	1	Wim hätt hei de nie Geschicht vertellt.
+rs	52396	Skowarcz	1	Wem heft he de niege Geschichte vertelt?
+rs	52428	Oberlakendorf (Solnica Górna)	1	Wem heft he de nie Geschichte votellt?
+rs	52440	Deep (Czajcze)	1	Wem hett hei dei nie Geschiggt vatellt?
+rs	52463	Bialecino	1	Wem hätt hei dei nieg Geschicht vertält.
+rs	52478	Bronowo	1	Wem hät hei dei nie Geschicht vatällt?
+rs	52484	Reddies	1	Wem häd hei dä nie Geschicht vertellt?
+rs	52567	Pasewark	1	Wem haft he de nee Geschichte vertallt?
+rs	52578	Bad Rügenwalde	1	Wäm hett hei dei nig Geschicht vatellt?
+rs	5259	Prusim	1	Wem hot er die neie Geschichte erzählt?
+rs	52600	Radoslaw	1	Wem hät hei dei nieja Geschichte verthällt?
+rs	52700	Losino	1	Wem hät hei dei nie Geschicht vertellt?
+rs	5271	Przyborowko	1	Wam hot a die neue Geschichte erzählt?
+rs	52714	Labiszewo	1	Wem hät hei dei nie Geschicht vertällt?
+rs	52722	Karwen	1	Wem hät hei dei nie Geschicht vertellt?
+rs	52755	Heubude (Stogi)	1	Wem hewft he de nie Geschichte vertellt.
+rs	52762	Skowronki	1	Wem hefft he de nie Geschichte vatellt?
+rs	52766	Rowy	1	Wem hät hei dei nie Geschicht vert?llt?
+rs	52767	Machowinko	1	Wem hett hei dei Geschicht vatellt?
+st	5277	Gleboczek	1	Wem hätte hej dej nig Geschicht vertialt?
+st	52816	Hela	1	Wem had he de nige Geschicht vertellt.
+st	52819	Jaroslawiec	1	Wäm het hei dei nij Geschicht vatellt?
+st	52825	Krolowstrand (Królewice)	1	Wem hät hei dei nij Geschicht vetelt?
+st	52854	Drzezewo	1	Wem hett hei de ni Geschicht vĕtellt?
+st	52865	Niebedzino	1	Wem heft hei de niege Geschichte vertellt?
+st	52871	Dabrowka Wielka	1	Wem heft hei dei niege Geschichte vertellt?
+st	52881	Luzino	1	Wem heft r de nie Geschicht vertellt.
+st	52887	Pogorze	1	Wem haft he die neihe Geschicht vertelt?
+st	52896	Bialogora	1	Wem haet hei dei niegae Geschichtae vertellt?
+st	52905	Karwenbruch	1	Wem hewt he de nee Geschichte vertellt.
+st	5291	Gorki Noteckie	1	Wem het he de nie Geschicht' vertellt?
+st	52913	Wladyslawowo	1	Wem häft he de nihe Geschichte vertält?
+st	52915	Lebieniec	1	Wem haod hei de niege Geschichte vertaellt?
+st	52927	Zelazna	1	Wem hat hei d'niej'e Geschichte vertallt.
+st	52936	Tylowo	1	Wem heft heh deh nige Geschichte vertellt?
+st	5305	Rapin	1	Wäm hätt hä de nie Geschichte vertellt?
+st	5315	Pilka	1	Wem hät hä de nije Geschichte vertällt?
+st	5316	Rzecin	1	Weimo hette de nig Geschicht vetellt.
+st	532	Zulawka Sztumska	1	Wem hott er de Geschichte erzählt?
+st	5322	Tarnowko	1	Weimo hät sey dey nigg Geschicht vetjalt?
+st	5374	Groß Golle (Golaszewo)	1	Wäm hätt he de nigg' Geschicht vertält?
+st	5386	Lubicz	1	Wem hätt he de nieg Geschicht vetellt?
+st	5397	Slonow	1	Wem hät he de nie Geschicht' vetellt?
+st	5402	Huta Szklana	1	Weimŏ hett he de nieg Geshicht vetellt?
+st	5409	Marienbusch	1	Wem hätt he de nig Geschicht vätällt?
+st	5421	Ostrowki	1	Weime hätt he de nig Geschicht vetellt?
+st	54871	Neuarad (Aradu Nou)	1	Wem hot er die neichi G'schichte verzählt.
+st	54873	Bistritz (Bistriţa)	1	Wiëm håt e de nåe mēr (geschicht?) erzålt?
+st	54878	Arzis (Artsyz)	1	Wem hat'r die neie G'schicht verzehlt.
+st	54897	Wolfswinkel (Wilczy Kat)	1	Weäm hät he de nigg Gischicht vatält.
+st	549	Przecmino	1	Wem hätt hei dei niej Jeschicht vatellt?
+st	54901	Zarobka	1	Wen het hej dej nigg Geschicht vatellt
+st	54902	Brzozowka	1	Wäm häat he de nij jeschicht votäalt?
+st	54906	Brzezno	1	Wem hat hej dej nigg (g-j) Geschicht vatallt?
+st	54909	Zbojenko	1	Wem hat hej de nijch Geschicht vatelt.
+st	5491	Brzezno	1	Waima hät eh de nik Geschicht vertellt.
+st	54912	Siemiatkowo	1	Wem haet hè dè nich Jeschicht vataelt?
+st	54913	Sompolno	1	Wemo het hyj dyj nioj Jeschicht vetält.
+st	54914	Sächsisch Regen (Reghin)	1	Wiam haete de nai Geschicht erzellt.
+st	54915	Elek (Elek)	1	Wèn hădr ti nāi Kschichta trzeilt?
+st	54916	Freidorf bei Temeschwar	1	Wem hot’r die neii Gschich verzählt?
+st	54917	Sarata (Sarata)	1	Wéåm hat èr diå nei Gschǐcht vrzéhlt?
+st	54918	Scheindorf (Sâi)	1	Wem hat er t’nuje̬ k’schicht vorzählt?
+st	54919	Fünfkirchen	1	Wem hadə ti maiə kšihte fecēlt
+st	54921	Iklad	1	Wen hoda ti nàji Kschicht fuzlt?
+st	54922	Sanktanna (Sântana)	1	Wem hat er tés náie Ksiht fárzélt?
+st	54924	Martinsdorf (Metiş)	1	Wem hot e̊ de̊ nuai Geschicht erzåhlt.
+st	54926	Bentschek (Bencecu De Sus)	1	Wem hotr die neui Gschicht vrzählt?
+st	54929	Agnetheln (Agnita)	1	Wiam huete da no Geschicht erzolt.
+st	54930	Gottlob	1	Wem hat’r die nei Gschicht vrsählt
+st	54932	Klein-Schemlak (Semlacu Mic)	1	Wem hot er die neje Gschichte verzählt?
+st	54933	Sankt Andreas (Sânandrei)	1	W‘m had’r die neii Gschicht v’rzɑ̈hlt.
+st	54935	Neuwerbas (Novi Vrbas)	1	Hem hatər ti nei Ksicht(ə) fstselt.
+st	54937	Groß Scham/Freudenthal (Jamu Mare)	1	Wem hat’r die nei G’schicht verzählt?
+st	54938	Torschau (Savino Selo)	1	wêm̩ hođĕ̷r di nȧēi gϭixd fytèlt
+st	54939	Weprowatz (Kruščić)	1	Wem hotr di nae gsixd fertselt
+st	54941	Neue Weingärten (-)	1	Wem hat 'r die nei Gschicht verzehlt.
+st	54942	Seimeny (-)	1	Wem hat r die nei Gschicht verzehlt?
+st	54943	Neubeschenowa (Dudeştii Noi)	1	Wem hat’n die nei G’schicht v’rzehlt?
+st	-55055	Oborki	1	Wihem haet he de nigj Gjeschicht vataelt?
+st	-55064	Zale	1	Wiem hat he deim nieje Geschicht vertallt?
+st	-55066	Zuromin	1	Wem hat er die neue Geschichte erzàhlt?
+st	-55070	Grudusk	1	Wem hat er die neue Geschichte erzählt?
+st	-55072	Ostroleka	1	Für wen hat er die neue Geschichte erzählt?
+st	-55081	Ciechocinek	1	Wem hat hej dich nich Jeschicht votalt?
+st	-55091	Skepe	1	Wem hat he de nich Geschicht fatallt?
+st	55094	Gradzanowo Koscielne	1	Wem hat he de nij Jeschicht vertellt?
+st	-55096	Modelka	1	Wem hatt he de nich Geschecht vertalt?
+st	-55099	Makow Mazowiecki	1	Wenn hatto die nig Geschicht fatalt.
+st	55106	Susk	1	Wiem hat hei dei nich Jeschicht vatalt?
+st	-55107	Zawidz Koscielny	1	Wiem hat hei dei nich Geschicht vertalt?
+st	55109	Kondrajec Szlachecki	1	Wem hat he de nijje Jeschicht vertallt?
+st	-55110	Kicin	1	Wem hat he de niej Jeschicht vatellt.
+st	55111	Szostka	1	Wem hat er die neue Geschichte erzählt?
+st	-55113	Kujawka	1	Wenn hot er die neie Gschicht verzählt?
+st	55116	Osiek	1	Wekem het he de nig Geschicht vatält?
+st	-55117	Nowe Karwosieki	1	Wehen hat he en nij Geschicht vatallt.
+st	-55129	Lenie Male	1	Wem hät hij dat nich mähe vetalt.
+st	-55133	Meczenino	1	Far wem (To wem?) hat je di niei Jischichti fartelt?
+st	-55135	Dzierzaznia	1	Wem hat er die neie Jeschicht verzahlt?
+st	-55137	Konary	1	Wann hat he de nije Jeschicht vatallt?
+st	-55139	Kozy	1	Wem had he de nigg Geschicht vētjaalt?
+st	55140	Zglowiaczka	1	A: Wem hat er die neue Geschichte verzählt. B: Wem hat er die nei Gschicht varzählt?
+st	55163	Grabkowo	1	Wäm het he de niek Geschicht vertallt?
+st	-55164	Wieslawice	1	Wej hat die nij Geschicht vertält?
+st	-55166	Budy Borowickie	1	Wem hett he de nie Geschicht votellt?
+st	-55169	Orszymowo	1	Wekèhm hät hej dat nig Votälßel votält.
+st	-55171	Nowy Dwór Mazowiecki	1	Wem hat he de niej Jeschicht fatalt?
+st	-55173	Kozie Glowy	1	Wann hot a de neue Geschicht verzählt?
+st	-55177	Brdow	1	Wem hoat ea de neie Gschicht dezöllt.
+st	-55181	Psary	1	Wäm hett hēi dēi nüg Geschicht vätellt?
+st	-55187	Nowa Wies	1	Wem hat he de nij Jeschicht fatealt?
+st	-55189	Miszory	1	Wenn er had dei de nij Geschicht vatellt.
+st	5519	Berka v.d. Hainich	1	Wäm hätt är de noube Geschechten erzahlt?
+st	-55191	Secymin Polski	1	Wia hat dä nich Jeschicht vertahlt.
+st	55210	Niechcianow	1	Wem hat er die neue Geschichte erzählt.
+st	-55216	Kaptury	1	Wiem had hej de nij Jeschicht vateilt?
+st	-55218	Stare Miasto	1	Wahm hot ha die neie Geschicht verzählt?
+st	-55226	Tarnowka	1	Wem hat er die neie Geschichte erzählt?
+tu	-55238	Zychlin	1	Wem hat er die neie Geschicht verzehlt?
+tu	-55240	Kopojno	1	Wem hat er denn die neue Geschichte verzählt?
+tu	55244	Natalia	1	Wem hat er die neue Geschicht verzählt?
+tu	55252	Potrzaskow	1	Wem han er die neue Geschichte erzählt.
+tu	-55254	Szamow	1	Wem hat er die neie Gschicht verzählt?
+tu	-55258	Wierzchy	1	Wem hatr die neie Jeschicht verzehlt.
+tu	-55261	Gadowskie Holendry	1	Wem hot er die neue Geschichte erzählt?
+tu	-55262	Turek	1	Wem het er die neue Geschichte erzehlt?
+tu	-55266	Sarbice	1	Wem hät he de nik Jeschecht vetellt?
+tu	-55269	Zimne	1	Wem hette dei nig Geschicht vetällt?
+tu	-55270	Leczyca	1	Wem hett er die nei G'schicht verzehlt?
+tu	55271	Piatek	1	Wem hot er die nei Geschichte vorzählt?
+tu	-55300	Goliszew	1	Wem hat er die neie Geschicht erzählt?
+tu	55305	Poroze	1	Wam hott ha de noie Geschicht verzahlt?
+tu	-55306	Rzymsko	1	Wem hat er die neie Geschichte verzahlt?
+tu	-55308	Baldrzychow	1	Wem hat er die neue Geschichte verzählt.
+tu	55320	Sanie	1	Wän hat a die neie Geschichte azählt?
+tu	-55322	Marianow	1	Zu wem hat er die neue Geschichte verzählt?
+tu	-55326	Jozefow	1	Wam hot ham die nein Geschich erzählt.
+tu	55330	Morawki	1	Wen hed ej de neije Gschicht d?ild?
+tu	-55331	Rzepiszew	1	Wem hat er die neie Geschichte verzählt?
+tu	-55338	Justynow	1	Wem hat'r de neie Geschicht vrzählt?
+tu	-55344	Slomkow Suchy	1	Wem hot er de naie Gschicht vezählt?
+tu	-55349	Markowka	1	Wer hat e die neie Geschichte erzählt.
+tu	-55350	Rzgow	1	Wem hot er die nei Geschicht vorzählt.
+tu	-55354	Laznowska Wola	1	Wem hat er die neie Geschicht verzählt?
+tu	-55359	Kiebitztal (Kuznica)	1	Wem hat er die neiche G'schicht'n verzählt?
+tu	-55360	Ostrow	1	Wem hat er die neue Geschichte erzählt?
+tu	-55361	Wielka Wies	1	Wem hat er die neue Geschichte erzählt?
+tu	-55362	Suchcice	1	Zu wem hat er di eneu Geschicht verzählt?
+tu	-55363	Siemkowice	1	Wem hot er die nei G'schicht verzühlt.
+tu	-55365	Dobroslaw	1	Wenn hat er die neue Geschichte erzählt.
+tu	-55366	Belchatów	1	Wem hat r die neie Geschichte verzählt?
+tu	-55373	Luszczanowice	1	Wem hat er die neue Geschichte erzählt?
+tu	-55375	Ozarow	1	Wem hat er die neue Geschichte erzählt.
+tu	-55376	Jaworzno	1	Wem hab er die neie Geschiche 'verzählt?
+tu	-55377	Natolin	1	Wem het a die neue Geschichte erzahlt?
+tu	-55382	Czarny Las	1	Wemm hot er die neie Geschicht erzählt.
+tu	-55383	Huta Stara A	1	Wäm hot a de nei Geschichte verzählt.
+tu	55384	Myszkow	1	Wem hat er die neue Geschichte erzählt?
+tu	55387	Dabrowa Gornicza	1	Wem hat er die neue Geschichte erzählt?
+tu	-55389	Kwaczala	1	Wem hott er die nei G'schichte verzählt?
+tu	-55394	Freistadt (Fryštát)	1	Wem hat er die neue Geschiche erzählt?
+tu	-55408	Bistritz (Bystrice Nad Olsí)	1	Wem hat er die neue Geschichte erzählt?
+tu	-55411	Radziechowy	1	Weim hoat er die neie Geschicht derzoahlt.
+tu	-55415	Skomlin	1	Wem hat er di eneie Geschichte erzählt (verzöi(ä?)lt).
+tu	-55416	Kamesznica	1	Wen hot er d'naie G'schicht erzöhlt?
+tu	-55418	Schönwalde (Wrzosy)	1	Wäm hät he de nich Geschicht votält?
+tu	-55425	Wyszewo	1	Wäm hät hei dei niech Geschiecht vertellt.
+tu	-55522	Nojewo	1	Wem ht er den die neue Geschichte erzählt?
+tu	5717	Illeben	1	Warn hätt he die naube Geschechte erzaehlt.
+tu	573	Lykowo	1	Wäm het hei dei nîg Geschicht votellt?
+tu	5730	Gebesee	1	Waohn hädd a die neie Jeschichte arzaohlt?
+tu	5752	Thalborn	1	Wän hatte die neie Geschichtn erzählt?
+tu	5774	Nirmsdorf	1	Wän hattä de neie Jeschcihte ärzählt?
+tu	5810	Crölpa-Löbschütz	1	Wan hotte dneue Gschichte arzohlt?
+tu	5827	Krössuln	1	Wän hat'r de neie Geschichte erzählt?
+tu	584	Dunowo	1	Wäm hätt dei dei nig Geschicht värtellt.
+tu	5863	Michelwitz	1	Wan hat'r denn de neie Geschichte derziehlt?
+tu	5867	Hollenbach	1	Wahn hett ar ran die neuwe Geschichte erzahlt?
+tu	5875	Schlotheim	1	Wem hat er die näe Geschichte erzählt?
+tu	6074	Obertopfstedt	1	Wahn hätt'e [radierte Stelle, evtl. fehlt etwas] de nöe Geschechte erzahlt?
+tu	6089	Etzleben	1	Wän hätt hä de näie Ischichte erzahlt.
+tu	6105	Allerstedt	1	Wän hat ä die neie Geschichte erzahlt?
+tu	6116	Gleina	1	Wen het en de neie Geschichte erzehlt?
+tu	6129	Kleinkayna/Kleinkaina	1	Wehn hat e die neie Geschichte erzehlt?
+tu	6168	Rehbach	1	Wem hot er die neie Geschichte erzällt?
+tu	6171	Mengelrode	1	Wäm hätt hä die nigge Geschichte verzallt?
+tu	6185	Kirchworbis	1	Wahm hatte dann die neuwe Geschichte verzahlt.
+tu	6196	Grosswenden	1	Wähn hett a de neie Geschichte verzahlt.
+tu	6341	Auleben	1	Wähn hätte dann de neie Geschichte erzahlt?
+tu	6359	Hackpfüffel	1	Wän hätte d'näie Jeschichte erzehlt?
+tu	6371	Mittelhausen	1	Wahn hatt ä de neie Geschichte erzehlt?
+tu	6388	Stedten	1	Wen hatte de neie Geschichte erzehlt?
+tu	6400	Ammendorf	1	Wen hatte de neie Geschichte gesaat?
+tu	6418	Glesien	1	Wen hat er die neie Geschichte darzehlt?
+tu	6426	Zwinge	1	Wena hat hei dei nien Geschichta vertalt.
+tu	6472	Stolberg (Harz)	1	Wen hatte die neie Geschichte erzählt?
+tu	6577	Walkenried	1	Wān hett'e de neïjn Geschichtn verzahlt?
+tu	6593	Königerode	1	Wän hedd änn d'nee Geschichte ärzehld?
+tu	6610	Vatterode	1	Wen hatte da neie Geschichte erzehlt.
+tu	6630	Freist	1	Wem hatten die neie Geschichte erzehlt?
+tu	6656	Drehlitz	1	Wen hatte de neie Geschichte derzält?
+tu	6660	Möst	1	Wem holle er die neie Geschichte derzehlt.
+tu	6682	Ramsin	1	Wähn hatte denn de neie Geschichte erzehlt?
+tu	6690	Braunlage	1	Wem het hei dei nie Geschichte vertellt?
+tu	6705	Rieder	1	Wän hette'n de nie Geschichte vortellt?
+tu	6793	Riefensbeek	1	Wäne hät hei dä nie'e Geschichte vartellt?
+tu	6801	Neuwerk	1	Wen hätten dei niehe Geschichte vortellt?
+tu	6821	Aschersleben	1	Wem hät er de nien Geschichtn vertellt?
+tu	6831	Gröna	1	Wen hat e die neie Geschicht vorzehlt?
+tu	6848	Elsdorf	1	Wem  hat er die neie Geschichte erzellt?
+tu	688	Pregowo Zulawskie	1	Wem heft he denn de niege Geschichte vertellt?
+tu	6891	Danstedt	1	Weme hatte de niee Geschichte vortellt?
+tu	6960	Abbenrode	1	Wem hat hei de nie Geschichte vortellt?
+tu	6981	Emersleben	1	Wem hat hei deh nie Geschichte vortällt?
+tu	6995	Egeln	1	Wen had hei di nie Geschichte vertällt?
+tu	7007	Eickendorf	1	Wem hät hei de nüe Geschichte vertellt?
+tu	7022	Kämeritz	1	Wen hät er die neue Geschichte vertellt?
+tu	7033	Natho	1	Wen hätte die näa Geschichte vortellt?
+uv	7180	Liemehna	1	Wäm hatter de neie Geschichte terzellt?
+uv	7198	Röcknitz	1	Wem hatte denn die neie Jeschichte drzellt?
+uv	7212	Lausa	1	Wenn hat e denn de naue Geschichte derzellt?
+uv	7225	Kosilenzien	1	Wem hott'r de neie Geschichte derzählt.
+uv	7246	Kahla	1	Wem hat'r die neie Geschichte erzählt?
+uv	7253	Ruhland	1	Wem hat er die neie Cheschichte erzählt?
+uv	7263	Lauta	1	Wem hat er die neie Geschichte erzählt?
+uv	7363	Brösa	1	Wen hat er die neie Geschichte erzellt?
+uv	7371	Falkenberg	1	Wem hat er die neie Geschichte derzällt?
+uv	7384	Rosenfeld	1	Wen hat er die neie Geschichte erzellt?
+uv	7394	Wiederau	1	Wen hat er di neie Geschichte derzellt?
+uv	74	Gwiezdzin	1	Wem hät hei dei nig Jeschicht vatellt?
+uv	7412	Lugau	1	Wem hot er die neie Geschichte erzellt?
+uv	7427	Dollenchen	1	Wem hat a die neie Geschichte erzählt.
+uv	743	Rudki	1	Weim het he de nieg Geschicht vätellt?
+uv	7435	Petershain/Neupetershain	1	Wenn hat er die neie Geschichte erzählt?
+uv	748	Budy	1	Wem hätt he di nieg Geschicht vetällt?
+uv	7529	Schleesen	1	Wen hat er deh neie Geschichte erzehlt?
+uv	7546	Bleddin	1	Wem hat'e die neie Geschichte drzehlt?
+uv	7562	Klossa	1	Wem hatt'n de neie Geschichte erzellt?
+uv	7576	Werchau	1	Wen hatte de neie Jeschichte erzellt.
+uv	7586	Wendisch Drehna/Walddrehna	1	Wem hatt'nen de Neiigket erzellt?
+uv	7596	Schlabendorf	1	Wem hat er die neie Geschichte erzählt?
+uv	760	Zakrzewo	1	Wem hätt hei dei niegg Geschicht vatellt?
+uv	7688	Straach	1	Wem hät hä de ne-e Jeschichte vertellt?
+uv	769	Nowy Dwor	1	Wem hät hei dei nig Vatell vatellt?
+uv	7696	Rahnsdorf	1	Wen hat'r de neie Geschichte erzehlt.
+uv	7710	Rohrbeck	1	Wän hät'n hä de naie Geschichte vertellt?
+uv	7721	Wahlsdorf	1	Wän hätte die neie Geschichte vörtellt?
+uv	7732	Hohendorf	1	Wem hat hä di neine Jeschichte erzält?
+uv	7747	Treppendorf	1	Wem hat er die neie Geschichte verzählt?
+uv	7758	Sacrow	1	Wem at er die neie Gschichte verzählt?
+uv	7964	Zedtlitz	1	Wam hatr de naue Geschichte erziehlt.
+uv	7979	Hohnbach	1	Wan haot'r die naue Gschichte turrziält?
+uv	80004	Grindelwald	1	Wäm hed är die niww Gschicht erzelld?
+uv	80023	Bosco	1	Wam had-ar di new kšext fartsalt?
+uv	8011	Ziegra	1	Wam hott ar die naue Geschichte erzählt?
+uv	803	Lunawy Male	1	Wem het he de nüg Geschicht votällt?
+uv	8032	Rausslitz	1	Wam hoatt ern de naue Geschichte derzahlt?
+uv	8055	Coswig	1	Wam hat er die naue Geschichte darzahlt?
+uv	8075	Langebrück	1	Wām hottern di eneue Geschichte erzählt (d'rzählt)?
+uv	8092	Frankenthal	1	Wam hot er de neue Geschichte derzahlt?
+uv	821	Bukowiec	1	Wem hätt he de nig' Geschicht' vatellt.
+uv	8272	Fuchshain	1	Wäm hattr die neie Geschichtn drzällt?
+uv	8289	Nerchau	1	Wem hed der de neie Keschichde erzähld?
+uv	83	Charzykowy	1	Wäm hätt hoi dai nig Geschicht vatällt?
+uv	8305	Limbach	1	Wam hot ar die naue Geschichte erzeält?
+uv	8321	Mergendorf	1	Wäm had är de naue Geschichte erzählt?
+uv	8345	Rostig	1	Wam hatte di naue Gschichte drzählt?
+uv	8358	Steinborn	1	Wame hot er die noie Geschichte derzählt?
+uv	8368	Bernbruch	1	Wem hot ar die neue Geschichte arzählt?
+uv	8505	Dretschen	1	Wam hoat ar die neüe Geschichte terzahlt?
+uv	8519	Kittlitz	1	Wam hoat ah de neue G'schichte erzählt?
+uv	8532	Kunnerwitz	1	Wam hott a de neue Geschichte derziählt?
+uv	8546	Siekierczyn	1	Wam hoat a de neue Geschichte d’erzahlt?
+uv	8560	Wolbromow	1	Wam hot a di neu G'schicht drzahlt?
+uv	8574	Pieszkow	1	Wam hot a die neu Geschichte derzahlt?
+uv	8590	Prusice	1	Wamm hott a di neue Geschichte derzahlt?
+uv	8614	Ogonowice	1	Wam hot er die neue Geschichte erzählt?
+uv	8716	Förstgen	1	Wem hat er de neue Geschichte erzahlt?
+uv	8726	Ober Horka I	1	Wam hott a die neue Geschichte (v)erzahlt?
+uv	8736	Wegliniec	1	Wam hot a dii neue Gschichte derzahlt?
+uv	8740	Kierzno	1	Wān hoat er die neue Geschichte darzahlt?
+uv	8751	Szczytnica	1	Wann hot a di neue Gischichte derzahlt?
+uv	8762	Göllschau (Goliszów)	1	Wam hot a die neue G'schichte erzahlt?
+uv	8777	Bieniowice	1	Wam haut a di neue Geschichte derzahlt?
+uv	880	Strzeczona	1	Wem hätt hei dei nieg Geschicht vatellt?
+uv	8852	Klein Priebus	1	Wahm hotta de neue Geschichtn derzahlt?
+uv	8858	Okraglica	1	Wam hot ar die neue Geschichte darzahlt?
+uv	8865	Koberbrunn	1	Wam hot a de neue Geschichte derzahlt.
+uv	8870	Armadebrunn (Studzianka)	1	Wam hot a die neue Gschichte erzahlt?
+uv	8878	Trzmielow	1	Wenn het a dei neue G'schicht erziehlt?
+uv	8888	Skladowice	1	Wam hot a die neue Geschichte erzahlt.
+uv	895	Jelencz	1	Wäm hät hei dei nig Geschicht vetellt?
+uv	8972	Cantdorf	1	Wemm hat er die neie Geschichte erzellt?
+uv	8981	Eichwege	1	Wem hat er die neie Geschichte erzählt?
+uv	899	Iwiec	1	Wäm hät hai dei nig Geschicht vetelt.
+uv	8990	Jedrzychowice	1	Wam hotter die neue Geschichte erzahlt.
+uv	9000	Kunzendorf (Kunice)	1	Wahm hott ha die neue Geschichte derzahlt?
+uv	9015	Chichy	1	Wam hoat a de neue Geschichte derziählt?
+uv	9025	Przeclaw	1	Wahm hauht a d'neu G'schicht d'rzaot?
+uv	9036	Jakubow	1	Wam hauot a de neu G'schicht verzäalt?
+uv	9052	Rzeczyca	1	Wam hot a die nä Gschicht erzahlt?
+uv	906	Busnia	1	Wem hett he denn dat Nieg's vatellt?
+uv	9143	Mehlen	1	Wann hot er die neie Geschichte derzellt?
+uv	9152	Dluzek	1	Wām hot ar die neue Jeschichte erzāhlt?
+uv	9163	Bialowice	1	Wahm hot a dĭ neue Geschichte erzahlt?
+uv	9179	Broniszow	1	Wam hott a die neu G'schicht' derzahlt?
+uv	9193	Alt Tschau (Stare Żabno)	1	Wahm hot a d'neue G'schichte erzahlt?
+uv	920	Lisie Katy	1	Wäm hett he de nig Geschicht vertellt?
+uv	9200	Grochowice	1	Wām hoat a die noi Gschichte verziählt?
+uv	9207	Konradowo	1	Wam hôt ar die niä Gschicht erzahlt?
+uv	9274	Staakow	1	Weme hat er die neie Gschichte erzählt?
+uv	9280	Kaltenborn	1	Wam hod ar die neie Heschichte erzällt?
+uv	9288	Czeklin	1	Wam hot a die neue Geschichte erzählt?
+uv	930	Goczalki	1	Wem hat er die neie Jeschichte erzehlt?
+uv	9303	Lubiatow	1	Wam hott a di neue G'schichte dirrzählt?
+uv	9314	Zielona Gora	1	Wahm hott a di neue Geschichte erzahlt?
+uv	9323	Zabor	1	Wam hot a die neue G'schicht erzahlt?
+uv	9335	Ciosaniec	1	Wam hott a die neue G'schicht derziählt?
+vw	9400	Miloszyce	1	Wäm hott er die neue Geschichte erzählt.
+vw	9417	Prietzen	1	A wahm hoatta de neue Geschichte erzählt?
+vw	9433	Ujazd Gorny	1	Wam hot a d'neue Geschichte derzahlt?
+vw	9453	Lisowice	1	Wam haut a di neue Geschichte drzählt?
+vw	9558	Ligota Piekna	1	Wahm hatter die neue Geschichte erzaahlt?
+vw	9579	Jenkowice	1	Wam hat a de noie Geschichte erzahlt?
+vw	9592	Jemielna	1	Wem hat ahr die neue Geschichte erzählt?
+vw	9612	Prawikow	1	Wam hoat a die neue Geschichte arzahlt?
+vw	9622	Warzyna	1	Wam hoat a die neue Geschichte erzahlt?
+vw	9717	Domanowice	1	Wam hoat a die neue Geschichte derzahlt?
+vw	9739	Kamien	1	Wem hat er die neue Geschichte erzählt?
+vw	9760	Krzelow	1	Wam haut a de neue Geschichte derzahlt?
+vw	9775	Staszowice	1	Wam hoatt ar die die neue Geschichte erziáhlt?
+vw	9799	Lazy Wielkie	1	Wam haut 'r die neue Geschichte erzahlt?
+vw	983	Gromaden	1	Wämä hätt he de nig Geschicht vatellt?
+vw	984	Friedberg	1	Wäm hät hei dei nig Geschicht vätellt?
+vw	9848	Godnowa	1	Wam hoat ar die neue Geschichte erzāhlt?
+vw	9877	Chroscina	1	Wam hott a die nü Gschicht verzahlt.
+vw	9891	Gosciejewice	1	Wam hot er dei neue Geschichte erziehlt.
+vw	99	Trumiejki	1	Wem hätt he de nijj' Jeschicht vorrtellt?
+vw	990	Walownica	1	Wem hätt he de nig Geschicht vatällt?
+vw	9903	Sonnenfeld (Orpischewo)	1	Wam hat a die neue Geschichte derziält?
+vw	9919	Wierzowice Male	1	Wam haut e die neue Geschichte erzählt?
+vw	9926	Wodniki	1	Wam hoat a die neue Geschichte verzahlt?
+vw	994	Kabat	1	Wem hät he de nig Geschicht vatällt.
+vw	9984	Morkowo	1	Wam hot a die nä G'schicht erzahlt?
+vw	54872	Reval	1	An wen atter ti nöjer Ješichte hertsēlt?
+vw	52353	NA	1	Wem häd sei dei nieg Geschicht vertellt. 
+vw	30173	Ajoncourt	2	Et quios éti récontè l`nouvèle histōuere.
+vw	30197	Vaxy	2	Et tiasse que l'é récontait lé novelle histoére?
+vw	30214	Bénestroff	2	Et qui asse done qué réconté cette novêle histoere.
+vw	30225	Attilloncourt	2	E qui que lé racontè l'histoar.
+vw	30248	Bezange-La-Petite	2	è quiace quelè raconté lè novelle istōuĕre.
+vw	30254	Maizières-Lès-Vic	2	E qui a-ce qu'l'è raconté lè novèle istouère.
+vw	30268	Richeval	2	Cet qui os-ce que l'eu rocontai lai novèl histouaire
+vw	30285	Lommerange	2	A qui oi t-il racontai la nouvalle histoire.
+vw	30314	Argancy	2	Et quiâace quen l'eu reconté ceut' novelle histou-aire?
+vw	30325	Vernéville	2	È tioce qu'lé rècontèë lè nieuve histouère?
+vw	30351	Ancy-Sur-Moselle	2	Et tiosse que let récontet lé novelle histouère?
+vw	30361	Orny	2	é qui-os qué lé réconté le' novelle histoër.
+vw	30374	Hémilly	2	Et qui ace c li reconte let novel istoire.
+vw	30379	Champenay	2	Ä kios kil e räkontä lä nowell istoār.
+vw	30410	La Petite Lièpvre	2	Est qui et teï rècontait lè novelle histoire?
+vw	30421	Montreux-Vieux	2	É tiu askê lé récontê lê nouvelle histoire.
+vw	30429	Xhoffraix	2	A qui ati conte’l’hot??? ?
+vw	30436	Pont	2	A kî a-t-i raconté l'novèl istoir?
+vw	30058	Karkelbeck	3	Kam papaſakojo ta nauja Nuſidawima.
+vw	30068	Kinten	3	Kam jis tas(sic) nauja Nusidawima pasakojo?
+vw	30078	Rudienen	3	Kam jis ta naujaji Nuſidawima pàpáſàkojo?
+vw	30083	Kolleschen (Kolletzischken)	3	Kam jis ta nauje Nuſidewema papaſakoje
+vw	-54895	Warszawa	10	wę̄imən (ə mit i-Klang!) hǫd ę̄əR d̥i nājə gəšixdə də́rdsaild (ə́ mit o-Färbung!)?
+vw	9746	Kobyla Gora	10	Wemen hat er die neue Geſchichte derzeilt?
+vw	46572	Nebel	11	Tå hokkar hæ hi at nai Stak fortælt?
+vw	46636	Hooge	11	 Hoek heet hie jöe neij Geschichte veartealt?
+vw	46640	Wobbenbüll	11	Höm heet hie datt nai Staak verteelt?
+vw	46699	Horsbüll	11	Humm hie hi die neie Geſchichte vorthielt?
+vw	46759	Oland	11	Hook heet hi jö nei Geskichte vertellt.
+vw	46773	Mönkebüll	11	Hum het hem dat nei Thäl vertehlt?
+vw	46888	Archsum	11	Hokken hed‘ hi de nii Staatje fortellt?
+vw	47862	Helgoland	11	Wèlk hàtte de nāi GeśXichte vöēöēr snakket?
+vw	48241	Wangerooge	11	Wo he hie ju nie Geſchihte verteldt?
+vw	F002p	Hindeloopen	11	Waa het-er 1) dòt nīēje fetòlsel deend? (fetōld)
+vw	B079p	Zurich	11	Oan hwa hat hy dat nÿe teltsje forteld.
+vw	F036p	Oudemirdum	11	Oan wĭ́ hĕ̀st dŏ̀t nije fərhā́l fətĕ̀lt?
+vw	F003p	Woudsend	11	Dan wí hèt hei dèt nèije fèrhál fètelt.
+vw	B084p	Wommels	11	Oan hwa hat hij dat nije forhael firteld?
+vw	F013c	Oudehaske	11	Oan wîe hest dot nye ferhaal fe(r)teld.
+vw	B094p	Grou	11	(O'ən) (h)ʋa: hεt ər dɔt nεjə fərha:l/tεlsəl/tεltsjə dɩ̇'ən?
+vw	B024b	Wijns	11	Oən wa: hat ər dot neiə teltšə fətelt?
+vw	B099a	Opeinde	11	(Oan) hwa hat hy det nije forhael forteld?
+vw	B035a	Zwagerbosch	11	Oan wha hat hy dot neije ferhaal feteld?
+vw	B014p	Paesens	11	Wa het er dat nijs forteld?
+vw	G001b	Appelscha	11	An wie heir hij dat neie verhaal verteld?
+vw	46905	Westre	12	Wenn har han fortol denn nÿ Geschichte?
+vw	46914	Sophiental	12	NEU (Buchstaben korrigiert): Wen hĕr han fortōl den nÿ Histori.
+vw	46932	Sonderburg (Sønderborg)	12	Wĕn he han fortōl den nü Geʃchichte?
+vw	46938	Lysabbelholz (Lysabildskov)	12	Wer he fotael ham den nü Hestori?
+vw	46939	Toftum	12	Wen har ha' fortaaild den ny Histōri' tè?
+vw	46948	Hönning (Hønning)	12	Ven har han fortaal den nÿ Historre?
+vw	46957	Beftoft (Bevtoft)	12	Hven hæ han fortol den nye Historie?
+vw	46968	Norder Wilstrup (Nørre Vilstrup)	12	Wenn hær han faataaeld den nÿ Historrn te.
+vw	47006	List	12	Wem har han fortold den nye Hiʃtori.
+vw	47007	Jerpstedt (Hjerpsted)	12	Ven ha han fortol den ny Histori.
+vw	47016	Ellum	12	Ven har han fortoald den ny Historre?
+vw	47029	Kassöe/Kassö (Kassø)	12	Hven har han fortoeld den ny Historri.
+vw	47040	Feldstedtholz (Feldstedskov)	12	Hven hæ han fodtoeld den nyn Histori.
+vw	47048	Hagenberg (Havnbjerg)	12	Wenn hä han fortol den nü Histori?
+vw	47052	Hellwitt (Helved)	12	Hvem hæ han fortaald den ny Histori?
+vw	47057	Kamptrup (Kamtrup)	12	Wenn haar han faato-eld den nÿ Historrĕ?
+vw	47066	Grönnebeck/Grönnebek (Grønnebæk)	12	Wen ha hàn fotōl den ny Historre.
+vw	47073	Tyrstrup	12	Ven ha han faataae'l den nÿ Historre.
+vw	47078	Hvidding (Hviding)	12	Ven har han fortaael den nÿ Hi∫torre?
+vw	56471	Merzdorf	41	Komu jo wȯn to nowe hulizowaṅė huliziw?
+vw	56504	Burg	41	Komu je won to nowe powendanschko ssobu dschylił?
+vw	56507	Nochten	41	Komu da je tu nowu historiju powjedal.
+vw	56520	Luppa	41	Komu je nowu stawiznu powjedał?
+vw	56694	Widno	42	Komu on tę nową gohdkę powiehdohł?
+vw	56784	Zelistrzewo	42	Komuż on tę nowo geschichtę powiędęł?
+vw	56785	Jastarnia	42	Chto to nowó Chistorijo rospowiedol?
+vw	56799	Zalakowo	42	Komu on ta nowon chistorie powiedzial?
+wx	56805	Sianowska Huta	42	Komu on ma te nowu Powÿastke powedzoni.
+wx	56814	Rebiechowo	42	Komuż ón tę nowom jeszichtę powiedzioł?
+wx	56846	Piechowice	42	Komu on ta nową hystoria powiedzoł.
+wx	53478	Rombark	43	Komu on te nowe hystorie powiedziało.
+wx	53489	Rytel	43	Komu nowcy hystoriją opowiedal?
+wx	53514	Lubocien	43	Komu òn tę norę historye poriedział.
+wx	53521	Kamionka	43	Komu on te noweç hystoryię powiadał?
+wx	53535	Orzelek	43	komuż powiedział nową(?) hystoryą(?)?
+wx	53538	Szyroslaw	43	Komuź on tę mowę chystorię opowiadał?
+wx	53545	Pisanica	43	Komu on to nowó hÿstorÿą powieadał?
+wx	53567	Glinki	43	Komu on tę nową historyą opowiadał?
+wx	53571	Gruczno	43	Komu on ta nowa historya opowiadał?
+wx	53581	Slawianowo	43	Komu tę nową historyą opowiadał?
+wx	53602	Zoledowo	43	Komu on tę nową powiesc opowiadał?
+wx	53616	Wrocki	43	Komu on ta nowa chystoria opowiedział?
+wx	53620	Morzewo	43	Komu on tę nową historyą opowiadał?
+wx	53656	Bartosze	43	Komu ón tó nowó Historyią opowiedał.
+wx	53663	Kraplewo	43	Komu ón tą nową hystoryą powiedział?
+wx	53708	Pokrzydowo	43	Komu te nową chystoryję powiedział.
+wx	53710	Boleszyn	43	Komu opowiadał nową historyą?
+wx	53721	Nowy Swiat	43	Komu on tą nową hystoryą oppwiadał?
+wx	53745	Wapno	43	Kiedy opowied siał te nową hystoryją?
+wx	53756	Mamlicz	43	Komu on tą nową chistoryą opowiedział?
+wx	53760	Rojewo	43	Komu tę nową historyą opowiedział?
+wx	53771	Wiatrowo	43	Komu on tę nową powieść opowiadał?
+wx	53819	Galezewo	43	Komu on opowiadoł te nową historyą?
+wx	53822	Lojewo	43	Komu on opoviecział norą historją
+wx	53834	Bielawy	43	Komu opowiedzial nową historyą.
+wx	53859	Chludowo	43	Komu on te nowa historya opowiedział.
+wx	53872	Strzyzewo Koscielne	43	Komu on spowiodał tę nową historyą.
+wx	53877	Kamieniec	43	Komu tę nową historyą opowiedzĭał.
+wx	55537	Ceradz Koscielny	43	Komu on tę nową historyą opowiedział?
+wx	55565	Poznan	43	Komu on te nową godke powiadoł?
+wx	55569	Lowecin	43	Komu on nową powieść opowiadał?
+wx	55586	Mierzewo	43	Komu nową powieśé opowiadał?
+wx	55592	Dabrowka Wielkopolska	43	Komu on tę nową kistoryję opowiedział?
+wx	55593	Slupia	43	Komu on nową historją.
+wx	55621	Babin	43	Komu opowiadał tę nowa historyą? (to z darzenie)
+wx	55635	Tadeuszowo	43	Komu on powiadał te nowine?
+wx	55646	Gorazdowo	43	Komu on tę novą przygodę opoviadał?
+wx	55656	Sierakowo	43	Komu opowiadał tę nową historyą?
+wx	55688	Turew	43	Komu on tę nowinę opowiadał.
+wx	55701	Ludwinow	43	Komu opowiadał nową chistoryją?
+wx	55702	Radomierz	43	Komu opowiadał on tę novą historyą.
+wx	55720	Kotlin	43	Kto te nową historyją opowiedział.
+wx	55725	Gorzno	43	Komu on opowiedział tę nową chistoryą?
+wx	55729	Drzeczewo Pierwsze	43	Komu tę nową historyjkę opowiadał?
+wx	55733	Rusko	43	Kto novą historyą opowiedział?
+wx	55741	Brzezie	43	Komu on tę nową powiesċ opowiedział?
+wx	55782	Torzeniec	43	Komu on opowiadał tę nową przepowieść?
+wx	55794	Kuznica Slupska	43	Komu opowiedział tę nową historyą?
+wx	55803	Kuklinow	43	Komu? Te nową historyą opowiedział.
+wx	55828	Pomocno	43	Komu opoviadeł te novą poviastk? ?
+wx	55848	Uciechow	43	Komu opowiadał tę nową chistoryą?
+wx	55855	Przygodziczki	43	Komu on ten nową historyją opowiadał?
+wx	55859	Kaliszkowice Kaliskie	43	Komu opowiadał tę nowa historyę.
+wx	55878	Trebaczow	43	Komu to ta nowoł historyeł przepowiadoł.
+wx	55894	Greboszow	43	Komer ra nowo geśîchta powi?doł?
+wx	55900	Pawlowice Gorzowskie	43	Kómu on tam nową istoryją rozprawiauł.
+wx	55940	Skoraszewice	43	Komu on nową historyą powisdział.
+wx	55947	Kwiatkow	43	Komuż on novom (ą) historyą opowiedzèsł (iał).
+wx	55991	Zabrze	43	Komuź ta nowo historyjo rozprawioł.
+wx	56013	Radoszowy	43	Komuž on tę nową historyą rozprawiał.
+wx	56022	Budziska	43	Komuszto on ta nowa geszichta opowiadoł?
+wx	56027	Stanica	43	Komu to on tę nowę historia rozprawiał?
+wx	56041	Murcki	43	Komu on tan nową historię padoł?
+wx	56053	Wilkow	43	Komusz tan nową historyją rozprawioł?
+wx	56069	Dobieszowice	43	Komusz tę nową historyę rozprawiauł?
+wx	56077	Ujazd	43	Komuz ta nową bojka rozprawioł?
+wx	56086	Rzeczyce	43	Komusz ten ta nowot historia rosproiol?
+wx	56167	Staniszcze Male	43	Komuž łon ła nowo historyjka łozprawioł?
+wx	56190	Ligota Proszkowska	43	Komus łez ła nową historyję rozprawioł.
+wx	56205	Radonia	43	Komusz es ty  ta nowa Historyja osprawioł?
+wx	56237	Kotorz Wielki	43	Komuz to osprawił ta nowo historyja.
+wx	56247	Pawonkow	43	Komu on ta nową historyję oznajmił.
+wx	56252	Cieszowa	43	Komu on ta nową chistoryją opowiedział?
+wx	56257	Zieliniec	43	Kómós tan nową geeichtan przeliroł?
+wx	56269	Debiniec	43	Komŭ ten tam nową istóryją rosprawiau.
+wx	56274	Wedrynia	43	Komu on ta nową historyją pedział?
+wx	56338	Frydek	43	Komuz tą nową kistonejkę opowiadoƚ.
+wx	56349	Pielgrzymowice	43	Komuź on tą nową geszichtę opoviadoł.
+wx	56375	Nieboczowy	43	Kòmu ón tam nowòm historyom opowiedzał?
+wx	56381	Swierklany Dolne	43	Komu on tę nową Geszichta rozprowioł?
+wx	56539	Gieralcice	43	Komu tę nową historyikę rozpowiedział?
+wx	56549	Borki Wielkie	43	Komu tę nową nowinę rozprawiał?
+wx	56576	Kamien Slaski	43	Komu ta nowa historya mówił?
+wx	56580	Strzelce Opolskie	43	Komu nową hitoryją rozprawiał?
+wx	56600	Tarnowskie Góry	43	Komuž on ta nowa historya rosprawiał.
+wx	56650	Bujaków	43	Komu on tę nowę historyjkę opowiedsział?
+wx	56681	Suszec	43	Komuź nowę historyją rosprawił.
+wx	56761	Mgowo	43	Komu on to now chystoryie powiedział?
+wx	56850	Lekarty	43	Komu on te nową historyą powiadał?
+wx	56861	Lewald Wielki	43	Komu on te nowo powiastkie(?) powiedeeł?
+wx	56870	Januszkowo	43	Komu on tą nową ristorią poźedział?
+wx	56877	Zimna Woda	43	Komu on to nowine powiedźał?
+wx	56884	Roklas	43	Komu on to nowo rystoryio powiadał?
+wx	56897	Lipowiec	43	Komu on te nowo istorijo powiedźał
+wx	56903	Zawojki	43	Komu on to nozoo Przepczoi as ke powiedzał.
+wx	56916	Slawka Mala	43	Komu on to nowo przepowiactkl poszedzał?
+wx	56953	Baranowo	43	Komu on to nowo historio powiedzał.
+xy	56956	Macice	43	Komu on te nową historyą powiedział?
+xy	56963	Narzym	43	Komu on tą nową istorie poîedał?
+xy	56966	Napierki	43	Komu on to nowo historie powiedzał.
+xy	56975	Mierki	43	Komu on tą nową istorią poziediwał?
+xy	56979	Butryny	43	Komu on to nową hystorią poźealział.
+xy	56994	Jerutki	43	Komu on to nowo historią powiadał?
+xy	57047	Nowy Dwor	43	Komuz on tą powieść nową powiedział?
+xy	57066	Wysoki Grad	43	Komu on to nowo historio powiedział.
+xy	57070	Pogobie Srednie	43	Komu on to nowo rystoryjo pogiedział.
+xy	57074	Lipnicken (Lipniki)	43	Komu on to nowo historio powiedział.
+xy	-57081	Klebark Wielki	43	Komu tenową hystorią powiadzial?
+xy	57106	Rybno	43	Komu on to nowo historia powiedział?
+xy	57168	Saplaty	43	Komu on tą nową historyią powiadał?
+xy	57181	Krutyn	43	Komu to nowo pojastke pojeday.
+xy	57183	Zdory	43	Komuz to nowine powiedział?
+xy	57186	Ruda	43	Komu on to nowo ristorio pojedał?
+xy	57191	Dybowo	43	Komu on tą nową hystoriją poziedaƚ?
+xy	57203	Dlugosze	43	Komu on to nowo historią powiedział?
+xy	57219	Sulimy	43	Komus on tó nową Hystorijią powiedział?
+xy	57232	Wejdyki	43	Komu on to nowo historio powiadzioł?
+xy	57258	Wilkasy	43	Komu to nową rystorią powiedał?
+xy	57275	Czerwonka	43	Komu łon to nowó hystoryjs pożedoł
+xy	57298	Zastruzne	43	Komu on to nową przepowiastkię powiadał?
+xy	57304	Skomack Wielki	43	Komuz on to nowo powieść opowiedział?
+xy	57318	Kile	43	Komu on to nowo rzeoz powiedał?
+xy	57321	Prawdziska	43	Komu on to nowo baike powjadau.
+xy	57340	Mosina	43	Komu on te historyją opowiadoł?
+xy	57348	Bnin	43	Komu opuwiadoł (opuwiadał) tę nową historyją. 
+xy	57379	Binkowo	43	Komu on te nowom przepowioske opowiadoł.
+xy	57381	Kolniczki	43	Komu te nową historyją powiedzioł.
+xy	57394	Januszkowo	43	Komu won te nową przepowiazdkę powiadoł?
+xy	57406	Dabrowka Ludomska	43	Komu łon ta nowa historya opwwiadoł?
+xy	57407	Wiecanowo	43	Komu opowiedoł nowę chystoryę?
+xy	57397	NA	43	kumu powidział te nowum histonijum powiedział powiedzici?
+xy	55528	Słone	44	Komu tu novou novinu vypravoval?
+xy	56290	Groß Hoschütz (Velke Hostice)	44	Komu tu nowinu powěd̆al?
+xy	56344	Ellgoth-Hultschin (Ostrava-Lhotka)	44	Komu on ten nowy přjběh powěděl?
+xy	44317	Zell-Pfarre	45	Ktirom je hon ti nov basm pravov?
+xy	I125a	Heille	100	ŏăn wie hettie dằ nieuw vərōāl vərtelt
+xy	I140p	Axel	100	Aan wien èt ie dat nieuwe verhaal verteld?
+xy	I103p	Cadzand	100	An wien ei 'tie da nieuwe verhīāl versteld?
+xy	I110a	Slijkplaat	100	Ao wien è-t-ie da nieuwe verstelsel verteld?
+xy	I095p	Hoedekenskerke	100	an wīēn ei̯t n dat nieuwe verhaal verteld
+xy	I101p	Krabbendijke	100	An wên ei ie dat noêuwe verhal verteld?
+xy	I058p	Westkapelle	100	ằn wî́n eitən dằt ni^euwə verêl...of ằn wî́n eitən dằt ni^euwə vərtĕ̀lsəl ədê?
+xy	I062a	Serooskerke	100	an wien eiten dat nieuwe verhaal verteld
+xy	I048p	Colijnsplaat	100	an wīn ijtən dat nīwə vərhêl vərte̱lt?
+xy	I055p	Sint Annaland	100	An wie eiten dat nieuwe verhèl verteld
+xy	K173a	Kruisland	100	âôn wie eetie da nieuwe verhâôl verteld?
+xy	K155p	Zevenbergen	100	aŏn wie ēētie dằ nieuw vəraōl vərtelt
+xy	K162a	Oosteind	100	ōān wiĕj hĕĕtie dă niĕwə vərhōāl vərtelt?
+xy	I032p	Burgh-Haamstede	100	Wir ei dat nieuwe verael an vertèld
+xy	I031a	Scharendijke	100	An wie eit 'n dat nieuwe verael verteld?
+xy	I023p	Dirksland	100	an wie heit hie dat nieuwe verhael verteld
+xy	K086p	Zuid-Beijerland	100	aan wie het hij dat nieuwe verhāl verteld
+xy	K093p	'S-Gravendeel	100	An wies het-ie dat nieuwə vərhaaᵒl vərteld(t)?
+xy	K101a	Nieuwendijk	100	Aon wiens hettie dè nij verhaal vertelt?
+xy	I008p	Rockanje	100	An wie heit tie dat nieuwe verhaal verteld?
+xy	K042a	Vlaardingen	100	an wie ait ie dat nieuwe veraal verteld?
+xy	K012p	Ouderkerk Aan den Ijssel	100	Teuge wie heb hij dat nieuwe verhâol verteld
+xy	K022p	Willige Langerak	100	Aan wie heeft ie dat nieuwe verhaol verteld?
+xy	D005p	Den Haag	100	An wī hēftī dat nīu̯ə vərhāl vərtelt?
+xy	E179p	Zwammerdam	100	An wie het-ie dat nieuwe verhaal verteld?
+xy	E181p	Zegveld	100	ā́n (meer: ằn) wī́ hḗft hij dằt níəwə vərhā́l vərtĕ̀lt ?
+xy	E133p	Katwijk Aan Zee	100	Teugə oewī́s hâtḗ dằt nī́oews vərtĕ̀lt?
+xy	E138b	Abbenes	100	Wie het ie dat nieuwe verhaal verteld?
+xy	E147a	De Kwakel	100	Aan wie het ie dat nieuwe verhaal verteld?
+xy	E080a	Velsen	100	An wie heeft ie dat nieuwe farhaal farteld?
+xy	E086p	Zaandam	100	(An) wie heb ie dat nuuwe vurhâl verteld?
+xy	E041p	Egmond Aan Zee	100	An wie ep pie dat nieuwe verael verteld?
+xy	E047a	Stompetoren	100	An wie het ie dat nuwe verhaal verteld?
+xy	E010p	Sint Maarten	100	An wie hep (het) ie dat nuwe vertelsel dein?
+xy	E005p	Westerland	100	An wie het ie dat nuwe verhaal verteld.
+xy	A009p	De Waal	100	.'On wie heppie dòt neuwe nuwwe ferhaal ferteld?
+xy	K218p	Bladel	100	oan wiej heetie dè (hat) nuuw verhoal vertelt?
+xy	K214p	Lage Mierde	100	Aan wie heet ie dè nieuw verhaol verteld
+xy	K165p	Udenhout	100	On wie hittie da nij verhaol verteld
+xy	K104a	Herwijnen	100	Oan wie hèt tie da nei verhoal vertèld
+xy	K035p	Hei-En Boeicop	100	An wie he jij dat nieuwe verhaal verteld
+xy	E192p	Utrecht	100	An wie het tie dāt nieuwe verhââl verteld ?
+xy	E124p	Ankeveen	100	Aan wie het ie dat nieuwe bakkie verteld
+xy	E091p	Monnickendam	100	an wie aa(ie)tie dat nie(oe)ə vərhaal vərtelt
+xy	E058p	Hoorn	100	An wie heb ie dat nieuwe ferhaal ferteld
+xy	E031a	Oostwoud	100	ằn wī́ hĕ̀t ī́ dằt nū́wə vərhā́l vərtĕ̀lt?
+xy	E003a	Den Oever	100	teuge wie het ie et nieuwe verhaal verteld
+xy	Q095p	Maastricht	100	Tege wee heet er dat nuij verhaol verteld.
+xy	L281p	Borkel	100	Àn wie hee hijj dà nijj verhoal verteld
+xy	L226p	Woensel	100	ŏăn wiĕs hĕĕtie dĕ̀ nḕj vətelselkə gədŏăn
+xy	L177c	Middelrode	100	On wie hit ie dè nèj verhaol verteld
+xy	L093p	Lith	100	Oăn wie hĕetie dĕ̀ nḕj vərhoāl vərtelt
+xy	L003p	Maurik	100	an wi hε tjə dɑ nεiə vərhɔ:l vərtεlt
+xy	F165p	Amersfoort	100	An wie hĕ̀t ie dằt niewe verhṑl vertĕ̀lt?
+xy	F121p	Bunschoten-Spakenburg	100	an wee hethie dat nieuwe verhaal vurteld?
+xy	E040a	Venhuizen	100	An wie hèt hoi dat nuwe verhaal verteld?
+xy	E040p	Enkhuizen	100	an wie et ie dat nije veraal verteld
+xy	A001p	Midsland	100	An wi ehet hij dat neiës ve(r)teld
+xy	Q102p	Sint Antoniusbank	100	aan wēī hēīt er dat nuj verhaol vertèlt
+xy	L318p	Stramproy	100	Aan weem heet hai det noe vərhaol vərtèltj?
+xy	L288b	Laar	100	ā́n wḗm hḗt 'r dĕ̀t nŏ̀w verhā́l vərtĕ̀ltj.
+xy	L237p	Helmond	100	Aan wie hittie dè neij verhoal vertèld?
+yz	L157a	Oventje	100	Aon wies hit ie da nei veerhaol verteld?
+yz	L102p	Ravenstein	100	on wī hedə dà nēu̯ vərhaol verstelt?
+yz	L010p	Wageningen	100	Aowī hefə da niu̱ə vəhaol vətelt?
+yz	F170p	Barneveld	100	Wie het'ie dat nieje verhoal verteld?
+yz	F124p	Putten	100	an wie heet ie  dat nieə vərhaol vərtelt?
+yz	F077p	Urk	100	An wie et ij nijje ???? vertlsel verteld ?
+yz	B046a	Minnertsga	100	Oan hwa het hij dat nije forteltsje forteld?
+yz	L290p	Panningen	100	An wê hetī dat nēu̯ vərhaol vertelt?
+yz	L211p	Leunen	100	(án) wie het-ie dat nɪj verhaal verteld?
+yz	L116p	Beek	100	oăn wie hettie (di, de, hat) neĕjə fərhōāl fərtelt
+yz	L023p	Arnhem	100	Tegə wie het ie dằ nieuwə fərhoāl fərtelt?
+yz	F173p	Hoenderloo	100	An wi het i dat ni:ə verhò:l verteld?
+yz	F128p	Vierhouten	100	An wee hèf hie dat nieë verhaol verteld
+yz	F102p	Oldebroek	100	Wie hef 'e dat nije verhaol vertöld?
+yz	F079p	Ens	100	Teugen wie häf hij d't nieuwe verhoal verteld?
+yz	F052p	Kuinre	100	An wie et ĕ́j dat neiə vərhoal vertelt (dikke l)
+yz	B002p	Nes	100	Aan wien het hij dat nije verhaal verteld?
+yz	F207p	Drempt	100	an wie hef heej det neeje vehaal veteld
+yz	F179p	Zutphen	100	An wî hef u dat nieë (verhaal) vertelseltjen verteld.
+yz	F132p	Diepenveen	100	An wie heffe dat nieë verhaal veteld?
+yz	F106p	Windesheim	100	oan wie 'ef ie dat nie-e verhaal verteld?
+yz	F086p	Rouveen	100	àn wē hèf í'j dèt nèiə vərtèl 'ədṑnə?
+yz	F060p	Steenwijk	100	An wee ef ïj dat nïje verhael edeūn?
+yz	F021p	Oldeberkoop	100	An wie het hi-j dat ni-jje verheal veteld?
+yz	G279a	Zieuwent	100	wēēr hĕĕj ət neejə vərtelseltjṇ vərtelt
+yz	G246p	Lochem	100	we: hɛfə dat niejə vəʀha:l vətɛlt?
+yz	G197p	Holten	100	An wèl hèf e dat nieje smoesj^n vetèèlt?
+yz	G139a	Arriën	100	an wie hef hie dat vetêlt
+yz	G091d	Linde	100	wie hef hi-j det ni-je verhaal vertelt
+yz	G024p	Dwingeloo	100	An wie hef hi'j dat ni'je verhèl verteld?
+yz	C145p	Zevenhuizen	100	Aan wè̂l het hij dat neie verhoal vertè̂ld?
+yz	C063p	Oldehove	100	wèl het e dat neie verhoal verteld
+yz	C023a	Hornhuizen	100	Wèl hèt hai dat neiske vertèld?
+yz	G257p	Haaksbergen	100	an wee hef hee dat ni'je verhaal ve(r)teld
+yz	G173p	Almelo	100	An wee hef e dat nìeje verhaal verteld?
+yz	G094p	Gramsbergen	100	wel hef he dat ni-je verhaal verteld
+yz	G031p	Orvelte	100	Wee heef e dat neije verhaal verteld?
+yz	G007p	Rolde	100	An wel heuvə dat nie(ie)je verhoal vertelt
+yz	C148a	Glimmen	100	An wĕl hèt hai dàt neiə vərho̱al vərtêllt
+yz	C070a	Sint Annen	100	Aan wēl het he dat neie verhoal verteld.
+yz	C001b	'T Lage Van De Weg	100	wèl hèt e dat neie verhoal vertēld?
+yz	G079a	Amsterdamscheveld	100	an wie hèf hij dat neiə verhṑl vertelt
+yz	G058p	Emmen	100	An wel hef e dat neie verhaal verteld?
+yz	G012a	Nieuw-Buinen	100	wèl (h)et (h)ai dat neie ver(h)aol daon
+yz	C156p	Muntendam	100	Wèl edde dat nèje veroal vertèld
+yz	C081p	Weiwerd	100	Tan mèh (h)èt (h)ai dat neie vertèlsel (ver(h)ó̄l) daun (verteld)?
+yz	C042p	Spijk	100	Wel hedde dat neie verhoal verteld?
+yz	C165p	Bellingwolde	100	aan wêl het ai dat neie verhȯal vertêlt
+yz	G285p	Meddo	100	Ân wêe heffe dât ni-jje verhâal vertelt?
+yz	K189p	Essen	100	Wÿ (wie) eetÿ (eetie) da nĕŭw istorĭĕke verteld?
+yz	P133a	Terlanen	100	Aoën wij hèten t neut vertelselke verteld
+yz	K191p	Meerle	100	Aan wie heet hij het noew vertelsel verteld?
+yz	K234p	Wechelderzande	100	a:n wi: he: ha: da ni:fərha:l vərte̞lt
+yz	K305p	Olen	100	Wi:n hétəmətni:f vərtélsəltjən vərtèlt?
+yz	P025p	Aarschot	100	Bÿ an best[oe?]t ook vertreksel gewoonlj̈k als verk[leiwoord?] vertrekselke
+yz	P154p	Outgaarden	100	an wē̜ dït ər dē̜ nöüv istaurə vərte̜lt.
+yz	K196p	Poppel	100	tan wie heet ie 't nuw vertelsel (vertelseltje) verteld? somwÿlen: historieke
+yz	K241p	Retie	100	o win['?] heəi da nīfərte̜lsəl['?]jən vərte̜lt
+yz	K314a	Gompel	100	wī hēt hē̜ t nīf fərtẹlsəl'jə vərtẹlt?
+yz	P047p	Loksbergen	100	En wêj heej eŭm 't nief vertèlselke vertèld?
+yz	P174p	Velm	100	An weeë hee 't er't nief vertelselke verteld?
+yz	L353p	Eksel	100	Wie heet hij t nouw verteilselske verteild?
+yz	Q001p	Zonhoven	100	wiən ' e̜stər ənow vərtelsəl vortẹilt
+yz	Q079p	Guigoven	100	wiẹ he̜t ər də nọu̯ zô̜x vərtẹlt.
+yz	L360p	Bree	100	wɛˑ (wɛˑmə) hɛtər 't nuˑw vərtɛlsəlkə (geen ander woord - steeds diminutief) vərtɛltj
+yz	L417p	As	100	Wême he͡et-er t noi vertelsel verteld?
+yz	Q253p	Montzen	100	Wèm hat hèjǝ ǝt nöj vǝrtilsjǝ vǝrtōt
+yz	O009p	Gottem	100	Aan wiene hee d hie 't nief vertelsel verteld? (men zegt ook vertelselke en vertellingske.)
+yz	O182p	Volkegem	100	Tee'ën (An) wien eet-ie die nieuw vertèllinkske (nief fertèllinkske) vertèlt?
+yz	I163p	Oosteeklo	100	Awinə e:t e: tniu vərtælsəlkə vərtælt
+yz	I243p	Destelbergen	100	Wie heetere 't niew vertelselken verteld?
+yz	O112p	Elene	100	Wien eet ər 't nieuw vertelselke historeken verteld.
+yz	I261p	Appels	100	Wi-eter 't nief vertelchel verteldj.
+yz	O149p	Iddergem	100	uɛəaetərtnivfertəlsəlkənvərtəlt?
+yz	O275p	Herne	100	Wiēdǫǝdånȳrǫǝs'ǝlkǝvǝrtẹl't.
+yz	I178p	Beveren	100	An wie eet hei 't nuuf verteilseeken verteld.
+yz	I268a	Kalfort	100	tēɣǝ wii̯ ait ǝm da nȳf ǝrtelsǝl v[ǝr?]telt
+yz	O178a	Molenbeek-Saint-Jean	100	Wee(j) ei g et neut vertèlselke vertèld
+yz	P198p	Sint-Genesius-Rode	100	Uin wâ èten da neut vertelselke verteld.
+yz	55045/H051p	Wulpen	100	awi:nætə̃tni:wvərtæli:ŋkgə vərtæ:lt?
+yz	55005/N024p	Westvleteren	100	wĩ nætər 't niw vərtæliŋsxə æ zɛjt.
+yz	N116p	Loker	100	Wi: æ̈ tni:w vərtaliŋks̩ə vərtalt?
+yz	H016p	Oostende	100	a wi:n ætn da ni:w vərtæliŋgə vərtælt
+yz	55036/H061p	Koekelare	100	awiə:n e:tu da niəw vərtæliŋsxə vərtælt.
+yz	55022	Houthulst	100	aan wīen etten hi da nieuw vertellingske verteld.
+yz	N130p	Wervik	100	Wien ai 't do nieuues vertēl?
+yz	H005p	Uitkerke	100	An wien ee 't ie da(t) nieuw verteelingsje (verteelinksje) verteld?
+yz	55044/H068p	Loppem	100	a[n/ŋ?] wi:n ɛ:t ni da ni:w vərtældətjə vərtælt.
+yz	N041p	Pittem	100	ã we ē̜te tnīəw vərtäliŋskə vərtǟlt?
+yz	55023/N141p	Kortrijk	100	an win ē̜ti t niw vərtǟliŋkskə vərtǟl.
+yz	K245p	Deurne	100	Onwie eetəm ət nief fərtel[??]ltjə vertəlt?
+yz	K332p	Onze-Lieve-Vrouw-Waver	100	Oun wie hêt en 't nief vertélsel vertéld!
+yz	P018p	Kampenhout	100	Tege waai eit en da neuf vertelselke (of: ferneulleke) verteld?
+yz	47114	Aarö (Årø)	12	Venn hæe han faataaeld den ny Historre?
+yz	56462	Babow	41	Chtomu jo won to hulizowane huliziw?
+yz	53549	Zon	43	Komóź tę nową historyą opowiadał?
+yz	53561	Myslowice	43	Kumuz nowa historyja osprawiał.
+yz	43859	Schachendorf	46	Komu je novu povidaljku povidal?

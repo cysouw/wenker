@@ -1,0 +1,2499 @@
+Index	Bogennummer	REDE_Namen	Sprache	WS39::Transliteration WS39
+ab	10029	Ringhuscheid	1	Ganknömmen, dä brongen Hond det dir neust
+ab	10044	Malberg	1	Gieh nurmern, däh brauner Hund deht dir neißt
+ab	1009	Nowy Klukom	1	Gau ma, (geh man) de bruan Hund det die nüscht
+ab	1018	Lasko K Choszczna	1	Goa ma, de brun Hund det die nischt.
+ab	10215	Pantenburg	1	Ji nummen, dä braunen Hon däht dir neihst.
+ab	1023	Golin	1	Gah ma, de bruhn Hund deit die nist.
+ab	10230	Beuren	1	Jie dau, de braune Hund däht der neust.
+ab	10259	Mörsdorf	1	Jieh nimme fort, de braun Hond dieht der neist.
+ab	10275	Badenhard	1	Geh nure, de braun Hond dhot der neist.
+ab	1029	Niekursko	1	Gau ma, de bruo Hund det di nüschst.
+ab	10300	Welterod	1	Keh nor, d'r brau Hund dut d'r niks.
+ab	10315	Bleidenstadt	1	Gih nor, der brau(n) Hund dhut drr nicks.
+ab	10335	Espeler	1	Jank nimmer, dee brongen Hond deht dirr nahst.
+ab	1035	Stobno	1	Gau nu, der brua Hund dett die nüscht.
+ab	10351	Brandscheid	1	Gih nimmen, de brongen Hund deet dir neißt.
+ab	10368	Büdesheim	1	Gang nimmen, de brungen Hund det d'r neist.
+ab	10381	Waldkönigen	1	Jank nömmen, dä brounen Hond deht dr neußt.
+ab	1050	Krostkowo	1	Ge nu, dei brun Hund det di nüscht
+ab	10584	Kalenborn	1	Gang nimmen, der broaun Hound daäd dir neust
+ab	10601	Gappenach	1	Gieh numme, der braune Hond däd dir neist
+ab	10621	Rhens	1	Gih nore, de braune Hund dot dir nixt
+ab	10649	Attenhausen	1	Gih nor, de brau Hund dou dr nix
+ab	10663	Heringen	1	Gih nur, der brau Hond doud der naut
+ab	10690	Honsfeld	1	Jank nömen, de brune Hond deht derr nühst
+ab	10697	Dahlem	1	Gank nöme, de bronge Hond deit dir nüs
+ab	10709	Aremberg	1	Gang nömmer, der brong Hond deit dr neus
+ab	10736	Hohenleimbach	1	Jank nömme, dä braun Hond deht dr neust
+ab	10857	Hatzfeld (Eder)	1	Geh nor, der braunHund tut dir naut
+ab	10974	Haindorf	1	Gäh nöär, der bru Hoaind dot de nest
+ab	110	Rozpedziny	1	Goh nu de brun Hund deit di nuscht
+ab	11132	Schwarzwald	1	Giâ nur, dâr brune Hund thiât dich nischt
+ab	11149	Wipfra	1	Gi nur dar brune Hund titt dir nischt
+ab	11180	Remda	1	Gih nur, d'r braune Hund titt d'r nischt
+ab	11197	Zeutsch	1	Gieh nor, dar braune Hund thutt dir nischt
+ab	11212	Breitenhain	1	Gieh nur, dar braune Hond thutt d'r nischt
+ab	11230	Burkersdorf	1	Gieh nur, der braune Hund thut dir nischt
+ab	11252	Seelingstädt	1	Gieh när, der braune Hund thut dir nix
+ab	11262	Seebach	1	Gih nur, d brune Hund tüt dehi nischt
+ab	1133	Debenke	1	Ga, dei brün Hund det die nüscht
+ab	1139	Gliszcz	1	Ja nu, dai brun Hund deet di nüscht
+ab	11467	Boilstädt	1	Güeh nur, däe brune Hond thött düh nischt
+ab	11485	Ingersleben	1	Gi nur, dar brune Hond ded dir nischd
+ab	1150	Czarze	1	Goh ma de brun Hund deit di nuscht
+ab	11515	Gutendorf	1	Gänk nur d'r braune Hund tit d'r nischt
+ab	11539	Kleinschwabhausen	1	Gieh nur, d'r braune Hund ditt d'r nischt
+ab	11568	Thalbürgel	1	Gieh nur, der braune Hund thut dir nischt
+ab	1157	Bielczyny	1	Geh noo, der brau' Hund thuet dir nix
+ab	11586	Bad Köstritz	1	Gieh nor, dr braune Hund thutr nischt
+ab	11607	Lumpzig	1	Gih nor, dr braune Hund thut d'r nischt
+ab	1162	Sierakowo	1	Goh ma, dei brun Hund deid di nuscht
+ab	11645	Gleismuthhausen	1	Ge na, da brau Hund thutr nex
+ab	11673	Mitwitz	1	Geh na, de brau Hund thut de nechs
+ab	11763	Aub	1	Gia ner, der brauna Hund tut der nies
+ab	1178	Sokoliniec	1	Gau ma, de brua Hund de di nischt
+ab	11805	Seidmannsdorf	1	Giah nar, d'r brau Hund tut d'r nex
+ab	11825	Wallenfels	1	Gieh ne, de brau Huund thute nechs
+ab	11844	Neudorf	1	Gih ner, der braune Hound thutt dr nechs
+ab	11864	Draisendorf	1	Gih' nor, der braun Hund thut dur nix
+ab	11881	Sohl	1	Gäi niä, dr brau hud tout dr nix
+ab	11896	Sülzdorf	1	Geha nerr dar brau Hond thut dir nis
+ab	1192	Debsko	1	Jau ma, de brue Hund det die nischt
+ab	11927	Bachfeld	1	Gih när, där brau Hund thutt 'r nex
+ab	1197	Plociczno	1	Gau ma de bruan Hund deht die nüscht
+ab	1203	Nakielno	1	Gauh un, de brua Hunt tet di nischt
+ab	12037	Hildburghausen	1	Geh ner, d'r braune Hund tutt 'r nichts (x)
+ab	12070	Neuenbau	1	Gih nare, de(?)r brau Hund tutt'r necks
+ab	1208	Wissulke (Wiesiółka)	1	Gau ma, de bruä Hund ded di nüscht
+ab	12085	Grumbach	1	Geh nuar, dar braune Hund thutt dir nicks
+ab	12104	Frössen	1	Gih ner, d'r braune Hund thutt d'r necks
+ab	12125	Schwand	1	Gieh när, do braune Hund thutt'r nischt (auch nix)
+ab	12148	Kottengrün	1	Gieh ner, der braune Hud thut dr nix
+ab	1215	Paruszka	1	Gau nuh, dei brau Hund deht di nüscht
+ab	12153	Meiningen	1	Gäe när, dr braun Honn thut dr niss
+ab	12167	Altendambach	1	Gehä när, dör brong Hond tut dör niß
+ab	12184	Altenfeld	1	Geh nör, dar braun Huhnd tutt dir nis
+ab	12341	Rohrbach	1	Geh nur, där braune Hond thut dir neks
+ab	12371	St. Jacob bei Leutenberg	1	Gih ner, der braune Hund thutt d'r nicks
+ab	12390	Neundorf (bei Schleiz)	1	Gieh ner, d'r braune Hund daut d'r nix
+ab	12410	Ebersgrün	1	Gie ner, der braune Hund thut dar nischt
+ab	12428	Roitzschau/Rotschau	1	Gieh neer, der braune Hund thutr nischt
+ab	12496	Horsdorf	1	Geh ne, de brau' Hund thut De nechs
+ab	12529	Ködnitz	1	Gi no, de brau Hund thut da nechs
+ab	12556	Kornbach	1	Gih ner, der braun Hund thut der nix
+ab	12572	Habnith	1	Gäih nea, der brauna Hund (Hud) thout dia niks
+ab	12594	Uchenhofen	1	Gehrer dau brau Hund thutar nicks
+ab	12616	Reutersbrunn	1	Gieh ner, der brau Hund thut d'r nex
+ab	12656	Weismain	1	Gih nä hä, dä dä brau Hund thut dä nechs
+ab	1278	Insko	1	Goa ma, de brua Hund deht di nüscht
+ab	1287	Konotop	1	Gau ma, de brua Hund det di nischt
+ab	12876	Lohma	1	Gih nor, dar braune Hund thutter nischt
+ab	12898	Heiersdorf	1	Gih nor, dar braune Hund thut dir nischt
+ab	12921	Sachsenburg	1	Gieh norr, da brauna Hund tutta nischt
+ab	12942	Rothenfurth	1	Gieh nor, dar braune Hund dudd'r nischd
+ab	1296	Zabin	1	Gau ma, de braune Hund det die nischt
+ab	12969	Borlas	1	Gieh na, da braune Hund thätt er nischt
+ab	13005	Dohna	1	Gieh nuer d'r braune Hund thut d'r nischt
+ab	13019	Porschdorf	1	Geh nur, där braune Hund thut'r nischt
+ab	13047	Morgenröthe	1	Gieh när, d'r braune Hund thut d'r nischt
+ab	13054	Rittersgrün	1	Gieh när, där braune Hund thut der nischt
+ab	1315	Kamien	1	Ga ma, dei briun Hund det di nuscht (oder: det di ni wat)
+bc	13169	Saupersdorf	1	Gieh nur, dar braune Hund thut der nischt
+bc	13187	Kühnheide	1	Gieh nor, där braunä Hund thut dr nischt
+bc	13210	Himmelmühle	1	Gieh nur, dar brauna Hond thut dir nischt
+bc	13226	Rübenau	1	Gieh när där braune Hund thut der nischt
+bc	13269	Thurm	1	Gieh nur, der braune Hund thut d'r nischt
+bc	13286	Ursprung	1	Giah norr, dar braune Hund tottr nischt
+bc	133	Sosnowo	1	Joa ma, dei brun Hund det di nist
+bc	13317	Dittmannsdorf	1	Gieh nor, dar brauna Hund thut dar nischt
+bc	13340	Grosshartmannsdorf	1	Géh när, da brauna Hund dudd dia nischd
+bc	13355	Reichenau	1	Gieh ock, dar braune Hund tutt der nischt
+bc	13372	Liebenau	1	Gih ock, d'r braune Hund tutt dr nischt
+bc	1338	Dzidno	1	Gah nüu, dei brüen (?) Hund dajt di nuscht
+bc	13529	Wang-Brückenberg	1	Gih ock, d'r braune Hund tutt d'r nischt
+bc	13543	Pisarzowice	1	Gieh' oik, derr braune Hund tutter nischt
+bc	13559	Boguszow-Gorce	1	Gieh ock, der braune Hund tutt r nischt
+bc	13655	Niederleutersdorf/Leutersdorf	1	Gih ack, der braune Hund tutt der nischt
+bc	13678	Rohnau (-)	1	Gieh ock, dar braune Hund dudder nischt
+bc	13700	Rebiszow	1	Gieh ok, dir braune Hund thitt dirr nischt
+bc	13719	Siedlecin	1	Gieh og (für nur oder auch), därr braune Hund thitt derr nischt
+bc	13727	Myslow	1	Gih ock, d'r braune Hund thutt d'r nischt
+bc	13745	Jugowa	1	Gieh ock, der braune Hund thitt dir nischt
+bc	13830	Wlodowice	1	Gieh ock, dr braune Hund tutt dr nischt
+bc	13869	Biernacice	1	Gih ok, dar braune Hund thut dr nischte
+bc	13887	Rzymiany	1	Gieh och, dar braune Hund thutt dir nüscht
+bc	13898	Szadurczyce	1	Gih ockck, derr braune Hund tutt dirr nischt
+bc	13929	Stoszowice	1	Gieh ock, dar braune Hund tutt d'r nischt
+bc	13996	Lutomia Gorna	1	Gieh ock, der braune Hund tutt der nischt
+bc	14023	Roztocznik	1	Güh ock, dar braune Hund thut d'r nischt
+bc	1403	Dobieszewo	1	Ga ma, dei bruen Hund det di nischt
+bc	14034	Lipowa	1	Gieh ok, dr braune Hund thutt dr nischt
+bc	14074	Michalow	1	Gih ock, dä braune Hund thit dr nischt
+bc	14092	Karczow	1	Gieh nur, der braune Hund thut der nischt
+bc	14159	Jutrzyna	1	Gieh nur, der braune Hund thut der nischte
+bc	1417	Rydzewo	1	Goh ma, dei brun Hund deht di mißt
+bc	14234	Brzoza	1	Gieh ok, dir braune Hund thutt dir nischt
+bc	14250	Jaczkowice	1	Gih nur, der braune Hund thut der nischte
+bc	14275	Piastowice	1	Gieh nur, der braune Hund thut dir nischt
+bc	14305	Bozanow	1	Gieh nu, der braune Hund thut dir nischt
+bc	1432	Rzepowo	1	Gau ma de brua Hund det die nischt
+bc	14321	Rogow Sobocki	1	Gieh og, der braune Hund tutt'er nischt
+bc	14382	Wölfelsdorf (Wilkanów)	1	Geh och, der braune Hund thut dir nischt
+bc	1442	Lubowo	1	Gô ma, de brun Hund daet di nisst
+bc	14449	Thröm (Trebom)	1	Geh oits, derr braune Hond thutt derr nischt.
+bc	14458	Szczytna	1	Gieh og, dar braune Hund tut der nischt
+bc	14471	Jaszkowa Gorna	1	Gieh og, dr braune Hund thutt dr nischt
+bc	14486	Nadziejow	1	Gih nur, der braune Hund tut dir nichts(?)
+bc	145	Smardzko	1	Goah ma, dei bruun Hund deet di nist
+bc	14505	Piorunkowice	1	Gieh dohch dar braune Hund thutt der nischt
+bc	1451	Steinforth (Brodźce)	1	Goau ma, dei broun Hund deht di nischt
+bc	14537	Bielice	1	Geh och, dar braune Hund thut dir nischt
+bc	14560	Siemianowice Slaskie	1	Gih och, der braune Hund tut der nischte
+bc	1461	Wegorzewo Szczecineckie	1	Gau ma, dai bruen Hund deht di nischt
+bc	14613	Nohfelden	1	Geh nour, der braun Hound dut der neischt
+bc	14635	Erzweiler	1	Geh nore, der braune Hund dut deer nicks
+bc	14670	Nussbach	1	Geh nar, der braun Hund dudèrr nix
+bc	14693	Dannenfels	1	Geh nore, der brau Hund dut der nicks
+bc	14724	Monsheim	1	Geh nor, der braune Hund tut dir nicks
+bc	14752	Sankt Matthias	1	Gih noren de brounen Honnt duht der neist
+bc	14955	Bescheid	1	Ge nemmen, dä braunen Hund dät der näischt
+bc	14971	Allenbach	1	Geh nor, der braun Hond dout d'r neist
+bc	1499	Stara Rzeka	1	Goa nu, de brun Hund det die nuscht
+bc	14999	Berschweiler bei Kirn	1	Geh noure, der braun Hund tut der neist
+bc	15018	Bad Sobernheim	1	Geh nor, der braune Hund dut der nicks
+bc	15042	Neu-Bamberg	1	Geh nohre der braun Hund thuter nicks
+bc	15066	Bechtolsheim	1	Geh norsch, der brau Hond dutt der nicks
+bc	15088	Bollendorf	1	Gih numen, de braunen Hond däaht d'r neißt
+bc	15096	Preist	1	Ge nömmen, de braunen Hond dat der neischt
+bc	15118	Pohlbach	1	Gih nummen de braunen Hund dät dar ne ist (?)
+bc	15137	Kautenbach	1	Ge nore, da braune Hond dout da niks
+bc	15334	Kirchberg (Hunsrück)	1	Geh nor, dä braun Hund dhut dehr neist
+bc	15349	Ellern (Hunsrück)	1	Geh nor, dä braun Hund dhud d'r neueschd
+bc	1536	Heidlauken (Bugorki)	1	Joah man di brun Hund deiht di nuscht
+bc	15365	Bingen am Rhein	1	Geh nor, de braun Hund dhut der nicks
+bc	15394	Finthen	1	Geh nor, der braun Hund thut der nix
+bc	1540	Heinrichswalde	1	Gah man, de brune Hund deit di nuscht
+bc	15418	Schneeberg (Sněžník)	1	Geh ok weta, da braune Hund tut da nischt
+bc	15503	Zettel (Sedlo)	1	Gieh ok, der brau Hund tut dir nischt
+bc	1552	Pazuizen	1	Gah man, de brune Hund deit die nuscht
+bc	15538	Wisterschan (Bystřany)	1	Gieh ok, dar braune Hund mocht dar nischt
+bc	15550	Malschen (Malečov)	1	Gieh ok, dar brauna Hund mocht dar nischt
+bc	15638	Lukawetz (Lukavec)	1	Gie nar, dar braune Hund mocht dr nischt
+bc	1565	Gierver Lauken	1	Gah man, de brune Hund deit die nuscht
+bc	15681	Neudorf (Vrchběla)	1	Gie ock, dar brauna Hund tutt dr nischt
+bc	15685	Gastorf (Hoštka)	1	Gie ok, der braune Hund mocht d'r nischt
+bc	15690	Wegstädtl (Štětí)	1	Gieh ok, dr braune Heud tut dr nischt.
+bc	1571	Schmalleningken	1	Goah man, dä brune Hund deit di nuscht
+bc	15725	Nixdorf (Mikulášovice)	1	Gieh oko, dar brauno Hund tutr nischt
+bc	1573	Groß Dirschkeim (Donskoye)	1	Goh man de brun Hund deit die nuscht
+bc	15751	Rückersdorf (Dolní Řasnice)	1	Gi ok, dr braune hunt tut der nischt
+bc	1578	Rantau (Zaostrov'Ye)	1	Joa man, de brun Hund deiht di nuscht
+bc	158	Polczyn-Zdroj	1	Jah ma, dei brun Hund deet di nischt
+bc	1580	Schulstein (Vol'Noe)	1	Go man, de brun Hund deit di nuscht
+bc	15807	Kamnitz-Neudörfl (Kamenická Nová Ví	1	Gir hok, da braun Hund machta nischt
+bc	15824	Zwickau (Cvikov)	1	Gieh ok, dar braune Hund tutt dr nischt
+bc	15847	Christophsgrund (Kryštofova Údolí)	1	Gieh ok, dr braune Hund tut dr nischt
+bc	15858	Gränzendorf (Hraničá)	1	Gieh ock, dar braune Hund tútt'tr nischt
+bc	1588	Alt Susimilken (Tarassowka)	1	Go nu, de brune Hund deit die nuscht
+bc	15971	Puletschnei (Pulečný)	1	Gieh ock, dar braune Hund tutt dr nischt
+bc	15975	Graber (Kravaře)	1	Gie oka, dr brauna Hund mochtr nischt
+bc	15989	Thammühl (Staré Splavy)	1	Gieh ok, dar brauna Hund tutr nischt
+cd	15995	Proschwitz (Česká Proseč)	1	Gie ok, dar brauno Hund macht dr nischt
+cd	16007	Harrachsdorf (Harrachov)	1	Gieh ok, da braune Hond macht dr nischt
+cd	16015	Witkowitz (Vítkovice)	1	Gieh ok, də braunə Hund tutə nischt
+cd	16050	Forst (Fort)	1	Gieh ok, da brauna Hund tut do nischt
+cd	16063	Gabersdorf (Libeč)	1	Gieh ok der brauan Hund tut tr nischt
+cd	16083	Bodisch (Bohdašin)	1	Gieh ock, do braune Hund tut to nischt
+cd	16139	Zwitschin (Zvičina)	1	Gieok, da braune Hund tut dr nischt
+cd	16154	Großbock (Velká Bukovina)	1	Gieh ock, da braune Hund tut dr(?) nischt
+cd	16179	Schmiedeberg (Kovářská)	1	Gieh ner, dar brauna Hund tut dr nischt
+cd	1626	Tulpeningken (Zarečnoe)	1	Gah man, dä brune Hund deit die nuscht
+cd	16276	Waitzengrün (Loučná)	1	Gäi nu, d'braune Hund tout da niks
+cd	1628	Wisborienen (Livny)	1	Goa man, de brune Hund deit di nuscht
+cd	16298	Sittmesgrün (Mezirolí)	1	Gäih no, däa brauna Hund tout da nex
+cd	16322	Petersdorf (Petrov)	1	Gaih när der brauner Hund taut dir nex
+cd	16338	Podletitz (Podlesice)	1	Geh ner, der brauna Hund tut da nix
+cd	16442	Kropitz (Krapice)	1	Gäih nea, dea brauna Hund tout(a) neks
+cd	16470	Ebersfeld (Podlesi)	1	Göih ner zou, der braune Hund taut da negs
+cd	16491	Rabensgrün (Haje)	1	Göih noa, der brauna Hund tout dea negs
+cd	16523	Lintsch (Hlineč)	1	(Gea) Gaeh ma, dea brauna Hund tout da nix
+cd	1654	Postnicken (Zalivnoe)	1	Goh man, de brun Hund deit die nuscht
+cd	16602	Klotantschen (Kotaneč)	1	Gej no, der braunâ Hund tout da nix
+cd	16610	Tschernowitz (Černovice)	1	Geh ner, der braune Hund dutr nischt
+cd	16625	Hawran (Havraň)	1	Gieh ner, der braune Hund tutr nischt
+cd	16636	Liebshausen (Libčeves)	1	Gieh ner, dar braune Hund tut dr nischt
+cd	1664	Labagienen/Haffwinkel (Zalivino)	1	Ga man, de brune Hund deit die nuscht
+cd	16670	Priesen (Březno)	1	Ge mer, der braune Hund moacht dr nischt
+cd	16689	Libeschitz (Liběšice)	1	Geh ner der braune Hund tutar nix
+cd	16725	Leschkau (Ležky)	1	Gei na, da brauna Hund daid da nix
+cd	16739	Pschoblik (Pšovlky)	1	Geh na, der braune(r) Hund tut d(i)r nix
+cd	16751	Prag-Smichow (Smíchov)	1	Geh' nur, der braune Hund tut dir nichts
+cd	16755	Weißbach (Bílý Potok)	1	Gieh oach, da braune Hund tut'r nischt
+cd	16770	Schediwy (Šediviny)	1	Gie ok, do braune Hund tutt dr nischt
+cd	16775	Friedrichswald (Orlické Záhoří)	1	Gieh ok, dar braune Hund tutt dr nischt
+cd	16801	Böhmischdorf	1	Gieh och, dr braune Hond tut'r nischt
+cd	16814	Rokitnitz (Rokytnice)	1	Gih ok, dr braune Hund tut dr nischt
+cd	1683	Kreuzingen (Bol'Shakovo)	1	Gah man, de brune Hund deit di nuscht
+cd	16876	Nieder-Ullersdorf (Dolní Boříkovice	1	Gieh ma, da braune Hund tut'r nischt
+cd	16889	Heinzendorf (Hynčice Nad Moravou)	1	Gieh och, dar brauna Hont tutr nischt
+cd	16907	Karlsdorf	1	gêə-ox, dar brauna hunt tut-r nist
+cd	16932	Kuhberg	1	Geh och dar braune Hond tut dr nischt
+cd	16949	Rausen (Rusín)	1	Geh nur, dar braune Hond tut dir nischt
+cd	1698	Buttkuhnen (Pokrovskoe)	1	Goa man, de brüne Hund deit die nuscht
+cd	16991	Breitenau (Bretnová Široká Niva)	1	Gieh och, dar braune hond tut dr nischt
+cd	17012	Lobenstein (Úvalno)	1	Gieh och, dar braune Hond tut dr nischt
+cd	17029	Lohhäuser (Slatina)	1	Gäi no, dea brauna Hund teut da necks
+cd	17061	Deutsch Thomaschlag (Německé Domasl	1	Göih no zaah, dea brauna Hund tout da nex
+cd	17075	Polinken (Polínka)	1	Göi nua dea brauaa Hund tout da nix
+cd	1708	Baltruschatschen (Jakovlevo)	1	Goa man, de beunr Hund deut du nuscht
+cd	17138	Albersdorf (Písařova Vesce)	1	Gei no(a), dea'r brauna Hund tout dia'r necks
+cd	17151	Damnau	1	Gäih no, dea brauna Hund tout da neks
+cd	17174	Piwana (Piňovany)	1	Gäih nea, dea brauna Hund tout da nex
+cd	17178	Kottiken (Chotíkov)	1	Gei nea(r), dea(r) brauna Hund tout da nix
+cd	17244	Dianaberg (Diana)	1	Gäih no, də braunə Hund tout də neks
+cd	17266	Wiedlitz (Vidice)	1	Gäih nea, dea brauna Hund touta nex
+cd	17273	Honositz (Honezovice)	1	Gai nea, dea brauna Hund tout da neks
+cd	17281	Dobrzan (Dobřany)	1	Gaih ma, dea brauna Hund tout da nex
+cd	17306	Blisowa (Blížejov)	1	Gaeh nea, d'braune Hund tout da nex
+cd	17309	Hilbeten	1	No gih ner, dr brauna Hund mocht der nix
+cd	17325	Schönwald (Strážná)	1	Gieh ok, dr braune Hund tut dr nischt
+cd	1733	Rottenen (Raktino)	1	Goh man, de briun Hund deiht die nuscht
+cd	17374	Ober-Ullischen (Horní Olešná)	1	Giej och, dar brauna Hunjd tut dr nischt
+cd	17389	Bergstadt (Horní Město)	1	Gie ah, der brauna Huni büßt dich nie
+cd	1741	Pojerstieten (Kolodcy)	1	Goh nur, de brune Hund thuit dii nuscht
+cd	17433	Ranigsdorf (Linhartice)	1	Gie ner, dr brano Hund mocht'a nix
+cd	17442	Müglitz (Mohelnice)	1	Gih ner, der braune Hund macht nix
+cd	17460	Ribnik (Rybniček)	1	Gieh och, dar braune Hund tut dir nischt
+cd	17468	Stangendorf (Vendolí)	1	Gieh ner, dar brauna Hund tôut dr nix
+cd	1747	Beydritten (Pervomajskij)	1	Goa man, de brun Hund deit di nuscht
+cd	17504	Neu-Biela (Lavičné)	1	Gieh ner, dar brauna Hund mocht'r nix
+cd	17512	Schlettau (Slatina)	1	Gieh ner, d brane Hund mocht d nix
+cd	17520	Runarz	1	Gi ner, dar brauna Hund tut də nist
+cd	17521	Nebotein (Hnĕvotín)	1	Geji nu(a) de(a) praun(a) Hund mocht d(a) nix
+cd	17568	Tillendorf (Tylov)	1	Gi? oach, dar brauna Hund tutter nischt
+cd	1758	Brasdorf (Antonovka)	1	Go man, de brun Hund deiht di nuscht
+cd	17585	Mladetzko (Mladecko)	1	Geh och, dar brauna Hond tutt dr nischt
+cd	17643	Seibersdorf (Bělá)	1	Geh och, dä brauna Hund tut där nischt
+cd	17659	Bernhau (Barnov)	1	Geh och, dar braune Hund tut d'r nischt
+cd	17680	Klantendorf	1	Gieh ok, dar braue Hond tutdr nischt
+cd	17687	Engelswald (Mošnov)	1	Geh ôk, dar braunê Hond tutr nischt
+cd	17698	Nirklowitz (Mrsklesy)	1	Geh och, d'brauner Hund mochter nischt
+cd	17713	Punkendorf (Boňkov)	1	Geh och da braune Hund tut dr nischt 
+cd	1772	Groß Goldbach (Slavinsk)	1	Goa nur de brun Hund deit di e nuscht
+cd	17726	Halbendorf (Polouvsí)	1	Geh och, dar braune Hoand tut dir nischt
+cd	17737	Senftleben (Ženklava)	1	Geh ok, da braune Hongd tut dr nischt
+cd	-17739	Polanka Wielka	1	Geh nor, der brau Hund tut dir nix
+cd	-17744	Bulowice	1	Geh nur, der braune Hund macht dir nichts
+cd	-17746	Chocznia	1	Göi nur, der brauner (?) Hund mocht der nix
+cd	-17749	Alt-Bielitz (Stare Bielesko)	1	Gej ok, dar bröune Hund macht dir nist
+cd	17759	Linz (Mlýnec)	1	Gaih nea, dea brau Hund tout da nex
+cd	17782	Kohlheim (Uhliště)	1	Gei no, dea braune Hund tou da nix
+cd	17792	Čachrau (Čachrov)	1	Gej no, da braune Hund tout da nix
+cd	17801	Hurkental (Hůrka)	1	Geh nur, dea brauna Hund touta ninx
+cd	17824	Rotsaifen (Červená)	1	Geh nua, da braune Hund tuat da nix
+cd	17832	Winterberg (Vimberk)	1	Geh nua, da brauni Hund tut da nix
+cd	17843	Sehrlenz (Ždírec)	1	goj nu(a), de(a) prau hu(n)d tejut d(a) niks
+cd	17854	Irsching (Jiřín)	1	Geh nur der braune Hund tout da nix
+cd	17862	Hilbersdorf (Jihlava-Heroltice)	1	Gei nuə deə braunə hût mochtə goə nitt
+cd	17876	Sollowitz (Salavice)	1	Gejh nur, dr braune Hund mocht dr nix
+cd	17878	Stannern (Stonařov)	1	G?i nur, der braune Hund tout da nix
+cd	17881	Riegerschlag (Lodhéřov)	1	Geh' nur, dr brauni Hund tuit dr nicks
+de	17882	Wenkerschlag (Dolní Radouň)	1	Geh nu(a)r, dr braune Hund tuit dr nix
+de	17884	Buchen (Buk)	1	Geh nur dr brauni Hund tuit dr nix
+de	17895	Hosterschlag (Člunek)	1	Geh nur, dr brauni Hund tuit dr nix
+de	17898	Lipolz (Lipolec)	1	Geh' na, da braune Hund tuit dia nix
+de	17940	Czernowitz (Černovice)	1	Geh ner, dor prauna Hund mocht da nix
+de	17942	Gundrum (Komořany)	1	Geh nar, der prau Hond tuat tar nix
+de	17956	Prahlitz (Pravlov)	1	Geih ner, der braune Hund mocht da nix
+de	17961	Woikowitz (Vojkovice)	1	Gah nea, da braune Hund mocht da jo nix
+de	17967	Sub-Lechnitz (Lechnica)	1	Geh nur ter prauna Hund tut ter nicks
+de	17968	Topportz (Toporec)	1	Gej noat (?), der brauna Hond tit der nischt
+de	17972	Hobgard (Chmeľnica)	1	Djih nont, der braune Hond tit Der nischt
+de	17981	Neu Walddorf (Nová Lesná)	1	Gej nor, dr braone Hund tit der nischt
+de	17993	Durelsdorf (Tvarožná)	1	Gej nar, der braune Hund tit der nischt
+de	17999	Leutschau (Levoča)	1	Geih nar der braune Hund tit der nischt
+de	180	Galowo	1	Goah ma dei bruhn Hund deht di nießt
+de	18000	Zipser Neudorf (Spišská Nová Ves)	1	Gej ma, der braune Hund tit der nischt
+de	18001	Wagendrüssel (Nálepkovo)	1	Geh nound da braune Hound tita nischt
+de	18003	Göllnitz (Gelnica)	1	Geh nund, da praune Hund tit da nischt
+de	18004	Dobschau (Dobšiná)	1	Geh nor der braune Hund tut der nischt
+de	-18008	Schmöllnitz (Smolník)	1	Geh na, da praune Hunt ti to nischt
+de	18010	Metzenseifen (Medzev)	1	Geh non nüschst facht dich dei praune Hond tüta nüscht
+de	18013	Buchwald (Bučina)	1	Geh nua, da brauni Hund tuat da nix
+de	18018	Schattawa (Záton)	1	Geh nua o, da brau Hund tuat da nix
+de	18028	Zaborsch (Záhorí)	1	Geh nea, da brauni Hund tuad da nix
+de	18058	Hirschbergen (Hiršperky/Jeleni)	1	Gej nur, der brauni Hund tuat da nix
+de	18064	Honetschlag (Hodňov)	1	Geh ner, da brauni Hund tuat da nix
+de	18091	Kollerschlag	1	Geh na, da brau hund tuat da ninx
+de	18095	Sankt Thoma (Svatý Tomáš)	1	Geh nur, der braune Hund tuat da nix
+de	18101	Hohenfurth (Vyšší Brod)	1	Geh na, da brauni Hund tuat da nix
+de	18132	Hummeln (Homole)	1	Geh near, der brauni Hund tuat tâ nix
+de	18135	Rudolfstadt (Rudolfov)	1	Geh' ner, der brauni Hund tuat dr nix
+de	18144	Gross-Radischen	1	Geh na, der brauni Hund tuit da nix
+de	18188	Priethal (Prídolí)	1	Geh' nea(r), da brauni Hund tuat da niks
+de	18192	Gollnetschlag (Klení)	1	Geh n(a), d(r) brauni Hund tuat d(a) nix
+de	18210	Weissenbach (Vysné)	1	Geh ner! Der braune Hund tuat da nix
+de	18218	Langschwarza	1	Ge na, da braune Hund tuit da nix
+de	1829	Rudszen (Poltavskoe)	1	Goa man der brune Hund deit die nuscht
+de	18290	Unterwald	1	Geh na, da brauni Hund tuat da eh nix
+de	18296	Bad Grosspertholz	1	Geh na, da brauni Hund tuat da nix.
+de	18310	Oberstrahlbach	1	Geh' nur, der braune Hund tuat da nix
+de	18359	Waldkirchen	1	Geh nur, der braune Hund tuat da nix
+de	18364	Hafnerluden (Lubnice)	1	Geh nur, der braune Hund tuat dir nix
+de	18367	Schiltern (Štítary)	1	Geh ner, der braune Hund tuit dr jo nix
+de	18407	Töstitz (Těšetice)	1	Geh ner, da braüne Hund duit da nigs
+de	1842	Warupönen (Fëdorovka)	1	Ga man, de brune Hund deit die nuscht
+de	18432	Dietmanns	1	Ge ma, da brouni Hund tuat da nix
+de	18441	Schirmannsreith	1	Geh ma, da brauni Hund tuit da nix
+de	18454	Hofern	1	Geh nur der braune Hund tuit da nix
+de	185	Jelnia	1	Gau ma, dei brun Hund deit di nüscht
+de	18508	Gerstenfeld (Ječmeniště)	1	Geh nea, da braune Hund tuit da nix
+de	18525	Franzen	1	Ge na, da brauni Hund duad da nix
+de	18534	Rosenburg	1	Geh na, der braune Hund tuat da nix
+de	18554	Oberdürnbach	1	Geh no, da brauni Hund tuit da nix
+de	18559	Aspersdorf	1	Geh nau, der brauni Hund duid da nix
+de	18607	Damnitz (Damnice)	1	Geh ner, da braune Hund tuit da nix
+de	18627	Tracht (Strachotín)	1	Geh ner, tr praune Hund tuit tr nix
+de	18637	Saitz (Zajecí)	1	Gei nur, dr brare Hund tuit dr nix
+de	18642	Höflein an der Thaya (Hevlín)	1	Geh ner, da braune Hund tuat ta nix
+de	18672	Stützenhofen	1	Geh nid da brauni Hund tut da nix
+de	18686	Bernhardsthal	1	Geh nea, da brauna Hund tuit da nix
+de	18701	Pyhra	1	Geh na, da brauni Hund tuit da nix
+de	18707	Wilfersdorf	1	Geh ner, da braune Hund duad da nix
+de	18716	Palterndorf	1	Geh ma, da brauni Hund tuit da nix
+de	18753	Münchwies (Vrícko)	1	Gejh ne, da sabr brauna Hund tut dr nischt
+de	18759	Bettelsdorf (Solka)	1	Ge ne, dr prauna Hunt tut'r nischt
+de	18763	Oberstuben (Horná Stubna)	1	gê d? praun? hunt tat ŋ(?) nist
+de	18767	Krickerhäu (Handlová)	1	Geh nje, der brauna Hund tut dr nischt
+de	18773	Deutsch-Litta (Kopernica)	1	Gih ni, d'o brauna Haund taut dajir neix
+de	18774	Hochwiesen (Vel'Ké Pole)	1	Gih nj, da brauna Hund tut da nischt
+de	18786	Sankt Georgen bei Obernberg am Inn	1	Geh na, da braun Hund tuat da nix.
+de	18800	Hochburg	1	Geh nu dr brau hand tuat da nix
+de	18805	Pischelsdorf am Engelbach	1	Geh nu ?, de breund hudn tuet de nixö
+de	18846	Niederkappel	1	Geh na, da brauni hund tuat da nix.
+de	18855	Niederwaldkirchen	1	Geh na a, da brau- Hund tuat da eh ni[n/u?]x
+de	18902	Dorf an der Pram	1	Geh na, da brau Hund tuat da nix
+de	18910	Michaelnbach	1	Geh na an, da braun Hund tuat da nix
+de	18923	Alkoven	1	Láf, Dá breune hund tuát dá nix.
+de	1895	Königlich Damerau	1	Jo man de brun Hund deit die nuscht
+de	18984	Arnberg	1	Geh nua, da braui Hund tuat da nix
+de	18987	Rackering	1	Geh na, da brau(n) Hund tuat da nix
+de	19003	Pennewang	1	Geh na, da brau͠n hund tuat da nix.
+de	19011	Sipbachzell	1	Geh’ ná, da braune Hunt tuat da nix.
+de	1904	Pesseln	1	Gah man, dö bruhnè Hund deit dih nuscht
+de	19070	Reichenau im Mühlkreis	1	Geh na an(n), da brau(n) Hund duad da nix.
+de	19080	Gutau	1	Geh na, da brave Hund tuat da nix.
+de	19085	Hackstock	1	Geh na, da braune Hund tuat da nix
+de	19096	Traunstein	1	Geh' ma, da brauni Hund tuat da nix
+de	19138	Maria Laah	1	Ge nua, da braun Hund tuad da nix
+de	19144	Haag	1	Geh' na fur, da braune Hund tuat da nix
+de	19154	Amstetten	1	Geh nua, da brauni Hund tuat da nix
+de	19163	Wieselburg	1	Geh nur, da brauni Hund tuad da nix
+de	1919	Groß Gerlauken (Vjazovka)	1	Gah man, de brune Hund deit ti nuscht
+de	19225	Steyregg	1	Geh na, da braun Hund tuat da nix
+de	19233	Schwertberg	1	geh na, da braun hund duat da nixi
+de	1924	Pakallnischken (Suvorovo)	1	Goah man, de brune Hund deiht di nuscht
+de	19245	Bad Kreuzen	1	Geh' na, da brau Hund tuat da nix
+de	19257	Altenmarkt	1	Geh na, da brauni Hund tuat da nixi
+de	19301	Els	1	Geh nua, der brauni Hund tuat da e nix
+de	19311	Gneixendorf	1	Geh nu? d? branni Hund tuat da nix
+de	19322	Fels am Wagram	1	Geh nau, d'r braun Hund tuat da nix
+ef	19334	Oberhautzental	1	Ge nur da broune Hund tuat da nix
+ef	19401	Schönbühel an der Donau	1	Geh na, da braune Hunt tuat da nix
+ef	19404	Karlstetten	1	Geh nua, da brauni Hund tuat da nix
+ef	19419	Würmla	1	Geh nua, da braune Hund tuat da nix
+ef	19429	Ried am Riederberg	1	Geh nur, der braune Hund tuat da niks
+ef	19479	Mank	1	Ge nur, da brau Hund tuata nix
+ef	19486	Wilhelmsburg	1	Geh nua, da brauni Hund tuat da nix
+ef	19492	Stollberg-Siedlung	1	Geh no da brauni Hund tuat da nix
+ef	1953	Pillau	1	Go man, dee braun Hund deiht die nuscht
+ef	19541	Grub	1	Geh nua, da brauni Hund tuat da nix
+ef	1956	Patersort (Beregovoe)	1	Gâ man, dei bruhn Hund deit die nuscht
+ef	19564	Obergänserndorf	1	Geh no, da braune Hund tuit da nix
+ef	19607	Raggendorf	1	Geh no (franz. non), da brone Hund tuit da nix
+ef	1962	Bergau (Tzwetkowo)	1	Go man, de brun Hund deit di nuscht
+ef	19621	Stillfried an der March	1	Geh neaʳ, dəʳ brauni Hund tuit da nix
+ef	19640	Grünau (Grinava)	1	Ke ne(a), te(a) prauni Hund mocht t(a) nix
+ef	19642	20. Bezirk-Brigittenau	1	Geh nur, dös braune Hundsviech tuat da nix
+ef	19646	Raasdorf	1	Geh nua, da braune Hund tuat da nix
+ef	19657	Breitensee	1	Geh nur, der braune Hund tuat da nix
+ef	19659	Theben (Devín)	1	Geh nur, da braune Hund tuat da nix
+ef	19667	Biedermannsdorf	1	Awa geh, dea braune Hund tuat da nix
+ef	19674	Enzersdorf an der Fischa	1	Gehn nua, da brauni Hund tuat da nix
+ef	19696	Kittsee	1	Geh nua, dea brauni Hund thuat dia nix
+ef	19705	Mischdorf bei Pressburg (Nové Košar	1	Ke nea, ta prauni Hund tuit ta nix
+ef	19726	Rohrau	1	Geh nur, da braune Hund tuat da nix
+ef	19739	Thiersee	1	Geh, da brau Hund tuat da nix
+ef	19748	Achenwald	1	Gea na, da braune Hunt tuat da nix
+ef	1977	Fuchsberg (Semënovo)	1	Goa man, de brun Hund deit di nuscht
+ef	19775	Obertrum am See	1	Geh na, da brau' Hund duat da nixo
+ef	19787	Hochfeld	1	Geh na, da braun Hund tuat da nix
+ef	19823	Vorderfager	1	Geh na, da brau Hund tuat da nix
+ef	19851	Schwendt	1	Geah na, der brau Hund tuat der nix
+ef	19854	Waidring	1	Gah no, dea brau Hund tuet da nix
+ef	19859	Kuchl	1	Ge(h) nur, da braunö Hund tuat da nix
+ef	1987	Pregelswalde (-)	1	Go man, de brun Hund deit di nuscht
+ef	19886	Schörfling	1	Geh na, da bra?? Hund tüat da nix
+ef	19896	Gschwandt	1	Geh nur, der brauni Hund tuat da nixi
+ef	19901	Schlierbach	1	Geh na, da braunö hūnd dūad [vll. nur aus Faulheit Striche statt Kringel?] da nix.
+ef	19941	Sankt Gilgen	1	Gena, dea brau(n) Hund duad ta nig. 
+ef	19945	Ebensee	1	Geh na, da Hund tuat da nixi
+ef	19947	Steyrling	1	Geh na, da brauni Hund tuat de nix
+ef	19956	Bad Ischl	1	Geh scho(?)n, da brauni Hund tuat da nix
+ef	19965	Windischgarsten	1	Geh na, da brau Hund tuat da nix
+ef	19971	Bad Goisern	1	Geh' nu, da brau Hund de duat da nix
+ef	19977	Grundlsee	1	Geh na, da braun Hund tuat da nix
+ef	19993	Wörschachwald	1	Geh na, da braune Hund tuat da nix
+ef	20005	Trattenbach	1	Geh nur, da braun Hund tuat da nix
+ef	20008	Sulzbach	1	Za geh na, da braune Hund tuat da e nix
+ef	20019	Ybbsitz	1	Geh na, da brauni Hund tuat da nix
+ef	20023	Gaming	1	Geh nua, da brauni Hund tuat da nix
+ef	20046	Kleinreifling	1	Geh na, da brau n Hund tuat da nix!
+ef	20049	Mariazell	1	Geh na, da brauni Hund tuat da nix
+ef	20051	Neuhaus	1	Geh no, dea brauni Hund tuat da nix
+ef	20058	Lassing	1	Geh nur, da brauni Hund tuat da nix
+ef	20062	Ardning	1	Geh na, da brauni Hund tuat da nix
+ef	20065	Weng	1	Geh' na, da brauni Hund tuat da nix
+ef	20067	Lainbach	1	Geh na, da braune Hund tuat da nix
+ef	20069	Gollrad	1	Geh na, da brauni Hund tuat da nix
+ef	20077	Oberort	1	Geh nur, dr brauni Hund tuät dr nix
+ef	20090	Wext	1	Gang numen, dr bruun Hund tued dr nyd.
+ef	20099	Leer	1	Goh men, de brune Rüe döht die nix.
+ef	20110	Herbern	1	Goa man, de brune Rüh döt die niks
+ef	20117	Ringel	1	Gauh män, de brune Rühr döht die nix
+ef	20128	Hilter am Teutoburger Wald	1	Gah män, de brune Rür döt di nicks
+ef	20240	Bardel	1	Gao men to, de broene hond deut di niks
+ef	20248	Haddorf	1	Goa män, de brune Hund döt di niks
+ef	20259	Hörstel	1	Goah men, de brune Hund dät di niks
+ef	20269	Westerkappeln	1	Gah män, dei brune Rühn döt di niks
+ef	20283	Astrup	1	Gank nu, de brune Rüe döt die nicks
+ef	20346	Frensdorf	1	Ga man, de broene Hund det die niks
+ef	20350	Elbergen	1	Gah man, de brune Hund dhöt di nicks
+ef	20361	Setlage	1	Goh man, de brune Hunt döt di niks
+ef	20370	Merzen	1	Goh man, de brune Hund deit die nicks.
+ef	20381	Vörden	1	Goank man, de brune Hund döt di nicks
+ef	20384	Wielen	1	Goa nun, de brune Hund döt uw niks
+ef	20446	Hoogstede	1	Goa men hein, de brune hund döt dy niks
+ef	20454	Geeste	1	Ga͜oh man, de͜ï̊ brune Hund deit di niks.
+ef	20463	Dohren	1	Gaoh män, deh brune Hund düt die niks
+ef	20468	Renslage	1	Gaouh man tau, de brune Hund deit die nicks
+ef	20481	Dinklage	1	Gah man, dei brune Hunt deit dir niks
+ef	20543	Haren (Ems)	1	Gä man henn, de brune Hund daid di nix
+ef	20555	Hüven	1	Gah man, de brune Hund dait di nix
+ef	20562	Garen	1	Goah man tau, dei brune Hund deit di niks
+ef	20575	Sevelten	1	Gah man, de brune Hund deit di nichs
+ef	20589	Neudersum	1	Gaoh man, däi brune Hund dait die niks
+ef	20596	Neubörger	1	Ga man, de brune Hund deit di niks
+ef	20599	Neuarenberg	1	Gäh mann täu, däi brune Hund dait di nicks
+ef	20604	Garrel	1	Gah man, dey brune Hund deyt di niks
+ef	20638	Visbek	1	Gah man, de brune Hund deit di nicks
+ef	2067	Enskemen (-)	1	Goa man, de brune Hund deit di nuscht
+ef	20710	Wietzendorf	1	Gah man, dei brune Hund deiht di nicks
+ef	20734	Colonie Syke	1	Gah mann too, dee bruhne Hund deut dii nicks
+ef	20753	Magelsen	1	Gah man tou, dei brune Hund deit di nicks
+ef	20763	Nordkampen	1	Gah man, de braun Hund deid di nicks
+ef	20774	Vierde	1	Gah man tau, däi brune Hund deiht di nicks
+ef	20788	Schmarbeck	1	Gah man hen, dei brune Hund deiht dick nicks
+ef	20798	Brümsen	1	Gaoh män, de brune Hund deut di neks
+ef	2081	Eydtkau (Eydtkuhnen)	1	Jao man, de brune Hund deit die nuscht
+ef	20891	Dörpel	1	Gah mann de brune Hund deit die nicks
+ef	20901	Maasen	1	Gah man, de brune Hund deiht di nix
+fg	20917	Drakenburg	1	Gah man, dei brune Hund deit die nix
+fg	20920	Unterrodewald	1	Gah man, dei brune Hund deit die nix
+fg	20933	Thören	1	Gah man, dei brune Hund deiht dick nicks
+fg	20936	Hassel	1	Gah' man dei brune Hund deith dick nicks
+fg	20946	Scharnhorst	1	Gah man, dei brune Hund dard dick nicks
+fg	20948	Aschen	1	Gah man, de brune Hund deit Di nicks
+fg	21024	Burlage	1	Gah man, de brune Hund deit di niks
+fg	21033	Hoysinghausen	1	Gah man, deh brune Hund deiht dih nix
+fg	21045	Brokeloh	1	Gah nu, dei brune Hund deit die nix
+fg	21050	Empede	1	Gah man, de brune Hund deit dick nix
+fg	21065	Gailhof	1	Gah hen, dä brune Hund deit deck nixs
+fg	21074	Adelheidsdorf	1	Gah nur, de brune Hund daht dick nicks
+fg	21085	Nordburg	1	Ga man, de brune Hund daeit dick niks
+fg	211	Rodowo	1	Geh man, der braune Hund thutt dich nuscht
+fg	21105	Preussisch Ströhen	1	Goh nur, de brune Hund tut di nix
+fg	21190	Brockhausen	1	Goank man, da broune Rüe dhout di nix
+fg	21199	Isenstedt	1	G[oa verlängerter Strich darüber] man, de brune Rüe döut di niks.
+fg	21218	Wietersheim	1	Gah man, dei brune Hund deit die niks
+fg	21235	Hülshagen	1	Gohnt man hen dä brune Röhr daht die nicks
+fg	21252	Holtensen	1	Gah man, (henn), dei briune Tewe daht dek nix
+fg	2127	Klein Nuhr (Sukhodol'Ye)	1	Gàh man, dar (?) brune Hund deit die nuscht
+fg	21280	List	1	Gah mann, dä brune Hund deiht deck nicks
+fg	21295	Immensen	1	Gah man, dei brune Hund daht deck nicks
+fg	21305	Voigtholz-Ahlemissen	1	Ga nö, de brune Hund dait dick nickts
+fg	21316	Steinhagen	1	Gong men, de broune Rüe döüt die niks
+fg	21342	Krentruperhagen	1	Goank man, deu briune Rüe douit due(?) niks
+fg	2135	Skungirren (Pen'Ki)	1	Gao nu, dä brune Hund deit die nuscht
+fg	21355	Wendlinghausen	1	Gonk man, deu briune Rüe deut deui nicks
+fg	21362	Reher	1	Ga man, da brêune Hund deit dick nix
+fg	21384	Harderode	1	Gah man, deii briune Tiebe deuit dick nicks
+fg	21405	Rheden	1	Gah man, dä briune Hund deit dek nicks
+fg	21429	Nette	1	Gah man, de briune Hund deit deck nix
+fg	21446	Steinlah	1	Gae man, dei briune Hund dat dek nißt
+fg	2145	Kurschen (Kuz'Mino)	1	Gaoh man de brune Hund deit di nuscht
+fg	21455	Gross Schiplage	1	Gank man, de bruine Ruie doet di niks
+fg	2161	Kalnen (-)	1	Gah mann, de brune Hund deit die nuscht
+fg	21611	Schweicheln-Bermbeck	1	Gong nu, de brune Rühe deut die nichs.
+fg	21632	Veltheim	1	Gah man hen, de grote Rüe dut die niks
+fg	21666	Rohden	1	Go(a)hnt man, de briune Tewe daht deck nix
+fg	21679	Springe	1	Gah man, dei brune hund deiht deck nichts
+fg	21687	Vardegötzen	1	Gah man, de briune Hund deiht deck nicks
+fg	21707	Rautenberg	1	Gah man hin dei briune Hund daht deck nicks
+fg	2182	Soginten (Svirskoe)	1	Gao man, dä brune Hund deit di nuscht
+fg	21882	Bodenstedt	1	Gah näur dei bräune Hund deit dick niks
+fg	21902	Rautheim	1	Gah man, dä brune Hund deiht dick nißt
+fg	21936	Bartensleben	1	Gah man, de brune Hund deit dik nist
+fg	2200	Narmeln (Polski)	1	Goah man, de brune Hund deiht di nuscht
+fg	2204	Leysuhnen (Ščukino)	1	Goah man, de brun Hund deiht di nuscht
+fg	22044	Rottorf	1	Gah man, dä brune Hund deiht diek nist
+fg	22063	Hundisburg	1	Gah man, de brune Hund deiht dick nist
+fg	22074	Farsleben	1	Goah man, de brune Hund daht dick nisst
+fg	22083	Reesen	1	Joch man, de brune Hund deit di nischt
+fg	22092	Paplitz	1	Joch man der brune Hund deit die nüscht
+fg	22111	Wasbüttel	1	Gah nü, de brüne Hund dat dick nist
+fg	22149	Rätzlingen	1	Gah man, de brune Hund deit dick nist
+fg	2216	Hermsdorf (Pograničnyj)	1	Goh man, de brun Hund deit di nuscht
+fg	22172	Burgstall	1	Gah man, de brune Hund dät dai nischt
+fg	22222	Reislingen	1	Gah nu, dä brune Hund deit dik nist
+fg	22249	Roxförde	1	Goa nur, de brune Hund dät deie nist
+fg	2225	Moritten (Oktjabrskoe)	1	Goa man, de brun Hund deit di nuscht
+fg	22264	Grieben	1	Joa männ, de brune Hund deit däi nist
+fg	22276	Zabakuck	1	Goa män, deh brune Hund deiht di nüst
+fg	22375	Westerholz	1	Gah man, de brune Hund deiht dick nicks
+fg	22384	Tülau-Fahrenhorst	1	Geh man, de brune Hund deit dick nist
+fg	22394	Köbbelitz	1	Goh man, de brune Hund deit die nist
+fg	22407	Schenkenhorst	1	Goah man, dei brun Hund deit dei nist
+fg	2242	Naunienen	1	Go nu, dö brune Hund dohne die nuscht
+fg	22423	Querstedt	1	Joh men, de bruhn Hund daeht de nist
+fg	22443	Staffelde	1	Goh man, de brun Hund dät dei nist
+fg	22453	Grosswudicke	1	Goah man, där brune Hund deit die nist
+fg	22574	Masel	1	Gah man, dei brune Hund dait dick nicks
+fg	22581	Höddelsen	1	Gaoh man, de brün Hund deit dick nist
+fg	22599	Wöpel	1	Joh man, deh bruhn Hund deiht di nisst
+fg	22621	Molitz	1	Gouh man, de bruun Hund deit deei nist
+fg	22636	Rönnebeck	1	Gaoh männ, de brun Hund deit däi nist
+fg	22654	Iden	1	Goah man, de brun Hund deiht die nisst
+fg	22667	Kuhlhausen	1	Joah män, de brune Hund deit dei nist
+fg	22685	Proitze	1	Gah man, de brun 'und deit dick nix
+fg	22773	Holdenstedt	1	Gah man, daih brune Hund dat dick nicks
+fg	22796	Wustrow (Wendland)	1	Gah man, de brun Hund deit die niks
+fg	22810	Lomitz	1	Gah man, dei brun Hund deit di nicks
+fg	22819	Jeggel	1	Goah man, de brun Hund deiht di nix
+fg	22832	Gross Lüben	1	Goah män, de brun Hund bitt die nich
+fg	22846	Görike	1	Geh (Joah) nur, de brune Hund deiht di nist
+fg	22910	Holthausen	1	Goh merr denn brounen Hound de-id Tschn nicks
+fg	22931	Dahlhausen	1	Goh mä, de brune Rüe deit di nix
+fg	22965	Langeloh	1	Goa mä, dä brune Rüer deit di nix
+fg	22990	Halingen	1	Goo mäin, dai briune Ruihe dhait deÿ nicks
+fg	22998	Neheim	1	Goh men, dei briune Ruie deit di niks
+fg	23010	Niederbergheim	1	Goh män, dai briune Ruie dait dui niks
+fg	23021	Kapellen	1	Goat moarr, den brunnen hond düüt ow neks
+fg	23031	Rheinberg	1	Gohn merr, dä brunen Hund düt de neks
+fg	23184	Holthausen bei Kirchhellen	1	Gauh mer, dä brune Hund däut di nicks
+fg	23191	Herten	1	Gou mä, dä brune Rüä dait di niks
+fg	23207	Waltrop	1	Gnoh mä, dä brune Rüö dait die nix
+fg	23218	Kamen	1	Guoh men, dai breune Ruie (Hund) dait Dei nicks.
+fg	23231	Norddinker	1	Goh men, dei brium Kun deit di niks.
+fg	23261	Kessel	1	Gott mar, dän brünne Hohnd dütt ou nex
+fg	23271	Kehrum	1	Jött merr, denn brunne Hond düht ow neks
+fg	23284	Hamminkeln	1	Goah marr, den brunnen Hond düht dej neks
+gh	23293	Erle	1	Gaoh mä, de brune Hund dühd die nix
+gh	23343	Göttingen	1	Goah men, de broune Röün deut die nicks
+gh	2338	Wenslowischken (Voznesenskoye)	1	Goa man, de brune Hund deid die nuscht
+gh	23402	Holtwick	1	Goh miän, de brune Hund döht die nicks
+gh	23412	Seppenrade	1	Gaoh men, de brune Hund dööt die nicks
+gh	23419	Davensberg	1	Gou men, da brune Rüer döt di niks.
+gh	23426	Vorhelm	1	Goa män, de brune Rüe deit di nix
+gh	23435	Stromberg	1	Goh män, de braune Roün döit di nicks
+gh	23453	Stockum bei Coesfeld	1	Goh ment tau, deh bruhne Hunt deut dih niks
+gh	23466	Nottuln	1	Goh menn de brune Rür döth die nicks
+gh	23471	Münster	1	Goah men, de brune Rüe döht di nicks.
+gh	23478	Einen	1	Gaoto men, de braune Rühndoht dieh nix
+gh	23483	Greffen	1	Goh menn, de brune Röijn döiht die nix
+gh	23494	Speelberg	1	Gō̅t mō̅r, den brünnen hond düt ow néks
+gh	23498	Hemden	1	Goh morr, dän brunrn Hunt döht die nix
+gh	23507	Weseke	1	Goh män, den brunen Hund dot di niks
+gh	23545	Tüddern	1	Gank mahr, dä brune Honk dět dech niks.
+gh	23566	Porselen	1	Gonk mar, de bruhne Hond deht dech nix
+gh	23602	Holzweiler	1	Gank mar, däe brunge Honk det deg niks
+gh	23630	Evinghoven	1	Gank, dä brong Honk deht dech nächs
+gh	23817	Reusrath	1	Gank eckisch, de brunge Honk det dir nüchs
+gh	23843	(Stolzenberg)	1	Gangk eckisch, därr brong Hongk daht d'r nix
+gh	23858	Oberklüppelberg	1	Go men, dei brune Rüe däut de nix
+gh	23873	Valbert	1	Guoh männ, dei brune Rüe deit die nicks
+gh	23885	Sporke	1	Goh men, de briune Ruin däut die nix
+gh	23902	Schmallenberg	1	Goh mens dai bräune Ruiee däut die nix
+gh	23906	Elmpt	1	Gonk mar, de brunen Honk däht dech nix
+gh	23922	Helenabrunn	1	Gonk mar, de brunne Honk deht dich nichs
+gh	23933	Weißenberg	1	Gank mar, dä brunge Honk déht déch nix
+gh	2398	Mertensdorf (Tjomkino)	1	Goa nur, de brun Hund deit di nuscht
+gh	2409	Trausen (Lipnyaki)	1	Goa man, de brun Hund dait die nuscht
+gh	24107	Hubbelrath	1	Gangk mörr, de brunge Hongk deit dech nicks
+gh	24134	Barmen	1	Goh mer, dä brune Honk döht deck nicks.
+gh	24156	Delle	1	Goa mä, dä brunge Rüër däut di nicks
+gh	24167	Altena	1	Goh men, de bro͡une Rühe da͡uht die nicks.
+gh	24180	Stockum	1	Goh men, deu briune Ruie deut di nix
+gh	24208	Wall	1	Gank mar, dä brune Honk deet dich nix
+gh	24218	Vennikel	1	Goh mahr, denn brunen Hohnd düt dech necks
+gh	2426	Groß Pentlack (Kamenka)	1	Ga me(?)n, du brune Hund to dir nuscht
+gh	24336	Berghausen	1	(...), dä braeune Hund dit derr nix
+gh	2436	Kowarren (Zaozernoye)	1	Gah man, de brune Hund deiht di nuscht
+gh	24360	Bottendorf	1	Geh nür, där braune dütter naut
+gh	24380	Bergfreiheit	1	Geh ocker, der braune Hund diter nex
+gh	24412	Roppershain	1	Geh oacker fort, der brümme hönd ditt dä nicks
+gh	24431	Konnefeld	1	Geh nur (nurscht) der brämme (fast ö) Hund ditt de nuscht (nuschstes)
+gh	24454	Berneburg	1	Geh nur, der brune Hund thett de nischt
+gh	24466	Lüderbach	1	Gih nur, där brune Hund dhet de nischt
+gh	24490	Züschen	1	Goh nuh de brune Hund dött dieh nicks
+gh	2452	Kleschowen (Kutusowo)	1	Goh man, de brune Hund dheid di nuscht
+gh	24636	Rhadern	1	Goh nur, der brune Hund döht die niks
+gh	24659	Buhlen	1	Geh ocker, d'r brunne Hund dit d' nix
+gh	2466	Tolkmicko	1	Go man, de brune Hund deit die nuscht
+gh	24677	Metze	1	Geh nur, där brunnä Hund ditt dä neks
+gh	24695	Wattenbach	1	Geh nur, där brunne Hünd dutt dä necks
+gh	24715	Vockerode	1	Geh nur, dr broune Hound didd de nischd
+gh	24737	Grosstöpfer	1	Geh nur, dähr brühne Hund thut deh nischt
+gh	2474	Pierzchaly	1	Go man, de brun Hund deit di nuscht
+gh	2482	Peterswalde (Piotrowiec)	1	Goh man, de brun Hungt de deit di nuscht
+gh	24884	Olsberg	1	Goh müns, dai briune Hund dött dÿ nixs.
+gh	24901	Sudeck	1	Gou nu, dei brune Hund dött di nicks
+gh	24917	Braunsen	1	Goh nur, de brune Hund deut di nicks
+gh	24926	Zierenberg	1	Goh nor de brune Hund deud deck niks
+gh	2494	Saruny	1	Goh man, de brun Hund deit di nuscht
+gh	24942	Speele	1	Geh man wäk, der brune Hund döt dich nüsch
+gh	24959	Hermannrode	1	Goh nohr, dä brune Hund thäut dek nichts
+gh	2507	Wojciechy	1	Go man de brun Hund deit di nuscht
+gh	25113	Meiste	1	Goh mer, dai briune Ruie doit di niks
+gh	25131	Fürstenberg	1	Goh mänt, dei briune Röe deut dÿ nicks
+gh	25136	Scherfede	1	Goh ment, däi broune Hund däut dick niks
+gh	25150	Körbecke	1	Gah mans, de broune Hund deut dik niks
+gh	25163	Gottstreu	1	Gah nur, de brune Hund thaut deck nichs
+gh	25179	Esebeck	1	Ga ment dei brune Hunt deit dik nits
+gh	25197	Ebergötzen	1	Chah man, dä broune Hund deut deck nit's
+gh	25214	Bönninghausen	1	Goh männ, de briune Ruie däut di nicks
+gh	25223	Kirchborchen	1	Goh ment, dei br?une Röh deut dei neks
+gh	25343	Siebenstern	1	Goh hönne, dai broune Rüe (Hund) deut diä niks
+gh	25354	Bruchhausen	1	Gua nu, dai broune Hund deut dik niks
+gh	25363	Schönhagen	1	Ga man de brune hund deit dek nits
+gh	25373	Oldenrode	1	Goa niu, dei briune Hund deit dek nit 
+gh	25391	Marke	1	Goah mant, de brüaune Hund deit deck nichts
+gh	25407	Westerwiehe	1	Goh men, de broune Röüe deut dir nicks
+gh	25514	Haustenbeck	1	Gonk man, de briune Rüh doit dü nicks
+gh	25522	Heesten	1	Goh man, deu briune Hund deut düi niks
+gh	25543	Rischenau	1	Gonk mant, deu briune Rüh deut doi nicks
+gh	25560	Lobach	1	Gah mante, dei briune Hund daht deck nichts
+gh	25579	Wenzen	1	Gah man te, dei briune Hund daiht deck nicks
+gh	25596	Ackenhausen	1	Goah man, dei briune Hund daet deck nix
+gh	25607	Wolfshagen im Harz	1	Goah man, dai briune Tiewe daiht deck nist
+gh	25798	Kell	1	Jank nommes, de broune Hond däte neus
+gh	25824	Stromberg	1	Gieh nur, dr braune Hond deit dir nichs
+gh	25845	Staudt	1	Gih' nua de broun Ho(?)nd thut da naut
+gh	2586	Jurkiszki	1	Goa man, de brune Hund deit dü nuscht
+gh	25876	Steinbach	1	Geh nur, de broune Hund thoud dir naut
+gh	25904	Höfen	1	Gank nur, dä brunge Honk deht dr nüs
+gh	25914	Gemünd	1	Gangk äckersch, de bronge Hongk deet der nühß
+gh	2602	Maciejowieta	1	Gah man, de brune Hund deuth di  nuscht
+gh	26141	Iversheim	1	Jangk nue, deä bronge Hongk deht diä nühs
+gh	26155	Gelsdorf	1	Jank nue, de bronge Hond det de nüs
+gh	26178	Ohlenberg	1	Jong nur, dä bronge Hond deit dir niks
+gh	26205	Seifen	1	Gieh nur, de bronge Hond ditt dir nöcks
+hi	26228	Gehlert	1	Gie nur, dä braune Hond dot dir nichts
+hi	26261	Waigandshain	1	Gi dou, de brau Hond dout dir naut
+hi	26283	Sinn	1	Gieh nur, d'braune Hond dout d'r naut
+hi	26312	Venwegen	1	Gangk märr, der brunge Hond det dich nühs
+hi	26324	Üdingen	1	Gank eckisch, de bronge Honk deht dir nüß
+hi	26351	Borr	1	Gank nue, däe bronge Honk deht dieh nüß
+hi	26578	Roisdorf	1	Gank nue, de bronge Honk deht de nühs
+hi	26604	Geistingen	1	Gank nur, dä bronge Honk deht dir nöcks
+hi	26627	Herchen	1	Gangk nur, der bronge Honk deht der nühß
+hi	26642	Mittelhof	1	Gih nur, dr braunge Hond döt dir niks
+hi	26664	Wilden	1	Gang nur, däh braune Hond deht d'r nicks
+hi	26683	Straßebersbach	1	Gih nou, der braune Hond doutdr naut
+hi	26712	Mariagrube	1	Gangk maar, däe bru(?)nge Hongk deet dich nüs
+hi	26734	Niederzier	1	Gank nue däa bronge Honk dete neks
+hi	26753	Horrem	1	Gank hekkesch dä bronge Honk deht die nöx.
+hi	2676	Rygarby	1	Joa man, de brune Hund dait die nuscht
+hi	26763	Poll	1	Gangk no, der brunge Hungk deit der nicks
+hi	2691	Kolwiny	1	Goa man, de brun Hund deit di nuscht
+hi	27003	Heiligenhaus	1	Gang (nur), der Honk dét dir nüs
+hi	27025	Faulmert	1	Gank nur, dr bronge Honk deht dr nechs
+hi	2703	Srokowo	1	Go man, ddoh bruhn Hund deiht die nuscht
+hi	27038	Hahnseifen	1	Goh nur, da boung Hongd daht der nicks
+hi	27064	Müsen	1	Gieh nur, de brune Hond döt der nicks.
+hi	27074	Schameder	1	Geh nür, dä braune Hund dit d'r nix
+hi	27106	Dudenhofen	1	Gäi nerr, de braun Hund dut der nicks
+hi	27135	Wenighösbach	1	Geh nur, de brau Hund thut da nochs (nicks gesprochen)
+hi	2715	Stregiel	1	Goa man, de brune Hund deit dy nuscht
+hi	27150	Wiesthal	1	Geh nur, den braune Hond thut dir nit
+hi	27163	Massenbuch	1	Gieh ner, der braun Hund thuat dir nies
+hi	27186	Neubessingen	1	Gia ner, d'r brauna Hund thuater nes
+hi	27209	Dittelbrunn	1	Geh när der braun Hund thuat dir nias
+hi	27223	Vockenhausen	1	Gieh nur, der brau(n) Hund tho-ut d'r nicks
+hi	27244	Heddernheim	1	Geh nur, der brau(n) Hund dhut'r nix
+hi	2727	Budziska	1	Goh man, der bruhne Hund dheit dü nuscht
+hi	27425	Bruchköbel	1	Gih' nur der brau-n Hond thout dir nicks
+hi	27444	Hailer	1	Gih nur der brau Hond daout d'r nix
+hi	2746	Chelchy	1	Goh nu, de brune Hund deit dir nuscht
+hi	27461	Oberndorf	1	Geäste nur ohne, där brau Hond dutter nix
+hi	27469	Rossbach	1	Geh ner, derr brau Hund thut t'r nieß
+hi	27480	Hassenbach	1	Giah nur, dar braune Hund thuat dir nies
+hi	27501	Poppenlauer	1	Giä när, dar braun Hund thuät där niäs
+hi	27507	Cratzenbach	1	Gih noar, d'r brau Hund dout d'r niks
+hi	2762	Wilkowo	1	Gou man, den brun Hund deit die nuscht
+hi	27692	Friedrichstal	1	Gih nur, der braune Hornd thout dir nicks
+hi	27719	Leidhecken	1	Gih nur de braune Hond dout d'r nauht
+hi	27742	Gelnhaar	1	Gi nur d'braun Hoand doud d'r niks
+hi	27765	Ulmbach	1	Geh nur, der brau Hond thu d'r niäst
+hi	27775	Eichenried	1	Geh nur, dr brau Hound dudd dr nischt
+hi	27792	Wildflecken	1	Geh ner, der brau Hond thut'r nes
+hi	27807	Bastheim	1	Geh ner, der brau Hund thut dir niß
+hi	2781	Karwiny	1	Geh man, dä braune Hund titt döhr nuscht
+hi	27821	Philippstein	1	Gih nur, der brau Hund dout dir naut
+hi	27835	Dornholzhausen	1	Gieh nor, der brau Hond dout d'r naut
+hi	2800	Krzykaly	1	Geh man, da braune Hungt thut da nuscht
+hi	28010	Nonnenroth	1	Gieh nerr, d'r brau Hoond toaut d'r naut
+hi	28027	Götzen	1	Gih nur, d'r braune Hond douht dir naut
+hi	28045	Altenschlirf	1	Geh nur daär braauh Hund tutt dir noaut
+hi	28063	Fulda	1	Geh nur dä brui Hond dot der nischt
+hi	28080	Rupsroth	1	Geh nür, der bruhi Hoind dut dei nüscht
+hi	28107	Gerthausen	1	Goi nur, der bräu Hoind thut da nißt
+hi	2817	Mawry	1	Göh man, da braun Huingt tüt'ta nuscht. (Doppelverneinung: nuscht nich.)
+hi	282	Zolna	1	Gohman, dei brune Hund deet di nischt
+hi	2827	Sarnowo	1	Geh' man, da braune Hund thiit a nuscht
+hi	28278	Krumbach	1	Gih nurts, der braune Hond dout d'r naut
+hi	28298	Londorf	1	Gih nur, d'r brau(ns) Hond daud d'r naud
+hi	28315	Otterbach	1	Gih nuh darr brauna Hond thout dir naut
+hi	28330	Schwarz	1	Geh nur, de brune Hound dott d'r nischt
+hi	28346	Grossenmoor	1	Geh nur, der Bru(n) Hond dod der nischt
+hi	28358	Rasdorf	1	Geh nuär, der brui Hoeund thet dä nischt
+hi	28369	Wiesenthal	1	Gäeh nöür, dr bru Hoind thotte nüscht
+hi	28392	Herzhausen	1	Gih nur, d'r braune Hond dot d'r naut
+hi	2846	Ledlawki	1	Goa man, de bruna Hungd deit die nuscht
+hi	285	Kosobudy	1	Gau nu dei brune Hund det di nuscht
+hi	28568	Betziesdorf	1	Gieh nur, dä braue Hoand dutt d'r naud
+hi	28589	Neustadt (Hessen)	1	Gih nur, der braune Honnd dutt drr naut
+hi	28605	Neukirchen	1	Gih nurscht d'r bräune Höund dut d'r nex
+hi	28623	Gittersdorf	1	Geh nor, der bruhn Heund det däh nischt
+hi	28640	Herfa	1	Geh nur, de brune Hond dod dei nischt
+hi	28651	Frauensee	1	Geh nür, der brun' Hond thott dei nischt
+hi	289	Königswiese (Leśna Huta)	1	Goh ma, de brun Hund de di nuscht
+hi	2900	Borawskie	1	Goa man, de brune Hund deit di nuscht
+hi	2906	Zabrowo	1	Gah ma, dei brune Jund det die nuscht
+hi	291	Lubichowo	1	Goh ma, dei brun Hund deit die nuscht
+hi	2916	Stanowo	1	Geh nur de braune Hund thut der nuscht
+hi	2923	Fijewo	1	Geh nur, de brone Hond thut dir nechts.-
+hi	2935	Groß Koschlau	1	Geh nur, der braune Hund thuter nuscht
+hi	2955	Liksajny	1	Geh nurr, der braune Hund thut dör nuscht
+hi	2962	Molza	1	Geh nun, der braune Hund titt derr nuscht
+hi	2970	Warkaly	1	Geh man da braun Hungt titt dea nuscht
+hi	2996	Bucznik	1	Geh man, der braune Hund thut der nuscht
+hi	300	Montauerweide	1	Goh nu, de brune Hund deiht di nuscht
+hi	300660	Sankt Roman	1	Geh weida, da brau Hund tuat da nix
+hi	300798	Reikersdorf	1	Geh' ma, da brau(n) Hund tuat da nix
+hi	301042	Rigaus	1	Geh na, deafst da scho fürtrau(n), da brau(n) Hund tuat da nix
+hi	3058	Zyndaki	1	Go man, de bruna Hund deit die nuscht
+hi	3069	Rychliki	1	Geh man, de braune Hund thutt dör nuscht
+hi	3083	Chojnik	1	Geh ma, der braune Hund titt döhr nuscht
+hi	3093	Ksiaznik	1	Geh' man, dä braune Hund titt de nuscht
+hi	3111	Glotowo	1	Geh man de braun Hungt titt da nuscht
+hi	312	Ryman	1	Go man, dei brun Hund det di nischt
+ij	3122	Derc	1	Geh man, da (d) braun Hungd titt da nuscht
+ij	31677	Battweiler	1	Geh nor, d'r braun Hund duht dr nix
+ij	31695	Heltersberg	1	Geh numme, der brau Hund duht der nix
+ij	31700	Ramberg	1	Geh nor, der braun Hund dhut d'r nix
+ij	31719	Geinsheim	1	Geh' numme, de brau Hund dut dehr nix
+ij	31737	Diedenhofen	1	Gej nemmen, de braunen Hund det d'r neischt
+ij	31765	Laumesfeld	1	Gei nemmen, d'braunen Hond däht d'r neisch't
+ij	31789	Beckingen	1	Geh nommen, derr Hond det derr neischt
+ij	31800	Calmesweiler	1	Geh nommen dä braun Hond dut d'r neischt
+ij	31824	Steinbach bei Ottweiler	1	Geh nur, der braune Hund duhd deer neischt
+ij	32019	Dietschweiler	1	Geh nur, der braune Hund thut dir nix
+ij	32040	Siegelbach	1	Geh nor der braun Hund duhter nix
+ij	32053	Alsenborn	1	Geh noo, der braun Hund duht der nix
+ij	32067	Erpolzheim	1	Geh nore, der braune Hund dhut dehr nix
+ij	32085	Kreuzweiler	1	Goeih dé braunen Hond daeht d'r maeischt
+ij	32102	Greimerath	1	Geh nemmen, de braunen Hond dat dr neischt
+ij	32119	Oberlöstern	1	Geh nommen, d'r braun Hond doud (dutt) d'r neischt
+ij	324	Podwilcze	1	Gau ma, dei bruun Huund deet di nischt. 
+ij	3254	Jurkowo	1	Goh man, de bruna Hund dät die nuscht
+ij	3267	Pozarki	1	Go man, de bruner Hund teut die nuscht
+ij	3272	Gawliki Wielkie	1	Go man, de brune Hund deit di nuscht.
+ij	3280	Swietajno	1	Goh man de brune Hund deiht di nuscht
+ij	32855	Altviller	1	Geh nummen, d'r brun Hund duht dir nischt
+ij	32883	Woustviller	1	Geh numme, der brun Hund duht der nechs
+ij	3301	Barschken	1	Gah doch, de brune Hund deit die nuscht
+ij	33035	Rimling	1	Gèh, nuri, der brun Hund duhd dér nix
+ij	3304	Dawillen	1	Goh man, deh brune Hund deiht dy nuscht
+ij	33055	Roppeviller	1	Ge nummen, dr brun Hund dut dr niks
+ij	33064	Dahn	1	Géh nummè, dèr brau Hund duht dèr nix
+ij	3309	Dittauen	1	Gah man, de bruner Hund deit die nuscht
+ij	33102	Gleiszellen	1	Geh nerre der brau Hund dhut der nix
+ij	33111	Herxheimweyher	1	Geh norre, der brau Hund duhd'r nix
+ij	33126	Guinkirchen	1	Geh nummen, d'r brunn Hund diet d'r nischt
+ij	33146	Überherrn	1	Geh nurn, der braun Hund dout dr jo neischt
+ij	33159	Malstatt	1	Geh nur, der braune Hund dutt dir nix
+ij	3318	Deegeln	1	Goa man, dn bruner Hund deit di nuscht
+ij	33185	Niederwürzbach	1	Goh noroe (?), dor braun Hund dot der nix
+ij	33331	Steinbuch	1	Gäih nur, der braune Hund daut dir niks
+ij	33346	Breitendiel	1	Gehi nur, d'r brau Heund thut d'r nix
+ij	33364	Hundheim	1	Ge nor one, d'r brou Hund dudr nix
+ij	33381	Steinbach	1	Gehe ner, dr brau Hund thuet der neaß
+ij	33400	Eibelstadt	1	Gäha nuar dar braun Hund thut dar nix
+ij	3342	Pillkoppen	1	Goa man, de brun Hund deit die nuscht
+ij	33420	Rödelsee	1	Geh ner zu, dar braun Hund thuat d'r nix
+ij	3343	Karkeln	1	Gah man, de brune Hund deiht di nuscht
+ij	3345	Dünen (Ackmenischken)	1	Goa man, de brune Hund deit dü nuscht
+ij	3351	Pleine	1	Goa man, de brune Hund deit di nuscht
+ij	33605	Erfelden	1	Geh nor, der braun Hund dutt dir nix
+ij	33614	Traisa	1	Ge nur, de brau Hund dut da nichs
+ij	3362	Cullmen-Kulken	1	Goah man, dä bruhne Hund deiht dih nuscht
+ij	33631	Heubach	1	Gäihn norr, d'r braoun Hund dudd d'r nix
+ij	3364	Rositten (Rybachiy)	1	Goh man, de brun Hund deiht die nuscht
+ij	33648	Hofstetten	1	Gäi ner, der brau Hund thutt der nix.
+ij	33660	Bischbrunn	1	Géh nèr d'r brau Hud tuat dr nich
+ij	33677	Birkenfeld	1	Gieha nur, dar brau Hund thuat dr neß
+ij	33692	Rupprechtshausen	1	Geh ner anni, der braune Hund thuet dir neß
+ij	33711	Gaibach	1	Gäha nür, der braun Hund dua't d'r nix
+ij	33725	Rüsselsheim	1	Geh nor, de brau Hund dhut dr nicks
+ij	33741	Langen (Hessen)	1	Geh nur, der brau' Hund duht d'r nix
+ij	33849	Altlussheim	1	Geh nummen, dr braune Hund dhut dr nix
+ij	33860	Schatthausen	1	Geh' numä der brau Hund dud'r niks
+ij	3387	Sassenhöhe (Augsgirren)	1	Ga(?)h blos, de bruee Hund dheit di nuscht
+ij	34001	Daudenzell	1	Geh na, d brau Hund du'dr nix
+ij	34015	Billigheim	1	Geh nur hinner, der braun Hund duht der nix
+ij	34025	Oberkessach	1	Geh nur fort, der brau Hund thuät der nix
+ij	34044	Ailringen	1	Geihn nur, der brau Hund thuet der nix
+ij	34058	Lichtel	1	Gäh nor, der brau Huhnd thut dir nix
+ij	34065	Windelsbach	1	Gäh ner, der brau Hund tuat'r nix
+ij	34076	Ludwigshafen am Rhein	1	Geh nor, de braun Hund wèrd d'r nix duhn
+ij	34096	Ursenbach	1	Gäi na, da brau Hund dut da nix
+ij	34216	Gammelsbach	1	Gäi nor de brau Hund dud a nix
+ij	34228	Rumpfen	1	Geh nur, der braune Hund dut dir niks
+ij	34235	Gerichtstetten	1	Gëih'nr, der brau' Hund tu dr nicht
+ij	3424	Beierstedt	1	Gah man, de brune Hund deit dik nist
+ij	34247	Königshofen	1	Geh ner, der brau Hund thut dr nigsch
+ij	34266	Aufstetten	1	Gäa nur, dr brauna Hund thuat dir nias
+ij	34288	Weigenheim	1	Gä ner, der brau Hund thutt der nicks
+ij	34305	Bobstadt	1	Gähi narr, der brau Hund dhuter nix
+ij	34321	Mittershausen	1	Gäi nor, de braune Hund dud der niks
+ij	344	Modrolas	1	Gah ma, dei brun Hund ded di niescht
+ij	34447	Berghausen	1	Géh nomma, d'r brau Hunn dud dar nigs
+ij	34503	Winzerhausen	1	Gang nu, dr brau Hond thut dr nix
+ij	34522	Liemersbach	1	Gèh nor der brau Hod duet'r nigs
+ij	34535	Eutendorf	1	Gäha norr, der brau Hood duhdar néx
+ij	34545	Honhardt	1	Geah nor, der braun' Hund duat der niks
+ij	34557	Segringen	1	Gang nor, d'r brau Hund dhut d'r nix
+ij	34566	Graben	1	Geh numme, der braun Hund dudd dr nix
+ij	34707	Odenheim	1	Geh nummer, der broh Hund dut der nix
+ij	34734	Massenbachhausen	1	Gèh nummə, də brau Hund dhut dər nix
+ij	34750	Binswangen	1	Geh nor dr brou Hund thut dr nix
+ij	34773	Öhringen	1	Geh norr, d(e)r brau Hund duadr nix
+ij	34791	Döttingen	1	Gèh nor, der braun Hund d'huet dr nigs
+ij	34802	Gaggstatt	1	Gäe norr, dèrr brau Hund duèd'r nix
+ij	34818	Dorfgütingen	1	Gea nor, der brou Hund thuet der nix
+ij	34838	Röckingen	1	Geh norr, der brau Hund thuat'r nix
+ij	34855	Windsfeld	1	Geh ner, der brauner Hund thut der nichs
+ij	34872	Ettenstatt	1	Geïh nèr, d'r brauna Hund thout d'r nix
+ij	35003	Untermässing	1	Ge no, deer braune Hund thuut da nix
+ij	35011	Gimpertshausen	1	Geh nur der braune Hund thut dir nichts
+ij	35026	Beratzhausen	1	Gae nu, dea braune Hund daota igs
+jk	35035	Eitlbrunn	1	Geh no, da braune Hund dout da nix
+jk	35046	Altenthann	1	Geh nur, drr braun' Hund thut dir nichts
+jk	35055	Rauenzell	1	Geah nur, da braun Hund thuat dir nix
+jk	35067	Ismannsdorf	1	Ga nur, der brau Hund thuat dr nix
+jk	351	Smecino	1	Ga nu, dei brun Hund deht dei nischt
+jk	3516	Bornum	1	Gah man, dei brune Hund teit dek nist
+jk	35165	Büchenbach	1	Gäih ner, der brauner Hund thout dr nix
+jk	35168	Seligenporten	1	Gei néa, der brauna Hund thaut da nix
+jk	35188	Günching	1	Gaih nua, da braur Hund thaut da nix
+jk	35195	Adertshausen	1	Gëi no, da brau Hund doaudda nix
+jk	35204	Wiefelsdorf	1	Geh no, da braune Hund thout dih nix
+jk	35211	Bodenwöhr	1	Gëih no zöu, der brau Hund thöut da nix
+jk	35223	Flachslanden	1	Geh zua, der brau Hund thut'r nix
+jk	35236	Grosshabersdorf	1	Geh nor zu, der brau Hund duder nex
+jk	35254	Birnthon	1	Gäi nar, der brauna Hud thout der nix
+jk	35339	Röthenbach	1	Geih ner, do(?)r brau Hund thout der nix
+jk	35377	Alfeld	1	Göih nea, dea brauna Hund thout dia nix
+jk	35382	Ammerthal	1	Göih ner, da brau Hund thoud da nix
+jk	35393	Trisching	1	Geh nur der braune Hund tauta nix
+jk	35517	Unternesselbach	1	Gä när, der brau Hund tutter nix
+jk	35524	Oberreichenbach	1	Geh na, de braun Hund tutt de nechs
+jk	35544	Buckenhof	1	Geh na, der brau Hund thuat dor nichs
+jk	35562	Kirchröttenbach	1	Gèih nèr, dèr brau Hud dout da nix
+jk	35571	Hartenstein	1	Göhi ner da brau Hund thout da nix
+jk	35577	Schlicht	1	Göi näi, d brau Hund thouta nicks
+jk	3558	Beckendorf	1	Gah man, de brune Hund deit dick nist
+jk	35585	Kohlberg	1	Gehi ner, da brau Hund thout da nichs
+jk	35597	Oberlind	1	Göi ner, da braun Hund dout da nix
+jk	356	Porst	1	Ga ma, dei braon Hund det dai nischt
+jk	35710	Haag	1	Gä nar fort, dr brau Hund dudr nechs
+jk	3572	Domersleben	1	Gah man, de brune Hund deit dick nicht
+jk	35729	Mühlhausen	1	Geh ner der braun Hut tud der nex
+jk	35755	Pautzfeld	1	Gih nea, dèé brau Hund thut der neks
+jk	35762	Moggast	1	Geh ner, der brau Huud thu der nex
+jk	35778	Pegnitz	1	Geih na, da brauna Hud thout da nècks
+jk	35791	Speinshart	1	Göih na, da brau Hund thout da nix
+jk	35799	Friedersreuth	1	Gai na, da braun Hund döut da nix
+jk	35807	Plössberg	1	Gea na, da braun Hund tout da nix
+jk	35824	Geusfeld	1	Ge ner, d'r brau Hund tut'r nix
+jk	35843	Tütschengereuth	1	Geh nè(r), dè braun Hund thut dé nechs
+jk	35857	Litzendorf	1	Ge nea, dea brau Hund thut da nechs
+jk	3592	Prester	1	Jah nur, der brune Hund deit dick nischt
+jk	36007	Hollfeld	1	Geh näah zu, dea brau Hund thut da nex
+jk	36017	Donndorf	1	Ge nea, de brau Hud thut dia nix
+jk	36039	Kirchenpingarten	1	Gai na, der brau Hund thaut da nichs
+jk	36049	Hohenhard	1	Göih nu, dr braun Hund thauta nix
+jk	36056	Leonberg	1	Göi nöa, döa brauna Hund daouta nex
+jk	36065	Hohrodberg	1	Gang nume, der brün Hund macht der nigs
+jk	36084	Colmar	1	Geh numme, der brün Hund thüet der nix
+jk	3609	Dalchau	1	Joch nu, der brune Hund deiht die nischt
+jk	3614	Schweinitz	1	Jang man, der brune Hund  duht die nischt
+jk	36159	Meistratzheim	1	Geh numme, d'r brünn Höüd mach' d'r niggs
+jk	36178	Müllen	1	Géh nur d'r brun Hund duet d'r nix
+jk	36202	Kniebis (Kr.Freudenstadt)	1	Gang nao, d'r brao Hond duat d'r nix
+jk	3626	Nennhausen	1	Joch man, dä brune Hund deit di nist
+jk	36272	Ödsbach	1	Geh' nur, der brun Hund duet der nix
+jk	36277	Turquestein-Blancrupt	1	Ge numme, dr brün Hund macht'r nicks
+jk	36282	Wangenbourg	1	Geh nur seller brun Huend macht do nix
+jk	36309	Furdenheim	1	Geh nur, d'r brün Hund düet d'r nix
+jk	36334	Ruprechtsau	1	Geh nur, der brun Hund dhud dér nix
+jk	3634	Berge	1	Loop man, där brune Hund deit di nüst
+jk	36348	Achern	1	Gah nurr, dr braun Hund dud r nix
+jk	36362	Saarburg	1	Geh numme, der bruhn Hund macht d'r nicks
+jk	3639	Pausin	1	Joch doch, dähr brune Hund deiht dei nischt
+jk	36489	Bois De Chêne	1	Geh numme, dr brun Hund macht dir nix
+jk	3649	Hermsdorf	1	Joh nur, der brune Hund thut dir nischt
+jk	36525	Wilshausen	1	Geh nur, d'r brün Hund tuet der nix
+jk	36552	Marienthal	1	Geh nurr d'r brün Hund duet d'r nix
+jk	36567	Fort-Louis	1	Geh nummé, d'r brü-n Hund duht'r nix
+jk	36594	Bad Rotenfels	1	Geh nur, der brune Hund thut d'r nix
+jk	366	Przeradz	1	Goa nu, dei bruen Hund deiet die nischt
+jk	3664	Birkholz	1	Geh nur, der brune Hund thut dir nichts
+jk	36737	Altwiller	1	Geh' numme, der brün Hund dut dir nix
+jk	36755	Weislingen	1	Geh nume, d'r brün Hund dhut d'r nix
+jk	3677	Gielsdorf	1	Je mann, der brune Hund duht (dutt) die nischt
+jk	36772	Lichtenberg	1	Geh numma, dr brün Hund machdr néx
+jk	36789	Goersdorf	1	Geh nur, der brün Hund dhut d'r nichs
+jk	36823	Siegen	1	Geh nur, dr braun Hund macht dr nichs.
+jk	36842	Neuburgweier	1	Geh' nur, d'r braun Hunn thut der nix
+jk	3688	Ringenwalde	1	Lop da, dä brune Hund duet di nischt
+jk	36880	Bischoffingen	1	Gang nur, dr brun Hund diä der nit
+jk	36898	Maleck	1	Gang numme, der brun Hund thuet der nüt
+jk	36911	Yach	1	Gang nur, dr bru Hung dut dr ninnt
+jk	36933	Orschwiller	1	Geh nurr, d'r brunn Hond macht d'r nix
+jk	37007	Bindernheim	1	Geh nur, dr brün Hund machd dr niks
+jk	37025	Schmieheim	1	Geh numma, d'r brün Hund duat d'r nix
+jk	3703	Lehmannshöfel	1	Jeh man, där brune Hund duet die nisch
+jk	37035	Bollenbach	1	Gang un dr bru Hund duat dr nix
+jk	37058	Le Hohwald	1	Gèh numma, dr brün Hund macht d'r nix
+jk	3711	Warnick (Warniki)	1	Geh man, der brune Hund deht die nischt
+jk	37119	Buchenberg	1	Gang nua, der brun Hund duatdr nints
+jk	37138	Rottweil	1	Gang nu, dr brau Hund duat dr nints
+jk	37153	Obernheim	1	Gang no, dr brau Hond thuat dr neits
+jk	3722	Zaszczytowo	1	Satz nicht vorhanden
+jk	37302	Winterlingen	1	Gang no, dr brau Hond duet'r nix
+jk	37314	Dürrenwaldstetten	1	Gang no, dear brau Hund duat diar nichts
+jk	37333	Hausen am Bussen	1	Geh nur, braun Hund thut dir nix
+jk	37354	Baustetten	1	Gang nuh, d'r brau Hund duat d'r niks
+jk	37369	Illertissen	1	Gang no, dr brau Hund tuat dr nix
+jk	37388	Schenkenzell	1	Gang nau, dr brau Hund duet dr nint
+kl	37401	Aistaig	1	Gang nau, dear braun Hond thuat dirr nentz.
+kl	3744	Rudnica	1	Jeh man, derr braune Hund thut derr nischt
+kl	37555	Stetten bei Haigerloch	1	Gang dou nau, dear brau Hund duat dir nonz
+kl	37571	Salmendingen	1	Gang nu, dear brau Hund dhuat d'r noitz
+kl	37581	Bernloch	1	Gang nu, dèrr braun Hund dhut d'r nex
+kl	37598	Gundershofen	1	Gang nu, der braun Hund thuat dr nex
+kl	37607	Eggingen	1	Gang nu, dèar brau Hund duat dr nix
+kl	37622	Holzheim	1	Gang nu, dr brau Hud duadr nex
+kl	37658	Oberwaldach	1	Gang nau, dear brau Hond dhuader nenz
+kl	37802	Bondorf	1	Gang man, der brau Hund thuat dir nichts (auch "nuns")
+kl	37825	Lustnau	1	Gang no, dear brau Hod duat der nix
+kl	37855	Dettingen an der Erms	1	Gang no, dear brau Hond duht d'r nix
+kl	37862	Donnstetten	1	Gang no, d'r brau Hond du(a)d d'r nex
+kl	37869	Radelstetten	1	Gang nur, der braun Hond thut der nix
+kl	37883	Ballendorf	1	Gang noh, däar brau Hod duad dr nexa
+kl	37900	Obermedlingen	1	Gang noa, dear brao Hond duat d'r nöx
+kl	37902	Raumünzach	1	Geh nu, dr broun (brun) Hund thuet dr nix
+kl	37947	Schönaich	1	Gang no, dear brau Hond thuat dar(d'r) niks
+kl	38044	Hünerberg	1	Gang no, de? brau Hond duat der nix
+kl	38056	Gechingen	1	Gang no, der brau Hon thuat dir niks
+kl	38095	Denkendorf	1	Gang non, dear braun Hond thuat dr nix
+kl	38116	Albershausen	1	Gang no, dear brau Hod duet dr nex
+kl	38136	Winzingen	1	Gang no, dr brau Hond duat d'r nex
+kl	38146	Zang	1	Gang no, dear brau Hod thuat der nex
+kl	38155	Auernheim	1	Gang nò, dr brau Hud thuet'r nex
+kl	38169	Dennach	1	Gang no, dar brau Hon duad dar negs
+kl	38182	Tiefenbronn	1	Gang numme, de brau Hund dud dir nix
+kl	38348	Schöckingen	1	Gang no, der brau Hunn thuat dr nex
+kl	38373	Hegnach	1	Gang no, der brau Hond tuet der neex
+kl	38407	Steinenberg	1	Gang no, diar brau Hod duat dar negs
+kl	38422	Ruppertshofen	1	Gang no, dér brau Hod dut dr nex
+kl	38437	Fachsenfeld	1	Gang no, dear brau Hod duat der nex
+kl	38448	Baldern	1	Gang nur, der braune Hund thut dir nex
+kl	38482	Kleinvillars	1	Géh nomma, dr brau Hònn duadr nix
+kl	38502	Hohenhaslach	1	Gang no, der brau Hond duat der negs
+kl	38623	Nendingen	1	Gang nu, dea bru Hund duat der neit
+kl	38640	Rohrdorf	1	Gang nu, der brau Hund duat d'er nix
+kl	38655	Völlkofen	1	Gang no, dèr braun Hond thuat diar noetz
+kl	38666	Reichenbach	1	Gang no, dər brau (brəu) Hund duat dər nix
+kl	38682	Mittelbuch	1	Gang nu, dr brau Hund thuet dir nix
+kl	38695	Unteropfingen	1	Gang nu dr brau Hund thuat dr nix
+kl	3871	Dreetz	1	Goah män, de brune Hund dheit di nist
+kl	38720	Kicklingen	1	Gang nu, dr brau Hund thuat dr nix
+kl	38738	Westendorf	1	Gang nu, dear brau Hond duat'r nigs
+kl	38764	Waidhofen	1	Gèh no, da brau Hund duad da nix
+kl	38774	Eschelbach an der Ilm	1	Geah nur, da brau Hund tuat da nix
+kl	3880	Brunne	1	Joch ma(e)n, diee brune Hund deiht daei nist
+kl	38863	Pöttmes	1	Gea no, da brau Hund tuat da nix
+kl	3887	Sommerfeld	1	Lop man, dä brune Hund deit dei nischt
+kl	38899	Hebrontshausen	1	Geh nur, da brau Hund thuat da nix
+kl	38912	Oberglaim	1	Geh nur, dr brau Hund thut da nix
+kl	38935	Fronhofen	1	Gang no d'r brau Hund thuatr nix
+kl	3896	Malz	1	Joch doch, der brune Hund deit die nischt
+kl	38963	Stepperg	1	Geh nur, dr brau Hund thuat d'r nix
+kl	3901	Stolzenhagen	1	Lop man, der brune Hund deît dîe nüscht.
+kl	3906	Prenden	1	Joch nu, dö brune Hund dut d? nischt
+kl	39062	Hafenreut	1	Geh nur, der braune Hund thut dir nix
+kl	39089	Gerolfing	1	Geh no da brau Hund thuat da nix
+kl	39103	Irsching	1	Geh na, da brau Hund dea tut da nix
+kl	39116	Siegenburg	1	Geh no, da brau Hund thuat da nix
+kl	39126	Semerskirchen	1	Geh nur, da brau Hund thuat da nix
+kl	39140	Hofkirchen	1	Geh noa, da brau Hund doud da nix
+kl	39160	Dürrenzimmern	1	Ga nor, dear brau Hond thut dr nix
+kl	39179	Gundelsheim	1	Geh nee, der brau Hund thuat dir nigs
+kl	3919	Trampe	1	Joch nu doh braun Hund thut die nischt
+kl	39201	Walting	1	Gea no, der braun Hund thuat der nix
+kl	39293	Bieswang	1	Geih nar, den brau Hund thout der nix
+kl	3931	Neureetz	1	Joch man, der brune Hund det die nischt
+kl	39317	Pondorf	1	Göih na, da brauu Hund thout da nix
+kl	39329	Neukelheim	1	Geh no der braune Hund thuat dir nix.
+kl	39342	Peising	1	Geh no, der braune Hund thuat da nix
+kl	39356	Arlesried	1	Gang no, d'r brau Hund duat d'r nix
+kl	39370	Türkheim	1	Gang nu, der brau Hund duad diar nix
+kl	39398	Gauting	1	Geh no, da brau Hund thuat da nix
+kl	3944	Kurzycko	1	Goah ma, der brune Hund dhuat di nischt
+kl	39459	Kaufering	1	Geha nur, dee brau Hund duat der nix
+kl	39475	Eching am Ammersee	1	Geah nur, der brau Hund duat dir nix
+kl	3949	Grzymiradz	1	Goch nu, d'r brune Hund deht di nischt
+kl	39494	Perlach	1	Geh no der brauni Hund thuat dar nix
+kl	39503	Zorneding	1	Goh nur, da braun Hund duat dir nix
+kl	39509	Albaching	1	Geh nur dă brauner Hund, thuast dir nech
+kl	39515	Sankt Leonhard	1	Geh no her, da braun Hund thuata nix
+kl	39517	Niederraunau	1	Jang nu zua, dear brau Hod duat'r nix
+kl	39529	Walkertshofen	1	Gang nu, dear brau Hud tuad'r nix
+kl	39546	Oberottmarshausen	1	Gang no zua, dear braun Hund tuad d'r nix
+kl	3957	Lubiszyn	1	Goah nu, där brune Hund dhet die nischt
+kl	39647	Mittelstetten	1	Geah no, dear brau Hund duad dörr nix
+kl	3965	Heinersdorf	1	Lop man, der brune Hund deht dei nischt
+kl	39662	Bergkirchen	1	Gea no, da brau Hund duat da nix
+kl	39667	Unterschleissheim	1	Geh nur, de breu Huend tuet de nix
+kl	39673	Moosinning	1	Geh no, der brau Hund thuat dir nix
+kl	39687	Oberdorfen	1	Geh no, da brau Hund thuat da nix
+kl	39693	Wettenhausen	1	Gang no, do brau Hund thun dr nex
+kl	39710	Zusmarshausen	1	Gang na, der brau Hund thuat dir nix
+kl	39723	Täfertingen	1	Gang nu, der brau Hud dut d'r nix
+kl	39742	Gallenbach	1	Geh no, der braun Hund thud dir nichs
+kl	39865	Hilgertshausen	1	Göh no der braun Hund thuet der nix
+kl	39880	Allershausen	1	Geh' no, der brau Hund thuat da nix
+kl	39891	Rast	1	Geh nur, da bran Hund dhuada nix
+kl	39901	Vilsheim	1	Gé no, dà brau Hund thut da nix
+lm	39954	Sattelbogen	1	Geh nohn, de braun Hund thuat da nix.
+lm	39962	Krailing	1	Ge͡ih wäda, der brane Hund da͡uda nix.
+lm	39968	Oberried	1	Gḙ̄h noa dḙ̄ broa Hund thuat di nichs
+lm	40000	Pertolzhofen	1	Ge-ih när, da brau Hund doud da niks
+lm	40012	Tiefenbach	1	Göi ner, da brau Hund tout da nix
+lm	40047	Pemfling	1	Gei no dea brane Hund tout da nix
+lm	40057	Arnschwang	1	Gei-ih no, da bro ne Hund doud-da nix
+lm	40112	Wald an der Alz	1	Geh no, da brau Hund thuat da nigs
+lm	40137	Ranoldsberg	1	Geh nur, da braune Hund dhuad da nix
+lm	40145	Erharting	1	Ge ná zuá, da braun Hund duad da nix
+lm	40155	Gumpersdorf	1	Geh na, da brau Hund thuat da nix
+lm	40191	Vilsbiburg	1	Geh no, da brauo Hund duat dia nix
+lm	40202	Gangkofen	1	Ge no, da braun Hund thuat da nix
+lm	40212	Neuhofen	1	Geh' nua, da brau Hund thuat dia nix
+lm	40220	Bad Birnbach	1	Geh' nur, da braunö Hund thuat dir nix
+lm	40231	Ruhstorf an der Rott	1	Geih na, da brau Hund thuat da nix
+lm	40274	Wörth an der Isar	1	Goh nua, da brau Hund duat da nix
+lm	40286	Griesbach	1	Geh no, der braune Hund thuat dir nix
+lm	40297	Indersbach	1	Geh na, da brau Hound thout da nix
+lm	40308	Walchsing	1	Geh nur, der braun Hund thut da nix
+lm	40320	Kirchberg	1	Geh no, de brau Hund thuat da nix
+lm	40331	Haag	1	Geh na, da brau Hund duad da nix
+lm	40402	Hankofen	1	Geh no zua, da brao Hund dead da nix
+lm	40414	Plattling	1	Geh na fuat, da braunö Hund thuat da nix
+lm	40420	Auerbach	1	Geh nua, da brau Hund tuat da nix
+lm	40428	Saldenburg	1	Geh, der braun Hund thut da nix
+lm	40439	Karlsbach	1	Geh nur, der brau Hund thuat da nigs
+lm	40516	Steinach	1	Geh no, da brau Hund duat da nix
+lm	40524	Perasdorf	1	Geh nu, der brau Hund dau da nix
+lm	40531	Regen	1	Ge-ih weida, da brau Hund duaht da nix
+lm	40535	Klingenbrunn	1	Geh nur, da brau n Hund duahd da nix
+lm	40538	Riekofen	1	Geh no zou, da brau Hund thaut (auch thuat) da nix
+lm	40597	Lindau (Bodensee)	1	Gang nuër, d'r bru Hund thuet d'r ninnt
+lm	40605	Schnellers	1	Gang nu, der bru Hund duot dr niatz
+lm	40613	Ratholz	1	Gang nu, dr brung Hund duet dr nex
+lm	40637	Eschbach	1	Gang nu, de brune Hund thuat dir nüt
+lm	40655	Erzingen	1	Gang nu, de' brun Hund thuet dir nit
+lm	40757	Schienen	1	Gang nu, der bru Hünd duht dir nünt
+lm	40771	Wollmatingen	1	Gang nu, der bru Hund thuet der nint
+lm	40785	Kluftern	1	Gang nu d'r bru Hund tuad'r nuaz
+lm	40798	Obereisenbach	1	Gang nu dar bru Hund duat dr niaz
+lm	40807	Ratzenried	1	Gang nu, dear bru Hund duat dr niatz
+lm	4081	Bantikow	1	Ja man, de brune Hund deit di nist
+lm	40819	Kreuzthal	1	Gang nu, dear brau Hund thaat der nix
+lm	40844	Münchingen	1	Gang nu, dä sell bru Hund duatr nütt
+lm	40863	Tengen	1	Gang no, dr bru Hund tuat dr nint (od. nix)
+lm	40898	Billafingen	1	Ga(?)ng nu, der sel bru Hund tut er nix
+lm	4093	Kränzlin	1	Joh männ, de brune Hund deiht die nüscht
+lm	41018	Eigeltingen	1	Gang nu, de bru Hund thuet dr nint
+lm	4102	Seebeck	1	Loop man, der brune Hund deit die nüscht
+lm	41049	Illmensee	1	Gang nu, dr bruu Hund thuat-dr-niatz
+lm	41057	Baindt	1	Gang du nu, dr bru Hund thuat dir niaz
+lm	41064	Ziegelbach	1	Gang nu d'r brau Hund duat d'r nix
+lm	41076	Maria Steinbach	1	Gang no, d'r brau Hund dhut'r nix
+lm	41086	Waldau	1	Gang nu, dä bru Hund tuè der itt
+lm	41098	Hubertshofen	1	Gang nu, dr bru Hund duadr nint
+lm	41114	Öfingen	1	Gang non, de brun Hund duet der nint
+lm	4112	Klein-Mutz	1	Joah nu, dä brune Hund deit di nischt
+lm	4119	Gross Dölln	1	Goah (lop) man, de brune Hund deiht di nischt
+lm	41200	Masevaux	1	Gang nurr, dr brüna Hund macht dr nix
+lm	41214	Aspach-Le-Bas	1	Gang ner, dr boüna Hund thüat d'r nicks
+lm	4123	Senftenhütte	1	Joh nu, de brun Hunne dohn die nischt
+lm	41245	Lipburg	1	Gang nume, d'r brun Hund duèt d'r nitt
+lm	41262	Utzenfeld	1	Gang nu, der bru Hund duet der nit
+lm	41275	Schluchsee - Blasiwald	1	Gang nur, da bru Hund tuat dr nüt
+lm	41296	Oberentzen	1	Gang nur, dr brün Hund macht dér nigs
+lm	41309	Feldkirch	1	Gang nur d'r brun Hund duat d'r nitt
+lm	41336	Kappel	1	Gang nu der bru Hund thua dert nit
+lm	41351	Urbès	1	Gang nur, dr brune Hund macht dr nit
+lm	41365	Rimbach-Près-Guebwiller	1	Jang nur d'r brün Hund düaht d'r nigs
+lm	4142	Stoki	1	Lob man, dä brune Hund deht die nüscht
+lm	41460	Rixheim	1	Gang nur, da brün Hund macht dr nit
+lm	4152	Stoleczna	1	Goah mah, dä brune Hund det di nüscht
+lm	41566	Ranspach-Le-Bas	1	Gang numma, dr brün Hung thüat dr nitt
+lm	41598	Lörrach	1	Gang nume, der brun Hund duet d'r nut
+lm	4161	Glazow	1	Goah ma, dä bruhn Hund deet die nüscht
+lm	41623	Hütten	1	Gang nu, de brun Hund duèt der nutt
+lm	41653	Largitzen	1	Geh nume, dr brüne Hund thuet dr nit
+lm	4171	Okunie	1	Goh nu, de brune Hund deht die nischt
+lm	41714	Lucelle	1	Gang numma d'r brün Hung thüat diar nit
+lm	41785	Höhenrain	1	Geh no, da brau Hund duad da nix
+lm	41801	Grosshöhenrain	1	Geh zua, da brau Hund dea thuat da nix
+lm	41811	Tattenhausen	1	Geh no da brau Hund thuat da nix
+lm	41819	Ollarzried	1	Gang nu, der brau Hund thuat dir nix
+lm	41836	Kaufbeuren	1	Gang no der braun Hond tuot d'r nix
+lm	41845	Denklingen	1	Gang nu, dr brau Hund doat dr nix
+lm	41855	Raisting	1	Gea nu zua, dr brau Hund duat nix
+lm	41872	Baiernrain	1	Geh no da brau Hund tuad da nix
+lm	41932	Huglfing	1	Geah nu dea brau Hund duada nix
+lm	41939	Penzberg	1	Geha no zu, da brau Hund thuta nix
+lm	41948	Reichersbeuern	1	Geh nur, der braune Hund thuat dir nix
+lm	41953	Parsberg	1	Geh nur, der braune Hund thuat dir nix
+lm	41963	Kirchdorf am Inn	1	Geh nur, der brau Hund thuat da nix
+lm	41969	Aschau im Chiemgau-Niederaschau	1	Geh no, da brau Hund thuat dir nix
+lm	41971	Betzigau	1	Gang nu zua, dö brau Hund duetr nuitz
+lm	41980	Sulzschneid	1	Gang nu, dea brauner Hund duat d'r niks
+lm	41986	Steingaden	1	Gang no, der brau Hund thut d' nix
+lm	42039	Bayerniederhofen	1	Gang no, da brau Hund thuat dir nuits
+lm	42049	Jachenau	1	Gea no der brau Hund thuat da nix
+lm	42056	Unterjoch	1	Gang nu, der braune Hund thut dir nix
+mn	42062	Oberau	1	Geh no, da brau Hund thuat da nix
+mn	42070	Eggstätt	1	Geh na, da braun Hund duad da nix
+mn	42076	Traunwalchen	1	Goh no, da brau Hund thuat da nix
+mn	42084	Kirchanschöring	1	Geh, hau da braun Hund thuat da nix
+mn	42116	Ruhpolding	1	Geh zua, da brau Hund thuat da nix
+mn	42118	Anger	1	Geh nun zun da brau Hund thuad da nix
+mn	42132	Ramsau bei Berchtesgaden	1	Geh no, da brau'n Hund thuat d'r nix
+mn	42140	Hachiville	1	Gank némen, dé brungen Hond dét der néischt
+mn	42166	Niederwampach	1	Geu nemmen de brommen Huont dät der nescht
+mn	42180	Neidhausen	1	Gank nemen de brungen Hond det dir neîst
+mn	42236	Ettelbrück	1	Gé némmen, de brongen Hondt dét der neischt
+mn	42254	Rambrouch	1	Gîe nemmen de bromme Hûond dèt derr nîescht
+mn	42302	Eischen	1	Gé nemmen, dén brommen Ho-end dét dèr né-scht
+mn	42316	Hünsdorf	1	Géh nemen, de brongen Hont dét dir néischt
+mn	42341	Biwer	1	Gé nemmen, de brongen Hond det der neîscht
+mn	42414	Uewerkuer	1	Gieh nemen, de bromen Hound det der néischt
+mn	42431	Peppange	1	Gui nemmen, dé brongen Hond dut der nuischt
+mn	42469	Schwarzenbach an der Pielach	1	Geh nur, der braune Hund tuat da nix
+mn	42470	Lehenrotte	1	Geh nur, da braune Hund tuat da nix.
+mn	42472	Thal	1	Ge nur, da braune Hund tuat da nix
+mn	42477	Grillenberg	1	Geh' nua, da brauni Hund tuat da nix
+mn	42520	Schneebergdörfl	1	Geh nur, der braun Hund tuat da nix
+mn	42527	Mollram	1	Geh nur, da braune Hund tuat da nix
+mn	42532	Frein an der Mürz	1	Geh na, da prauni Hund tuat da nix
+mn	42571	Massing	1	Geh' ma, da brauna Hund tuat Dir nix
+mn	42573	Semmering	1	Geh' nua, da brauni Hund thuat da nix
+mn	42587	Feistritz am Wechsel	1	Geh nur (na), da brauni Hund tuat da nix
+mn	42612	Gleichenbach	1	Ge na, da brauni Hund tuad da nix
+mn	42635	Weiden am See	1	Geh nia', da brauni Hund tuit da' nix
+mn	42637	Nickelsdorf	1	Geh na da brauni Hund tuit nicks
+mn	42640	Siegersdorf	1	Geh' nur, da braune Hund tuat da nix
+mn	42647	Stotzing	1	Geh na, da brauni Hund tuit da nix
+mn	42670	Wieselburg (Mosonmagyaróvár)	1	Keh nua, tea prauni Hund tua'ta nix
+mn	42688	Andau	1	Geh nur der braune Hund tut dir nix
+mn	42691	Wiesen	1	Geh nir, da brauni Hund tuita da nix
+mn	42701	Baumgarten	1	Geh nua, der brauna Hund tua da nichs
+mn	42706	Apetlon	1	Geh nia, dea breuni Hund tuit d'a nichs
+mn	42722	Horitschon	1	Geh nia, der brauni Hund tuit da nix
+mn	42728	Holling (Fertőboz)	1	Ge nea, tea prauni Hund tuid ta niks
+mn	42748	Frasnacht	1	Gang no, dä brun Hond tuät-r nünt
+mn	42821	Rietli	1	Gang no, de bru Hond töd der nütz.
+mn	42843	Hohenems	1	Gang no, ena bru Hund tuat d’r nüt.
+mn	42850	Bizau	1	Gang nu, dar brunn Hund tuot-r nünz (nix)
+mn	42856	Riezlern	1	Gang no, der bru Hond duadder nüd
+mn	42908	Gamprin	1	Gang no dr bru Hun tuat dr nünt
+mn	42926	Röns	1	Gang nuu, der bruu Hund duat dier miud
+mn	4293	Brielow	1	Joch nur, der brune Hund deit di nischt
+mn	42933	Buchboden	1	Gan no, dä bru Hund duder nüdt
+mn	42939	Lech	1	Gang no, d'r bru Hoggä duad d'r nüd
+mn	42970	Sargans	1	Gang nu, dr bru Hund tuät dr nü-üt
+mn	42977	Schruns	1	Gang nu, d’r bru Hund tuat d’r nüt.
+mn	42985	Vils	1	Gend nu, der brau Hund tuat dir nix
+mn	43004	Hinterhornbach	1	Gend nu, der brau Hund tuatr nix
+mn	43013	Rinnen	1	Geah nu, der brau Hund tua dr nix
+mn	43021	Ehrwald	1	Geah nu, der brau Hund tuat der nix
+mn	43022	Leutasch	1	Geah nur, der brau Hund tuat dir nicht.
+mn	43027	Bach	1	Gea nu, dear brau'n Hund tuat diar nix
+mn	43037	Silzerberg	1	Geh nu, der braune Hund tuet d'r nicht
+mn	43055	Hatting	1	Gea nu, dar brauna Hund tuat dar nigs.
+mn	4306	Deetz	1	Lop nu, der brune Hund duot de nischt
+mn	43070	Mils bei Imst	1	Gea nu dear brau Hund tuat Diar nuit
+mn	43122	Unterried	1	Geah nuar, dr braune Hund taatr nuicht
+mn	43133	Holdernach	1	Gea nu dar brau hund tuat nuit.
+mn	43152	Kauns	1	Gea nu, dr braun (fugsert) Hunt tuat dr nuit
+mn	43161	Unterberg	1	Geh nur, der braune Hund tuot dir nicht
+mn	43162	Pertisau	1	Gea na, da braune Hund tuata nix. 
+mn	43173	Brixlegg	1	Gea nur, da brauni Hund tuat da nix
+mn	43183	Penningdörfl	1	Geah no, dar braune Hund thuat diar nix
+mn	4321	Fahrland	1	Joah nu, der brune Hund dueht di nischt
+mn	43210	Innsbruck	1	Geah nur, dear Hund tuat der nix.
+mn	43224	Kolsassberg	1	Geah nu, der braune Hund tuat dir nix.
+mn	43251	Aschau im Zillertal	1	Geh nur, der braune Hund tuat dir nix
+mn	43280	Krimml	1	Geh na, da braune Hund tuat ta nix
+mn	43285	Trins	1	Geah nur, der braune Hund tuet dr nicht
+mn	43288	Dornauberg	1	Gea nar, der braune Hund tuetr nicht
+mn	4329	Steglitz	1	Je man, dör brune Hund dut di nischt
+mn	43297	Schmirn	1	Geah nur, dr braune Hund tuet dir nicht
+mn	43301	Kitzbühel	1	Ge na, da brauni Hund tuat da nix
+mn	43303	Hochfilzen	1	Gea nur, der braune Hund tuat da nix
+mn	43310	Saalfelden am Steinernen Meer	1	Gej na, da brau(n) Hund tuat da nix
+mn	43315	Werfen	1	Ge na, da brau Hund tuad da nix
+mn	43331	Bramberg am Wildkogel	1	Geh nua, da brauni Hund tuat da nix.
+mn	43340	Niedernsill	1	Geh na, da braun Hund tuad da nix
+mn	43347	Sankt Georgen	1	Geh na glei, da brauni Hund tuat da a nix
+mn	43354	Goldegg	1	Ge(i) na, da brau Hund tuat da nix
+mn	43359	Kleinarl	1	Geï na, da brauni Hund tuat da nix
+mn	43372	Bad Gastein	1	Ge-i na, da braunö Hunt tuat da nix
+mn	43378	Berg-Gruben	1	Geh lei, dea braune Hunt thuat die nix
+mn	43379	Heiligenblut	1	Gei lei, de braune Hund tuet da nigs
+mn	4338	Köpenick-Kietz	1	Je nur, der braune Hund dut di nichs
+mn	43381	Sankt Martin am Tennengebirge	1	Geh na, da braune Hund tuat da nix
+mn	43384	Ramsau	1	Geh nu(?), dos brau' Hündl tuet de nix
+mn	43391	Assach	1	Geh na, da breu Hund tuat da nix
+mn	43393	Donnersbach	1	Geh nuar da brau Hund tuat da nix.
+mn	43412	Untertauern	1	Geh na, da brau(n) hund tuat da nix!
+mn	43420	Pöllau	1	Geah na, da brauni Hund tuat da nix
+mn	43427	Oberweissburg	1	Gea na da braune Hund tuat da nix
+mn	43433	Sauerfeld	1	Gea nur glei, dr braunö Hund tuat da eh nix
+mn	43439	Ranten	1	Geah na, der braune Hund tuat da nix
+mn	43453	Strechen	1	Geh nua, da braum Hund tuat da nix.
+no	43455	Treglwang	1	Geh nua, der brauni Hund tuat da nix
+no	43457	Kalwang	1	Geh na, da Hund tuat da nix.
+no	43458	Trofaiach	1	Geh nau, da brauni hund tuat da nix.
+no	43462	Hafendorf	1	Geh na, da brauni Hund tuat da nix
+no	4347	Herzfelde	1	Geh man, der brune Hund duet die nischt
+no	43480	Sankt Michael in Obersteiermark	1	Ge nua, da brauni Hund tuat di nix
+no	43488	Pusterwald	1	Geah nar, da brauni Hund tuat da nix
+no	43489	Sankt Oswald	1	Geh' nur, da braune Hund tuat da nix
+no	43494	Sankt Marein bei Knittelfeld	1	Geh na, da brauni Hund tuat da nix
+no	43497	Frohnleiten	1	Geh na, da brauni Hund duad da nix
+no	43505	Sankt Peter ob Judenburg	1	Geah na, da braune Hund tuat da nix
+no	43530	Teufenbach	1	Gea na, der braune Hund tut da nix
+no	43534	Sankt Johann	1	Geah' glei, da brauni Hund tuat ea nix.
+no	43537	Kainach bei Voitsberg	1	Geah na, der brauni Hund tuat da nix.
+no	43544	Gratwein	1	Geh, na, der braune Hund, wird de nix tuan!
+no	4357	Tempelberg	1	Lop man, der brune Hund dut dir nischt
+no	43576	Fochnitz	1	Geh na, der braune Hund tuat da so nix
+no	43579	Wenigzell	1	Geh na, der braune Hund taut da nix
+no	43633	Ehrenschachen	1	Geh na weita, da brauni hund tuat da nix.
+no	4364	Döbberin	1	Geh doch, där brune Hund dut di nisch
+no	43640	Salmannsdorf	1	Ge na, da brauni hund tuit dir nix
+no	43662	Sankt Kathrein am Offenegg	1	Geh na, da brauni Hund tuat da nix
+no	43699	Siget in der Wart	1	Geh nur der braune Hund tut de nix
+no	43715	Stubenberg	1	Geh ma, da braune Hund tuat da nix
+no	43726	Unterrohr	1	Geh na, da braune Hund tuat da nix
+no	43756	Eggersdorf	1	Geh na, da braune Hund tuat da nix
+no	43761	Sinabelkirchen	1	Geh na(n), dea brauni Hund tuit (tuat) da nix
+no	4377	Pamiecin	1	Je man der braune Hund duht dei nischt
+no	43773	Bad Blumau	1	Geh na, da brauni Hund tuit da nix
+no	43782	Deutsch Tschantschendorf	1	Geh nua, da brauni Hund tuat da nigs
+no	43850	Klostermarienberg	1	Geh' na da brauni Hund tuid ta nix
+no	4388	Grabno	1	Jeh nur, der braune Hund thut terr nischt
+no	43889	Moschendorf	1	Geh' na', de brauni Hund tuit da nix
+no	43896	St. Jakob	1	Geh lei, der Hund tüter nicht.
+no	43905	Oberpeischlach	1	Geh lei, da braune Hund tüt dia nicht
+no	43909	Mörtschach	1	Göih lei, da braunö Hund tuat da nigsch
+no	43910	Flattach	1	Geh nur, die braune Priehn(?) tuat dir nix
+no	43938	Kolbnitz	1	Geah lei, der braune Hund tuat der nix
+no	43939	Ausservillgraten	1	Gea la, dear braune Hund tuit dor nicht
+no	43948	Assling	1	Geh lei, der braune Hund tuit dir nichts
+no	43959	Lindsberg	1	Geh lei, da braune Hund tuet da nix
+no	43977	Kornat	1	Geh nur, der braune Hund tuat dia nix
+no	43982	Berg im Drautal	1	Geh lei, da braune Hund tuet da nix
+no	43988	Goderschach	1	Gea lei, dr braune Hund tuat dr nix.
+no	4400	Trzemeszno Lubuskie	1	Geh nur, der braune Hund tut dir nischt
+no	44006	Kremsbrücke	1	Gea lei, ta braunö Hunt tuat ta nix
+no	44010	Oberhof	1	Geah na, da braune Hund tuat da nigs
+no	44038	Kleblach-Lind	1	Gea nur, der braune Hund tut dir nix
+no	44040	Obermillstatt	1	Geäh lei, dn(?) braune Hund tuet da nix
+no	44054	Patergassen	1	Geah lei da braune Hund tuat da nix
+no	44056	Steuerberg	1	Geah lei, der braune Hunt tuat dr nix
+no	44109	Hermagor	1	Gea lei, da braune Hund tuat da nix
+no	44117	Bleiberg-Kreuth	1	Gea na lei, da braune Hund tuat da nix
+no	44124	Villach	1	Geh na, da braum Hund tuat ta nix.
+no	44142	Schiefling	1	Geh nur, der braune Hund tut dr niks
+no	44162	Suetschach	1	Geh lei da(r) braune Hund tuat da(r) nix
+no	44174	Sankt Salvator	1	Geah na, dar braune Hund (die Ggeifn) tuat dar nix
+no	44182	Heft	1	Geah na, da braune Hund tuat da nix
+no	44189	Schiefling	1	Geah na, der braune Hunt tuat da nix
+no	44196	Modriach	1	Gea, da braune Hund tuat da nix
+no	44200	Launegg	1	Geh na, da brauni Hund tat da nix
+no	44234	Obermühlbach	1	Geah na, da braune Hund tuat diar nix
+no	44243	Hochfeistritz	1	Gea lei, da braune Hund tuat da nix
+no	44248	Sankt Andrä	1	Gehr na, dar braune hund tuat dar nix.
+no	44256	Glashütten	1	Geah na, da brauune (da göhle) Hunnd tat da nix!
+no	44261	Sankt Peter im Sulmtal	1	Geah nur, da brauni Hund tuat da nix
+no	44295	Oberhaag	1	Geia na, da brauni Hunt tuat dia nix
+no	44303	Klagenfurt-Harbach	1	Geah nar, da braune Hund tuat da nix
+no	44308	Eberndorf	1	Geh na, der braune Hund tuat dir nix
+no	44313	Lorenzenberg	1	Gea' nar, da braune Hund tuat dia nix
+no	44314	Sankt Margarethen	1	Ge na, da braune Hund tuet da nix
+no	44320	Bad Eisenkappel	1	Geh na, da braune Hund tut da nix
+no	44333	Paldau	1	Geh ner, da braune Hund tuat da so nix
+no	44347	Hohenbrugg an der Raab	1	Geh nur, der brauni Hund tuat da nix
+no	44358	Mogersdorf	1	Geh na, da braune Hund tuada nix
+no	44371	Allerheiligen bei Wildon	1	Geh' na, d'hund tuat dr nix
+no	44398	Leibnitz	1	Gea na, da brauni hunt tuat da niks.
+no	44414	Klöch	1	Geah na, d'r braune Hund tuat dir nix
+no	44425	Ratschendorf	1	Geh na, da brauni Hund tuat da nix.
+no	44433	Langegg	1	Geh nar, da braune Hund tut D'r nix
+no	44439	Ebental (Polom)	1	Lei gea, dar praunä Hunt toät dr nisch
+no	44442	Steinwand (Podstenice)	1	Ga lei, dar praunä Hunt tät dr nisch
+no	44445	Obergras (Trava)	1	Lei gea! Dar graunä hunt dät dr nisch
+no	44447	Göttenitz (Gotenica)	1	Lei prah, dar praunó Hónt tot dr nosch
+no	44454	Nesseltal (Koprivnik)	1	Lei gean tuo, dar praunom Hunt tet dr nisch!
+no	44461	Tiefenbach (Briga)	1	Lei gäh, dar praumä hent tot dr nisch
+no	44465	Unterlag (Spodnji Log)	1	Giä lei, dr präunä Hünd tot dir nisch
+no	44519	Wildensbuch	1	Gang nu, de brun Hund tuet der nüd
+no	44610	Wittenwil	1	Gang nu, de bru Hund tuet der nünt
+no	44685	Neukirch an der Thur	1	Gon no, de bru Hond tut der nünt.
+no	44770	Mont-Tramelan	1	Gang nume dä bruun Hu(?)ng macht di nüt
+no	44771	Pieterlen	1	Gang nume, dä bruun Hung machter nüt.
+no	44796	Merzligen	1	Gang nume, dä brun Hung macht dr nüt
+no	44801	Gals	1	Gang numme, der brun Hung macht dier nüt. 
+no	44832	Huggerwald	1	Gang numme, dr brun Hong macht dr nit
+no	44851	Ziefen	1	Gang umme, der brun Hund macht der nütt.
+no	44858	Anwil	1	Jang numme, dr brun Hund tuet dr nüt
+no	44888	Umiken	1	Gang nor, de brun Hund tuet dr nüt
+no	44994	Gänsbrunnen	1	Gang numme, dä brun Hung mach'der nüt.
+no	45009	Oensingen	1	Gang umme, dr bruun Hung macht dr nüt.
+op	45022	Mühlethal	1	Gang nome, de bruun hòna tuet er nüüt
+op	45067	Meisterschwanden	1	Gang nume de brun Hund macht dr nüt
+op	45192	Mülchi	1	Gang nume, dr brun Hung tuet dr nüt
+op	45195	Eigenthal	1	Gang nor, dä brun Hond macht der nüd.
+op	4521	Wollin	1	Loop man, deä brune Hund deit di nüscht
+op	4527	Rädel	1	Loop man, de brune Hund dueht di nuscht
+op	45279	Hildisrieden	1	Gang nor, de brun Hond tuet dr nüd
+op	45299	Willisau	1	Gang nor, da bruun Hond tuet der nüd.
+op	45312	Bleuen	1	Gang nume, der bruun Hung tuet dr nüt
+op	45345	Dielsdorf	1	Gang nu, de säb bru Hund tuet der nüt
+op	45356	Unterwagenburg	1	Gang nu, de brun Hund tuet'er nüd
+op	4539	Wildenbruch	1	Loop man, där brune Hund dut die nüscht
+op	45474	Boden bei Fischenthal	1	Gang nu, de bru Hund tuet dir nüt
+op	4549	Löwenbruch	1	Lop' man, där brune Hund dut dei nüscht
+op	45492	Dicken bei Degersheim	1	Gang no, de bru Hond tuet der nüt
+op	45501	Bonstetten	1	Gang nu, da brun Hund macht dir nüt
+op	45529	Riedikon	1	Gang nu, de brun Hund tuet der nüt
+op	4560	Deutsch Wusterhausen	1	Je(?) nu, der brune Hund dhut dei nischt
+op	45611	Feusisberg	1	Gang nu, d'brun Hund machtr nüt.
+op	45627	Starkenbach	1	Gang nu, dä bru Hund tuet'der nüt.
+op	45630	Risch	1	Gang nur, de brun Hund duet dr nüd (macht dr nüd).
+op	45644	Reichenburg	1	Gang nu, dr brun Hund tud'dr nüd. 
+op	45692	Süri	1	Gang nume, dr brun Hung tuet dir nüt
+op	45694	Courlevon	1	Gang nummä, dä brun Hung machtr nüd
+op	45716	Brünisried	1	Gang nume, dr brun Hun tuet dr nüt
+op	45718	Ferpicloz	1	Gang nume, de brun Hung tuet der nüd!
+op	45722	Abländschen	1	Gang nume dä brun Hund tuet dr nüt
+op	4573	Neu Golm	1	Geh man, der brune Hund thut dei nischt
+op	45734	Dentenberg	1	Gang nume, der brun Hung tut der nüt
+op	45758	Mutten	1	Gang nume, der bunne Hung tuet der nüt.
+op	45764	Oberfrittenbach	1	Gang nume, dr brun Hung tuet dr nüt
+op	45784	Schüpfheim	1	Gang umä, dä brun Huond machtr (tuot dr) nüd.
+op	458	Wietrzno	1	Goah ma, dei braun Huhnd deht dai nischt
+op	4584	Hohenwalde	1	Je nau, der braune Hund dut dei nischt
+op	45863	Gurzelen	1	Gang nume, du bruun Hung tuet der nüt
+op	45878	Linden (Oberlangenegg)	1	Gang nume, dr brun Hung macht dir nüt
+op	45891	Sörenberg	1	Gang nome, dä brun Hond macht 'dr nüd
+op	45892	Lungern	1	Gang numä fräfä, dä bruin Hund tiot-d’r niid.
+op	4590	Kunice	1	Je man dar braune Hund thüt dai nischt
+op	4595	Mierczany	1	Geh man, der braune Hund theit der nischt
+op	45962	Entschwil	1	Gang nume, där brun Hund tuet der nüt.
+op	45980	Saxeten	1	Gang nummen, där bruun Hund tuoter nüd
+op	45992	Guttannen	1	Gang nummen, där brün Hund tööd deer nyd.
+op	46009	Ulrichen	1	Gang nor, der brüh Hund tuot nix.
+op	46017	Gersau	1	Gang nur, de brun Hund tueder nüd.
+op	46021	Illgau	1	Gang nur, der brun Hund macht der nüd
+op	46026	Engi	1	Gang nu, de bru Hund tuet dir nüt.
+op	46027	Leuggelbach	1	Gang du nu, der bru Hund tuet dir nüt
+op	4603	Toporow	1	Geèh mon, d'r braune Hund tüt'r nischt
+op	46038	Linthal	1	Gang nu, dr bruu Hund tuät dr nüt.
+op	46040	Engelberg	1	Gang nur, dr bröün Hund macht diär nuid.
+op	46045	Erstfeld	1	Gang nu dä brün Hund tüöt där nit.
+op	46048	Valendas	1	Gang nu, der brun Hund tuet dier nüt
+op	46050	Meierhof	1	Gang nu, der bru hund tuet'er nit.
+op	46051	Camana	1	Gang nu, d'r brun Hund tuat d'r nüt
+op	46055	Nufenen	1	Gang nu, der brun Hund tuat dr nüt
+op	46059	Fanas	1	Gang nu, där bru Hund tuet där nüd
+op	46070	Mathon	1	Geha nu, dr brau Hunt tuat dr nuit
+op	46071	Galtür	1	Gea nu, dear brau Hund tuat dar nuit
+op	46073	Felsberg	1	Gang nu, de bru Hunn tuat diar nüd
+op	46079	Fideris	1	Gang nun, där brun Hund tued-der nüd
+op	4608	Alt Stahnsdorf	1	Gehnur, der brune Hund dhud dei nischt
+op	46083	Klosters	1	Gang nunn,dr bruun Hund tuotr nüüt.
+op	46101	Wiesen	1	Gang nur, dr brun Hund tuet dir nüt.
+op	46104	Am Bach	1	Gang nu, dä brun Hund tuat'r nüt
+op	46115	Lauenen	1	Gang numme, die bruni Hand tuet der nüt.
+op	46118	Stiegelschwand	1	Gang numä, dä bruun Hund tueter nüt
+op	46119	Fieschertal	1	Gang numma dr brü Hund tüat där niggs.
+op	46127	Bitsch	1	Gang numme dr brüh Hund töet dr nigs
+op	46129	Agarn	1	Gang nur, där brü Hund tuät där nix.
+op	46132	Hasel	1	Gang nummu, der brü(n) Hund tüöt dier nix. 
+op	46142	Saas Grund	1	Gang nur, der brü Hund tiot diér nix.
+op	46143	Zwischbergen	1	Gang nummu, där brui Hund tuät där nix. 
+op	46145	Zermatt	1	Gang numma, där brü Hund túeter nigs
+op	-46146	Prettau (Predoi)	1	Gie la, do praune Hund tüito nicht
+op	46157	Luttach (Lutago)	1	Gea la, da braune Hund tut Do nicht.
+op	-46161	Hinterkirch (Graun)	1	Geie nuh, deir braun Hunnt tuatr nicht 
+op	-46162	Rabenstein (Moos)	1	gea lei der braune hund tuet der nicht
+op	46170	Tschöfs (Ceves)	1	Geh mur, dër braune Hund tuat Dier nicht
+op	-46175	Pfunders (Fundres)	1	Geah na fra fort, do braunö Hund tuit do nicht
+op	-46181	Antholz (Anterselva Di Mezzo)	1	Gallà, do braune Hunt tutto nicht
+op	-46195	Schabs (Sciaves)	1	Gea lei do braune Hunt tuot do nitht
+op	-46215	Pichl	1	Gea la do braune Hunt tuet do nicht
+op	-46217	Burgeis (Burgusio)	1	Geah lei, der braun Hund tuatr nichts
+op	-46226	Kurzras (Corteraso)	1	Geh lei, der fuxete Hund tuat dir nicht
+op	-46227	Katharinaberg (Santa Caterina)	1	Geah lei, der fuxete Hund tuat dir nicht
+op	-46234	Vernuer (Vernurio)	1	Geha nuar, der grießlte Hund tuat dira nicht
+op	-46262	Stilfs (Stelvio)	1	gea lei der braune hunt tuat dr nicht
+op	46267	Laas (Lasa)	1	Geh lie, dr braun Hund tuat’r nicht
+op	46283	Gargazon (Gargazzone)	1	Gea lai, dr braune Hund tuetr nix.
+op	-46293	Sankt Peter Hinter Lajen (San Pietr	1	Geah nur der braune Hund dir nichts [sic] 
+op	-46305	Sankt Walburg (Santa Valburga)	1	Gea lai, der brau Hund tuet der nicht
+op	-46319	Wangen (Vanga)	1	Gea nur der brauna Hund tuat diar nicht
+op	46324	Laurein (Lauregno)	1	Gaa nu lai, dor brau hunt tuat dor nicht.
+op	-46340	Kaltern (Caldaro)	1	Geah lai, dr brauna (gela) Hund tuat dr nix
+op	-46344	Deutschnofen (Nova Ponente)	1	Gea lai, dr braun Hund tuat dr nicht
+op	-46351	Altrei (Anterivo)	1	Geah lei, der braune Hund tuat diar nigs
+op	-46353	Salurn (Salorno)	1	Geah lai, (dear [fürmat](?) ) da braune Hund tuat dar nix
+op	46361	Stefansdorf (Santo Stefano)	1	Göllà, do praunö Hunt tuito nicht.
+op	46365	Lusern (Luserna)	1	Geha nor, dar braune Hund thüat dir nicht
+pq	46367	Ljetzan (Giazza)	1	... ... in húnt šprɛ́kolṑt tùə̯t níχt in níə̯men.
+pq	46369	Lusern (Luserna)	1	gē hín du, dər brū́nətə húnt tǖ̀t dər níχt.
+pq	46385	Nauders	1	Geh nu, dr braun Hund tuat dr nuicht
+pq	46386	Heiligkreuz	1	Geh nu, der braune Hund tuit Dir nuicht
+pq	46391	Poppenbüll	1	Gah man, de (oll) brun Hund deiht di nicks
+pq	46407	Dahrenwurth	1	Gah man, de brun? Hund deid di nicks
+pq	46420	Bergenhusen	1	Gaah man, de bruune Hund deiht di nicks
+pq	46430	Owschlag	1	Gaae man, de brune Hund deiht di nix
+pq	46443	Holtsee	1	Gah man to, de brun Hund deid di nicks
+pq	46459	Pries	1	Gah man to, de bru'n Hund deiht di nix
+pq	46481	Stakendorf	1	Gah man, de brun Hund deit die (nichts) nieds
+pq	46492	Behrensdorf (Ostsee)	1	Gah man tau, de bruun Hund deiht di nicks
+pq	465	Okunino	1	Goh mä, dei brun Hund deet di nischt
+pq	46554	Sulsdorf	1	Gah man, de bruhn Hund deiht die nicks
+pq	46570	Staberdorf	1	Gah man to, de brune Hund deiht di nix
+pq	46637	Alte Kirche	1	Gah man, de brune Hund deiht di nicks
+pq	46652	Sollerupfeld	1	Gah man, de brune Hund deiht di nicks
+pq	46666	Neuberend	1	Gah man, de brune Hand deiht die nicks
+pq	46684	Zimmert	1	Gah man, de brune Hund deiht di nicks
+pq	46687	Damp	1	Gah man, de brune Hund deiht di nicks
+pq	46693	Westermarkelsdorf	1	Gah man, de brun Hund deit die nicks
+pq	46784	Grossenwiehe	1	Gaa man, de brune Hund deiht di nix
+pq	46798	Estrup	1	Gah man, de brune Hund deiht di nicks
+pq	46806	Wippendorf	1	Gah nu, de braune Hund deit di nichts
+pq	46823	Maasholm	1	Ga nu, de brun Hund deit di nix
+pq	46924	Beken (Bækken)	1	Gaah man, de brune Hund deit di nix
+pq	47139	Sandhatten	1	Ga man to, de bruhn(e) Hund deut di nicks
+pq	47154	Adelheide	1	Gah man, de brune Hund deut di nix
+pq	47171	Dreye	1	Gah man to, de brune Hund deut di nicks
+pq	47183	Allerdorf	1	Gah man to, de brune Hund deiht di niks
+pq	47189	Heerenland	1	Gah man, de brune Hund deit die niks
+pq	47203	Steenfelde	1	Ga man, de brune Hund deit di niks
+pq	47219	Lohe	1	Gah man, dei brune Hund deit die nicks
+pq	47224	Burgfelde	1	Gah man de brune Hund deit di nicks
+pq	47235	Moorhausen	1	Ga man to, de bru'n Hund deit di nicks
+pq	4727	Klein Glien	1	Gang man, der brune Hund thut de nischt
+pq	47370	Bardenfleth	1	Gah n?a to, den brohne Hund deiht di nicks
+pq	4738	Niederwerbig	1	Gang man, de brune Hund duad dei nischt
+pq	474	Kramarzyny	1	Gah nur, dei brun Hund det di nischt
+pq	47402	Mittelbauer	1	Gah man, de brune Hund deiht dih nik's
+pq	47422	Neuenbülstedt	1	Gau man, de brune Hund deit di nix
+pq	47447	Neermoor	1	Gah man to, de brune Hund deit die nicks
+pq	47455	Remels	1	Gah man, dey brune Hund deit Di nix
+pq	47463	Petersfeld	1	Gah man driest to, de brune Hund di nicks [sic]
+pq	47470	Jaderbollenhagen	1	Ga man drist, de brune Hund deit di nicks
+pq	4749	Zülichendorf	1	Joa man, der brune Hund duet dei nischt
+pq	47598	Offenwardenermoor	1	Gah man to, de brunn Hund (Tew) deiht di nix
+pq	4761	Schöneweide	1	Lopp nur, der brune Hund duht de(i) nischt
+pq	47612	Paddewisch	1	Ga man, de brune Hund de deit die nix
+pq	47624	Ober-Ochtenhausen	1	Gah nu, de bruner Hund deit di nix
+pq	47650	Cirkwehrum	1	Gu man, dei brune hund deit ti nix
+pq	47657	Westerende-Holzloog	1	Gah man, de brun' Hund deiht di nicks
+pq	47670	Wiesede	1	Gah man hen, de brun Hund deit di niks
+pq	47677	Neustadtgödens	1	Gah man, de brune Hund deiht di niks
+pq	4770	Egsdorf	1	Jeh man, der brune Hund duht dei nischt
+pq	4776	Birkholz	1	Jeh nur, der braune Hund dhud der nischt
+pq	478	Pradzonka	1	Ga ma, dei bun Hund det die nüscht
+pq	47840	Kükelühn	1	Gah man, de brun Hunt deit di nix
+pq	47861	Siggeneben	1	Gaa man, de bruhn Hund deiht die nicks
+pq	47863	Hedwigenkoog	1	Gah man, de brune Hund deid di nicks
+pq	47885	Edemannswisch	1	Ga man, de brune Hund deid di niks
+pq	4789	Briescht	1	Geh man, der braue Hund dhut dir nischt
+pq	47893	Oesterborstel	1	Gah man, de brunrr Hund deit die nicks
+pq	47907	Hamweddel	1	Gah mann, de brun Hund deiht dir niks
+pq	47916	Warder	1	Gah man tau, de brun Hund deid di nichts
+pq	47935	Klein Barkau	1	Gaa man, de brun Hund dait di nix
+pq	47952	Mucheln	1	Gah man, den brun Hund deihd di niks
+pq	4800	Gross Briesen	1	Geh ner der braune Hund thut dr nischt
+pq	48096	Grömitz	1	Gah man, de brun Hund deiht di nicks
+pq	48098	Friedrichskoog	1	Gah man, de brune Hund deiht di nicks.
+pq	48105	Barlteraltendeich	1	Gah man, de brune Hund deiht di nicks
+pq	48115	Holstenniendorf	1	Ga man, de brune Hund deiht di niks
+pq	48126	Jahrsdorf	1	Gaa man to, de bruhn Hund deid di nix
+pq	4813	Klopot	1	Jeh man, der braune Hund thut dir nischt
+pq	48141	Ehndorf	1	Gah man, de brune Hund deid di niks
+pq	48156	Gönnebek	1	Gah man to, de brun Hund deiht di nicks
+pq	48164	Wöbs	1	Gah man to, de bruhn Hund deihd di nichs
+pq	48186	Süsel	1	Gah man, de bruhn Hund deiht die nicks
+pq	48233	Brunsbüttelerhafen	1	Gah man to, de brune Hund deit di niks
+pq	48239	Brokdorf	1	Gah man to, de brune Hund deiht di  nicks
+pq	4824	Radomicko	1	Jeh nur, dar braune Hund th?t derr nischt
+pq	48240	Spiekeroog	1	Gah man, de brun' Hund deit di nicks
+pq	48242	Berensch	1	Gah man, de bruner Hund deid di nix
+pq	48247	Altenbruch	1	Gah man to, de brune Hund deiht di niks
+pq	48282	Norderney	1	Gah man, de brun hund deit di nicks
+pq	48283	Baltrum-Ostdorf	1	Gah man, de brun Hund deit Di nicks
+pq	48302	Misselwarden	1	Gah man to, de brune Hund deiht di nicks
+pq	4832	Radnica	1	Gieh mon, dar braune Hund thit 'r nischt
+pq	48324	Weissenmoor	1	Gaah man to de brune Hund deit die nicks
+pq	48342	Itzendorf	1	Ga man, de bruhn hunt deit di nicks
+pq	48356	Arle	1	Ga man hen, de bruun Hund deit die nicks
+pq	48368	Stedesdorf	1	Gah man to, de brune Hund deit ti nix
+pq	48383	Wüppels	1	Gah man, de brun Hund deiht di niks
+pq	48392	Langwarden	1	Gah man toh, de brune Hund deit die nicks
+pq	48401	Flögeln	1	Gah man, de brune Hund deit di nix
+pq	48477	Iffens	1	Gah man to, de brune Hund deiht di nicks
+pq	48487	Blexen	1	Gah man to, de brune Hud deit di nicks
+pq	48497	Altluneberg	1	Gah man to, de brune Hund deit di niks
+pq	48507	Hönau-Lindorf	1	Gah man toh, de brune Hund deit di nicks
+pq	48516	Graal-Müritz	1	Gah man, dei bruhn Hund deit di nicks
+qr	48522	Rerik	1	Gah man, dei bruhn Hund deiht die nicks
+qr	48532	Brodhagen	1	Gah nu, dei brun Hund ded die niks
+qr	48550	Toitenwinkel	1	Gah man, dei brun Huni(j)d dei(j)t di nix
+qr	486	Niedamowo	1	Goah ma, dei bruhn Hund deht di nuscht
+qr	48675	Strukdorf	1	Gah man tau, dei brun Hund deiht die nicks
+qr	48702	Sereetz	1	Ga man, de bruhn Hund deit di nicks
+qr	48716	Gross Voigtshagen	1	Gah man, dei bruhn Huhnd det di nicks
+qr	48726	Beckerwitz	1	Gah man, dei brun Hund dei't di nicks
+qr	48738	Steinhausen	1	Gah man, dei bru'n Hund deht di nix
+qr	48752	Berendshagen	1	Ga man; de(i) brun Hund deit di nicks
+qr	48765	Wiendorf	1	Gah man, dei bruhn Hund deit die nicks
+qr	48790	Rethwisch	1	Gah man to, de brune Hund deiht di nichs
+qr	48800	Lentföhrden	1	Gah man to, de brun Hund deiht di nix
+qr	48812	Todesfelde	1	Ga man to, de brun Hund deit die nicks
+qr	49022	Kleinboden	1	Gah man, dei brun Hund deht di nicks
+qr	49043	Campow	1	Gah nu, de brun Hund det die nix
+qr	49076	Nesow	1	Gah man, dei brun Hund ded di nix
+qr	49090	Dalliendorf	1	Gah man, dei brun Hund deht die nicks
+qr	49108	Neuhof	1	Gah man, dei brun Hund det di nicks
+qr	49122	Warnow	1	Gah man, dei bruun Hund deit die nicks
+qr	49140	Güstrow	1	Gah man, de bruhn Hund det di nix
+qr	49146	Drochtersen	1	Gah man, de bruhne Hund deiht die nicks
+qr	49162	Gross Nordende	1	Ga man, de brune Hund deit di nichts (nix)
+qr	49176	Quickborn	1	Ga man, de brun Hunt  de deiht di niks
+qr	49188	Jersbek	1	Gah man, de brun Hund deit di nicks
+qr	49311	Riekenbostel	1	Gah nur, de brune Hund dait di niks
+qr	49322	Brochdorf	1	Gah man, de brune Hund deit di niks
+qr	49332	Bispingen	1	Gah man driest tau, dei brune Hund, dei deiht di nix
+qr	49338	Wettenbostel	1	Gah nur, de brune Hund deit di niks
+qr	49348	Seedorf	1	Gah man, dê brune Hund deit dik nicks
+qr	49362	Stoetze	1	Ga man, de brun Hund deit dick nicks
+qr	49498	Dannenberg (Elbe)	1	Gah man de brun Hund deit di niks
+qr	495	Jaroszewy	1	Goh nu dei brun Hund det di nuscht
+qr	4950	Palck	1	Gieh akkern, dirr braune Hund thutt d'rr nischt
+qr	49509	Breetz	1	Goh man, de brun Hund deit die nicks
+qr	49524	Laaslich	1	Goa män, de brun Hund deith di nix
+qr	49534	Lübzow	1	Goah män de broun Hund deih dir nicks
+qr	49551	Buchholz	1	Goah men, de brun Hund deit di nicks
+qr	49562	Hetzwege	1	Gah man to, de brune Hund deit di nixs
+qr	49569	Otter	1	Gah man, dei brune Hund deit di nix
+qr	49579	Ollsen	1	Gah man, de brune Hund dart di niks
+qr	49587	Westergellersen	1	Gah man tau, deî brune Hund deit die niks
+qr	49605	Barskamp	1	Gah nu, de brune Hund deit di nicks
+qr	4965	Stare Kramsko	1	Gieh nur, dar braune Hund thut der nischt
+qr	4968	Zodyn	1	Gih ok, der brane Hund thit dir nischt
+qr	49727	Wendhausen	1	Gah man, de brune Hund deiht di nicks
+qr	49752	Jessenitz	1	Gah man, dei brun Hund deet di nicks
+qr	49767	Glaisin	1	Gah man, dei bruhn Hund deeht di nicks
+qr	49778	Neese	1	Gah man, dei bruhn Hund deiht die nicks
+qr	49794	Pampin	1	Gah man, dei bruhn Hund det dir nix
+qr	4980	Tarnowa	1	Gie ock, dar brane Hund tutt dr nischt
+qr	49802	Grabow	1	Goah man, de brun Hund deit di nicks
+qr	49813	Wangersen	1	Gah man to, de brune Hund dei die nicks
+qr	49821	Regesbostel	1	Gah man, deeï brune Hund deih't di nicks
+qr	49828	Tötensen	1	Gah man, de brune Hund deiht Di nix
+qr	49840	Lassrönne	1	Gah man, de brune Hund deit di nix
+qr	49857	Juliusburg	1	Gah man, dei brun Hund deiht die nicks
+qr	49881	Setzin	1	Gah man, dei brun Hund deht di nix
+qr	49898	Neuhof	1	Gah man, dei brun Huund deed die nicks
+qr	50010	Gresse	1	Gah man, dei brun Hund deht di nicks
+qr	50027	Moraas	1	Gah man, dei brun Hund det di nicks
+qr	50058	Paarsch	1	Gah man, de brun Hund deit di nix
+qr	50068	Barkow	1	Gah mann, dei bruhn Hund deit die nicks
+qr	50073	Schwinge	1	Gah man to, de brune Hund deiht di nicks
+qr	50087	Wisch	1	Ga man to, de brune Hund deit di nicks
+qr	50117	Ottensen	1	Gah man, de bruune Hund deit di nichts
+qr	50130	Willinghusen	1	Go man tau, de brun Hund dait di nids
+qr	50142	Basthorst	1	Gah man, dei bruun'n Hund deht di nix
+qr	503	Szpegawsk	1	Goh ma, dee brune Hund deet di nuscht
+qr	5031	Lugow	1	Gieh man, der braune Hund thut dor nischt
+qr	50321	Lehmrade	1	Gah man, dei bruhn Hund dehd die nicks
+qr	50332	Drönnewitz	1	Gah nu, dei bruhn Hunjd dejd di nicks
+qr	50343	Gross Rogahn	1	Geh man, dei brun Hund deed (deit) di niks
+qr	50357	Kladow	1	Gah man, dei brunn Hund deit die nicks
+qr	50365	Hohen Pritz	1	Gah man, dei bruhn Hund deiht die nicks
+qr	50377	Jellen	1	Gah nu, dei brun Hund deit dir nicks
+qr	50385	Lübsee	1	Gah man, dei brun Hund deiht di nicks
+qr	50471	Bellin	1	Gah man, de brun Hund deit di nüscht
+qr	50523	Retzow	1	Gah man, dei brun Hund deit di nicks
+qr	50538	Hohenbollentin	1	Goah man, dei brun Hund deiht di nix
+qr	50552	Golchen	1	Goah doch, dei brun Hund deit die nischt
+qr	5056	Biala Wies	1	Gieh nurr, dar brahne Hund titt d'rr nischt
+qr	50567	Strippow	1	Gah man, dei bruhn Hund deit di nicks
+qr	50575	Rosenhagen	1	Gah men, dei brun Hund deit die nichts
+qr	50583	Siniechowo	1	Goh na, dei brun Hunt deit dis nich
+qr	50604	Drzewica	1	Jau ma, dei brun Hund deht di nist
+qr	50622	Lisowo	1	Jau ma, dei bruan Hund deiht die nist
+qr	50719	Lubin	1	Joa ma, dei brun Hund det die nischt
+qr	50765	Gross Ridsenow	1	Gah man, dei brun Hund deit di nix
+qr	50779	Schlutow	1	Gah man, dei brun Hund deiht die nicks
+qr	50794	Seedorf	1	Gah man, dei bruhn Hund deit di nicks
+qr	50805	Bentzin	1	Gah man, dei brun Hund deit die niks
+qr	50818	Ranzin	1	Gah man, dei bruhn Hund deiht die nicks
+qr	50830	Lassan	1	Goah men, dei brun Hund deit di nicks
+qr	50840	Sallenthin	1	Gah man, dei bruhn Hund deit di nicks
+qr	50844	Miedzyzdroje	1	Goa nu, de brun' Hund dud di nischt
+qr	50850	Sieroslaw	1	Gah nu, dei brun Hund dait di nist
+qr	50872	Bedzieszewo	1	Joa ma dei brun Hund deit di nist
+qr	50892	Skalin	1	Goh ma, de brun Hund det dy nist
+qr	5091	Boruja	1	Gih nur, dar braune Hund thüt der nischt
+rs	50973	Koserow	1	Goah mann, dei brun Hund deit die niks
+rs	50986	Trzesacz	1	Gah ma, dei brun Hund deht di nist
+rs	51	Baerwalde	1	Gao ma, dei brun Hund deht die nischt
+rs	51012	Hohen Wangelin	1	Gah man, dei brun Hund deit die nix
+rs	51030	Rittermannshagen	1	Gah man, dei bruhn Hund deit di nicks
+rs	51048	Tarnow	1	Ga man, dei brun Hund deit di niks
+rs	51065	Trollenhagen	1	Goah man, de brun Hund deht di nicks
+rs	51081	Brohm	1	Goh man, de bruhn Hund deht di nicks
+rs	51089	Eichhof	1	Gaoh man, de bruhn Hund deit di nüscht
+rs	51098	Gegensee	1	Goa man, de brun' Hund deit di nischt
+rs	511	Krasniewo	1	Gao nu, de brune Hund deiht die nuscht
+rs	51101	Drogoradz	1	Goah nur, de brun Hund, dheit di nischt
+rs	51112	Budzien	1	Goah man, de brun Hund deht dei nischt
+rs	51123	Krzywice	1	Jo ma, dai bru/en Hunt deht di nist
+rs	51135	Plantikow	1	Goah ma, dei brun Hunt dut di niast
+rs	51143	Kloster	1	Gaoh man, dei brune Hund deit di nicks
+rs	51146	Wiek	1	Gah man, dei brunea Hund deit di nicks
+rs	51162	Nardevitz	1	Ga man dei brune Hund deit die nicks
+rs	51170	Zingst	1	Gah man, dei bruhn Hund deit Di nicks
+rs	51173	Wendisch Langendorf	1	Gah man, dei bruhn' Hund deiht di nix
+rs	51179	Wüstenei	1	Gah nur, dei brun Hund deiht di nicks
+rs	51188	Saiser	1	Gah man, dei bruna Hund deit die niks
+rs	51191	Ahrenshoop	1	Gah man, dei brun Hund deit di nicks
+rs	5122	Gorzyca	1	Gih nur, der braune Hund thit dir nischt
+rs	51232	Neu-Reddevitz	1	Gah man dei brune Hund deit die niks
+rs	51243	Langendamm	1	Gah man, dei bruhn Hund deit die nicks
+rs	51257	Redebas	1	Gah man, dei brun Hund deit di nicks
+rs	51267	Pütte	1	Gah man, dei brun Hund deit di nix
+rs	51277	Poseritz	1	Ga mân, dei brunâ Hûnd deit di niks
+rs	51288	Thiessow	1	Gah man, dei brune Hund deiht di nicks
+rs	5130	Ransko	1	Gih nur, dar brane Hund thüt dir nischt
+rs	51346	Reppelin	1	Gah man, dei bruhn Hund deit die nix
+rs	51355	Kavelsdorf	1	Gah man dei brunä Hund deit die niks
+rs	51370	Müggenwalde	1	Gah man, dei brun Hund deit di nicks
+rs	51387	Steffenshagen	1	Gah man, dei bruhn Hund deit die nicks
+rs	5139	Grudna	1	Jeh nur, der braune Hunt thut dir nischt
+rs	51397	Vierow	1	Gah man, dei brun Hund deit di nicks
+rs	51409	Karlshagen	1	Gah man, dei brun Hund dheit di nicks
+rs	5141	Brody	1	Gih nur, der braune Hund tutt der nichcht
+rs	51413	Trzebusz	1	Gah ma, dei brun Hund det di nicst
+rs	51539	Kisserow	1	Gah man, dei brun Hund deit die nicks
+rs	51549	Federow	1	Gah man, dei brun Hund deit die nix
+rs	51561	Klein Vielen	1	Gah man, dei bruhn Hund deiht di nicks
+rs	51571	Holldorf	1	Gah man, de brun Hund deit di niks
+rs	51584	Woldegk	1	Jah man, de brun Hund deiht di nix
+rs	51598	Trebenow	1	Goah ma, de bruen Hund deiht die nischt
+rs	51611	Rossow	1	Goh nu, de brun Hund deit die nischt
+rs	51624	Wawelnica	1	Goa ma, de brun Hund deit di nischt
+rs	51637	Bergland	1	Goa doch, de bruhn Hund deet die nischt
+rs	51646	Dabrowica	1	Gaoh ma, dei bruen Hund det die nischt
+rs	51661	Bobrowniki	1	Go nu ma, dei bruan Hund det di nischt
+rs	51805	Grabow	1	Gah man, dei bruhn Hund deiht di nicks
+rs	51816	Lärz	1	Gah man, dei bruun Hund deiht di nicks
+rs	51832	Ahrensberg	1	Gah man, de brun Hund deht die nicks
+rs	51838	Hasselförde	1	Ga man, de brun Hund deit di niks
+rs	51850	Buchenhain	1	Goah man, de brun Hund deiht die nüscht
+rs	51866	Röpersdorf	1	Goh man, de brun Hund deit di nischt
+rs	51877	Grünz	1	Goh ma, de brun Hund deit di nischt
+rs	51893	Pargow (Pargowo)	1	Gå ma, de brun Hund deit di nüscht
+rs	51906	Zelislawiec	1	Gåh ma, de brun Hund deiht die nischt
+rs	51918	Slotnica	1	Goah ma, de bruen Hund det di nüscht
+rs	51934	Zukowo	1	Gau ma, de brun Hund deht di nüscht
+rs	5203	Nekielka	1	Goh mah, de brun Hund det die nischt
+rs	52064	Papenbruch	1	Gaoh män, de bruun Hund deiht di nist
+rs	52070	Wallitz	1	Joah nu, de brune Hund deit die nist
+rs	52079	Menz	1	Goah nu, de bruhne Hund deit die nüscht
+rs	52086	Barsdorf	1	Gah doch de brunn Hund deit die nisst
+rs	52095	Petersdorf	1	Jo man, de brune Hund deiht di nüscht
+rs	5210	Skwierzyna	1	Jeh man, derr braune Hund tutt derr nischt
+rs	52103	Flieth-Stegelitz	1	Goh man, de bruhn Hund deit di nüscht
+rs	52113	Passow	1	Lop ma, de brun Hund deit di nüscht
+rs	52129	Widuchowa	1	Loop man, de brun Hund deit di nüscht
+rs	52139	Banie	1	Gåh ma, de brune Hund deit dir nüscht
+rs	5214	Krobielewo	1	Gih nur, der braune Hond thaut der nischt
+rs	52154	Obromino	1	Goah ma, de brune Hund det dir nüscht
+rs	52169	Brzezina	1	Goh ma, de bruen Hund det di nischt
+rs	52276	Bagicz	1	Goah nu (ma), dei brun Huhnd deet di nischt
+rs	52278	Lasin Koszalinski	1	Gah ma, dei brun Hund det die nischt
+rs	52311	Sieciemin	1	Ga nu, dei brun Hund det di nischt
+rs	52349	Pomysk Wielki	1	Gouh mä, dä brun Hund det di' nuscht
+rs	52359	Szymbark	1	Goh ma dei brun Hund dei det die nuscht
+rs	52374	Szklana Gora	1	Goa nur, de brune Hund ded di nischt
+rs	52396	Skowarcz	1	Goah nur, de brune Hund deid di nuscht
+rs	52428	Oberlakendorf (Solnica Górna)	1	Goa ma, de brune Hund deit di nuscht
+rs	52440	Deep (Czajcze)	1	Goah ma, dei brun Hund deit die nischt
+rs	52463	Bialecino	1	Gah man, de brun Hund deit die nischt
+rs	52478	Bronowo	1	Gah ma, dei brun Hund ded die nischt
+rs	52484	Reddies	1	Gah nu, dei brun Hund det di nischt
+rs	52567	Pasewark	1	Goh man, de brune Hund deiht di nuscht
+rs	52578	Bad Rügenwalde	1	Goh man, dei brun Hund det die nischt
+rs	5259	Prusim	1	Gieh nur, der braune Hund thut dir nischt
+rs	52600	Radoslaw	1	Gah nu, dei brun Hund det die nist
+rs	52700	Losino	1	Ga ma, dei brun Hund det die nuscht
+rs	5271	Przyborowko	1	Gih nur, dar braune Hund thit dir nischt
+rs	52714	Labiszewo	1	Goh nu, dei brun Hund det die nischt
+rs	52722	Karwen	1	Goh ma, dei brun Hund det di nischt
+rs	52755	Heubude (Stogi)	1	Goh ma, de brune Hund deit di nuscht
+rs	52762	Skowronki	1	Goa man, de brune Hund deit di nuscht
+rs	52766	Rowy	1	Goa ma, dei bruhn Huhnd dehd di nischt
+rs	52767	Machowinko	1	Goah man, dei brun Hund det di nischt
+st	5277	Gleboczek	1	Gau ma, dej brun Hund det di [?]nischt
+st	52816	Hela	1	Goh man, de brune Hund deiht die nuscht
+st	52819	Jaroslawiec	1	Goh man, dei brun Hund det di nist
+st	52825	Krolowstrand (Królewice)	1	Gah nu, dei brun Hund det di nischt
+st	52854	Drzezewo	1	Goh nu, de brun Hund ded di nischt
+st	52865	Niebedzino	1	Gah ma, dei brune Hund ded di nuscht
+st	52871	Dabrowka Wielka	1	Gah ma, dei brune Hund det die nuscht
+st	52881	Luzino	1	Goh nur, de brune Hund dät die nuscht
+st	52887	Pogorze	1	Go ma, de brune Hund deit di nuscht
+st	52896	Bialogora	1	Gao nu, dei brunae Hunt deet die nuscht
+st	52905	Karwenbruch	1	Go ma, de brune Hund deit die nuscht
+st	5291	Gorki Noteckie	1	Goah ma, de brune Hund deet di nischt
+st	52913	Wladyslawowo	1	Go ma, de brune Hund det di nuscht
+st	52915	Lebieniec	1	Goh ma, dei brune Hund dei deht die nuscht
+st	52927	Zelazna	1	Goh nu, d'brun Hund det di nischt
+st	52936	Tylowo	1	Gaa man, deh bruneh Hund det di nischt
+st	5305	Rapin	1	Goah man, de brune Hund deht di nischt.
+st	5315	Pilka	1	Goa ma, de brone Hun dät di nischt
+st	5316	Rzecin	1	Gau nu, de bruo Hund det di nüscht
+st	532	Zulawka Sztumska	1	Geh man geh, de braune Hund werd dör nuscht thune
+st	5322	Tarnowko	1	Gau ma, dey bruo Hund deit di nüscht
+st	5374	Groß Golle (Golaszewo)	1	Gau ma de bruä Hund det die nischt
+st	5386	Lubicz	1	Goh nu, dä brune Hund dät di nüscht
+st	5397	Slonow	1	Goh' ma, de brun' Hund det die nüscht
+st	5402	Huta Szklana	1	Gau ma, de bruo Hund deht di nüscht
+st	5409	Marienbusch	1	Gau ma, de Hund det di nüscht
+st	5421	Ostrowki	1	Gau ma, de brun Hund det dia nüscht
+st	54871	Neuarad (Aradu Nou)	1	Geh nar, der brauni Hund thut der nix
+st	54873	Bistritz (Bistriţa)	1	Gånk nur, der brao hånt dēt der näst.
+st	54878	Arzis (Artsyz)	1	Gé nom̄a d'r braun Hond tut d'r nix.
+st	54897	Wolfswinkel (Wilczy Kat)	1	Go ma, de brun Hund dejt di nuscht
+st	549	Przecmino	1	Joah ma, dei brun Hund deht die nist
+st	54901	Zarobka	1	Go ma, de brun Hund det di nuscht.
+st	54902	Brzozowka	1	Go ma, de brun Hund det di nuscht.
+st	54906	Brzezno	1	Go ma, dej brun Hunt dejt di nuscht
+st	54909	Zbojenko	1	Gah blos de brun Hund det di nuscht
+st	5491	Brzezno	1	Gau ma de bruo Hund de det die nüscht
+st	54912	Siemiatkowo	1	Giho blos, dè brun Hund deet di nuscht
+st	54913	Sompolno	1	Gau ma, dyj brun Hund (Köjto, Löja) dejt di nüscht.
+st	54914	Sächsisch Regen (Reghin)	1	Gi nur, der brau Hand det der näst.
+st	54915	Elek (Elek)	1	Kia nor, tr préu Hund tuadr nix
+st	54916	Freidorf bei Temeschwar	1	Geh nor, der brouni Hund tut dr nich
+st	54917	Sarata (Sarata)	1	Gēh nǒ, der brā̊ne Hond duåt dr ně́gs.
+st	54918	Scheindorf (Sâi)	1	Gañg nu, dr bra[n/u?]e Hund tuot dier nicks
+st	54919	Fünfkirchen	1	Ke nuə te braune hunt tutīə niks
+st	54921	Iklad	1	Keh nur, ta prauni Hunt tuat ta niksz
+st	54922	Sanktanna (Sântana)	1	Ké nár tá prauné Hunt máhtár niksz
+st	54924	Martinsdorf (Metiş)	1	(Gung) K Gun̰k nor, der breong Heangd dīt de̊r näst.
+st	54926	Bentschek (Bencecu De Sus)	1	Geh nor, der brauni Hund machtr nix
+st	54929	Agnetheln (Agnita)	1	Gouk nuar, der briang Heangd dout der näst.
+st	54930	Gottlob	1	Geh nér, der brauni Hund macht dír nix
+st	54932	Klein-Schemlak (Semlacu Mic)	1	Gej nor, die braŭni Hŭn tŭt der nix!
+st	54933	Sankt Andreas (Sânandrei)	1	Geh nor der brɑuni Hund tuth’d’r nix.
+st	54935	Neuwerbas (Novi Vrbas)	1	Ke narə, tə praun Hunt tutr̥ niks.
+st	54937	Groß Scham/Freudenthal (Jamu Mare)	1	Geh nor, der brauni Hund macht’r nix
+st	54938	Torschau (Savino Selo)	1	gė nărĕ̷, tär prãũ hũnt tuđͮĕ̷ niks
+st	54939	Weprowatz (Kruščić)	1	Kenår d[?]r prãn huntʰ måxtr niks
+st	54941	Neue Weingärten (-)	1	Geh nor, dēr braune Hund tut dr nicks.
+st	54942	Seimeny (-)	1	Geh nomme, dr bra̰ůne Hond důt dr nix.
+st	54943	Neubeschenowa (Dudeştii Noi)	1	Geͥh nar, d‘ braun’n Hund mischt’r neͥcks
+st	-55055	Oborki	1	Gho ma, de brun Hund det di nuscht
+st	-55064	Zale	1	Goh man, dä brune Hund däit di nuscht
+st	-55066	Zuromin	1	Geh nur, der Hund tut dir nichts
+st	-55070	Grudusk	1	Geh ruhig, der braune Hund tut dir nichts
+st	-55072	Ostroleka	1	Geh' nur, der braune Hund macht dir nuscht
+st	-55081	Ciechocinek	1	Goh mo, de brun Hund döt di nuscht
+st	-55091	Skepe	1	Cho ma, de brun Hund det di nuscht
+st	55094	Gradzanowo Koscielne	1	Go bloß, de brun Hund det di nuscht
+st	-55096	Modelka	1	Gou nur, de brun Hund täit di nuscht
+st	-55099	Makow Mazowiecki	1	Hau nur, die brun Hund dejt die nischt
+st	55106	Susk	1	Cho blos, dei brune Hund deit di nuscht
+st	-55107	Zawidz Koscielny	1	Go blos dei brunə Hund deit di nuscht
+st	55109	Kondrajec Szlachecki	1	Joa man, de brune Hund de dat di nuscht
+st	-55110	Kicin	1	Goah ma, de brun Hund det die nüscht
+st	55111	Szostka	1	Geh nur, der braune H[u?]nd macht dir nichts.
+st	-55113	Kujawka	1	Geh nur, der brau Hund macht der nix
+st	55116	Osiek	1	Goh ma, de brun Hund det di nüscht
+st	-55117	Nowe Karwosieki	1	Goh ma, de brun Hund det di nuscht
+st	-55129	Lenie Male	1	Goma dej brun Hund dejt die nischt
+st	-55133	Meczenino	1	Huo nor (blof, ma), der bruni Hunt deit di nuscht
+st	-55135	Dzierzaznia	1	Jeh nur, der braune Hund tut dir nicks
+st	-55137	Konary	1	Gu(?) blaßig, de brun Hund deet di nechts
+st	-55139	Kozy	1	Chau ma, de breune Hund wad di nüscht deoo
+st	55140	Zglowiaczka	1	A:Geh nur, der braune Hund  tut dir nichts / B: Geh no, der brone Hond duort dir nix
+st	55163	Grabkowo	1	Cha blus, dei brun hund deit die nischt.
+st	-55164	Wieslawice	1	Go blaus, dej brun Hand det di nuscht
+st	-55166	Budy Borowickie	1	Choh ma, de brun Hund det die nuscht
+st	-55169	Orszymowo	1	Goh ma de brun Hund dejt di nuscht
+st	-55171	Nowy Dwór Mazowiecki	1	Go bloß, de brun Hund dejt di nuscht
+st	-55173	Kozie Glowy	1	Gieh man, dar brane Hund tüt der nischt
+st	-55177	Brdow	1	Geh o no, dea braune Hund dout de nix
+st	-55181	Psary	1	Gau ma, dei briun Hund döit di nüscht
+st	-55187	Nowa Wies	1	Go bloß, de brun Hund wat di nust done
+st	-55189	Miszory	1	Goa man, de brun Hund deit di nurcht(?)
+st	5519	Berka v.d. Hainich	1	Gieh nur, där brune Hond thüt dech nischt
+st	-55191	Secymin Polski	1	Gou blaus, dä Brune Hund däit de nucht
+st	55210	Niechcianow	1	Geh nau, der braune Hund macht dir nichts.
+st	-55216	Kaptury	1	Goh blouß, de bruhn Hund wat di nuscht doune
+st	-55218	Stare Miasto	1	Gieh blüüss, der braune Hund tiet där nischt
+st	-55226	Tarnowka	1	Geh nur, der braune Hund tut dir nichts
+tu	-55238	Zychlin	1	Geh nur, der braune Hund tut dir nichts
+tu	-55240	Kopojno	1	Geh man, der braune Hund tut der nischt nich.
+tu	55244	Natalia	1	Geh nur, der braune Hund wird dir nichts tun.
+tu	55252	Potrzaskow	1	Geh nur, der braune Hund tut dir nichts.
+tu	-55254	Szamow	1	Geh nu, der braune Hund tuet d'r nichts
+tu	-55258	Wierzchy	1	Jeh man, der braune Hund tut de nischt
+tu	-55261	Gadowskie Holendry	1	Gieh mon, dar brane Hund tiht du nischt
+tu	-55262	Turek	1	Du kannst o(?)ufig gehen, der br?une Hund beißt dich nicht
+tu	-55266	Sarbice	1	Go ma, de brun Hund deit di nischt
+tu	-55269	Zimne	1	Gau ma, de bruhne Hund daet di nischt
+tu	-55270	Leczyca	1	Geh nore, de brau Hund macht deer nix
+tu	55271	Piatek	1	Keh nor, der braune Hund tut tejr nix.
+tu	-55300	Goliszew	1	Geh nor, der braune Hund macht dir nix
+tu	55305	Poroze	1	Gieh ock, dar braane Hund tit der nischt
+tu	-55306	Rzymsko	1	Gej, der braune Hund tut dir nichts
+tu	-55308	Baldrzychow	1	Geh nur, der braune Hund wird dir nischt machen
+tu	55320	Sanie	1	Geh no, der braune Hund wed der nischt tun.
+tu	-55322	Marianow	1	Geh doch, der braune Hund macht dir nichts
+tu	-55326	Jozefow	1	Gieh blus, dar braune Hund tutt Dir nuscht
+tu	55330	Morawki	1	Gej ne dej brau Hund dewd dij nex
+tu	-55331	Rzepiszew	1	Geh man, der braune tat ja nischt
+tu	-55338	Justynow	1	Geh nur, de braune Herk wird der schon nuscht machen
+tu	-55344	Slomkow Suchy	1	Geh nur, dea braune Hund duat da nings
+tu	-55349	Markowka	1	Geh nur, de braune Hund tut dia nischt
+tu	-55350	Rzgow	1	Geh nur, der brau Hund tut dir nix
+tu	-55354	Laznowska Wola	1	Geh, der braune Keter (Hund) tut der nischt
+tu	-55359	Kiebitztal (Kuznica)	1	Geh nur, der braune Hund tut dir nix
+tu	-55360	Ostrow	1	Geh"man" (nur), der braune Hund tut dir nichts
+tu	-55361	Wielka Wies	1	Geh nur, der braune Hund tut dir nichts
+tu	-55362	Suchcice	1	Geh, der Hund tut nichts
+tu	-55363	Siemkowice	1	Geh nur, der brane Hond dot dir nix
+tu	-55365	Dobroslaw	1	Geh nur, der Hund tut nichts
+tu	-55366	Belchatów	1	Geh nur, der braune Hund werd dr nischt tun
+tu	-55373	Luszczanowice	1	Geh nur, der braune Hund tut dir nichts
+tu	-55375	Ozarow	1	Geh nur, der braune Hunet tut dir nichts
+tu	-55376	Jaworzno	1	Du brauchst keene Angst nicht haben, der braune Hund beißt dir nicht
+tu	-55377	Natolin	1	Gih bloß, der bruune Hund mucht dir nischt
+tu	-55382	Czarny Las	1	Geh nor, de braune Hund tut der nichts
+tu	-55383	Huta Stara A	1	Geh nerr, de braune Hund tuut de nicht mochn
+tu	55384	Myszkow	1	Geh nur, der braune Hund tut dir nichts
+tu	55387	Dabrowa Gornicza	1	Geh nur, dr braunr Hund macht dir nichts.
+tu	-55389	Kwaczala	1	Geh noer, der braune Hund macht d'r nix
+tu	-55394	Freistadt (Fryštát)	1	Geh nur, der braune Hund wird dir nichts machen
+tu	-55408	Bistritz (Bystrice Nad Olsí)	1	Geh nr, der braune Hund macht dir nichts
+tu	-55411	Radziechowy	1	Geih nier, de braune Hund dout der nix
+tu	-55415	Skomlin	1	Geh nur der Hund tut derr nix (nischt)
+tu	-55416	Kamesznica	1	Gaih niä, der braun' Hund tout dir nix
+tu	-55418	Schönwalde (Wrzosy)	1	Go nur, de brun Hund dät die nuscht
+tu	-55425	Wyszewo	1	Jo blos dei brun Hund det die nischt
+tu	-55522	Nojewo	1	Geh nur ruhig, der braune Hund tut dir nichts
+tu	5717	Illeben	1	Gihe nur, d'r brune Hond thet dech nischt
+tu	573	Lykowo	1	Gâh ma, dei brûn Hûnd dêt dî nischt
+tu	5730	Gebesee	1	Gi nur, dar bruhne Hund dedd dir nischt
+tu	5752	Thalborn	1	Gik nur, där braune Hund thet dir nischt
+tu	5774	Nirmsdorf	1	Jik nar hän dr braune Hund ditter nischt
+tu	5810	Crölpa-Löbschütz	1	Gick nor, dar braune Hund thit dr nischt
+tu	5827	Krössuln	1	Gick nur, dr braun Hund thit dr nischt
+tu	584	Dunowo	1	Gau ma dei brun Hund deet di nüscht
+tu	5863	Michelwitz	1	Gieh nor, der brauee(?) Hund thit dr nischt
+tu	5867	Hollenbach	1	Gieh henn dar brune Hund titt dich nischt
+tu	5875	Schlotheim	1	Gieh nur, der brune Hund thut dir nischt
+tu	6074	Obertopfstedt	1	Gäi nur der brune Hunt thätt Dech nischt.
+tu	6089	Etzleben	1	Gehik nor, där brune Hund thet deer nischt
+tu	6105	Allerstedt	1	Gik nahr, dr braune Hund thut dr nischt
+tu	6116	Gleina	1	Gick nar, d'r braune Hund titt d'r nischt
+tu	6129	Kleinkayna/Kleinkaina	1	Gick nur, der braune Hund thiet dir nischt
+tu	6168	Rehbach	1	Geh nur, der braune Hund thut dir nischt
+tu	6171	Mengelrode	1	Gäh nur, dah brune Hund didd dir nischt
+tu	6185	Kirchworbis	1	Gäh nur, dar brune tit de nischt
+tu	6196	Grosswenden	1	Gäh man' (nur ist hier im Volk nicht(?)) dar brune Hund titt dich nischt
+tu	6341	Auleben	1	Giek nur, d'r brune Hund titt dich nischt
+tu	6359	Hackpfüffel	1	Jek nur, d'r bruhne Hund titt'r nischt
+tu	6371	Mittelhausen	1	Chiehk nur, där braune Hund ditt'r nischt
+tu	6388	Stedten	1	Gik nur, dr braune Hund thut dir nischt
+tu	6400	Ammendorf	1	Giek nur, d'r braune Hund thut d'r nischt
+tu	6418	Glesien	1	Gehk nur, der braune Hund thut dir nischt
+tu	6426	Zwinge	1	Geha man, de brühne Hund teut deck niß
+tu	6472	Stolberg (Harz)	1	Geht nur, der brune Hund titt dich nischt
+tu	6577	Walkenried	1	Geh mant, dar brune Hund ditt dich nischt
+tu	6593	Königerode	1	Gäk man, d'r brune Hund didd dich nischd
+tu	6610	Vatterode	1	Gik mant, dr braune Hund thit dich nischt
+tu	6630	Freist	1	Gehk nur, der braune Hund thut dir nischt
+tu	6656	Drehlitz	1	Gik nur, der braune Hund thut der nischt
+tu	6660	Möst	1	Geh'k nur, der braune Hund thut dich nischt
+tu	6682	Ramsin	1	Gehk nur, d'r braune Hund thut'r nischt
+tu	6690	Braunlage	1	Gah man, dei brune Hund deut deck nischt
+tu	6705	Rieder	1	Jag' man, der brune Hund deht deck nischt
+tu	6793	Riefensbeek	1	Ga mant, da brune Hund de deck nischt
+tu	6801	Neuwerk	1	Gah, dei brune Hunt däut dek nischt
+tu	6821	Aschersleben	1	Geh nur, der brune Hund de-it deck nischt
+tu	6831	Gröna	1	Gehk nur, dr braune Hund thut dich nischt
+tu	6848	Elsdorf	1	Geh nur, der braune Hund thut dir nischt
+tu	688	Pregowo Zulawskie	1	Geh nur, der braune Hund deiht die nuscht
+tu	6891	Danstedt	1	Gah man, de brune Hund deit deck nißt
+tu	6960	Abbenrode	1	Gah man, de brune Hund deiht dick nist
+tu	6981	Emersleben	1	Gag nu, deh brune Hund deiht deck nist
+tu	6995	Egeln	1	Gåg man, de brûne Hund deut dick nischt.
+tu	7007	Eickendorf	1	Gah man, der brune Hund deiht dick nischt
+tu	7022	Kämeritz	1	Goa nun, der brune Hund duet dei nüscht
+tu	7033	Natho	1	Geh no, däa brune Hund thut dä nischt
+uv	7180	Liemehna	1	Gieh nur, d'r braune Hund thuter Nischt
+uv	7198	Röcknitz	1	Jiek nor, dr braune Hund duhtr nischt
+uv	7212	Lausa	1	Kie=e nur, der braune Hund thut d'r nischt.
+uv	7225	Kosilenzien	1	Gieh norr, der braune Hund tutt der nischt
+uv	7246	Kahla	1	Gih' nur, der braune Hund thuit dich nischt
+uv	7253	Ruhland	1	Cheh nur, der braune Hund thut 'er nichts
+uv	7263	Lauta	1	Geh nur, der braune Hund thut dir nischt
+uv	7363	Brösa	1	Gehk nur, der braune Hund thut dich nischt
+uv	7371	Falkenberg	1	Gehk nur, der braune Hund thut dich nischt
+uv	7384	Rosenfeld	1	Gehk nur, der braune Hund thut dich nischt
+uv	7394	Wiederau	1	Geh nur! Der braune Hund thut dich nischt
+uv	74	Gwiezdzin	1	Ga ma, dei briuen Hund dit di nüscht
+uv	7412	Lugau	1	Jeh nur, der braune Hund thut dich nischt
+uv	7427	Dollenchen	1	Geh nur, der braune (H)und thut dir nischt
+uv	743	Rudki	1	Gau nu, de bruan Hund det Di nischt
+uv	7435	Petershain/Neupetershain	1	Geh nur der braune Hund thut dir nischt
+uv	748	Budy	1	Gau ma, de brun Hund det di nischt
+uv	7529	Schleesen	1	Gek nur, der braune Hund beißt dich nicht
+uv	7546	Bleddin	1	Gehk nur, der braune Hund thut dich nischt
+uv	7562	Klossa	1	Geh nurr, der brune Hund thut diche nischt
+uv	7576	Werchau	1	Jee mann, der brune Hund duet dich nischt
+uv	7586	Wendisch Drehna/Walddrehna	1	Jeh nur, der brune Hund bießt nich
+uv	7596	Schlabendorf	1	Geh nur, der braune Hund thut derr nischt
+uv	760	Zakrzewo	1	Gah ma dei brün Hund det nüscht
+uv	7688	Straach	1	Goah' man, der brune Hund thut De nischt
+uv	769	Nowy Dwor	1	Ga ma, dei brun Hund döht dir nüscht
+uv	7696	Rahnsdorf	1	Geh nur, der brune Hund thut de nischt
+uv	7710	Rohrbeck	1	Lop man, der brune Hund duat dai nischt
+uv	7721	Wahlsdorf	1	Geh man, dar brune Hund duet dei nischt
+uv	7732	Hohendorf	1	Jeh man, der brune Hund duet dei nüscht
+uv	7747	Treppendorf	1	Geh nur, der braune Hund thut dir nischt
+uv	7758	Sacrow	1	Geh nur, der braune Hund thut der nischt
+uv	7964	Zedtlitz	1	Gieh nar, dr braune Hund thut där nischt
+uv	7979	Hohnbach	1	Gihe nurr, dar braune Hund thut diär nischt
+uv	80004	Grindelwald	1	Gang numen, dr bruun Hund tued dr nyd.
+uv	80023	Bosco	1	Gong nu, dar brüén hun tüat dar nit.
+uv	8011	Ziegra	1	Gieh nur, dar braune Hund thut der nischt.
+uv	803	Lunawy Male	1	Ga ma de brun hund deit di nücht
+uv	8032	Rausslitz	1	Gieh nurr, dr braune Hund thuit'r nischt
+uv	8055	Coswig	1	Gieh nurre, der braune Hund tutter nischt
+uv	8075	Langebrück	1	Giě nurr, dur braune Hund tut dur nischt.
+uv	8092	Frankenthal	1	Gieh nor, der braune Hund thutt der nischt
+uv	821	Bukowiec	1	Goah ma, dee bruun Hund deeht di nuscht
+uv	8272	Fuchshain	1	Loop nurr där braune Hund thut dir nischt
+uv	8289	Nerchau	1	Keh nur, dr braune Hund dhud der nischd
+uv	83	Charzykowy	1	Ga ma, dei briune Hun diea du nüscht
+uv	8305	Limbach	1	Gieh nurr dar braune Hund thut dier nischt
+uv	8321	Mergendorf	1	Gihe nure der braune Hund dud dar nischd
+uv	8345	Rostig	1	Gieh nur, dr braune Hund thuit deer nischt
+uv	8358	Steinborn	1	Gih nur, der braune Hund thutt dr nischt
+uv	8368	Bernbruch	1	Gih nurr, dar braune Hund dutt dir nischt
+uv	8505	Dretschen	1	Gieh ock, dar braune Hund thut dir nichts
+uv	8519	Kittlitz	1	Gih ok, d'r braune Hund thut d'r nischt
+uv	8532	Kunnerwitz	1	Gieh og, der braune Hund thutt dr nischt
+uv	8546	Siekierczyn	1	Gieh ak [oik?], derr braune Hund dutt derr nischt.
+uv	8560	Wolbromow	1	Gieh ok, dar braun' Hund duttr nischt
+uv	8574	Pieszkow	1	Gie ock, drr broane Hund thit drr nischt
+uv	8590	Prusice	1	Gieh ock, dier braune Hund titt dèa nischte
+uv	8614	Ogonowice	1	Geih nur, dar brone Hund thut der nischt
+uv	8716	Förstgen	1	Gieh' nur, der braune Hund thut dir nichts
+uv	8726	Ober Horka I	1	Gieh ock, derr braune Hund tutt derr nischt
+uv	8736	Wegliniec	1	Gieh ock, dr braune Hund thutt dr nischt
+uv	8740	Kierzno	1	Gih ock, der braune Hund thutt dir nischt
+uv	8751	Szczytnica	1	Gih ock, dar braune Hund tutt dir nischt
+uv	8762	Göllschau (Goliszów)	1	Gih ock, d'r braune hund titt'r nischt
+uv	8777	Bieniowice	1	Gih och, dar brone Hund thit dir nischt
+uv	880	Strzeczona	1	Ga ma, dei briün Hund ditt die nüscht
+uv	8852	Klein Priebus	1	Gieh' nr, der braune Hund thit der nischt
+uv	8858	Okraglica	1	Gih oc, dar braune Hund thut der nischt
+uv	8865	Koberbrunn	1	Gieh ock, der bruone Hund tutt dr nischt
+uv	8870	Armadebrunn (Studzianka)	1	Geih nur, der brone Hund titt der nischt
+uv	8878	Trzmielow	1	Geih doch, der brone Hund thüt der nischt
+uv	8888	Skladowice	1	Gei och, der brone Hund theit der nischt.
+uv	895	Jelencz	1	Ga ma, dei brun Hunt dud di nüscht
+uv	8972	Cantdorf	1	G?h nur, der braune Hund thut dir nischt nich
+uv	8981	Eichwege	1	Gehock (geh' nor) der braune Hund thutter nischt
+uv	899	Iwiec	1	Ga ma, dei brun Hund deht die nischt
+uv	8990	Jedrzychowice	1	Gih nur, der braune Hund thut dir nichts
+uv	9000	Kunzendorf (Kunice)	1	Gi ock, dr braune Hund tutt d'r nischte
+uv	9015	Chichy	1	Gieh og, der brone Hund titt der nischt
+uv	9025	Przeclaw	1	Geih nur (og), d'r broane Hund titt d'r nischt
+uv	9036	Jakubow	1	Gei og, dar broan Hund titt der nischte
+uv	9052	Rzeczyca	1	Geih og, darr brohn Hund thit der nischt
+uv	906	Busnia	1	Go ma, de brun hund deit die nuscht
+uv	9143	Mehlen	1	Jeh' nur, der braune Hund thut dir nischt
+uv	9152	Dluzek	1	Gieh min, dar braune Hund thut der nischt
+uv	9163	Bialowice	1	Gieh ok, der braune Hund tutt der nischt
+uv	9179	Broniszow	1	Gei okk, der brôn Hund titter nischt
+uv	9193	Alt Tschau (Stare Żabno)	1	Geih nur, dar brone Hund thitt d'r nischt
+uv	920	Lisie Katy	1	Goah ma, de brune Hund deiht die nuscht
+uv	9200	Grochowice	1	Geih ock, d'r briaune Hund thitt d'r nischt
+uv	9207	Konradowo	1	Geih nur, dar bron Hund thit dirr nischt
+uv	9274	Staakow	1	Geh nur, der braune Hund thut' der nischt
+uv	9280	Kaltenborn	1	Je mon, dar braune Hund thut der nischt
+uv	9288	Czeklin	1	Gieh nur, der braune Hund thut dir nischt
+uv	930	Goczalki	1	Je nur, der braune Hunt thut dir nuscht
+uv	9303	Lubiatow	1	Gieh nur (mann) dirr braune Hund tütt dirr nischt
+uv	9314	Zielona Gora	1	Gieh ock, der braune Hund tutt der nischt
+uv	9323	Zabor	1	Geh' og, der brone Hund thit der nischt
+uv	9335	Ciosaniec	1	Geih ok, der braune Hund thut derr nischt
+vw	9400	Miloszyce	1	Gieh nur, der braune Hund thut dir nischt
+vw	9417	Prietzen	1	Gieh ock, dr braune Hund titt'r nischt
+vw	9433	Ujazd Gorny	1	Gieh nur, d'r braune Hund thutt dir nischte
+vw	9453	Lisowice	1	Geh ock, d'r braune Hund thutt d'r nischt
+vw	9558	Ligota Piekna	1	Geih ock darr brohne Hund titter nischt
+vw	9579	Jenkowice	1	Gai nur, dar brone Hund thit der nischte
+vw	9592	Jemielna	1	Gih nur, der braune Hund thütt dir nichts
+vw	9612	Prawikow	1	Geih ogg, dar brohne Hund titt deir nischt
+vw	9622	Warzyna	1	Geih nur, dar brone Hund thut dar nischte
+vw	9717	Domanowice	1	Geih nur, dar broune Hund thitt d'r nischt
+vw	9739	Kamien	1	Geh nur, der braune Hont thut dir nichts
+vw	9760	Krzelow	1	Geih og, der broane Hund thit der nischt
+vw	9775	Staszowice	1	Gei nur, der broune Hund thitt dè nischt
+vw	9799	Lazy Wielkie	1	Gaih nur, der brone Hund thut dir nischt
+vw	983	Gromaden	1	Gau ma, de brun Hund ded di nüscht
+vw	984	Friedberg	1	Gau ma, dei bruin Hunt deht di nuscht
+vw	9848	Godnowa	1	Geih nur, der braune Hund thaut der nischt
+vw	9877	Chroscina	1	Geih ok, dar broan Hund thitt där nischt
+vw	9891	Gosciejewice	1	Geih nur, dar brone Hund thit der nischt
+vw	99	Trumiejki	1	Gaoh mann, de bruhn Hund döt di nuscht
+vw	990	Walownica	1	Go nu, de brun Hund deht di nüscht
+vw	9903	Sonnenfeld (Orpischewo)	1	Gei immer, dar brone Hund thit deier nischt
+vw	9919	Wierzowice Male	1	Geih nur, dar bro'ne Hund thit deir nischte
+vw	9926	Wodniki	1	Geih og, dar broane Hund thüt der nischte
+vw	994	Kabat	1	Go ma, da brun Hund daht dir nuscht
+vw	9984	Morkowo	1	Geih ok, der brion Hund tit der nischt
+vw	54872	Reval	1	Jē nur, tas praune Hunt machtir nichts
+vw	52353	NA	1	Goh ma dei brun Hund deht di nuscht.
+vw	30173	Ajoncourt	2	Vetan lo chien brun ne to fré rien
+vw	30197	Vaxy	2	Ve-t-en, lo chin gris n'étend rin de te
+vw	30214	Bénestroff	2	Vêtant seulement le chin brun ne te vû rin fare
+vw	30225	Attilloncourt	2	Te ?ein(?) lo chin brun ne te ferä rin
+vw	30248	Bezange-La-Petite	2	Vè-t-en seulement lo chin brun ne te fè rin
+vw	30254	Maizières-Lès-Vic	2	Vè t'en lo chain brun ne te fa rain
+vw	30268	Richeval	2	I'soie tojo lo ching bian eune te fereu rien
+vw	30285	Lommerange	2	Vatant te san seulement le’ chie’ te ferai rin
+vw	30314	Argancy	2	Vetan solement lo chi brigáállé n'to freu rien
+vw	30325	Vernéville	2	vè t 'en tourement, lo chin brun né to fré rié
+vw	30351	Ancy-Sur-Moselle	2	Va le chin brun ne te feret riét
+vw	30361	Orny	2	Véten tojo, lo chin brun n'ète fré rien
+vw	30374	Hémilly	2	Vethen seulemen, le chin brun ne tô fre rien
+vw	30379	Champenay	2	Wä tän söllmon, lo Schien brün ne tö fä rie
+vw	30410	La Petite Lièpvre	2	Vitè toucau, lo tchée brun ne te fera rien / Vas toujours, le chien brun ne te fera rien
+vw	30421	Montreux-Vieux	2	Vet seulement, le tschin brun ne te veut ran fêre
+vw	30429	Xhoffraix	2	Vas ès l'breune tchin n'a non risque
+vw	30436	Pont	2	Va'z'è taiss, lu brune tchin nu t'frè rin
+vw	30058	Karkelbeck	3	Eik tik, brunaſis Szuo taw nieka nedaro
+vw	30068	Kinten	3	Eik tik, tas rudasis Szů taw nieko ne darÿs.
+vw	30078	Rudienen	3	Eik dabar, rudasis Szunis taw nieko nedaro.
+vw	30083	Kolleschen (Kolletzischken)	3	Eik, tas b[.]as Szo nieka na dara.
+vw	-54895	Warszawa	10	Gai nǭə, d̥ər brǫunə hind tit d̥īər gāər nišd.
+vw	9746	Kobyla Gora	10	Gaie denn der broune Hünt thüt dir niſcht.
+vw	46572	Nebel	11	Gong man, di brun Hünj dæ di nant.
+vw	46636	Hooge	11	 Goeng man, di brunnea Hünn deed di nicks.
+vw	46640	Wobbenbüll	11	Gong man, di brönne Hönn deedt die nicks.
+vw	46699	Horsbüll	11	Gang man, die brünne Hünn dihr die nicks.
+vw	46759	Oland	11	Gong man, di brunne Hunn deet di nix.
+vw	46773	Mönkebüll	11	Gong man, de brönne Hön deht de niks.
+vw	46888	Archsum	11	Gung man, de brün Hün däd di nönz.
+vw	47862	Helgoland	11	Góng màn tŏ̀, de brewö,ü,ns Hinn dāit de niks.
+vw	48241	Wangerooge	11	Gung man, dan brun Hund ä die nichts.
+vw	F002p	Hindeloopen	11	Ron1) ma' trog, de bruune hoeand dweit die niks.
+vw	B079p	Zurich	11	Gean mar troch, de brúne houn docht dy niks.
+vw	F036p	Oudemirdum	11	Gean mǎ trǒch, də brǔnə hoen dǒcht jə nǐks.
+vw	F003p	Woudsend	11	Gjè má tròch, de brúne hóen dòt dei nìks.
+vw	B084p	Wommels	11	Gear mar troch, de brúne houn dot dy niks.
+vw	F013c	Oudehaske	11	Gjin mar troch, de brune hoen doeht dy niks.
+vw	B094p	Grou	11	ge'ən mar fjedər, də brynə ho:n doxt dεj (niks) niət
+vw	B024b	Wijns	11	Gɪən dər mar ,a:ns, də brynə hu:n docht jɪmə nɪət.
+vw	B099a	Opeinde	11	Gean mar troch, de brúne houn docht dy neat.
+vw	B035a	Zwagerbosch	11	Gjin mar troch, de brune hoen docht dy niks.
+vw	B014p	Paesens	11	Gan mar troch, de brúne houn docht dy neat (of: niks).
+vw	G001b	Appelscha	11	Gee mar trog, di brune hōon dog die niks
+vw	46905	Westre	12	Go kuns, den brun Huun gör de iend
+vw	46914	Sophiental	12	Gaa kun, den brūn Hūnd gö̆r dŏ int
+vw	46932	Sonderburg (Sønderborg)	12	Go kuns, den brūn Hūn gö die itt naue (däniʃch: ikke noget).
+vw	46938	Lysabbelholz (Lysabildskov)	12	Go do kon, der bruun Huun gó dei it noue
+vw	46939	Toftum	12	Gaa kuns, den bruun Huhind go'rr indt Andt
+vw	46948	Hönning (Hønning)	12	Gaa kuns, den bruen Hund gór dei it nauer
+vw	46957	Beftoft (Bevtoft)	12	Gaa kun, den bruun Hud gör dæ it.
+vw	46968	Norder Wilstrup (Nørre Vilstrup)	12	Gaan kun, den bruen Hund gór dei idt noue
+vw	47006	List	12	Go kun, den brun Hund gör de ent naur
+vw	47007	Jerpstedt (Hjerpsted)	12	NEU (Buchstaben korrigiert): Gaa kuns, den brun Hund gör dæ it novver
+vw	47016	Ellum	12	NEU (Buchstaben korrigiert): Gaa kun, den bruun Hund gör dæ inne Fortræd.
+vw	47029	Kassöe/Kassö (Kassø)	12	Gaa kun, den bruen Hund gór dei it
+vw	47040	Feldstedtholz (Feldstedskov)	12	Gaae kuns, den brun Hund göed it noved
+vw	47048	Hagenberg (Havnbjerg)	12	Go bare, den brun Hund gö det it noue
+vw	47052	Hellwitt (Helved)	12	Go kun, den brun Hund gór Dei it
+vw	47057	Kamptrup (Kamtrup)	12	Gaa kun, den bru-en Hund gjór dei et nouer.
+vw	47066	Grönnebeck/Grönnebek (Grønnebæk)	12	Gaae kun, den bruun Hund gör dei it noue
+vw	47073	Tyrstrup	12	NEU (Buchstaben korrigiert): Gaa kuns, den bruen Hund gör dei it nov'r
+vw	47078	Hvidding (Hviding)	12	NEU (Buchstaben korrigiert): Gaa kuns, den bruun Hund gjór dæ ik Nouer.
+vw	56471	Merzdorf	41	Zy jan, ten bruni pjas tebe niz nezini
+vw	56504	Burg	41	Dżi nosch, ton bruny phsyk cze niz neczini
+vw	56507	Nochten	41	Dźi noz, to'n bruny Peß czi niczo njeczini
+vw	56520	Luppa	41	Dźi jeno bruny pos tebi nico njescini
+vw	56694	Widno	42	Idz leno, ten brunẏ pies cy nic nie zrobi!
+vw	56784	Zelistrzewo	42	Bioj le, ten bruny pies tobie nic niezrobi.
+vw	56785	Jastarnia	42	Bjejle ten brunÿ Pies ce nic niezrobÿ.
+vw	56799	Zalakowo	42	Biej le, ten bruny pies tobie nic nie zrobi.
+wx	56805	Sianowska Huta	42	Bÿe bruni Pÿes ci nic nezrobi.
+wx	56814	Rebiechowo	42	Bie le, ten bruny pies tobie nick niezrobi.
+wx	56846	Piechowice	42	Bies jeno, ten bruné pies, niezrobie tobie niec.
+wx	53478	Rombark	43	Idź tylko bruny pies ci nic niezrobi
+wx	53489	Rytel	43	Idź tylko, bronatny pies ci nic nie zrobi
+wx	53514	Lubocien	43	idź tylko, ten brunatny pies ci nic niezrobi
+wx	53521	Kamionka	43	Idź tylko, ten brunatny pies tobie nic niezrobi
+wx	53535	Orzelek	43	Idz tylko bruny pies ci nic niez zrobi
+wx	53538	Szyroslaw	43	Idź tylko, ten pies Ci nic niezrobi
+wx	53545	Pisanica	43	Idź, idź, ten bronatny pies ci nic nie robi
+wx	53567	Glinki	43	Idź tylko, ten brunatny pies Ci nie nie zrobi
+wx	53571	Gruczno	43	Idź tylko, ten bury pies Ci nic nie zrobi
+wx	53581	Slawianowo	43	Idź tylko, ten szary pies ci nic nie zrobi
+wx	53602	Zoledowo	43	Idź tylko, ten brunatny pies nic Tobie nie zrobi
+wx	53616	Wrocki	43	Idz daly, ten burek ci nic nie zrobi
+wx	53620	Morzewo	43	Idź tylko, ten brunatny pies nic ci nie zrobi
+wx	53656	Bartosze	43	Jyć tylko, ten zolly pies tobie nic nie zrobi
+wx	53663	Kraplewo	43	Idź tylko, pies brunatny nic ci nie uczyni
+wx	53708	Pokrzydowo	43	Idź tylko, bury pies ci nic nie zrobi
+wx	53710	Boleszyn	43	Idz tylko, brunatny pies ci nic niezrobi
+wx	53721	Nowy Swiat	43	Idz tylko, ten brunatny pies ci nic niez robi 
+wx	53745	Wapno	43	Idź tylko, ten bury pies cie nie ugryzie (nic nie zrobi)
+wx	53756	Mamlicz	43	Idź tylko, ten ?iasztan ci nic niezrobi
+wx	53760	Rojewo	43	Idź, ten brunatny pies nie ugryzie cej(?)
+wx	53771	Wiatrowo	43	Idź tylko, ten brunatny pies nie zrobi ci nic
+wx	53819	Galezewo	43	Idź tylko, ten szary pies nic ci nie zrobi
+wx	53822	Lojewo	43	Ijdź tylko, brunatny pies nic ci nie zrobi 
+wx	53834	Bielawy	43	Idz tylko kasztanowaty pies nic ci nie zrobi
+wx	53859	Chludowo	43	Idź tylko, ten bury pies ci nic nie zrobi
+wx	53872	Strzyzewo Koscielne	43	Idź tylko, ten czarny pies nic ci nie zrobi
+wx	53877	Kamieniec	43	Idź tylko, brunatny pies nic ci nie zrobi
+wx	55537	Ceradz Koscielny	43	Idz tylko, ten rudy pies nic ci nie zrobi
+wx	55565	Poznan	43	Idź jeno, ten bury pies nic ci nie zrobi
+wx	55569	Lowecin	43	Idź tylko, bury pies nic ci nie zrobi
+wx	55586	Mierzewo	43	Idź tylko brunatny pies nic ci nie zrobi.
+wx	55592	Dabrowka Wielkopolska	43	Ieź tylko, ten brunatny pies cię nic niezrobi.
+wx	55593	Slupia	43	Idź tylko, brunatny pies nic ci nie zrobi
+wx	55621	Babin	43	Idź tylko(=jeno), kasztanowaty pies nic ci nie zrobi
+wx	55635	Tadeuszowo	43	Idź tylko, ten kurtek ci nie ugryzie
+wx	55646	Gorazdowo	43	Idź, ten brunatny pies nic ci nie zrobi
+wx	55656	Sierakowo	43	Idź, ten burek nic ci nie zrobi
+wx	55688	Turew	43	Idź tylko, ten szarek cie nie ugruyzie
+wx	55701	Ludwinow	43	Idź, ten szary psie nic ci nie zrobie
+wx	55702	Radomierz	43	Idź tylko ten brunatny pies nic Ci nie zrobi.
+wx	55720	Kotlin	43	Idz tylko, ten brunatny pies nic ci nie zrobi
+wx	55725	Gorzno	43	Idź tylko, brunatny pies c?i? nie ugryzie
+wx	55729	Drzeczewo Pierwsze	43	Idź tylko, ten szary pies nic ci nie zrobi
+wx	55733	Rusko	43	Idż, szary pies ci nic nie zrobi
+wx	55741	Brzezie	43	Idź tylko, brunatny pies nic ci nie zrobi
+wx	55782	Torzeniec	43	Idź tylko ów brunatny piec nic ci nie zrobi
+wx	55794	Kuznica Slupska	43	Idż,brunatny pies nic cinie zrobi
+wx	55803	Kuklinow	43	Idź tylko, ten brunatny pies nic ci nie zrobi
+wx	55828	Pomocno	43	Idź tylko, ten brunatny pies nic ci nie zrobi
+wx	55848	Uciechow	43	Idź tylko, ten brunatny pies nic ci nie zrobi
+wx	55855	Przygodziczki	43	Idź tylko, ten szarek (szary pies) nic ci nie zrobi
+wx	55859	Kaliszkowice Kaliskie	43	Idź tylko, ten brunatny pies nic [?] Ci nie zrobi.
+wx	55878	Trebaczow	43	Biez, ten brunotny pies nie zrobi ci nic
+wx	55894	Greboszow	43	Biez jeno, bronstny pies ci nic nie ucyne
+wx	55900	Pawlowice Gorzowskie	43	Idź jeno, ten brunotny pies nic ci niezrobi
+wx	55940	Skoraszewice	43	Idź je?? czurny pies cie nieugryzie
+wx	55947	Kwiatkow	43	Idź, bronatny (u) pies nic ci nie zrobi
+wx	55991	Zabrze	43	Idź jeno, ten bronotny pies ci nic nie zrobi. 
+wx	56013	Radoszowy	43	Idź jeno, ten branotny pies ci nic niezrobi
+wx	56022	Budziska	43	Biež (idź) ten bronotny pies nic ci niezrobi
+wx	56027	Stanica	43	Ić jusz ten bronatny pies ci nic nie zrobi
+wx	56041	Murcki	43	Idz jeno, bo tyn bury pies ci nic nie zrobi
+wx	56053	Wilkow	43	Idź yno tyn bronny pies ci nic nie zrobi
+wx	56069	Dobieszowice	43	Idź, bo ci tyn bronautny pies nic niezrobi
+wx	56077	Ujazd	43	Idź, bo brunotny pies ci nic nie zrobi
+wx	56086	Rzeczyce	43	Idź ieny tyn bronotny pies nieczyni ci nic
+wx	56167	Staniszcze Male	43	Idź jeno, tyn bronotny pies ci nic nie zrobi
+wx	56190	Ligota Proszkowska	43	Idź ze, ten brauny pies ci nic nie zrobi
+wx	56205	Radonia	43	Idź jeno, ten bronatny Pies ci nic nie zrobi
+wx	56237	Kotorz Wielki	43	Idź, bo tyn bronotny pies nic ci nie zrobi
+wx	56247	Pawonkow	43	Idź jeno, brónotny pies ci nic nie zrobi
+wx	56252	Cieszowa	43	Idź jeno, ten pies bronotny nic ci nie zrobi
+wx	56257	Zieliniec	43	Bies, ten bronotny pies ci nic nie zrobi
+wx	56269	Debiniec	43	Idź jeno, bo ten brunatni pies ciebie nic nie zrobi
+wx	56274	Wedrynia	43	Idź jenno, brunotny pies ci nic nie croby
+wx	56338	Frydek	43	Idz ino, tyn bronotny pies ci nic nie zrobi.
+wx	56349	Pielgrzymowice	43	Idź jono ten brunotny pies ci nic nie zrobi. 
+wx	56375	Nieboczowy	43	Idz jyny, ten brónotny pies ci nic niezrobi
+wx	56381	Swierklany Dolne	43	Idź ieno, ten bronotny pies nie zrobi ci nic
+wx	56539	Gieralcice	43	Bieź jeno, ten piesz brunatny ci nie czyni nic
+wx	56549	Borki Wielkie	43	Idź tylko, ten brunatny pies tobie nic nieuczyni
+wx	56576	Kamien Slaski	43	Idź daléj, tén brunatny pies ci nic niezrobi
+wx	56580	Strzelce Opolskie	43	Idź, brónatny pies nic ci nie zrobi
+wx	56600	Tarnowskie Góry	43	Idź jeno, ten brunatny pies tobie nic nie zrobi
+wx	56650	Bujaków	43	Idź ino, ten brunatny pies Tobie nic nie uczyni
+wx	56681	Suszec	43	Idź, te brunotny pies cie nic nie zrobi
+wx	56761	Mgowo	43	Idz tylko, ten bronatny pies tobie nic nie zrobi
+wx	56850	Lekarty	43	Idż jeno ten brunatny pies ci nic nie zrobi
+wx	56861	Lewald Wielki	43	Idz eno ten bronatny czi nic nie zrobi
+wx	56870	Januszkowo	43	Idz éno, tén brónatny pies ci nic nie zrobi
+wx	56877	Zimna Woda	43	Idź eno, ten bronatny pies ci nic niezroby
+wx	56884	Roklas	43	Ić tlo ten bronatny pies cy nic nie srobii
+wx	56897	Lipowiec	43	Jó tilko ten bronatni Pies nic ci nie uciny
+wx	56903	Zawojki	43	Io tilo, ten bronatni Pies tobie nic nie srobie
+wx	56916	Slawka Mala	43	Idz tlo, ten szelony piesz ci nic nie zrobi
+wx	56953	Baranowo	43	Ic bronatny Pies tobie nic nie zroby
+xy	56956	Macice	43	Idz tylko, ten brunatnij pies nie zrobi ci nic
+xy	56963	Narzym	43	Idz eno, bronatny pies ci nic nie zrobi
+xy	56966	Napierki	43	Idz tilko, ten bronatni pies tobie niz ne srobi
+xy	56975	Mierki	43	Idź eno, ten bronatny pies ci nic nie zrobi
+xy	56979	Butryny	43	Idź  tylko, tan brunatny pszes tobie nic nie zrobi
+xy	56994	Jerutki	43	Idz tÿlko ten bronatny pies nie uczijnni tobie nicz
+xy	57047	Nowy Dwor	43	Idz tylko, ten bronnatny pies tobie niez nie uczyni
+xy	57066	Wysoki Grad	43	Idz tylko, ten pies cie niezakonSi
+xy	57070	Pogobie Srednie	43	Idz lo, ten bronatni pies ci nicz nie zrobi
+xy	57074	Lipnicken (Lipniki)	43	Idz tÿlo, bronatnÿ piez nie uzinÿ zÿ nic.
+xy	-57081	Klebark Wielki	43	Tylko Idź, ten brunatny pies nie robi tobie nic
+xy	57106	Rybno	43	Idz tÿlko, ten bronatny pies cy nic nie zrobi
+xy	57168	Saplaty	43	I?z tÿlko, ten brunatny piesz nie uczyni tobie nicz
+xy	57181	Krutyn	43	Itsch tlo, ten bronatny piehs tobie niz nie srobi
+xy	57183	Zdory	43	Idz tylko, bronatny pies ci nic nie uczyni
+xy	57186	Ruda	43	Ic tlo, ten bronetny piasz ciabie nic nie robi
+xy	57191	Dybowo	43	Idzlo, tén bronatny pies nic ci nie zrobi.
+xy	57203	Dlugosze	43	Idz, ten bronatni pies ci nic nie zrobi
+xy	57219	Sulimy	43	Idź! bronatnÿ pieś tobie nic nie uczyni
+xy	57232	Wejdyki	43	Idź tylko, ten bronatny pies ci nic nie zrobi
+xy	57258	Wilkasy	43	Ić lo, bronatny pies nie zrobi ci nic
+xy	57275	Czerwonka	43	Ić tlo ten bronatny pszes ci nic nie zrobzy
+xy	57298	Zastruzne	43	Idz tlo, ten bronatny pies ci nic niezrobi
+xy	57304	Skomack Wielki	43	Idz tylko, ten brunatny pies nie uczyni ci nicz
+xy	57318	Kile	43	Ić tylko, ten bronatnÿ pies tobie niez nie uczyny
+xy	57321	Prawdziska	43	Its tlo, ten pies bronatni cie nic uciny
+xy	57340	Mosina	43	Idź, ten bronatny pies nic ci nie zrobi.
+xy	57348	Bnin	43	Idź tylko, ten brunatny pies nie ci nie zrobi. 
+xy	57379	Binkowo	43	Idź że, ten bury pies ci nic nie zrobi
+xy	57381	Kolniczki	43	Idź jeno ten brunatny pies nic ci nie zrobi
+xy	57394	Januszkowo	43	Bież jeno, ten bronatny pies cie nieugryzie (nic ci niezrobi)
+xy	57406	Dabrowka Ludomska	43	Jidź jeno, tyn bury pies nic ci nie zrobi
+xy	57407	Wiecanowo	43	Idź jeno, ten szary pies nic ci nie zrobi
+xy	57397	NA	43	ici tylko łen szary pies nie zrobi ci nic.
+xy	55528	Słone	44	Jdi jenem ten řebičkovy pes vam nic neudela.
+xy	56290	Groß Hoschütz (Velke Hostice)	44	Ene di, ten brunatnÿ pes ti nic nezrobi.
+xy	56344	Ellgoth-Hultschin (Ostrava-Lhotka)	44	Jdi jene, ten brunatny pes ti nic nezrobi.
+xy	44317	Zell-Pfarre	45	Koj jöd, ti rjav ps nča nardi t. 
+xy	I125a	Heille	100	Gŏă mar door, dən bruunn ont doejə niks.
+xy	I140p	Axel	100	Gà mà deu, die brunen hond doe je niks
+xy	I103p	Cadzand	100	ʰGa ma deu, die brunen ond doe je niks.
+xy	I110a	Slijkplaat	100	Gao mao deu, den brunen ond doe je niks
+xy	I095p	Hoedekenskerke	100	Gae maer dūr, de bruunen 'ond doe je niks
+xy	I101p	Krabbendijke	100	Gae me deur, de brune ont doe je niks
+xy	I058p	Westkapelle	100	gê mě deur, dən brūnən ǒnt dôetjə nǐks
+xy	I062a	Serooskerke	100	loop me vo bie. die nond doe je niks.
+xy	I048p	Colijnsplaat	100	gê mā dör, dən brünən ǒnt du jə niks.
+xy	I055p	Sint Annaland	100	Gè mè deur de brunennond doe je niks
+xy	K173a	Kruisland	100	Gao maor deur, den bruinen oond doedoew niks
+xy	K155p	Zevenbergen	100	Ga mar dur, dən bruinənont doědən niks.
+xy	K162a	Oosteind	100	Goă mar dur, dən brūīnənont doedən niks.
+xy	I032p	Burgh-Haamstede	100	Hi ma duer, dìe brune noont doe je niks.
+xy	I031a	Scharendijke	100	Gae ma deur, de brunen ond doe je niks.
+xy	I023p	Dirksland	100	Gae mar deur, dien bruunen hond doe je niks.
+xy	K086p	Zuid-Beijerland	100	Ga maar deur, de broine hond doet je niets (niks).
+xy	K093p	'S-Gravendeel	100	ga mar deur də bruinən hond doe jə niks.
+xy	K101a	Nieuwendijk	100	Lop mer deur, den bruinen hond doe doe niks.
+xy	I008p	Rockanje	100	Ga maar deur, de br[u/ei?]ne hond doe je niks.
+xy	K042a	Vlaardingen	100	Ga maar deur, de bru[i?]ne ond doe je niks.
+xy	K012p	Ouderkerk Aan den Ijssel	100	Ga mer deur, de bruine hond doe je niks
+xy	K022p	Willige Langerak	100	Ga maar door, de bruine hond dae je niets.
+xy	D005p	Den Haag	100	Xá mán dœr, do brœnə  hont dí du jo niks.
+xy	E179p	Zwammerdam	100	Ga maar deur, de bruine hond doet je niks.
+xy	E181p	Zegveld	100	Gā mār dōr, də bruinə hǒnt doet jə nīts (meestal: nǐks)
+xy	E133p	Katwijk Aan Zee	100	Lõs mĩr dem, də bruinə ho̧nt doetjə nǐks.
+xy	E138b	Abbenes	100	Goap moar deud, die bruine hond doe je niks
+xy	E147a	De Kwakel	100	Ga 't er maar deur, de bruine hond doet je niks
+xy	E080a	Velsen	100	Ga maar door, de bruine hond doetje niks
+xy	E086p	Zaandam	100	Gaan maar deur, de broine hond daet je niks.
+xy	E041p	Egmond Aan Zee	100	Gae maer deer, də broinə h[oəe?]ngt doet jə niks.
+xy	E047a	Stompetoren	100	Loop maar deur, de bruine hond doet je niks.
+xy	E010p	Sint Maarten	100	Gaan maar deur, de bruine hond doet je niks.
+xy	E005p	Westerland	100	Ga maar deur, want de brune hongd doet je niks.
+xy	A009p	De Waal	100	Ga maar deur, de brune hond doet je niks.
+xy	K218p	Bladel	100	Goa mèr (hat) dur, den bruinen (freule) hond duuw niks.
+xy	K214p	Lage Mierde	100	Ga mer deur, den brunen hond duut oew niks.
+xy	K165p	Udenhout	100	Gǒamardeur dembruinenhond die doejoe niks
+xy	K104a	Herwijnen	100	Goa mar deur, dienen bruinen hond, doe doe niks.
+xy	K035p	Hei-En Boeicop	100	Ga maar dur, de bruine hond doe je niks.
+xy	E192p	Utrecht	100	Gaai maar deur, de bruine hond doet (doe-ut) je nies.
+xy	E124p	Ankeveen	100	Loop moar an hoor, de bruine hond doet je toch nĩks.
+xy	E091p	Monnickendam	100	Ga maar door d o d r ui n ə hond doe j ə nies
+xy	E058p	Hoorn	100	Ga maar door, de bruine hond doet je niks.
+xy	E031a	Oostwoud	100	Loup mār deur, də bruinə hǒnd doet jə nǐks
+xy	E003a	Den Oever	100	Ga maar deur, de brunne hongd doet je niks.
+xy	Q095p	Maastricht	100	Gaank mer door, de brounen hoond deit diech niks.
+xy	L281p	Borkel	100	Gà mer djeur, de bruine hond dú niks
+xy	L226p	Woensel	100	Gǒa mer (hat) dur, dən brounən hond dunn niks.
+xy	L177c	Middelrode	100	Loop ma dur, den brònen hond dun niks
+xy	L093p	Lith	100	Goă mar dur, diejən bruinən hond doetəw niks.
+xy	L003p	Maurik	100	gɔ: mar do:r, də brœynə hɔnt du du (dud u) niks
+xy	F165p	Amersfoort	100	Gō mōr do:r, de brune hont doet niks.
+xy	F121p	Bunschoten-Spakenburg	100	Ga mor deur, de brunge hongt doe je niks.
+xy	E040a	Venhuizen	100	Gaan maar deur, de bruine hond doet je niks.
+xy	E040p	Enkhuizen	100	Gaan maar deur, de brune 'ond doet je niks
+xy	A001p	Midsland	100	Loop maar door, de brune hôn doet dij (of dy) niks
+xy	Q102p	Sint Antoniusbank	100	Gānk mēr door, de bró'(j)ne hōōnt dēīt tech niks
+xy	L318p	Stramproy	100	Gank mer dōōr, də brŏĕnə hontj duit dich niks.
+xy	L288b	Laar	100	Gằnk mĕ̀r dṓr, də broenə hŏ̀nt duit tŭ̀k nĭ̀ks.
+xy	L237p	Helmond	100	Go mar dur, ddie n brunnen hond du oe niks
+yz	L157a	Oventje	100	Go mar deur, de bruine hond du ow niks.
+yz	L102p	Ravenstein	100	Gao mar dœr, də brœynə honduu u niks
+yz	L010p	Wageningen	100	Gao mā(+a.c.) doe, də bròeynə(y+onder-en bovenliggend streepje) hond dujə niks
+yz	F170p	Barneveld	100	Goa mar deur, de bruune hond doet je niks.
+yz	F124p	Putten	100	Gao maor dūr. də bruunə hoent dūt jə nixs
+yz	F077p	Urk	100	Goan mar duur, de breune oend dut je niks.
+yz	B046a	Minnertsga	100	Rin mar troch, die brúne houn docht dy neat
+yz	L290p	Panningen	100	NEU: Gank mar dôr, də brunə hoňt dœ'ý tig niksALT:Gaŋkmar dōr, də brunə hoňt dœytig niks
+yz	L211p	Leunen	100	Lop mɛr dör, den brǔune-n-hond düd-ón niks.
+yz	L116p	Beek	100	Chǒa mar deūr, də brǔunə hont dǔut ǒon niks.
+yz	L023p	Arnhem	100	Loop mar door, die bruinə hont doet jə niks
+yz	F173p	Hoenderloo	100	Gò: mò:r deur, də brunə hond doet jə niks
+yz	F128p	Vierhouten	100	Goa mà vèrder, de bruune hond duut je niks.
+yz	F102p	Oldebroek	100	Gaot mar deur, de bruune hond dut je niks
+yz	F079p	Ens	100	Gä mär deúr, de bruine hoend doodt joe niks.
+yz	F052p	Kuinre	100	Goa moar deur, dei brune ond doet je niks.
+yz	B002p	Nes	100	Gaan maar deur, de brune hôn doet je niks.
+yz	F207p	Drempt	100	Gao mar deur, de brune hond dut oe niks.
+yz	F179p	Zutphen	100	Goa moar deur, de bruune hond dut oe niks.
+yz	F132p	Diepenveen	100	Gao maor deur de brune hond dut oe niks.
+yz	F106p	Windesheim	100	Ga moar deur, de broene 'ond doet oe niks.
+yz	F086p	Rouveen	100	lōp màr dōs, də broenə hónt döt oe niks
+yz	F060p	Steenwijk	100	Gao maor deur, de brunne hont dot oe niks.
+yz	F021p	Oldeberkoop	100	Gao mar deur, de bruune hond dot j[o/e?] niks.
+yz	G279a	Zieuwent	100	Gōa mar dör (freule) dən brōenn hond deūt (deur) ǎou niks.
+yz	G246p	Lochem	100	gao: mao:R do:R, dən bRunn h[offenes 'o']nt dəd'u niks.
+yz	G197p	Holten	100	Loop mèr duur, dèn broenn hoont dut oe niks.
+yz	G139a	Arriën	100	Gou mā deur, den broen'n ond dut oe niks.
+yz	G091d	Linde	100	Gao mar wiedər, de broene hond dut oe niks.
+yz	G024p	Dwingeloo	100	Goa mor deur, de broene hond dut oe niks.
+yz	C145p	Zevenhuizen	100	Goa moar deur, de broene hond dut dei niks.
+yz	C063p	Oldehove	100	Loap mor deur, de broene hond dut die niks.
+yz	C023a	Hornhuizen	100	Loop moar deur, dei broene hond deut tie niks.
+yz	G257p	Haaksbergen	100	Gaot mè(r) vedan, den broen(en) hoond deut oe niks.
+yz	G173p	Almelo	100	Gaot meer deur, den broenen hoond diet diej niks
+yz	G094p	Gramsbergen	100	Goa maar voat, den broenen hons döt o'[er?] niks.
+yz	G031p	Orvelte	100	Gao maor deur, de broene hond döt je niks.
+yz	G007p	Rolde	100	Goa [loop] mor deur, d'broen' hond dùt dè^ie niks
+yz	C148a	Glimmen	100	Loop moar deur (vot), dò broen[ə?] hont dùt joe niks.
+yz	C070a	Sint Annen	100	Goa moar verder, de broene hond dut joe niks.
+yz	C001b	'T Lage Van De Weg	100	loop mor deur, dei broene hond dut die niks.
+yz	G079a	Amsterdamscheveld	100	Gò mər deur[?] de brunə hont döt je niks.
+yz	G058p	Emmen	100	Gao maor deur, d'broene hond döt je niks.
+yz	G012a	Nieuw-Buinen	100	Loop maor deur, de broene (h)ond dut joe niks.
+yz	C156p	Muntendam	100	Goa moar wiedr, de broene ond dut-tie niks.
+yz	C081p	Weiwerd	100	Loop mòr| deur, de broene (h)ond dut die/tie niks.
+yz	C042p	Spijk	100	Loop moar deur, dei broene hond dut die niks.
+yz	C165p	Bellingwolde	100	Loop mor deur, de broene hont dut die niks
+yz	G285p	Meddo	100	Gaô maôr deur (wieter),‘n broenen hond deut ôw niks.
+yz	K189p	Essen	100	Gomm'r buite, dem bruinen oont toed euw neks(ke)
+yz	P133a	Terlanen	100	Geut mooë, den broinen hond doe niks
+yz	K191p	Meerle	100	Ga maar, de bruinen hond doet oe nikske
+yz	K234p	Wechelderzande	100	ga: mər, diə broąnən hoi:ndu əe: nits
+yz	K305p	Olen	100	Gaõ mə dö, də broānən hont zalə niks doen.
+yz	P025p	Aarschot	100	gɔȫ mɔȫ, də brōănənọnt dūdu niks 
+yz	P154p	Outgaarden	100	gọəmar, də brō̈nən ọnt dūud ux niks (nitš)
+yz	K196p	Poppel	100	Ga mer deur, den brùinen hond doe niks (zonder ouw) / of: zal (ouw) niks doen / zal nie bìjten
+yz	K241p	Retie	100	gɔ mä gəzøət, dəm brọin_  hont diən du neks
+yz	K314a	Gompel	100	Gē mar, də brǭnən hond du əf neks
+yz	P047p	Loksbergen	100	Gŏĭt ma, de bruine hont dūt ŏĕg niks
+yz	P174p	Velm	100	Goët mar door, de braöënen hond duu oeg niks.
+yz	L353p	Eksel	100	Gaot mer, die bruine hoend doet oech nix
+yz	Q001p	Zonhoven	100	gōut mẹr də broiñ họnt dyət ọx niks
+yz	Q079p	Guigoven	100	ɣọit męr, də kojə hont dyt əx niks
+yz	L360p	Bree	100	Gaŋk mar, də bruənən hǫnt dεjttix niks. (nooit: niemendal)
+yz	L417p	As	100	Goat maar doër, dŭ broene hond dut dich niks
+yz	Q253p	Montzen	100	Gangk mer, dər brōēngə hŏŏnt deet eech niks
+yz	O009p	Gottem	100	Gaa maar den bruinen hond en doe niet
+yz	O182p	Volkegem	100	Ceure moër, d'n/dien breun'n 'ont en doe ui niet/en zal ui niet doen
+yz	I163p	Oosteeklo	100	Kɔm moər vyrt din ɔnt ə~ zal ni bεjtən
+yz	I243p	Destelbergen	100	Goa moar, den bruien hond doet oe niks
+yz	O112p	Elene	100	Ga maar voort: dienen bruinen hond en zol ou niet doen.Koum maar, ge moet nie (schou zijn =) bang voor van dienen bruinen hond, hij en za (zal) ou niet doen.
+yz	I261p	Appels	100	Gõã mâôr, den bruinen hond doet ôû niksken (of: niks)
+yz	O149p	Iddergem	100	Gɔ mɔr, dənbrɔnənǫntəndutəniməndəpən (nekskən)
+yz	O275p	Herne	100	ɣnəmuədəmbr(o)ǫəndəndyəttǫəni'(ɱ)dāl(ə)n
+yz	I178p	Beveren	100	Gou moir, de bruinen hōōnd doet ou nieks
+yz	I268a	Kalfort	100	ɣöt mā/dəm brȯənən ǫnt ū dā nikskə/Gaat maar, de bruine hond doet u niets
+yz	O178a	Molenbeek-Saint-Jean	100	Göt ma, den broeinen ond doet a ōēmmes niks
+yz	P198p	Sint-Genesius-Rode	100	Guitt mo, dem bruinen ond dood o niks
+yz	55045/H051p	Wulpen	100	gɔə: mɔ, də brynən und əe gɔ niə tə~ duə~
+yz	55005/N024p	Westvleteren	100	gɔ mɔə də brynəñund gɔə nɛmanɔlə duə
+yz	N116p	Loker	100	gǫ mǫ dñ brỹ_nuŋt ӛë gǫ jỹ ge̯ kwwat tu:n
+yz	H016p	Oostende	100	gəms də bryŋunt gɔ niks dun
+yz	55036/H061p	Koekelare	100	gɔ mɔ dørə, din brynənuntxɔnituj: najə
+yz	55022	Houthulst	100	Gao mao, die rosten hond ga niemendalle doen
+yz	N130p	Wervik	100	Gae mae, dēēne brünnen oen gae joe niet doe (niemiendolle)
+yz	H005p	Uitkerke	100	Gao mao, den brunen hoend gao-je niemendalle doen
+yz	55044/H068p	Loppem	100	gɔ: mɔ voərt, də bryn ɔnt gɔ nit u : n
+yz	N041p	Pittem	100	gɔ̄ mɔ, (ə) bryñ unt sal ni tūn
+yz	55023/N141p	Kortrijk	100	gɔ mɔ də brynən un gɔ dy ni tun (du dij nīt/gɔ dy niməndɔlə dūn)
+yz	K245p	Deurne	100	Gõ mã, dən bruinə ond doet auuw nieks
+yz	K332p	Onze-Lieve-Vrouw-Waver	100	Gou mou, den broanen ond die doed oe niks
+yz	P018p	Kampenhout	100	Gooit mou, den brooinen hond doet aa niks
+yz	47114	Aarö (Årø)	12	Gaa konn, den bruen Hund gó dei it noue.
+yz	56462	Babow	41	ży jàn, ten bruni pjaß nezini tebe niz
+yz	53549	Zon	43	Idź tylko, ten bury pies nic ci nie zrobi.
+yz	53561	Myslowice	43	Idź, brunotny pieś ci nic nie zrobi.
+yz	43859	Schachendorf	46	Poj neg černi kucak ti neće ništ.

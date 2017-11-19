@@ -1,0 +1,2938 @@
+title: Simplification of grapheme diversity in Wenker sentence 9
+author: Michael Cysouw
+date: '2017-10-11'
+original_data: WS9_3characters.txt
+recoding:
+# ==========
+- recodingOf: i_ich11
+  attribute: i_ich11
+  values:
+    1: '-'
+    2: ai/ei
+    3: e
+    4: i
+    5: j/ia
+    6: ø/oi
+  link:
+    '-': 1
+    a: 2
+    ai: 2
+    au: 2
+    e: 3
+    ei: 2
+    i: 4
+    ia: 5
+    j: 5
+    o: 6
+    ø: 6
+    oi: 6
+    'y': 4
+  originalFrequency:
+    '-': 41
+    a: 2
+    ai: 13
+    au: 1
+    e: 292
+    ei: 49
+    i: 1511
+    ia: 5
+    j: 349
+    o: 2
+    ø: 21
+    oi: 17
+    'y': 1
+  comments: ~
+# ==========
+- recodingOf: ch_ich12
+  attribute: ch_ich12
+  values:
+    1: '-'
+    2: k
+    3: x/g
+    4: t
+  link:
+    '-': 1
+    c: 4
+    g: 3
+    h: 3
+    k: 2
+    'n': 0
+    ʃ: 3
+    t: 4
+    x: 3
+  originalFrequency:
+    '-': 669
+    c: 4
+    g: 10
+    h: 3
+    k: 895
+    'n': 2
+    ʃ: 1
+    t: 1
+    x: 719
+  comments: ~
+# ==========
+- recodingOf: b_bin1
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    b: ~
+    h: ~
+    p: ~
+    w: ~
+  originalFrequency:
+    '-': 14
+    b: 1824
+    h: 4
+    p: 28
+    w: 3
+  comments: not recoded
+# ==========
+- recodingOf: i_bin2
+  attribute: i_bin2
+  values:
+    1: i
+    2: e
+    3: ai/ei
+    4: a/o/u/oi/ui/ai
+    5: ø
+    6: 'y'
+  link:
+    a: 4
+    ai: 3
+    au: 4
+    e: 2
+    ea: 4
+    ei: 3
+    eo: 0
+    i: 1
+    ia: 4
+    o: 4
+    ø: 5
+    oa: 4
+    oi: 4
+    u: 4
+    ui: 4
+    'y': 6
+  originalFrequency:
+    a: 1
+    ai: 4
+    au: 1
+    e: 233
+    ea: 1
+    ei: 31
+    eo: 1
+    i: 1321
+    ia: 2
+    o: 1
+    ø: 38
+    oa: 6
+    oi: 1
+    u: 1
+    ui: 1
+    'y': 230
+  comments: ~
+# ==========
+- recodingOf: n_bin3
+  attribute: n_bin3
+  values:
+    1: '-'
+    2: 'n'
+    3: m
+  link:
+    '-': 1
+    m: 3
+    'n': 2
+    r: 0
+    t: 0
+  originalFrequency:
+    '-': 517
+    m: 7
+    'n': 1346
+    r: 2
+    t: 1
+  comments: ~
+# ==========
+- recodingOf: s_sein11
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    s: ~
+    ʃ: ~
+    z: ~
+  originalFrequency:
+    s: 310
+    ʃ: 1
+    z: 7
+  comments: not recoded
+# ==========
+- recodingOf: i_sein12
+  attribute: i_sein12
+  values:
+    1: i
+    2: e
+    3: ei/ai
+    4: 'y'
+    5: ø
+  link:
+    a: 0
+    ai: 3
+    e: 2
+    ei: 3
+    i: 1
+    ia: 0
+    ø: 5
+    u: 0
+    'y': 4
+  originalFrequency:
+    a: 1
+    ai: 7
+    e: 67
+    ei: 67
+    i: 160
+    ia: 1
+    ø: 3
+    u: 1
+    'y': 11
+  comments: ~
+# ==========
+- recodingOf: n_sein13
+  attribute: n_sein13
+  values:
+    1: '-'
+    2: 'n'
+    3: m
+  link:
+    '-': 1
+    m: 3
+    'n': 2
+    ŋ: 2
+  originalFrequency:
+    '-': 153
+    m: 3
+    'n': 158
+    ŋ: 4
+  comments: ~
+# ==========
+- recodingOf: d_sein14
+  attribute: d_sein14
+  values:
+  - '-'
+  - t
+  link:
+    '-': 1
+    d: 2
+    s: 0
+    t: 2
+  originalFrequency:
+    '-': 306
+    d: 6
+    s: 1
+    t: 5
+  comments: ~
+# ==========
+- recodingOf: g_gewesen1
+  attribute: g_gewesen1
+  values:
+    1: '-'
+    2: g
+    3: k/x
+    4: j/h
+  link:
+    '-': 1
+    d: 4
+    g: 2
+    h: 4
+    j: 4
+    k: 3
+    'n': 0
+    t: 0
+    x: 3
+  originalFrequency:
+    '-': 665
+    d: 1
+    g: 1375
+    h: 1
+    j: 30
+    k: 10
+    'n': 1
+    t: 1
+    x: 7
+  comments: ~
+# ==========
+- recodingOf: e_gewesen2
+  attribute: e_gewesen2
+  values:
+    1: '-'
+    2: e/i
+    3: a
+    4: o/u
+  link:
+    '-': 1
+    a: 3
+    au: 3
+    e: 2
+    i: 2
+    o: 4
+    u: 4
+    'y': 2
+  originalFrequency:
+    '-': 1216
+    a: 15
+    au: 1
+    e: 841
+    i: 12
+    o: 4
+    u: 1
+    'y': 1
+  comments: ~
+# ==========
+- recodingOf: w_gewesen3
+  attribute: w_gewesen3
+  values:
+  - w
+  - b/v
+  link:
+    b: 2
+    f: 2
+    'n': 0
+    u: 1
+    v: 2
+    w: 1
+    'y': 0
+    z: 0
+  originalFrequency:
+    b: 14
+    f: 1
+    'n': 1
+    u: 4
+    v: 8
+    w: 2061
+    'y': 1
+    z: 1
+  comments: ~
+# ==========
+- recodingOf: e_gewesen4
+  attribute: e_gewesen4
+  values:
+    1: a
+    2: e
+    3: ø
+    4: ei/ai
+    5: ea
+    6: i
+    7: ia
+  link:
+    a: 1
+    ai: 4
+    e: 2
+    ea: 5
+    ei: 4
+    i: 6
+    ia: 7
+    iu: 7
+    o: 3
+    ø: 3
+    oa: 3
+    oi: 3
+    'y': 6
+  originalFrequency:
+    a: 260
+    ai: 9
+    e: 1519
+    ea: 45
+    ei: 74
+    i: 48
+    ia: 37
+    iu: 1
+    o: 8
+    ø: 86
+    oa: 2
+    oi: 1
+    'y': 1
+  comments: ~
+# ==========
+- recodingOf: s_gewesen5
+  attribute: s_gewesen5
+  values:
+  - '-'
+  - s
+  - ʃ
+  - t
+  link:
+    '-': 1
+    d: 4
+    s: 2
+    ʃ: 3
+    t: 4
+    z: 3
+  originalFrequency:
+    '-': 348
+    d: 5
+    s: 1716
+    ʃ: 19
+    t: 1
+    z: 2
+  comments: ~
+# ==========
+- recodingOf: e_gewesen6
+  attribute: e_gewesen6
+  values:
+  - '-'
+  - e
+  - a
+  link:
+    '-': 1
+    a: 3
+    e: 2
+    i: 2
+  originalFrequency:
+    '-': 1718
+    a: 24
+    e: 348
+    i: 1
+  comments: ~
+# ==========
+- recodingOf: n_gewesen7
+  attribute: n_gewesen7
+  values:
+  - '-'
+  - 'n'
+  - t
+  link:
+    '-': 1
+    c: 0
+    d: 3
+    'n': 2
+    t: 3
+  originalFrequency:
+    '-': 285
+    c: 1
+    d: 1
+    'n': 693
+    t: 1111
+  comments: ~
+# ==========
+- recodingOf: b_bei1
+  attribute: b_bei1
+  values:
+  - b
+  - p
+  link:
+    '-': 0
+    b: 1
+    d: 0
+    k: 0
+    p: 2
+  originalFrequency:
+    '-': 1
+    b: 2231
+    d: 1
+    k: 2
+    p: 40
+  comments: ~
+# ==========
+- recodingOf: ei_bei2
+  attribute: ei_bei2
+  values:
+    1: ei/ai
+    2: a
+    3: e
+    4: i
+    5: o/u
+    6: ø/y
+    7: oi/ui
+    8: oa
+  link:
+    '-': 0
+    a: 2
+    ai: 1
+    ao: 0
+    e: 3
+    ea: 0
+    ei: 1
+    eo: 0
+    i: 4
+    ia: 0
+    o: 5
+    ø: 6
+    oa: 8
+    oi: 7
+    u: 5
+    ui: 7
+    uo: 0
+    'y': 6
+  originalFrequency:
+    '-': 6
+    a: 169
+    ai: 34
+    ao: 1
+    e: 101
+    ea: 1
+    ei: 1038
+    eo: 1
+    i: 853
+    ia: 1
+    o: 31
+    ø: 11
+    oa: 5
+    oi: 7
+    u: 5
+    ui: 6
+    uo: 1
+    'y': 4
+  comments: ~
+# ==========
+- recodingOf: d_der11
+  attribute: d_der11
+  values:
+  - '-'
+  - d
+  - t
+  - j/n
+  link:
+    '-': 1
+    d: 2
+    j: 4
+    'n': 4
+    r: 4
+    t: 3
+  originalFrequency:
+    '-': 120
+    d: 2136
+    j: 4
+    'n': 3
+    t: 27
+  comments: ~
+# ==========
+- recodingOf: e_der12
+  attribute: e_der12
+  values:
+    1: '-'
+    2: e
+    3: ei/ai
+    4: i
+    5: o
+    6: a
+    7: ø/y
+  link:
+    '-': 1
+    a: 6
+    ai: 3
+    ao: 6
+    e: 2
+    ea: 3
+    ei: 3
+    i: 4
+    ia: 4
+    o: 5
+    ø: 7
+    oa: 0
+    ou: 0
+    ue: 0
+    uo: 0
+    'y': 7
+  originalFrequency:
+    '-': 396
+    a: 383
+    ai: 3
+    ao: 2
+    e: 1282
+    ea: 13
+    ei: 114
+    i: 58
+    ia: 7
+    o: 17
+    ø: 8
+    oa: 1
+    ou: 1
+    ue: 1
+    uo: 1
+    'y': 3
+  comments: ~
+# ==========
+- recodingOf: r_der13
+  attribute: r_der13
+  values:
+    1: '-'
+    2: 'n'
+    3: m
+    4: r
+    5: s
+    6: t
+  link:
+    '-': 1
+    m: 3
+    'n': 2
+    ŋ: 2
+    r: 4
+    s: 5
+    t: 6
+  originalFrequency:
+    '-': 1207
+    m: 66
+    'n': 63
+    ŋ: 1
+    r: 943
+    s: 7
+    t: 3
+  comments: ~
+# ==========
+- recodingOf: e_der14
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    a: ~
+    e: ~
+    o: ~
+  originalFrequency:
+    '-': 2243
+    a: 22
+    e: 24
+    o: 1
+  comments: not recoded
+# ==========
+#- recodingOf: r_der15
+#  attribute: ~
+#  values:
+#  - ~
+#  - ~
+#  link:
+#    '-': ~
+#    'n': ~
+#    r: ~
+#  originalFrequency:
+#    '-': 2284
+#    'n': 1
+#    r: 5
+#  comments: excluded, too little variation
+# ==========
+- recodingOf: f_frau1
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    f: ~
+    v: ~
+    w: ~
+  originalFrequency:
+    f: 2091
+    v: 6
+    w: 7
+  comments: not recoded
+# ==========
+- recodingOf: r_frau2
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    r: ~
+  originalFrequency:
+    '-': 4
+    r: 2100
+  comments: not recoded
+# ==========
+- recodingOf: au_frau3
+  attribute: au_frau3
+  values:
+    1: a
+    2: au/ou
+    3: u
+    4: o
+    5: ei/ai/oi
+    6: e
+    7: ø/y
+    9: iu
+  link:
+    '-': 0
+    a: 1
+    ai: 5
+    ao: 1
+    au: 2
+    e: 6
+    ei: 5
+    eo: 6
+    iu: 9
+    o: 4
+    ø: 7
+    oa: 4
+    oi: 5
+    ou: 2
+    u: 3
+    ui: 3
+    'y': 7
+  originalFrequency:
+    '-': 1
+    a: 290
+    ai: 5
+    ao: 4
+    au: 1024
+    e: 13
+    ei: 3
+    eo: 10
+    iu: 10
+    o: 150
+    ø: 11
+    oa: 18
+    oi: 12
+    ou: 77
+    u: 472
+    ui: 1
+    'y': 3
+  comments: ~
+# ==========
+- recodingOf: w_frau4
+  attribute: w_frau4
+  values:
+    1: '-'
+    2: g/k/x
+    3: w
+    4: b/f
+    5: i/j
+  link:
+    '-': 1
+    b: 4
+    f: 4
+    g: 2
+    i: 5
+    j: 5
+    k: 2
+    r: 0
+    w: 3
+    x: 2
+  originalFrequency:
+    '-': 1829
+    b: 4
+    f: 1
+    g: 123
+    i: 1
+    j: 3
+    k: 4
+    r: 1
+    w: 132
+    x: 6
+  comments: ~
+# ==========
+- recodingOf: e_frau5
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    a: ~
+    e: ~
+    o: ~
+    ø: ~
+  originalFrequency:
+    '-': 1883
+    a: 11
+    e: 200
+    o: 9
+    ø: 1
+  comments: not recoded
+# ==========
+- recodingOf: n_frau6
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    'n': ~
+    s: ~
+  originalFrequency:
+    '-': 2057
+    'n': 46
+    s: 1
+  comments: not recoded
+# ==========
+- recodingOf: w_weib1
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    b: ~
+    v: ~
+    w: ~
+  originalFrequency:
+    b: 4
+    v: 2
+    w: 172
+  comments: not recoded
+# ==========
+- recodingOf: ei_weib2
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    ai: ~
+    e: ~
+    ea: ~
+    ei: ~
+    i: ~
+    ø: ~
+    oa: ~
+    oi: ~
+    'y': ~
+  originalFrequency:
+    ai: 11
+    e: 2
+    ea: 1
+    ei: 99
+    i: 50
+    ø: 2
+    oa: 2
+    oi: 1
+    'y': 10
+  comments: ~
+# ==========
+- recodingOf: b_weib3
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    b: ~
+    f: ~
+    v: ~
+    w: ~
+  originalFrequency:
+    '-': 44
+    b: 74
+    f: 41
+    v: 1
+    w: 18
+  comments: ~
+# ==========
+- recodingOf: e_weib4
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    a: ~
+    e: ~
+    o: ~
+    ø: ~
+  originalFrequency:
+    '-': 156
+    a: 7
+    e: 13
+    o: 1
+    ø: 1
+  comments: ~
+# ==========
+- recodingOf: n_weib5
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    'n': ~
+    r: ~
+    ts: ~
+    z: ~
+  originalFrequency:
+    '-': 170
+    'n': 2
+    r: 1
+    ts: 2
+    z: 3
+  comments: ~
+# ==========
+- recodingOf: u_und11
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    a: ~
+    ao: ~
+    e: ~
+    ea: ~
+    i: ~
+    o: ~
+    ø: ~
+    oa: ~
+    ou: ~
+    u: ~
+    ua: ~
+    uo: ~
+    'y': ~
+  originalFrequency:
+    '-': 1
+    a: 23
+    ao: 1
+    e: 178
+    ea: 6
+    i: 9
+    o: 289
+    ø: 1
+    oa: 5
+    ou: 8
+    u: 1745
+    ua: 1
+    uo: 4
+    'y': 5
+  comments: ~
+# ==========
+- recodingOf: n_und12
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    'n': ~
+    ŋ: ~
+  originalFrequency:
+    '-': 330
+    'n': 1945
+    ŋ: 1
+  comments: ~
+# ==========
+- recodingOf: d_und13
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    d: ~
+    k: ~
+    t: ~
+  originalFrequency:
+    '-': 1484
+    d: 768
+    k: 5
+    t: 19
+  comments: ~
+# ==========
+- recodingOf: h_habe1
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    b: ~
+    h: ~
+    k: ~
+    'n': ~
+    s: ~
+    t: ~
+  originalFrequency:
+    '-': 51
+    b: 1
+    h: 2235
+    k: 2
+    'n': 1
+    s: 1
+    t: 1
+  comments: ~
+# ==========
+- recodingOf: a_habe2
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    a: ~
+    ai: ~
+    ao: ~
+    au: ~
+    e: ~
+    ea: ~
+    ei: ~
+    eo: ~
+    i: ~
+    o: ~
+    ø: ~
+    oa: ~
+    oi: ~
+    ou: ~
+    u: ~
+    ua: ~
+    ue: ~
+    uo: ~
+    'y': ~
+  originalFrequency:
+    '-': 2
+    a: 479
+    ai: 4
+    ao: 17
+    au: 65
+    e: 906
+    ea: 1
+    ei: 6
+    eo: 2
+    i: 2
+    o: 610
+    ø: 9
+    oa: 74
+    oi: 4
+    ou: 20
+    u: 77
+    ua: 6
+    ue: 1
+    uo: 6
+    'y': 1
+  comments: ~
+# ==========
+- recodingOf: b_habe3
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    b: ~
+    d: ~
+    f: ~
+    l: ~
+    m: ~
+    'n': ~
+    ŋ: ~
+    p: ~
+    r: ~
+    s: ~
+    t: ~
+    v: ~
+    w: ~
+  originalFrequency:
+    '-': 493
+    b: 813
+    d: 1
+    f: 154
+    l: 3
+    m: 19
+    'n': 479
+    ŋ: 1
+    p: 32
+    r: 3
+    s: 10
+    t: 16
+    v: 26
+    w: 242
+  comments: ~
+# ==========
+- recodingOf: e_habe4
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    a: ~
+    e: ~
+    i: ~
+    o: ~
+  originalFrequency:
+    '-': 2105
+    a: 1
+    e: 184
+    i: 1
+    o: 1
+  comments: ~
+# ==========
+- recodingOf: t_habe5
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    d: ~
+    'n': ~
+    s: ~
+    t: ~
+  originalFrequency:
+    '-': 2274
+    d: 4
+    'n': 1
+    s: 6
+    t: 7
+  comments: ~
+# ==========
+- recodingOf: d_es11
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    d: ~
+    h: ~
+    t: ~
+    v: ~
+  originalFrequency:
+    '-': 1970
+    d: 182
+    h: 20
+    t: 3
+    v: 1
+  comments: ~
+# ==========
+- recodingOf: a_es12
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    a: ~
+    e: ~
+    ea: ~
+    i: ~
+    o: ~
+    ø: ~
+    oi: ~
+    'y': ~
+  originalFrequency:
+    '-': 1238
+    a: 227
+    e: 673
+    ea: 1
+    i: 15
+    o: 2
+    ø: 14
+    oi: 1
+    'y': 5
+  comments: ~
+# ==========
+- recodingOf: s_es13
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    d: ~
+    k: ~
+    r: ~
+    s: ~
+    ʃ: ~
+    t: ~
+    z: ~
+  originalFrequency:
+    '-': 6
+    d: 8
+    k: 1
+    r: 5
+    s: 1208
+    ʃ: 22
+    t: 924
+    z: 2
+  comments: ~
+# ==========
+- recodingOf: g_gegen11
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    c: ~
+    j: ~
+    t: ~
+  originalFrequency:
+    c: 12
+    j: 1
+    t: 97
+  comments: ~
+# ==========
+- recodingOf: e_gegen12
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    e: ~
+    ea: ~
+    ei: ~
+    i: ~
+    ia: ~
+    ø: ~
+    'y': ~
+  originalFrequency:
+    '-': 1
+    e: 88
+    ea: 1
+    ei: 1
+    i: 14
+    ia: 1
+    ø: 3
+    'y': 1
+  comments: ~
+# ==========
+- recodingOf: g_gegen13
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    d: ~
+    g: ~
+    k: ~
+    ŋ: ~
+    x: ~
+  originalFrequency:
+    '-': 13
+    d: 1
+    g: 77
+    k: 1
+    ŋ: 17
+    x: 1
+  comments: ~
+# ==========
+- recodingOf: e_gegen14
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    e: ~
+  originalFrequency:
+    '-': 25
+    e: 85
+  comments: ~
+# ==========
+- recodingOf: n_gegen15
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    'n': ~
+  originalFrequency:
+    '-': 27
+    'n': 83
+  comments: ~
+# ==========
+- recodingOf: h_ihr1
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    h: ~
+  originalFrequency:
+    '-': 2079
+    h: 112
+  comments: ~
+# ==========
+- recodingOf: i_ihr2
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    a: ~
+    ai: ~
+    ao: ~
+    e: ~
+    ea: ~
+    ei: ~
+    eo: ~
+    i: ~
+    ia: ~
+    o: ~
+    ø: ~
+    oa: ~
+    u: ~
+    uo: ~
+    'y': ~
+    ya: ~
+  originalFrequency:
+    '-': 186
+    a: 99
+    ai: 2
+    ao: 2
+    e: 981
+    ea: 25
+    ei: 7
+    eo: 3
+    i: 631
+    ia: 48
+    o: 12
+    ø: 163
+    oa: 7
+    u: 3
+    uo: 2
+    'y': 19
+    ya: 1
+  comments: ~
+# ==========
+- recodingOf: r_ihr3
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    m: ~
+    'n': ~
+    r: ~
+    s: ~
+  originalFrequency:
+    '-': 295
+    m: 36
+    'n': 14
+    r: 1844
+    s: 2
+  comments: ~
+# ==========
+- recodingOf: e_ihr4
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    a: ~
+    e: ~
+    i: ~
+    ia: ~
+    o: ~
+    ø: ~
+    oa: ~
+  originalFrequency:
+    '-': 1893
+    a: 176
+    e: 115
+    i: 1
+    ia: 1
+    o: 1
+    ø: 3
+    oa: 1
+  comments: ~
+# ==========
+- recodingOf: n_ihr5
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    m: ~
+    'n': ~
+    r: ~
+  originalFrequency:
+    '-': 2175
+    m: 2
+    'n': 6
+    r: 8
+  comments: ~
+# ==========
+- recodingOf: g_gesagt11
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    d: ~
+    g: ~
+    h: ~
+    j: ~
+    k: ~
+    x: ~
+    z: ~
+  originalFrequency:
+    '-': 679
+    d: 2
+    g: 1551
+    h: 1
+    j: 37
+    k: 16
+    x: 5
+    z: 1
+  comments: ~
+# ==========
+- recodingOf: e_gesagt12
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    a: ~
+    e: ~
+    i: ~
+    o: ~
+    ø: ~
+    'y': ~
+  originalFrequency:
+    '-': 1446
+    a: 10
+    e: 823
+    i: 7
+    o: 4
+    ø: 1
+    'y': 1
+  comments: ~
+# ==========
+- recodingOf: s_gesagt13
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    k: ~
+    s: ~
+    ʃ: ~
+    x: ~
+    z: ~
+  originalFrequency:
+    k: 3
+    s: 2125
+    ʃ: 16
+    x: 4
+    z: 144
+  comments: ~
+# ==========
+- recodingOf: a_gesagt14
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    a: ~
+    ai: ~
+    ao: ~
+    au: ~
+    e: ~
+    ea: ~
+    ei: ~
+    eo: ~
+    i: ~
+    ia: ~
+    o: ~
+    ø: ~
+    oa: ~
+    oi: ~
+    ou: ~
+    u: ~
+    ua: ~
+    ue: ~
+    ui: ~
+    uo: ~
+  originalFrequency:
+    a: 453
+    ai: 121
+    ao: 12
+    au: 5
+    e: 839
+    ea: 1
+    ei: 185
+    eo: 4
+    i: 10
+    ia: 5
+    o: 435
+    ø: 51
+    oa: 85
+    oi: 58
+    ou: 9
+    u: 5
+    ua: 3
+    ue: 3
+    ui: 5
+    uo: 3
+  comments: ~
+# ==========
+- recodingOf: g_gesagt15
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    g: ~
+    k: ~
+    l: ~
+    'n': ~
+    r: ~
+    x: ~
+  originalFrequency:
+    '-': 884
+    g: 1195
+    k: 29
+    l: 1
+    'n': 15
+    r: 10
+    x: 158
+  comments: ~
+# ==========
+- recodingOf: t_gesagt16
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    d: ~
+    t: ~
+  originalFrequency:
+    '-': 129
+    d: 140
+    t: 2023
+  comments: ~
+# ==========
+- recodingOf: u_und21
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    a: ~
+    ao: ~
+    e: ~
+    ea: ~
+    i: ~
+    'n': ~
+    o: ~
+    ø: ~
+    oa: ~
+    ou: ~
+    r: ~
+    u: ~
+    ua: ~
+    uo: ~
+    'y': ~
+  originalFrequency:
+    '-': 1
+    a: 22
+    ao: 1
+    e: 63
+    ea: 5
+    i: 3
+    'n': 1
+    o: 287
+    ø: 1
+    oa: 5
+    ou: 7
+    r: 2
+    u: 1645
+    ua: 1
+    uo: 3
+    'y': 3
+  comments: ~
+# ==========
+- recodingOf: n_und22
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    m: ~
+    'n': ~
+    r: ~
+  originalFrequency:
+    '-': 334
+    m: 1
+    'n': 1714
+    r: 1
+  comments: ~
+# ==========
+- recodingOf: d_und23
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    d: ~
+    k: ~
+    t: ~
+  originalFrequency:
+    '-': 1344
+    d: 684
+    k: 4
+    t: 18
+  comments: ~
+# ==========
+- recodingOf: s_sie11
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    h: ~
+    j: ~
+    s: ~
+    ʃ: ~
+    z: ~
+  originalFrequency:
+    '-': 2
+    h: 5
+    j: 11
+    s: 2016
+    ʃ: 28
+    z: 135
+  comments: ~
+# ==========
+- recodingOf: ie_sie12
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    a: ~
+    ai: ~
+    au: ~
+    e: ~
+    ea: ~
+    ei: ~
+    eo: ~
+    i: ~
+    ia: ~
+    j: ~
+    o: ~
+    ø: ~
+    oi: ~
+    t: ~
+    ue: ~
+    ui: ~
+    'y': ~
+  originalFrequency:
+    '-': 20
+    a: 10
+    ai: 25
+    au: 1
+    e: 792
+    ea: 2
+    ei: 311
+    eo: 1
+    i: 979
+    ia: 15
+    j: 1
+    o: 3
+    ø: 19
+    oi: 2
+    t: 1
+    ue: 1
+    ui: 8
+    'y': 6
+  comments: ~
+# ==========
+- recodingOf: h_hat11
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    h: ~
+  originalFrequency:
+    '-': 6
+    h: 749
+  comments: ~
+# ==========
+- recodingOf: a_hat12
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    a: ~
+    ao: ~
+    au: ~
+    e: ~
+    ea: ~
+    ei: ~
+    o: ~
+    oa: ~
+    oi: ~
+    ou: ~
+    ue: ~
+    uo: ~
+    'y': ~
+  originalFrequency:
+    a: 175
+    ao: 6
+    au: 19
+    e: 122
+    ea: 1
+    ei: 3
+    o: 384
+    oa: 17
+    oi: 2
+    ou: 22
+    ue: 2
+    uo: 1
+    'y': 1
+  comments: ~
+# ==========
+- recodingOf: f_hat13
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    f: ~
+    s: ~
+  originalFrequency:
+    '-': 753
+    f: 1
+    s: 1
+  comments: ~
+# ==========
+- recodingOf: t_hat14
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    d: ~
+    t: ~
+  originalFrequency:
+    '-': 4
+    d: 46
+    t: 705
+  comments: ~
+# ==========
+- recodingOf: d_es21
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    d: ~
+    h: ~
+    r: ~
+    t: ~
+  originalFrequency:
+    '-': 2037
+    d: 209
+    h: 16
+    r: 2
+    t: 4
+  comments: ~
+# ==========
+- recodingOf: a_es22
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    a: ~
+    ai: ~
+    e: ~
+    eo: ~
+    i: ~
+    ia: ~
+    o: ~
+    ø: ~
+    oa: ~
+    oi: ~
+    s: ~
+    u: ~
+    'y': ~
+  originalFrequency:
+    '-': 1416
+    a: 189
+    ai: 1
+    e: 613
+    eo: 1
+    i: 25
+    ia: 1
+    o: 1
+    ø: 13
+    oa: 1
+    oi: 1
+    s: 3
+    u: 2
+    'y': 1
+  comments: ~
+# ==========
+- recodingOf: s_es23
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    c: ~
+    d: ~
+    k: ~
+    'n': ~
+    r: ~
+    s: ~
+    ʃ: ~
+    t: ~
+    ts: ~
+    x: ~
+    z: ~
+  originalFrequency:
+    '-': 24
+    c: 1
+    d: 8
+    k: 2
+    'n': 1
+    r: 3
+    s: 1254
+    ʃ: 6
+    t: 955
+    ts: 2
+    x: 1
+    z: 11
+  comments: ~
+# ==========
+- recodingOf: w_will1
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    b: ~
+    m: ~
+    v: ~
+    w: ~
+  originalFrequency:
+    b: 25
+    m: 1
+    v: 4
+    w: 2022
+  comments: ~
+# ==========
+- recodingOf: i_will2
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    a: ~
+    ai: ~
+    e: ~
+    ea: ~
+    ei: ~
+    eo: ~
+    i: ~
+    ia: ~
+    io: ~
+    iu: ~
+    l: ~
+    o: ~
+    ø: ~
+    oi: ~
+    ou: ~
+    u: ~
+    ui: ~
+    uo: ~
+    'y': ~
+  originalFrequency:
+    '-': 7
+    a: 22
+    ai: 2
+    e: 333
+    ea: 25
+    ei: 7
+    eo: 1
+    i: 318
+    ia: 26
+    io: 1
+    iu: 1
+    l: 4
+    o: 483
+    ø: 171
+    oi: 10
+    ou: 14
+    u: 539
+    ui: 7
+    uo: 2
+    'y': 79
+  comments: ~
+# ==========
+- recodingOf: ll_will3
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    c: ~
+    d: ~
+    l: ~
+    'n': ~
+    r: ~
+    s: ~
+    ʃ: ~
+    x: ~
+  originalFrequency:
+    '-': 204
+    c: 1
+    d: 1
+    l: 1687
+    'n': 1
+    r: 147
+    s: 1
+    ʃ: 7
+    x: 3
+  comments: ~
+# ==========
+- recodingOf: e_will4
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    a: ~
+    ai: ~
+    e: ~
+  originalFrequency:
+    '-': 2041
+    a: 6
+    ai: 1
+    e: 4
+  comments: ~
+# ==========
+- recodingOf: t_will5
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    d: ~
+    i: ~
+    'n': ~
+    t: ~
+  originalFrequency:
+    '-': 1447
+    d: 204
+    i: 1
+    'n': 29
+    t: 371
+  comments: ~
+# ==========
+- recodingOf: e_will6
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    a: ~
+    e: ~
+    i: ~
+  originalFrequency:
+    '-': 1860
+    a: 3
+    e: 187
+    i: 2
+  comments: ~
+# ==========
+- recodingOf: s_soll1
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    g: ~
+    s: ~
+    ʃ: ~
+    z: ~
+  originalFrequency:
+    '-': 1
+    g: 1
+    s: 25
+    ʃ: 4
+    z: 131
+  comments: ~
+# ==========
+- recodingOf: o_soll2
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    a: ~
+    au: ~
+    e: ~
+    o: ~
+    ø: ~
+    oa: ~
+    oi: ~
+    ou: ~
+    u: ~
+    u e: ~
+    'y': ~
+  originalFrequency:
+    a: 8
+    au: 63
+    e: 4
+    o: 56
+    ø: 3
+    oa: 1
+    oi: 2
+    ou: 2
+    u: 11
+    u e: 1
+    'y': 11
+  comments: ~
+# ==========
+- recodingOf: ll_soll3
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    j: ~
+    l: ~
+    r: ~
+    w: ~
+  originalFrequency:
+    '-': 106
+    j: 2
+    l: 42
+    r: 1
+    w: 11
+  comments: ~
+# ==========
+- recodingOf: s_sagen1
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    s: ~
+    ʃ: ~
+    z: ~
+  originalFrequency:
+    s: 2137
+    ʃ: 11
+    z: 142
+  comments: ~
+# ==========
+- recodingOf: a_sagen2
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    a: ~
+    ai: ~
+    ao: ~
+    au: ~
+    e: ~
+    ea: ~
+    ei: ~
+    eo: ~
+    i: ~
+    ia: ~
+    o: ~
+    ø: ~
+    oa: ~
+    oi: ~
+    ou: ~
+    u: ~
+    ue: ~
+    ui: ~
+    uo: ~
+  originalFrequency:
+    '-': 1
+    a: 494
+    ai: 17
+    ao: 7
+    au: 10
+    e: 968
+    ea: 2
+    ei: 41
+    eo: 4
+    i: 21
+    ia: 3
+    o: 599
+    ø: 29
+    oa: 27
+    oi: 19
+    ou: 24
+    u: 11
+    ue: 4
+    ui: 5
+    uo: 4
+  comments: ~
+# ==========
+- recodingOf: g_sagen3
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    d: ~
+    g: ~
+    i: ~
+    j: ~
+    k: ~
+    ŋ: ~
+    r: ~
+    s: ~
+    w: ~
+    x: ~
+    'y': ~
+    z: ~
+  originalFrequency:
+    '-': 438
+    d: 2
+    g: 1593
+    i: 51
+    j: 39
+    k: 5
+    ŋ: 103
+    r: 10
+    s: 2
+    w: 8
+    x: 27
+    'y': 1
+    z: 11
+  comments: ~
+# ==========
+- recodingOf: e_sagen4
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    a: ~
+    ai: ~
+    e: ~
+    i: ~
+    ia: ~
+    o: ~
+    ø: ~
+    t: ~
+    u: ~
+  originalFrequency:
+    '-': 1137
+    a: 190
+    ai: 1
+    e: 933
+    i: 4
+    ia: 2
+    o: 18
+    ø: 2
+    t: 2
+    u: 1
+  comments: ~
+# ==========
+- recodingOf: n_sagen5
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    d: ~
+    m: ~
+    'n': ~
+    r: ~
+    t: ~
+  originalFrequency:
+    '-': 836
+    d: 6
+    m: 1
+    'n': 1415
+    r: 1
+    t: 31
+  comments: ~
+# ==========
+- recodingOf: au_auch1
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    a: ~
+    ai: ~
+    ao: ~
+    au: ~
+    e: ~
+    ea: ~
+    ei: ~
+    eo: ~
+    i: ~
+    ia: ~
+    o: ~
+    ø: ~
+    oa: ~
+    oi: ~
+    ou: ~
+    u: ~
+    uo: ~
+    'y': ~
+  originalFrequency:
+    a: 560
+    ai: 2
+    ao: 7
+    au: 273
+    e: 28
+    ea: 1
+    ei: 3
+    eo: 15
+    i: 8
+    ia: 1
+    o: 864
+    ø: 20
+    oa: 18
+    oi: 7
+    ou: 39
+    u: 135
+    uo: 1
+    'y': 9
+  comments: ~
+# ==========
+- recodingOf: ch_auch2
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    g: ~
+    k: ~
+    ŋ: ~
+    t: ~
+    w: ~
+    x: ~
+  originalFrequency:
+    '-': 846
+    g: 12
+    k: 829
+    ŋ: 2
+    t: 1
+    w: 2
+    x: 299
+  comments: ~
+# ==========
+#- recodingOf: a_an21
+#  attribute: ~
+#  values:
+#  - ~
+#  - ~
+#  link:
+#    a: ~
+#    ao: ~
+#    au: ~
+#    e: ~
+#    i: ~
+#    'n': ~
+#    o: ~
+#    ø: ~
+#    oa: ~
+#    u: ~
+#    'y': ~
+#  originalFrequency:
+#    a: 72
+#    ao: 5
+#    au: 1
+#    e: 7
+#    i: 9
+#    'n': 1
+#    o: 4
+#    ø: 1
+#    oa: 11
+#    u: 1
+#    'y': 2
+#  comments: ~
+## ==========
+#- recodingOf: n_an22
+#  attribute: ~
+#  values:
+#  - ~
+#  - ~
+#  link:
+#    a: ~
+#    e: ~
+#    i: ~
+#    'n': ~
+#    o: ~
+#  originalFrequency:
+#    a: 3
+#    e: 1
+#    i: 5
+#    'n': 104
+#    o: 1
+#  comments: ~
+## ==========
+#- recodingOf: g_gegen21
+#  attribute: ~
+#  values:
+#  - ~
+#  - ~
+#  link:
+#    '-': ~
+#    c: ~
+#    t: ~
+#  originalFrequency:
+#    '-': 1
+#    c: 6
+#    t: 56
+#  comments: ~
+## ==========
+#- recodingOf: e_gegen22
+#  attribute: ~
+#  values:
+#  - ~
+#  - ~
+#  link:
+#    '-': ~
+#    e: ~
+#    i: ~
+#    ø: ~
+#    'y': ~
+#  originalFrequency:
+#    '-': 7
+#    e: 51
+#    i: 1
+#    ø: 3
+#    'y': 1
+#  comments: ~
+## ==========
+#- recodingOf: g_gegen23
+#  attribute: ~
+#  values:
+#  - ~
+#  - ~
+#  link:
+#    '-': ~
+#    g: ~
+#    j: ~
+#    ŋ: ~
+#    x: ~
+#  originalFrequency:
+#    '-': 6
+#    g: 49
+#    j: 1
+#    ŋ: 6
+#    x: 1
+#  comments: ~
+## ==========
+#- recodingOf: e_gegen24
+#  attribute: ~
+#  values:
+#  - ~
+#  - ~
+#  link:
+#    '-': ~
+#    a: ~
+#    e: ~
+#    i: ~
+#    ia: ~
+#    'n': ~
+#  originalFrequency:
+#    '-': 2
+#    a: 1
+#    e: 49
+#    i: 4
+#    ia: 1
+#    'n': 6
+#  comments: ~
+## ==========
+#- recodingOf: n_gegen25
+#  attribute: ~
+#  values:
+#  - ~
+#  - ~
+#  link:
+#    '-': ~
+#    m: ~
+#    'n': ~
+#  originalFrequency:
+#    '-': 19
+#    m: 1
+#    'n': 43
+#  comments: ~
+# ==========
+#- recodingOf: h_ihrer1
+#  attribute: ~
+#  values:
+#  - ~
+#  - ~
+#  link:
+#    '-': ~
+#    h: ~
+#  originalFrequency:
+#    '-': 1914
+#    h: 113
+#  comments:
+## ==========
+#- recodingOf: i_ihrer2
+#  attribute: ~
+#  values:
+#  - ~
+#  - ~
+#  link:
+#    '-': ~
+#    a: ~
+#    ai: ~
+#    e: ~
+#    ea: ~
+#    ei: ~
+#    eo: ~
+#    i: ~
+#    ia: ~
+#    o: ~
+#    ø: ~
+#    oa: ~
+#    u: ~
+#    uo: ~
+#    'y': ~
+#  originalFrequency:
+#    '-': 7
+#    a: 19
+#    ai: 4
+#    e: 686
+#    ea: 1
+#    ei: 24
+#    eo: 3
+#    i: 1007
+#    ia: 71
+#    o: 4
+#    ø: 162
+#    oa: 10
+#    u: 1
+#    uo: 3
+#    'y': 25
+#  comments: ~
+## ==========
+#- recodingOf: r_ihrer3
+#  attribute: ~
+#  values:
+#  - '-'
+#  - r
+#  link:
+#    '-': 1
+#    a: 2
+#    d: 0
+#    e: 0
+#    r: 2
+#    u: 0
+#    v: 0
+#    w: 0
+#  originalFrequency:
+#    '-': 15
+#    a: 20
+#    d: 1
+#    e: 5
+#    r: 1983
+#    u: 1
+#    v: 1
+#    w: 1
+#  comments: ~
+## ==========
+#- recodingOf: e_ihrer4
+#  attribute: ~
+#  values:
+#  - ~
+#  - ~
+#  link:
+#    '-': ~
+#    a: ~
+#    ai: ~
+#    ao: ~
+#    e: ~
+#    i: ~
+#    ia: ~
+#    'n': ~
+#    o: ~
+#    ø: ~
+#    r: ~
+#    u: ~
+#  originalFrequency:
+#    '-': 441
+#    a: 359
+#    ai: 1
+#    ao: 1
+#    e: 1152
+#    i: 4
+#    ia: 1
+#    'n': 36
+#    o: 12
+#    ø: 1
+#    r: 15
+#    u: 4
+#  comments: ~
+## ==========
+#- recodingOf: r_ihrer5
+#  attribute: r_ihrer5
+#  values:
+#  - '-'
+#  - 'n'
+#  - r
+#  - m
+#  link:
+#    '-': 1
+#    e: 0
+#    m: 4
+#    'n': 2
+#    r: 3
+#    s: 0
+#    ʃ: 0
+#    x: 0
+#  originalFrequency:
+#    '-': 1158
+#    e: 2
+#    m: 67
+#    'n': 52
+#    r: 744
+#    s: 2
+#    ʃ: 1
+#    x: 1
+#  comments: ~
+# ==========
+#- recodingOf: e_ihrer6
+#  attribute: ~
+#  values:
+#  - ~
+#  - ~
+#  link:
+#    '-': ~
+#    a: ~
+#    e: ~
+#    o: ~
+#  originalFrequency:
+#    '-': 2002
+#    a: 18
+#    e: 5
+#    o: 2
+#  comments: ~
+## ==========
+#- recodingOf: r_ihrer7
+#  attribute: ~
+#  values:
+#  - ~
+#  - ~
+#  link:
+#    '-': ~
+#    r: ~
+#  originalFrequency:
+#    '-': 2024
+#    r: 3
+#  comments: ~
+# ==========
+- recodingOf: t_tochter1
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    d: ~
+    t: ~
+  originalFrequency:
+    '-': 1
+    d: 1143
+    t: 954
+  comments: no recoding
+# ==========
+- recodingOf: o_tochter2
+  attribute: o_tochter2
+  values:
+  - o
+  - a
+  - e
+  - ø
+  - u
+  - ou/au
+  - oa
+  - oi
+  link:
+    '-': 0
+    a: 2
+    ao: 2
+    au: 6
+    e: 3
+    ea: 3
+    eo: 3
+    i: 0
+    iu: 0
+    o: 1
+    ø: 4
+    oa: 7
+    oi: 8
+    ou: 6
+    u: 5
+    ua: 5
+    ue: 5
+    uo: 5
+    'y': 0
+  originalFrequency:
+    '-': 2
+    a: 92
+    ao: 5
+    au: 7
+    e: 25
+    ea: 3
+    eo: 5
+    i: 1
+    iu: 1
+    o: 1774
+    ø: 37
+    oa: 36
+    oi: 28
+    ou: 24
+    u: 44
+    ua: 4
+    ue: 3
+    uo: 6
+    'y': 1
+  comments: ~
+# ==========
+- recodingOf: ch_tochter3
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    g: ~
+    k: ~
+    r: ~
+    x: ~
+  originalFrequency:
+    '-': 42
+    g: 35
+    k: 2
+    r: 1
+    x: 2018
+  comments: no recoding
+# ==========
+- recodingOf: t_tochter4
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    d: ~
+    t: ~
+  originalFrequency:
+    '-': 8
+    d: 194
+    t: 1896
+  comments: no recoding
+# ==========
+- recodingOf: e_tochter5
+  attribute: _tochter5
+  values:
+  - '-'
+  - a
+  - e
+  - o
+  link:
+    '-': 1
+    a: 2
+    ai: 2
+    ao: 2
+    e: 3
+    ea: 3
+    eo: 3
+    o: 4
+  originalFrequency:
+    '-': 120
+    a: 418
+    ai: 1
+    ao: 1
+    e: 1540
+    ea: 1
+    eo: 1
+    o: 16
+  comments: ~
+# ==========
+- recodingOf: r_tochter6
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    r: ~
+    t: ~
+  originalFrequency:
+    '-': 593
+    r: 1504
+    t: 1
+  comments: no recoding
+# ==========
+#- recodingOf: n_tochter7
+#  attribute: ~
+#  values:
+#  - ~
+#  - ~
+#  link:
+#    '-': ~
+#    l: ~
+#    'n': ~
+#    ŋ: ~
+#  originalFrequency:
+#    '-': 2074
+#    l: 1
+#    'n': 22
+#    ŋ: 1
+#  comments: ~
+## ==========
+#- recodingOf: e_tochter8
+#  attribute: ~
+#  values:
+#  - ~
+#  - ~
+#  link:
+#    '-': ~
+#    e: ~
+#    o: ~
+#  originalFrequency:
+#    '-': 2083
+#    e: 14
+#    o: 1
+#  comments: ~
+# ==========
+- recodingOf: m_mädchen1
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    m: ~
+    w: ~
+  originalFrequency:
+    m: 135
+    w: 1
+  comments: ~
+# ==========
+- recodingOf: ä_mädchen2
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    a: ~
+    ai: ~
+    e: ~
+    ea: ~
+    ei: ~
+    i: ~
+    o: ~
+    oa: ~
+    oi: ~
+  originalFrequency:
+    a: 41
+    ai: 13
+    e: 54
+    ea: 1
+    ei: 16
+    i: 1
+    o: 1
+    oa: 1
+    oi: 8
+  comments: ~
+# ==========
+- recodingOf: d_mädchen3
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    d: ~
+    r: ~
+    s: ~
+    t: ~
+  originalFrequency:
+    '-': 31
+    d: 85
+    r: 4
+    s: 1
+    t: 15
+  comments: ~
+# ==========
+- recodingOf: e_mädchen4
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    e: ~
+  originalFrequency:
+    '-': 129
+    e: 7
+  comments: ~
+# ==========
+- recodingOf: ch_mädchen5
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    g: ~
+    j: ~
+    k: ~
+    l: ~
+    ŋ: ~
+    ʃ: ~
+    t: ~
+    x: ~
+  originalFrequency:
+    '-': 5
+    g: 7
+    j: 1
+    k: 7
+    l: 84
+    ŋ: 1
+    ʃ: 2
+    t: 1
+    x: 28
+  comments: ~
+# ==========
+- recodingOf: e_mädchen6
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    a: ~
+    e: ~
+    i: ~
+    o: ~
+  originalFrequency:
+    '-': 35
+    a: 18
+    e: 68
+    i: 14
+    o: 1
+  comments: ~
+# ==========
+- recodingOf: n_mädchen7
+  attribute: ~
+  values:
+  - ~
+  - ~
+  link:
+    '-': ~
+    'n': ~
+  originalFrequency:
+    '-': 104
+    'n': 32
+  comments: ~
+# ==========
+#- recodingOf: d_deern1
+#  attribute: ~
+#  values:
+#  - ~
+#  - ~
+#  link:
+#    d: ~
+#    t: ~
+#  originalFrequency:
+#    d: 31
+#    t: 1
+#  comments: ~
+## ==========
+#- recodingOf: i_deern2
+#  attribute: ~
+#  values:
+#  - ~
+#  - ~
+#  link:
+#    e: ~
+#    i: ~
+#    ø: ~
+#  originalFrequency:
+#    e: 15
+#    i: 16
+#    ø: 1
+#  comments: ~
+## ==========
+#- recodingOf: r_deern3
+#  attribute: ~
+#  values:
+#  - ~
+#  - ~
+#  link:
+#    '-': ~
+#    a: ~
+#    r: ~
+#  originalFrequency:
+#    '-': 3
+#    a: 12
+#    r: 17
+#  comments: ~
+## ==========
+#- recodingOf: n_deern4
+#  attribute: ~
+#  values:
+#  - ~
+#  - ~
+#  link:
+#    m: ~
+#    'n': ~
+#  originalFrequency:
+#    m: 1
+#    'n': 31
+#  comments: ~
+## ==========
+#- recodingOf: d_deern5
+#  attribute: ~
+#  values:
+#  - ~
+#  - ~
+#  link:
+#    '-': ~
+#    d: ~
+#  originalFrequency:
+#    '-': 17
+#    d: 15
+#  comments: ~
+## ==========
+#- recodingOf: l_deern6
+#  attribute: ~
+#  values:
+#  - ~
+#  - ~
+#  link:
+#    '-': ~
+#    l: ~
+#  originalFrequency:
+#    '-': 17
+#    l: 15
+#  comments: ~
