@@ -10,7 +10,7 @@
             <plist version="1.0">
                 <dict>
                     <key>NSPersistenceFrameworkVersion</key>
-                    <integer>754</integer>
+                    <integer>847</integer>
                     <key>NSStoreModelVersionHashes</key>
                     <dict>
                         <key>Bookmark</key>
@@ -61,7 +61,7 @@
         </metadata>
     </databaseInfo>
     <object type="UISETTINGS" id="z102">
-        <attribute name="pdfviewscrollrect" type="string">{{0, 794.41758241756656}, {620, 818.26373626370446}}</attribute>
+        <attribute name="pdfviewscrollrect" type="string">{{7.6200907445839925e-14, 447.74054054065545}, {619.99999999999693, 804.99459459458853}}</attribute>
         <attribute name="showpdfthumbnails" type="bool">0</attribute>
         <attribute name="selectedcontrolstab" type="int16">0</attribute>
         <attribute name="maxoutlinedepth" type="int16">7</attribute>
@@ -88,7 +88,7 @@
     <object type="PROJECT" id="z104">
         <attribute name="type" type="string">PDFLaTeX</attribute>
         <attribute name="name" type="string">dialectmultialign</attribute>
-        <attribute name="folder" type="string">/Users/cysouw/Documents/Github/Writing/translational-survey-data/paper</attribute>
+        <attribute name="folder" type="string">/Users/cysouw/Documents/Github/Alignment/Wenker/papers/methodology</attribute>
         <relationship name="mainfile" type="1/1" destination="FILE" idrefs="z107"></relationship>
         <relationship name="selected" type="1/1" destination="FILE" idrefs="z107"></relationship>
         <relationship name="settings" type="1/1" destination="SETTINGS" idrefs="z103"></relationship>
@@ -114,13 +114,13 @@
         <relationship name="children" type="0/0" destination="PROJECTITEM"></relationship>
     </object>
     <object type="TEXFILE" id="z107">
-        <attribute name="wasopen" type="bool">0</attribute>
-        <attribute name="visiblerect" type="string">{{0, 0}, {579, 1176}}</attribute>
-        <attribute name="lasteditdate" type="date">529531733.50316798686981201172</attribute>
+        <attribute name="wasopen" type="bool">1</attribute>
+        <attribute name="visiblerect" type="string">{{0, 0}, {579, 1029}}</attribute>
+        <attribute name="lasteditdate" type="date">532816482.95500397682189941406</attribute>
         <attribute name="istext" type="bool">1</attribute>
-        <attribute name="fileloaddate" type="date">529531753.04492801427841186523</attribute>
+        <attribute name="fileloaddate" type="date">532816490.47032201290130615234</attribute>
         <attribute name="extension" type="string">tex</attribute>
-        <attribute name="cursor" type="string">{0, 0}</attribute>
+        <attribute name="cursor" type="string">{2123, 0}</attribute>
         <attribute name="sortindex" type="int32">0</attribute>
         <attribute name="name" type="string">dialectmultialign_main.tex</attribute>
         <attribute name="isexpanded" type="bool">0</attribute>
@@ -132,13 +132,13 @@
         <relationship name="bookmarks" type="0/0" destination="BOOKMARK"></relationship>
     </object>
     <object type="TEXFILE" id="z108">
-        <attribute name="wasopen" type="bool">-1</attribute>
-        <attribute name="visiblerect" type="string">{{0, 0}, {579, 1176}}</attribute>
-        <attribute name="lasteditdate" type="date">529531714.69937598705291748047</attribute>
+        <attribute name="wasopen" type="bool">0</attribute>
+        <attribute name="visiblerect" type="string">{{0, 0}, {579, 1029}}</attribute>
+        <attribute name="lasteditdate" type="date">532816179.12774598598480224609</attribute>
         <attribute name="istext" type="bool">1</attribute>
-        <attribute name="fileloaddate" type="date">529531719.60438501834869384766</attribute>
+        <attribute name="fileloaddate" type="date">532816182.43774002790451049805</attribute>
         <attribute name="extension" type="string">tex</attribute>
-        <attribute name="cursor" type="string">{731, 0}</attribute>
+        <attribute name="cursor" type="string">{618, 0}</attribute>
         <attribute name="sortindex" type="int32">0</attribute>
         <attribute name="name" type="string">preamble.tex</attribute>
         <attribute name="isexpanded" type="bool">0</attribute>
