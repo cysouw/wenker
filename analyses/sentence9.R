@@ -127,7 +127,7 @@ dataChars <- recodeChars(dataChars, langs = c("1","10"), "../data/WS9/graphemesD
 chars <- recode(dataChars, "../data/WS9/recodingChars.yml")
 
 # plot character parameters
-end <- which(colnames(chars) == "w_weib1")
+end <- which(colnames(chars) == "s_es13")
 
 sapply(1:end, function(x) {
 	plotSingle(chars[,x], colnames(chars)[x])

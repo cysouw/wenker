@@ -774,20 +774,23 @@ recoding:
   comments: not recoded
 # ==========
 - recodingOf: ei_weib2
-  attribute: ~
+  attribute: ei_weib2
   values:
-  - ~
-  - ~
+  - ei/ai
+  - i
+  - e
+  - ø
+  - 'y'
   link:
-    ai: ~
-    e: ~
-    ea: ~
-    ei: ~
-    i: ~
-    ø: ~
-    oa: ~
-    oi: ~
-    'y': ~
+    ai: 1
+    e: 3
+    ea: 3
+    ei: 1
+    i: 2
+    ø: 4
+    oa: 0
+    oi: 1
+    'y': 5
   originalFrequency:
     ai: 11
     e: 2
@@ -817,19 +820,19 @@ recoding:
     f: 41
     v: 1
     w: 18
-  comments: ~
+  comments: not recoded
 # ==========
 - recodingOf: e_weib4
-  attribute: ~
+  attribute: e_weib4
   values:
-  - ~
-  - ~
+  - '-'
+  - vowel
   link:
-    '-': ~
-    a: ~
-    e: ~
-    o: ~
-    ø: ~
+    '-': 1
+    a: 2
+    e: 2
+    o: 2
+    ø: 2
   originalFrequency:
     '-': 156
     a: 7
@@ -838,45 +841,48 @@ recoding:
     ø: 1
   comments: ~
 # ==========
-- recodingOf: n_weib5
-  attribute: ~
-  values:
-  - ~
-  - ~
-  link:
-    '-': ~
-    'n': ~
-    r: ~
-    ts: ~
-    z: ~
-  originalFrequency:
-    '-': 170
-    'n': 2
-    r: 1
-    ts: 2
-    z: 3
-  comments: ~
+#- recodingOf: n_weib5
+#  attribute: ~
+#  values:
+#  - ~
+#  - ~
+#  link:
+#    '-': ~
+#    'n': ~
+#    r: ~
+#    ts: ~
+#    z: ~
+#  originalFrequency:
+#    '-': 170
+#    'n': 2
+#    r: 1
+#    ts: 2
+#    z: 3
+#  comments: ~
 # ==========
 - recodingOf: u_und11
-  attribute: ~
+  attribute: u_und11
   values:
-  - ~
-  - ~
+    1: e
+    2: o
+    3: u
+    4: a
+    5: i/y
   link:
-    '-': ~
-    a: ~
-    ao: ~
-    e: ~
-    ea: ~
-    i: ~
-    o: ~
-    ø: ~
-    oa: ~
-    ou: ~
-    u: ~
-    ua: ~
-    uo: ~
-    'y': ~
+    '-': 0
+    a: 4
+    ao: 4
+    e: 1
+    ea: 1
+    i: 5
+    o: 2
+    ø: 0
+    oa: 2
+    ou: 2
+    u: 3
+    ua: 3
+    uo: 3
+    'y': 5
   originalFrequency:
     '-': 1
     a: 23
@@ -907,7 +913,7 @@ recoding:
     '-': 330
     'n': 1945
     ŋ: 1
-  comments: ~
+  comments: not recoded
 # ==========
 - recodingOf: d_und13
   attribute: ~
@@ -924,21 +930,21 @@ recoding:
     d: 768
     k: 5
     t: 19
-  comments: ~
+  comments: not recoded
 # ==========
 - recodingOf: h_habe1
-  attribute: ~
+  attribute: h_habe1
   values:
-  - ~
-  - ~
+  - '-'
+  - h
   link:
-    '-': ~
-    b: ~
-    h: ~
-    k: ~
-    'n': ~
-    s: ~
-    t: ~
+    '-': 1
+    b: 0
+    h: 2
+    k: 0
+    'n': 0
+    s: 0
+    t: 0
   originalFrequency:
     '-': 51
     b: 1
@@ -950,31 +956,37 @@ recoding:
   comments: ~
 # ==========
 - recodingOf: a_habe2
-  attribute: ~
+  attribute: a_habe2
   values:
-  - ~
-  - ~
+    1: a
+    2: e
+    3: o
+    4: u
+    5: oa/ou
+    6: ao/au
+    7: ai/ei
+    8: i/ø/y
   link:
-    '-': ~
-    a: ~
-    ai: ~
-    ao: ~
-    au: ~
-    e: ~
-    ea: ~
-    ei: ~
-    eo: ~
-    i: ~
-    o: ~
-    ø: ~
-    oa: ~
-    oi: ~
-    ou: ~
-    u: ~
-    ua: ~
-    ue: ~
-    uo: ~
-    'y': ~
+    '-': 0
+    a: 1
+    ai: 7
+    ao: 6
+    au: 6
+    e: 2
+    ea: 2
+    ei: 7
+    eo: 2
+    i: 8
+    o: 3
+    ø: 8
+    oa: 5
+    oi: 7
+    ou: 5
+    u: 4
+    ua: 4
+    ue: 4
+    uo: 4
+    'y': 8
   originalFrequency:
     '-': 2
     a: 479
@@ -999,25 +1011,31 @@ recoding:
   comments: ~
 # ==========
 - recodingOf: b_habe3
-  attribute: ~
+  attribute: b_habe3
   values:
-  - ~
-  - ~
+    1: '-'
+    2: b
+    3: f
+    4: n/m
+    5: p
+    6: w/v
+    7: d/t
+    8: r/l/s
   link:
-    '-': ~
-    b: ~
-    d: ~
-    f: ~
-    l: ~
-    m: ~
-    'n': ~
-    ŋ: ~
-    p: ~
-    r: ~
-    s: ~
-    t: ~
-    v: ~
-    w: ~
+    '-': 1
+    b: 2
+    d: 7
+    f: 3
+    l: 8
+    m: 4
+    'n': 4
+    ŋ: 4
+    p: 5
+    r: 8
+    s: 8
+    t: 7
+    v: 6
+    w: 6
   originalFrequency:
     '-': 493
     b: 813
@@ -1036,16 +1054,16 @@ recoding:
   comments: ~
 # ==========
 - recodingOf: e_habe4
-  attribute: ~
+  attribute: e_habe4
   values:
-  - ~
-  - ~
+  - '-'
+  - e
   link:
-    '-': ~
-    a: ~
-    e: ~
-    i: ~
-    o: ~
+    '-': 1
+    a: 2
+    e: 2
+    i: 2
+    o: 2
   originalFrequency:
     '-': 2105
     a: 1
@@ -1055,16 +1073,16 @@ recoding:
   comments: ~
 # ==========
 - recodingOf: t_habe5
-  attribute: ~
+  attribute: t_habe5
   values:
-  - ~
-  - ~
+  - '-'
+  - d/t/s
   link:
-    '-': ~
-    d: ~
-    'n': ~
-    s: ~
-    t: ~
+    '-': 1
+    d: 2
+    'n': 2
+    s: 2
+    t: 2
   originalFrequency:
     '-': 2274
     d: 4
@@ -1074,16 +1092,17 @@ recoding:
   comments: ~
 # ==========
 - recodingOf: d_es11
-  attribute: ~
+  attribute: d_es11
   values:
-  - ~
-  - ~
+    1: '-'
+    2: d/t
+    3: h
   link:
-    '-': ~
-    d: ~
-    h: ~
-    t: ~
-    v: ~
+    '-': 1
+    d: 2
+    h: 3
+    t: 2
+    v: 0
   originalFrequency:
     '-': 1970
     d: 182
@@ -1093,20 +1112,23 @@ recoding:
   comments: ~
 # ==========
 - recodingOf: a_es12
-  attribute: ~
+  attribute: a_es12
   values:
-  - ~
-  - ~
+    1: '-'
+    2: a
+    3: e
+    4: i/y
+    5: o/ø
   link:
-    '-': ~
-    a: ~
-    e: ~
-    ea: ~
-    i: ~
-    o: ~
-    ø: ~
-    oi: ~
-    'y': ~
+    '-': 1
+    a: 2
+    e: 3
+    ea: 3
+    i: 4
+    o: 5
+    ø: 5
+    oi: 5
+    'y': 4
   originalFrequency:
     '-': 1238
     a: 227
@@ -1120,19 +1142,21 @@ recoding:
   comments: ~
 # ==========
 - recodingOf: s_es13
-  attribute: ~
+  attribute: s_es13
   values:
-  - ~
-  - ~
+    1: s
+    2: t
+    3: ʃ
+    4: d/k/r
   link:
-    '-': ~
-    d: ~
-    k: ~
-    r: ~
-    s: ~
-    ʃ: ~
-    t: ~
-    z: ~
+    '-': 4
+    d: 4
+    k: 4
+    r: 4
+    s: 1
+    ʃ: 3
+    t: 2
+    z: 3
   originalFrequency:
     '-': 6
     d: 8
