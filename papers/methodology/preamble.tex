@@ -1,3 +1,12 @@
+% fonts
+
+\usepackage[charter,expert]{mathdesign}
+\usepackage{fontspec}
+\defaultfontfeatures{Mapping=tex-text}
+\setmainfont[Scale=0.95]{CharisSIL}
+\setmonofont[Scale=0.8]{Monaco}
+
+% pdf with functioning links
 
 \usepackage{ifpdf}
 \ifpdf 
@@ -7,15 +16,21 @@
             plainpages=false,   % allows page i and 1 to exist in the same document
             breaklinks=true,    % link texts can be broken at the end of line
             colorlinks=true,
-            pdftitle=My Document
-            pdfauthor=My Good Self
+            hidelinks,
+            pdfauthor={$author-meta$},
+            pdftitle={$title-meta$}
            ]{hyperref} 
     \usepackage{thumbpdf}
 \else 
     \usepackage{graphicx}       % to include graphics
-    \usepackage{hyperref}       % to simplify the use of \href
+    \usepackage[hidelinks]{hyperref}       % to simplify the use of \href
 \fi 
 
-\usepackage[style=authoryear]{biblatex}
+% bibliography
+
+\usepackage[backend=biber,
+            bibstyle=biblatex-sp-unified,
+            citestyle=sp-authoryear-comp
+            ]{biblatex}
 \addbibresource{/Users/cysouw/Documents/Linguistics/michaellibrary.bib}
 
