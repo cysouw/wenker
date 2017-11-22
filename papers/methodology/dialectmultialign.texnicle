@@ -61,9 +61,9 @@
         </metadata>
     </databaseInfo>
     <object type="UISETTINGS" id="z102">
-        <attribute name="pdfviewscrollrect" type="string">{{0, 1290.0000000004288}, {563.84615384610447, 1034.6153846151142}}</attribute>
+        <attribute name="pdfviewscrollrect" type="string">{{0, 596.31650750337485}, {619.99999999997021, 1137.6534788539343}}</attribute>
         <attribute name="showpdfthumbnails" type="bool">0</attribute>
-        <attribute name="selectedcontrolstab" type="int16">0</attribute>
+        <attribute name="selectedcontrolstab" type="int16">2</attribute>
         <attribute name="maxoutlinedepth" type="int16">7</attribute>
         <attribute name="logoutputlevel" type="int16">0</attribute>
         <attribute name="editorwidth" type="float">667</attribute>
@@ -90,10 +90,10 @@
         <attribute name="name" type="string">dialectmultialign</attribute>
         <attribute name="folder" type="string">/Users/cysouw/Documents/Github/Alignment/wenker/papers/methodology</attribute>
         <relationship name="mainfile" type="1/1" destination="FILE" idrefs="z107"></relationship>
-        <relationship name="selected" type="1/1" destination="FILE" idrefs="z108"></relationship>
+        <relationship name="selected" type="1/1" destination="FILE" idrefs="z107"></relationship>
         <relationship name="settings" type="1/1" destination="SETTINGS" idrefs="z103"></relationship>
         <relationship name="uisettings" type="1/1" destination="UISETTINGS" idrefs="z102"></relationship>
-        <relationship name="items" type="0/0" destination="PROJECTITEM" idrefs="z108 z105 z110 z107 z109 z111 z106"></relationship>
+        <relationship name="items" type="0/0" destination="PROJECTITEM" idrefs="z107 z111 z108 z110 z106 z105 z109"></relationship>
     </object>
     <object type="FOLDER" id="z105">
         <attribute name="sortindex" type="int32">2</attribute>
@@ -114,13 +114,13 @@
         <relationship name="children" type="0/0" destination="PROJECTITEM" idrefs="z109 z110 z111"></relationship>
     </object>
     <object type="TEXFILE" id="z107">
-        <attribute name="wasopen" type="bool">1</attribute>
-        <attribute name="visiblerect" type="string">{{0, 0}, {625, 1320}}</attribute>
-        <attribute name="lasteditdate" type="date">533059894.40888297557830810547</attribute>
+        <attribute name="wasopen" type="bool">2</attribute>
+        <attribute name="visiblerect" type="string">{{0, 667}, {625, 1075}}</attribute>
+        <attribute name="lasteditdate" type="date">533070445.20322400331497192383</attribute>
         <attribute name="istext" type="bool">1</attribute>
-        <attribute name="fileloaddate" type="date">533059934.67617201805114746094</attribute>
+        <attribute name="fileloaddate" type="date">533070446.66026800870895385742</attribute>
         <attribute name="extension" type="string">tex</attribute>
-        <attribute name="cursor" type="string">{3461, 0}</attribute>
+        <attribute name="cursor" type="string">{6059, 0}</attribute>
         <attribute name="sortindex" type="int32">1</attribute>
         <attribute name="name" type="string">dialectmultialign_main.tex</attribute>
         <attribute name="isexpanded" type="bool">0</attribute>
@@ -132,11 +132,11 @@
         <relationship name="bookmarks" type="0/0" destination="BOOKMARK"></relationship>
     </object>
     <object type="TEXFILE" id="z108">
-        <attribute name="wasopen" type="bool">0</attribute>
-        <attribute name="visiblerect" type="string">{{0, 0}, {625, 894}}</attribute>
+        <attribute name="wasopen" type="bool">1</attribute>
+        <attribute name="visiblerect" type="string">{{0, 0}, {625, 1320}}</attribute>
         <attribute name="lasteditdate" type="date">533061258.95347398519515991211</attribute>
         <attribute name="istext" type="bool">1</attribute>
-        <attribute name="fileloaddate" type="date">533061261.89541000127792358398</attribute>
+        <attribute name="fileloaddate" type="date">533070193.87019199132919311523</attribute>
         <attribute name="extension" type="string">tex</attribute>
         <attribute name="cursor" type="string">{866, 0}</attribute>
         <attribute name="sortindex" type="int32">0</attribute>
