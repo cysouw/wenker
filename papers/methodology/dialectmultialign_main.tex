@@ -20,7 +20,7 @@ There are many ways in which comparable data can be collected to compare differe
 
 \section{Formats for multialignment}
 
-\subsection{Multialignment of sounds}
+\subsection{Multialignment of sounds in words}
 
 Although one can argue that historical linguistics is from its inception based on a kind of multialignment, the first explicitly written-down multialignments arose in the context of DNA sequence analysis in biology (cf. Figure~\ref{fig:aminoacids}). In such files each element to be aligned (here amino-acids) are abbreviated with a single character, and the alignment is specified by fixing the position of the characters in a line. Typically, the first ten characters are reserved for a name, and afterwards the characters are just put directly after each other. When an element is missing for one of the species (as so-called `gap'), then a dash `-' is inserted to keep the sequences aligned.
 
@@ -44,7 +44,7 @@ This approach can rather straighforwardly be adapted for the multiple alignment 
 \begin{figure}[htbp]
   \centering
   \includegraphics[width=0.8\textwidth]{images/multialign_list.png}
-  \caption{Linguistic multialignment with aligned multigraphs and using tabs as separators \parencite{list2014benchmark}}
+  \caption{Linguistic multialignment with aligned multigraphs and using tabs as separators \parencite{list2014benchmark}.}
   \label{fig:multialign_list}
 \end{figure}
 
@@ -65,9 +65,25 @@ This approach can rather straighforwardly be adapted for the multiple alignment 
 
 There are two beta-stage software projects that try to develop a user interface to make it easier to manually edit linguistic multialignment: the Edictor and the MSA-Editor.\footnote{Both project have a common origin. The Edictor is available at \url{https://github.com/digling/edictor}, described in \textcite{list2017}. The MSA-Editor is available at \url{https://github.com/cysouw/msa-editor}.} For the current example we have used the MSA-Editor to prepare the data.
 
-\subsection{Multialignment of words}
+\subsection{Multialignment of words in sentences}
 
-word based formats
+The concept of alignment between languages is also an important notion in the field of machine translation. Parallel translations between languages (or `bitexts' as they are known in computational linguistics, see \cite{tiedemann2011}) are the basic starting point for any machine translation, as this is the principal route to learn equivalent expressions between languages. The classical approach to learn equivalent structure between languages is to align bitexts, i.e. assign a linking between some parts of one sentence (`words') to parts of the translated sentence. The most influential software to perform such bitext alignment has been Giza\texttt{++} \parencite{och2003}. It used a specific output format for aligned sentences, which has become known as the `Pharaoh' format.\footnote{Many names in the statistical machine translation have some kind of reference to Egypt, which seems to be a reference to one of the early highly influential machine translation toolkits, called `EGYPT' \url{http://web.archive.org/web/20060826032742/http://www.clsp.jhu.edu:80/ws99/projects/mt/}.} The Pharaoh-format counts the words, starting at zero, and then links these indices by a dash. For example, the bitext alignment shown in Figure~\ref{fig:bitext_tiedemann} will be summarised in Pharaoh-format as `0-3 1-1 2-1 4-2'.
+
+\begin{figure}[htbp]
+  \centering
+  \includegraphics[width=0.4\textwidth]{images/bitext_tiedemann.png}
+  \caption{Bitext alignment \parencite[4]{tiedemann2011}.}
+  \label{fig:bitext_tiedemann}
+\end{figure}
+
+The obvious reason for this format is the crossing lines that occur regularly in word alignment. In sound alignment this also occurs (viz. in metathesis as shown in Figure~\ref{fig:metathesis_list}), but it is not extremely common. For that reason, it is possible to use the `trick' shown in Figure~\ref{fig:metathesis_list}, namely to use two columns for the representation of one alignment.
+
+\begin{figure}[htbp]
+  \centering
+  \includegraphics[width=0.8\textwidth]{images/metathesis_list.pdf}
+  \caption{Example of multialignment of metathesis \parencite{list2014}.}
+  \label{fig:metathesis_list}
+\end{figure}
 
 \section{Workflow}
 

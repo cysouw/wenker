@@ -5,7 +5,7 @@
     <databaseInfo>
         <version>134481920</version>
         <UUID>02440D50-1E39-419C-B4A0-E1A8EB831636</UUID>
-        <nextObjectID>111</nextObjectID>
+        <nextObjectID>113</nextObjectID>
         <metadata>
             <plist version="1.0">
                 <dict>
@@ -61,12 +61,12 @@
         </metadata>
     </databaseInfo>
     <object type="UISETTINGS" id="z102">
-        <attribute name="pdfviewscrollrect" type="string">{{7.6200907445839925e-14, 2400.9081081095483}, {619.99999999999693, 804.99459459350828}}</attribute>
+        <attribute name="pdfviewscrollrect" type="string">{{0, 309.95711242826269}, {620, 926.01614931795689}}</attribute>
         <attribute name="showpdfthumbnails" type="bool">0</attribute>
         <attribute name="selectedcontrolstab" type="int16">0</attribute>
         <attribute name="maxoutlinedepth" type="int16">7</attribute>
         <attribute name="logoutputlevel" type="int16">0</attribute>
-        <attribute name="editorwidth" type="float">601</attribute>
+        <attribute name="editorwidth" type="float">598</attribute>
         <attribute name="controlswidth" type="float">220</attribute>
         <attribute name="consoleview" type="int16">0</attribute>
         <relationship name="project" type="1/1" destination="PROJECT" idrefs="z104"></relationship>
@@ -93,7 +93,7 @@
         <relationship name="selected" type="1/1" destination="FILE" idrefs="z107"></relationship>
         <relationship name="settings" type="1/1" destination="SETTINGS" idrefs="z103"></relationship>
         <relationship name="uisettings" type="1/1" destination="UISETTINGS" idrefs="z102"></relationship>
-        <relationship name="items" type="0/0" destination="PROJECTITEM" idrefs="z111 z109 z106 z105 z108 z107 z110"></relationship>
+        <relationship name="items" type="0/0" destination="PROJECTITEM" idrefs="z113 z111 z112 z109 z106 z105 z108 z107 z110"></relationship>
     </object>
     <object type="FOLDER" id="z105">
         <attribute name="sortindex" type="int32">2</attribute>
@@ -111,16 +111,16 @@
         <attribute name="filepath" type="string">images</attribute>
         <relationship name="parent" type="1/1" destination="PROJECTITEM"></relationship>
         <relationship name="project" type="1/1" destination="PROJECT" idrefs="z104"></relationship>
-        <relationship name="children" type="0/0" destination="PROJECTITEM" idrefs="z109 z110 z111"></relationship>
+        <relationship name="children" type="0/0" destination="PROJECTITEM" idrefs="z109 z111 z110 z112 z113"></relationship>
     </object>
     <object type="TEXFILE" id="z107">
-        <attribute name="wasopen" type="bool">1</attribute>
-        <attribute name="visiblerect" type="string">{{0, 537}, {579, 1176}}</attribute>
-        <attribute name="lasteditdate" type="date">533832250.34500497579574584961</attribute>
+        <attribute name="wasopen" type="bool">2</attribute>
+        <attribute name="visiblerect" type="string">{{0, 1005}, {576, 1176}}</attribute>
+        <attribute name="lasteditdate" type="date">533852727.56542998552322387695</attribute>
         <attribute name="istext" type="bool">1</attribute>
-        <attribute name="fileloaddate" type="date">533830545.37706202268600463867</attribute>
+        <attribute name="fileloaddate" type="date">533852750.57940602302551269531</attribute>
         <attribute name="extension" type="string">tex</attribute>
-        <attribute name="cursor" type="string">{6332, 0}</attribute>
+        <attribute name="cursor" type="string">{8240, 0}</attribute>
         <attribute name="sortindex" type="int32">1</attribute>
         <attribute name="name" type="string">dialectmultialign_main.tex</attribute>
         <attribute name="isexpanded" type="bool">0</attribute>
@@ -132,13 +132,13 @@
         <relationship name="bookmarks" type="0/0" destination="BOOKMARK"></relationship>
     </object>
     <object type="TEXFILE" id="z108">
-        <attribute name="wasopen" type="bool">0</attribute>
-        <attribute name="visiblerect" type="string">{{0, 0}, {579, 1176}}</attribute>
-        <attribute name="lasteditdate" type="date">533832088.82519102096557617188</attribute>
+        <attribute name="wasopen" type="bool">1</attribute>
+        <attribute name="visiblerect" type="string">{{0, 0}, {576, 1176}}</attribute>
+        <attribute name="lasteditdate" type="date">533849253.36831802129745483398</attribute>
         <attribute name="istext" type="bool">1</attribute>
-        <attribute name="fileloaddate" type="date">533830762.47781002521514892578</attribute>
+        <attribute name="fileloaddate" type="date">533849257.84806501865386962891</attribute>
         <attribute name="extension" type="string">tex</attribute>
-        <attribute name="cursor" type="string">{989, 134}</attribute>
+        <attribute name="cursor" type="string">{1038, 0}</attribute>
         <attribute name="sortindex" type="int32">0</attribute>
         <attribute name="name" type="string">preamble.tex</attribute>
         <attribute name="isexpanded" type="bool">0</attribute>
@@ -155,7 +155,7 @@
         <attribute name="istext" type="bool">0</attribute>
         <attribute name="fileloaddate" type="date">533056646.15496098995208740234</attribute>
         <attribute name="extension" type="string">png</attribute>
-        <attribute name="sortindex" type="int32">6</attribute>
+        <attribute name="sortindex" type="int32">8</attribute>
         <attribute name="name" type="string">Histone_Alignment.png</attribute>
         <attribute name="isexpanded" type="bool">0</attribute>
         <attribute name="filepath" type="string">images/Histone_Alignment.png</attribute>
@@ -171,7 +171,7 @@
         <attribute name="istext" type="bool">0</attribute>
         <attribute name="fileloaddate" type="date">533056649.38696402311325073242</attribute>
         <attribute name="extension" type="string">pdf</attribute>
-        <attribute name="sortindex" type="int32">5</attribute>
+        <attribute name="sortindex" type="int32">7</attribute>
         <attribute name="name" type="string">multialign_bhargava.pdf</attribute>
         <attribute name="isexpanded" type="bool">0</attribute>
         <attribute name="filepath" type="string">images/multialign_bhargava.pdf</attribute>
@@ -187,10 +187,42 @@
         <attribute name="istext" type="bool">0</attribute>
         <attribute name="fileloaddate" type="date">533058986.07149398326873779297</attribute>
         <attribute name="extension" type="string">png</attribute>
-        <attribute name="sortindex" type="int32">4</attribute>
+        <attribute name="sortindex" type="int32">6</attribute>
         <attribute name="name" type="string">multialign_list.png</attribute>
         <attribute name="isexpanded" type="bool">0</attribute>
         <attribute name="filepath" type="string">./images/multialign_list.png</attribute>
+        <relationship name="parent" type="1/1" destination="PROJECTITEM" idrefs="z106"></relationship>
+        <relationship name="project" type="1/1" destination="PROJECT" idrefs="z104"></relationship>
+        <relationship name="mainfileofproject" type="1/1" destination="PROJECT"></relationship>
+        <relationship name="children" type="0/0" destination="PROJECTITEM"></relationship>
+        <relationship name="bookmarks" type="0/0" destination="BOOKMARK"></relationship>
+    </object>
+    <object type="FILE" id="z112">
+        <attribute name="wasopen" type="bool">0</attribute>
+        <attribute name="lasteditdate" type="date">533848998.66094398498535156250</attribute>
+        <attribute name="istext" type="bool">0</attribute>
+        <attribute name="fileloaddate" type="date">533848998.66093397140502929688</attribute>
+        <attribute name="extension" type="string">png</attribute>
+        <attribute name="sortindex" type="int32">5</attribute>
+        <attribute name="name" type="string">bitext_tiedemann.png</attribute>
+        <attribute name="isexpanded" type="bool">0</attribute>
+        <attribute name="filepath" type="string">images/bitext_tiedemann.png</attribute>
+        <relationship name="parent" type="1/1" destination="PROJECTITEM" idrefs="z106"></relationship>
+        <relationship name="project" type="1/1" destination="PROJECT" idrefs="z104"></relationship>
+        <relationship name="mainfileofproject" type="1/1" destination="PROJECT"></relationship>
+        <relationship name="children" type="0/0" destination="PROJECTITEM"></relationship>
+        <relationship name="bookmarks" type="0/0" destination="BOOKMARK"></relationship>
+    </object>
+    <object type="FILE" id="z113">
+        <attribute name="wasopen" type="bool">0</attribute>
+        <attribute name="lasteditdate" type="date">533852394.13833701610565185547</attribute>
+        <attribute name="istext" type="bool">0</attribute>
+        <attribute name="fileloaddate" type="date">533852394.13832998275756835938</attribute>
+        <attribute name="extension" type="string">pdf</attribute>
+        <attribute name="sortindex" type="int32">4</attribute>
+        <attribute name="name" type="string">metathesis_list.pdf</attribute>
+        <attribute name="isexpanded" type="bool">0</attribute>
+        <attribute name="filepath" type="string">images/metathesis_list.pdf</attribute>
         <relationship name="parent" type="1/1" destination="PROJECTITEM" idrefs="z106"></relationship>
         <relationship name="project" type="1/1" destination="PROJECT" idrefs="z104"></relationship>
         <relationship name="mainfileofproject" type="1/1" destination="PROJECT"></relationship>
