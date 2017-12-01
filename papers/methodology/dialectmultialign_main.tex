@@ -49,16 +49,15 @@ This approach can rather straighforwardly be adapted for the multiple alignment 
 \end{figure}
 
 \begin{table}[htp]
-\begin{center}
-\begin{tabular}{llllll} \hline
- Word\_ID & Form & Cognate\_set\_ID & Alignment & Cognate\_source \\ \hline
- 4097 & a³¹tsi³¹ & 501 & a ³¹ + ts i - - ³¹ & Hill2017 \\
- 2 & pʐa⁵⁵pʐa⁵⁵ & 33 & p ʐ a ⁵⁵ + p ʐ a ⁵⁵ & Hill2017 \\ 
- 5462 & pjɑ̃²² & 518 & p j ɑ̃ ∼ ²² & Hill2017 \\ 
- 9 & pan³¹ʃɔ̱ʔ⁵⁵ & 567 & p a n ³¹ + ʃ ɔ̰ ʔ ⁵⁵ & Hill2017 \\ 
- 10 & pəŋ³¹ʃɔʔ⁵⁵ & 567 & p ə ŋ ³¹ + ʃ ɔ ʔ ⁵⁵ & Hill2017 \\ \hline
+\centering
+\begin{tabular}{llllll}                                              \hline
+ ID   & Form        & Cognateset & Alignment           & Source   \\ \hline
+ 4097 & a³¹tsi³¹    & 501        & a ³¹ + ts i - - ³¹  & Hill2017 \\
+ 2    & pʐa⁵⁵pʐa⁵⁵  & 33         & p ʐ a ⁵⁵ + p ʐ a ⁵⁵ & Hill2017 \\ 
+ 5462 & pjɑ̃²²       & 518        & p j ɑ̃ ∼ ²²          & Hill2017 \\ 
+ 9    & pan³¹ʃɔ̱ʔ⁵⁵  & 567        & p a n ³¹ + ʃ ɔ̰ ʔ ⁵⁵ & Hill2017 \\ 
+ 10   & pəŋ³¹ʃɔʔ⁵⁵  & 567        & p ə ŋ ³¹ + ʃ ɔ ʔ ⁵⁵ & Hill2017 \\ \hline
 \end{tabular}
-\end{center}
 \caption{Excerpt of data from \textcite{hill2017}}
 \label{tab:data_hill}
 \end{table}
@@ -76,14 +75,38 @@ The concept of alignment between languages is also an important notion in the fi
   \label{fig:bitext_tiedemann}
 \end{figure}
 
+This Pharaoh-format cannot easily be generalized to a multialignment (i.e. for more than two languages). In machine translation there is not much use for alignments with more than two language, so no generalized format has arisen there. For that reason, the Cross-Linguistic Data Formats (CLDF) proposes a special format assigning  abstract cluster-identifiers to each `column' (maybe better called `virtual column', or `functionalEquivalentset' as they are called in the CLDF) in the multialignment.\footnote{See \url{https://github.com/cldf/cldf/blob/master/modules/ParallelText/README.md} for an explanation of the CLDF specification for parallel texts.}
+
+\begin{table}[htp]
+\centering
+\begin{tabular}{ l c c }            \hline
+ Form & Slice & Equivalentset    \\ \hline
+ Koffie vind ik lekker & 1 & 1   \\
+ Koffie vind ik lekker & 2 & 2   \\
+ Koffie vind ik lekker & 3 & 3   \\
+ Koffie vind ik lekker & 4 & 4   \\ \hline
+ I like coffee         & 1 & 3   \\
+ I like coffee         & 2 & 2 4 \\
+ I like coffee         & 3 & 1   \\ \hline
+ Ich mag gerne Kaffee  & 1 & 3   \\
+ Ich mag gerne Kaffee  & 2 & 2   \\
+ Ich mag gerne Kaffee  & 3 & 4   \\
+ Ich mag gerne Kaffee  & 4 & 1   \\ \hline
+\end{tabular}
+\caption{Multialignment in the format of the CLDF.}
+\label{tab:cldf_paralleltext}
+\end{table}
+
 The obvious reason for this format is the crossing lines that occur regularly in word alignment. In sound alignment this also occurs (viz. in metathesis as shown in Figure~\ref{fig:metathesis_list}), but it is not extremely common. For that reason, it is possible to use the `trick' shown in Figure~\ref{fig:metathesis_list}, namely to use two columns for the representation of one alignment.
 
 \begin{figure}[htbp]
   \centering
   \includegraphics[width=0.8\textwidth]{images/metathesis_list.pdf}
-  \caption{Example of multialignment of metathesis \parencite{list2014}.}
+  \caption{Example of multialignment of metathesis \parencite[135]{list2014}.}
   \label{fig:metathesis_list}
 \end{figure}
+
+Although in general this `trick' does not work for word alignments within sentences. However, when the languages compared are very similar (like with dialects) then it 
 
 \section{Workflow}
 
