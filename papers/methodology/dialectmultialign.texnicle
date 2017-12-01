@@ -61,12 +61,12 @@
         </metadata>
     </databaseInfo>
     <object type="UISETTINGS" id="z102">
-        <attribute name="pdfviewscrollrect" type="string">{{0, 596.31650750337485}, {619.99999999997021, 1137.6534788539343}}</attribute>
+        <attribute name="pdfviewscrollrect" type="string">{{7.6200907445839925e-14, 2400.9081081095483}, {619.99999999999693, 804.99459459350828}}</attribute>
         <attribute name="showpdfthumbnails" type="bool">0</attribute>
-        <attribute name="selectedcontrolstab" type="int16">2</attribute>
+        <attribute name="selectedcontrolstab" type="int16">0</attribute>
         <attribute name="maxoutlinedepth" type="int16">7</attribute>
         <attribute name="logoutputlevel" type="int16">0</attribute>
-        <attribute name="editorwidth" type="float">667</attribute>
+        <attribute name="editorwidth" type="float">601</attribute>
         <attribute name="controlswidth" type="float">220</attribute>
         <attribute name="consoleview" type="int16">0</attribute>
         <relationship name="project" type="1/1" destination="PROJECT" idrefs="z104"></relationship>
@@ -88,12 +88,12 @@
     <object type="PROJECT" id="z104">
         <attribute name="type" type="string">PDFLaTeX</attribute>
         <attribute name="name" type="string">dialectmultialign</attribute>
-        <attribute name="folder" type="string">/Users/cysouw/Documents/Github/Alignment/wenker/papers/methodology</attribute>
+        <attribute name="folder" type="string">/Users/cysouw/Documents/Github/Alignment/Wenker/papers/methodology</attribute>
         <relationship name="mainfile" type="1/1" destination="FILE" idrefs="z107"></relationship>
         <relationship name="selected" type="1/1" destination="FILE" idrefs="z107"></relationship>
         <relationship name="settings" type="1/1" destination="SETTINGS" idrefs="z103"></relationship>
         <relationship name="uisettings" type="1/1" destination="UISETTINGS" idrefs="z102"></relationship>
-        <relationship name="items" type="0/0" destination="PROJECTITEM" idrefs="z107 z111 z108 z110 z106 z105 z109"></relationship>
+        <relationship name="items" type="0/0" destination="PROJECTITEM" idrefs="z111 z109 z106 z105 z108 z107 z110"></relationship>
     </object>
     <object type="FOLDER" id="z105">
         <attribute name="sortindex" type="int32">2</attribute>
@@ -114,13 +114,13 @@
         <relationship name="children" type="0/0" destination="PROJECTITEM" idrefs="z109 z110 z111"></relationship>
     </object>
     <object type="TEXFILE" id="z107">
-        <attribute name="wasopen" type="bool">2</attribute>
-        <attribute name="visiblerect" type="string">{{0, 667}, {625, 1075}}</attribute>
-        <attribute name="lasteditdate" type="date">533070445.20322400331497192383</attribute>
+        <attribute name="wasopen" type="bool">1</attribute>
+        <attribute name="visiblerect" type="string">{{0, 537}, {579, 1176}}</attribute>
+        <attribute name="lasteditdate" type="date">533832250.34500497579574584961</attribute>
         <attribute name="istext" type="bool">1</attribute>
-        <attribute name="fileloaddate" type="date">533070446.66026800870895385742</attribute>
+        <attribute name="fileloaddate" type="date">533830545.37706202268600463867</attribute>
         <attribute name="extension" type="string">tex</attribute>
-        <attribute name="cursor" type="string">{6059, 0}</attribute>
+        <attribute name="cursor" type="string">{6332, 0}</attribute>
         <attribute name="sortindex" type="int32">1</attribute>
         <attribute name="name" type="string">dialectmultialign_main.tex</attribute>
         <attribute name="isexpanded" type="bool">0</attribute>
@@ -132,13 +132,13 @@
         <relationship name="bookmarks" type="0/0" destination="BOOKMARK"></relationship>
     </object>
     <object type="TEXFILE" id="z108">
-        <attribute name="wasopen" type="bool">1</attribute>
-        <attribute name="visiblerect" type="string">{{0, 0}, {625, 1320}}</attribute>
-        <attribute name="lasteditdate" type="date">533061258.95347398519515991211</attribute>
+        <attribute name="wasopen" type="bool">0</attribute>
+        <attribute name="visiblerect" type="string">{{0, 0}, {579, 1176}}</attribute>
+        <attribute name="lasteditdate" type="date">533832088.82519102096557617188</attribute>
         <attribute name="istext" type="bool">1</attribute>
-        <attribute name="fileloaddate" type="date">533070193.87019199132919311523</attribute>
+        <attribute name="fileloaddate" type="date">533830762.47781002521514892578</attribute>
         <attribute name="extension" type="string">tex</attribute>
-        <attribute name="cursor" type="string">{866, 0}</attribute>
+        <attribute name="cursor" type="string">{989, 134}</attribute>
         <attribute name="sortindex" type="int32">0</attribute>
         <attribute name="name" type="string">preamble.tex</attribute>
         <attribute name="isexpanded" type="bool">0</attribute>
@@ -150,7 +150,7 @@
         <relationship name="bookmarks" type="0/0" destination="BOOKMARK"></relationship>
     </object>
     <object type="FILE" id="z109">
-        <attribute name="wasopen" type="bool">0</attribute>
+        <attribute name="wasopen" type="bool">-1</attribute>
         <attribute name="lasteditdate" type="date">533056646.15496897697448730469</attribute>
         <attribute name="istext" type="bool">0</attribute>
         <attribute name="fileloaddate" type="date">533056646.15496098995208740234</attribute>

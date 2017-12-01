@@ -6,6 +6,10 @@
 \setmainfont[Scale=0.95]{CharisSIL}
 \setmonofont[Scale=0.8]{Monaco}
 
+% footnote format
+
+\usepackage[hang,ragged]{footmisc}
+
 % pdf with functioning links
 
 \usepackage{ifpdf}
@@ -16,7 +20,7 @@
             plainpages=false,   % allows page i and 1 to exist in the same document
             breaklinks=true,    % link texts can be broken at the end of line
             colorlinks=true,
-            hidelinks,
+            hidelinks, % do not show the links with colors or underlining
             pdfauthor={$author-meta$},
             pdftitle={$title-meta$}
            ]{hyperref} 

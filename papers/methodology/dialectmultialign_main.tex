@@ -20,7 +20,9 @@ There are many ways in which comparable data can be collected to compare differe
 
 \section{Formats for multialignment}
 
-Although one can argue that historical linguistics is from its inception a kind of multialignment, the first explicitly written-down multialignments arose in the context of DNA sequence analysis in biology (cf. Figure~\ref{fig:aminoacids}). In such files each element to be aligned (here amino-acids) are abbreviated with a single character, and the alignment is specified by fixing the position of the characters in a line. Typically, the first ten characters are reserved for a name, and afterwards the characters are just put directly after each other. When an element is missing for one of the species (as so-called `gap'), then a dash `-' is inserted to keep the sequences aligned.
+\subsection{Multialignment of sounds}
+
+Although one can argue that historical linguistics is from its inception based on a kind of multialignment, the first explicitly written-down multialignments arose in the context of DNA sequence analysis in biology (cf. Figure~\ref{fig:aminoacids}). In such files each element to be aligned (here amino-acids) are abbreviated with a single character, and the alignment is specified by fixing the position of the characters in a line. Typically, the first ten characters are reserved for a name, and afterwards the characters are just put directly after each other. When an element is missing for one of the species (as so-called `gap'), then a dash `-' is inserted to keep the sequences aligned.
 
 \begin{figure}[htbp] 
 	\centering
@@ -30,7 +32,7 @@ Although one can argue that historical linguistics is from its inception a kind 
 \end{figure}
 \footnotetext{Example from \url{https://en.wikipedia.org/wiki/Sequence_alignment} by T. Shafee.}
 
-This approach can rather straighforwardly be adapted for the multiple alignment of sounds in comparative linguistics. An early example can be seen in Figure~\ref{fig:multialign_bhargava}, aligning various words for `day'. However, one problem with linguistic data is that the assumption of `one element = one letter' is difficult to maintain without strongly simplifying the data. For example, in phonetic transcriptions a single element often consists of multiple Unicode characters, like /aː/ or /t͡ʃ/. In the benchmark data collected by \textcite{list2014benchmark}\footnote{available online at \url{http://alignments.lingpy.org}} they opted to put explicit tab marks between the columns, as illustrated by an example from their database in Figure~\ref{fig:multialign_list}. A recent development is to allow more columns with different kind of additional information in such files (e.g. data references or expert status). A multialignment then should be just a single column in such a file. Therefor, the column separator for multialignment has become a single space. This is found for example in the data underlying the article by \textcite{hill2017}, an excerpt of which is shown in Table~\ref{tab:data_hill}.\footnote{The full data is available at \url{https://zenodo.org/record/886179}.}
+This approach can rather straighforwardly be adapted for the multiple alignment of sounds in comparative linguistics. An early example can be seen in Figure~\ref{fig:multialign_bhargava}, aligning various words for `day'. However, one problem with linguistic data is that the assumption of `one element = one letter' is difficult to maintain without strongly simplifying the data. For example, in phonetic transcriptions a single element often consists of multiple Unicode characters, like /aː/ or /t͡ʃ/. In the benchmark data collected by \textcite{list2014benchmark} they opted to put explicit tab marks between the columns, as illustrated by an example from their database in Figure~\ref{fig:multialign_list}.\footnote{The full data is available online at \url{http://alignments.lingpy.org}} A recent development is to allow more columns with different kind of additional information in such files (e.g. data references or expert status). A multialignment then should be just a single column in such a file. Therefor, the column separator for multialignment has become a single space. This is found for example in the data underlying the article by \textcite{hill2017}, an excerpt of which is shown in Table~\ref{tab:data_hill}.\footnote{The full data is available at \url{https://zenodo.org/record/886179}.} This approach is codified in the recent \textit{Cross-Linguistic Data Formats} (CLDF) standard.\footnote{The CLDF specification and documentation is available online at \url{http://cldf.clld.org}.}
 
 \begin{figure}[htbp]
   \centering
@@ -49,21 +51,25 @@ This approach can rather straighforwardly be adapted for the multiple alignment 
 \begin{table}[htp]
 \begin{center}
 \begin{tabular}{llllll} \hline
- Word\_ID & Form & Cognate\_set\_ID & Segments & Alignment & Cognate\_source \\ \hline
- 4097 & a³¹tsi³¹ & 501 & a ³¹ + ts i ³¹ & a ³¹ + ts i - - ³¹ & Hill2017 \\
- 2 & pʐa⁵⁵pʐa⁵⁵ & 33 & p ʐ a ⁵⁵ + p ʐ a ⁵⁵ & p ʐ a ⁵⁵ + p ʐ a ⁵⁵ & Hill2017 \\ 
- 5462 & pjɑ̃²² & 518 & p j ɑ̃ ∼ ²² & p j ɑ̃ ∼ ²² & Hill2017 \\ 
- 9 & pan³¹ʃɔ̱ʔ⁵⁵ & 567 & p a n ³¹ + ʃ ɔ̰ ʔ ⁵⁵ & p a n ³¹ + ʃ ɔ̰ ʔ ⁵⁵ & Hill2017 \\ 
- 10 & pəŋ³¹ʃɔʔ⁵⁵ & 567 & p ə ŋ ³¹ + ʃ ɔ ʔ ⁵⁵ & p ə ŋ ³¹ + ʃ ɔ ʔ ⁵⁵ & Hill2017 \\ \hline
+ Word\_ID & Form & Cognate\_set\_ID & Alignment & Cognate\_source \\ \hline
+ 4097 & a³¹tsi³¹ & 501 & a ³¹ + ts i - - ³¹ & Hill2017 \\
+ 2 & pʐa⁵⁵pʐa⁵⁵ & 33 & p ʐ a ⁵⁵ + p ʐ a ⁵⁵ & Hill2017 \\ 
+ 5462 & pjɑ̃²² & 518 & p j ɑ̃ ∼ ²² & Hill2017 \\ 
+ 9 & pan³¹ʃɔ̱ʔ⁵⁵ & 567 & p a n ³¹ + ʃ ɔ̰ ʔ ⁵⁵ & Hill2017 \\ 
+ 10 & pəŋ³¹ʃɔʔ⁵⁵ & 567 & p ə ŋ ³¹ + ʃ ɔ ʔ ⁵⁵ & Hill2017 \\ \hline
 \end{tabular}
 \end{center}
-\caption{Excerpt of data from \cite{hill2017}}
+\caption{Excerpt of data from \textcite{hill2017}}
 \label{tab:data_hill}
 \end{table}
 
-There are two beta-stage software projects that try to develop a user interface to make it easier to manually edit linguistic multialignment: the Edictor\footnote{Available at \url{https://github.com/digling/edictor}, described in \textcite{list2017}.} and the MSA-Editor\footnote{Available at \url{https://github.com/cysouw/msa-editor}.}. For the current example we have used the MSA-Editor to prepare the data.
+There are two beta-stage software projects that try to develop a user interface to make it easier to manually edit linguistic multialignment: the Edictor and the MSA-Editor.\footnote{Both project have a common origin. The Edictor is available at \url{https://github.com/digling/edictor}, described in \textcite{list2017}. The MSA-Editor is available at \url{https://github.com/cysouw/msa-editor}.} For the current example we have used the MSA-Editor to prepare the data.
+
+\subsection{Multialignment of words}
 
 word based formats
+
+\section{Workflow}
 
 \printbibliography
 \end{document}  
