@@ -61,7 +61,7 @@
         </metadata>
     </databaseInfo>
     <object type="UISETTINGS" id="z102">
-        <attribute name="pdfviewscrollrect" type="string">{{0, 993.93228443815167}, {519.14048452279656, 783.2760325526009}}</attribute>
+        <attribute name="pdfviewscrollrect" type="string">{{101.08891344350937, 3662.6795993467808}, {518.91108655649066, 783.27603255257372}}</attribute>
         <attribute name="showpdfthumbnails" type="bool">0</attribute>
         <attribute name="selectedcontrolstab" type="int16">0</attribute>
         <attribute name="maxoutlinedepth" type="int16">7</attribute>
@@ -114,13 +114,13 @@
         <relationship name="children" type="0/0" destination="PROJECTITEM" idrefs="z109 z111 z110 z112 z113"></relationship>
     </object>
     <object type="TEXFILE" id="z107">
-        <attribute name="wasopen" type="bool">1</attribute>
-        <attribute name="visiblerect" type="string">{{0, 913}, {577, 1176}}</attribute>
-        <attribute name="lasteditdate" type="date">533862426.14861798286437988281</attribute>
+        <attribute name="wasopen" type="bool">0</attribute>
+        <attribute name="visiblerect" type="string">{{0, 0}, {577, 1176}}</attribute>
+        <attribute name="lasteditdate" type="date">534023160.56708502769470214844</attribute>
         <attribute name="istext" type="bool">1</attribute>
-        <attribute name="fileloaddate" type="date">533862427.88049697875976562500</attribute>
+        <attribute name="fileloaddate" type="date">534023163.15394997596740722656</attribute>
         <attribute name="extension" type="string">tex</attribute>
-        <attribute name="cursor" type="string">{5277, 0}</attribute>
+        <attribute name="cursor" type="string">{2110, 0}</attribute>
         <attribute name="sortindex" type="int32">1</attribute>
         <attribute name="name" type="string">dialectmultialign_main.tex</attribute>
         <attribute name="isexpanded" type="bool">0</attribute>
@@ -132,7 +132,7 @@
         <relationship name="bookmarks" type="0/0" destination="BOOKMARK"></relationship>
     </object>
     <object type="TEXFILE" id="z108">
-        <attribute name="wasopen" type="bool">0</attribute>
+        <attribute name="wasopen" type="bool">-1</attribute>
         <attribute name="visiblerect" type="string">{{0, 0}, {583, 1176}}</attribute>
         <attribute name="lasteditdate" type="date">533862377.98056799173355102539</attribute>
         <attribute name="istext" type="bool">1</attribute>

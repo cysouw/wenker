@@ -18,6 +18,8 @@ In the analysis of (dialectal) survey data there is a long path of interpretatio
 
 There are many ways in which comparable data can be collected to compare different language variants. Possibly the most traditional kind of comparable data (and also often critcized, REF?) are translational equivalent utterances. Language consultants are simply asked to produce the closest possible translation of a given utterance in their language. It is this kind of data that will be the focus of the paper, though the techniques proposed have a much wider application. We will analyse Wenker sentence 9: `\textit{Ich bin bei der Frau gewesen und ich habe es ihr gesagt, und sie sagte, sie wolle es auch ihrer Tochter sagen.}' (I have been at the women and I have told it to her, and she said that she would tell it to her daughter). We have transliterated about 2500 translations from the original Wenker questionnaire, extended with translations from Austria, Switzerland, the Netherlands, Belgium and various german-speaking linguistic enclaves. This data was used at the start of the 20th century to produce the infamous dialectmaps.
 
+[more]
+
 \section{Formats for multialignment}
 
 \subsection{Multialignment of sounds in words}
@@ -106,7 +108,19 @@ The obvious reason for this format is the crossing lines that occur regularly in
   \label{fig:metathesis_list}
 \end{figure}
 
-Although in general this `trick' does not work for word alignments within sentences. However, when the languages compared are very similar (like with dialects) then it 
+In general this `virtual-column trick' does not work for word alignments within sentences. However, when the languages compared are very similar (like with dialects) then it is possible to use this approach, which is more easily approachable to edit by hand. Therefore, this is the approach that we use for the current project. An excerpt of such an alignement is shown in Table~\ref{tab:wenker_example}.
+
+\begin{table}[htp]
+  \centering
+  \begin{tabular}{llllllllllll} \hline
+    Sie & hat & gesagt & sie & will & es & auch & ihrer & Tochter & es & auch & sagen \\ \hline
+	si & hat & gesoat & si & wold & et & oah & hirrer & Doachter & ät & - & soan \\
+    sei & - & sot & sei & wollt & et & och & ihrer & Doochte & - & - & sohn \\
+    se & - & secht & se & wullt & es & - & ähri & Dochtr & - & ock & säga \\ \hline
+  \end{tabular}
+  \caption{Multialignment of dialect sentences using `virtual-column trick'}
+  \label{tab:wenker_example}
+\end{table}
 
 \section{Workflow}
 
