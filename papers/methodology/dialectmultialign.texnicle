@@ -61,7 +61,7 @@
         </metadata>
     </databaseInfo>
     <object type="UISETTINGS" id="z102">
-        <attribute name="pdfviewscrollrect" type="string">{{101.08891344350937, 3662.6795993467808}, {518.91108655649066, 783.27603255257372}}</attribute>
+        <attribute name="pdfviewscrollrect" type="string">{{0, 476.68341708552691}, {620, 935.4522613063167}}</attribute>
         <attribute name="showpdfthumbnails" type="bool">0</attribute>
         <attribute name="selectedcontrolstab" type="int16">0</attribute>
         <attribute name="maxoutlinedepth" type="int16">7</attribute>
@@ -93,7 +93,7 @@
         <relationship name="selected" type="1/1" destination="FILE" idrefs="z107"></relationship>
         <relationship name="settings" type="1/1" destination="SETTINGS" idrefs="z103"></relationship>
         <relationship name="uisettings" type="1/1" destination="UISETTINGS" idrefs="z102"></relationship>
-        <relationship name="items" type="0/0" destination="PROJECTITEM" idrefs="z113 z111 z112 z109 z106 z105 z108 z107 z110"></relationship>
+        <relationship name="items" type="0/0" destination="PROJECTITEM" idrefs="z110 z108 z111 z109 z113 z106 z105 z112 z107"></relationship>
     </object>
     <object type="FOLDER" id="z105">
         <attribute name="sortindex" type="int32">2</attribute>
@@ -115,12 +115,12 @@
     </object>
     <object type="TEXFILE" id="z107">
         <attribute name="wasopen" type="bool">0</attribute>
-        <attribute name="visiblerect" type="string">{{0, 0}, {577, 1176}}</attribute>
-        <attribute name="lasteditdate" type="date">534023160.56708502769470214844</attribute>
+        <attribute name="visiblerect" type="string">{{0, 1568}, {577, 1176}}</attribute>
+        <attribute name="lasteditdate" type="date">534071388.41152101755142211914</attribute>
         <attribute name="istext" type="bool">1</attribute>
-        <attribute name="fileloaddate" type="date">534023163.15394997596740722656</attribute>
+        <attribute name="fileloaddate" type="date">534071434.60036301612854003906</attribute>
         <attribute name="extension" type="string">tex</attribute>
-        <attribute name="cursor" type="string">{2110, 0}</attribute>
+        <attribute name="cursor" type="string">{8980, 0}</attribute>
         <attribute name="sortindex" type="int32">1</attribute>
         <attribute name="name" type="string">dialectmultialign_main.tex</attribute>
         <attribute name="isexpanded" type="bool">0</attribute>
@@ -214,7 +214,7 @@
         <relationship name="bookmarks" type="0/0" destination="BOOKMARK"></relationship>
     </object>
     <object type="FILE" id="z113">
-        <attribute name="wasopen" type="bool">0</attribute>
+        <attribute name="wasopen" type="bool">-1</attribute>
         <attribute name="lasteditdate" type="date">533852394.13833701610565185547</attribute>
         <attribute name="istext" type="bool">0</attribute>
         <attribute name="fileloaddate" type="date">533852394.13832998275756835938</attribute>
