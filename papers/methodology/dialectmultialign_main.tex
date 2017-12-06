@@ -20,6 +20,14 @@ There are many ways in which comparable data can be collected to compare differe
 
 [more]
 
+\section{Technical assumptions}
+
+\begin{itemize}[nolistsep]
+\item text based formats
+\item transparent manipulations
+\item keep detail as long as possible in the data processsing pipeline
+\end{itemize}
+
 \section{Formats for multialignment}
 
 \subsection{Multialignment of sounds in words}
@@ -68,7 +76,7 @@ There are two beta-stage software projects that try to develop a user interface 
 
 \subsection{Multialignment of words in sentences}
 
-The concept of alignment between languages is also an important notion in the field of machine translation. Parallel translations between languages (or `bitexts' as they are known in computational linguistics, see \cite{tiedemann2011}) are the basic starting point for any machine translation, as this is the principal route to learn equivalent expressions between languages. The classical approach to learn equivalent structure between languages is to align bitexts, i.e. assign a linking between some parts of one sentence (`words') to parts of the translated sentence. The most influential software to perform such bitext alignment has been Giza\texttt{++} \parencite{och2003}. It used a specific output format for aligned sentences, which has become known as the `Pharaoh' format.\footnote{Many names in the statistical machine translation have some kind of reference to Egypt, which seems to be a reference to one of the early highly influential machine translation toolkits, called `EGYPT' \url{http://web.archive.org/web/20060826032742/http://www.clsp.jhu.edu:80/ws99/projects/mt/}.} The Pharaoh-format counts the words, starting at zero, and then links these indices by a dash. For example, the bitext alignment shown in Figure~\ref{fig:bitext_tiedemann} will be summarised in Pharaoh-format as `0-3 1-1 2-1 4-2'.
+The concept of alignment between languages is also an important notion in the field of machine translation. Parallel translations between languages (or `bitexts' as they are known in computational linguistics, see \cite{tiedemann2011}) are the basic starting point for any machine translation, as this is the principal route to learn equivalent expressions between languages. The classical approach to learn equivalent structure between languages is to align bitexts, i.e. assign a linking between some parts of one sentence (`words') to parts of the translated sentence. The most influential software to perform such bitext alignment has been Giza$++$ \parencite{och2003}. It used a specific output format for aligned sentences, which has become known as the `Pharaoh' format.\footnote{Many names in the statistical machine translation have some kind of reference to Egypt, which seems to be a reference to one of the early highly influential machine translation toolkits, called `EGYPT' \url{http://web.archive.org/web/20060826032742/http://www.clsp.jhu.edu:80/ws99/projects/mt/}.} The Pharaoh-format counts the words, starting at zero, and then links these indices by a dash. For example, the bitext alignment shown in Figure~\ref{fig:bitext_tiedemann} will be summarised in Pharaoh-format as `0-3 1-1 2-1 4-2'.
 
 \begin{figure}[htbp]
   \centering
@@ -79,7 +87,7 @@ The concept of alignment between languages is also an important notion in the fi
 
 This Pharaoh-format cannot easily be generalized to a multialignment (i.e. for more than two languages). In machine translation there is not much use for alignments with more than two language, so no generalized format has arisen there. For that reason, the Cross-Linguistic Data Formats (CLDF) proposes a special format assigning  abstract cluster-identifiers to each `column' (maybe better called `virtual column', or `functionalEquivalentset' as they are called in the CLDF) in the multialignment.\footnote{See \url{https://github.com/cldf/cldf/blob/master/modules/ParallelText/README.md} for an explanation of the CLDF specification for parallel texts.}
 
-\begin{table}[htp]
+\begin{table}[htbp]
 \centering
 \begin{tabular}{ l c c }            \hline
  Form & Slice & Equivalentset    \\ \hline
@@ -109,21 +117,27 @@ The obvious reason for this format is the crossing lines that occur regularly in
   \label{fig:metathesis_list}
 \end{figure}
 
-In general this `virtual-column trick' does not work for word alignments within sentences. However, when the languages compared are very similar (like with dialects) then it is possible to use this approach, which is more easily approachable to edit by hand. Therefore, this is the approach that we use for the current project. An excerpt of such an alignement is shown in Table~\ref{tab:wenker_example}.
+In the general case this `virtual-column trick' does not work for word alignments within sentences. However, when the languages compared are very similar (like with dialects) then it is possible to use this approach, which is more easily approachable to manual editing. This is the approach that we use for the current project. An excerpt of such an `virtual column' alignment is shown in Table~\ref{tab:wenker_example}.
 
-\begin{table}[htp]
+\begin{table}[htbp]
+  \small
   \centering
-  \begin{tabular}{llllllllllll} \hline
-    Sie & hat & gesagt & sie & will & es & auch & ihrer & Tochter & es & auch & sagen \\ \hline
-	si & hat & gesoat & si & wold & et & oah & hirrer & Doachter & ät & - & soan \\
+  \begin{tabular}{llllllllllll} 
+	\hline
+	Sie & hat & gesagt & sie & will & es$_1$ & auch$_1$ & ihrer & Tochter & es$_2$ & auch$_2$ & sagen \\
+	\hline
+	si & hat & gesoat & si & wold & - & oah & hirrer & Doachter & ät & - & soan \\
     sei & - & sot & sei & wollt & et & och & ihrer & Doochte & - & - & sohn \\
-    se & - & secht & se & wullt & es & - & ähri & Dochtr & - & ock & säga \\ \hline
+    se & - & secht & se & wullt & es & - & ähri & Dochtr & - & ock & säga \\
+    \hline
   \end{tabular}
   \caption{Multialignment of dialect sentences using `virtual-column trick'}
   \label{tab:wenker_example}
 \end{table}
 
 \section{Workflow}
+
+All the alignments for this project were prepared manually. We have been testing various automatic approaches, but they turned out not to be helpful.\footnote{We tested an older version of the software package LingPy \parencite{list2017lingpy} and the standard biological software for multialignment ClustalX \parencite{Larkin2007}. Standard word-alignment software like Giza$++$ \parencite{och2003} or fastalign \parencite{dyer2013} need much more data to be feasible.} The central problem for automatic approaches is that the orthographic structure of our data is much to variable to pick up similarities. 
 
 \printbibliography
 \end{document}  
