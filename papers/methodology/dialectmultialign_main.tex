@@ -20,6 +20,8 @@ There are many ways in which comparable data can be collected to compare differe
 
 [more]
 
+[transliteration process]
+
 \section{Technical assumptions}
 
 \begin{itemize}[nolistsep]
@@ -137,7 +139,24 @@ In the general case this `virtual-column trick' does not work for word alignment
 
 \section{Workflow}
 
-All the alignments for this project were prepared manually. We have been testing various automatic approaches, but they turned out not to be helpful.\footnote{We tested an older version of the software package LingPy \parencite{list2017lingpy} and the standard biological software for multialignment ClustalX \parencite{Larkin2007}. Standard word-alignment software like Giza$++$ \parencite{och2003} or fastalign \parencite{dyer2013} need much more data to be feasible.} The central problem for automatic approaches is that the orthographic structure of our data is much to variable to pick up similarities. 
+All the alignments for this project were prepared manually. We have been testing various automatic approaches, but they turned out not to be helpful.\footnote{We tested an older version of the software package LingPy \parencite{list2017lingpy} and the standard biological software for multialignment ClustalX \parencite{Larkin2007}. Standard word-alignment software like Giza$++$ \parencite{och2003} or fastalign \parencite{dyer2013} need much more data to be feasible.} The central problems for automatic approaches are that (i) the orthographic structure of our data is much too variable to pick up similarities and (ii) there is very little data for computational standards. Fortunately, the manual process is reasonably efficient by using our tool of choice, the web-based MSA-Editor. Also, the manual process helps identifying (and solving) the quircks in the data and makes the researcher intimately acquinted with the data, which turns out to be highly useful for the later analysis and interpretation. In sum, the somewhat tedious, but maneagable manual process is actually time well-spend with the data.
+
+The workflow consists of three steps starting from the transliterated source. The results of each step are saved in different files, documenting the decisions being taken at each step. The resulting workflow (with the filenames used) are:
+
+\begin{itemize}
+  \item transliterated source (file: \texttt{0source.tsv})
+  \item multialignments of functionally equivalent words across the sentences (file: \texttt{1syntax.tsv})
+  \item spliting up functionally equivalent words (i.e. the columns from the first step) into cognate sets (file: \texttt{2lexicon.tsv})
+  \item multialigning the sounds within cognate words (file: \texttt{3sounds.tsv})
+\end{itemize}
+
+
+
+
+
+
+
+
 
 \printbibliography
 \end{document}  
