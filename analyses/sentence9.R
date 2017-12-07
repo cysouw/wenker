@@ -14,7 +14,7 @@ source("preamble.R")
 
 namesOrder <- "ich bin gewesen bei der frau gewesen und ich hab es zu ihr es gesagt und da sie hat sie gesagt sie dass sie hat es will sagen es auch zu ihre tochter es auch will sagen will hat"
 
-dataOrder <- getAlignSyntax("../data/WS9/WS9_1syntax.txt", "WS9Transliteration", names = namesOrder)
+dataOrder <- getAlignSyntax("../data/WS9/WS9_1syntax.tsv", "WS9Transliteration", names = namesOrder)
 
 # make into syntactically interesting features by using recoding profile
 # write.recoding(dataOrder, file = "../data/WS9/recodingSyntax", attr = list( c(3,7), 8, 9, c(11,14), c(12,13), 16, c(17,18), c(19,21), 23, c(25,28,37,39), c(27,28,36,37,38), c(27,28,36,37,38), c(29,34), c(30, 35), 31, c(23,27,28,36,37,38) ))
@@ -62,7 +62,7 @@ namesLexicon <- list(
 	, tochter = "Tochter Mädchen Deern Mensch Lüte Gits Famen"
 	)
 
-lexicon <- getAlignLexicon("../data/WS9/WS9_2lexicon.txt", namesLexicon)
+lexicon <- getAlignLexicon("../data/WS9/WS9_2lexicon.tsv", namesLexicon)
 
 titlesLexicon <- list(
 	  bin = "ich BIN bei der Frau gewesen"
@@ -117,11 +117,11 @@ namesChars <- list(
 	, deern = "d i r n d l"
 	)
 	
-dataChars <- getAlignChars("../data/WS9/WS9_3characters.txt", namesChars)
+dataChars <- getAlignChars("../data/WS9/WS9_3characters.tsv", namesChars)
 
 # profiles different for dutch and german because of different orthographic traditions
-dataChars <- recodeChars(dataChars, langs = c("11","100"), "../data/WS9/graphemesNLD.txt")
-dataChars <- recodeChars(dataChars, langs = c("1","10"), "../data/WS9/graphemesDEU.txt")
+dataChars <- recodeChars(dataChars, langs = c("11","100"), "../data/WS9/graphemesNLD.tsv")
+dataChars <- recodeChars(dataChars, langs = c("1","10"), "../data/WS9/graphemesDEU.tsv")
 
 # write.recoding(dataChars, file = "../data/WS9/tmp.yml")
 chars <- recode(dataChars, "../data/WS9/recodingChars.yml")
