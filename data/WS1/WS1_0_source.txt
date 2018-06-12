@@ -1043,7 +1043,7 @@ kl	38695	Unteropfingen	1	Em Wintr flieget de trukene Blettr in dr Luft rum.
 kl	3871	Dreetz	1	In Winter flegen de dröge Blätter (ä tief, dunkel) in de Luft ümher.
 kl	38720	Kicklingen	1	Im Wintr fliagant dia trugane Blöttr in der Luft rum.
 kl	38738	Westendorf	1	Ḭm Winter flia̰gan dia̰ truka̰ne Blötter ḭn d'r Luft rum.
-kl	38764	Waidhofen	1	À̰n Windà flia̰ng dé druggà̰n Léwá (Laub) à̰ dà Lufd rum. (auch "umà̰nándà
+kl	38764	Waidhofen	1	"À̰n Windà flia̰ng dé druggà̰n Léwá (Laub) à̰ dà Lufd rum. (auch ""umà̰nándà"
 kl	38774	Eschelbach an der Ilm	1	An Winda fliagn dö truckna Bladln a da Luft umananda.
 kl	3880	Brunne	1	In'n Winter flehj'n diee dröäj'n Blaetter dörch diee Luft rüm.
 kl	38863	Pöttmes	1	An Winda flieng de truckiga Blalen a da Luft umananda.
@@ -1197,7 +1197,7 @@ lm	41971	Betzigau	1	Im Wint'r fliaga̰t da̰ dro͜cka̰͜na̰͜ Blöttr in dr Lu
 lm	41980	Sulzschneid	1	Dĕ Wint'r flieget dĕ truckene Blött'r in d(ĕ)r rum.
 lm	41986	Steingaden	1	Im Wint'r flieget die truckne Blätter in d'r Luft rum.
 lm	42039	Bayerniederhofen	1	Da Winta fliegat die trukena Blätter i der Luft rum.
-lm	42049	Jachenau	1	Im Winta fliagn dö truckna Blādlăn umanand. /:statt Blätter häufiger "s' Laab":/
+lm	42049	Jachenau	1	"Im Winta fliagn dö truckna Blādlăn umanand. /:statt Blätter häufiger ""s' Laab"":/"
 lm	42056	Unterjoch	1	Jm Winter fliegen die trockenen Blätter in der Luft rum
 mn	42062	Oberau	1	An Windda fliang die trukna Blettr a dr Luft rum.
 mn	42070	Eggstätt	1	An Winda fliăgn die druggan Bladl ãn da Luft umanand.
@@ -1756,7 +1756,7 @@ rs	51832	Ahrensberg	1	Jn'n Winta fleg'n de drög'n Blära in de Luft rüm.
 rs	51838	Hasselförde	1	In Winta flegen de drögen Blära dörch de Luft rümm.
 rs	51850	Buchenhain	1	Im Winta fleg'en de drögen Blära dörch de Luft rümhär.
 rs	51866	Röpersdorf	1	In Winter flegen de drögen Blärer dörch de Luft rüm.
-rs	51877	Grünz	1	In'n Winta fleg'n de drög Blära dörch de Luft rüm. /gebräuchlicher "ümhea."
+rs	51877	Grünz	1	"In'n Winta fleg'n de drög Blära dörch de Luft rüm. /gebräuchlicher ""ümhea."""
 rs	51893	Pargow (Pargowo)	1	In'n Winter flegen de drögen Blärer in de Luft ümher
 rs	51906	Zelislawiec	1	In'n Winter flegen de drögen Bläjer in'd Luft rümmer.
 rs	51918	Slotnica	1	Im Winte flegĕ de drogă Bleide in de Luft rümme.
@@ -1849,10 +1849,10 @@ st	54922	Sanktanna (Sântana)	1	Tie trukane plétar fliga in da' Luft rum.
 st	54924	Martinsdorf (Metiş)	1	Äm Wängte̊r fleje̊n de̊ drech Blädde̊r än de̊r Laft e̊räm.
 st	54926	Bentschek (Bencecu De Sus)	1	Im Wintr flie die truckne Blättr in dr Luft rum
 st	54929	Agnetheln (Agnita)	1	Äm Wäinter flejen de drech Blader än der Laft eram.
-st	54930	Gottlob	1	Im Windér flié die truckéné Blädér in dér  Luft rum 
+st	54930	Gottlob	1	"Im Windér flié die truckéné Blädér in dér  Luft rum "
 st	54932	Klein-Schemlak (Semlacu Mic)	1	Im Windr fliehe die trŭckene Blädr in dr Lŭft rŭm
 st	54933	Sankt Andreas (Sânandrei)	1	Im Wint’r flieē die truckene Blɑ̈ddr in dē Luft rumm.
-st	54935	Neuwerbas (Novi Vrbas)	1	Im wintr̥ fliə ti trukne pletr̥ in tə luft ərum. 
+st	54935	Neuwerbas (Novi Vrbas)	1	"Im wintr̥ fliə ti trukne pletr̥ in tə luft ərum. "
 st	54937	Groß Scham/Freudenthal (Jamu Mare)	1	Im Windèr flieje die trŭckeni Blädder in d’r Lŭft rŭm
 st	54938	Torschau (Savino Selo)	1	Im wìnd̆r fli-i̯e di druknɚ plè͓đ̆er in d̆r Luf’d rum
 st	54939	Weprowatz (Kruščić)	1	Ìm windr flîgĕ di drugĕnĕ plêḍr ìndr Lufd rŭm
@@ -1902,7 +1902,7 @@ st	-55226	Tarnowka	1	Im Winter fliegen die trockenen Blätter in der Luft herum.
 tu	-55238	Zychlin	1	Im Winter fliegen die vertrockneten Bletter in der Luft herum.
 tu	-55240	Kopojno	1	Im Winter fliegen die tregen Blätter in die Luft rum.
 tu	55244	Natalia	1	Im Winter fliegen die tre|in Blätter in der Luft herum.
-tu	55252	Potrzaskow	1	Im Winter fliege die trockne Blädder in der Luft herum. 
+tu	55252	Potrzaskow	1	"Im Winter fliege die trockne Blädder in der Luft herum. "
 tu	-55254	Szamow	1	Im Winter flieget die truckene Blätter in der Luft rum.
 tu	-55258	Wierzchy	1	Im Winter fliehn die treegen Bläter in die Luft rum.
 tu	-55261	Gadowskie Holendry	1	Im Winter flieh'n die trögen Blätter in die Luft riem.
@@ -2126,7 +2126,7 @@ vw	9926	Wodniki	1	Im Winter fliégen die treugen Blätter durch die Luft rim.
 vw	994	Kabat	1	Em Winte flege de dröge Blädn dörch de Luft römme.
 vw	9984	Morkowo	1	Im Winter flieg'n die treug Blätter durch d' Luft rimm.
 vw	54872	Reval	1	Jn Wintter wliejen trocknes Plä´ttär in Lufft erum (Wenn Wintter is ….)
-vw	52353	NA	1	Em Winter fleige dei drege Bläder dörch dei Loft herom. 
+vw	52353	NA	1	"Em Winter fleige dei drege Bläder dörch dei Loft herom. "
 vw	30173	Ajoncourt	2	En hiver les foïlles chaches volent dans l'ère.
 vw	30197	Vaxy	2	En hiver, lo vent fâ volait les fouillattes saches.
 vw	30214	Bénestroff	2	En hiver les fuyats volant dans l'air.
@@ -2234,7 +2234,7 @@ wx	55537	Ceradz Koscielny	43	W zimie lata suche liście po powietrzu.
 wx	55565	Poznan	43	Zimą rozlatuje się suche liście po powietrzu.
 wx	55569	Lowecin	43	Zimą latają suche liście w powietrzu.
 wx	55586	Mierzewo	43	Zimą suche liście w powietrzu lata.
-wx	55592	Dabrowka Wielkopolska	43	Zima lecą suche liście. 
+wx	55592	Dabrowka Wielkopolska	43	"Zima lecą suche liście. "
 wx	55593	Slupia	43	W zimie latają suche liście w powietrzu.
 wx	55621	Babin	43	Zimą (=w zimie) latają suche listki w powietrzu.
 wx	55635	Tadeuszowo	43	Zimą zlatują suche liście w powietrzu.
@@ -2260,7 +2260,7 @@ wx	55894	Greboszow	43	Zimie loce suche liscie w lufcie.
 wx	55900	Pawlowice Gorzowskie	43	W zimie te suche liśćie w lu[f?]cie lauce.
 wx	55940	Skoraszewice	43	Zimą latają suche liście na powietrzu!
 wx	55947	Kwiatkow	43	Wzimie krąży suche liście w powietrzu.
-wx	55991	Zabrze	43	Wzimie fúrgo suche liście w lufcie. 
+wx	55991	Zabrze	43	"Wzimie fúrgo suche liście w lufcie. "
 wx	56013	Radoszowy	43	Wzimie loce suche liście w powietrzu.
 wx	56022	Budziska	43	W zimie furgają (latają) such̃e listki (li[ś?]cie) w powietrzu.
 wx	56027	Stanica	43	Wzimie latają suche liście przez powietrze.
@@ -2420,7 +2420,7 @@ yz	F207p	Drempt	100	in de winter vliegt de dreuge blâân deur de loch
 yz	F179p	Zutphen	100	In de winter vlîgen de dreuge blaaien deur de lucht.
 yz	F132p	Diepenveen	100	In de winter vliegt de dreuge bladen door de lucht
 yz	F106p	Windesheim	100	in de winter vliegt de dreuge blaan door de lucht.
-yz	F086p	Rouveen	100	's Winters vlīgt də drȫgə blār"n dör də lúcht
+yz	F086p	Rouveen	100	"'s Winters vlīgt də drȫgə blār""n dör də lúcht"
 yz	F060p	Steenwijk	100	Jn de winter vlieg'n de blid'n deur de locht.
 yz	F021p	Oldeberkoop	100	In de winter vliegen de dreuge bleaden deur de locht.
 yz	G279a	Zieuwent	100	in wintər (flēēgt, flug) ət drēūgə loŏf dȫr də loch
@@ -2465,7 +2465,7 @@ yz	Q001p	Zonhoven	100	ẹnə wẹintər vlīgən ə drȳx blėər ẹnə lọx
 yz	Q079p	Guigoven	100	en də wẹi̯ntər vli͜i̯ɣə də drøyx blø̜̄r en də lọux ront.
 yz	L360p	Bree	100	inə wintjər vle:gə də dri:g bla:jər inə lɔχt ro̜nt.
 yz	L417p	As	100	s Wènters vlége de dreg blajer èn de locht ront
-yz	Q253p	Montzen	100	Ijǝnǝ wīntǝr vlīgǝ dǝ druuch blaar övǝraal igǝn looǝt (rond wordt niet gebruikt in "rondvliegen")
+yz	Q253p	Montzen	100	"Ijǝnǝ wīntǝr vlīgǝ dǝ druuch blaar övǝraal igǝn looǝt (rond wordt niet gebruikt in ""rondvliegen"")"
 yz	O009p	Gottem	100	ts Winters vliegen de drooge blaâren in de lucht rond.
 yz	O182p	Volkegem	100	t'swinters warlen (flieen) de loeëvers rond in de lucht.
 yz	I163p	Oosteeklo	100	əst wɛntər æst oliə̃ də bloərən ɛn də lø̜xt
@@ -2496,4 +2496,4 @@ yz	47114	Aarö (Årø)	12	Om Winde flyer di to' Blai egjómmel e Luft.
 yz	56462	Babow	41	Simė letaju te ßuche hopenka wö tom lufsche hokowo.
 yz	53549	Zon	43	Zimą lecą suche liście przez powietrze
 yz	53561	Myslowice	43	W zimie lecą suche liście przez wiatr.
-yz	43859	Schachendorf	46	U jesen leti suho lišće simo tamo u zraku. 
+yz	43859	Schachendorf	46	"U jesen leti suho lišće simo tamo u zraku. "
