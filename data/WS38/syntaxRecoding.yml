@@ -1,0 +1,164 @@
+title: ~
+author: ~
+date: '2018-06-12'
+original_data: ~
+recoding:
+# ==========
+- recodingOf:
+  - leute3
+  - heute4
+  attribute: Vorfeld
+  values:
+    '1': die Leute sind heute
+    '2': heute sind die Leute
+  link:
+    '- + -': 0
+    '- + X': 2
+    NA + NA: 0
+    X + -: 1
+  originalFrequency:
+    '- + -': 4
+    '- + X': 18
+    NA + NA: 370
+    X + -: 2106
+  comments: ~
+# ==========
+- recodingOf:
+  - alle1
+  - leute3
+  - leute9
+  - alle11
+  - leute13
+  attribute: alle Leute
+  values:
+    '1': alle Leute
+    '2': die Leute alle
+  link:
+    '- + - + - + - + -': 0
+    '- + - + - + X + -': 0
+    '- + - + - + X + X': 1
+    '- + - + X + - + -': 0
+    '- + - + X + X + -': 2
+    '- + X + - + - + -': 0
+    '- + X + - + X + -': 2
+    NA + NA + NA + NA + NA: 0
+    X + X + - + - + -: 1
+    X + X + - + X + -: 1
+  originalFrequency:
+    '- + - + - + - + -': 2
+    '- + - + - + X + -': 2
+    '- + - + - + X + X': 10
+    '- + - + X + - + -': 2
+    '- + - + X + X + -': 6
+    '- + X + - + - + -': 27
+    '- + X + - + X + -': 2077
+    NA + NA + NA + NA + NA: 370
+    X + X + - + - + -: 1
+    X + X + - + X + -: 1
+  comments: ~
+# ==========
+- recodingOf:
+  - heute7
+  - alle11
+  - heute14
+  attribute: Mittelfeld
+  values:
+    '1': sind alle heute
+    '2': sind heute alle
+  link:
+    '- + - + -': 0
+    '- + X + -': 0
+    '- + X + X': 1
+    NA + NA + NA: 0
+    X + - + -: 0
+    X + X + -: 2
+  originalFrequency:
+    '- + - + -': 11
+    '- + X + -': 120
+    '- + X + X': 8
+    NA + NA + NA: 370
+    X + - + -: 21
+    X + X + -: 1968
+  comments: ~
+# ==========
+- recodingOf:
+  - draussen15
+  - draussen18
+  - draussen25
+  attribute: draussen
+  values:
+    '1': draussen auf dem Feld
+    '2': auf dem Feld draussen
+    '3': draussen auf dem Feld draussen
+  link:
+    '- + - + -': 0
+    '- + - + X': 2
+    '- + X + -': 2
+    NA + NA + NA: 0
+    X + - + -: 1
+    X + - + X: 3
+    X + X + -: 3
+  originalFrequency:
+    '- + - + -': 161
+    '- + - + X': 1
+    '- + X + -': 131
+    NA + NA + NA: 370
+    X + - + -: 1832
+    X + - + X: 1
+    X + X + -: 2
+  comments: ~
+# ==========
+- recodingOf:
+  - und19
+  - zu21
+  attribute: zu mähen
+  values:
+    '1': und mähen
+    '2': zu/am mähen
+    '3': und zu/am mähen
+    '4': mähen
+  link:
+    '- + -': 4
+    '- + X': 2
+    NA + NA: 0
+    X + -: 1
+    X + X: 3
+  originalFrequency:
+    '- + -': 40
+    '- + X': 89
+    NA + NA: 370
+    X + -: 1994
+    X + X: 5
+  comments: ~
+# ==========
+- recodingOf: tun20
+  attribute: tun mähen
+  values:
+    '1': mähen
+    '2': tun mähen
+  link:
+    '-': 1
+    X: 2
+  originalFrequency:
+    '-': 2000
+    X: 128
+  comments: ~
+# ==========
+- recodingOf:
+  - feld17
+  - feld24
+  attribute: feld
+  values:
+    '1': auf dem Feld mähen
+    '2': mähen auf dem Feld
+  link:
+    '- + -': 0
+    '- + X': 2
+    NA + NA: 0
+    X + -: 1
+  originalFrequency:
+    '- + -': 26
+    '- + X': 2
+    NA + NA: 370
+    X + -: 2100
+  comments: ~
