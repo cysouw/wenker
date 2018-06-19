@@ -9,13 +9,13 @@ recoding:
   - heute4
   attribute: Vorfeld
   values:
-    '1': die Leute sind heute
-    '2': heute sind die Leute
+    a: die Leute sind heute
+    b: heute sind die Leute
   link:
     '- + -': 0
-    '- + X': 2
+    '- + X': b
     NA + NA: 0
-    X + -: 1
+    X + -: a
   originalFrequency:
     '- + -': 4
     '- + X': 18
@@ -31,19 +31,19 @@ recoding:
   - leute13
   attribute: alle Leute
   values:
-    '1': alle Leute
-    '2': die Leute alle
+    a: alle Leute
+    b: die Leute alle
   link:
     '- + - + - + - + -': 0
     '- + - + - + X + -': 0
-    '- + - + - + X + X': 1
+    '- + - + - + X + X': a
     '- + - + X + - + -': 0
-    '- + - + X + X + -': 2
+    '- + - + X + X + -': b
     '- + X + - + - + -': 0
-    '- + X + - + X + -': 2
+    '- + X + - + X + -': b
     NA + NA + NA + NA + NA: 0
-    X + X + - + - + -: 1
-    X + X + - + X + -: 1
+    X + X + - + - + -: a
+    X + X + - + X + -: a
   originalFrequency:
     '- + - + - + - + -': 2
     '- + - + - + X + -': 2

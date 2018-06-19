@@ -1,0 +1,45 @@
+title: ~
+author: ~
+date: '2018-06-19'
+original_data: ~
+recoding:
+# ==========
+- recodingOf: jetzt1
+  attribute: ~
+  values:
+    a: ~
+    b: ~
+  link:
+    '-': ~
+    X: ~
+  originalFrequency:
+    '-': 2123
+    X: 4
+  comments: ~
+# ==========
+- recodingOf:
+  - haben10
+  - durst16
+  - haben17
+  attribute: haben Durst
+  values:
+    a: wir haben Durst
+    b: Durst haben wir
+    c: (andere)
+  link:
+    '- + - + -': c
+    '- + - + X': c
+    '- + X + -': c
+    '- + X + X': b
+    NA + NA + NA: 0
+    X + - + -: c
+    X + X + -: a
+  originalFrequency:
+    '- + - + -': 65
+    '- + - + X': 4
+    '- + X + -': 3
+    '- + X + X': 15
+    NA + NA + NA: 371
+    X + - + -: 20
+    X + X + -: 2020
+  comments: ~
