@@ -21,22 +21,7 @@ dataOrder <- getAlignSyntax("../data/WS38/WS38_1syntax.txt", 7, names = namesOrd
 order <- recode(dataOrder, "../data/WS38/syntaxRecoding.yml")
 
 # plot ordering parameters	
-
-titlesOrder <- list(
-	  Vorfeld = "Vorfeldbesetzung"
-	, Mittelfeld = "Mittelfeldbesetzung"
-	, alle.Leute = "Position \'alle\'"
-	, draussen = "Position \'draussen\'"
-	, zu.mähen = "Infinitiv"
-	, tun.mähen = "Hilfsverb"
-	, feld = "Position \'Feld\'"
-)
-
-
-sapply(seq_along(titlesOrder), function(x) {
-	plotSingle(order[,names(titlesOrder)[x]], titlesOrder[[x]])
-	}) -> silent
-
+sapply(colnames(order), function(x) {plotSingle(feature = order[,x], title = x)}) -> silent
 
 #' show Session Info
 sessionInfo()

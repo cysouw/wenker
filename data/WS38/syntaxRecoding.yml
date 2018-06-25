@@ -1,13 +1,13 @@
-title: ~
-author: ~
+title: Syntactic Parameters WS 38
+author: Michael Cysouw
 date: '2018-06-12'
-original_data: ~
+originalData: WS38_1syntax.txt
 recoding:
 # ==========
 - recodingOf:
   - leute3
   - heute4
-  attribute: Vorfeld
+  attribute: Vorfeldbesetzung
   values:
     a: die Leute sind heute
     b: heute sind die Leute
@@ -29,7 +29,7 @@ recoding:
   - leute9
   - alle11
   - leute13
-  attribute: alle Leute
+  attribute: Mittelfeldbesetzung
   values:
     a: alle Leute
     b: die Leute alle
@@ -61,7 +61,7 @@ recoding:
   - heute7
   - alle11
   - heute14
-  attribute: Mittelfeld
+  attribute: Position 'alle'
   values:
     '1': sind alle heute
     '2': sind heute alle
@@ -85,7 +85,7 @@ recoding:
   - draussen15
   - draussen18
   - draussen25
-  attribute: draussen
+  attribute: Position 'draussen'
   values:
     '1': draussen auf dem Feld
     '2': auf dem Feld draussen
@@ -111,7 +111,7 @@ recoding:
 - recodingOf:
   - und19
   - zu21
-  attribute: zu mähen
+  attribute: Infinitiv
   values:
     '1': und mähen
     '2': zu/am mähen
@@ -132,7 +132,7 @@ recoding:
   comments: ~
 # ==========
 - recodingOf: tun20
-  attribute: tun mähen
+  attribute: Hilfsverb
   values:
     '1': mähen
     '2': tun mähen
@@ -147,7 +147,7 @@ recoding:
 - recodingOf:
   - feld17
   - feld24
-  attribute: feld
+  attribute: Position 'Feld'
   values:
     '1': auf dem Feld mähen
     '2': mähen auf dem Feld

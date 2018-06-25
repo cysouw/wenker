@@ -5,52 +5,52 @@ originalData: ~
 recoding:
 # ==========
 - recodingOf: jetzt1
-  attribute: ~
+  attribute: jetzt
   values:
-    a: ~
-    b: ~
+    a: Jetzt sind wir müde
+    b: Wir sind müde
   link:
-    '-': ~
-    X: ~
+    '-': b
+    X: a
   originalFrequency:
     '-': 2123
     X: 4
   comments: ~
 # ==========
 - recodingOf: müde2
-  attribute: ~
+  attribute: Position 'müde'
   values:
-    a: ~
-    b: ~
+    a: Müde sind wir
+    b: Wir sind müde
   link:
-    '-': ~
-    X: ~
+    '-': b
+    X: a
   originalFrequency:
-    '-': 2120
-    X: 7
+    '-': 2121
+    X: 6
   comments: ~
 # ==========
 - recodingOf: sehr5
-  attribute: ~
+  attribute: Verstärkung 'sehr müde'
   values:
-    a: ~
-    b: ~
+    a: sehr/aber müde
+    b: müde
   link:
-    '-': ~
-    X: ~
+    '-': b
+    X: a
   originalFrequency:
     '-': 2108
     X: 19
   comments: ~
 # ==========
 - recodingOf: großen13
-  attribute: ~
+  attribute: Verstärkung 'durst'
   values:
-    a: ~
-    b: ~
+    a: großen Durst
+    b: Durst
   link:
-    '-': ~
-    X: ~
+    '-': b
+    X: a
   originalFrequency:
     '-': 2115
     X: 12
@@ -59,15 +59,15 @@ recoding:
 - recodingOf:
   - auch11
   - auch19
-  attribute: ~
+  attribute: Extra 'auch'
   values:
-    a: ~
-    b: ~
+    a: haben auch Durst
+    b: haben Durst
   link:
-    '- + -': ~
-    '- + X': ~
+    '- + -': b
+    '- + X': a
     NA + NA: ~
-    X + -: ~
+    X + -: a
   originalFrequency:
     '- + -': 2111
     '- + X': 10
@@ -79,18 +79,18 @@ recoding:
   - haben/sind10
   - Durst16
   - haben17
-  attribute: ~
+  attribute: Reihenfolge 'Durst haben'
   values:
-    a: ~
-    b: ~
+    a: und haben Durst
+    b: und Durst haben
   link:
     '- + - + -': ~
     '- + - + X': ~
     '- + X + -': ~
-    '- + X + X': ~
+    '- + X + X': b
     NA + NA + NA: ~
     X + - + -: ~
-    X + X + -: ~
+    X + X + -: a
   originalFrequency:
     '- + - + -': 65
     '- + - + X': 3
@@ -106,20 +106,20 @@ recoding:
   - ein12
   - Durst16
   - haben17
-  attribute: ~
+  attribute: Extra 'ein'
   values:
-    a: ~
-    b: ~
+    a: wir haben Durst
+    b: wir haben einen Durst
   link:
     '- + - + - + -': ~
     '- + - + - + X': ~
     '- + - + X + -': ~
-    '- + - + X + X': ~
-    '- + X + X + X': ~
+    '- + - + X + X': a
+    '- + X + X + X': b
     NA + NA + NA + NA: ~
     X + - + - + -: ~
-    X + - + X + -: ~
-    X + X + X + -: ~
+    X + - + X + -: a
+    X + X + X + -: b
   originalFrequency:
     '- + - + - + -': 65
     '- + - + - + X': 3
@@ -136,16 +136,17 @@ recoding:
   - dürstet14
   - durstig15
   - Durst16
-  attribute: ~
+  attribute: Konstruktion 'Durst'
   values:
-    a: ~
-    b: ~
+    a: wir haben Durst
+    b: wir sind durstig
+    c: es durstet uns
   link:
     '- + - + -': ~
-    '- + - + X': ~
-    '- + X + -': ~
+    '- + - + X': a
+    '- + X + -': b
     NA + NA + NA: ~
-    X + - + -: ~
+    X + - + -: c
   originalFrequency:
     '- + - + -': 1
     '- + - + X': 2039
