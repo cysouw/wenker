@@ -1,0 +1,2128 @@
+Ort::REDE_GIDs	Ort::Longitude	Ort::Latitude	Bogennummer	Ort::Name	Ort::Sprache	müde	wir	sind	und	uns	haben	einen	Durst
+371832	17,766667	54,233333	52353	Sullenschin	1	meid	Wie	sind	oh	-	häbbe	-	dorscht.
+548119	14,8560774	45,73778552	44439	Ebental (Polom)	1	miadä	Bir	sheibm	und	-	houbm	-	Durscht
+548136	15,02728837	45,72261381	44442	Steinwand (Podstenice)	1	miüdü	Bir	sseibm	und	-	houbm	-	durscht.
+548123	14,67181656	45,60384838	44445	Obergras (Trava)	1	miada	Wiar	scheibn	un	-	hubn	-	Durscht.
+548125	14,74770542	45,61189263	44447	Göttenitz (Gotenica)	1	miädó	Bir	sheibn	ónd	-	hòbn	-	durscht
+548129	15,03087485	45,60255868	44454	Nesseltal (Koprivnik)	1	miado	Bir	sheibn	und	-	-	-	duorschtig
+548132	14,85834462	45,51864086	44461	Tiefenbach (Briga)	1	miädä	Bir	sheibm	und	-	hebm	-	Durscht
+548133	15,0105791	45,52366898	44465	Unterlag (Spodnji Log)	1	miädä	Biär	sheibn	ünd	-	hobn	-	Dürscht
+19407	7,7484	46,02414	46145	Zermatt	1	miédi	Wiér	sie	und	-	hei	-	Durscht
+546520	11,32397722	45,92359227	46365	Lusern	1	müade	Wiar	sein	on	-	ham	-	durst.
+626636	21,1663851	45,72229705	54916	Freidorf bei Temeschwar	1	miet	Mr	sein	un	-	hun	-	Dorst
+626634	18,23295015	46,07109001	54919	Fünfkirchen	1	mid	Mi	sain	un	-	ham	-	duest.
+540526	21,42616232	45,88641917	54926	Deutschbentscheck	1	mid	Mir	sein	un	-	hawe	-	Torscht
+626650	20,7089428	45,93611244	54930	Gottlob	1	mid	Mir	sin	un	-	han	-	Durscht
+626677	21,4127841	45,34995319	54932	Klein-Schemlak	1	mied	Mír	seḭ	ŭn	-	hŭn	-	Dorscht
+626656	21,4215454	45,26174573	54937	Groß-Scham	1	mid	Mir	sin	un	-	han	-	Dorscht.
+540946	19,52662428	45,50310424	54938	Torschau	1	mid	Mer	sin	un	-	han	-	torsd.
+540824	19,37412285	45,61386126	54939	Weprowatz	1	mid	Mir	sin	un	-	hen	-	tåṛst
+540560	21,10004302	45,83953821	54943	Neubeschenowa	1	mid	Mr	sen	än	-	han	-	Dörscht.
+371395	16,31041	52,60188	-55522	NOJEWO	1	müde	Wir	sind	und	-	haben	-	durst.
+370675	16,36077	54,11004	-55425	WYSZEWO	1	mör	Wie	sinn	unn	-	hewe	-	Dest.
+626746	18,58678287	53,05101458	-55418	SCHￃﾖNWALDE (WRZOSY)	1	med	Wie	send	o	-	hebe	-	dest.
+527281	19,0366	49,56875	-55416	KAMESZNICA	1	mied	M'r	sen	un	-	hann	-	Durscht.
+380348	18,38712	51,17088	-55415	SKOMLIN	1	mied	Wir	sind	u	-	haben	-	durscht.
+388417	19,13695	49,64526	-55411	RADZIECHOWY	1	müd	Mir	han	una	-	han	-	dursten.
+626621	18,72	49,64	-55408	BISTRITZ	1	müde	Wir	sind	und	-	haben	-	Durst.
+545443	18,5370479	49,85420839	-55394	FREISTADT (FRYￅﾠTￃﾁT)	1	müde	Wir	sind	u	-	-	-	durstig.
+390778	19,49241	50,06365	-55389	KWACZALA	1	mied	Mir	sin	un	-	sin	-	dorschtrich.
+387543	19,12851	50,72563	-55383	HUTA STARA A	1	mied	Mier	sein	und	-	hon	-	derscht.
+388755	19,08354	50,89934	-55382	CZARNY LAS	1	müd	Mir	sind	und	-	hon	-	torscht.
+388496	18,75742	51,00328	-55377	NATOLIN	1	mide	Wir	sein	und	-	hon	-	Durscht.
+390678	18,64555	51,02636	-55376	JAWORZNO	1	müet	Mir	hamer	und	-	homer	-	Durscht.
+385114	18,51475	51,13966	-55375	OZAROW	1	müde	Wir	sind	und	-	haben	-	durst.
+385418	19,2962	51,20322	-55373	LUSZCZANOWICE	1	müde	Wir	haben	und	-	sind	-	Durst
+533735	19,37718	51,35563	-55366	BELCHATￃﾓW	1	miede	Wir	sind	und	-	haben	-	Dorscht.
+376904	18,47	51,35	-55365	DOBROSLAW	1	mid	Wir	sind	u	uns	-	-	durstet.
+383244	18,90114	51,20321	-55363	SIEMKOWICE	1	mud	Mir	sind	und	-	henn	-	durscht.
+363032	19,4341	51,42903	-55362	SUCHCICE	1	fjets	Uns	schlü	u	-	-	-	duscht.
+379550	18,85025	51,43743	-55361	WIELKA WIES	1	müde	Wir	sind	u	-	sind	-	durstig.
+379732	18,57714	51,49261	-55360	OSTROW	1	müde	Wir	sind	und	-	-	-	dursten
+619524	18,39830334	51,46576252	-55359	KIEBITZTAL (KUZNICA)	1	müd	Mir	samer	u	-	haben	-	Durscht.
+383768	19,75374	51,66709	-55354	LAZNOWSKA WOLA	1	(ver)mied	Wir	sind	und	-	habn	-	Dorscht.
+377153	19,47735	51,66082	-55350	RZGOW	1	mid	Mee	sin	un	-	hun	-	Dorscht.
+379517	19,23418	51,65804	-55349	MARKOWKA	1	mide	Mia	sind	und	-	haben	-	Descht.
+378258	18,56718	51,62565	-55344	SLOMKOW SUCHY	1	maid	Mie	hama	und	-	hama	-	Duast.
+381080	19,67238	51,72908	-55338	JUSTYNOW	1	mid	Mir	sin	un	-	haben	-	Durscht.
+377949	19,02415	51,72283	-55331	RZEPISZEW	1	mide	Wie	sind	und	-	haben	-	durscht.
+372086	18,13488	51,67727	-55326	JOZEFOW	1	mied	Bie	sin	und	-	hobn	-	Durscht.
+626754	19,44499956	51,80918823	-55322	MARIANOW	1	müde	Wir	sind	u.	esuns.	-	-	durstet
+384137	18,92107	51,86554	-55308	BALDRZYCHOW	1	müd	Wir	sind	u	-	haben	-	Durst.
+153426	18,63	51,86	-55306	RZYMSKO	1	miede	Wir	sind	u	-	haben	-	Durscht.
+370854	18,17918	51,87254	-55300	GOLISZEW	1	müd	Mir	sind	un	-	hemmer	-	Durscht.
+379051	19,19168	52,07768	-55270	LECZYCA	1	mid	Mehr	sinn	un	-	hunn	-	dorscht.
+357781	19,02483	52,06217	-55269	ZIMNE	1	meet	Wi	sein	o	-	habe	-	dost.
+159476	18,70666	52,02896	-55266	SARBICE	1	med	Wi	sind	und	-	häbbe	-	Dost.
+530520	18,51036	52,01308	-55262	TUREK	1	müde	Wie	sind	u	-	heben	-	durst.
+166012	18,23512	52,06197	-55261	GADOWSKIE HOLENDRY	1	miede	Wir	sind	und	-	hobn	-	Durscht.
+376296	17,80381	52,06731	-55258	WIERZCHY	1	mid	Wir	sin	un	-	hon	-	durscht.
+163721	19,24271	52,15559	-55254	SZAMOW	1	mid	Mir	sin	und	-	hen	-	Durscht.
+372486	17,98863	52,1656	-55240	KOPOJNO	1	mied	Wir	sind	u	-	haben	-	Durst.
+384611	19,63	52,24	-55238	ZYCHLIN	1	mide	Wir	sein	und	-	haben	-	Durscht.
+374720	18,77987	52,18577	-55226	TARNOWKA	1	mide	Wir	seint	und	-	haben	-	Durscht.
+373761	18,20786	52,18456	-55218	STARE MIASTO	1	mied	Wir	sind	und	-	hobn	-	Durscht.
+380967	19,96699	52,30212	-55216	KAPTURY	1	mejd	Wi	send	o	-	habe	-	Dast.
+154080	20,43979	52,38381	-55191	SECYMIN POLSKI	1	med	We	sent	o	-	hobe	-	dast.
+381386	20,32309	52,34227	-55189	MISZORY	1	meed	Wi	send	on	-	hebbe	-	Dast.
+360043	20,13	52,35	-55187	NOWA WIES	1	med	Wie	sennt	o	-	hebe	-	Deast.
+153496	19,04075	52,34483	-55181	PSARY	1	möd	Wie	sinn	on	-	hebbe	-	Dost.
+371914	18,72994	52,35334	-55177	BRDOW	1	moid	Mia	sana	und	-	hoama	-	durscht.
+160111	18,0907	52,37183	-55173	KOZIE GLOWY	1	mid	Bir	sinn	und	-	hoin	-	Durscht.
+522932	20,71013	52,43195	-55171	NOWY DWￃﾓR MAZOWIECKI	1	meed	Wi	senn	on	-	habe	-	Dast.
+378704	20,15711	52,44792	-55169	ORSZYMOWO	1	mejd	Wi	send	o	-	hebe	-	Deest.
+362859	19,88222	52,47212	-55166	BUDY BOROWICKIE	1	meed	Wie	send	oh	-	hebbe	-	Deßt.
+158213	19,19	52,5	-55164	WIESLAWICE	1	müd	Wie	bew	ok	-	hav	-	Dast.
+160686	18,56964	52,49663	-55139	KOZY	1	möd	Wi	sin	ü	-	hebbe	-	Döst.
+168276	20,72309	52,595	-55137	KONARY	1	meed	Wi	send	o	-	habe	-	dast.
+378564	20,22129	52,62835	-55135	DZIERZAZNIA	1	mied	Wir	sind	un	-	haben	-	Dorscht.
+155785	19,84137	52,60089	-55133	MECZENINO	1	meed	Wie	sent	un	-	habi	-	Dorst.
+149433	19,38268	52,66071	-55129	LENIE MALE	1	mejd	Wie	send	o	-	hebe	-	daßt.
+169047	19,61064	52,67865	-55117	NOWE KARWOSIEKI	1	med	Wehe	sen	ohas	-	-	-	dastet.
+160546	18,78115	52,68656	-55113	KUJAWKA	1	mied	Mer	sin	und	-	hun	-	Dorscht.
+383881	20,5249	52,74235	-55110	KICIN	1	mööd	Wie	send	on	-	habä	-	döast.
+523813	19,89611	52,8243	-55107	ZAWIDZ KOSCIELNY	1	med	Wi	send	ok	-	-	-	dastich.
+385499	21,0919	52,86502	-55099	MAKOW MAZOWIECKI	1	mied	Wie	sin	und	-	babo	-	dast.
+157211	20,45214	52,90666	-55096	MODELKA	1	med	Wi	send	on	-	habe	-	Darst.
+370415	19,35265	52,86583	-55091	SKEPE	1	med	We	send	ok	-	habe	-	Dast.
+372497	18,80354	52,87503	-55081	CIECHOCINEK	1	möd	Wi	send	o	-	send	-	dastg.
+523501	21,60772	53,09558	-55072	OSTROLEKA	1	müde	Wir	sind	und	-	haben	-	durscht.
+523333	20,63095	53,05753	-55070	GRUDUSK	1	müde	Wir	sind	und	-	-	-	durstig.
+523822	19,91826	53,06515	-55066	ZUROMIN	1	müde	Wir	sind	u	-	heben	-	Durst.
+533045	19,30736	53,0267	-55064	ZALE	1	med	Wie	send	ok	-	have	-	Dost.
+151057	19,38273	53,15623	-55055	OBORKI	1	mehd	Wi	send	o	-	haebe	-	Daest.
+546509	11,21313811	46,24017188	-46353	SALURN (SALORNO)	1	müad	Mia	sein	und	-	hobn	-	durst.
+546604	11,36733955	46,27778405	-46351	ALTREI (ANTERIVO)	1	müad	Miar	sain	und	-	hobn	-	Durst.
+546500	11,43174923	46,4138887	-46344	DEUTSCHNOFEN (NOVA PONENTE)	1	mia	Miar	sain	und	-	homen	-	Durscht.
+546496	11,24240205	46,41465671	-46340	KALTERN (CALDARO)	1	müad	Miar	sain	und	-	alm	-	durscht.
+546443	11,38	46,56	-46319	WANGEN (VANGA)	1	gschuntn	Miar	sein	und	-	habm	-	Durst.
+546429	11,00515196	46,54922739	-46305	SANKT WALBURG (SANTA VALBURGA)	1	löts	Mier	sain	und	-	hobm	-	Durscht.
+546418	11,61186982	46,60311182	-46293	SANKT PETER HINTER LAJEN (SAN PIETR	1	meiad	Mier	san	u	-	hobn	-	Durst.
+546475	10,54690805	46,59833157	-46262	STILFS (STELVIO)	1	mied	Miar	sein	un	-	hobn	-	durscht.
+546361	11,18153697	46,72780082	-46234	VERNUER (VERNURIO)	1	müada	Mir	sein	und	-	hobn	-	Durst.
+546354	10,93457311	46,68890715	-46227	KATHARINABERG (SANTA CATERINA)	1	müad	Miar	sein	und	-	hobn	-	durst.
+546350	10,78187881	46,75742756	-46226	KURZRAS (CORTERASO)	1	müad	Miar	sein	und	-	hobm	-	durscht.
+546331	10,52936081	46,7107352	-46217	BURGEIS (BURGUSIO)	1	miad	Miar	sein	und	-	hobn	on	Därst.
+546330	12,19183685	46,77103721	-46215	PICHL	1	miade	Mir	san	un	-	haum	-	durscht.
+546309	11,665945	46,770262	-46195	SCHABS (SCIAVES)	1	miade	Miar	sein	und	-	obm	-	Durscht.
+546299	12,10062179	46,85947024	-46181	ANTHOLZ (ANTERSELVA DI MEZZO)	1	miad	Mir	san	u	-	houbn	an	durscht.
+546295	11,70668566	46,8867533	-46175	PFUNDERS (FUNDRES)	1	müödü	Miör	sein	und	ins.	tuit	-	dürstn
+546263	11,156652	46,871323	-46162	RABENSTEIN (MOOS)	1	miede	Mier	sein	und	-	hobm	-	durscht.
+546289	10,63866245	46,83825902	-46161	HINTERKIRCH (GRAUN)	1	müad	Miar	sein	un	-	houbm	-	durscht.
+546253	12,10710013	47,04166281	-46146	PRETTAU (PREDOI)	1	miede	Wio	san	unt	-	hobm	-	Duscht.
+547215	20,74010208	48,73016195	-18008	SCHMￃﾖLLNITZ (SMOLNￃﾍK)	1	miet	Bie	seiba	und	-	sein	-	duijschtich.
+540730	18,99999994	49,82000004	-17749	ALT-BIELITZ (STARE BIELESKO)	1	schwash	Wjer	sen	an	-	hon	-	Döscht.
+389479	19,45265	49,87403	-17746	CHOCZNIA	1	mäid	Mir	ham	und	-	hama	-	dursti.
+390916	19,28507	49,87652	-17744	BULOWICE	1	mied	Wir	sein	und	-	han	-	Durst.
+387377	19,326	49,98619	-17739	POLANKA WIELKA	1	müd	Wir	sind	u	-	hun	-	Dorscht.
+535428	16,37426376	53,74533931	51	BAERWALDE	1	möd	Wi	sünd	u	-	häwä	-	döst.
+373017	17,1932	53,7362	74	GWIEZDZIN	1	moid	Wi	sind	u	-	hebbe	-	dööst.
+372997	17,51084	53,73196	83	CHARZYKOWY	1	moid	Wi	sind	u	-	häbbn	-	döst.
+376415	19,16906	53,67605	99	TRUMIEJKI	1	möd	Wi	sönd	onn	-	hebbe	-	derscht.
+373879	18,9051	53,70548	110	ROZPEDZINY	1	möd	Wie	send	on	-	häbe	-	dörscht.
+160646	15,51756	53,76575	133	SOSNOWO	1	meur	Wi	sünd	o	-	hewwn	-	döst.
+373286	15,86239	53,77752	145	SMARDZKO	1	meur	Wie	sünn	u	-	hewwe	-	Döst.
+370788	16,09538	53,76262	158	POLCZYN-ZDROJ	1	mäud	Wi	sünn	u	-	hewwe	-	döst.
+161335	16,69276	53,74786	180	GALOWO	1	moid	Wie	sünd	u	-	hewwe	-	dößt.
+158846	16,96984	53,75059	185	JELNIA	1	möd	Wi	sin	u	-	häwwa	-	dost.
+160131	19,21069	53,82183	211	RODOWO	1	mud	Wir	sind	und	-	hoabn	-	dorscht.
+152192	17,24179	53,90401	282	ZOLNA	1	moid	Wie	sind	u	-	hebbe	-	dest.
+373273	17,75803	53,87662	285	KOSOBUDY	1	Meid	Wir	seit	und	-	hevn	-	Derst.
+541516	18,09997562	53,88253175	289	KￃﾖNIGSWIESE (LEￅﾚNA HUTA)	1	med	Wi	sint	u	-	habe	-	Durscht.
+532570	18,40028	53,85127	291	LUBICHOWO	1	Möid	Wie	sind	un	-	häbbä	-	derst.
+534658	18,94320745	53,86393989	300	MONTAUERWEIDE	1	möd	Wi	send	und	-	hebbe	-	dörscht.
+532196	15,54345	53,93552	312	RYMAN	1	meur	Wie	sün	un	-	hiwwa	-	döst.
+370644	15,82486	53,93499	324	PODWILCZE	1	meur	Wi	sünd	o	-	hewwe	-	döst.
+148262	16,14955	53,95055	344	MODROLAS	1	möur	Wi	sinn	un	-	hewwn	-	döst.
+162750	16,41182	53,94692	351	SMECINO	1	meud	Wie	sind	unn	-	hewwe	-	döst.
+534872	16,6593432	53,9295732	356	PORST	1	meud	Wai	sind	u	-	häwwa	-	däst.
+162673	16,97152	53,91653	366	PRZERADZ	1	meud	Wei	sind	un	-	hewe	-	döst.
+147980	16,65187	54,07285	458	WIETRZNO	1	mäur	Wai	sinn	un	-	hewwe	-	däßt.
+372705	16,95143	54,06604	465	OKUNINO	1	meir	Wi	sind	u	-	hewwä	-	dersti.
+532087	17,25621	54,06601	474	KRAMARZYNY	1	meid	Wie	sind	u	-	hewwe	-	däst.
+148470	17,54883	54,03056	478	PRADZONKA	1	mäud	Wie	sind	u	-	häbe	-	döst.
+161323	18,09229	54,0637	486	NIEDAMOWO	1	meid	Wie	sinn	unn	-	hewwe	-	dörst.
+374684	18,35818	54,02938	495	JAROSZEWY	1	meid	Wie	sind	und	-	hebe	-	derscht.
+375290	18,60845	54,00516	503	SZPEGAWSK	1	meed	Wi	send	un	-	hebbe	-	derscht.
+149312	18,96931	54,01376	511	KRASNIEWO	1	möd	Wie	send	on	-	hewe	-	derschd.
+371648	19,25267	54,01388	532	ZULAWKA SZTUMSKA	1	mud	Wör	send	un	-	-	-	dorrstig.
+150858	15,52373	54,11856	549	PRZECMINO	1	meur	Wie	sün	u	-	häwe	-	Dößt.
+151041	15,83913	54,10419	573	LYKOWO	1	meur	Wi	sünd	o	-	hewwn	-	döst.
+152858	16,10326	54,10839	584	DUNOWO	1	möd	Wi	sinn	oa	-	häwa	-	döest.
+147182	18,95682	54,15681	688	PREGOWO ZULAWSKIE	1	möd	Wie	send	on	-	hewe	-	derscht.
+376087	16,36258	53,40347	743	RUDKI	1	möd	Wie	sinn	u	-	hebba	-	Döst.
+371847	16,64428	53,39298	748	BUDY	1	müid	Wi	sinn	u	-	hebbe	-	döst.
+532171	17,14489	53,41264	760	ZAKRZEWO	1	moid	Wi	sündsen	u	-	hebbn	-	döst.
+372128	17,46743	53,37996	769	NOWY DWOR	1	meud	Wia	sünd	uh	-	heb	-	dösta.
+149964	18,59262	53,37403	803	LUNAWY MALE	1	möd	Wi	sünt	o	-	hebbä	-	döst.
+146983	19,15258	53,34825	821	BUKOWIEC	1	mäd'o	Wi	send	-	-	hebbe	-	derscht.
+372040	17,21995	53,57517	880	STRZECZONA	1	müd	Wi	sünd	o	-	hebbn	-	döst.
+147621	17,74635	53,55745	895	JELENCZ	1	moid	Wi	sind	u	-	häbn	-	doagt.
+170389	18,07074	53,54121	899	IWIEC	1	meud	Wir	sünt	uh	-	hebn	-	döjsta.
+152379	18,58805	53,53014	906	BUSNIA	1	möd	Wie	send	on	-	hebbe	-	derscht.
+158660	18,83909	53,52267	920	LISIE KATY	1	möd	Wie	senn	un	-	hewwe	-	derscht.
+161906	19,18069	53,50608	930	GOCZALKI	1	mid	Wir	sint	on	-	hoben	-	dorscht.
+534903	17,42103998	53,05104088	983	GROMADEN	1	möd	Wie	sün	u	-	häwä	-	döst.
+541553	17,72070827	53,06923401	984	FRIEDBERG	1	moid	Wi	sunn	ou	-	habbä	-	döst.
+541554	17,99966399	53,03340784	990	WALOWNICA	1	möd	Wi	se	o	-	hebbe	-	döst.
+159543	18,26158	53,05159	994	KABAT	1	möd	Wie	send	o	-	häbe	-	döst.
+150069	15,49524	53,11481	1009	NOWY KLUKOM	1	möög	Wie	sin	o	-	-	-	döstig
+531796	15,78185	53,08719	1018	LASKO K CHOSZCZNA	1	möd	Wie	sind	un	-	hebbe	-	dörst.
+159464	16,08349	53,12516	1023	GOLIN	1	mööd	Wie	sünd	u	-	hewwe	-	dost.
+531178	16,39581	53,11234	1029	NIEKURSKO	1	möd	Wi	sinn	on	-	hebbon	-	dost.
+376330	16,63215	53,09276	1035	STOBNO	1	möd	Wi	sin	u	-	hebe	-	dost.
+370259	17,19502	53,11046	1050	KROSTKOWO	1	meid	Wi	sün	u	-	hebe	-	döß.
+534921	17,45996751	53,22049833	1133	DEBENKE	1	meud	Wie	sün	u	-	hebä	-	döstä.
+148600	17,73634	53,22735	1139	GLISZCZ	1	moid	Wi	synd	u	-	häbbe	-	döst.
+375151	18,26662	53,22211	1150	CZARZE	1	med	Wi	sind	on	-	hebe	-	Dest.
+373923	18,56976	53,2111	1157	BIELCZYNY	1	müad	Mir	sinn	und	-	henn	-	durscht.
+160911	18,85888	53,17872	1162	SIERAKOWO	1	meid	Wi	söed	o	-	hebbe	-	deäst.
+147552	15,50003	53,29161	1178	SOKOLINIEC	1	mög	Wi	sinn	u	-	hebba	-	Döst.
+370665	15,85412	53,25859	1192	DEBSKO	1	möd	Wie	sind	u	-	hebbe	-	döst.
+163085	16,12236	53,27292	1197	PLOCICZNO	1	möd	Wi	sin	o	-	häbba	-	döß.
+148733	16,30259	53,26242	1203	NAKIELNO	1	möd	Wi	sina	un	-	häbba	-	dosst.
+541572	16,62174662	53,26616634	1208	WISSULKE (WIESIￃﾓￅﾁKA)	1	möd	Wi	sinn	u	-	hebbä	-	dost.
+371585	16,90232	53,26649	1215	PARUSZKA	1	meud	Wi	sünn	uh	-	häbbe	-	döst.
+375822	15,56066	53,43452	1278	INSKO	1	möd	Wi	sin	o	-	hewwa	-	Döest.
+374696	15,82821	53,44244	1287	KONOTOP	1	möd	Wi	sinn	o	-	hebba	-	Döst.
+153188	16,0857	53,43147	1296	ZABIN	1	möad	Wie	sind	u	-	hebba	-	döast.
+374882	16,93735	53,43084	1315	KAMIEN	1	möd	Wi	sünn	u	-	habbn	-	döuste.
+534933	17,75795578	53,42095415	1338	DZIDNO	1	moid	Wie	sen	uh	-	häbbe	-	döst.
+158526	15,53822	53,61301	1403	DOBIESZEWO	1	mör	Wi	sinn	ua	-	hewwa	-	döst.
+375806	15,82664	53,61641	1417	RYDZEWO	1	mör	Wi	sünn	u	-	hewwe	-	döst.
+151328	16,09713	53,5926	1432	RZEPOWO	1	möd	Wie	sin	un	-	hewa	-	döst.
+372645	16,3881	53,58605	1442	LUBOWO	1	mäud	Wi	sünd	u	-	hewwe	-	döß.
+541580	16,64922303	53,57923598	1451	STEINFORTH (BRODￅﾹCE)	1	möd	Wi	sunn	ua	-	hewwä	-	dösst.
+146871	16,90083	53,59936	1461	WEGORZEWO SZCZECINECKIE	1	mäud	Wie	sünd	un	-	häwä	-	durst.
+152200	18,31669	53,6553	1499	STARA RZEKA	1	meed	Wie	sein	u	-	hebbe	-	doast.
+541593	21,39751921	55,00008085	1536	HEIDLAUKEN (BUGORKI)	1	möd	Wi	sönn	on	-	hebbe	-	darscht.
+534942	21,69458052	55,04244719	1540	HEINRICHSWALDE	1	meed	Wie	send	un	-	hebbe	-	derscht.
+522795	21,99049945	55,02117866	1552	PAZUIZEN	1	möd	Wi	send	un	-	hebbe	-	dürscht.
+522784	22,25700873	55,00557634	1565	GIERVER LAUKEN	1	meed	Wie	senn	un	-	hebbe	-	derscht.
+522772	22,59096608	55,07130157	1571	SCHMALLENINGKEN	1	med	Wi	sonn	un	-	hebbe	-	därscht.
+541600	19,96594881	54,93887292	1573	GROￃﾟ DIRSCHKEIM (DONSKOYE)	1	med	Wi	sent	on	-	hebbe	-	derscht.
+540919	20,25705523	54,95056245	1578	RANTAU (ZAOSTROV'YE)	1	med	Wi	sen	onn	-	hebbe	-	derrscht.
+541603	20,51939251	54,91991342	1580	SCHULSTEIN (VOL'NOE)	1	meed	Wi	send	on	-	hebbe	-	derscht.
+541608	21,36986045	54,92959481	1588	ALT SUSIMILKEN (TARASSOWKA)	1	möd	Wie	sind	on	-	hebbe	-	därscht.
+541640	22,56764471	54,97028491	1626	TULPENINGKEN (ZAREￄﾌNOE)	1	med	Wie	sönnd	und	-	hebbe	-	derscht.
+541641	22,74958463	54,93330301	1628	WISBORIENEN (LIVNY)	1	med	Wie	sön	on	-	hebbe	-	derscht.
+541763	20,82988029	54,91975148	1654	POSTNICKEN (ZALIVNOE)	1	med	Wie	send	onn	-	hebbe	-	derscht.
+540911	21,06375338	54,89622754	1664	LABAGIENEN/HAFFWINKEL (ZALIVINO)	1	med	Wie	send	on	-	hebbe	-	derscht.
+541395	21,65075358	54,87658737	1683	KREUZINGEN (BOL'SHAKOVO)	1	med	Wie	sönd	on	-	hebbe	-	Derscht.
+541701	21,94586611	54,83695164	1698	BUTTKUHNEN (POKROVSKOE)	1	med	Wie	send	un	-	hebbe	-	dorscht.
+541709	22,22011308	54,8699569	1708	BALTRUSCHATSCHEN (JAKOVLEVO)	1	möd	Wie	sänd	on	-	hebbe	-	derscht.
+541735	19,98061971	54,80011714	1733	ROTTENEN (RAKTINO)	1	meed	Wie	send	onn	-	hebbe	-	därscht.
+541741	20,16992129	54,80001676	1741	POJERSTIETEN (KOLODCY)	1	med	Wie	send	on	-	hewe	-	derscht.
+541746	20,50003508	54,76991096	1747	BEYDRITTEN (PERVOMAJSKIJ)	1	möd	Wi	sönd	un	-	hebbn	-	derscht.
+541755	20,77992635	54,78017981	1758	BRASDORF (ANTONOVKA)	1	meed	Wi	send	on	-	hebbe	-	derrscht.
+541782	21,08440964	54,75089788	1772	GROￃﾟ GOLDBACH (SLAVINSK)	1	med	Wie	send	on	-	hebe	-	dörscht.
+541836	22,5167	54,8167	1829	RUDSZEN (POLTAVSKOE)	1	med	Wie	sent	un	-	hebbe	-	derscht.
+541847	22,81669606	54,80000132	1842	WARUPￃﾖNEN (FￃﾋDOROVKA)	1	med	Wie	send	un	-	hebbe	-	durscht.
+541892	21,33071539	54,71800592	1895	KￃﾖNIGLICH DAMERAU	1	med	Wie	send	on	-	hebbe	-	derscht.
+541900	21,6499872	54,73016708	1904	PESSELN	1	möhd	Wie	sönn	onn	-	hebbe	-	därscht.
+541915	21,93005406	54,69998961	1919	GROￃﾟ GERLAUKEN (VJAZOVKA)	1	möd	Wir	sönd	onn	-	hebbn	-	dorst.
+541919	22,21995783	54,67997099	1924	PAKALLNISCHKEN (SUVOROVO)	1	möd	Wie	send	on	-	häbbe	-	därscht.
+535058	19,90818698	54,64428333	1953	PILLAU	1	möhd	Wie	sönnd	onn	-	hebbn	-	därscht.
+541947	20,15361676	54,5820861	1956	PATERSORT (BEREGOVOE)	1	med	Wir	sen	onn	-	hebbe	-	derscht.
+541953	20,42971236	54,62002257	1962	BERGAU (TZWETKOWO)	1	möd	Wie	sönd	on	-	häbbe	-	därscht.
+541967	20,75395508	54,59520723	1977	FUCHSBERG (SEMￃﾋNOVO)	1	meed	Wie	sön	on	-	häbbe	-	därscht.
+541989	21,02997097	54,6200058	1987	PREGELSWALDE (-)	1	med	Wi	send	onn	-	hebbe	-	dertscht.
+542060	22,50016715	54,62991219	2067	ENSKEMEN (-)	1	med	Wi	send	ön	-	hebbe	-	dorscht.
+535064	22,73599317	54,63812267	2081	EYDTKAU (EYDTKUHNEN)	1	med	Wir	senn	un	-	hebbe	-	derscht.
+541353	21,27474769	54,57882765	2127	KLEIN NUHR (SUKHODOL'YE)	1	med	Wie	sen	on	-	hebbn	-	derscht.
+542122	21,62013419	54,57005281	2135	SKUNGIRREN (PEN'KI)	1	med	Wie	sent	aon	-	hebbe	-	derscht.
+542131	21,88330517	54,51668997	2145	KURSCHEN (KUZ'MINO)	1	möd	Wi	send	on	-	hebbe	-	derscht.
+542154	22,16975911	54,52012092	2161	KALNEN (-)	1	möd	Wie	sönd	onn	-	hebbe	-	dorscht.
+542508	22,42986516	54,5016424	2182	SOGINTEN (SVIRSKOE)	1	med	Wie	sen	uck	-	-	-	därschtig.
+540912	19,67147972	54,46957437	2200	NARMELN (POLSKI)	1	med	Wi	sennd	onn	-	häwen	-	därscht.
+543105	19,84999981	54,46997869	2204	LEYSUHNEN (ￅﾠￄﾌUKINO)	1	möd	Wir	sönn	ann	-	hebbe	-	derscht.
+545946	20,17466577	54,43254804	2216	HERMSDORF (POGRANIￄﾌNYJ)	1	möd	Wi	sönd	onn	-	hebbe	-	därscht.
+545940	20,44948952	54,44766449	2225	MORITTEN (OKTJABRSKOE)	1	möd	Wi	sönn	on	-	hebbn	-	derscht.
+535077	20,70648261	54,44337509	2242	NAUNIENEN	1	möd	Wie	sön	on	-	hebbe	-	derscht.
+547762	22,66645761	54,4857982	2338	WENSLOWISCHKEN (VOZNESENSKOYE)	1	meed	Wie	send	onn	-	hebbe	-	derscht.
+547780	20,99338566	54,40519107	2398	MERTENSDORF (TJOMKINO)	1	med	Wi	sand	on	-	heb	-	derscht.
+547789	21,28673749	54,40141987	2409	TRAUSEN (LIPNYAKI)	1	maid	Wie	sinnt	uonn	-	hiebbe	-	dierscht.
+547807	21,56653326	54,36655007	2426	GROￃﾟ PENTLACK (KAMENKA)	1	möd	Wie	sen	un	-	hebbe	-	durscht.
+547817	21,82957764	54,3617094	2436	KOWARREN (ZAOZERNOYE)	1	möd	Wi	send	on	-	hebbn	-	derscht.
+547834	22,13331286	54,34995769	2452	KLESCHOWEN (KUTUSOWO)	1	möd	Wie	sen	un	-	hebbn	-	dorscht(därscht).
+375013	19,52712	54,32024	2466	TOLKMICKO	1	möd	Wie	sönn	onn	-	heww	-	derscht.
+152242	19,83808	54,29556	2474	PIERZCHALY	1	möd	Wie	sen	on	-	hewwe	-	derscht.
+547844	20,09813884	54,30449343	2482	PETERSWALDE (PIOTROWIEC)	1	möd	Wi	sön	on	-	hebbe	-	derscht.
+153661	20,36688	54,27806	2494	SARUNY	1	möd	Wia	sönd	on	-	hebbe	-	derscht.
+524034	20,66778	54,26158	2507	WOJCIECHY	1	möd	Wie	sönn	on	-	hebbe	-	durscht.
+149290	22,36881	54,311	2586	JURKISZKI	1	möd	Wei	sönn	un	-	höbbe	-	därscht.
+148578	22,66316	54,29125	2602	MACIEJOWIETA	1	möd	Wi	sind	un	-	hebbe	-	derscht.
+149052	20,97559	54,24857	2676	RYGARBY	1	möd	Wie	sön	on	-	hebbe	-	derscht.
+159955	21,22078	54,22234	2691	KOLWINY	1	med	Wi	send	ön	-	hebbe	-	derscht.
+524097	21,52149	54,21336	2703	SROKOWO	1	möhd	Wie	sön	on	-	häbbe	-	därscht.
+152888	21,84831	54,19826	2715	STREGIEL	1	meed	Wij	säm	enn	-	häbbe	-	därscht.
+147123	22,08998	54,1819	2727	BUDZISKA	1	mödh	Wie	sönd	on	-	häbbe	-	därscht.
+149930	22,3755	54,1671	2746	CHELCHY	1	möd	Wi	send	on	-	hebbe	-	derscht.
+370990	19,53293	54,15703	2762	WILKOWO	1	möd	Wie	senn	on	-	hebbe	-	derscht.
+372304	19,82948	54,1413	2781	KARWINY	1	müd	Wör	sein	enn	-	han	-	dorscht.
+160680	20,09633	54,14074	2800	KRZYKALY	1	müd	Wea	sain	un	-	hie	-	derscht.
+162247	20,36457	54,08463	2817	MAWRY	1	med	Wöa	sain	onn	-	hon	-	dährscht.
+160459	20,66023	54,12332	2827	SARNOWO	1	müd	Wea	seinn	unt	-	hohne	-	Durscht.
+149706	20,94413	54,10143	2846	LEDLAWKI	1	miad	Wie	sönn	onn	-	hebbe	-	derscht.
+153681	22,62853	54,10033	2900	BORAWSKIE	1	meed	Wi	sönd	on	ons	-	-	därscht.
+370457	19,46122	53,6373	2906	ZABROWO	1	meid	Wi	sind	un	-	hebbe	-	derscht.
+148723	19,76793	53,66096	2916	STANOWO	1	müd	Wer	sein	on	-	hoube	-	dorscht.
+147607	19,75882	53,49803	2923	FIJEWO	1	müd	Wer	send	und	-	hobe	-	dorst.
+535107	19,98230035	53,32705066	2935	GROￃﾟ KOSCHLAU	1	müd	Werr	sennd	onn	-	haube	-	dorscht.
+162449	19,79497	53,81492	2955	LIKSAJNY	1	müd	Wir	sönd	on	-	hoabe	-	dorscht.
+158754	20,06956	53,7834	2962	MOLZA	1	müde	Wör	sein	on	-	haun	-	durscht.
+370398	20,32869	53,80238	2970	WARKALY	1	müd	Wea	sain	on	-	hon	-	derscht.
+170412	19,4496	53,83722	2996	BUCZNIK	1	müd	Wer	sei	on	-	haben	-	dorscht.
+373035	21,17506	53,91539	3058	ZYNDAKI	1	meed	Wie	send	on	-	hebe	-	derscht.
+524457	19,52713	53,98486	3069	RYCHLIKI	1	müd	Qöe	sond	onn	-	hoate	-	dorscht.
+373009	19,80014	53,96474	3083	CHOJNIK	1	müd	Wä	sein	onn	-	haon	-	dorscht.
+374079	20,07338	53,96624	3093	KSIAZNIK	1	mied	Wie	sein	onn	-	haon	-	durscht.
+372153	20,36658	53,95943	3111	GLOTOWO	1	müd	Wea	sein	on	-	hon	-	derscht.
+150886	20,64327	53,94733	3122	DERC	1	müd	Wea	sein	on	-	hon	-	därscht.
+159092	21,20504	54,0744	3254	JURKOWO	1	med	Wie	sön	on	-	hebbe	-	derscht.
+153053	21,49172	54,03376	3267	POZARKI	1	med	Wie	sen	on	-	hebe	-	derscht.
+158788	22,10641	54,0154	3272	GAWLIKI WIELKIE	1	meed	Wi	sennt	onn	-	häbbe	-	Därscht.
+371988	22,3218	53,99686	3280	SWIETAJNO	1	mehd	Wi	seend	on	-	hebbe	-	darscht.
+522636	21,20448314	55,71965786	3301	BARSCHKEN	1	med	Wie	send	on	-	hebbe	-	darscht.
+522639	21,36403742	55,68662072	3304	DAWILLEN	1	möhd	Wij	sönn	onn	-	häbbe	-	därscht.
+522647	21,28926499	55,59351795	3309	DITTAUEN	1	med	Wi	sönd	un	-	hebe	-	derscht.
+522665	21,48403217	55,55113505	3318	DEEGELN	1	möd	Wi	send	un	-	hebbe	-	derscht.
+535122	20,92690302	55,23177528	3342	PILLKOPPEN	1	möed	Wie	söend	un	-	hebbe	-	derscht.
+522717	21,26894734	55,19209992	3343	KARKELN	1	möd	Wie	sönd	un	-	hebbn	-	derscht.
+522719	21,42381135	55,21041379	3345	DￃﾜNEN (ACKMENISCHKEN)	1	möd	Wie	sänd	on	-	hebbe	-	därscht.
+522727	21,72199295	55,21450357	3351	PLEINE	1	möd	Wi	sönn	onn	-	hebbe	-	derscht.
+522740	22,0268655	55,19542009	3362	CULLMEN-KULKEN	1	meed	Wih	sönd	onn	-	hübe	-	Dürrscht.
+540914	20,85374118	55,15623681	3364	ROSITTEN (RYBACHIY)	1	mehd	Wir	senn	on	-	hebbe	-	därscht.
+522769	22,28508079	55,1405652	3387	SASSENHￃﾖHE (AUGSGIRREN)	1	möd	Wi	send	un	-	hebbn	-	dürscht.
+109286	10,85747	52,07227	3424	BEIERSTEDT	1	meu'e	Wie	sünd	un	-	het	-	Döst.
+106358	10,59503	52,0891	3516	BORNUM	1	meue	Wüe	sind	un	-	hewwet	-	dost.
+121880	11,15611	52,09298	3558	BECKENDORF	1	meue	Wei	sünd	un	-	hewwet	-	döst.
+121079	11,43652	52,09266	3572	DOMERSLEBEN	1	meue	Wie	sind	un	-	hebben	-	Dorrst.
+126882	11,6759	52,10371	3592	PRESTER	1	mede	Wie	sin	und	-	hem	-	dorscht.
+123771	11,98839	52,1129	3609	DALCHAU	1	miede	Wie	sind	un	-	hemm	-	dorscht.
+119140	12,19377	52,10792	3614	SCHWEINITZ	1	miede	Wie	sin	un	-	hahn	-	dorscht.
+119893	12,50581	52,60408	3626	NENNHAUSEN	1	möh	Wi	seid	un	-	hebben	-	dößst.
+125382	12,79568	52,62028	3634	BERGE	1	mühe	Wie	sind	un	-	hebn	-	döst.
+120353	13,04255	52,63911	3639	PAUSIN	1	mühe	Wei	sind	un	-	hebbn	-	dorscht.
+119944	13,31752	52,6149	3649	HERMSDORF	1	mide	Wie	sin	un	-	hebben	-	dorscht.
+126273	13,57455	52,62656	3664	BIRKHOLZ	1	müde	Wir	sind	und	-	hebbn	-	durst.
+122379	13,86407	52,61048	3677	GIELSDORF	1	müde	Wir	sinn	un	-	hebbn	-	dorscht.
+127226	14,14088	52,61704	3688	RINGENWALDE	1	miäde	Wi	sin	un	-	hebbn	-	dorst.
+547887	14,42838597	52,59654716	3703	LEHMANNSHￃﾖFEL	1	miede	Wie	sind	un	-	hebben	-	dorscht.
+547885	14,6799315	52,59997004	3711	WARNICK (WARNIKI)	1	müede	Wi	sind	un	-	hebben	-	dorscht.
+385626	14,95374	52,62138	3722	ZASZCZYTOWO	1	müde	Wir	sin	un	-	hebben	-	dorscht.
+393038	15,18918	52,60977	3744	RUDNICA	1	mide	Wier	sinn	un	-	hoan	-	dorscht.
+123880	12,46028	52,80289	3871	DREETZ	1	möj	Wi	sind	un	-	hebbn	-	dost.
+126978	12,72901	52,77304	3880	BRUNNE	1	möi	Waei	sind	un	-	hebbn	-	Dost.
+121701	13,03193	52,80287	3887	SOMMERFELD	1	möh	Wei	sünd	un	-	hem	-	dost.
+125968	13,2942	52,80213	3896	MALZ	1	möde	Wie	sin	un	-	hem	-	dorst.
+123638	14,10557	52,94874	3901	STOLZENHAGEN	1	müede	Wîe	sind	un	-	hebben	-	Dörscht.
+126204	13,55547	52,78887	3906	PRENDEN	1	müde	Wi	sind	un	-	hebben	-	dorscht.
+126786	13,83613	52,77805	3919	TRAMPE	1	muhde	Wir	sund	und	-	hebben	-	durscht.
+124481	14,14217	52,78127	3931	NEUREETZ	1	mede	Wie	sind	un	-	hübbn	-	dorrscht.
+147579	14,46705	52,76029	3944	KURZYCKO	1	miede	Wir	sinn	un	-	hebben	-	dorscht.
+150736	14,6936	52,787	3949	GRZYMIRADZ	1	müede	Wie	sind	un	-	hebben	-	dorscht.
+531341	14,94817	52,78026	3957	LUBISZYN	1	mede	Wie	sin	un	-	hebben	-	dorscht.
+535125	15,20762904	52,77160384	3965	HEINERSDORF	1	miede	Wei	sind	un	-	hebben	-	dorscht.
+122057	12,45354	52,93648	4081	BANTIKOW	1	möj	Wi	sünd	un	-	hemmen	-	döst.
+123847	12,74485	52,92901	4093	KRￃﾄNZLIN	1	mög	Wie	sind	un	-	hem	-	dost.
+123243	13,01943	52,93953	4102	SEEBECK	1	möh	Wie	sind	und	-	hemm	-	dörscht.
+124119	13,28074	52,96653	4112	KLEIN-MUTZ	1	möge	Wi	sinn	un	-	hebbn	-	dest.
+124065	13,52861	52,99313	4119	GROSS DￃﾖLLN	1	möd	Wi	sind	unn	-	hebben	-	dorscht.
+119544	13,85918	52,933	4123	SENFTENHￃﾜTTE	1	mejde	Wie	sinn	un	-	hebben	-	dörscht.
+152474	14,35655	52,94545	4142	STOKI	1	möh	Wie	sin	und	-	hebn	-	dorscht.
+372358	14,65982	52,93143	4152	STOLECZNA	1	mihr	Wie	sind	un	-	häbben	-	dorscht.
+158956	14,92963	52,96688	4161	GLAZOW	1	möj	Wie	sinn	un	-	hebbn	-	Dörscht.
+161296	15,23687	52,94023	4171	OKUNIE	1	möd	Wi	sin	un	-	hebben	-	dorst.
+126041	12,53709	52,46053	4293	BRIELOW	1	möhe	Wi	sind	un	-	hebb'n	-	dörscht.
+118345	12,77535	52,44648	4306	DEETZ	1	müed	Wie	sind	un	-	hebben	-	dorst.
+118018	13,01356	52,46797	4321	FAHRLAND	1	müe	Wie	sind	und	-	hebben	-	dörscht.
+118092	13,31884	52,45754	4329	STEGLITZ	1	mude	Wi	sind	un	-	habben	-	dörst.
+547967	13,57597707	52,44726789	4338	KￃﾖPENICK-KIETZ	1	mide	Wie	sind	und	-	hebben	-	duscht.
+125818	13,85729	52,48105	4347	HERZFELDE	1	müede	Wie	sin	un	-	hebben	-	dorscht.
+123040	14,16203	52,44962	4357	TEMPELBERG	1	müde	Wir	sind	und	-	hoben	-	durscht.
+126566	14,37014	52,44265	4364	DￃﾖBBERIN	1	müde	Wie	sinn	un	-	hebben	-	dersch.
+391717	14,66362	52,45044	4377	PAMIECIN	1	miede	Wei	sinn	u	-	häbben	-	dorscht.
+392165	14,93236	52,42916	4388	GRABNO	1	müd	Wir	sind	u	-	hoin	-	dorst.
+388117	15,25601	52,43521	4400	TRZEMESZNO LUBUSKIE	1	müde	Wir	sei	un	-	han	-	dorscht.
+127119	12,46878	52,2815	4521	WOLLIN	1	müede	Wie	sind	un	-	hebbn	-	dörscht.
+121241	12,74891	52,28544	4527	RￃﾄDEL	1	müede	Wi	sind	un	-	hem	-	dörscht.
+127181	13,06389	52,28482	4539	WILDENBRUCH	1	müede	Wie	sind	un	-	hebben	-	dörst.
+126556	13,31588	52,29388	4549	LￃﾖWENBRUCH	1	müäde	Wei	sin	un	-	hebben	-	dörscht.
+520748	13,58802	52,29504	4560	DEUTSCH WUSTERHAUSEN	1	mude	Wei	sin	und	-	hebben	-	derscht.
+123743	14,09297	52,30323	4573	NEU GOLM	1	müde	Wei	sin	un	-	hebben	-	durscht.
+126348	14,43839	52,28346	4584	HOHENWALDE	1	mide	Wir	seien	un	-	hebben	-	durscht.
+364652	14,65486	52,26578	4590	KUNICE	1	müde	Wai	sin	un	-	hebben	-	dorst.
+387340	14,92745	52,28483	4595	MIERCZANY	1	mide	Wir	sin	un	-	hunn	-	dorscht.
+391775	15,26046	52,26456	4603	TOPOROW	1	müde	Bir	sein	u	-	hoan	-	durscht.
+124312	13,88034	52,28599	4608	ALT STAHNSDORF	1	müede	Wei	sin	un	-	hebben	-	durscht.
+120553	12,51771	52,13159	4727	KLEIN GLIEN	1	müöde	We	sin	un	-	hänn	-	dorscht.
+119274	12,78651	52,11314	4738	NIEDERWERBIG	1	müäde	Wei	sin	un	-	hähn	-	dörscht.
+121408	13,024	52,1175	4749	ZￃﾜLICHENDORF	1	müede	Weig	sin	un	-	hänn	-	derscht.
+127210	13,27178	52,10773	4761	SCHￃﾖNEWEIDE	1	miede	We	sinn	un	-	hän	-	derscht.
+121359	13,58801	52,13116	4770	EGSDORF	1	miede	Wei	sin	un	-	hähn	-	derscht.
+118933	13,81765	52,11735	4776	BIRKHOLZ	1	miede	Wir	sinn	un	-	hebben	-	Durscht.
+121239	14,12444	52,10684	4789	BRIESCHT	1	mide	Wir	sin	und	-	hebben	-	durscht.
+122419	14,38034	52,11292	4800	GROSS BRIESEN	1	müde	Wir	sin	und	-	hebben	-	durst.
+389787	14,70338	52,1319	4813	KLOPOT	1	miede	Wir	sin	un	-	hoan	-	durscht.
+531406	14,96435	52,1209	4824	RADOMICKO	1	müde	Merr	sind	und	-	haben	-	Durst.
+531233	15,22954	52,08252	4832	RADNICA	1	müde	Bir	sein	und	-	hon	-	durscht.
+386409	15,49242	52,12575	4950	PALCK	1	mühd	Bir	sain	und	-	hauhn	-	durscht.
+388623	15,76848	52,10724	4965	STARE KRAMSKO	1	müde	Wir	sein	und	-	hon	-	durst.
+374557	15,99102	52,11557	4968	ZODYN	1	müde	Bier	sain	und	-	huan	-	durst.
+376020	16,27073	52,09524	4980	TARNOWA	1	müd	Brr	sain	und	-	hoan	-	durscht.
+386488	15,50045	52,27172	5031	LUGOW	1	müd	Wir	sein	und	-	hon	-	durst.
+161276	16,29936	52,27187	5056	BIALA WIES	1	mied	Bier	sain	und	-	huan	-	dürst.
+371330	16,06838	52,22589	5091	BORUJA	1	müd	Wir	sem	un	-	hohn	-	durst.
+386879	15,49407	52,46538	5122	GORZYCA	1	mide	Wir	sind	u	-	habbn	-	durst.
+364952	15,73422	52,43536	5130	RANSKO	1	mid	Wir	sein	und	-	hon	-	durst.
+371464	16,0794131	52,42180477	5139	GRUDNA	1	müde	Wir	sind	und	-	hoben	-	durscht.
+374041	16,28958	52,43847	5141	BRODY	1	müd	Wir	sind	und	-	hoben	-	durscht.
+372624	17,38455	52,39588	5203	NEKIELKA	1	müd	Wie	sin	o	-	hebä	-	dost.
+531352	15,50421	52,59839	5210	SKWIERZYNA	1	mide	Wir	sinn	unn	-	hom	-	durscht.
+366790	15,76797	52,62954	5214	KROBIELEWO	1	mide	Wer	send	und	-	hohn	-	durscht.
+170297	16,01367	52,57974	5259	PRUSIM	1	miede	Wir	sind	und	-	hoben	-	durst.
+153325	16,57968	52,57107	5271	PRZYBOROWKO	1	müde	Bir	sin	und	-	hoben	-	Durscht.
+170301	17,1064	52,57329	5277	GLEBOCZEK	1	möd	Wi	sin	o	-	hebbe	-	dost.
+390322	15,49686	52,7877	5291	GORKI NOTECKIE	1	möd	Wie	sin	un	-	hebbn	-	dorscht.
+531385	15,82514	52,78224	5305	RAPIN	1	mehde	Wi	sinn	unn	-	hebben	-	dorscht.
+531137	16,05691	52,79024	5315	PILKA	1	möde	Wi	sen	un	-	hebbe	-	dost.
+150011	16,29826	52,76573	5316	RZECIN	1	möd	Wie	sin	un	-	hebo	-	dost.
+370615	16,59704	52,77659	5322	TARNOWKO	1	möd	Wi	sin	oh	-	hebbo	-	döst.
+535201	17,43005305	52,73629599	5374	GROￃﾟ GOLLE (GOLASZEWO)	1	müd	Wi	sind	o	-	häbbe	-	dost.
+389311	15,52076	52,95685	5386	LUBICZ	1	mög	Wie	sind	o	-	häbbe	-	döst.
+390801	15,77898	52,93321	5397	SLONOW	1	möd	Wie	sinn	o	-	hebbe	-	dorscht.
+371083	16,06064	52,92128	5402	HUTA SZKLANA	1	möüd	Wie	sinn	unn	-	hebbö	-	döst.
+543436	16,33038893	52,91989184	5409	MARIENBUSCH	1	möid	Wi	sinn	o	-	häbba	-	Dôst.
+373190	16,9233	52,91973	5421	OSTROWKI	1	möd	Wie	sin	a	-	häbe	-	dost.
+374965	16,61572	52,90771	5491	BRZEZNO	1	müd	Wie	sind	o	-	hebo	-	Dost.
+137919	10,3857	51,04366	5519	BERKA V. D. HAINICH	1	möde	Mu	sond	on	-	honn	-	darst.
+136723	10,68004	51,08197	5717	ILLEBEN	1	miede	Me	sin	on	-	han	-	dorscht.
+138006	10,93045	51,11506	5730	GEBESEE	1	miëde,	Mi	sinn	o	-	haonn	-	Dorscht.
+139545	11,21707	51,09189	5752	THALBORN	1	miede	Wir	sen	on	-	hann	-	dorscht.
+138041	11,47092	51,09456	5774	NIRMSDORF	1	miede	Mr	hun	on	-	hon	-	dorscht.
+125252	11,73675	51,10759	5810	CRￃﾖLPA-LￃﾖBSCHￃﾜTZ	1	müde	Merr	sinn	unn	-	hunn	-	dorscht.
+119718	11,98998	51,12268	5827	KRￃﾖSSULN	1	miede	Mr	sin	un	-	hun	-	darscht.
+142787	12,28344	51,10735	5863	MICHELWITZ	1	miede	Mer	sin	-	mer	han	-	dorscht.
+138300	10,38309	51,23721	5867	HOLLENBACH	1	miede	Mie	sinn	un	-	han	-	dorst.
+141152	10,65515	51,24724	5875	SCHLOTHEIM	1	müde	Wir	sin	und	-	hahn	-	durst.
+138268	10,94926	51,24899	6074	OBERTOPFSTEDT	1	mäide	Me	sinn	unn	-	hann	-	Dorscht.
+140306	11,17566	51,26229	6089	ETZLEBEN	1	mede	Meh	sei	un	-	han	-	dorscht.
+122562	11,44421	51,25372	6105	ALLERSTEDT	1	miede	Mir	sinn	un	-	hunn	-	dorscht.
+117964	11,72101	51,25779	6116	GLEINA	1	mide	Wir	sinn	un	-	hun	-	dorscht.
+543484	11,95713904	51,27790491	6129	KLEINKAYNA/KLEINKAINA	1	mide	Mir	sin	und	-	habn	-	dorscht.
+138989	12,27689	51,27301	6168	REHBACH	1	miede	Wir	sin	und	-	haben	-	duest.
+141207	10,10111	51,40024	6171	MENGELRODE	1	miede	Me	sinn	un	-	han	-	dost.
+141829	10,39571	51,41182	6185	KIRCHWORBIS	1	mide	Mir	sei	un	-	han	-	dorscht.
+142908	10,64567	51,41729	6196	GROSSWENDEN	1	miede	Wie	sin	un	-	hann	-	dorscht.
+137795	10,92771	51,42579	6341	AULEBEN	1	miede	Me	sinn	unn	-	hahn	-	dorscht.
+124263	11,20275	51,41916	6359	HACKPFￃﾜFFEL	1	mide	Wi	sinn	un	-	hahn	-	dorscht.
+122221	11,46135	51,43458	6371	MITTELHAUSEN	1	miede	Mir	sinn	unn	-	han	-	dorscht.
+119979	11,68367	51,44174	6388	STEDTEN	1	mide	Mr	sin	un	-	han	-	durscht.
+125213	11,98661	51,42541	6400	AMMENDORF	1	mide	Mir	sin	un	-	han	-	dorscht.
+142404	12,22255	51,44566	6418	GLESIEN	1	mide	Wir	sin	un	-	han	-	dorscht.
+141736	10,38059	51,55126	6426	ZWINGE	1	mäuh	Wir	sind	un	-	hewet	-	dost.
+124966	10,95504	51,57345	6472	STOLBERG (HARZ)	1	müde	Mie	sin	un	-	han	-	durst.
+106248	10,61756	51,58536	6577	WALKENRIED	1	mide	Mie	sinn	un	-	han	-	dorscht.
+121263	11,20169	51,60088	6593	KￃﾖNIGERODE	1	meede	Me	sinn	un	-	ham	-	dorschd.
+126483	11,43281	51,60078	6610	VATTERODE	1	mide	Mr	sin	un	-	han	-	durscht.
+122388	11,70461	51,60497	6630	FREIST	1	midi	Wir	sind	un	-	han	-	dorst.
+121258	11,96531	51,60326	6656	DREHLITZ	1	mide	Mer	sin	un	-	han	-	Dorscht.
+126588	12,27636	51,76097	6660	MￃﾖST	1	mied	M'r	sen	un	-	hann	-	Durscht.
+126052	12,23652	51,61112	6682	RAMSIN	1	mide	Mr	sinn	unn	-	hann	-	dorscht.
+108222	10,6105	51,72785	6690	BRAUNLAGE	1	meude	Mei	sind	un	-	hem	-	dorscht.
+120184	11,16773	51,73322	6705	RIEDER	1	meue	Wei	sin	un	-	hewwn	-	dorscht.
+105245	10,38537	51,75371	6793	RIEFENSBEEK	1	mai'e	Wie	ßind	un	-	hewwet	-	dost.
+123705	10,87365	51,75284	6801	NEUWERK	1	meuhe	Wei	sind	und	-	hemm	-	dorscht.
+120759	11,46082	51,75833	6821	ASCHERSLEBEN	1	meude	Wei	sin	un	-	han	-	dorst.
+119265	11,69886	51,76418	6831	GRￃﾖNA	1	mide	M'r	sinn	un	-	hann	-	dorscht.
+121031	11,9767	51,78113	6848	ELSDORF	1	mide	Wir	sinn	und	-	hann	-	dorscht.
+126680	10,88689	51,91415	6891	DANSTEDT	1	mäue	Wei	sind	un	-	het	-	döst.
+126770	10,62543	51,92932	6960	ABBENRODE	1	meue	Wei	sind	un	-	het	-	Dorss.
+121814	11,13702	51,92874	6981	EMERSLEBEN	1	meuhe	Wei	sünd	un	-	heit	-	dörst.
+126323	11,42586	51,94131	6995	EGELN	1	meue	Wei	sin	un	-	häbben	-	Dorscht.
+118795	11,67388	51,94703	7007	EICKENDORF	1	meude	Wei	sin	un	-	hebben	-	Dorscht.
+118001	11,97232	51,95485	7022	KￃﾄMERITZ	1	müede	Wei	sin	un	-	hän	-	Dorst.
+118575	12,23114	51,95654	7033	NATHO	1	müere	Wä	sin	un	-	hän	-	dorscht.
+136932	12,51198	51,43433	7180	LIEMEHNA	1	miede	Wir	sian	unn	-	hamm	-	dorscht.
+138513	12,78179	51,45308	7198	RￃﾖCKNITZ	1	miede	Mr	sinn	onn	-	hann	-	dorscht.
+136827	13,05749	51,43354	7212	LAUSA	1	mide	Miär	sinn	un	-	hann	-	Durscht.
+122425	13,33731	51,45449	7225	KOSILENZIEN	1	müde	Bär	sein	und	-	honn	-	dorscht.
+119127	13,56632	51,46966	7246	KAHLA	1	müde	Mir	sin	un	-	han	-	durscht.
+126021	13,86415	51,45586	7253	RUHLAND	1	miede	Wir	sind	und	-	haben	-	dorscht.
+137430	14,10951	51,46191	7263	LAUTA	1	müde	Wir	sind	und	-	haben	-	durscht.
+125816	12,51328	51,61265	7363	BRￃﾖSA	1	müde	Mer	sin	un	-	han	-	Dorscht.
+142075	12,76792	51,61385	7371	FALKENBERG	1	mide	Mir	sin	un	-	han	-	dorscht.
+138298	13,03894	51,5997	7384	ROSENFELD	1	mide	Mer	sin	un	-	han	-	dorst.
+122395	13,31865	51,63101	7394	WIEDERAU	1	mide	Mär	sinn	un	-	hon	-	dorscht.
+118629	13,59641	51,61058	7412	LUGAU	1	mide	Wir	sin	un	-	hon	-	durscht.
+122734	13,86232	51,60726	7427	DOLLENCHEN	1	müde	Wir	sinn	und	-	hobben	-	durst.
+543583	14,16587394	51,61108465	7435	PETERSHAIN/NEUPETERSHAIN	1	müde	Wir	sind	und	-	hoben	-	durst.
+125784	12,4885	51,7859	7529	SCHLEESEN	1	müde	Wir	sin	un	-	han	-	dorscht.
+123013	12,7859	51,78702	7546	BLEDDIN	1	miede	Mr	sin	un	-	han	-	dorscht.
+119715	13,04784	51,78178	7562	KLOSSA	1	mide	Wir	sinn	un	-	honn	-	dorscht.
+118432	13,31619	51,77761	7576	WERCHAU	1	miede	Wie	sinn	unn	-	hoan	-	dorscht.
+543614	13,6283813	51,77774322	7586	WENDISCH DREHNA/WALDDREHNA	1	müde	Wei	sin	un	-	hon	-	derst.
+118560	13,82084	51,80669	7596	SCHLABENDORF	1	müde	Wir	sin	u	-	hon	-	durscht.
+121742	12,59595	51,95429	7688	STRAACH	1	müde	We	sinn	un	-	hän	-	Dörst
+119978	12,78451	51,94368	7696	RAHNSDORF	1	mide	We	sin	un	-	hann	-	Dorscht.
+122350	13,04399	51,96498	7710	ROHRBECK	1	schlaprig	Wai	sin	un	-	hän	-	derscht.
+121832	13,32707	51,95556	7721	WAHLSDORF	1	müede	Wei	sin	un	-	hebben	-	dörscht.
+124353	13,55801	51,94857	7732	HOHENDORF	1	müede	Wei	sin	un	-	hon	-	dörscht.
+120005	13,85842	51,9372	7747	TREPPENDORF	1	mide	Wir	sin	und	-	hean	-	durscht.
+120074	14,11383	51,94887	7758	SACROW	1	miede	Wir	sin	und	-	hon	-	durscht.
+140523	12,51358	51,10431	7964	ZEDTLITZ	1	müde	Mr	sinn	un	-	hunn	-	durst.
+139874	12,78682	51,11829	7979	HOHNBACH	1	müde	Mir	sin	un	-	hun	-	durscht.
+139074	13,05727	51,10477	8011	ZIEGRA	1	müde	Mer	sinn	un	-	hoan	-	durscht.
+137148	13,31541	51,10915	8032	RAUSSLITZ	1	mide	Mähr	sinn	unn	-	hoam	-	durscht.
+141724	13,58038	51,12525	8055	COSWIG	1	mide	Mer	sin	und	-	han	-	duost.
+138748	13,84034	51,12603	8075	LANGEBRￃﾜCK	1	müde	Mur	sein	und	-	honn	-	durscht.
+137939	14,107	51,13087	8092	FRANKENTHAL	1	müdr	Wer	sein	u	-	han	-	dorscht.
+137200	12,53059	51,28331	8272	FUCHSHAIN	1	miade	Mr	sein	un	-	haan	-	durscht.
+142820	12,7893	51,27082	8289	NERCHAU	1	miede	Mer	sin	un	-	hem	-	durschd.
+137817	13,05875	51,26277	8305	LIMBACH	1	mide	Mir	sin	un	-	hon	-	durscht.
+141352	13,31305	51,28693	8321	MERGENDORF	1	mide	Mer	sin	un	-	ham	-	durschd.
+140224	13,58547	51,2829	8345	ROSTIG	1	müde	Meer	sein	uns	-	ham	-	durscht.
+543764	13,85316702	51,29946865	8358	STEINBORN	1	mied	Mir	sein	und	-	hon	-	durscht.
+543765	14,09490462	51,28869546	8368	BERNBRUCH	1	müde	Wir	sein	und	-	hon	-	dorscht.
+142126	14,34726	51,12303	8505	DRETSCHEN	1	müde	Mir	sein	und	-	hoam	-	durscht.
+141158	14,67613	51,12741	8519	KITTLITZ	1	müde	Mier	sein	und	-	hen	-	durscht.
+139416	14,93607	51,11776	8532	KUNNERWITZ	1	miede	Mer	sein	u	-	hon	-	durscht.
+530102	15,19656	51,11864	8546	SIEKIERCZYN	1	miede	Mier	sein	und	-	hoam	-	Durscht.
+386141	15,43317	51,10708	8560	WOLBROMOW	1	mihd	Wirr	sein	an	-	hoan	-	durscht.
+369013	15,68805	51,10711	8574	PIESZKOW	1	müde	Mrr	sänn	und	-	honn	-	durst.
+391722	15,98401	51,11183	8590	PRUSICE	1	müode	Mier	sein	und	-	honn	-	dueschd.
+369595	16,24098	51,11235	8614	OGONOWICE	1	müde	Mer	seia	und	-	houhn	-	durst.
+140858	14,66211	51,29773	8716	FￃﾖRSTGEN	1	müde	Wir	sind	u	-	haben	-	durscht.
+543818	14,89083036	51,28703006	8726	OBER HORKA I	1	müde	Bier	sein	und	-	hoan	-	durscht.
+530136	15,19505	51,30306	8736	WEGLINIEC	1	mide	Wir	sein	und	-	hom	-	durscht.
+364524	15,42643	51,2588	8740	KIERZNO	1	müde	Mir	sein	u	-	hoan	-	durst.
+388056	15,71788	51,27884	8751	SZCZYTNICA	1	müde	Mir	sein	und	-	hon	-	durst.
+543820	15,98045549	51,27846389	8762	GￃﾖLLSCHAU (GOLISZￃﾓW)	1	müde	Mir	sein	und	-	hon	-	durscht.
+390434	16,25635	51,25926	8777	BIENIOWICE	1	müde	Mir	senn	und	-	hon	-	Durscht.
+139636	14,95724	51,45415	8852	KLEIN PRIEBUS	1	miede	Ber	sein	und	-	honn	-	durscht.
+386999	15,18868	51,43756	8858	OKRAGLICA	1	mide	Wir	sein	und	-	hoan	-	durscht.
+543832	15,48264456	51,43310559	8865	KOBERBRUNN	1	müde	Berr	sähn	und	-	hohn	-	durst.
+543833	15,71948637	51,4302282	8870	ARMADEBRUNN (STUDZIANKA)	1	miede	Wir	sehn	und	-	hoan	-	durscht.
+390650	16,00948	51,43246	8878	TRZMIELOW	1	müd	Wir	seiin	und	-	huan	-	durscht.
+386729	16,26255	51,43001	8888	SKLADOWICE	1	müde	Ber	sehn	und	-	huon	-	durst.
+118491	14,36	51,59	8972	CANTDORF	1	med	Mer	sein	on	-	han	-	Durscht.
+534376	14,63221067	51,60563723	8981	EICHWEGE	1	müde	Wir	sein	u	-	hoben	-	durscht.
+365855	14,90436	51,61006	8990	JEDRZYCHOWICE	1	mude	Wir	sind	und	-	hoahn	-	durst.
+543937	15,16987967	51,61973858	9000	KUNZENDORF (KUNICE)	1	mide	Mir	sein	und	-	hoan	-	durscht.
+392376	15,4704	51,58678	9015	CHICHY	1	mide	Ber	senn	und	-	hoan	-	durscht.
+390277	15,75605	51,60524	9025	PRZECLAW	1	miade	B'r	sean	und	-	hoan	-	durscht.
+391646	15,99977	51,60773	9036	JAKUBOW	1	mied	Ber	senn	und	-	hoan	-	durscht.
+388464	16,26765	51,58761	9052	RZECZYCA	1	müd	Ber	sche	und	-	huan	-	durst.
+535252	14,66128553	51,8062894	9143	MEHLEN	1	miede	Mer	sind	und	-	honn	-	Dorscht.
+392899	14,93595	51,77136	9152	DLUZEK	1	miede	Wir	sein	und	-	hon	-	durscht.
+367199	15,17201	51,77065	9163	BIALOWICE	1	miede	Bier	sein	un	-	hogn	-	durscht.
+385599	15,48949	51,78231	9179	BRONISZOW	1	mied	Berr	senn	und	-	huon	-	durscht.
+543949	15,72928974	51,77941728	9193	ALT TSCHAU (STARE ￅﾻABNO)	1	mide	Beer	senn	und	-	huan	-	durscht.
+388441	16,01584	51,78478	9200	GROCHOWICE	1	müde	Beier	senn	und	-	huan	-	durst.
+389460	16,27408	51,77898	9207	KONRADOWO	1	müd	Bär	sen	und	-	huan	-	durscht.
+120931	14,41135	51,98506	9274	STAAKOW	1	müde	Wir	sin	un	-	hoaben	-	durscht.
+543954	14,67542244	51,9335877	9280	KALTENBORN	1	mide	Miär	sin	und	-	huon	-	dorscht.
+364631	14,95651	51,95783	9288	CZEKLIN	1	müde	Wir	sein	und	-	hon	-	durscht.
+389225	15,20444	51,93591	9303	LUBIATOW	1	mide	Bier	sain	und	-	hoam	-	durst.
+387245	15,51036	51,93807	9314	ZIELONA GORA	1	miede	Ber	sein	und	-	hon	-	durscht.
+391935	15,71651	51,95163	9323	ZABOR	1	müde	Bēr	sind	und	-	houn	-	Durscht.
+531517	16,03727	51,94758	9335	CIOSANIEC	1	müd	Beir	sein	und	-	huan	-	durscht.
+392177	17,31217	51,05066	9400	MILOSZYCE	1	müde	Wir	sein	und	-	hoaben	-	durst.
+535266	17,56127862	51,05371925	9417	PRIETZEN	1	mide	Bir	sein	und	-	hoan	-	durscht.
+392458	16,50134	51,08371	9433	UJAZD GORNY	1	müde	Mr	sein	und	-	ham	-	durscht.
+389835	16,74042	51,07689	9453	LISOWICE	1	mede	Ber	senn	und	-	hoan	-	derscht.
+392233	17,04316	51,23316	9558	LIGOTA PIEKNA	1	mide	Bair	senn	un	-	hoahn	-	durscht.
+370178	17,322	51,22894	9579	JENKOWICE	1	mide	Bier	sem	und	-	hom	-	durst.
+365310	17,57153	51,21449	9592	JEMIELNA	1	müde	Wir	senn	und	-	hobn	-	durst.
+389023	16,50879	51,25619	9612	PRAWIKOW	1	müde	Beir	seen	und	-	hoan	-	durscht.
+364704	16,7752	51,25426	9622	WARZYNA	1	müde	Beir	senn	und	-	hoan	-	durscht.
+385941	17,05219	51,40808	9717	DOMANOWICE	1	müde	Beire	senn	und	-	hoan	-	durst.
+368774	17,57838	51,40108	9739	KAMIEN	1	müde	Wir	sind	und	-	heben	-	durst.
+388848	16,51092	51,438	9760	KRZELOW	1	müde	Wr	sen	und	-	hoan	-	durst.
+366379	16,77667	51,4305	9775	STASZOWICE	1	müde	Beir	säin	und	-	huan	-	durst.
+388384	17,29826	51,41491	9799	LAZY WIELKIE	1	müde	Mir	seen	und	-	hoan	-	durscht.
+385609	17,33355	51,56366	9848	GODNOWA	1	-	Beir	seän	und	-	hoan	-	durscht.
+389320	16,53132	51,74321	9877	CHROSCINA	1	müd	Bäo	sen	und	-	huan	-	durscht.
+375568	16,79762	51,73416	9891	GOSCIEJEWICE	1	müde	Wir	sin	un	-	hun	-	durscht.
+535278	17,61335182	51,71625601	9903	SONNENFELD (ORPISCHEWO)	1	miede	Beier	seen	und	-	huon	-	durscht.
+368804	16,56898	51,59431	9919	WIERZOWICE MALE	1	müde	Beir	senn	und	-	hon	-	durscht.
+389263	16,74839	51,5893	9926	WODNIKI	1	müde	Beer	senn	und	-	hoan	-	durst.
+375993	16,52972	51,91222	9984	MORKOWO	1	müd	Berr	sehn	und	-	huon	-	durst.
+94965	6,34277	50,06311	10029	RINGHUSCHEID	1	mid	Mir	se	oan	-	han	-	dugscht.
+95722	6,58295	50,04663	10044	MALBERG	1	mohd	Mir	sei	un	-	ham	-	duhscht.
+99147	6,84042	50,09033	10215	PANTENBURG	1	müd	Me	sä	un	-	han	-	duscht.
+97954	7,07928	50,09451	10230	BEUREN	1	med	Mir	sei	un	-	he	-	duscht.
+98462	7,34404	50,10303	10259	MÖRSDORF	1	met	Mai	seu	und	-	hon	-	dorscht.
+94920	7,633	50,12291	10275	BADENHARD	1	mid	Mir	sen	un	-	hon	-	durst.
+95227	7,88739	50,1322	10300	WELTEROD	1	mejd	Mir	senn	un	-	hon	-	dorscht.
+96664	8,14118	50,13996	10315	BLEIDENSTADT	1	mid	Merr	sinn	unn	-	hunn	-	dorscht.
+11144	6,05347	50,20267	10335	ESPELER	1	mid	Mirr	sinn	und	-	han'n	-	duscht.
+95212	6,31001	50,22124	10351	BRANDSCHEID	1	möd	Mer	senn	un	-	han	-	durscht.
+97121	6,55753	50,21722	10368	BÜDESHEIM	1	meed	Mer	sinn	un	-	haon	-	Douscht.
+97404	6,7955	50,23069	10381	WALDKÖNIGEN	1	möhd	Mer	seni	en	-	hon	-	dohscht.
+95268	7,0778	50,26048	10584	KALENBORN	1	möd	Mir	seun	un	-	han	-	duscht.
+96687	7,34445	50,2728	10601	GAPPENACH	1	med	Mer	sein	on	-	han	-	Durscht.
+101126	7,61816	50,28044	10621	RHENS	1	möd	Mir	sein	on	-	honn	-	durscht.
+96321	7,87712	50,29247	10649	ATTENHAUSEN	1	miädi	Wiär	si	u	-	hei	-	Durscht.
+94966	8,10998	50,31601	10663	HERINGEN	1	mäid,	Mer	sen	-	mer	hun	-	dorscht.
+11763	6,28038	50,38149	10690	HONSFELD	1	möd	Mer	se	on	-	han	-	duscht.
+135306	6,54324	50,3815	10697	DAHLEM	1	möd	Mer	se	on	-	han	-	dusch.
+95727	6,80584	50,41498	10709	AREMBERG	1	möd	Mir	sen	on	-	han	-	durscht.
+96260	7,05945	50,41231	10736	HOHENLEIMBACH	1	möd	Mr	sein	on	-	han	-	durscht.
+100720	8,54797	50,9931	10857	HATZFELD (EDER)	1	mire	Wer	sei	un	-	hüh	-	dorscht.
+542256	10,4237421	50,7188194	10974	HAINDORF	1	möüd	Mäi	sen	on	-	hon	-	duhrst.
+542173	10,72904373	50,77061604	11132	SCHWARZWALD	1	müade	Mia	sinn	an	-	han	-	dorscht.
+139789	10,96938	50,75547	11149	WIPFRA	1	miede	Me	sinn	oan	-	honn	-	dorscht
+136781	11,22809	50,76235	11180	REMDA	1	mide	Me	sinn	onn	-	ham	-	dorscht.
+141792	11,50488	50,7536	11197	ZEUTSCH	1	müde	Mer	sin	un	-	hun	-	durscht.
+142209	11,73363	50,77235	11212	BREITENHAIN	1	müde	Mer	sin	un	-	hon	-	dorscht.
+139629	12,01318	50,78588	11230	BURKERSDORF	1	müde	Mr	sin	un	-	hobn	-	durst.
+139540	12,24437	50,77289	11252	SEELINGSTￃﾄDT	1	müh	Mir	sind	und	-	han	-	darscht.
+142683	10,42573	50,91165	11262	SEEBACH	1	müide	Mehi	sin	un	-	han	-	dorscht.
+138852	10,68407	50,91991	11467	BOILSTￃﾄDT	1	müede	Müh	sinn	un	-	hann	-	dorscht.
+142811	10,93186	50,92027	11485	INGERSLEBEN	1	miede	Mie	sinn	on	-	hon	-	dorscht.
+139765	11,20701	50,91984	11515	GUTENDORF	1	miede	Mi	sinn	on	-	honn	-	dorscht.
+138476	11,46177	50,93317	11539	KLEINSCHWABHAUSEN	1	mide	Mr	sen	on	-	hun	-	dorscht.
+136839	11,74837	50,93578	11568	THALBￃﾜRGEL	1	mide	Mer	sin	on	-	hun	-	dorscht.
+138178	12,01155	50,92981	11586	BAD KￃﾖSTRITZ	1	mide	Me	sin	un	-	him	-	dorscht.
+141924	12,26812	50,94846	11607	LUMPZIG	1	mide	M'r	sin	un	-	hunn	-	dorscht.
+88799	10,74168	50,23953	11645	GLEISMUTHHAUSEN	1	med	Mer	senn	un	-	ham	-	duäscht.
+92402	11,20975	50,24786	11673	MITWITZ	1	müd	Wie	sin	und	-	hatn	-	durscht.
+79021	10,4955	50,24929	11763	AUB	1	müed	Mer	sen	un	-	hom	-	durscht.
+85535	11,00025	50,2494	11805	SEIDMANNSDORF	1	müd	M'r	sen	und	-	hemm	-	durscht.
+81384	11,47316	50,26759	11825	WALLENFELS	1	mü	Wie	sin	und	-	hobm	-	duost.
+84316	11,76361	50,27631	11844	NEUDORF	1	meih	Mir	senn	und	-	ham	-	dorscht.
+87879	12,0103	50,28274	11864	DRAISENDORF	1	müh	Mer	senn	und	-	hann	-	durscht.
+141286	12,28319	50,27688	11881	SOHL	1	möi	Ma	sen	u	-	han	-	Durscht.
+142488	10,49026	50,41091	11896	SￃﾜLZDORF	1	müd	Mr	senn	on	-	hon	-	durscht.
+138479	10,97928	50,40853	11927	BACHFELD	1	müed	M'r	senn	un	-	heb'm	-	duest.
+141347	10,73533	50,42423	12037	HILDBURGHAUSEN	1	müd	M'r	sen	un	-	ham	-	dorscht.
+140391	11,24222	50,44197	12070	NEUENBAU	1	müd	Mir	senn	und	-	ham	-	duest.
+136850	11,50062	50,42866	12085	GRUMBACH	1	mih	Mir	saien	unn	-	ham	-	dorscht.
+138073	11,76687	50,44079	12104	FRￃﾖSSEN	1	meöh	Wir	sänn	und	-	hamm	-	dorscht.
+142268	12,0079	50,43389	12125	SCHWAND	1	mieh	Merr	sänn	unn	-	hamm	-	dorscht.
+140507	12,28579	50,43672	12148	KOTTENGRￃﾜN	1	müh	Wer	sin	un	-	habm	-	duersch.
+137045	10,41715	50,57103	12153	MEININGEN	1	mid	Mr	senn	unn	-	henn	-	Durst.
+137465	10,71167	50,55906	12167	ALTENDAMBACH	1	müd	Wir	senn	o	-	hon	-	duöst.
+137776	10,96068	50,56467	12184	ALTENFELD	1	med	Mer	sen	un	-	hon	-	duhsscht.
+142205	11,21968	50,60225	12341	ROHRBACH	1	müde	Mieh	sin	un	-	hon	-	dorscht.
+542249	11,47786231	50,58586587	12371	ST. JACOB BEI LEUTENBERG	1	mide	Mir	sin	un	-	hon	-	dorscht.
+136605	11,76828	50,60092	12390	NEUNDORF (BEI SCHLEIZ)	1	möih	M'r	sen	un	-	ham	-	dorscht.
+138329	12,0133	50,59065	12410	EBERSGRￃﾜN	1	mih	Mir	sei	und	-	ham	-	durscht.
+542252	12,28681029	50,61279344	12428	ROITZSCHAU/ROTSCHAU	1	müh	Mr	sei	unn	-	ham	-	dorscht.
+83929	11,01356	50,08352	12496	HORSDORF	1	müd	Wie	sen	und	-	ham	-	Duescht.
+90390	11,52863	50,0917	12529	KￃﾖDNITZ	1	mü,	Mir	sen	-	-	haben	-	durst.
+73525	11,78865	50,09627	12556	KORNBACH	1	müd	Wir	sen	und	-	ham	-	durscht.
+92759	12,01162	50,11446	12572	HABNITH	1	möid	Wia	sen	und	-	haben	-	durscht.
+92995	10,47912	50,0693	12594	UCHENHOFEN	1	müad	Mar	senn	un	-	höm	-	duarscht.
+81117	10,75411	50,07607	12616	REUTERSBRUNN	1	med	Mir	san	um	-	hebe	-	derscht.
+87919	11,23885	50,08397	12656	WEISMAIN	1	müd	Mä	sen	und	-	ham	-	duärscht.
+139318	12,54606	50,95499	12876	LOHMA	1	mide	M'r	sin	un	-	hun	-	Dorscht.
+542291	12,79845622	50,93588982	12898	HEIERSDORF	1	müd	Mir	sin	un	-	haben	-	dorscht.
+140816	13,03963	50,94183	12921	SACHSENBURG	1	müd	M'r	sin	un	-	hob'n	-	dorscht.
+138353	13,31425	50,9658	12942	ROTHENFURTH	1	mid	Mer	sin	un	-	han	-	dorschd.
+138765	13,61631	50,94387	12969	BORLAS	1	müde	Mir	seni	un	-	hann	-	dorscht.
+140821	13,85701	50,95464	13005	DOHNA	1	müde	Mie	sein	und	-	hom	-	dorscht.
+142852	14,13042	50,93992	13019	PORSCHDORF	1	mide	Mir	sein	und	-	han	-	durscht.
+542319	12,51314844	50,4441744	13047	MORGENRￃﾖTHE	1	müd	Wir	sei	und	-	ham	-	durst.
+140498	12,80099	50,47348	13054	RITTERSGRￃﾜN	1	müd	Mär	sei	un	-	hamm	-	dorscht.
+139321	12,54046	50,61237	13169	SAUPERSDORF	1	müh	Mer	sei	un	-	hobn	-	dorscht.
+542348	12,800879	50,61883463	13187	KￃﾜHNHEIDE	1	mied	Me	sei	un	-	hom	-	dorscht.
+138641	13,06058	50,62587	13210	HIMMELMￃﾜHLE	1	mied	Wir	sei	un	-	hob'nt	-	dorscht.
+139696	13,30128	50,59763	13226	RￃﾜBENAU	1	müd	Mer	sei	un	-	ha	-	dorscht.
+139438	12,54647	50,76709	13269	THURM	1	müde	Wir	sin	un	-	hoben	-	darscht.
+142276	12,7795	50,77904	13286	URSPRUNG	1	mud	Mir	sei	an	-	hoabn	-	dorscht.
+138434	13,05066	50,78027	13317	DITTMANNSDORF	1	müd	Mar	sein	on	-	hom	-	dorscht.
+142819	13,31924	50,79728	13340	GROSSHARTMANNSDORF	1	mid	Mia	sein	un	-	hon	-	dorschd.
+140851	13,56587	50,80319	13355	REICHENAU	1	miede	Mer	sein	un	-	hem	-	dorscht.
+139047	13,85538	50,78575	13372	LIEBENAU	1	müde	Merr	sein	und	-	hann	-	dorscht.
+542404	15,72674275	50,77629276	13529	WANG-BRￃﾜCKENBERG	1	miede	Mr	sein	an	-	honn	-	durscht.
+389165	15,95486	50,78753	13543	PISARZOWICE	1	müde	Meer	sein	un	-	honn	-	derst.
+386686	16,20743	50,75691	13559	BOGUSZOW-GORCE	1	müde	Wir	sein	und	-	hon	-	dorscht.
+542439	14,65276544	50,9556005	13655	NIEDERLEUTERSDORF/LEUTERSDORF	1	mide	Mer	senn	und	-	ham	-	dorscht.
+542448	14,90152069	50,94685019	13678	ROHNAU (-)	1	mide	Mir	sein	un	-	ham	-	durscht.
+386289	15,44277	50,95309	13700	REBISZￃﾓW	1	miede	Mirr	sein	an	-	honn	-	dorscht.
+529888	15,69243	50,94016	13719	SIEDLECIN	1	müde	Mirr	sein	on	-	honn	-	durscht
+385883	15,97695	50,9281	13727	MYSLOW	1	miede	Mir	sein	und	-	honn	-	durscht.
+391578	16,24996	50,94262	13745	JUGOWA	1	müde	Mir	sein	und	-	hoan	-	durscht.
+386406	16,47306	50,57075	13830	WLODOWICE	1	miede	Mr	sein	on	-	han	-	durscht.
+388750	17,01494	50,57111	13869	BIERNACICE	1	mide	Bir	sein	un	-	hon	-	Durst.
+391919	17,28777	50,56603	13887	RZYMIANY	1	müde	Bir	sein	und	-	hohn	-	dorscht.
+388785	17,54127	50,56379	13898	SZADURCZYCE	1	mihde	Br	sein	und	-	hoan	-	dorscht.
+390808	16,75132	50,60111	13929	STOSZOWICE	1	müde	Mir	sein	und	-	hon	-	dorscht.
+367140	16,49574	50,74669	13996	LUTOMIA GORNA	1	mide	Mer	sein	u	-	honn	-	durscht.
+388492	16,7247	50,74663	14023	ROZTOCZNIK	1	müde	Wir	sein	und	-	hön	-	durst.
+366619	16,98938	50,73384	14034	LIPOWA	1	müde	Br	sain	und	-	hoan	-	durscht.
+389581	17,51417	50,74342	14074	MICHALOW	1	mide	Wir	sän	und	-	hoan	-	durst.
+392718	17,78334	50,70421	14092	KARCZOW	1	müde	Wir	sein	und	-	hon	-	durst.
+386194	17,2612	50,75422	14159	JUTRZYNA	1	müde	Mir	sein	und	-	hon	-	durscht,
+391860	17,00388	50,90846	14234	BRZOZA	1	müde	Bir	sein	und	-	hoan	-	durst.
+388449	17,27996	50,91595	14250	JACZKOWICE	1	mide	Bir	sein	und	-	hon	-	durst.
+369484	17,51786	50,89571	14275	PIASTOWICE	1	müde	Wir	sein	und	-	hon	-	durst.
+392235	16,5052	50,92217	14305	BOZANOW	1	müde	Mir	sein	und	-	hohn	-	durst.
+385748	16,75854	50,92697	14321	ROGOW SOBOCKI	1	miad	M'r	sin	a	-	ha	-	durscht.
+541497	16,69625742	50,24949279	14382	WￃﾖLFELSDORF (WILKANￃﾓW)	1	müde	Mir	sein	on	-	hon	-	dorscht.
+540642	18,02571486	50,04538313	14449	THRￃﾖM (TREBOM)	1	mid	Wir	sein	ons	-	hun	-	durscht.
+391058	16,43333	50,40879	14458	SZCZYTNA	1	müde	Mir	sein	on	-	hon	-	dorst.
+388518	16,73068	50,40811	14471	JASZKOWA GORNA	1	müde	Me	sein	oa	-	hon	-	dorscht.
+387458	17,26018	50,38899	14486	NADZIEJOW	1	müde	Wir	send	und	-	hohn	-	dorst.
+365314	17,51572	50,40154	14505	PIORUNKOWICE	1	mide	Bir	sein	und	-	hohn	-	Dorscht.
+366235	17,00516	50,27139	14537	BIELICE	1	müde	Wir	sein	on	-	hon	-	dorscht.
+528282	19,02622	50,30465	14560	SIEMIANOWICE SLASKIE	1	mide	Mer	sein	und	-	hon	-	durst.
+97519	7,1428	49,58714	14613	NOHFELDEN	1	mid	Mer	sen	un	-	ham	-	Durscht.
+534301	7,436449875	49,61119749	14635	ERZWEILER	1	mid	Mer	sinn	un	-	hen	-	Dorscht.
+99617	7,69526	49,62895	14670	NUSSBACH	1	mied	Mehr	sein	unn	-	hunn	-	dorscht.
+97006	7,94492	49,62669	14693	DANNENFELS	1	müd	Mehr	sein	und	-	hun	-	dorscht.
+98182	8,20454	49,63649	14724	MONSHEIM	1	müd	Wer	sein	un	-	hen	-	dorscht.
+534212	6,6329076	49,73705783	14752	SANKT MATTHIAS	1	mihd	Mer	sein	onn	-	hönn	-	Dorschd.
+97643	6,89034	49,75266	14955	BESCHEID	1	meid	Mir	säi	un	-	hun	-	Duscht.
+96587	7,16681	49,75594	14971	ALLENBACH	1	meid	M'r	sen	on	-	hon	-	durscht.
+101007	7,39191	49,77036	14999	BERSCHWEILER BEI KIRN	1	müd	Mir	sinn	unn	-	honn	-	durscht.
+98789	7,64796	49,7846	15018	BAD SOBERNHEIM	1	mid	Mer	sein	un	-	hon	-	dorscht.
+98807	7,92068	49,79459	15042	NEU-BAMBERG	1	müd	Mer	sein	u	-	hun	-	dorscht.
+100524	8,19083	49,80215	15066	BECHTOLSHEIM	1	müd	Merr	sein	unn	-	hunn	-	dorscht.
+96333	6,35877	49,85133	15088	BOLLENDORF	1	-	Mer	sein	ann	-	hunn	-	duscht.
+99873	6,62928	49,90606	15096	PREIST	1	möd	Mer	sein	on	-	hon	-	doescht.
+100611	6,88064	49,90937	15118	POHLBACH	1	müd	Mir	sehn	unn	-	han	-	duscht.
+98569	7,12694	49,9156	15137	KAUTENBACH	1	miet	Wia	senn	onn	-	honn	-	Durscht.
+100656	7,40287	49,94174	15334	KIRCHBERG (HUNSRÜCK)	1	mied	Mer	sinn	un	-	honn	-	doorschd.
+96652	7,64098	49,98645	15349	ELLERN (HUNSRÜCK)	1	müd	Mer	sin	unn	-	honn	-	dorscht.
+99926	7,89616	49,96901	15365	BINGEN AM RHEIN	1	müad	Mur	sein	unn	-	haben	-	durscht.
+94365	8,1754	49,98368	15394	FINTHEN	1	müd	Wer	sein	un	-	han	-	dorscht.
+541288	14,08782256	50,79454917	15418	SCHNEEBERG (SNￄﾚￅﾽNￃﾍK)	1	miede	Mir	sein	und	-	hamm	-	durscht.
+542632	13,57030177	50,62249964	15503	ZETTEL (SEDLO)	1	müde	M(i)r	sei	un	-	hon	-	dorscht.
+542678	13,86383504	50,62849859	15538	WISTERSCHAN (BYSTￅﾘANY)	1	miede	Mir	sein	und	-	hom	-	dorscht.
+542690	14,12005467	50,63121237	15550	MALSCHEN (MALEￄﾌOV)	1	müda	Wir	sain	un	-	hon	-	durscht.
+542767	14,08715095	50,50156837	15638	LUKAWETZ (LUKAVEC)	1	miede	Mir	sein	und	-	hon	-	durscht.
+542813	14,78356188	50,53120776	15681	NEUDORF (VRCHBￄﾚLA)	1	mieda	Mier	sein	und	-	ham	-	drscht.
+542817	14,60808505	50,45343095	15685	GASTORF (HOￅﾠTKA)	1	müde	Mir	sein	und	-	hon	-	durscht.
+542822	14,37491447	50,45239746	15690	WEGSTￃﾄDTL (ￅﾠTￄﾚTￃﾍ)	1	miede	Mir	sein	und	-	hon	-	Durscht.
+542853	14,36367041	50,96533327	15725	NIXDORF (MIKULￃﾁￅﾠOVICE)	1	miedo	Mir	sein	und	-	honn	-	doscht.
+542878	15,17855469	50,94940265	15751	RￃﾜCKERSDORF (DOLNￃﾍ ￅﾘASNICE)	1	müde	Mer	sein	un	-	hon	-	dorscht.
+542974	14,37790266	50,79284652	15807	KAMNITZ-NEUDￃﾖRFL (KAMENICKￃﾁ NOVￃﾁ Vￃﾍ	1	miere	Mi	sein	un	-	honn	-	duscht.
+542975	14,63295874	50,77707134	15824	ZWICKAU (CVIKOV)	1	mide	Mir	sein	und	-	h(ö)n	-	d(ö)rscht.
+542985	14,93221691	50,77197058	15847	CHRISTOPHSGRUND (KRYￅﾠTOFOVA ￃﾚDOLￃﾍ)	1	müdo	Mjär	sein	und	-	hon	-	Doscht.
+541010	15,15829159	50,77890432	15858	GRￃﾄNZENDORF (HRANIￄﾌￃﾁ)	1	muide	Mr	sein	und	-	hom	-	dorscht.
+543079	15,16928862	50,67533905	15971	PULETSCHNEI (PULEￄﾌNￃﾝ)	1	miede	Mr	sein	und	-	honn	-	dorscht.
+543083	14,39168331	50,63206481	15975	GRABER (KRAVAￅﾘE)	1	mida	Mr	sain	und	-	honn	-	doscht.
+543108	14,62813223	50,58543476	15989	THAMMￃﾜHL (STARￃﾉ SPLAVY)	1	müda	Mir	san	und	-	hon	-	durscht.
+543114	14,90460482	50,62283086	15995	PROSCHWITZ (ￄﾌESKￃﾁ PROSEￄﾌ)	1	müdö	Wer	pin	und	-	hon	-	dorscht.
+543126	15,42528858	50,77531258	16007	HARRACHSDORF (HARRACHOV)	1	miede	Mr	sein	on	-	honn	-	dorscht.
+543132	15,53	50,68	16015	WITKOWITZ (VÍTKOVICE)	1	mieda	Mer	sein	on	-	hon	-	do(r)scht.
+543165	15,69389245	50,59885819	16050	FORST (FORT)	1	mied	Mir	sein	an	-	honn	-	durscht.
+543176	15,94353338	50,59404379	16063	GABERSDORF (LIBEￄﾌ)	1	müde	Mir	sein	on	-	hon	-	dorscht.
+543192	16,19811359	50,59375748	16083	BODISCH (BOHDAￅﾠIN)	1	müde	Me	sein	on	-	hon	-	dascht.
+543232	15,68710662	50,45583613	16139	ZWITSCHIN (ZVIￄﾌINA)	1	mied	Mir	sein	an	-	hon	-	dorscht.
+543256	15,95476147	50,41624184	16154	GROￃﾟBOCK (VELKￃﾁ BUKOVINA)	1	müde	Mir	sein	on	-	hon	-	dorscht.
+541285	13,05587082	50,43936341	16179	SCHMIEDEBERG (KOVￃﾁￅﾘSKￃﾁ)	1	mied	Mir	sei	un	-	hem	-	darscht.
+543362	12,57748601	50,27813882	16276	WAITZENGRￃﾜN (LOUￄﾌNￃﾁ)	1	mäid	Wir	san	u	-	haum	-	durscht.
+543381	12,81664271	50,27172568	16298	SITTMESGRￃﾜN (MEZIROLￃﾍ)	1	möid	Mia	sann	u	-	homm	-	duascht.
+543403	13,07091971	50,29350573	16322	PETERSDORF (PETROV)	1	mai	Mir	sen	und	-	hon	-	duascht.
+543417	13,33150857	50,28046432	16338	PODLETITZ (PODLESICE)	1	mie	Mir	sei	und	-	hom	-	dorscht.
+545775	12,31495822	50,12170839	16442	KROPITZ (KRAPICE)	1	möid	Mia	san	u	-	ham	-	hunga.
+545875	12,5660173	50,11207273	16470	EBERSFELD (PODLESI)	1	möid	Wir	san	und	-	hobn	-	durscht.
+545897	12,81723239	50,11499453	16491	RABENSGRￃﾜN (HAJE)	1	miid	Mia	san	u	-	hobm	-	durscht.
+545929	13,06282229	50,10501819	16523	LINTSCH (HLINEￄﾌ)	1	mae	Wia	sen	a	-	hom	-	Tuascht.
+547005	13,28661929	50,01766262	16602	KLOTANTSCHEN (KOTANEￄﾌ)	1	mej	Mia	sen	und	-	homm	-	dorscht.
+547083	13,35918004	50,44766083	16610	TSCHERNOWITZ (ￄﾌERNOVICE)	1	müd	Mir	sein	und	-	hom	-	dorscht.
+547097	13,59572928	50,44732335	16625	HAWRAN (HAVRAￅﾇ)	1	mied	Mir	sei	un	-	hom	-	dorscht.
+547107	13,83616126	50,45194726	16636	LIEBSHAUSEN (LIBￄﾌEVES)	1	miede	Mir	sein	un	-	hobn	-	durscht.
+544619	13,74314777	50,35326555	16670	PRIESEN (BￅﾘEZNO)	1	mide	Wir	sei	un	-	hoabm	-	durscht.
+544637	13,62176599	50,29310664	16689	LIBESCHITZ (LIBￄﾚￅﾠICE)	1	mid	Mir	sei	un	-	hom	-	dorscht.
+544671	13,35397155	50,12209626	16725	LESCHKAU (LEￅﾽKY)	1	mei	Mia	senn	und	-	homm	-	dorschd.
+544773	13,59466133	50,10758345	16739	PSCHOBLIK (PￅﾠOVLKY)	1	mid	Mir	sei	und	-	hom	-	dorscht.
+544698	14,38722099	50,064376	16751	PRAG-SMICHOW (SMￃﾍCHOV)	1	müde	Mir	sind	un	-	haba	-	durst.
+544699	16,994619	50,411871	16755	WEIￃﾟBACH (BￃﾍLￃﾝ POTOK)	1	mide	Wir	sein	ond	-	hoan	-	dorscht.
+544714	16,31555194	50,30491688	16770	SCHEDIWY (ￅﾠEDIVINY)	1	mide	Med	sein	on	-	hon	-	darscht.
+540583	16,48013663	50,26863043	16775	FRIEDRICHSWALD (ORLICKￃﾉ ZￃﾁHOￅﾘￃﾍ)	1	miede	Mr	sän	oan	-	hoan	-	dascht.
+534177	17,24183624	50,25517092	16801	BￃﾖHMISCHDORF	1	miede	Wr	sein	ond	-	hon	-	dorscht.
+544744	16,46560671	50,16530112	16814	ROKITNITZ (ROKYTNICE)	1	müde	Mir	senn	on	-	honn	-	dorscht.
+544815	16,71044888	50,0763027	16876	NIEDER-ULLERSDORF (DOLNￃﾍ BOￅﾘￃﾍKOVICE	1	müde	M'r	sein	on	-	hon	-	dorscht.
+544825	16,94591816	50,07261368	16889	HEINZENDORF (HYNￄﾌICE NAD MORAVOU)	1	mied	Mir	sein	on	-	hon	-	dorscht.
+534416	17,29069553	50,02964652	16907	KARLSDORF	1	mit	Ba	saen	und	-	hon	-	durst.
+544860	17,51227875	50,22030266	16932	KUHBERG	1	müde	Bir	sein	und	-	hon	-	Diascht.
+544873	17,73660283	50,20995029	16949	RAUSEN (RUSￃﾍN)	1	mide	Wir	sain	und	-	hun	-	dorscht.
+547161	17,47950091	50,0638888	16991	BREITENAU (BRETNOVￃﾁ ￅﾠIROKￃﾁ NIVA)	1	mied	Bir	sein	und	-	hon	-	durst.
+544917	17,74608647	50,0470232	17012	LOBENSTEIN (ￃﾚVALNO)	1	mide	Bir	sein	und	-	hon	-	doscht.
+544930	12,52743214	49,93203052	17029	LOHHￃﾄUSER (SLATINA)	1	möid	Mia	san	u	-	hom	-	duarscht.
+544959	12,83308709	49,93372209	17061	DEUTSCH THOMASCHLAG (NￄﾚMECKￃﾉ DOMASL	1	möid	Mir	san	u	-	hom	-	durscht.
+544964	13,05746787	49,93785404	17075	POLINKEN (POLￃﾍNKA)	1	möid	Mia	san	und	-	hom	-	durst.
+540726	12,56427266	49,7720973	17138	ALBERSDORF (PￃﾍSAￅﾘOVA VESCE)	1	möid	Mia	san	u	-	hom	-	duarscht.
+534185	12,78758496	49,78516666	17151	DAMNAU	1	müd	Wia	san	und	-	hobm	-	durscht.
+545061	13,12137244	49,77832844	17174	PIWANA (PIￅﾇOVANY)	1	Moid	-	sama	und	-	homma.	-	durscht
+545065	13,31836954	49,7932149	17178	KOTTIKEN (CHOTￃﾍKOV)	1	meid	Wia(r)	sän	und	-	häm	-	Durscht.
+545130	12,59263476	49,63101848	17244	DIANABERG (DIANA)	1	möid	Mia	san	und	-	hom	en	Durscht.
+545150	12,83611997	49,61401094	17266	WIEDLITZ (VIDICE)	1	möid	Mia	san	und	-	ham	-	duascht.
+545157	13,06318469	49,63824558	17273	HONOSITZ (HONEZOVICE)	1	mejt	Mia	san	und	-	hom	-	durscht.
+545165	13,29099949	49,65550872	17281	DOBRZAN (DOBￅﾘANY)	1	möid	Mia	san	und	-	hom	-	duarscht.
+545187	12,99003795	49,5009234	17306	BLISOWA (BLￃﾍￅﾽEJOV)	1	mejt	Wia	san	und	-	hom	-	Durscht.
+534524	16,39993838	49,94474447	17309	HILBETEN	1	mied	Mir	sei	un	-	hom	-	durscht.
+545200	16,70920166	49,91307027	17325	SCHￃﾖNWALD (STRￃﾁￅﾽNￃﾁ)	1	mide	Mir	sein	on	-	hon	-	Dorscht.
+545239	17,02418646	49,91272165	17374	OBER-ULLISCHEN (HORNￃﾍ OLEￅﾠNￃﾁ)	1	mied	Mir	sein	un	-	hen	-	durscht.
+545250	17,21258288	49,90928348	17389	BERGSTADT (HORNￃﾍ MￄﾚSTO)	1	mied	Wer	sein	und	-	heam	an	durscht.
+545300	16,69330997	49,75727865	17433	RANIGSDORF (LINHARTICE)	1	meit	Mir	san	un	-	hom	-	duscht.
+545309	16,92061223	49,77656682	17442	MￃﾜGLITZ (MOHELNICE)	1	maöde	Mir	sein	un	-	ham	-	durscht.
+545324	17,19747408	49,76489875	17460	RIBNIK (RYBNIￄﾌEK)	1	mid	Mir	sein	und	-	hon	-	durscht.
+545331	16,41268819	49,73996807	17468	STANGENDORF (VENDOLￃﾍ)	1	muid	Mir	sein	un	-	hom	-	Durscht.
+545361	16,46388	49,64357938	17504	NEU-BIELA (LAVIￄﾌNￃﾉ)	1	muit	Mr	sein	und	-	hom	-	Duascht.
+545378	16,60789251	49,63015779	17512	SCHLETTAU (SLATINA)	1	mait	Mir	sane	un	-	hom	-	durscht.
+534688	16,87865364	49,57204105	17520	RUNARZ (RUNￃﾁￅﾘOV)	1	mit	My	sain	un	-	han	-	Dust.
+540668	17,177449	49,571549	17521	NEBOTEIN (HNￄﾔVOTￃﾍN)	1	müad	Mi(a)	sa	und	-	hom'n	-	Du(a)scht.
+545414	17,42874992	49,89452106	17568	TILLENDORF (TYLOV)	1	mied	Bir	sein	und	-	hoan	-	durscht.
+545434	17,70804928	49,89871152	17585	MLADETZKO (MLADECKO)	1	mid	Bir	sein	und	-	hon	-	durscht.
+545479	17,46310188	49,73079462	17643	SEIBERSDORF (BￄﾚLￃﾁ)	1	mied	Bir	heint	un	-	hon	-	durscht.
+545492	17,6829573	49,73318935	17659	BERNHAU (BARNOV)	1	müd	Bir	sein	un	-	han	-	durscht.
+534435	17,97308317	49,70909491	17680	KLANTENDORF	1	mied	Wr	sein	aon	-	haon	-	duescht.
+545516	18,132408	49,68902075	17687	ENGELSWALD (MOￅﾠNOV)	1	mied	Mir	sein	on	-	hon	-	duescht.
+545524	17,39883118	49,60097829	17698	NIRKLOWITZ (MRSKLESY)	1	mid	-	Sin	und	-	houn	-	durscht.
+545541	17,68215393	49,60602071	17713	PUNKENDORF (BOￅﾇKOV)	1	müd	Bier	sein	un	-	hon	-	duscht.
+545552	17,89790677	49,58061423	17726	HALBENDORF (POLOUVSￃﾍ)	1	mid	Mir	sein	oan	-	hoan	-	durscht.
+540974	18,10923581	49,56425845	17737	SENFTLEBEN (ￅﾽENKLAVA)	1	mied	Mir	sein	on	-	hon	-	durscht.
+545576	12,80409953	49,46044599	17759	LINZ (MLￃﾝNEC)	1	möi	Wia	san	und	-	hom	-	durscht.
+545598	13,091469	49,28078338	17782	KOHLHEIM (UHLIￅﾠTￄﾚ)	1	meid	Mia	san	und	-	homan	an	duascht.
+545607	13,30276094	49,26612249	17792	ￄﾌACHRAU (ￄﾌACHROV)	1	mejd	Mia	sama	und	-	homa	-	duascht.
+545628	13,33062137	49,12628901	17801	HURKENTAL (HￅﾮRKA)	1	miad	Mir	sin	un	-	hann	-	durst.
+545650	13,57753261	49,12042561	17824	ROTSAIFEN (ￄﾌERVENￃﾁ)	1	Miad	-	sama	und	-	home	an	durscht
+540811	13,78390364	49,05868188	17832	WINTERBERG (VIMBERK)	1	miad	Mia	sann	und	-	haum	an	duascht.
+540957	15,64233287	49,62987755	17843	SEHRLENZ (ￅﾽDￃﾍREC)	1	mojd	Bi(a)	san	u	-	houm	-	du(a)st.
+540901	15,46916346	49,43296588	17854	IRSCHING (JIￅﾘￃﾍN)	1	miad	Mia	san	un	-	ham	-	durscht.
+540967	15,63065627	49,43386003	17862	HILBERSDORF (JIHLAVA-HEROLTICE)	1	oplagt	Wi	san	und	-	hom	en	durscht.
+545689	15,48846857	49,33208877	17876	SOLLOWITZ (SALAVICE)	1	möjd	Wir	san	und	-	hobn	-	durscht.
+545691	15,58516769	49,28224193	17878	STANNERN (STONAￅﾘOV)	1	mott	Wer	san	und	-	hoben	-	durscht.
+545693	14,95990581	49,21963599	17881	RIEGERSCHLAG (LODHￃﾉￅﾘOV)	1	mod	Mir	san	un	-	-	-	durschdi.
+540970	15,002329	49,202983	17882	WENKERSCHLAG (DOLNￃﾍ RADOUￅﾇ)	1	mod	Mir	san	un	-	houm	an	durscht.
+545696	14,95741261	49,13556567	17884	BUCHEN (BUK)	1	mod	Mie	san	un	-	houm	-	durscht.
+545706	15,12750069	49,11172776	17895	HOSTERSCHLAG (ￄﾌLUNEK)	1	mod	Wir	san	un	-	houm	-	durl(durscht).
+545709	15,35769926	49,08701313	17898	LIPOLZ (LIPOLEC)	1	med	Mir	san	and	-	haum	an	durti.
+545741	16,63439555	49,18723537	17940	CZERNOWITZ (ￄﾌERNOVICE)	1	mied	Mir	san	und	-	houm	-	duascht.
+545743	16,90652995	49,21777218	17942	GUNDRUM (KOMOￅﾘANY)	1	miad	Bia	san	und	-	hom	-	Duascht.
+545755	16,48229302	49,05485994	17956	PRAHLITZ (PRAVLOV)	1	müad	Mir	san	und	-	hobn	-	duascht.
+545760	16,60669491	49,05257221	17961	WOIKOWITZ (VOJKOVICE)	1	müad	Mr	san	u	-	hammer	-	duast
+547187	20,40843205	49,38054456	17967	SUB-LECHNITZ (LECHNICA)	1	miht	Mier	sinn	unt	-	hon	-	durscht.
+545764	20,49157246	49,26407216	17968	TOPPORTZ (TOPOREC)	1	mied	Bir	sain	unt	-	hon	n	duoscht.
+545767	20,73249786	49,29620693	17972	HOBGARD (CHMEￄﾽNICA)	1	miede	Bir	seibar	ont	-	hober	a	Durscht.
+547189	20,26734886	49,1223043	17981	NEU WALDDORF (NOVￃﾁ LESNￃﾁ)	1	miid	Bir	zaen	ond	-	hoon	-	Durscht.
+547202	20,4730914	49,08532369	17993	DURELSDORF (TVAROￅﾽNￃﾁ)	1	mid	Bir	sein	und	-	-	-	duoschtig.
+547208	20,58848476	49,02564128	17999	LEUTSCHAU (LEVOￄﾌA)	1	mid	Bir	sein	und	-	hon	-	Durscht.
+547205	20,56768978	48,94297995	18000	ZIPSER NEUDORF (SPIￅﾠSKￃﾁ NOVￃﾁ VES)	1	mied	Wir	sahn	und	-	hon	-	Durscht.
+547213	20,62	48,84	18001	WAGENDRÜSSEL (NÁLEPKOVO)	1	mid	Bie	sein	ound	-	-	-	duestich.
+547212	20,93372629	48,85146308	18003	GￃﾖLLNITZ (GELNICA)	1	mid	Bie	sein	und	-	hobn	-	duescht.
+547211	20,36687276	48,8196973	18004	DOBSCHAU (DOBￅﾠINￃﾁ)	1	müd	Bier	sein	und	-	-	-	duastich.
+547217	20,90633397	48,71071744	18010	METZENSEIFEN (MEDZEV)	1	mühd	Bie	sain	-	esons.	-	-	düesat
+547220	13,59260046	48,96730053	18013	BUCHWALD (BUￄﾌINA)	1	miad	Mia	san	und	-	hom	an	durscht.
+547227	13,79494123	48,94551277	18018	SCHATTAWA (ZￃﾁTON)	1	miad	Mia	sant	und	-	hom	an	durscht.
+547235	14,10381253	48,94718523	18028	ZABORSCH (ZￃﾁHORￃﾍ)	1	mod	Mi	san	und	-	höum	en	duascht.
+547295	13,87892421	48,81591509	18058	HIRSCHBERGEN (HIRￅﾠPERKY/JELENI)	1	mod	Mir	san	und	-	houm	-	durscht.
+547300	14,0740231	48,78213936	18064	HONETSCHLAG (HODￅﾇOV)	1	mod	Mia	sam	und	-	-	-	durschti.
+10301	13,84145	48,60522	18091	KOLLERSCHLAG	1	miad	Mia	han	und	-	ham	-	duast.
+547504	14,10455829	48,64006942	18095	SANKT THOMA (SVATￃﾝ TOMￃﾁￅﾠ)	1	möid	Mir	sama	und	-	homma	an	duascht.
+547512	14,31207319	48,6157219	18101	HOHENFURTH (VYￅﾠￅﾠￃﾍ BROD)	1	müad	Mia	san	und	-	ham	-	durscht.
+547555	14,42805572	48,93731559	18132	HUMMELN (HOMOLE)	1	müad	Miar	san	und	-	hobn	an	durscht.
+547559	14,53884842	48,99293587	18135	RUDOLFSTADT (RUDOLFOV)	1	müid	Wir	san	und	-	hobn	n	durst.
+6784	15,12159	48,9312	18144	GROSS-RADISCHEN	1	miad	Mir	san	und	-	ham	an	Durscht.
+547572	14,35130255	48,78070398	18188	PRIETHAL (PRￃﾍDOLￃﾍ)	1	mot	San	ma	und	-	haum	a	duascht.
+547574	14,62222893	48,76157409	18192	GOLLNETSCHLAG (KLENￃﾍ)	1	mied	Wir	sen	und	-	hau(b)m	-	durscht.
+547583	14,86460492	48,79093469	18210	WEISSENBACH (VYSNￃﾉ)	1	müad	Miar	san	und	-	hobn	an	duarscht.
+1825	15,11402	48,77595	18218	LANGSCHWARZA	1	miad	Mia	soan	und	-	haun	an	duascht.
+547611	14,60020725	48,61371164	18290	UNTERWALD	1	müat	Mia	san	u	-	hom	om	durst.
+1213	14,8248	48,62922	18296	BAD GROSSPERTHOLZ	1	müad	Mir	san	und	-	hoam	an	Durst.
+9109	15,1154	48,63319	18310	OBERSTRAHLBACH	1	mird	Mir	san	und	-	hoam	an	durscht.
+8215	15,35237	48,93926	18359	WALDKIRCHEN	1	müad	Mir	san	und	-	haben	an	durst.
+547669	15,61331894	48,93919862	18364	HAFNERLUDEN (LUBNICE)	1	miad	Mir	san	und	-	ham	an	durscht.
+540964	15,84398284	48,93495691	18367	SCHILTERN (ￅﾠTￃﾍTARY)	1	mr	Miad	san	und	-	hoonmr.	an	durscht
+547920	16,15731666	48,88788008	18407	TￃﾖSTITZ (TￄﾚￅﾠETICE)	1	miad	Mir	san	und	-	hom	-	durscht.
+8704	15,3815	48,79309	18432	DIETMANNS	1	mid	Mia	san	und	-	hom	-	durschd.
+6309	15,63866	48,77886	18441	SCHIRMANNSREITH	1	miad	Mia	san	und	-	hom	an	duascht.
+1855	15,90257	48,77849	18454	HOFERN	1	miad	Mir	san	und	-	hom	an	durst.
+547955	16,13160996	48,7465636	18508	GERSTENFELD (JEￄﾌMENIￅﾠTￄﾚ)	1	miad	Mia	san	und	-	hom	-	durscht.
+2862	15,39468	48,61876	18525	FRANZEN	1	miad	Mia	san(d)	und	-	ham(d)	-	Duaschd.
+7482	15,63736	48,62925	18534	ROSENBURG	1	müad	Mir	san	und	-	ham	an	Dürst.
+6575	15,84912	48,58705	18554	OBERDÜRNBACH	1	miad	Mir	san	und	-	hobm	an	durscht.
+6083	16,09658	48,58647	18559	ASPERSDORF	1	miad	Mia	san	und	-	haum	an	duascht.
+547963	16,37348031	48,91950827	18607	DAMNITZ (DAMNICE)	1	miad	Mia	san	und	-	hom	an	durscht.
+548003	16,65177623	48,90542723	18627	TRACHT (STRACHOTￃﾍN)	1	mirt	Mir	san	und	-	hom	an	turscht.
+548013	16,76723342	48,8738553	18637	SAITZ (ZAJECￃﾍ)	1	miand	Mir	san	und	-	hobn	-	durscht.
+548015	16,38060332	48,75125755	18642	HￃﾖFLEIN AN DER THAYA (HEVLￃﾍN)	1	dalei	Wua	san	u	-	hom	-	duascht.
+8827	16,61147	48,74191	18672	STￃﾜTZENHOFEN	1	mid	Mio	san	und	-	houm	-	durscht.
+8563	16,86919	48,69199	18686	BERNHARDSTHAL	1	mied	Mie	sen	u	-	ham	-	dauscht.
+1666	16,38001	48,59086	18701	PYHRA	1	ma	Müad	sam	u	-	homa.	an	Durscht
+3395	16,64461	48,58654	18707	WILFERSDORF	1	müad	Mir	san	u	-	hom	an	duascht.
+2578	16,81931	48,58918	18716	PALTERNDORF	1	darbi	Wir	san	und	-	hab	an	Durscht.
+548044	18,7060573	48,96952464	18753	MￃﾜNCHWIES (VRￃﾍCKO)	1	mid,	Wie	sei	-	insuns	-	-	djiaschat
+548029	18,65497127	48,86560792	18759	BETTELSDORF (SOLKA)	1	mit	Bija	saj	ont	-	hon	-	douscht.
+548031	18,88553826	48,82156122	18763	OBERSTUBEN (HORNￃﾁ STUBNA)	1	mud	Bir	zomr	ont	-	hon	-	durst.
+548032	18,75578607	48,72212455	18767	KRICKERHￃﾄU (HANDLOVￃﾁ)	1	müd	Bir	sain	ond	-	hom	an	durscht.
+548035	18,87405447	48,68562767	18773	DEUTSCH-LITTA (KOPERNICA)	1	mauid	Baj	sei	ons	-	hemm	-	durscht.
+548036	18,56458171	48,54111692	18774	HOCHWIESEN (VEL'Kￃﾉ POLE)	1	müd	Bia	sai	und	-	hom	-	duascht.
+6302	13,33412	48,29152	18786	SANKT GEORGEN BEI OBERNBERG AM INN	1	müad	Mir	hand	und	-	ham	an	durscht.
+3260	12,87807	48,13026	18800	HOCHBURG	1	miet	Mia	send	und	-	hem	an	durscht.
+2067	13,08331	48,12996	18805	PISCHELSDORF AM ENGELBACH	1	miad	Mia	send	u	-	hebet	en	duast.
+4511	13,88061	48,46514	18846	NIEDERKAPPEL	1	müad	Miar	san	und	-	habm	an	Duarst.
+5870	14,08545	48,45077	18855	NIEDERWALDKIRCHEN	1	müad	Mia	hand	u.	-	han	-	durscht[?ː]
+6387	13,62778	48,27893	18902	DORF AN DER PRAM	1	müad	Wie	san	und	-	ham	an	durscht.
+1824	13,83155	48,28803	18910	MICHAELNBACH	1	müad	Mir	san	u	-	han	-	durscht.
+5939	14,10729	48,28632	18923	ALKOVEN	1	miád	Miá	sán	und	-	haum	-	Duáscht.
+8452	13,34042	48,12665	18984	ARNBERG	1	miad	Mir	san	und	-	ham	an	duascht.
+8840	13,62036	48,11548	18987	RACKERING	1	miad	Mir	san	und	-	ham	an	duascht.
+4832	13,84267	48,12872	19003	PENNEWANG	1	miad	Mia	han	und	-	håm	an	Durst.
+8280	14,10999	48,09704	19011	SIPBACHZELL	1	miád	Mia	sán	und	-	ham	án	Durscht.
+8668	14,34938	48,45608	19070	REICHENAU IM MￃﾜHLKREIS	1	müad	Mia	han	und	-	haum	-	Duaschd.
+8164	14,61282	48,41729	19080	GUTAU	1	müad	Mia	san	u.	-	habn	-	Durst.
+3644	14,81413	48,47743	19085	HACKSTOCK	1	müad	Mia	san	und	-	ham	an	durscht.
+4536	15,11597	48,4355	19096	TRAUNSTEIN	1	müad	Mir	san	und	-	hobn	an	durst.
+8623	14,35965	48,12637	19138	MARIA LAAH	1	müad	Mir	san	und	-	haben	an	durscht.
+4983	14,56535	48,11219	19144	HAAG	1	miad	Mia	sand	und	-	habn	an	durst.
+4455	14,87066	48,12448	19154	AMSTETTEN	1	müad	Mia	san	und	-	haubm	an	Duascht.
+671	15,13802	48,13043	19163	WIESELBURG	1	miad	Miar	san	und	-	haum	an	duarscht.
+2154	14,37301	48,28577	19225	STEYREGG	1	müad	Mir	san	und	-	ham	-	durscht.
+5161	14,58171	48,27398	19233	SCHWERTBERG	1	miad	Mia	san	und	-	hom	on	duast.
+10470	14,80633	48,26712	19245	BAD KREUZEN	1	miad,	Mia	san	-	-	hobn	an	durst.
+1649	15,06545	48,28211	19257	ALTENMARKT	1	miad	Mir	san	u	-	haum	an	Durscht.
+6265	15,37385	48,44265	19301	ELS	1	miad	Mir	san	und	-	hobn	an	duascht.
+6317	15,61839	48,43843	19311	GNEIXENDORF	1	miad	Mia	san	und	-	hoam	en	Turscht.
+5673	15,81873	48,4378	19322	FELS AM WAGRAM	1	müad	Mia	san	u	-	hom	-	durscht.
+120	16,12987	48,44154	19334	OBERHAUTZENTAL	1	miad	Wir	san	u	-	hoan	an	durscht.
+3789	15,37381	48,25755	19401	SCHￃﾖNBￃﾜHEL AN DER DONAU	1	müad	Mir	sand	und	-	haben	an	duascht.
+8957	15,56514	48,25859	19404	KARLSTETTEN	1	müad	Mia	san	und	-	hom	an	duaschd.
+2259	15,85976	48,25537	19419	WￃﾜRMLA	1	miad	Mie	son	und	-	hom	an	duascht.
+3206	16,07034	48,25642	19429	RIED AM RIEDERBERG	1	miad	Mir	san	und	-	haben	-	durscht.
+6637	15,34061	48,11103	19479	MANK	1	miard	Mir	ßan	und	-	hom	an	durscht.
+5564	15,60619	48,10536	19486	WILHELMSBURG	1	miad	Mia	san	und	-	ham	an	duascht.
+3882	15,862	48,08457	19492	STOLLBERG-SIEDLUNG	1	miad	Mir	san	und	-	ham	an	durst.
+3342	16,10967	48,08122	19541	GRUB	1	miad	Mia	san	u	-	hoam	an	duascht.
+1565	16,37147	48,42971	19564	OBERGￃﾄNSERNDORF	1	müad	Mia	san	u	-	hobn	an	durscht.
+8376	16,65674	48,39499	19607	RAGGENDORF	1	miad	Mia	san	und	-	hom	an	duascht.
+9119	16,84009	48,41077	19621	STILLFRIED AN DER MARCH	1	mied	Mir	san	und	-	haobm	an	Durscht.
+548065	17,24752517	48,27003479	19640	GRￃﾜNAU (GRINAVA)	1	mi(a)d	Mi(e)	san	unt	-	how	an	duescht.
+4951	16,37347	48,23057	19642	20. BEZIRK-BRIGITTENAU	1	miad	Ma	san	und	-	haben	an	Durscht.
+877	16,56927	48,24529	19646	RAASDORF	1	müad	Mia	san	und	-	haben	an	durscht.
+9501	16,87702	48,24132	19657	BREITENSEE	1	müad	Mir	san	u	-	haben	an	durst.
+548066	16,98660986	48,17332242	19659	THEBEN (DEVÍN)	1	miad	Mir	san	und	-	hom	an	Durscht.
+4984	16,34608	48,08334	19667	BIEDERMANNSDORF	1	miad	Mia	san	und	-	ham	an	duaschd.
+2058	16,60641	48,08282	19674	ENZERSDORF AN DER FISCHA	1	miad	Mia	san	und	-	hom	an	duascht.
+8089	17,06565	48,09174	19696	KITTSEE	1	miad	Mia	san	und	-	hom	-	Duascht.
+548071	17,27654171	48,0994024	19705	MISCHDORF BEI PRESSBURG (NOVￃﾉ KOￅﾠAR	1	miad	Mia	san	und	-	habm	an	Tuascht.
+6146	16,85904	48,06596	19726	ROHRAU	1	miat	Mia	sent	und	-	hämb	-	Duscht.
+1795	12,11833	47,59421	19739	THIERSEE	1	miad	Wie	send	und	-	haben	un	duscht.
+548073	11,67317112	47,56336878	19748	ACHENWALD	1	mied	Mia	sen	un	-	hobn	-	duscht.
+10322	13,08	47,94	19775	OBERTRUM AM SEE	1	müad	Wir	san	und	-	-	-	durst.
+8654	13,33222	47,96455	19787	HOCHFELD	1	müad	Mia	hand	und	-	hom	-	Durscht.
+4503	13,12175	47,77639	19823	VORDERFAGER	1	müad	Mia	sand	und	-	ham	an	duast.
+5155	12,39171	47,6314	19851	SCHWENDT	1	müad	Miar	send	s	-	haben	-	Duschd.
+8266	12,56947	47,58457	19854	WAIDRING	1	müad	Mia	send	und	-	hom	-	duscht.
+2502	13,14376	47,62566	19859	KUCHL	1	miad	Wia	san	u	-	ham	-	duischt.
+9635	13,60519	47,94665	19886	SCHￃﾖRFLING	1	müad	Mia	sand	und	-	ham	an	duascht,
+3545	13,84472	47,93463	19896	GSCHWANDT	1	miad	Mir	san	und	-	ham	an	Durscht.
+10508	14,1261	47,93733	19901	SCHLIERBACH	1	miad	Mia	san	und	-	ha͜͠om	an	duaschd.
+7772	13,36379	47,76694	19941	SANKT GILGEN	1	miad	Mia	hand	und	-	håm	an	durscht.
+1060	13,77433	47,81259	19945	EBENSEE	1	müad.	I	bi	Und	i.	ha	an	Durscht
+1998	14,13035	47,80539	19947	STEYRLING	1	müd	Mir	san	und	-	ham	an	durscht.
+534648	13,62557	47,71194	19956	BAD ISCHL	1	miad	Mia	send	und	-	-	-	dursti.
+772	14,32754	47,72243	19965	WINDISCHGARSTEN	1	miad	Mir	san	und	-	-	-	diaschtö.
+5193	13,61647	47,64116	19971	BAD GOISERN	1	ma	Miad	san	u	-	ham	-	durt.
+5471	13,83922	47,62693	19977	GRUNDLSEE	1	miad	Mir	san	und	-	ham	an	Duschd.
+548078	14,07582046	47,55789937	19993	WￃﾖRSCHACHWALD	1	müad	Mia	san	und	-	ham	-	ducht.
+6099	14,34035	47,92138	20005	TRATTENBACH	1	miad	Mir	san	und	-	ham	an	Durst.
+294	14,57161	47,97255	20008	SULZBACH	1	miad	Ma	san	und	-	ham	-	duarscht.
+1279	14,89384	47,94794	20019	YBBSITZ	1	müad	Mia	san	und	-	hom	an	durscht.
+9595	15,08807	47,92901	20023	GAMING	1	miad	Mia	sa	u	-	hom	an	duascht.
+4247	14,63986	47,82049	20046	KLEINREIFLING	1	müad	Mir	san	und	-	hobn	-	Durst!
+5957	15,31803	47,77347	20049	MARIAZELL	1	miad	Mia	san	und	-	haum	an	durscht.
+3036	15,18285	47,78945	20051	NEUHAUS	1	müad	Mia	san	und	-	hobn	-	duascht.
+3025	14,8932	47,74374	20058	LASSING	1	miad	Mia	san	und	-	hab'n	an	durscht.
+9576	14,36442	47,59107	20062	ARDNING	1	miad	Mir	san	und	-	ham	an	durscht.
+8741	14,50272	47,59723	20065	WENG	1	müad	Mia	san	und	-	haum	an	Duascht.
+5267	14,76884	47,63452	20067	LAINBACH	1	miad	Mia	san	und	-	hom	an	duascht.
+9648	15,30481	47,65106	20069	GOLLRAD	1	miad	Mir	san	und	-	hobn	an	durscht.
+8336	15,07837	47,532	20077	OBERORT	1	müad	Mia	san	u	-	hobn	an	Dürscht.
+534268	7,067507287	52,15805324	20090	WEXT	1	möde	Wi	sind	und	-	häbt	-	Düöst.
+101194	7,29517	52,11388	20099	LEER	1	möh	Wie	sinnt	un	-	hɑ̈bt	-	Duorst.
+543703	7,588860605	52,12498586	20110	HERBERN	1	möde	Wie	send	un	-	häwet	-	durst.
+543711	7,842229277	52,1330543	20117	RINGEL	1	möh	Wie	sind	un	-	häwwet	-	duorst.
+116652	8,14588	52,13922	20128	HILTER AM TEUTOBURGER WALD	1	möe	Wie	sind	un	-	hewet	-	dosse.
+543781	7,064048835	52,26572224	20240	BARDEL	1	möde	Wi	zint	un	-	hewt	-	dörst.
+102505	7,31817	52,25446	20248	HADDORF	1	möude	Wi	sind	un	-	hebbt	-	Düöast.
+103272	7,58042	52,29816	20259	HÖRSTEL	1	mö	Wi	sind	un	-	hebt	-	dooß.
+102815	7,87807	52,31422	20269	WESTERKAPPELN	1	möhe	Wie	sind	un	-	häwwet	-	duost.
+105354	8,15798	52,31606	20283	ASTRUP	1	möe	Wie	sind	un	-	hewwet	-	döst.
+543795	7,047183947	52,43692249	20346	FRENSDORF	1	möh	Wie	sind	un	-	hebt	-	döst.
+107832	7,31002	52,4517	20350	ELBERGEN	1	möde	Wi	sind	un	-	häbbt	-	Däst.
+543796	7,575270716	52,47498927	20361	SETLAGE	1	möh	Wi	sind	un	-	häbbt	-	dös.
+106419	7,82957	52,47625	20370	MERZEN	1	möhe	Wie	sind	un	-	häbben	-	Döst.
+107759	8,0952	52,47813	20381	VÖRDEN	1	möe	Wie	sind	und	-	hewwet	-	döst.
+109831	6,73365	52,54624	20384	WIELEN	1	mö	Wij	sindt	en	-	hebt	-	Döst.
+106742	6,95028	52,57618	20446	HOOGSTEDE	1	mö	Wy	sint	un	-	hebt	-	dörst
+115474	7,26965	52,60078	20454	GEESTE	1	möüh	Wi	lünd	un	-	häbt	-	döss.
+110942	7,58304	52,64501	20463	DOHREN	1	meuhe	Wie	bünd	und	-	häbbet	-	döst.
+543799	7,80895926	52,64047486	20468	RENSLAGE	1	möh	Wie	sind	un	-	häbt	-	döst.
+105319	8,12092	52,65932	20481	DINKLAGE	1	mäuhe	Wie	sint	und	-	hebbet	-	döst.
+105553	7,24493	52,79004	20543	HAREN (EMS)	1	möue	Wir	bünt	un	-	häbbet	-	döst.
+109461	7,5504	52,78572	20555	HÜVEN	1	möhe	Wi	bund	un	-	häb	-	dörst.
+107332	7,78096	52,81598	20562	GAREN	1	möühe	Wie	sünd	un	-	häbbet	-	dörst.
+105267	8,06387	52,81064	20575	SEVELTEN	1	möuhe	Wi	sünd	un	-	hebbet	-	döst.
+115530	7,23473	52,97142	20589	NEUDERSUM	1	mäuhe	Wie	sünd	un	-	häbt	-	döst.
+110403	7,44966	52,95796	20596	NEUBÖRGER	1	möe	Wi	bunt	un	-	habbet	-	därst.
+520618	7,76901	52,97003	20599	NEUARENBERG	1	möhe	Wir	sünd	un	-	häbbt	-	döst.
+110755	8,02414	52,95515	20604	GARREL	1	mäuje	Wi	sünd	un	-	hebbet	-	döst.
+113801	8,31184	52,83661	20638	VISBEK	1	möe	Wi	sünd	un	-	hebbt	-	döst.
+112245	9,97514	52,91878	20710	WIETZENDORF	1	maug	Wi	sünd	un	-	heint	-	döst.
+543860	8,878103328	52,86272692	20734	COLONIE SYKE	1	möör	Wi	sünnd	un	-	hebbt	-	dösst.
+105370	9,16808	52,87499	20753	MAGELSEN	1	möuhe	Wi	sind	un	-	hebt	-	döst.
+112130	9,43239	52,86343	20763	NORDKAMPEN	1	meue	Wi	sünd	un	-	heft	-	döst.
+104720	9,7293	52,88191	20774	VIERDE	1	meu	Wi	sünd	un	-	-	-	döstig.
+117116	10,20256	52,8993	20788	SCHMARBECK	1	mōih	Wi	sünd	und	-	härwt	-	döst.
+109702	8,64481	52,82247	20798	BRÜMSEN	1	möhe	Wi	sunt	un	-	häb	-	Dos.
+116518	8,58443	52,67101	20891	DÖRPEL	1	möhe	Wie	sind	un	-	hebt	-	döst.
+111151	8,88406	52,69239	20901	MAASEN	1	möe	Wi	sünd	un	-	hebt	-	döst.
+107943	9,21314	52,68797	20917	DRAKENBURG	1	meuhe	Wie	sünd	un	-	hefft	-	döst.
+543869	9,481851913	52,66567501	20920	UNTERRODEWALD	1	moie	Wie	sünd	und	-	het	-	döst.
+107228	9,75629	52,67757	20933	THￃﾖREN	1	mäue	Wie	sünd	un	-	hett	-	döst.
+106750	9,98769	52,73449	20936	HASSEL	1	moir	Wi	sünd	un	-	hett	-	Döst.
+110201	10,27333	52,72449	20946	SCHARNHORST	1	meue	Wi	sünd	un	-	häfft	-	Döst.
+117376	8,36081	52,65057	20948	ASCHEN	1	möhe	Wie	sünd	un	-	hebbet	-	Döst.
+108434	8,37572	52,50909	21024	BURLAGE	1	möd	Wi	sünd	un	-	hewwet	-	döst.
+110915	8,90975	52,52673	21033	HOYSINGHAUSEN	1	mäue	Wie	sind	un	-	hebbt	-	döst.
+107545	9,20944	52,54802	21045	BROKELOH	1	mau	Wie	sünd	un	-	het	-	düst.
+112440	9,46636	52,53603	21050	EMPEDE	1	meue	Wie	sünd	un	-	hät	-	Döst.
+106668	9,76477	52,55174	21065	GAILHOF	1	meuhe	Wie	sünd	un	-	hett	-	dösten.
+105433	10,0574	52,56429	21074	ADELHEIDSDORF	1	meue	Wi	sünd	un	-	hett	-	döst.
+117073	10,28391	52,57727	21085	NORDBURG	1	mäue	Wir	sünd	und	-	huwwet	-	döst.
+103244	8,64674	52,50044	21105	PREUSSISCH STRÖHEN	1	moi	Wi	sinn	un	-	sin	-	dorstig.
+106174	8,3898	52,33045	21190	BROCKHAUSEN	1	möüe	Wi	sündt	und	-	-	-	döstig.
+102861	8,63405	52,34995	21199	ISENSTEDT	1	mōihe	Wi	sind	un	-	häwwet	-	Dost.
+103305	8,95277	52,33325	21218	WIETERSHEIM	1	mühe	Wie	sind	un	-	hewwet	-	döst.
+114317	9,21751	52,36874	21235	HÜLSHAGEN	1	meue	Wie	sind	un	-	het	-	döst.
+108796	9,48492	52,38681	21252	HOLTENSEN	1	moie	Wi	sind	un	-	hett	-	döst.
+113565	9,75132	52,3891	21280	LIST	1	möe	Wie	sind	unn	-	hewwet	-	döst.
+115927	10,06143	52,39489	21295	IMMENSEN	1	möue	Wie	sind	un	-	hett	-	döst.
+112043	10,32142	52,39354	21305	VOIGTHOLZ-AHLEMISSEN	1	meue	Wir	sind	und	-	hebbet	-	düst.
+101691	8,41425	52,0046	21316	STEINHAGEN	1	möie	Wei	send	un	-	hett	-	dost.
+102011	8,71676	52,01463	21342	KRENTRUPERHAGEN	1	moie	Wäi	sind	un	-	het	-	dost.
+103905	9,01787	52,01324	21355	WENDLINGHAUSEN	1	meue	Wui	sind	un	-	häbbet	-	dost.
+107085	9,23089	52,02846	21362	REHER	1	mäue	Weu	sint	un	-	hewwet	-	dost.
+111651	9,54208	52,04508	21384	HARDERODE	1	meuie	Weii	sind	un	-	hebbet	-	dost.
+108868	9,78734	52,05878	21405	RHEDEN	1	möie	Wöi	sind	un	-	hewwet	-	dost.
+107455	10,08174	52,038	21429	NETTE	1	mäue	Wei	sind	un	-	häwet	-	dost.
+114684	10,32948	52,07531	21446	STEINLAH	1	meue	Wie	sind	un	-	hewet	-	dost.
+112044	8,42817	52,15828	21455	GROSS SCHIPLAGE	1	mee	Wui	send	un	-	häbt	-	dost.
+101524	8,6718	52,15733	21611	SCHWEICHELN-BERMBECK	1	mäue	Wie	sind	und	-	hebbet	-	Dost.
+101248	8,9677	52,18788	21632	VELTHEIM	1	meue	Wie	sind	un	-	hebbet	-	dost.
+105774	9,24711	52,1961	21666	ROHDEN	1	meue	Wei	sin	un	-	hewwet	-	doßt.
+116182	9,55567	52,20741	21679	SPRINGE	1	mäuhe	We	sind	un	-	hewwet	-	dost.
+109400	9,76348	52,21504	21687	VARDEGￃﾖTZEN	1	meuh	Wie	sind	un	-	heiwwet	-	döst.
+111284	10,03434	52,21999	21707	RAUTENBERG	1	moie	Wie	sünd	un	-	het	-	Döst.
+104424	10,3324	52,22627	21882	BODENSTEDT	1	mäuhe	Wei	sünd	und	-	häbbet	-	dost.
+107091	10,58483	52,24025	21902	RAUTHEIM	1	meuhe	Wie	sind	un	-	häwet	-	döst.
+120362	11,13295	52,24058	21936	BARTENSLEBEN	1	meu	Wie	sünd	und	-	hät	-	döst.
+112471	10,84096	52,25623	22044	ROTTORF	1	meue	Wi	sind	un	-	hett	-	döst.
+122830	11,39951	52,24731	22063	HUNDISBURG	1	meue	Wi	sind	un	-	hewwen	-	dörst.
+124836	11,65499	52,27548	22074	FARSLEBEN	1	mege	Wie	sind	un	-	hem	-	dörst.
+118705	11,93747	52,28307	22083	REESEN	1	möe	Wie	sind	un	-	hemm	-	dorscht.
+119661	12,23627	52,27553	22092	PAPLITZ	1	möh	Wie	sind	un	-	henan	-	dörscht.
+108461	10,59431	52,41361	22111	WASBￃﾜTTEL	1	meue	Wir	sönd	und	-	het	-	döst.
+122806	11,11387	52,40093	22149	RￃﾄTZLINGEN	1	meun	Wie	sünd	un	-	hät	-	Döst.
+123686	11,69646	52,40703	22172	BURGSTALL	1	möh	Wieh	sind	un	-	hemm	-	dorscht.
+116837	10,84171	52,4211	22222	REISLINGEN	1	meue	Wie	seind	un	-	hebbet	-	döst.
+119996	11,40384	52,43433	22249	ROXFￃﾖRDE	1	möij	We	sünd	und	-	hem	-	dörst.
+123806	11,96126	52,44002	22264	GRIEBEN	1	moih	Wäi	sind	un	-	hebb'n	-	dörscht.
+127014	12,21537	52,45574	22276	ZABAKUCK	1	mö	Wi	sünt	un	-	hebbn	-	döst.
+115220	10,56262	52,59885	22375	WESTERHOLZ	1	mö'n	Wi	sünd	un	-	hett	-	döst.
+107430	10,87697	52,57705	22384	TￃﾜLAU-FAHRENHORST	1	möh	We	sünd	und	-	hewn	-	döst.
+544004	11,09553257	52,58503126	22394	KￃﾖBBELITZ	1	mög	We	sünd	un	-	hem	-	dost.
+121479	11,39427	52,6017	22407	SCHENKENHORST	1	mög	Wei	sünd	un	-	hem'm	-	Döst.
+119307	11,66397	52,60153	22423	QUERSTEDT	1	möj	We	sünd	un	-	häm'm	-	döst.
+121929	11,95658	52,6014	22443	STAFFELDE	1	möig	Wei	sind	un	-	hem'n	-	döst.
+117936	12,231	52,59371	22453	GROSSWUDICKE	1	möi	Wie	sind	un	-	hem'm	-	döst.
+105512	10,5153	52,75135	22574	MASEL	1	meuh	Wei	sünd	un	-	heft	-	döst.
+124932	10,82391	52,78033	22581	HￃﾖDDELSEN	1	müh	We	sind	und	-	hebben	-	döst.
+123964	11,09919	52,76301	22599	WￃﾖPEL	1	möhj	Weh	sünd	ünd	-	hebbn	-	döst.
+117904	11,38085	52,76485	22621	MOLITZ	1	mööh	Weei	sünd	un	-	hemm	-	döst.
+120905	11,63736	52,76929	22636	RￃﾖNNEBECK	1	mö	Wäi	sün	un	-	hem	-	döst.
+121594	11,91213	52,77979	22654	IDEN	1	moi	Wie	sind	und	-	hem	-	döst.
+119182	12,19465	52,78429	22667	KUHLHAUSEN	1	möhj	Wei	sind	un	-	hemm	-	döst.
+111226	10,83564	52,89159	22685	PROITZE	1	mö	Wi	sünd	un	-	'ebbn	-	döst.
+112469	10,52559	52,92076	22773	HOLDENSTEDT	1	mauh	Waih	sünd	und	-	hefft	-	döst.
+110640	11,11794	52,92444	22796	WUSTROW (WENDLAND)	1	möd	Wie	sünd	unn	-	hebn	-	dörst.
+106959	11,39455	52,94488	22810	LOMITZ	1	midu	Wi	sünd	un	-	hemm'n	-	döst.
+120633	11,64245	52,9155	22819	JEGGEL	1	mög	Wi	sinn	un	-	hebbn	-	döst.
+121751	11,92033	52,95775	22832	GROSS LￃﾜBEN	1	mög	Wie	sünd	un	-	hem	-	dost.
+126375	12,2009	52,94353	22846	GￃﾖRIKE	1	mog	Wie	sind	und	-	hem	-	dost.
+101223	6,89919	51,41868	22910	HOLTHAUSEN	1	mööd	Mei	sünt	on	-	hemvee	-	Doß.
+101667	7,14475	51,42633	22931	DAHLHAUSEN	1	meie	Wi	sind	un	-	häwet	-	Durst.
+544034	7,440652873	51,45810976	22965	LANGELOH	1	mai	Wi	sind	un	-	het	-	düoast.
+102743	7,72969	51,46063	22990	HALINGEN	1	maihe	Weij	sinnt	un	-	heijt	-	doarst.
+103028	7,96057	51,4516	22998	NEHEIM	1	maie	Wei	sint	und	-	hett	-	düost.
+101380	8,22732	51,47615	23010	NIEDERBERGHEIM	1	mau	Wui	sind	un	-	hot	-	dorst.
+102751	6,36299	51,57103	23021	KAPELLEN	1	müij	Wej	sinn	onn	-	hebben	-	doasch.
+102995	6,6022	51,54559	23031	RHEINBERG	1	müh	We	sind	on	-	häben	-	dös.
+544066	6,901533702	51,5894299	23184	HOLTHAUSEN BEI KIRCHHELLEN	1	meu	Wer	sünd	un	-	hevvet	-	doust.
+103406	7,13741	51,59252	23191	HERTEN	1	mai	Wie	sind	un	-	häft	-	Duast.
+102331	7,39916	51,62422	23207	WALTROP	1	mai	Wi	sint	un	-	hewt	-	duast.
+103160	7,66172	51,59444	23218	KAMEN	1	mai	Wei	sind	und	-	hewet	-	Duorst.
+102847	7,93087	51,65191	23231	NORDDINKER	1	Meih	Fui	sind	und	-	hett	-	Dorst.
+103882	6,07057	51,70749	23261	KESSEL	1	müj	Wej	sin	en	-	hebbe	-	dorscht.
+101179	6,33914	51,70982	23271	KEHRUM	1	müj	Wij	sinn	on	-	hemmen	-	dorst.
+103878	6,59016	51,72886	23284	HAMMINKELN	1	müj	Wej	sind	on	-	hebbt	-	dorst.
+102304	6,86433	51,74642	23293	ERLE	1	müöh	Wir	sünd	un	-	hebt	-	duast.
+544138	8,231584076	51,66488154	23343	GÖTTINGEN	1	meue	Wey	sind	un	-	hät	-	duorst.
+102730	7,13224	51,75267	23402	HOLTWICK	1	möde	Wie	sind	un	-	häft	-	doaßt.
+103922	7,39511	51,76309	23412	SEPPENRADE	1	mö	Wei	sint	un	-	hiot	-	dusht.
+102429	7,5934	51,81826	23419	DAVENSBERG	1	mü	Wi	sind	un	-	hebt	-	duost.
+101460	7,94635	51,80536	23426	VORHELM	1	möde	Wir	sind	und	-	häbt	-	düöst.
+101255	8,20222	51,80379	23435	STROMBERG	1	mööde	Wii	sind	un	-	häwet	-	duorscht.
+544165	7,090871267	51,94956678	23453	STOCKUM BEI COESFELD	1	möhe	Wih	sint	un	-	hept	-	duost.
+103416	7,35441	51,92822	23466	NOTTULN	1	möhr	Wie	sind	un	-	hept	-	durst.
+101405	7,61785	51,96303	23471	MÜNSTER	1	möde	Wi	sint	un	-	hewwt	-	Duarst.
+102244	7,89819	51,97427	23478	EINEN	1	möh	Mieh	sint	un	-	häft	-	Dorst.
+102153	8,14209	51,97737	23483	GREFFEN	1	möih	Wie	sind	un	-	hewwet	-	durst.
+544174	6,255515898	51,85708916	23494	SPEELBERG	1	müj	Wej	sin	en	-	hebbe	-	dörst.
+103952	6,59361	51,87915	23498	HEMDEN	1	möh	Wie	sünt	un	-	habt	-	dorst.
+101671	6,85711	51,90792	23507	WESEKE	1	möh	Wi	sint	un	-	häbt	-	douist.
+547392	5,8999	51,01437	23545	TÜDDERN	1	mög	Wier	send	en	-	übben	-	dursch.
+134430	6,17221	51,03878	23566	PORSELEN	1	mög	Mir	sind	un	-	hant	-	duhsch.
+135008	6,40679	51,04786	23602	HOLZWEILER	1	möch	Wir	sind	on	-	hand	-	duesch.
+135418	6,69129	51,07309	23630	EVINGHOVEN	1	möd	Mer	send	un	-	hant	-	dusch.
+544260	6,974307355	51,08552788	23817	REUSRATH	1	müd	Wir	sind	on	-	hant	-	dusch.
+535471	7,21868086	51,10219986	23843	(STOLZENBERG)	1	möd	Wihr	send	on	-	hand	-	Duescht.
+544279	7,482521669	51,11069717	23858	OBERKLÜPPELBERG	1	mäue	Wie	sitt	un	-	hevvt	-	durscht.
+101712	7,75338	51,12	23873	VALBERT	1	meie	Wie	sind	un	-	hat	-	dürst.
+102266	8,00787	51,15597	23885	SPORKE	1	maie	Wie	sind	un	-	hett	-	durst.
+103666	8,28584	51,15411	23902	SCHMALLENBERG	1	mäuhe	Fehi	sähit	un	-	het	-	durst.
+134714	6,16371	51,21195	23906	ELMPT	1	möe	Föer	send	en	-	häbben	-	dorsch.
+134866	6,42005	51,22806	23922	HELENABRUNN	1	mög	Wer	sent	un	-	hänt	-	dursch.
+544290	6,680221539	51,21619719	23933	WEIßENBERG	1	möd(e)	Mer	send	on	-	hant	-	duesch.
+135601	6,9077	51,25791	24107	HUBBELRATH	1	müöt	Wier	sind	on	-	hont	-	durscht.
+136207	7,19655	51,27156	24134	BARMEN	1	möd	Wie	sind	on	-	hannt	-	douscht.
+544345	7,439350364	51,27752811	24156	DELLE	1	mäu	Wie	sind	un	-	hätt	-	durst.
+103687	7,67985	51,28832	24167	ALTENA	1	mö͡ihe	Wēǐ	sind	un	-	het	-	Durs.
+102939	7,984	51,29586	24180	STOCKUM	1	meue	Wei	sind	u	-	het	-	duorst.
+545780	6,38696445	51,38212687	24208	WALL	1	müch	Wei	sent	un	-	habben	-	Dursch.
+104010	6,6309	51,39584	24218	VENNIKEL	1	meih	Wei	sind	on	-	hübben	-	dosch.
+102517	8,26093	51,33724	24336	BERGHAUSEN	1	mire	Mer	sein	un	-	hon	-	dorscht.
+96272	8,81166	51,02736	24360	BOTTENDORF	1	mire	Mer	sein	on	-	hon	-	dorscht.
+100016	9,09777	51,04852	24380	BERGFREIHEIT	1	miede	Merr	senn	un	-	hon	-	dorst.
+96729	9,35252	51,03159	24412	ROPPERSHAIN	1	miere	Mä	sinn	un	-	hun	-	darscht.
+95575	9,63006	51,04594	24431	KONNEFELD	1	muhre	Me	sinn	un	-	hoim	-	dorst.
+96740	9,8863	51,06005	24454	BERNEBURG	1	mide	Me	san	on	-	han	-	darscht.
+98981	10,13366	51,0732	24466	LￃﾜDERBACH	1	mide	Me	sin	un	-	hon	-	darst.
+101970	8,56285	51,15356	24490	ZÜSCHEN	1	meude	Mieh	sitt	unn	-	hätt	-	duarst.
+94257	8,79521	51,1695	24636	RHADERN	1	möde	Wi	sinn	und	-	hann	-	dost.
+99290	9,08456	51,18648	24659	BUHLEN	1	miede	Meh	sind	on	-	hon	-	Dorschd
+98544	9,33089	51,20406	24677	METZE	1	mierä	Mäh	sinn	onn	-	hom	-	dorschd.
+100950	9,59177	51,21072	24695	WATTENBACH	1	mihre	Mä	sinn	onn	-	hann	-	dorscht.
+101088	9,90463	51,20911	24715	VOCKERODE	1	mide	Me	sinn	oun	-	hounn	-	dorschd.
+138955	10,14349	51,22692	24737	GROSSTￃﾖPFER	1	miede	Me	sinn	un	-	hunn	-	dorscht.
+101289	8,48993	51,35499	24884	OLSBERG	1	maie	Bäi	seit	un	-	hütt	-	doust.
+95069	8,76465	51,34354	24901	SUDECK	1	mäude	Wi	sid	un	-	hadd	-	Dost.
+94608	9,03822	51,35057	24917	BRAUNSEN	1	miede	Meh	sind	on	-	hon	-	Dorschd.
+98507	9,30371	51,36918	24926	ZIERENBERG	1	mäude	Mir	sin	un	-	han	-	dost.
+105985	9,56267	51,37759	24942	SPEELE	1	möde	Me	sin	un	-	hon	-	dost.
+100251	9,86152	51,40459	24959	HERMANNRODE	1	meuge	We	siad	und	-	hewwen	-	dost.
+103245	8,48718	51,5111	25113	MEISTE	1	moihe	Wui	sint	und	-	hewwet	-	duarst.
+103985	8,74005	51,51591	25131	FÜRSTENBERG	1	meuhe	Wij	sijd	un	-	hätt	-	duest.
+102192	9,02706	51,52914	25136	SCHERFEDE	1	mäue	Wäi	säid	un	-	hätt	-	dust.
+103788	9,2802	51,53451	25150	KÖRBECKE	1	mauhe	Wei	sind	un	-	hät	-	dust.
+98123	9,58599	51,57712	25163	GOTTSTREU	1	meugge	We	säd	und	-	häwwet	-	dost.
+115273	9,84441	51,56385	25179	ESEBECK	1	meu	Wi	sint	un	-	hewwet	-	dost.
+112706	10,11311	51,57322	25197	EBERGￃﾖTZEN	1	meue	Wie	sind	un	-	hewwet	-	dost.
+102200	8,4739	51,66242	25214	BÖNNINGHAUSEN	1	moie	Wui	sind	unn	-	het	-	duarst.
+520373	8,72275	51,65689	25223	KIRCHBORCHEN	1	mäuihe	Wei	send	un	-	häit	-	Dust.
+103925	9,03645	51,70522	25343	SIEBENSTERN	1	moihe	Wiä	sind	un	-	häwwet	-	dust.
+103667	9,2916	51,70661	25354	BRUCHHAUSEN	1	mueue	Mäi	sind	un	-	hat	-	durst.
+113416	9,55747	51,68976	25363	SCHￃﾖNHAGEN	1	meue	We	sint	un	-	hebbet	-	Dost.
+104519	9,81843	51,72098	25373	OLDENRODE	1	meue	Wei	sind	und	-	heaut	-	Dost.
+112731	10,12307	51,7211	25391	MARKE	1	meue	Wäi	sind	un	-	hewwet	-	dost.
+102972	8,4904	51,81524	25407	WESTERWIEHE	1	meuie	Wi	sin	un	-	hät	-	duorst.
+545832	8,773504023	51,83629146	25514	HAUSTENBECK	1	mohe	Wü	sind	un	-	häwwet	-	dost.
+104162	8,98811	51,85941	25522	HEESTEN	1	moe	Wui	sind	un	-	het	-	dost.
+101582	9,27971	51,88107	25543	RISCHENAU	1	meeh	Wo͡i	sind	un	-	hat	-	dost.
+111168	9,52332	51,86619	25560	LOBACH	1	meuhe	Wei	sind	un	-	höbbet	-	dost.
+112147	9,80806	51,87024	25579	WENZEN	1	meue	Wäi	sind	un	-	hätt	-	döst.
+108993	10,06521	51,88856	25596	ACKENHAUSEN	1	meuie	Weui	sind	un	-	hewwet	-	dost.
+114173	10,32269	51,91222	25607	WOLFSHAGEN IM HARZ	1	meuie	Wäi	sind	un	-	hewwet	-	dost.
+96238	7,30554	50,44882	25798	KELL	1	möd	Mö	sein	un	-	han	-	durscht.
+95124	7,59824	50,45682	25824	STROMBERG	1	müd	Mier	sei	on	-	honn	-	Durscht.
+97399	7,83027	50,46395	25845	STAUDT	1	mied	Mia	sein	un	-	hon	-	duascht.
+98421	8,10298	50,47351	25876	STEINBACH	1	mou	Wie	senn	enn	-	hun	-	duhrst.
+135386	6,25276	50,53528	25904	HÖFEN	1	möd	M'r	send	on	-	hant	-	duäsch.
+134862	6,50041	50,57166	25914	GEMÜND	1	möd	Me	se	on	-	hahn	-	duesch.
+136417	6,7722	50,58589	26141	IVERSHEIM	1	möd	Miä	sen	on	-	han	-	duesch.
+94431	7,03325	50,58326	26155	GELSDORF	1	möt	Mi	sen	on	-	han	-	duesch.
+96207	7,27917	50,58777	26178	OHLENBERG	1	möd	Mir	senn	on	-	ham	-	Dorch.
+96159	7,56153	50,62782	26205	SEIFEN	1	möd	Mer	sen	un	-	han	-	durscht.
+94397	7,82891	50,63867	26228	GEHLERT	1	möd	Mir	sei	und	-	han	-	durst.
+93991	8,08253	50,64513	26261	WAIGANDSHAIN	1	meu	Mir	sei	en	-	hun	-	durcht.
+100248	8,3276	50,65381	26283	SINN	1	meu	Mehi	sei	en	-	hou	-	durst.
+136173	6,21713	50,70959	26312	VENWEGEN	1	möh	Wer	send	änn	-	hant	-	dohsch.
+136573	6,47982	50,72767	26324	ÜDINGEN	1	möd	Mi	send	on	-	hant	-	duesch.
+134374	6,74579	50,73906	26351	BORR	1	möd	Wier	senn	on	-	hann	-	duesch.
+535359	7,011607837	50,75523282	26578	ROISDORF	1	möd	Me	senn	onn	-	hann	-	dursch.
+535365	7,264558119	50,77189993	26604	GEISTINGEN	1	möd	Mer	senn	on	-	hann	-	Dursch.
+134372	7,51208	50,78124	26627	HERCHEN	1	möd	Mer	sen	on	-	hän	-	dursch
+99155	7,80396	50,77583	26642	MITTELHOF	1	mö	Mir	senn	ön	-	hann	-	duascht.
+102925	8,07045	50,80893	26664	WILDEN	1	meh	Mer	säng	on	-	hah	-	durscht.
+535378	8,310579688	50,82959295	26683	STRAßEBERSBACH	1	moi	Mir	sei	onn	-	ho	-	dorscht.
+545855	6,186462819	50,8673817	26712	MARIAGRUBE	1	möd	Werr	send	on	-	hant	-	duesch.
+134724	6,46479	50,88445	26734	NIEDERZIER	1	möd	Mie	send	on	-	hand	-	duesch.
+136170	6,71215	50,91204	26753	HORREM	1	möht	Me	send	onn	-	händ	-	dûêsch.
+135446	6,99248	50,9154	26763	POLL	1	möht	Mer	sinn	unn	-	hann	-	doosch.
+135100	7,25578	50,93839	27003	HEILIGENHAUS	1	möd	Ech	benn	un	-	-	-	duesthtig.
+134961	7,52408	50,94416	27025	FAULMERT	1	möh	Wir	seng	on	-	han	-	duhrscht.
+135882	7,76182	50,96107	27038	HAHNSEIFEN	1	müh	Wir	sing	un	-	han	-	durscht.
+102766	8,05073	50,98044	27064	MÜSEN	1	möh	Mer	sie	on	-	ha	-	Dorscht.
+103809	8,29625	50,99744	27074	SCHAMEDER	1	miede	Mer	sei	un	-	ho	-	dorscht.
+100401	8,88892	50,0083	27106	DUDENHOFEN	1	müd	Mir	sein	unn	-	hohn	-	dorscht.
+82332	9,19134	50,02903	27135	WENIGHÖSBACH	1	müd	Mir	sann	un	-	houn	-	dorscht.
+89686	9,42905	50,03327	27150	WIESTHAL	1	müd	Wir	sein	e	-	han	-	durß.
+90954	9,70265	50,03536	27163	MASSENBUCH	1	müad	Merr	sen	un	-	höm	-	durscht.
+83244	9,97227	50,0501	27186	NEUBESSINGEN	1	müad	M'r	sen	un	-	hom	-	duarscht.
+73843	10,2216	50,0744	27209	DITTELBRUNN	1	müat	Wir	sin	und	-	höm	-	duarscht.
+99243	8,37568	50,14973	27223	VOCKENHAUSEN	1	meud	Wir	sein	un	-	hunn	-	dorscht.
+94522	8,64714	50,16176	27244	HEDDERNHEIM	1	müd	Mer	sein	un	-	hewwe	-	dorst.
+95559	8,91949	50,17877	27425	BRUCHKÖBEL	1	moid	Mer	sa	onn	-	hefe	-	dorscht.
+95948	9,15681	50,1871	27444	HAILER	1	meud	Mir	sei	on	-	hon	-	dorscht.
+94694	9,47236	50,1902	27461	OBERNDORF	1	müd	Wer	sei	on	-	honn	-	deuscht.
+72810	9,68792	50,24181	27469	ROSSBACH	1	müd	Wir	sein	on	-	hon	-	Duarscht.
+88638	9,95785	50,22152	27480	HASSENBACH	1	müad	Mir	sänn	und	-	hönn	-	durst.
+89284	10,23457	50,21516	27501	POPPENLAUER	1	müad	Miär	senn	onn	-	hömm	-	durscht.
+96184	8,38494	50,32567	27507	CRATZENBACH	1	moid	M'r	sein	un	-	hun	-	dorscht.
+94840	8,61792	50,34179	27692	FRIEDRICHSTAL	1	moid	Mir	sei	und	-	hun	-	durscht.
+99813	8,89683	50,34677	27719	LEIDHECKEN	1	moid	Wir	sain	uan	-	hun	-	dorscht.
+99303	9,14844	50,36327	27742	GELNHAAR	1	meuid	Ma	sei	ean	-	hu	-	doascht.
+95263	9,42231	50,36852	27765	ULMBACH	1	müd	Mir	sei	on	-	hon	-	dorscht.
+97574	9,6511	50,39612	27775	EICHENRIED	1	müd	Mir	senn	oh	-	honn	-	durscht.
+89689	9,91324	50,3768	27792	WILDFLECKEN	1	müd	Mer	senn	on	-	honn	-	duascht.
+86475	10,20383	50,40168	27807	BASTHEIM	1	müd	Mr	sinn	un	-	hom	-	duerst.
+94797	8,38038	50,49119	27821	PHILIPPSTEIN	1	meud	Mir	sei	en	-	hon	-	dorscht.
+99544	8,61148	50,49416	27835	DORNHOLZHAUSEN	1	meur	Mr	seij	enn	-	hu	-	dorscht.
+99674	8,91206	50,51945	28010	NONNENROTH	1	muit	Mr	sei	eren	-	hong	-	duarst.
+100679	9,14246	50,51819	28027	GÖTZEN	1	meuiht	Mir	seih	enn	-	huh	-	deuscht.
+99217	9,38635	50,53509	28045	ALTENSCHLIRF	1	müd	Mir	seih	on	-	huoh	-	doascht.
+97303	9,67469	50,55356	28063	FULDA	1	med	Mir	sen	on	-	hon	-	doischt.
+99744	9,93294	50,55401	28080	RUPSROTH	1	müd	Mer	sen	oh	-	hon	-	doscht.
+141319	10,19182	50,57012	28107	GERTHAUSEN	1	müed	Wie	senn	unn	-	honn	-	duerst.
+98188	8,59958	50,66884	28278	KRUMBACH	1	moi	Mr	sei	ean	-	huh	-	doscht.
+100459	8,86344	50,67498	28298	LONDORF	1	mai	Mr	sei(nt)	eaon	-	hu(nt)	-	doscht.
+95342	9,08908	50,69377	28315	OTTERBACH	1	meuht	Mihr	seih	end	-	heh	-	dorscht.
+97612	9,42007	50,7215	28330	SCHWARZ	1	med	Mer	sin	o	-	ho	-	doscht.
+98359	9,65184	50,70307	28346	GROSSENMOOR	1	med	Mäi	san	on	-	hon	-	do(r)scht.
+95571	9,89733	50,71974	28358	RASDORF	1	med	Ma	senn	on	-	honn	-	duascht.
+140563	10,16738	50,70277	28369	WIESENTHAL	1	möd	Meei	senn	onnd	-	houn	-	doscht.
+95706	8,55685	50,82511	28392	HERZHAUSEN	1	mere	Mir	sai	on	-	hu	-	dorscht.
+101112	8,84606	50,86045	28568	BETZIESDORF	1	miere	Mäerr	sai	änn	-	hun	-	doarscht.
+98606	9,11693	50,85178	28589	NEUSTADT (HESSEN)	1	müd	Mär	sei	onn	-	hu	-	derst.
+96213	9,34378	50,87003	28605	NEUKIRCHEN	1	mid	Mehr	seng	ön	-	hon	-	dörscht.
+98442	9,64613	50,89148	28623	GITTERSDORF	1	meth	Nhä	wen	on	-	hon	-	darscht.
+95036	9,92366	50,8871	28640	HERFA	1	med	Mei	sein	on	-	hann	-	dorscht.
+140225	10,14264	50,87761	28651	FRAUENSEE	1	meh	Meii	sem	onn	-	honn	-	däärscht.
+94829	7,46276	49,27843	31677	BATTWEILER	1	mid	Men	senn	on	-	han	-	dorscht.
+96973	7,71516	49,31178	31695	HELTERSBERG	1	med	Wer	sinn	un	-	han	-	dorscht.
+95870	8,00924	49,26181	31700	RAMBERG	1	müd	Mer	sin	un	-	hänn	-	dorscht.
+98557	8,25607	49,30486	31719	GEINSHEIM	1	müd	Wer	sinn	unn	-	hänn	-	dorscht.
+522565	6,16901	49,35763	31737	DIEDENHOFEN	1	mejd	Mer	se	un	-	hunn	-	duscht.
+35323	6,44506	49,36868	31765	LAUMESFELD	1	méid	M'r	sén	onn	-	hunn	-	Duscht.
+99134	6,70066	49,39426	31789	BECKINGEN	1	meid	Mer	sei	un	-	hann	-	duhscht.
+98246	6,95094	49,41341	31800	CALMESWEILER	1	mied	Mir	sein	enn	-	hann	-	dorscht.
+96789	7,21036	49,40694	31824	STEINBACH BEI OTTWEILER	1	mid	Mer	sinn	unn	-	hann	-	dorscht.
+534156	7,453633274	49,44090624	32019	DIETSCHWEILER	1	müd	Wir	sind	u	-	hann	-	Durst.
+95390	7,69141	49,47033	32040	SIEGELBACH	1	mied	Mer	bin	un	-	han	-	dorscht.
+534148	7,938705171	49,49097128	32053	ALSENBORN	1	müd	Mer	sein	un	-	hän	-	dorscht.
+100047	8,22634	49,48944	32067	ERPOLZHEIM	1	mid	Mer	seim	unn	-	henn	-	dorscht.
+99746	6,40407	49,5531	32085	KREUZWEILER	1	moeid	Mer	sen	on	-	hun	-	duorst.
+99897	6,68176	49,56202	32102	GREIMERATH	1	mid	Mä	sen	on	-	hun	-	Duschd.
+96919	6,92447	49,57302	32119	OBERLÖSTERN	1	meid	Mir	se	on	-	han	-	durscht.
+28534	6,73469	49,07384	32855	ALTVILLER	1	mied	Mer	sin	un	-	hon	-	durscht.
+30265	7,00819	49,0745	32883	WOUSTVILLER	1	müd	Mea	bin	un	-	hunn	-	durscht.
+27168	7,27065	49,0973	33035	RIMLING	1	mid	Mer	sin	un	-	han	-	durst.
+32484	7,5068	49,10219	33055	ROPPEVILLER	1	mied	Mr	sin	un	-	hen	-	durschd.
+100274	7,77869	49,15063	33064	DAHN	1	müd	Mer	sinn	unn	-	häm	-	Dorscht.
+93935	8,00686	49,13025	33102	GLEISZELLEN	1	müd	Mer	sinn	unn	-	henn	-	durscht.
+95790	8,25289	49,15197	33111	HERXHEIMWEYHER	1	mid	Mer	sinn	unn	-	heem	-	dorscht.
+30840	6,44747	49,20661	33126	GUINKIRCHEN	1	mied	M'r	senn	unn	-	hann	-	durscht.
+100041	6,69829	49,24256	33146	ÜBERHERRN	1	meid	-	sinmie	un	wat	hamer	-	durscht.
+94013	6,97751	49,24585	33159	MALSTATT	1	müd	Wir	sind	un	-	hen	-	durscht.
+96131	7,19974	49,24303	33185	NIEDERWÜRZBACH	1	mid	Mer	senn	un	-	henn	-	dorscht.
+94479	8,95083	49,68248	33331	STEINBUCH	1	mud	Wir	sin	un	-	hon	-	durscht.
+86306	9,22005	49,68886	33346	BREITENDIEL	1	müd	Mr	senn	un	-	hebba	-	durscht.
+133241	9,46691	49,69109	33364	HUNDHEIM	1	müd	Mer	sen	un	-	häwe	-	durschd.
+84346	9,72212	49,71075	33381	STEINBACH	1	müet	Mir	sen	un	-	hoibn	-	duerscht.
+87569	10,00107	49,72382	33400	EIBELSTADT	1	müad	Mar	senn	und	-	hömm	-	duarscht.
+89128	10,24405	49,72856	33420	RￃﾖDELSEE	1	müad	Mr	sin	und	-	ham	-	durst.
+96448	8,47034	49,83533	33605	ERFELDEN	1	möd	Mer	sein	un	-	honn	-	Dorscht.
+97042	8,69787	49,8339	33614	TRAISA	1	mid	Mie	sin	un	-	hewe	-	durscht.
+100587	8,96256	49,84068	33631	HEUBACH	1	mihd	M'r	sein	un	-	häwwe	-	dorscht.
+90366	9,20105	49,85922	33648	HOFSTETTEN	1	mid	Mir	sann	unn	-	hewe	-	dorscht.
+93143	9,49031	49,86977	33660	BISCHBRUNN	1	müad	Mr	sei	un	-	haba	-	durscht.
+77833	9,69494	49,85804	33677	BIRKENFELD	1	müed	Mer	seim	un	-	höüba	-	dorscht.
+85120	10,01031	49,88363	33692	RUPPRECHTSHAUSEN	1	müed	Mir	senn	und	-	hömm	-	durscht.
+83058	10,22647	49,88995	33711	GAIBACH	1	müad	Mir	senn	und	-	ham	-	duarscht.
+97074	8,41048	49,9948	33725	RÜSSELSHEIM	1	mied	Merr	sein	unn	-	homm	-	derscht.
+100262	8,66668	49,98671	33741	LANGEN (HESSEN)	1	möd	M'r	sein	un	-	hun	-	derscht.
+131656	8,49951	49,30106	33849	ALTLUSSHEIM	1	müd	Mr	sei	un	-	hän	-	dorscht.
+132491	8,75841	49,319	33860	SCHATTHAUSEN	1	müd	Mär	senn	unn	-	häwä	-	dorschd.
+131042	9,00823	49,3472	34001	DAUDENZELL	1	mied	Mir	senn	un	-	hewn	-	dorscht.
+127680	9,25406	49,34748	34015	BILLIGHEIM	1	müed	Mir	sin	un	-	hawe	-	durscht.
+132998	9,48669	49,36603	34025	OBERKESSACH	1	med	Mer	sind	u	-	haben	-	durst.
+127424	9,75131	49,37199	34044	AILRINGEN	1	müed	Mir	senn	u	-	henn	-	durst.
+131053	10,04968	49,41216	34058	LICHTEL	1	müd	Mer	san	un	-	heiwa	-	durscht.
+80976	10,29855	49,39891	34065	WINDELSBACH	1	müed	Mir	sann	r	-	heba	-	duarscht.
+98443	8,44734	49,48099	34076	LUDWIGSHAFEN AM RHEIN	1	mied	Mer	sinn	unn	-	henn	-	dorscht.
+131624	8,72439	49,49399	34096	URSENBACH	1	mid	Ma	sinn	un	-	häwn	-	derscht.
+100198	8,96544	49,52482	34216	GAMMELSBACH	1	mid	Mer	seim	un	-	häwe	-	dorst.
+131022	9,2439	49,53425	34228	RUMPFEN	1	müde	Wie	sen	und	-	hen	-	dorscht.
+133647	9,5049	49,53499	34235	GERICHTSTETTEN	1	müd	Wir	sinn	un	-	höwn	-	durscht.
+127954	9,73105	49,54759	34247	KÖNINGSHOFEN	1	müäd	M'r	sann	un	-	höüwä	-	derscht.
+71509	10,00364	49,53411	34266	AUFSTETTEN	1	müad	Mir	sen	und	-	höba	-	duarst.
+85270	10,26555	49,57552	34288	WEIGENHEIM	1	müad	Mer	senn	und	-	heba	-	dorscht.
+98888	8,44622	49,66245	34305	BOBSTADT	1	mid	Mehr	sinn	un	-	henn	-	dorscht.
+99179	8,71527	49,65645	34321	MITTERSHAUSEN	1	mid	Mer	sin	un	-	hewn	-	dorscht.
+132448	8,52712	49,00389	34447	BERGHAUSEN	1	müd	Mir	senn	unn	-	henn	-	dorscht.
+132319	9,26281	49,02206	34503	WINZERHAUSEN	1	müed	M'r	send	u	-	hänt	-	durscht.
+544414	9,540869694	49,05526871	34522	LIEMERSBACH	1	müed	Mr	sind	und	-	hend	-	durscht.
+129426	9,76976	49,02851	34535	EUTENDORF	1	miad	Miar	senn	uns	-	hend	-	durscht.
+133651	10,03779	49,07016	34545	HONHARDT	1	miad	Mar	san	u	-	häwa	-	durscht.
+84337	10,29368	49,06036	34557	SEGRINGEN	1	mied	Mir	sin	und	-	-	-	durschti.
+132099	8,48928	49,16535	34566	GRABEN	1	mied	Mur	senn	unn	-	henn	-	dorschd.
+129784	8,75076	49,17902	34707	ODENHEIM	1	mid	Mer	senn	un	-	häwa	-	dorscht.
+131137	9,04557	49,17711	34734	MASSENBACHHAUSEN	1	mid	Mir	sen	un	-	häwe	-	dorscht.
+544422	9,259617235	49,17403608	34750	BINSWANGEN	1	müd	Mir	sin	u	-	hebn	-	dorscht.
+132484	9,50581	49,20179	34773	ÖHRINGEN	1	mied	Mar	sin	und	-	hewa	-	dorscht.
+130602	9,77159	49,22127	34791	DÖTTINGEN	1	müed	Wir	sen	und	-	hevw	-	durscht.
+131563	10,00529	49,21815	34802	GAGGSTATT	1	mied	Mer	senn	und	-	hewe	-	duerschd.
+83055	10,30317	49,2154	34818	DORFGￃﾜTINGEN	1	müed	Mer	san	uns	-	heba	-	durscht.
+86624	10,55891	49,05667	34838	RￃﾖCKINGEN	1	müad	Mer	sen	und	-	höba	-	durscht.
+90276	10,79788	49,07592	34855	WINDSFELD	1	mühat	Mir	sen	u	-	haben	-	duarst.
+93045	11,05857	49,0799	34872	ETTENSTATT	1	moid	Mir	san	und	-	ham	-	durscht.
+78399	11,29856	49,08918	35003	UNTERMￃﾄSSING	1	mäid	Wir	sein	u	-	hom	-	durscht.
+74152	11,56796	49,10204	35011	GIMPERTSHAUSEN	1	müd	Wir	sind	und	-	haben	-	durst.
+71608	11,80902	49,09535	35026	BERATZHAUSEN	1	mar	Mia	san	und	-	hom	-	duascht.
+73344	12,0673	49,1151	35035	EITLBRUNN	1	müad	Mia	san	und	-	hobn	a	durscht.
+91348	12,30395	49,09295	35046	ALTENTHANN	1	müd	Wie	sind	u	-	haben	-	durscht.
+92821	10,54482	49,22796	35055	RAUENZELL	1	müad	Mie	san	und	-	hobn	-	duarscht.
+91279	10,77453	49,23381	35067	ISMANNSDORF	1	müet	Mer	seim	und	-	hebn	-	dorscht.
+70858	11,05323	49,26665	35165	BￃﾜCHENBACH	1	möid	Mir	senn	und	-	hobn	-	durscht.
+79457	11,30851	49,26458	35168	SELIGENPORTEN	1	meid	Mia	san	u	-	hobn	-	durscht.
+81535	11,58242	49,26041	35188	GￃﾜNCHING	1	maüd	Wir	san	und	-	hom	-	durst.
+83858	11,83645	49,28746	35195	ADERTSHAUSEN	1	muü	Mia	san	und	-	hem	-	duascht.
+84806	12,07574	49,27923	35204	WIEFELSDORF	1	mööd	Wir	san	u	-	hobm	-	durscht.
+75662	12,3034	49,26958	35211	BODENWￃﾖHR	1	mäid	Ma	san	und	-	ham	-	durschd.
+90207	10,50832	49,40157	35223	FLACHSLANDEN	1	mud	Wir	senn	und	-	ham	-	durscht.
+70872	10,78893	49,40409	35236	GROSSHABERSDORF	1	mied	Wir	sen	und	-	hem	-	dorscht.
+88899	11,26115	49,41257	35254	BIRNTHON	1	mei	Mir	sen	u	-	honen	-	durscht.
+544228	11,03657675	49,41647082	35339	RￃﾖTHENBACH	1	möid	Mie	sen	u	-	hebn	-	durscht.
+77160	11,54411	49,42912	35377	ALFELD	1	möid	Mia	sann	und	-	hom	-	duascht.
+92487	11,75991	49,43993	35382	AMMERTHAL	1	möüd	Wir	san	und	-	hom	-	durscht.
+76222	12,05548	49,43541	35393	TRISCHING	1	med	Wir	sand	und	-	haben	-	dürscht.
+77313	10,51095	49,58186	35517	UNTERNESSELBACH	1	müd	Mer	senn	und	-	hemm	-	dorscht.
+92619	10,76904	49,58998	35524	OBERREICHENBACH	1	mied	Mir	sen	und	-	häm	-	doscht.
+85286	11,04964	49,59343	35544	BUCKENHOF	1	müad	Mir	sin	und	-	haben	-	durscht.
+80296	11,2727	49,58234	35562	KIRCHRￃﾖTTENBACH	1	mei	Mia	sen	und	-	han	-	Durscht.
+72938	11,52376	49,59651	35571	HARTENSTEIN	1	mäid	Mir	san	und	-	han	-	durscht.
+86320	11,7912	49,607	35577	SCHLICHT	1	müd	Wie	sein	u	-	hoben	-	durscht.
+80555	12,01846	49,59211	35585	KOHLBERG	1	möid	Mia	sen	und	-	hom	-	durscht.
+78547	12,31766	49,60633	35597	OBERLIND	1	möid	Mir	san	und	-	haben	-	duarscht.
+73801	10,47624	49,74814	35710	HAAG	1	müd	Mr	sen	und	-	ham	-	doschd.
+88467	10,77547	49,75347	35729	MￃﾜHLHAUSEN	1	med	Wir	senn	unr	-	hom	-	durscht.
+85428	11,03	49,76363	35755	PAUTZFELD	1	mü	Wie	sin	und	-	han	-	durscht.
+84090	11,26105	49,76878	35762	MOGGAST	1	müh	Wir	sen	und	uus.	-	-	dörst
+86952	11,5433	49,75642	35778	PEGNITZ	1	möih	Wir	sen	und	-	han	-	duoscht.
+78377	11,82038	49,78699	35791	SPEINSHART	1	möid	Wia	san	und	-	hom	-	durscht.
+92020	12,03638	49,77975	35799	FRIEDERSREUTH	1	möid	Mia	san	und	-	hobn	-	durscht.
+80913	12,31033	49,78557	35807	PLￃﾖSSBERG	1	möid	Mire	san	und	-	hobn	-	durscht.
+78900	10,49998	49,88641	35824	GEUSFELD	1	müed	M'r	senn	und	-	häm	-	durst.
+80879	10,77167	49,90142	35843	TￃﾜTSCHENGEREUTH	1	müd	Mir	sen	und	-	ham	-	durscht.
+83906	11,29084	49,93687	36007	HOLLFELD	1	müh	Mia	senn	und	-	ham	-	duascht.
+73059	11,51595	49,93435	36017	DONNDORF	1	müd	Weh	sen	und	-	hobn	-	doirscht.
+91734	11,78525	49,922	36039	KIRCHENPINGARTEN	1	maid	Mia	sen	und	-	hem	-	duascht.
+77978	12,0609	49,93217	36049	HOHENHARD	1	möid	Mia	san	und	-	hom	-	durscht.
+71694	12,2854	49,94685	36056	LEONBERG	1	möid	Mia	san	und	-	hom	-	durscht.
+535430	7,14395868	48,07027814	36065	HOHRODBERG	1	mied	Mer	se	un	-	han	-	Durscht.
+31694	7,36359	48,08198	36084	COLMAR	1	mied	Mer	san	un	-	han	-	durscht.
+27113	7,54397	48,44858	36159	MEISTRATZHEIM	1	miad	M'r	sin	a	-	ha	-	durscht.
+132470	7,83364	48,46521	36178	MÜLLEN	1	mied	M'r	sin	un	-	hän	-	derscht.
+535438	8,318877104	48,47427737	36202	KNIEBIS (KR.FREUDENSTADT)	1	miad	Mer	senn	on	-	hänn	-	durscht.
+128437	8,08784	48,49713	36272	ÖDSBACH	1	müed	Wer	sin	un	-	hen	-	durscht.
+30266	7,09516	48,56921	36277	TURQUESTEIN-BLANCRUPT	1	mid	Mer	sinn	un	-	han	-	durscht.
+29369	7,30732	48,6228	36282	WANGENBOURG	1	mued	Mer	sin	und	-	hann	-	Dorscht.
+34859	7,56378	48,61325	36309	FURDENHEIM	1	miäd	M'r	sen	un	-	hän	-	Durscht.
+535446	7,800596219	48,61004415	36334	RUPRECHTSAU	1	müid	Mir	sinn	un	-	han	-	Durschd.
+130859	8,06363	48,62871	36348	ACHERN	1	müed	Mr	senn	un	-	henn	-	duerscht.
+522594	7,05201	48,73253	36362	SAARBURG	1	mied	M'r	sinn	un	-	henn	-	durscht.
+171959	7,26992	48,75755	36489	BOIS DE CHÊNE	1	mid	Mer	sin	un	-	han	-	durscht.
+31730	7,55068	48,7751	36525	WILSHAUSEN	1	mied	Mer	senn	un	-	han	-	Durscht.
+30134	7,81552	48,78159	36552	MARIENTHAL	1	mied	M'r	sen	un	-	hann	-	Durscht.
+36426	8,05803	48,80321	36567	FORT-LOUIS	1	mied	Mr	sin	un	-	hann	-	durscht.
+129232	8,30895	48,81087	36594	BAD ROTENFELS	1	med	Wir	sin	un	-	hän	-	durscht.
+27494	6,98122	48,93023	36737	ALTWILLER	1	müd	Mir	sind	un	-	han	-	durscht.
+29239	7,25159	48,91879	36755	WEISLINGEN	1	mid	M'r	sin	un	-	han	-	durscht.
+28610	7,48181	48,9216	36772	LICHTENBERG	1	müad	Merr	senn	un	-	hann	-	Durschd.
+29006	7,76782	48,95111	36789	GOERSDORF	1	mued	M'r	sin	und	-	han	-	durscht.
+25854	8,04269	48,95814	36823	SIEGEN	1	mied	Mir	sin	un	-	hann	-	durscht.
+134177	8,26776	48,96981	36842	NEUBURGWEIER	1	müd	Wir	sinn	unn	-	hewwe	-	durscht.
+127778	7,62537	48,10625	36880	BISCHOFFINGEN	1	müäd	Mer	sin	un	-	hän	-	durscht.
+134007	7,88416	48,12924	36898	MALECK	1	müed	Mer	sin	un	-	hen	-	Durscht.
+129888	8,0932	48,15752	36911	YACH	1	müad	Mr	sin	un	-	hän	-	durscht.
+31120	7,38445	48,24184	36933	ORSCHWILLER	1	miott	M'r	se	un	-	hann	-	Durscht.
+31314	7,60713	48,28366	37007	BINDERNHEIM	1	müad	Mat	se	u	-	ha	-	Durschd.
+132276	7,85658	48,27938	37025	SCHMIEHEIM	1	mied	M'r	sind	un	-	hen	-	Durscht.
+131725	8,07369	48,29315	37035	BOLLENBACH	1	miad	Mr	sin	un	-	hen	-	durscht
+34415	7,33005	48,40339	37058	LE HOHWALD	1	miad	Mar	se	u	-	ha	-	durscht.
+132924	8,37655	48,16035	37119	BUCHENBERG	1	müad	Mir	san	und	-	han	-	dorscht.
+129752	8,6275	48,16786	37138	ROTTWEIL	1	müad	Mr	sind	u.	-	hond	-	Durscht.
+132412	8,86282	48,16319	37153	OBERNHEIM	1	miad	Me	sind	u	-	haut	-	durscht.
+128051	9,11728	48,17723	37302	WINTERLINGEN	1	mied	Mie	send	ond	-	haut	-	durscht.
+131215	9,35367	48,20566	37314	DÜRRENWALDSTETTEN	1	müad	Wiar	sind	u	-	hend	-	duscht.
+132414	9,6255	48,21166	37333	HAUSEN AM BUSSEN	1	muad	Mir	send	d	-	haunt	-	dust.
+128322	9,8845	48,20597	37354	BAUSTETTEN	1	miad	M'r	sänd	und	-	hand	-	duhscht.
+81585	10,10404	48,22279	37369	ILLERTISSEN	1	müad	Wir	sind	und	-	hend	-	durscht.
+129571	8,37253	48,31105	37388	SCHENKENZELL	1	mied	Mier	sin	un	-	hen	-	durscht.
+130666	8,57013	48,31544	37401	AISTAIG	1	müad	Miar	send	und	-	häut	-	durscht.
+128030	8,81662	48,35457	37555	STETTEN BEI HAIGERLOCH	1	müad	Mir	seinn	und	-	häbi	-	duscht.
+133459	9,12013	48,35833	37571	SALMENDINGEN	1	müad	Miar	sind	und	-	haud	-	duscht.
+132598	9,33549	48,3568	37581	BERNLOCH	1	müad	M'r	send	u.	-	Hent	-	duhscht.
+129053	9,60621	48,37705	37598	GUNDERSHOFEN	1	müad	Mer	send	u	-	hant	-	dust.
+128359	9,87924	48,36355	37607	EGGINGEN	1	müed	Wirr	sand	u	-	hand	-	duscht.
+74978	10,10684	48,37944	37622	HOLZHEIM	1	meur	Mir	sei	en	-	hä	-	Doscht.
+133441	8,57584	48,49849	37658	OBERWALDACH	1	miead	Mer	send	ond	-	hend	-	duurst.
+127575	8,83695	48,52245	37802	BONDORF	1	müad	Wir	sind	u	-	häbn	-	durst.
+131441	9,07887	48,53096	37825	LUSTNAU	1	müad	Mer	sind	und	-	häbe	-	durst.
+130804	9,34646	48,52951	37855	DETTINGEN AN DER ERMS	1	mied	Mr	send	u	-	hent	-	duscht.
+132136	9,56312	48,51405	37862	DONNSTETTEN	1	müad	Mr	send	ond	-	hent	-	duscht.
+132857	9,85361	48,52731	37869	RADELSTETTEN	1	müed	Wie	seind	ond	-	häbn	-	dust.
+131298	10,0765	48,55285	37883	BALLENDORF	1	müad	Miär	sein	ond	-	haba	-	duscht.
+93272	10,32391	48,56885	37900	OBERMEDLINGEN	1	müad	Mr	sönd	ons	-	hant	-	durscht.
+128211	8,34869	48,63918	37902	RAUMÜNZACH	1	miad	Mer	sinn	un	-	hem	-	durscht.
+130893	9,05976	48,66017	37947	SCHÖNAICH	1	müäd	Mär	send	ond	-	hent	-	durst.
+132539	8,54684	48,67203	38044	HÜNERBERG	1	miad	Miar	send	ond	-	hen	-	durscht.
+129506	8,82859	48,69507	38056	GECHINGEN	1	miad	Mer	sen	on	-	hen	-	durscht.
+127326	9,31773	48,69423	38095	DENKENDORF	1	müad	M'r	seang	un	-	haben	-	durscht.
+131250	9,56681	48,69308	38116	ALBERSHAUSEN	1	miad	Mir	send	ond	-	hind	-	dihrscht.
+130160	9,8211	48,71191	38136	WINZINGEN	1	müad	Mer	sind	und	-	hant	-	duscht.
+132357	10,06418	48,72989	38146	ZANG	1	miad	Wiar	send	und	-	hant	-	durst.
+129855	10,29294	48,731	38155	AUERNHEIM	1	müed	Us	sind	u	-	hant	-	durscht.
+131983	8,55523	48,82296	38169	DENNACH	1	müad	Mar	sen	on	-	hen	-	durscht.
+132338	8,80329	48,82521	38182	TIEFENBRONN	1	müed	Mir	sen	un	-	hen	-	durscht.
+129516	9,03021	48,84495	38348	SCHÖCKINGEN	1	müad	Mer	send	u	-	hent	-	durscht.
+130587	9,29823	48,8577	38373	HEGNACH	1	müad	Mir	send	und	-	hent	-	turscht.
+128316	9,54865	48,85844	38407	STEINENBERG	1	muad	Mar	send	ond	-	hent	-	durscht.
+131913	9,81435	48,88102	38422	RUPPERTSHOFEN	1	müad	Mer	send	und	-	hend	-	durscht.
+129290	10,0482	48,8833	38437	FACHSENFELD	1	müad	Wir	sand	ond	-	hent	-	durscht.
+130117	10,31352	48,90259	38448	BALDERN	1	müd	Wir	send	u	-	habet	-	düst.
+130252	8,74383	48,99804	38482	KLEINVILLARS	1	miad	Mr	sen	onn	-	henn	-	durschd.
+133433	9,02154	48,99915	38502	HOHENHASLACH	1	miad	Mer	sein	on	-	henn	-	duerscht.
+132343	8,86067	48,00602	38623	NENDINGEN	1	miad	Ma	sind	und	-	hond	-	durschd.
+132477	9,10207	48,01811	38640	ROHRDORF	1	miad	Me	sind	und	-	hond	-	duascht.
+130194	9,38609	48,01005	38655	VÖLLKOFEN	1	müad	Wiar	send	ond	-	hent	-	duscht.
+129126	9,61467	48,01934	38666	REICHENBACH	1	müad	Miar	sind	u	-	hond	-	duscht.
+131901	9,88168	48,04583	38682	MITTELBUCH	1	mied	Mier	sind	u	-	hent	-	duscht.
+128901	10,12798	48,0594	38695	UNTEROPFINGEN	1	müad	Mr	sind	u	-	hand	-	duscht.
+81558	10,59756	48,568	38720	KICKLINGEN	1	müad	Wir	sind	und	-	ham	-	durscht.
+83465	10,83586	48,57347	38738	WESTENDORF	1	müad	[A?]s	sim'r	u.	-	hond	-	durscht.
+89893	11,33526	48,58019	38764	WAIDHOFEN	1	miad	Mia	san	und	-	ham	-	durschd.
+74038	11,5777	48,58007	38774	ESCHELBACH AN DER ILM	1	müd	Mir	san	und	-	haben	-	durscht.
+74385	11,09074	48,58242	38863	PￃﾖTTMES	1	müed	Mier	sei	und	-	hum	-	dursch.
+87550	11,82132	48,5868	38899	HEBRONTSHAUSEN	1	müd	Wir	san	und	-	ham	-	durscht.
+74959	12,11336	48,60961	38912	OBERGLAIM	1	müd	Wir	san	und	-	hama	-	durst.
+72973	10,5672	48,73137	38935	FRONHOFEN	1	müad	Os	sind	ondt	-	hont	-	durscht.
+86825	11,07121	48,74457	38963	STEPPERG	1	müad	Mir	sin	und	-	hobn	-	Durscht.
+87505	10,84006	48,75927	39062	HAFENREUT	1	müad	Wir	sind	u	-	habi	-	Durscht.
+91872	11,34577	48,75413	39089	GEROLFING	1	miad	Mia	san	u	-	hobn	-	duascht.
+93570	11,57629	48,76108	39103	IRSCHING	1	müad	Mir	san	u	-	haben	-	duscht.
+92240	11,84985	48,75567	39116	SIEGENBURG	1	müad	Mia	sama	und	-	hama	-	duascht.
+73861	12,07877	48,78621	39126	SEMERSKIRCHEN	1	müad	Mia	sand	und	-	haben	-	durst.
+83760	12,30322	48,76569	39140	HOFKIRCHEN	1	meüt	Wür	sand	u	-	hama	-	durscht.
+92861	10,55239	48,90411	39160	DￃﾜRRENZIMMERN	1	müad	Ons	send	und	-	hand	-	durscht.
+87863	10,84499	48,91055	39179	GUNDELSHEIM	1	müad	Wiar	san	und	-	hann	-	durschti.
+79905	11,30127	48,91192	39201	WALTING	1	miad	Mir	san	und	-	hom	-	durscht.
+90807	11,03844	48,92811	39293	BIESWANG	1	möid	Mir	san	und	-	hobn	-	duoscht.
+80799	11,56632	48,94379	39317	PONDORF	1	moüd	Mir	san	und	-	hom	-	durscht.
+544532	11,86022084	48,92952421	39329	NEUKELHEIM	1	müad	Mir	sand	u.	-	ham	-	durst.
+73106	12,06031	48,92014	39342	PEISING	1	müad	Mir	san	un	-	hama	-	durscht.
+89286	10,34917	48,07733	39356	ARLESRIED	1	miad	Mir	sen	und	-	han	-	duscht.
+79195	10,64019	48,06227	39370	TￃﾜRKHEIM	1	müad	Wie	send	und	-	hand	-	duscht.
+85373	11,37906	48,06724	39398	GAUTING	1	müad	Mir	san	u	-	ham	-	durscht.
+74196	10,86116	48,08685	39459	KAUFERING	1	müed	Wir	sen	u	ins.	-	-	durscht
+83352	11,1147	48,08132	39475	ECHING AM AMMERSEE	1	müad	Mier	seind	un	-	haben	-	durscht.
+89000	11,63032	48,10063	39494	PERLACH	1	meiad	Mir	sand	und	-	haben	-	duarst.
+93263	11,82207	48,08316	39503	ZORNEDING	1	müad	Mir	soan	und	-	ham	-	durst.
+93298	12,11102	48,11149	39509	ALBACHING	1	müad	Wir	sand	-	-	hama	-	Durst
+80835	12,33055	48,0921	39515	SANKT LEONHARD	1	müad	Mir	san	und	-	ham	-	duarscht.
+71494	10,37948	48,22448	39517	NIEDERRAUNAU	1	muad	Mir	send	u	-	hand	-	duscht.
+82192	10,59053	48,22651	39529	WALKERTSHOFEN	1	müad	Mer	sind	und	-	hand	-	durscht.
+84488	10,85682	48,23762	39546	OBEROTTMARSHAUSEN	1	müad	Mir	sind	und	-	hand	-	duscht.
+74035	11,09471	48,25545	39647	MITTELSTETTEN	1	miad	Mi	sen	u	-	haben	-	durschd.
+91230	11,36479	48,259	39662	BERGKIRCHEN	1	müha	Mia	sin	-	e	-	-	durschtuns.
+78425	11,56857	48,27277	39667	UNTERSCHLEISSHEIM	1	miad	Wir	san	und	-	hebn	-	durst.
+91670	11,84372	48,27687	39673	MOOSINNING	1	müad	Wir	san	und	-	habm	-	durscht.
+83532	12,123	48,27017	39687	OBERDORFEN	1	miad	Mia	sand	und	-	hama	-	duscht.
+76916	10,35773	48,39694	39693	WETTENHAUSEN	1	müad	Wie	sind	u	-	hent	-	durscht.
+88455	10,59655	48,39991	39710	ZUSMARSHAUSEN	1	müad	Uns	sind	und	-	hant	-	durscht.
+88843	10,82614	48,41021	39723	TￃﾄFERTINGEN	1	müd	Miar	send	und	-	hond	-	durscht.
+72348	11,09634	48,41371	39742	GALLENBACH	1	müad	Wi	send	und	-	hom	-	durscht.
+73328	11,35435	48,42974	39865	HILGERTSHAUSEN	1	müe	Mir	sen	und	-	haben	-	durscht.
+72319	11,59892	48,43114	39880	ALLERSHAUSEN	1	müad	Wir	san	u	-	haben	-	durscht.
+544547	11,85874117	48,44110373	39891	RAST	1	miad	Mier	sena	u	-	homn	-	durscht.
+87052	12,10757	48,4469	39901	VILSHEIM	1	müad	Me	sand	u	-	hamä	-	duescht.
+82925	12,62129	49,10828	39954	SATTELBOGEN	1	möid	Mia	san	und	-	hom	-	Durscht.
+89344	12,83618	49,11683	39962	KRAILING	1	me͡îd	Mir	sand	nud	-	hama	-	Durscht.
+73289	13,04039	49,10159	39968	OBERRIED	1	mēd	Wir	san	und	-	habm	-	Durst
+85816	12,34467	49,42629	40000	PERTOLZHOFEN	1	meid	Wir	san	und	-	hobm	-	durscht.
+75007	12,58351	49,43764	40012	TIEFENBACH	1	möüd	Wia	san	u	-	hom	-	durscht.
+76282	12,61149	49,26579	40047	PEMFLING	1	moid	Mir	sen	und	-	homa	-	durscht.
+72456	12,81439	49,27324	40057	ARNSCHWANG	1	möihd	Wir	san	und	-	ho(h)m	-	durschdt.
+81519	12,59359	48,12803	40112	WALD AN DER ALZ	1	müad	Mia	san	und	-	ham	-	durscht.
+77601	12,33456	48,30807	40137	RANOLDSBERG	1	müad	Mia	san	und	-	haben	-	durschd.
+88448	12,57622	48,27659	40145	ERHARTING	1	mied	Wie	sama	und	-	ham	-	durscht.
+82164	12,87181	48,27722	40155	GUMPERSDORF	1	müad	Mir	san	u	-	ham	-	duascht.
+93127	12,35586	48,44847	40191	VILSBIBURG	1	müad	Mia	san	und	-	ham	-	durscht.
+80656	12,56337	48,4371	40202	GANGKOFEN	1	miad	Mia	sama	und	-	hemma	-	durscht.
+90464	12,84533	48,45503	40212	NEUHOFEN	1	miad	Mia	sama	und	-	ham	-	duascht.
+91891	13,09117	48,44358	40220	BAD BIRNBACH	1	müad	Mir	sama	u	asuns.	-	-	durscht
+83577	13,33631	48,43818	40231	RUHSTORF AN DER ROTT	1	müad	Mir	sand	und	-	hama	-	durscht.
+86881	12,34456	48,62368	40274	WￃﾖRTH AN DER ISAR	1	müad	Wia	sama	u	-	hamand	-	duascht.
+89554	12,57731	48,59899	40286	GRIESBACH	1	müad	Wir	soanna	und	-	hamma	-	duarscht.
+73681	12,82663	48,60642	40297	INDERSBACH	1	miad	Mia	sand	-	-	hoamm	an	douscht.
+89328	13,07675	48,60848	40308	WALCHSING	1	müdi	Schir	sand	u	-	hama	-	durst.
+73805	13,32647	48,64583	40320	KIRCHBERG	1	müad	Mia	san	u	-	hamer	-	duarst.
+75559	13,59698	48,61501	40331	HAAG	1	miad	Mia	sand	u	-	ham	-	durscht.
+89926	12,58848	48,75623	40402	HANKOFEN	1	müad	Mia	saema	und	-	hama	-	durst
+75653	12,87113	48,77837	40414	PLATTLING	1	müad	Mia	san	und	-	hama.	an	duascht
+91866	13,09897	48,80355	40420	AUERBACH	1	miad	Mia	sant	und	-	homa	-	duascht.
+84111	13,35627	48,77431	40428	SALDENBURG	1	müd	-	san	und	-	-	-	durschtö
+84144	13,58501	48,76475	40439	KARLSBACH	1	mead	Wie	sant	u	-	hebm	-	duarst.
+72278	12,61304	48,95448	40516	STEINACH	1	müad	Mir	samma	und	-	hamma	-	durschd.
+85441	12,80208	48,95084	40524	PERASDORF	1	meid	Mie	same	-	mir	hame	-	duascht.
+73191	13,12842	48,96849	40531	REGEN	1	miad	Mia	san	end	-	habm	an	durscht.
+78467	13,31941	48,92172	40535	KLINGENBRUNN	1	Müad	-	hanma	und	-	hamwa.	-	durschd
+86464	12,35085	48,91814	40538	RIEKOFEN	1	müad	-	Senma	und	-	-	-	dursti.
+79504	9,68397	47,54611	40597	LINDAU (BODENSEE)	1	müed	Mir	sind	und	-	hond	-	durscht.
+534361	9,920912754	47,54890348	40605	SCHNELLERS	1	miad	Mir	sind	u	-	hond	-	durscht.
+72151	10,13498	47,56238	40613	RATHOLZ	1	mied	Mir	sind	und	-	hant	-	durscht.
+133937	8,18086	47,6336	40637	ESCHBACH	1	müed	Mer	sind	u	-	händ	-	durscht.
+129007	8,42011	47,66108	40655	ERZINGEN	1	müed	Wie	sind	und	-	hand	-	durst.
+132354	8,90035	47,68774	40757	SCHIENEN	1	müad	Miar	sind	u	-	hond	-	durscht.
+546010	9,146804618	47,69228556	40771	WOLLMATINGEN	1	müed	Mer	sind	und	-	hond	-	durscht.
+129179	9,40004	47,69278	40785	KLUFTERN	1	miad	Mr	sind	und	-	hont	-	durscht.
+128674	9,64125	47,6819	40798	OBEREISENBACH	1	müad	Miar	heind	und	-	hond	-	durscht.
+129612	9,89935	47,72211	40807	RATZENRIED	1	müäd	Mir	sind	u	-	hent	-	durscht.
+535603	10,12658869	47,70975489	40819	KREUZTHAL	1	miad	Mir	send	und	-	hand	-	durscht.
+131887	8,39596	47,82501	40844	MÜNCHINGEN	1	müat	Mä	sind	und	-	händ	-	durscht.
+129798	8,66036	47,81721	40863	TENGEN	1	müad	Mr	sänd	u	-	hont	-	durscht.
+129675	9,13657	47,83337	40898	BILLAFINGEN	1	müed	Mier	sind	u	-	hond	-	duesd.
+130872	8,8974	47,85806	41018	EIGELTINGEN	1	müed	Mr	sind	und	-	hond	-	durschd.
+133733	9,37456	47,86209	41049	ILLMENSEE	1	müad	Wir	sind	un	-	hont	-	durscht.
+133939	9,66279	47,84325	41057	BAINDT	1	müad	Mar	sind	u	-	hont	-	durst.
+132320	9,86355	47,89058	41064	ZIEGELBACH	1	mead	Miar	sind	und	-	hond	-	durscht.
+91094	10,13795	47,88954	41076	MARIA STEINBACH	1	miad	Miar	sind	und	-	hand	-	duscht.
+132801	8,16331	47,98172	41086	WALDAU	1	mied	Mier	sin	un	-	hen	-	duerscht.
+133559	8,38827	47,96002	41098	HUBERTSHOFEN	1	miad	M'r	sind	und	-	hont	-	durscht.
+133784	8,63525	47,99144	41114	ÖFINGEN	1	müed	Mer	sind	und	-	hont	-	dorscht.
+31069	6,99386	47,7727	41200	MASEVAUX	1	miad	Mr	si	unn	-	ha	-	Durscht.
+25178	7,15065	47,7618	41214	ASPACH-LE-BAS	1	miad	Mir	sin	un	-	hann	-	durscht.
+127959	7,65665	47,78685	41245	LIPBURG	1	müed	Mir	sin	un	-	hiu	-	Durst.
+131987	7,91301	47,80054	41262	UTZENFELD	1	müed	Mir	sind	un	-	hen	-	Durscht.
+546039	8,177056956	47,79865784	41275	SCHLUCHSEE - BLASIWALD	1	müed	Mer	sind	und	-	hän	-	durscht.
+23927	7,37872	47,94354	41296	OBERENTZEN	1	miad	Mir	sin	un	-	hann	-	durst.
+133429	7,64962	47,93629	41309	FELDKIRCH	1	müad	Mr	sinn	un	-	hün	-	Durscht.
+128554	7,90831	47,96423	41336	KAPPEL	1	müad	Mir	sind	und	-	hän	-	durscht.
+27759	6,95521	47,88255	41351	URBÈS	1	mied	Mer	si	un	-	han	-	durscht.
+32998	7,15658	47,90483	41365	RIMBACH-PRÈS-GUEBWILLER	1	miad	Mer	sen	un	-	han	-	durscht.
+26570	7,39739	47,74412	41460	RIXHEIM	1	miad	Mr	sen	un	-	hann	-	Durscht.
+33696	7,44726	47,58851	41566	RANSPACH-LE-BAS	1	miatt	Mr	sinn	un	-	haij	-	Durscht.
+131694	7,66409	47,61258	41598	LÖRRACH	1	müed	Mer	si	und	-	hai	-	Durst.
+130474	7,94873	47,62902	41623	HÜTTEN	1	müed	Mer	sind	und	-	händ	-	Durscht.
+24527	7,1873	47,56163	41653	LARGITZEN	1	mied	Mer	sin	un	-	hei	-	Duescht.
+36499	7,246	47,42133	41714	LUCELLE	1	miad	Mir	sie	un	-	hai	-	durscht.
+81078	11,3957	47,9297	41785	HￃﾖHENRAIN	1	miad	Mi	san	und	-	ham	-	durschd.
+82491	11,89878	47,92796	41801	GROSSHￃﾖHENRAIN	1	müad	Mi	han	und	ins	thuat	-	dürsche
+88213	12,07702	47,92339	41811	TATTENHAUSEN	1	müat	Mia	sant	und	-	hamb	-	duscht.
+71373	10,36106	47,90072	41819	OLLARZRIED	1	müed	Mir	send	u	-	hand	-	duscht.
+83571	10,62392	47,8793	41836	KAUFBEUREN	1	müd	Mir	sind	ond	-	hünt	-	duscht.
+88202	10,85157	47,91541	41845	DENKLINGEN	1	müad	Miar	sind	u	-	hant	-	durscht.
+75437	11,10862	47,91142	41855	RAISTING	1	müad	Wi	sind	und	-	habe	-	Durscht.
+79008	11,60938	47,90265	41872	BAIERNRAIN	1	Miad	-	sama	u	-	hama	-	duarst
+74653	11,15493	47,76917	41932	HUGLFING	1	miad	Mir	sen	un	-	hobm	-	durscht.
+89961	11,37598	47,75192	41939	PENZBERG	1	müad	Wi	san	und	-	ham	-	durscht.
+76329	11,63273	47,76683	41948	REICHERSBEUERN	1	müad	Wie	sand	u	-	hebn	-	duast.
+92849	11,86487	47,78497	41953	PARSBERG	1	müad	Mir	san	und	-	haben	-	durscht.
+89038	12,10834	47,77873	41963	KIRCHDORF AM INN	1	müad	Wia	hant	u.	-	Ham	-	durst.
+546057	12,32437868	47,7804255	41969	ASCHAU IM CHIEMGAU-NIEDERASCHAU	1	müad	Mia	san	u	-	han	-	durscht.
+88458	10,37842	47,73522	41971	BETZIGAU	1	miad	Mir	send	und	-	hand	-	duscht.
+70998	10,64225	47,72354	41980	SULZSCHNEID	1	müad	Wier	sind	u	-	hand	-	durscht.
+79796	10,86194	47,70374	41986	STEINGADEN	1	müad	Miar	sin	und	-	hant	-	durst.
+86626	10,80235	47,62584	42039	BAYERNIEDERHOFEN	1	müad	Wie	sein	und	-	haba	-	durscht.
+74050	11,43474	47,60578	42049	JACHENAU	1	müa	Mie	sen	un	-	hom	-	duescht.
+75067	10,4287	47,54427	42056	UNTERJOCH	1	müd	Wir	sind	u	-	haben	-	durst.
+78677	11,13614	47,56027	42062	OBERAU	1	miad	Mir	san	u	-	hobn	-	durscht.
+89391	12,3808	47,92824	42070	EGGSTￃﾄTT	1	miad	Wia	sand	und	-	hom	-	durscht.
+71122	12,60502	47,9401	42076	TRAUNWALCHEN	1	müad	Mia	sand	und	-	ham	-	duischt.
+84494	12,83494	47,95304	42084	KIRCHANSCHￃﾖRING	1	müad	Mer	san	u	-	ham	-	durscht.
+86734	12,6446	47,7642	42116	RUHPOLDING	1	muöd	Mie	san	u	-	ham	-	durscht.
+90765	12,85562	47,8048	42118	ANGER	1	miad	-	hama	und	üns	hund	-	düaschte
+80214	12,89858	47,60782	42132	RAMSAU BEI BERCHTESGADEN	1	müad	Mir	sen	und	-	hobn	-	Durscht.
+143055	5,9236	50,10765	42140	HACHIVILLE	1	mitt	Merr	se	a	merr	han	-	duscht.
+143413	5,8408	50,00969	42166	NIEDERWAMPACH	1	mitt	Mer	sen	an	mer	senn	-	durschterig.
+143331	6,06535	50,02878	42180	NEIDHAUSEN	1	med	Mir	se	a	mir	hann	-	duscht.
+143253	6,0989	49,84595	42236	ETTELBRÜCK	1	midd	Mir	sé	a	mir	sé	-	duschterég.
+143345	5,84827	49,83005	42254	RAMBROUCH	1	mit	Mar	se	an	mer	sen	-	duschterig.
+143183	5,87903	49,68492	42302	EISCHEN	1	mitt	Mir	sen	an	mer	hun	-	Duscht.
+143097	6,13014	49,69662	42316	HÜNSDORF	1	mit	Mir	se	a	mir	hun	-	Duscht.
+143272	6,37179	49,70572	42341	BIWER	1	mét	Min	se	an	-	-	-	duschtrég.
+535595	5,89989933	49,51504146	42414	UEWERKUER	1	mitt	Mer	si	án	-	-	-	duschterig.
+143430	6,12794	49,52288	42431	PEPPANGE	1	mit	Mir	se	an	-	-	-	dirschterich.
+9710	15,38244	47,94787	42469	SCHWARZENBACH AN DER PIELACH	1	müad	Mia	san	und	-	ham	-	Duascht.
+7622	15,55216	47,96124	42470	LEHENROTTE	1	müad	Mia	sand	und	-	hobn	-	durscht.
+1786	15,90216	47,92604	42472	THAL	1	miad	Mir	san	und	-	hab	an	Durscht.
+198	16,08669	47,92652	42477	GRILLENBERG	1	miad	Mia	san	und	-	haum	an	Duascht.
+10140	15,87681701	47,77801293	42520	SCHNEEBERGDￃﾖRFL	1	müd	Mir	san	u	-	hobn	an	durscht.
+9438	16,08847	47,75818	42527	MOLLRAM	1	müad	Mia	san	un	-	hobm	-	duarscht.
+8462	15,48478	47,74201	42532	FREIN AN DER MￃﾜRZ	1	miad	Mia	san	und	-	ham	an	durscht.
+546336	15,54487109	47,59687437	42571	MASSING	1	müad	Mir	san	und	-	hab'n	-	Durst.
+6423	15,82957	47,63272	42573	SEMMERING	1	miad	Mia	san	und	-	hom	-	Duascht.
+214	16,05379	47,59927	42587	FEISTRITZ AM WECHSEL	1	miad	Mir	san	u	-	ham	an	Durscht.
+6273	16,29922	47,56108	42612	GLEICHENBACH	1	miad	Wie	san	und	-	hom	an	durscht.
+534584	16,86813	47,92623	42635	WEIDEN AM SEE	1	miad	Mia	san	und	-	hobm	-	duascht.
+2799	17,06908	47,94045	42637	NICKELSDORF	1	mied	Mia	sahn	und	-	hobm	a	duascht.
+10134	16,35122	47,9008	42640	SIEGERSDORF	1	müad	Mir	san	und	-	hab'n	an	durscht.
+9101	16,54389	47,90702	42647	STOTZING	1	miad	Mir	sad	und	-	hoben	-	duaschd.
+546068	17,26934729	47,87440861	42670	WIESELBURG (MOSONMAGYARￃﾓVￃﾁR)	1	miad	Mia	san	und	-	haum	an	Tuascht.
+1379	17,03243	47,77548	42688	ANDAU	1	miad	Mir	sind	und	-	hobn	an	durst.
+3617	16,33758	47,73828	42691	WIESEN	1	dalei	Mir	sein	und	-	haben	an	durscht.
+9645	16,5	47,74	42701	BAUMGARTEN	1	Miad	Mia	san	und	-	homa	-	Duarscht.
+534585	16,83099	47,74316	42706	APETLON	1	möh	Wi	sünd	un	-	hebben	-	döst.
+10118	16,54986	47,5862	42722	HORITSCHON	1	miad	Wia	sein	u	-	hom	-	Duarst.
+546074	16,70298754	47,63565159	42728	HOLLING (FERTￅﾐBOZ)	1	miad	Mia	sin	und	-	hom	an	Tuast.
+19735	9,40477	47,52836	42748	FRASNACHT	1	müäd	Mär	send	ond	-	händ	-	Dohrscht.
+546200	9,484246649	47,36098971	42821	RIETLI	1	müed	Mer	sönd	und	-	hend	-	Torscht.
+3182	9,68872	47,36211	42843	HOHENEMS	1	müad	Miar	sind	u.	-	hond	-	Dorfb
+1690	9,92969	47,36918	42850	BIZAU	1	möod	Weor	seand	und	-	hund	-	dooscht.
+4515	10,18618	47,35752	42856	RIEZLERN	1	müad	Mir	send	ond	-	hand	-	dürscht.
+19546	9,51164	47,21906	42908	GAMPRIN	1	müad	Mir	sind	un	-	hon	-	Duarst.
+9730	9,70087	47,21608	42926	RÖNS	1	müad	Mir	sind	und	-	hend	-	Dorst.
+748	9,95159	47,24486	42933	BUCHBODEN	1	müd	mer	sänd	und	-	händ	-	Durschd.
+535422	10,14178	47,20829	42939	LECH	1	müäd	Mir	send	ond	-	händ	-	durschd.
+18460	9,43609	47,05023	42970	SARGANS	1	müad	Mr	sind	und	-	hind	-	Durscht.
+9137	9,91962	47,0796	42977	SCHRUNS	1	müad	Mar	sind	u.	-	hond	-	Dorst.
+5330	10,63017	47,5495	42985	VILS	1	müad	Miar	sind	und	-	hond	-	durscht.
+7660	10,45746	47,35978	43004	HINTERHORNBACH	1	miad	Miar	seia	und	-	habe	-	durscht.
+9627	10,7188	47,40497	43013	RINNEN	1	Muad	-	seimr	uns	-	homer.	-	durscht
+432	10,91941	47,39865	43021	EHRWALD	1	müad	Mir	sönn	un	-	habä	-	durscht.
+1185	11,1415	47,37082	43022	LEUTASCH	1	miad	Miar	senn	un	-	hobn	-	durscht.
+7337	10,40366	47,27019	43027	BACH	1	müad	Miar	sei'n	und	-	haba	-	durst.
+546202	10,91525164	47,25459638	43037	SILZERBERG	1	meud	Mier	sem	und	-	haben	-	durscht.
+1238	11,16754	47,27785	43055	HATTING	1	miad	Mir	sein	u.	-	hoabn	-	Durscht.
+1864	10,6733	47,20566	43070	MILS BEI IMST	1	miad	Miar	sein	und	-	hobe	-	Dürst.
+9805	10,94458	47,08861	43122	UNTERRIED	1	miade	Mia	sein	u	-	hobn	-	durcht.
+546216	10,42385701	47,07414704	43133	HOLDERNACH	1	müad	Miar	sei	und	-	hoba	-	durscht.
+8678	10,69065	47,07803	43152	KAUNS	1	miad	Miar	sein	und	-	hoba	-	durschth.
+546220	11,22749746	47,04262442	43161	UNTERBERG	1	müad	Mir	seen	und	-	hobn	-	durscht.
+9415	11,69612	47,43967	43162	PERTISAU	1	müad	Mia	sen	und	-	-	-	durschtig.
+6743	11,87799	47,4296	43173	BRIXLEGG	1	miad	Mia	san	und	-	ham	-	duscht.
+1326	12,13101	47,43303	43183	PENNINGDￃﾖRFL	1	müad	Wiar	sann	und	-	hobn	-	disch.
+534620	11,39128	47,268	43210	INNSBRUCK	1	müad	Miar	sim	und	-	håbn	an	durscht.
+5867	11,65175	47,28259	43224	KOLSASSBERG	1	müad	Miar	sein	u.	-	hobn	-	duarscht.
+5653	11,89594	47,26277	43251	ASCHAU IM ZILLERTAL	1	müad	Miar	hem	und	-	hom	an	durst.
+5578	12,17451	47,22176	43280	KRIMML	1	miad	Mia	send	und	-	homm	an	duscht.
+3357	11,41668	47,08294	43285	TRINS	1	müada	Miar	sein	und	-	hobn	-	durscht.
+1541	11,80858	47,10028	43288	DORNAUBERG	1	müede	Mir	sen	u.	-	hobn	an	Ducht.
+3401	11,56392	47,07904	43297	SCHMIRN	1	müede	Mir	sein	und	-	hobm	-	durst.
+4241	12,39066	47,44653	43301	KITZBￃﾜHEL	1	müad	Mia	send	und	-	ham	-	Duscht.
+2088	12,61808	47,46972	43303	HOCHFILZEN	1	muiad	Mir	san	u	-	haben	-	droscht.
+5210	12,84747	47,42641	43310	SAALFELDEN AM STEINERNEN MEER	1	müad	Mia	sand	u	-	haub	an	duscht.
+10295	13,18832	47,47773	43315	WERFEN	1	miad	Mia	sand	und	-	homd	an	duscht.
+5495	12,34725	47,27256	43331	BRAMBERG AM WILDKOGEL	1	miad	Mia	send	u.	-	send	-	düschdig.
+255	12,64755	47,28096	43340	NIEDERNSILL	1	miad	Mia	send	u	-	-	-	dischtig
+2590	12,87289	47,28677	43347	SANKT GEORGEN	1	müad	-	sanma	und	-	hamma	an	duscht
+1339	13,09941	47,31872	43354	GOLDEGG	1	müad	Mia	sond	und	-	hant	on	duscht.
+1774	13,31958	47,27754	43359	KLEINARL	1	miad	Mia	san	und	-	homt	an	Duscht.
+5826	13,13395	47,11854	43372	BAD GASTEIN	1	müad	Mia	san	und	-	hom	an	duascht.
+546335	12,51516503	47,04156948	43378	BERG-GRUBEN	1	miede	Min	sein	und	-	-	-	diestik.
+8700	12,84031	47,04043	43379	HEILIGENBLUT	1	müed	Mir	seibm	und	-	heum	-	durscht.
+4902	13,38096	47,46482	43381	SANKT MARTIN AM TENNENGEBIRGE	1	müad	Ma	sand	und	-	haben	an	Duascht.
+534426	13,64303421	47,43252461	43384	RAMSAU	1	löj	Mir	seind	u	-	-	-	distig.
+226	13,83698	47,42669	43391	ASSACH	1	müod	Mia	sen	&	-	hobn	an	dust.
+619	14,12842	47,46558	43393	DONNERSBACH	1	hungri	Mir	san	und	-	-	-	durschti.
+3298	13,50701	47,30564	43412	UNTERTAUERN	1	miad	Mia	sand	und	-	homb	-	Durscht.
+534609	14,1970266	47,2083512	43420	PￃﾖLLAU	1	miad	Mir	seind	und	-	hamm	-	diuscht.
+2792	13,59505	47,10385	43427	OBERWEISSBURG	1	miad	Mia	san	und	-	hemd	-	duscht.
+4337	13,86054	47,13683	43433	SAUERFELD	1	miad	Mia	sein	unn	-	ham	an	duscht.
+5991	14,082	47,15748	43439	RANTEN	1	miad	Mir	san	und	-	ham	an	durscht.
+619498	14,34241366	47,47847787	43453	STRECHEN	1	miad	Mia	san	und	-	hom	un	durscht.
+6847	14,59176	47,47537	43455	TREGLWANG	1	müad	Wir	sand	und	-	haben	an	durst.
+6980	14,7566	47,42758	43457	KALWANG	1	miad	Wir	san	und	-	haum	an	durscht.
+2389	15,00592	47,42652	43458	TROFAIACH	1	müad	Mia	sand	u.	-	homb	an	Du[a?]scht
+6194	15,31902	47,45635	43462	HAFENDORF	1	müad	Mir	san	und	-	-	-	durschti.
+8693	15,02024	47,33684	43480	SANKT MICHAEL IN OBERSTEIERMARK	1	miad	Mia	san	und	-	honan	-	Durscht.
+6442	14,37456	47,30846	43488	PUSTERWALD	1	miad	Mia	sem	und	-	hobn	an	duscht.
+8232	14,50683	47,27613	43489	SANKT OSWALD	1	müad	Miar	sand	und	-	ham	an	Dürscht.
+2144	14,86061	47,27134	43494	SANKT MAREIN BEI KNITTELFELD	1	miad	Mia	san	und	-	ham	an	Duascht.
+1078	15,32683	47,27106	43497	FROHNLEITEN	1	miad	Mia	san	und	-	-	-	duaschdi.
+28	14,58797	47,18549	43505	SANKT PETER OB JUDENBURG	1	miad	Mia	san	und	-	-	-	duaschti.
+9054	14,35911	47,12854	43530	TEUFENBACH	1	müed	Mir	san	und	-	hom	an	duarsch.
+547265	14,84171801	47,13405498	43534	SANKT JOHANN	1	müad	Mir	san	und	-	hom	-	Durscht.
+839	15,09385	47,13971	43537	KAINACH BEI VOITSBERG	1	miad	Mit	san	und	-	hama	-	duscht.
+1785	15,31842	47,12932	43544	GRATWEIN	1	müad	Mia	san	u.	-	hobn	an	Durscht.
+546455	15,54737076	47,46487161	43576	FOCHNITZ	1	möd	Mir	san	u	-	-	-	durschti.
+1304	15,78607	47,42619	43579	WENIGZELL	1	miad	Mia	san	und	-	hom	an	durscht.
+6421	16,06044	47,41082	43633	EHRENSCHACHEN	1	miad	Wia	san	und	-	hobn	an	Durscht.
+6462	16,32252	47,40965	43640	SALMANNSDORF	1	miad	Mir	sain	und	-	hobn	an	durscht.
+10382	15,57706	47,30103	43662	SANKT KATHREIN AM OFFENEGG	1	müad	Wir	san	und	-	hobn	-	duarst.
+4749	16,27994	47,26125	43699	SIGET IN DER WART	1	müed	Wir	sein	u	-	sain	-	dursti.
+221	15,80046	47,24372	43715	STUBENBERG	1	müad	Mir	san	un	-	ham	an	Durscht.
+8387	16,0511	47,24824	43726	UNTERROHR	1	müad	Mir	san	u	-	houbn	-	durscht.
+7330	15,59967	47,12305	43756	EGGERSDORF	1	miad	Mir	sein	und	-	-	-	durschti.
+5054	15,8282	47,10255	43761	SINABELKIRCHEN	1	miad	Mia	senn	und	-	hobm	-	duascht.
+3752	16,05235	47,11596	43773	BAD BLUMAU	1	müad	Mir	sen	u	-	hobn	an	duarschst.
+9014	16,29	47,11	43782	DEUTSCH TSCHANTSCHENDORF	1	müad	Wia	seinn	und	-	hobn	an	duast.
+8922	16,56482	47,42237	43850	KLOSTERMARIENBERG	1	miad	Mia	sein	und	-	hobn	an	duascht.
+10504	16,47778	47,05607	43889	MOSCHENDORF	1	miad	Mia	san	ünd	-	hom	-	Dürscht.
+534599	12,31475713	46,92057333	43896	ST. JAKOB	1	mieden,	Mir	seim	-	-	-	-	durstig.
+1146	12,59312	46,9352	43905	OBERPEISCHLACH	1	mide	Mia	seim	u	-	hobm	-	Durscht.
+4804	12,91357	46,92176	43909	MￃﾖRTSCHACH	1	müad	Mia	sinam	und	-	haben	-	duascht.
+10067	13,12956	46,93588	43910	FLATTACH	1	miad	Mir	san	und	-	ham	an	durscht.
+4471	13,30489	46,87654	43938	KOLBNITZ	1	müad	Mir	sein	und	-	-	-	durschtig.
+7303	12,42881	46,78683	43939	AUSSERVILLGRATEN	1	müede	Mier	san	und	-	ind	-	düaschtit.
+3519	12,64129	46,78642	43948	ASSLING	1	müade	Wri	sann	und	-	hobn	-	Durst.
+546625	12,90159739	46,80107624	43959	LINDSBERG	1	mied	Mia	sein	und	-	ham	an	duascht.
+546616	12,88865392	46,6878005	43977	KORNAT	1	müad	Mir	san	u	-	ham	an	durscht.
+9885	13,13513	46,748	43982	BERG IM DRAUTAL	1	müed	Mir	seima	und	-	hom	-	durscht.
+546629	13,14093524	46,63688624	43988	GODERSCHACH	1	müede	Wir	seamr	und	-	håmr	an	Durscht.
+3286	13,61805	46,96121	44006	KREMSBRￃﾜCKE	1	müad	Mir	seim	und	-	heim	-	duschtäg.
+1573	14,14701	46,96508	44010	OBERHOF	1	müad	Mir	seima	und	-	homar	-	durscht.
+4225	13,35354	46,76855	44038	KLEBLACH-LIND	1	müd	Mir	sein	und	-	hab	-	Durscht.
+5274	13,59095	46,81068	44040	OBERMILLSTATT	1	Müedeg	-	seima	u	-	homa.	-	Duarscht
+8265	13,86855	46,81487	44054	PATERGASSEN	1	matsch	Mir	seind	u.	-	hobar	-	durscht.
+8714	14,11499	46,78868	44056	STEUERBERG	1	miad	Mir	sammer	und	-	-	-	dirschti.
+8038	13,37109	46,62639	44109	HERMAGOR	1	miad	Mia	sama	und	-	hama	-	durscht.
+8901	13,62932	46,62924	44117	BLEIBERG-KREUTH	1	müadig	Mar	sanmar	und	-	hama	an	durscht.
+734	13,84913	46,61814	44124	VILLACH	1	müad	Wir	sein	u.	-	håbn	en	durscht.
+6389	14,09615	46,6028	44142	SCHIEFLING	1	müd	Wir	seint	und	-	hobn	an	durscht.
+9342	14,15621	46,52731	44162	SUETSCHACH	1	mied	Mir	sen	u	-	hun	on	durscht.
+2290	14,35719	46,96895	44174	SANKT SALVATOR	1	miade	Mir	seimar	und	-	homar.	an	durscht
+8394	14,56406	46,95104	44182	HEFT	1	müade	Mir	seima	u	-	-	-	dürschte.
+3115	14,84334	46,94205	44189	SCHIEFLING	1	matsch	Mir	seima	u	-	houbna	-	durscht.
+756	15,06027	46,95812	44196	MODRIACH	1	müa	Mia	san	und	-	hobn	-	duscht.
+546667	15,30585759	46,94288017	44200	LAUNEGG	1	miad	Mia	san	und	-	-	-	daschtari.
+7927	14,34325	46,77864	44234	OBERMￃﾜHLBACH	1	miad	Mir	sänd	und	-	haben	-	durst.
+546676	14,59575692	46,78150471	44243	HOCHFEISTRITZ	1	miada	Mir	seima	und	-	homa	an	durscht.
+2653	14,82185	46,76853	44248	SANKT ANDRￃﾄ	1	müada	Wir	samma	u.	-	houbma	an	Durscht.
+8144	15,05749	46,82465	44256	GLASHￃﾜTTEN	1	müad	Mia	san	und	-	hobnma	an	Duarscht
+10163	15,2506	46,75716	44261	SANKT PETER IM SULMTAL	1	müad	Mir	san	u.	-	Haben	an	durst.
+9402	15,33322	46,68678	44295	OBERHAAG	1	miad	Mia	semma	un	-	-	-	duschti.
+546693	14,34094181	46,62086942	44303	KLAGENFURT-HARBACH	1	miad	Mia	seint	und	-	hambt	an	duascht.
+521	14,64	46,59	44308	EBERNDORF	1	miad	Mir	san	und	-	ham	-	durscht.
+546695	14,99264879	46,63785121	44313	LORENZENBERG	1	müada	Mia	sama	u.	-	haben	an	Durst.
+546696	14,83890934	46,59443582	44314	SANKT MARGARETHEN	1	mied	Mir	seme	u	-	ham	-	durscht.
+2342	14,59311	46,48725	44320	BAD EISENKAPPEL	1	müad	Mir	seima	u	-	hombt	-	durst.
+1701	15,79639	46,94074	44333	PALDAU	1	müad	Mir	san	und	-	-	-	durschti.
+7489	16,07	46,95	44347	HOHENBRUGG AN DER RAAB	1	müad	Wiar	san	und	-	hobn	-	duarscht.
+534643	16,23016	46,94766	44358	MOGERSDORF	1	miad	Mia	san	und	-	hom	an	Duscht.
+6381	15,55307	46,91398	44371	ALLERHEILIGEN BEI WILDON	1	miad	Wia	sind	und	-	-	-	dursti.
+8234	15,53776	46,78113	44398	LEIBNITZ	1	mìat	Mia	san	un	-	ham	an	Duascht
+424	15,96717	46,76413	44414	KLￃﾖCH	1	miad	Wir	sua	und	-	-	-	duasta.
+2486	15,81757	46,74348	44425	RATSCHENDORF	1	müad	Mia	san	u.	-	habn	an	durscht.
+548139	15,53005787	46,65028558	44433	LANGEGG	1	müad	Mir	san	und	-	hobn	-	Durst.
+17313	8,67668	47,65174	44519	WILDENSBUCH	1	müed	Mei	sind	und	-	händ	-	Duurst.
+15490	8,92158	47,50308	44610	WITTENWIL	1	müad	Mer	sind	und	-	hend	-	Tuerscht.
+15104	9,17245	47,51119	44685	NEUKIRCH AN DER THUR	1	müd	Mer	send	und	-	händ	-	torscht.
+17325	7,05489	47,21053	44770	MONT-TRAMELAN	1	müüd	Mir	sij	u	-	hei	-	Durscht.
+16781	7,33682	47,17484	44771	PIETERLEN	1	müed	Mir	si	u	-	hei	-	Durscht.
+20067	7,24963	47,08695	44796	MERZLIGEN	1	müed	Mir	si	u	-	hei	-	Durscht.
+19869	7,05094	47,0286	44801	GALS	1	müed	Mir	si	u	-	häi	-	Durscht.
+17342	7,43357	47,42091	44832	HUGGERWALD	1	mied	Mer	si	ond	-	häi	-	Durscht.
+19343	7,70742	47,43095	44851	ZIEFEN	1	müed	Mer	si	und	-	häi	-	Durscht.
+14921	7,94157	47,45097	44858	ANWIL	1	müed	Mer	si	und	-	hei	-	Durscht.
+20355	8,19271	47,48341	44888	UMIKEN	1	müed	Mer	sind	und	-	hand	-	Turscht.
+21142	7,46811	47,26233	44994	GÄNSBRUNNEN	1	mied	Mir	sy	und	-	hey	-	Durscht.
+18840	7,71686	47,29035	45009	OENSINGEN	1	müed	Mir	si	und	-	hei	-	Durscht.
+18911	7,98008	47,30166	45022	MÜHLETHAL	1	müed	Wir	sind	und	-	hand	-	dorscht.
+16367	8,22892	47,295	45067	MEISTERSCHWANDEN	1	müed	Mer	sind	und	-	händ	-	durscht.
+20863	7,47711	47,10073	45192	MÜLCHI	1	müed	Mir	si	und	-	hei	-	Dursch.
+20613	8,21008	47,00992	45195	EIGENTHAL	1	müed	Mer	send	und	-	hend	-	Turscht.
+17289	8,22909	47,15072	45279	HILDISRIEDEN	1	müed	Mer	sind	und	-	hend	-	Dorscht.
+20018	7,99288	47,12224	45299	WILLISAU	1	müed	Mer	sind	und	-	hend	-	Durscht.
+18984	7,75229	47,11468	45312	BLEUEN	1	müed	Mir	si	u	-	hei	-	Durscht.
+21207	8,45336	47,48282	45345	DIELSDORF	1	müed	Mer	sind	und	-	händ	-	Durscht.
+20759	8,64828	47,48988	45356	UNTERWAGENBURG	1	müed	Mer	sind	und	-	hand	-	Turscht.
+546140	8,933650889	47,34867219	45474	BODEN BEI FISCHENTHAL	1	müed	Mir	sind	und	-	händ	-	Durscht.
+15607	9,19226	47,33685	45492	DICKEN BEI DEGERSHEIM	1	müed	Mer	sind	und	-	hend	-	Dorscht.
+18134	8,46842	47,315	45501	BONSTETTEN	1	m+d	Wi	sind	und	-	händ	-	Turscht.
+18535	8,7118	47,33293	45529	RIEDIKON	1	müed	Mer	sind	und	-	händ	-	Turscht.
+21196	8,74759	47,18729	45611	FEUSISBERG	1	müed	Mir	sind	u.	-	händ	-	Durscht.
+17551	9,24974	47,18569	45627	STARKENBACH	1	müäd	Mer	sind	und	-	händ	-	Torscht.
+14984	8,46603	47,13414	45630	RISCH	1	müed	Mr	sind	und	-	händ	-	Durscht.
+20322	8,97469	47,17031	45644	REICHENBURG	1	müed	Mir	sind	ü.	-	händ	-	Duerscht.
+18380	7,26899	46,91951	45692	SÜRI	1	müed	Mir	sie	u	-	hei	-	Turscht.
+18409	7,11169	46,89102	45694	COURLEVON	1	müäd	Miär	si	un	-	hei	-	Durscht.
+16831	7,27905	46,75873	45716	BRÜNISRIED	1	müed	Wir	si	u	-	hi	-	durscht.
+15071	7,16491	46,7464	45718	FERPICLOZ	1	müed	Mir	si	j	-	hei	-	Durscht.
+18597	7,29083	46,575	45722	ABLÄNDSCHEN	1	müdi	Wi	si	u	-	hei	-	Durscht.
+20880	7,53639	46,9425	45734	DENTENBERG	1	müed	Mir	si	u	-	hei	-	Durscht.
+19331	9,50106	46,67764	45758	MUTTEN	1	müed	Mir	si	u	-	hé	-	Turscht.
+20765	7,77862	46,95165	45764	OBERFRITTENBACH	1	müed	Mir	si	u	-	hi	-	Turscht.
+15052	8,01947	46,95361	45784	SCHÜPFHEIM	1	müed	Mier	si	uond	-	hei	-	Tuorscht.
+15405	7,53347	46,77956	45863	GURZELEN	1	müed	Mir	sy	u	-	hei	-	Durscht.
+546242	7,778154595	46,78695117	45878	LINDEN (OBERLANGENEGG)	1	müed	Mir	si	u	-	hi	-	Durst.
+17051	8,03502	46,82127	45891	SÖRENBERG	1	müed	Mer	si	and	-	hei	-	Durscht.
+15374	8,15956	46,78539	45892	LUNGERN	1	miäd	Miär	sii	und	esiis.	-	-	dirschted
+18035	7,55173	46,61887	45962	ENTSCHWIL	1	müed	Wir	si	u	-	hii	-	Durscht.
+19696	7,83214	46,63635	45980	SAXETEN	1	müed	Mier	si(n)	un	-	hein	-	Durscht.
+20369	8,28997	46,65467	45992	GUTTANNEN	1	meed	meer	syn	und	-	häin	-	Turscht.
+20610	8,30435	46,50637	46009	ULRICHEN	1	miedi	Wier	si	&	-	hend	-	Durst
+19744	8,52515	46,99078	46017	GERSAU	1	müed	Mier	sind	und	-	händ	-	Durst
+20108	8,72369	46,98729	46021	ILLGAU	1	mued	Ma	sind	u	-	hend	-	Durst.
+15285	9,15179	46,98481	46026	ENGI	1	müed	Mir	sind	und	-	händ	-	durscht.
+16157	9,0456	46,97772	46027	LEUGGELBACH	1	müed	Mer	sind	und	-	heid	-	Durscht.
+17273	8,99894	46,91957	46038	LINTHAL	1	müäd	Mir	sind	und	-	heid	-	Durscht.
+14847	8,40439	46,82098	46040	ENGELBERG	1	miäd	Miär	sind	und	-	hend	-	Durscht.
+16447	8,65031	46,82368	46045	ERSTFELD	1	mied	Mir	sind	und	-	hend	-	Durst
+15438	9,28213	46,78757	46048	VALENDAS	1	müed	Wia	sind	und	-	hänt	-	Durst.
+14654	9,10314	46,75132	46050	MEIERHOF	1	miad	Mier	sind	&	-	haind	-	durst.
+19652	9,2905	46,66809	46051	CAMANA	1	müäd	Wär	sind	und	-	hend	-	Roscht.
+19212	9,2436	46,53889	46055	NUFENEN	1	müad	Wier	sind	und	-	hent	-	Durscht.
+17535	9,66534	46,98498	46059	FANAS	1	müed	Mär	sind	u	-	hend	-	durst.
+8018	10,24492	46,9884	46070	MATHON	1	mied	Mier	sei	und	-	haba	-	durscht.
+535419	10,18908688	46,95780239	46071	GALTￃﾜR	1	müed	Mier	seii	und	-	hoebn	-	durst.
+19989	9,47688	46,84455	46073	FELSBERG	1	müad	Miar	sin	&	-	hän	-	Turscht.
+20533	9,74271	46,91529	46079	FIDERIS	1	müed	Mer	sind	und	-	händ	-	turst.
+17985	9,88017	46,88004	46083	KLOSTERS	1	müeht	Mar	sind	&	-	heint	-	Durscht
+19434	9,71508	46,7045	46101	WIESEN	1	müed	Wier	sin	&	-	hân	-	durscht.
+20734	9,53685	46,45853	46104	AM BACH	1	müadt	Miar	sind	+	-	händ	-	durst.
+18159	7,32205	46,42482	46115	LAUENEN	1	müedi	Wir	si	u	-	hei	-	Durscht.
+19295	7,53458	46,48725	46118	STIEGELSCHWAND	1	müedi	Wir	si	u	-	hu	-	durscht.
+15672	8,1432	46,42441	46119	FIESCHERTAL	1	miadi	Wir	siand	und	-	heint	-	Durscht.
+19725	8,01442	46,3349	46127	BITSCH	1	miedi	Wier	si	u	-	hei	-	Durscht.
+19772	7,66359	46,29695	46129	AGARN	1	miädi	Wiär	si	u	-	hei	-	Durscht.
+626681	7,81598522	46,28128685	46132	HASEL	1	miedi	Wier	sy	und	-	hei	-	Durscht.
+16260	7,93672	46,12324	46142	SAAS GRUND	1	miedi	Wier	si	und	-	hei	-	Durst.
+19556	8,11373	46,16129	46143	ZWISCHBERGEN	1	miädi	Wiär	si	und	-	hei	-	Durst.
+546283	11,92143812	46,95139218	46157	LUTTACH (LUTAGO)	1	miade	Wir	san	und	-	hobn	-	durscht.
+546262	11,43095197	46,91229351	46170	TSCHￃﾖFS (CEVES)	1	müat	Miar	sein	und	-	hobn	-	Durst.
+546393	10,70118629	46,61743807	46267	LAAS (LASA)	1	müad	Mir	sein	und	-	hobn	-	durscht
+546408	11,20412984	46,58568332	46283	GARGAZON (GARGAZZONE)	1	mied	Mier	sein	und	-	hobn	-	durscht.
+546481	11,06	46,46	46324	LAUREIN (LAUREGNO)	1	mia	Wior	sein	unt	-	-	-	durschti.
+546516	11,92297057	46,76992104	46361	STEFANSDORF (SANTO STEFANO)	1	miadö	Miar	san	unt	-	obn	-	durscht.
+1180652	11,436	45,8731	46369	Mezzaselva	1	mǘdé	varándərè	zai̯n	unt	-	hàbən	ùmən	dū́rst
+6360	10,49966	46,88969	46385	NAUDERS	1	miad	Mir	sein	und	-	hoba	-	Durscht.
+2662	10,97561	46,90951	46386	HEILIGKREUZ	1	müade	Mir	sein	u	-	hobn	-	Durt.
+111390	8,76123	54,36107	46391	POPPENBÜLL	1	möd	Wi	sind	un	-	-	-	dürstig
+110639	9,01723	54,35595	46407	DAHRENWURTH	1	möd	Wi	sünd	un	-	heb	-	dös.
+114791	9,32093	54,37498	46420	BERGENHUSEN	1	möd	Wi	sind	un	-	sünd	-	dösti.
+104920	9,60329	54,39392	46430	OWSCHLAG	1	möd	Wie	sünd	un	-	hebbt	-	dös.
+115164	9,85497	54,39931	46443	HOLTSEE	1	mö	Wi	sünd	un	-	hebb	-	döss.
+109324	10,16151	54,39584	46459	PRIES	1	möd	Wi	sünd	un	-	hebbt	-	döyt.
+109426	10,42395	54,38844	46481	STAKENDORF	1	möd	Wi	sünd	un	-	hebt	-	dürst.
+106252	10,60371	54,34619	46492	BEHRENSDORF (OSTSEE)	1	möh	Wi	sünd	un	-	hebbet	-	döst.
+114308	11,04304	54,45888	46554	SULSDORF	1	möh	Wir	sünd	un	-	heppt	-	dös.
+110105	11,27372	54,4157	46570	STABERDORF	1	mu(h)	Wie	sund	un	-	-	-	distig.
+114072	8,59403	54,51596	46637	ALTE KIRCHE	1	möd	Wi	sind	un	-	hebb'n	-	dörst.
+104548	9,29715	54,56549	46652	SOLLERUPFELD	1	möh	Wi	sind	un	-	häm	-	Doeß.
+110275	9,53279	54,55137	46666	NEUBEREND	1	mö	Wi	sind	un	-	hem	-	döß.
+113808	9,86157	54,5608	46684	ZIMMERT	1	möh	Wi	sind	un	-	häbt	-	döst.
+112057	10,01569	54,58425	46687	DAMP	1	möh	Wi	sünd	un	-	hebbt	-	döst.
+110804	11,05568	54,5229	46693	WESTERMARKELSDORF	1	mö	Wie	sünd	unn	-	hebb	-	döß.
+116692	9,25023	54,71004	46784	GROSSENWIEHE	1	möht	Wi	sind	un	-	hem	-	dörst.
+106876	9,53735	54,71602	46798	ESTRUP	1	mö	Wi	sind	an	-	hein	-	döst.
+113555	9,82753	54,7088	46806	WIPPENDORF	1	möd	Wie	sind	un	-	heb'n	-	döst.
+110953	9,99077	54,684	46823	MAASHOLM	1	mö	Wi	sund	un	-	ham	-	dörst.
+546584	9,527650699	54,88239225	46924	BEKEN (BￃﾆKKEN)	1	mö	Wi	sind	un	-	hemm	-	dörst.
+110492	8,31903	53,00936	47139	SANDHATTEN	1	mou	Wi	sünd	un	-	hevt	-	dorst.
+546885	8,60779032	53,01070805	47154	ADELHEIDE	1	mör	Wi	sünd	un	-	hebbt	-	doß.
+108013	8,8805	53,0151	47171	DREYE	1	möe	Wi	sünnt	un	-	heppt	-	dörst.
+534824	9,196856353	53,02650299	47183	ALLERDORF	1	möer	Wi	sünd	un	-	hebt	-	döst.
+104986	7,20615	53,12109	47189	HEERENLAND	1	müedi	Wi	si	u	-	hei	-	durscht.
+116005	7,44007	53,13135	47203	STEENFELDE	1	moei	Wi	bünt	un	-	hebben	-	Döst.
+114842	7,78056	53,14718	47219	LOHE	1	mäue	Wie	sünd	un	-	hebbt	-	dost.
+546892	7,985741345	53,15868334	47224	BURGFELDE	1	mör	Wi	sünd	un	-	hebbt	-	döß.
+109345	8,32018	53,17327	47235	MOORHAUSEN	1	möe	Wi	sund	un	-	hept	-	doß.
+109077	8,5663	53,17486	47370	BARDENFLETH	1	mö	Wi	sund	un	-	hepps	-	dorßt.
+546941	8,842222062	53,18391576	47402	MITTELBAUER	1	möhe	Wi	sund	un	-	hefft	-	dost.
+116271	9,14746	53,2099	47422	NEUENBÜLSTEDT	1	möe	We	sünd	un	-	häpt	-	döß.
+105688	7,43783	53,30502	47447	NEERMOOR	1	möj	Wie	sand	un	-	hemm'n	-	dörst.
+114054	7,75073	53,3052	47455	REMELS	1	möu	Wi	sunt	un	-	hebben	-	Döst.
+546954	8,031800239	53,28863493	47463	PETERSFELD	1	möje	Wi	sünd	un	-	hebt	-	döß.
+547015	8,300590806	53,32493665	47470	JADERBOLLENHAGEN	1	mö	Wi	sünn	unn	-	heppt	-	dogst
+116945	8,56993	53,34549	47598	OFFENWARDENERMOOR	1	möe	Wi	sünd	un	-	hebt	-	dost.
+116563	8,86492	53,35456	47612	PADDEWISCH	1	möh	Wie	sünd	un	-	hept	-	dost.
+106020	9,14538	53,38607	47624	OBER-OCHTENHAUSEN	1	möer	We	sünd	un	-	hebt	-	döst.
+104449	7,17054	53,43708	47650	CIRKWEHRUM	1	me͡u	Wi	zünd	un	-	hebb'n	-	döst.
+114218	7,39969	53,44123	47657	WESTERENDE-HOLZLOOG	1	möh	Wi	sünd	un	-	hebb'n	-	döst.
+110442	7,7709	53,44988	47670	WIESEDE	1	mö	Wi	sünt	un	-	hebt	-	döst.
+106416	7,9855	53,47874	47677	NEUSTADTGÖDENS	1	möh	Wie	sünd	un	-	hefft	-	döst.
+116412	10,73902	54,25873	47840	KￃﾜKELￃﾜHN	1	mö	Wi	sünd	un	-	hefft	-	döst.
+108090	11,0513	54,2567	47861	SIGGENEBEN	1	möd	Wih	sünd	un	-	hebb	-	döß.
+116402	8,84172	54,17734	47863	HEDWIGENKOOG	1	meud	Wi	sünd	un	-	heb	-	döst.
+113125	9,00073	54,19265	47885	EDEMANNSWISCH	1	mö	Wi	sünd	und	-	hebb	-	döst.
+547042	9,309525305	54,20670884	47893	OESTERBORSTEL	1	möd	Wie	sünd	unn	-	hebb	-	döß.
+113405	9,62152	54,18985	47907	HAMWEDDEL	1	mööd	Wi	bünt	un	-	hebbt	-	däß.
+105273	9,88642	54,21312	47916	WARDER	1	möd	Wi	sönd	un	-	hebt	-	döß.
+114877	10,13493	54,22103	47935	KLEIN BARKAU	1	möh	Wi	sünd	un	-	hebbt	-	Däst.
+116342	10,44134	54,24809	47952	MUCHELN	1	möh	Wi	sünd	un	-	häbb	-	döst.
+108565	10,95855	54,15122	48096	GRￃﾖMITZ	1	möi	Wir	sind	und	-	hebbt	-	döst.
+111885	8,8805	54,0062	48098	FRIEDRICHSKOOG	1	möd	Wi	sünd	un	-	h’ewt	-	Döß.
+114237	9,03523	54,02143	48105	BARLTERALTENDEICH	1	möd	Wi	sund	un	-	hebl	-	döß.
+115903	9,34836	54,04212	48115	HOLSTENNIENDORF	1	mö	Wie	sönd	und	-	-	-	dästi.
+107539	9,63427	54,06696	48126	JAHRSDORF	1	möh	Wi	sönd	und	-	hebt	-	däß.
+106194	9,8945	54,05265	48141	EHNDORF	1	mööd	Wi	sünd	un	-	hefft	-	döst.
+108692	10,17854	54,0485	48156	GￃﾖNNEBEK	1	mö	Wi	sünd	un	-	-	-	döstig.
+113330	10,46243	54,07286	48164	WￃﾖBS	1	mö	Wi	sünnt	und	-	-	-	döstig.
+115904	10,71297	54,07936	48186	SￃﾜSEL	1	möh	Wie	sünd	un	-	hebbt	-	döß.
+547127	9,11080098	53,89052151	48233	BRUNSBÜTTELERHAFEN	1	möd	Wi	sünd	un	-	hebbt	-	Döß.
+108237	9,33008	53,86164	48239	BROKDORF	1	möd	Wi	sünd	un	-	hebbn	-	döst.
+108712	7,69412	53,77033	48240	SPIEKEROOG	1	möj	Wi	sünd	un	-	hebbn	-	dörst.
+105523	8,5904	53,82092	48242	BERENSCH	1	mög	Wi	sünd	unn	-	hebt	-	döß.
+113024	8,77311	53,82372	48247	ALTENBRUCH	1	mäh	Wi	sünd	und	-	höbt	-	döst.
+104236	7,14497	53,70519	48282	NORDERNEY	1	mö	Wi	sünd	un	-	haben	-	dörst.
+107919	7,38496	53,72648	48283	BALTRUM-OSTDORF	1	möh	Wi	sünd	un	-	hemm'n	-	Dörst.
+106267	8,5169	53,67513	48302	MISSELWARDEN	1	mö	Wi	sünd	unn	-	heppt	-	döss.
+113303	9,06278	53,71132	48324	WEISSENMOOR	1	mohg	Wie	sönt	und	-	hebt	-	döscht.
+116568	7,14249	53,5993	48342	ITZENDORF	1	mö	Wi	sünt	un	-	hemm'n	-	dörst.
+107815	7,3911	53,60903	48356	ARLE	1	möj	Wie	sünd	un	-	hebben	-	Döst.
+115481	7,66379	53,62527	48368	STEDESDORF	1	möe	Wi	sünd	un	-	hebbn	-	Döst.
+116088	7,97986	53,63678	48383	WÜPPELS	1	möh	Wi	sünd	un	-	heppt	-	döst.
+116854	8,30186	53,60355	48392	LANGWARDEN	1	möh	Wie	sund	un	-	heppt	-	döst.
+109010	8,80591	53,66003	48401	FLÖGELN	1	mög	Wie	sünd	un	-	hebt	-	dörst.
+547062	8,330792544	53,53273255	48477	IFFENS	1	miedi	Wier	si	und	-	hei	-	Durst.
+111755	8,53201	53,53048	48487	BLEXEN	1	mö	Wie	sünt	un	-	hebbt	-	döst.
+114688	8,82184	53,52681	48497	ALTLUNEBERG	1	möh	Wi	sünd	un	-	hebt	-	dast.
+117253	9,1253	53,53544	48507	HÖNAU-LINDORF	1	mö	We	sünd	und	-	hebt	-	döst.
+126570	12,23798	54,2492	48516	GRAAL-MￃﾜRITZ	1	mäur	Wi	sünd	und	-	hemm	-	döst.
+120017	11,61406	54,10586	48522	RERIK	1	mäuhr	Wieh	sünd	und	-	hemm'n	-	döst.
+120082	11,85396	54,10812	48532	BRODHAGEN	1	mäur	Wie	sünd	un	-	hebben	-	döst.
+120864	12,14585	54,1182	48550	TOITENWINKEL	1	meur	Wia	süngt	un	-	hem'm	-	döst.
+106292	10,48741	53,91971	48675	STRUKDORF	1	mö	Wie	sünd	und	-	hebt	-	dös.
+110657	10,73453	53,91976	48702	SEREETZ	1	möh	Wi	sünd	un	-	hegt	-	döß.
+122052	11,03609	53,92008	48716	GROSS VOIGTSHAGEN	1	mäur	Wie	sünd	um	-	hebbt	-	döst.
+120794	11,33016	53,9304	48726	BECKERWITZ	1	neeuer	Wi	sünd	und	-	hem'm	-	döst.
+121253	11,60462	53,94318	48738	STEINHAUSEN	1	mäur	Wi	sünd	un	-	hemm	-	döst.
+118646	11,83423	53,94661	48752	BERENDSHAGEN	1	möer	Wi	sund	un	-	hemm'n	-	dößt.
+118714	12,1512	53,94766	48765	WIENDORF	1	mäuhr	Wie	sünd	un	-	hebbe	-	döst.
+115465	9,59053	53,86975	48790	RETHWISCH	1	möh	Wi	sünd	un	-	-	-	dößi.
+107683	9,88862	53,87033	48800	LENTFￃﾖHRDEN	1	möd	Wi	sönd	un	-	hebbt	-	därst.
+108120	10,17638	53,89247	48812	TODESFELDE	1	möd	Wie	sünd	un	-	hebt	-	döst.
+113127	10,44713	53,75756	49022	KLEINBODEN	1	mäuh	Wi	sünd	un	-	heft	-	döst.
+121168	10,76242	53,75636	49043	CAMPOW	1	möud	Wie	sünd	und	-	hebt	-	döst.
+125724	11,05079	53,75628	49076	NESOW	1	mäur	Wie	sünd	un	-	hebt	-	döst.
+124347	11,32985	53,7779	49090	DALLIENDORF	1	meur	Wie	sünd	un	-	hebbn	-	döst.
+120979	11,61879	53,77558	49108	NEUHOF	1	müur	Wie	sünd	un	-	heben	-	döst.
+118874	11,88526	53,78539	49122	WARNOW	1	mäur	Wi	sund	un	-	hebbn	-	döst.
+122921	12,17296	53,79677	49140	GￃﾜSTROW	1	möhr	Wi	sünd	un	-	hebben	-	döst.
+114186	9,38137	53,71165	49146	DROCHTERSEN	1	möe	Wie	sünd	unn	-	hebbt	-	döst.
+111287	9,64927	53,70258	49162	GROSS NORDENDE	1	mö	Wi	sind	und	-	hebben	-	dörst.
+108360	9,89519	53,73194	49176	QUICKBORN	1	möd	Wi	sünd	und	-	-	-	dösti.
+111665	10,21851	53,74313	49188	JERSBEK	1	möh	Wi	sünd	un	-	hebt	-	döst.
+112630	9,4597	53,03452	49311	RIEKENBOSTEL	1	moie	Wi	sünd	un	-	heft	-	döst.
+115425	9,68499	53,04779	49322	BROCHDORF	1	möö	Wie	sind	un	-	hebt	-	döst.
+112343	9,99781	53,08488	49332	BISPINGEN	1	meug	Wei	sünd	un	-	hebbt	-	döst.
+107558	10,2827	53,0747	49338	WETTENBOSTEL	1	meid	We	sünd	und	-	hebt	-	döst.
+114616	10,51368	53,08083	49348	SEEDORF	1	meuh	Wi	ßünd	un	-	hewd	-	döst.
+113438	10,78178	53,06946	49362	STOETZE	1	meu'n	Wie	ßünt	und	-	hemmt	-	döst.
+113402	11,09034	53,09668	49498	DANNENBERG (ELBE)	1	med	Wi	sund	und	-	hebben	-	dörst.
+126878	11,38051	53,1086	49509	BREETZ	1	mör	Wi	senn	un	-	hewwen	-	dörst.
+118243	11,69264	53,10028	49524	LAASLICH	1	möör	Wi	sünd	unn	-	hände	-	döst.
+119086	11,90134	53,10669	49534	LￃﾜBZOW	1	möd	Wih	sünt	und	-	hebbn	-	dörst.
+122468	12,18296	53,11903	49551	BUCHHOLZ	1	möd	Wie	sind	un	-	henim	-	döst.
+105676	9,40421	53,19342	49562	HETZWEGE	1	möer	We	sind	und	-	haft	-	döst.
+117368	9,74297	53,2407	49569	OTTER	1	mög	Wie	sünd	und	-	hebt	-	döst.
+104882	10,00938	53,22233	49579	OLLSEN	1	meug	Wei	sünd	on	-	hebt	-	döst.
+110732	10,2488	53,23284	49587	WESTERGELLERSEN	1	meu	Wei	sund	un	-	häht	-	döst.
+114276	10,78385	53,24416	49605	BARSKAMP	1	möd	Wie	sünd	und	-	herft	-	döst.
+112386	10,56531	53,25038	49727	WENDHAUSEN	1	mööd	Wi	sünd	un	-	hebbt	-	döst.
+121225	11,0857	53,26914	49752	JESSENITZ	1	müdr	Wie	sünd	un	-	hebben	-	döst.
+122862	11,36676	53,27885	49767	GLAISIN	1	mäur	Wie	sühnd	und	-	hemm'n	-	dösst.
+124488	11,62817	53,26261	49778	NEESE	1	mäur	Wie	sünd	un	-	hebben	-	döst.
+120737	11,86397	53,26081	49794	PAMPIN	1	mäur	Wi	sünd	un	-	hebn	-	döst.
+121002	12,17074	53,26531	49802	GRABOW	1	möh'r	Wie	sünd	un	-	hem	-	döst.
+112123	9,42586	53,365	49813	WANGERSEN	1	meur	We	sünd	un	-	hept	-	döst.
+106002	9,64625	53,379	49821	REGESBOSTEL	1	mäu	Weei	sund	un	-	heint	-	düßt.
+105969	9,92661	53,40705	49828	TￃﾖTENSEN	1	meug	Wie	sünd	ein	-	hehn	-	Döst.
+116893	10,22923	53,38859	49840	LASSRￃﾖNNE	1	mög	Wie	sünt	und	-	hebt	-	Döst.
+117662	10,50596	53,41658	49857	JULIUSBURG	1	moihe	Wü	sünd	unn	-	hobt	-	döst.
+118676	11,08244	53,41108	49881	SETZIN	1	mäur	Wi	sünd	un	-	hewt	-	döst.
+118349	11,60438	53,39799	49898	NEUHOF	1	meur	Wie	sühnd	un	-	hewwen	-	döst.
+121965	10,74685	53,43177	50010	GRESSE	1	meur	Wi	sünd	un	-	hem'm	-	döst.
+125796	11,30189	53,42238	50027	MORAAS	1	mäuer	Wie	sund	und	-	hewwn	-	döst.
+125020	11,93249	53,42748	50058	PAARSCH	1	mäur	Wi	sünd	un	-	hebbn	-	döst.
+120236	12,17807	53,46472	50068	BARKOW	1	meuir	Wir	sünd	un	-	heg'n	-	döst.
+115523	9,38434	53,5502	50073	SCHWINGE	1	mööd	Wi	sünd	un	-	hebt	-	döst.
+547428	9,652825404	53,56253675	50087	WISCH	1	mö	Wi	sänd	un	-	hewt	-	döß.
+108945	9,92842	53,5542	50117	OTTENSEN	1	mööd	Wi	sönd	und(un)	-	hewt	-	döst.
+117299	10,20487	53,56222	50130	WILLINGHUSEN	1	mäud	Wi	sünd	und	-	hebbt	-	dös.
+111898	10,47132	53,57846	50142	BASTHORST	1	meuh	Wü	sünd	un	-	-	-	döstig.
+108491	10,75137	53,59484	50321	LEHMRADE	1	meuh	Wüh	sünd	un	-	heb	-	dörst.
+121437	11,04085	53,58655	50332	DRￃﾖNNEWITZ	1	meur	Wi	sünd	un	-	hemm	-	döst.
+118265	11,32365	53,59528	50343	GROSS ROGAHN	1	meur	Wi	sünd	un	-	heb'm	-	döß.
+118438	11,60408	53,616	50357	KLADOW	1	mäuer	Wie	sünd	und	-	hemm	-	döst.
+125383	11,88883	53,63207	50365	HOHEN PRITZ	1	meur	Wie	sünnd	unn	-	hebben	-	döst.
+126689	12,14767	53,62344	50377	JELLEN	1	mäuhr	Wie	sünd	un	-	hebn	-	döst.
+127267	12,36951	53,73311	50385	LￃﾜBSEE	1	mäud	Wi	sünd	un	-	hebben	-	döst.
+118609	14,11661	53,73703	50471	BELLIN	1	möd	Wi	sind	unn	-	hemmen	-	döst.
+121628	12,72318	53,77769	50523	RETZOW	1	meur	Wi	sünd	un	-	hewwen	-	döß.
+120727	13,02051	53,78904	50538	HOHENBOLLENTIN	1	mäud	Wi	sün	un	-	hew'n	-	dößt.
+125333	13,27783	53,79124	50552	GOLCHEN	1	meut	Wie	sünd	und	-	hom	-	döst.
+124192	13,56356	53,78446	50567	STRIPPOW	1	meur	Wi	sünd	un	-	hem	-	döß.
+118365	13,80867	53,8054	50575	ROSENHAGEN	1	mäur	Wie	sünd	unn	-	häm'm	-	döst.
+151010	14,66308	53,79171	50583	SINIECHOWO	1	meurch	Wie	sint	on	-	häim	-	dürst.
+148265	14,96696	53,79514	50604	DRZEWICA	1	mäur	Wi	sünd	ao	-	hewwe	-	döst.
+149542	15,24598	53,77514	50622	LISOWO	1	möör	Wie	sind	un	-	hebben	-	döst.
+375890	14,43155	53,8679	50719	LUBIN	1	möar	Wie	sünt	u	-	hefwa	-	döst.
+124729	12,44997	53,95967	50765	GROSS RIDSENOW	1	meur	Wi	sünd	un	-	hebbn	-	dost.
+126948	12,73722	53,94228	50779	SCHLUTOW	1	mäur	Wie	sünd	un	-	hebbn	-	döst.
+123272	13,01298	53,95466	50794	SEEDORF	1	mäur	Wi	sünd	un	-	hem'm	-	döst.
+122839	13,27277	53,94539	50805	BENTZIN	1	meure	Wie	sünd	un	-	hem'm	-	döst.
+119758	13,52648	53,95007	50818	RANZIN	1	meur	Wie	sünd	un	-	hem	-	döst.
+121706	13,84379	53,94673	50830	LASSAN	1	meur	Wie	sünd	un	-	hebbn	-	döst.
+119402	14,11814	53,94992	50840	SALLENTHIN	1	mäur	Wi	sünd	un	-	hem'n	-	döst.
+372827	14,44888	53,92636	50844	MIEDZYZDROJE	1	möhr	Wie	sind	u	-	hebbn	-	döst.
+166218	14,68184	53,94979	50850	SIEROSLAW	1	meur	Wie	sünd	o	-	hewä	-	döst.
+160805	14,96722	53,94149	50872	BEDZIESZEWO	1	meuerg	Wie	sünd	o	-	hewwa	-	döst.
+152451	15,25298	53,95664	50892	SKALIN	1	meut	Wi	sint	o	-	heffe	-	Döst.
+121439	14,00155	54,05033	50973	KOSEROW	1	meur	Wie	sind	un	-	hewen	-	döst.
+375421	14,99104	54,0761	50986	TRZESACZ	1	mur	Wi	sünd	o	-	hewwi	-	döst.
+124127	12,42509	53,61075	51012	HOHEN WANGELIN	1	mäur	Wir	sünd	unn	-	hemm	-	döst.
+126691	12,76144	53,62274	51030	RITTERMANNSHAGEN	1	mäuhr	Wi	sünd	un	-	hebben	-	döst.
+125926	13,02205	53,61154	51048	TARNOW	1	mäur	Wi	sünd	un	-	hebbn	-	döst.
+119736	13,29078	53,6072	51065	TROLLENHAGEN	1	möhd	Wi	sünd	un	-	hem	-	döst.
+122300	13,59619	53,60763	51081	BROHM	1	möhr	Wi	sünd	unn	-	hem'n	-	döst.
+122516	13,85179	53,63346	51089	EICHHOF	1	mööd	Wi	sünd	un	-	hebn	-	döst.
+124389	14,22326	53,63391	51098	GEGENSEE	1	möhd	Wi	sinn	un	-	hebben	-	döst.
+370671	14,4674	53,62998	51101	DROGORADZ	1	möd	Wi	sind	unn	-	hewwen	-	döst.
+151848	14,68877	53,61758	51112	BUDZIEN	1	möd	Wie	sind	en	-	hebm	-	döst.
+148666	14,96392	53,60041	51123	KRZYWICE	1	meud	Wie	sinn	uo	-	hewweä	-	döst.
+534969	15,24763056	53,60343749	51135	PLANTIKOW	1	mäud	Wi	sinn	un	-	hewwn	-	dorst.
+123952	13,11085	54,58538	51143	KLOSTER	1	meur	Wi	sünd	un	-	hem'm	-	döst.
+123059	13,28792	54,62108	51146	WIEK	1	möur	Wi	sünd	un	-	hebb'n	-	döst.
+534486	13,56522303	54,57388681	51162	NARDEVITZ	1	mäur	Wie	sünd	un	-	hebb'm	-	döst.
+121702	12,68295	54,43348	51170	ZINGST	1	mäud	Wi	sünd	un	-	heww'm	-	Döst.
+121774	12,98011	54,42297	51173	WENDISCH LANGENDORF	1	mäuhr	Wi	sünd	un	-	hebb'n	-	Döst.
+534484	13,27661545	54,44308095	51179	WￃﾜSTENEI	1	meur	Wie	sünd	und	-	hemmen	-	döst.
+534498	13,5274187	54,48608929	51188	SAISER	1	meur	Wie	sünd	un	-	henim	-	dößt.
+123911	12,41813	54,37908	51191	AHRENSHOOP	1	mäur	Wie	sünd	un	-	heb'm	-	döst.
+534456	13,62026447	54,341066	51232	NEU-REDDEVITZ	1	meur	Wir	sünd	un	-	hefiwen	-	döst.
+121141	12,46549	54,29792	51243	LANGENDAMM	1	mäur	Wie	sünd	un	-	hebbn	-	döst.
+120295	12,73823	54,29537	51257	REDEBAS	1	mäur	Wir	sünd	un	-	hemm	-	döst.
+119600	12,9835	54,29259	51267	PￃﾜTTE	1	mäu'r	Wi	sünd	un	-	hem	-	döst.
+119890	13,27492	54,29783	51277	POSERITZ	1	mäur	Wie	sünd	un	-	hem'n	-	döst.
+125431	13,71408	54,27487	51288	THIESSOW	1	mäur	Wie	sünd	un	-	hem'n	-	döst.
+126602	12,43765	54,09324	51346	REPPELIN	1	möhr	Wie	sünd	un	-	hem'n	-	döst.
+119845	12,70461	54,13797	51355	KAVELSDORF	1	mäur	Wie	sünd	un	-	hemm	-	döst.
+124930	12,99069	54,12609	51370	MￃﾜGGENWALDE	1	mäur	Wi	sünd	un	-	hem'm	-	döst.
+121011	13,30351	54,11602	51387	STEFFENSHAGEN	1	mäur	Wie	sind	un	-	hemm'n	-	döst.
+121289	13,57063	54,11847	51397	VIEROW	1	mäur	Wi	sünd	un	-	hem'm	-	döst.
+117776	13,83497	54,11263	51409	KARLSHAGEN	1	mäud	Wie	sünd	un	-	häbn	-	döst.
+370277	15,26498	54,09104	51413	TRZEBUSZ	1	mäud	Wi	sünd	o	-	hewe	-	döst.
+121139	12,46486	53,44792	51539	KISSEROW	1	mäur	Wie	sünd	un	-	hemm	-	döst.
+123888	12,76122	53,48309	51549	FEDEROW	1	meur	Wie	sänd	un	-	hemm'n	-	döst.
+126064	13,03182	53,45295	51561	KLEIN VIELEN	1	mäuhr	Wi	sünd	un	-	hewet	-	döst.
+120836	13,27173	53,46608	51571	HOLLDORF	1	möhr	Wi	sünd	un	-	hemm	-	döst.
+126257	13,58904	53,4611	51584	WOLDEGK	1	möd	Wi	sünd	un	-	hem'm	-	döst.
+118055	13,85194	53,44356	51598	TREBENOW	1	möd	Wie	sünd	un	-	hem	-	döst.
+119973	14,13887	53,47114	51611	ROSSOW	1	möd	Wir	sind	o	-	häm	-	döst.
+159352	14,41164	53,45193	51624	WAWELNICA	1	möd	Wi	sind	un	-	hebbn	-	döst.
+534975	14,72090065	53,45884507	51637	BERGLAND	1	mööd	Wie	sied	o	-	hebbn	-	Döst.
+153195	14,97193	53,46528	51646	DABROWICA	1	meud	Wie	sinn	oh	-	hewwe	-	döst.
+372767	15,25306	53,43581	51661	BOBROWNIKI	1	meud	Wi	sinn	un	-	häwwa	-	döst.
+118999	12,44102	53,27919	51805	GRABOW	1	mäuhr	Wi	sünd	un	-	hem'n	-	Döst.
+119090	12,74478	53,29268	51816	LￃﾄRZ	1	möhr	Wi	sünd	un	-	hemm	-	döst.
+124103	13,03296	53,25606	51832	AHRENSBERG	1	möhr	Wie	sünd	un	-	hem'n	-	döst.
+121167	13,3029	53,2842	51838	HASSELFￃﾖRDE	1	möd	Wi	sünd	un	-	hemm	-	döst.
+127114	13,54424	53,30994	51850	BUCHENHAIN	1	möd	Wi	sind	und	-	hebben	-	Döst.
+123968	13,84477	53,28114	51866	RￃﾖPERSDORF	1	möd	Wi	sind	un	-	hebben	-	döst.
+118175	14,13241	53,28371	51877	GRￃﾜNZ	1	möd	Wi	sind	o	-	hemm	-	döst.
+547486	14,43338106	53,28316465	51893	PARGOW (PARGOWO)	1	möd	Wi	sind	un	-	hebbn	-	döst.
+374958	14,66837	53,27475	51906	ZELISLAWIEC	1	mög	Wi	sind	un	-	hemm'n	-	dost.
+150128	14,94955	53,28654	51918	SLOTNICA	1	möj	Wi	sin	u	-	hewwa	-	Dost.
+372998	15,21516	53,28013	51934	ZUKOWO	1	möh	Wir	sinn	u	-	hewa	-	döst.
+119523	12,42744	53,12618	52064	PAPENBRUCH	1	möhg	Wie	sin	un	-	hebbn	-	dost.
+118267	12,77328	53,11997	52070	WALLITZ	1	möd	Wie	sind	un	-	hem	-	dost.
+124745	13,05007	53,10241	52079	MENZ	1	möhd	Wie	sind	und	-	hebben	-	Dorst.
+122172	13,28954	53,105	52086	BARSDORF	1	möhr	Wi	sünd	un	-	hem	-	döst.
+124871	13,60041	53,09193	52095	PETERSDORF	1	möd	Wie	sind	un	-	hebbn	-	döst.
+121528	13,84882	53,12741	52103	FLIETH-STEGELITZ	1	mööd	Wie	sind	un	-	hebbn	-	dost.
+124439	14,11807	53,14367	52113	PASSOW	1	möd	Wie	sin	un	-	hebbn	-	dost.
+374809	14,39068	53,12647	52129	WIDUCHOWA	1	möd	Wie	sint	un	-	hebbn	-	dorscht.
+531829	14,66334	53,1004	52139	BANIE	1	möd	Wie	sind	un	-	hebben	-	dörscht.
+372473	14,94711	53,11395	52154	OBROMINO	1	möh	Wir	sinn	oh	-	heme	-	dörst.
+375503	15,25253	53,11642	52169	BRZEZINA	1	möj	Wi	sind	u	-	hewwe	-	dost.
+161008	15,6967	54,19204	52276	BAGICZ	1	möehö	Wie	sünd	on/un	-	hewn	-	döst.
+149615	15,81503	54,21792	52278	LASIN KOSZALINSKI	1	möhr	Wie	sünd	unn	-	hewwe	-	döst.
+150482	16,41486	54,24551	52311	SIECIEMIN	1	meir	Wir	sind	un	-	hewe	-	döst.
+532066	17,55974	54,20701	52349	POMYSK WIELKI	1	meid	Wir	sind	on	-	hebbä	-	derscht.
+372650	18,10229	54,21891	52359	SZYMBARK	1	meid	Wie	send	o	-	hebbe	-	derscht.
+162813	18,39091	54,21134	52374	SZKLANA GORA	1	meid	Wi	sind	und	-	hebben	-	dörscht.
+374546	18,67887	54,18428	52396	SKOWARCZ	1	möd	Wie	send	onn	-	hebbe	-	derscht.
+547647	19,21999587	54,17994204	52428	OBERLAKENDORF (SOLNICA GￃﾓRNA)	1	med	Wi	send	on	-	hebbe	-	derscht.
+547644	16,15028383	54,27992847	52440	DEEP (CZAJCZE)	1	meir	Wie	sänd	un	-	hewa	-	döst.
+146994	16,65424	54,25478	52463	BIALECINO	1	meir	Wie	sind	un	-	häwwen	-	döst.
+153596	17,00801	54,25951	52478	BRONOWO	1	meid	Wi	sind	und	-	häwä	-	dest.
+535009	17,23401871	54,25062158	52484	REDDIES	1	meid	Wie	sind	un	-	hebba	-	derst.
+535017	19,03778221	54,32941578	52567	PASEWARK	1	med	Wie	send	on	-	hawen	-	derscht.
+535019	16,42491688	54,4259439	52578	BAD RￃﾜGENWALDE	1	meihr	Wie	sind	un	-	hewer	-	dest.
+373231	16,67668	54,41802	52600	RADOSLAW	1	meur	Wi	sind	un	-	he	-	döst.
+372176	17,00751	54,41566	52700	LOSINO	1	meid	Wie	send	o	-	hewwe	-	dörst.
+373806	17,28164	54,40154	52714	LABISZEWO	1	meid	Wie	sind	o	-	heba	-	descht.
+535029	17,54646141	54,39174082	52722	KARWEN	1	meid	Wie	sind	un	-	hebbe	-	derscht.
+547552	18,70762807	54,36152213	52755	HEUBUDE (STOGI)	1	med	Wie	send	on	-	hewe	-	derscht.
+148206	19,29171	54,35202	52762	SKOWRONKI	1	möd	Wi	sent	unn	-	hewwen	-	durscht.
+532002	17,052	54,66557	52766	ROWY	1	meid	Wie	sind	un	-	hebba	-	derscht.
+151355	17,00926	54,59854	52767	MACHOWINKO	1	meir	Wi	sind	un	-	hewwe	-	deast.
+535491	18,80748416	54,60167012	52816	HELA	1	möd	Wie	sind	on	-	hewwen	-	dörscht.
+531958	16,5494	54,54194	52819	JAROSLAWIEC	1	mäur	Wie	sünd	un	-	hewe	-	döst.
+547547	16,670111	54,55003532	52825	KROLOWSTRAND (KRￃﾓLEWICE)	1	meir	Wi	sind	un	-	hewwe	-	döst.
+151380	17,27697	54,57363	52854	DRZEZEWO	1	meid	Wi	sind	un	-	hewwe	-	döscht.
+159314	17,6264	54,57747	52865	NIEBEDZINO	1	meid	Wir	send	o	-	hebbe	-	derst.
+159909	17,86262	54,54706	52871	DABROWKA WIELKA	1	meid	Wie	send	ah	-	hebbe	-	derscht.
+532725	18,14279	54,55982	52881	LUZINO	1	meid	Wir	sennt	un	-	habt	-	durscht.
+376273	18,48418	54,56662	52887	POGORZE	1	med	Wi	send	und	-	hawa	-	darscht.
+370581	17,95796	54,81679	52896	BIALOGORA	1	meud	Wie	sünd	un	-	haefan	-	dörst.
+535047	18,19225506	54,81148685	52905	KARWENBRUCH	1	med	Wie	send	un	-	heben	-	durscht.
+373062	18,39509	54,79759	52913	WLADYSLAWOWO	1	med	Wi	send	on	-	häbe	-	darscht.
+371968	17,60653	54,71937	52915	LEBIENIEC	1	meid	Wie	send	o	-	habbe	-	daerscht.
+370985	17,86227	54,72452	52927	ZELAZNA	1	meid	Wie	sind	on	-	hewwa	-	Därscht.
+152191	18,12618	54,71236	52936	TYLOWO	1	meid	Wi	sind	un	-	hebbah	-	derscht.
+540554	21,32027551	46,15373743	54871	NEUARAD (ARADU NOU)	1	mud	Mie	sein	un	-	hawe	-	Doasche.
+540849	24,49134259	47,13316251	54873	BISTRITZ (BISTRIŢA)	1	māed	Mir	sae	ånd	-	hu	-	dūrscht.
+541003	29,43214539	45,99215171	54878	ARZIS (ARTSYZ)	1	mid	Mir	sen	on	-	hen	-	dorscht.
+619491	17,04059239	51,08306439	54897	WOLFSWINKEL (WILCZY KAT)	1	mejd	Wi	send	o	-	häbe	-	dääst.
+361755	23,07752	51,34296	54901	ZAROBKA	1	möd	Wi	sen	o	-	hebbe	-	Dost
+160033	18,81278	53,0253	54902	BRZOZOWKA	1	med	Wi	send	o	-	häabe	-	Däaß't.
+152332	19,05	52,85	54906	BRZEZNO	1	mejd	Wi	send	o	-	haben	-	daast.
+149694	19,13162	53,01324	54909	ZBOJENKO	1	med	Wi	send	o	-	habe	-	dast.
+384496	20,03035	52,88059	54912	SIEMIATKOWO	1	meed	Wi	sent	o	-	haebe	-	daest.
+530476	18,51374	52,39054	54913	SOMPOLNO	1	müd	Mi	sin	u	-	hebo	-	döst.
+540942	24,70767326	46,77454401	54914	SÄCHSISCH REGEN (REGHIN)	1	maid	Wer	sei	and	-	hun	-	durscht.
+540515	21,25256423	46,52837104	54915	ELEK (ELEK)	1	miad	Miar	san	unt	-	hewä	-	Tuarscht.
+540996	29,66668797	46,02120929	54917	SARATA (SARATA)	1	mied	Mir	sén	on	-	hén	-	durschd.
+540519	23,12256048	47,67893082	54918	SCHEINDORF (SÂI)	1	mi|ed	Mier	send	und	-	hand	-	Durscht.
+626660	19,45117617	47,65798942	54921	IKLAD	1	miat	Mir	szama	unt	-	homa	an	Turscht.
+540512	21,50480608	46,34582086	54922	SANKTANNA (SￃﾂNTANA)	1	mit	Mir	sen	und	-	sen	-	tarstich.
+541144	24,40607405	46,02056085	54924	MARTINSDORF (METIŞ)	1	mät	Mer	se	e̊nt	-	hun	-	durscht.
+540922	24,62623497	45,97491487	54929	AGNETHELN (AGNITA)	1	mad	Mer	se	end	-	hun	-	Durscht.
+540949	21,16818943	45,85534019	54933	Sanktandres	1	mied	Mir	sin	un	-	han	-	Dorscht.
+541411	19,65658848	45,56918898	54935	Novi-Vrbas	1	nut	Mer	sin	un	-	han	-	tarst.
+626707	28,59488935	44,16302335	54941	NEUE WEINGÄRTEN (-)	1	midt	Mir	sen	on	-	hen	-	Dorscht.
+541309	30,12426483	46,27934614	54942	SEIMENY (-)	1	mied	Mr	se̽nn	on	-	he̽nn	-	Dorscht.
+381248	20,09123	52,89735	55094	GRADZANOWO KOSCIELNE	1	med	Wi	send	o	-	hawe	-	Dest.
+163852	19,68243	52,80381	55106	SUSK	1	med	Wi	send	o	-	habe	-	dast.
+164103	20,2727	52,79675	55109	KONDRAJEC SZLACHECKI	1	meed	Wi	sand	and	-	have	-	dast.
+371403	18,48321	52,66655	55111	SZOSTKA	1	müde	Wir	sind	und	-	haben	-	Durst.
+161437	19,08401	52,69657	55116	OSIEK	1	med	Wi	sent	o	-	hebe	-	Dest.
+153212	18,78249	52,51308	55140	ZGLOWIACZKA	1	miad	Mir	sen	on	-	hen	-	Durscht.
+375963	19,11425	52,50144	55163	GRABKOWO	1	mied	Wi	sind	o	-	habo	-	dost.
+359030	19,25029	52,29133	55210	NIECHCIANOW	1	mied	Wir	sind	udn	-	haben	-	Durst.
+149269	18,49156	52,14039	55244	NATALIA	1	mide	Wir	sind	und	-	haben	-	Durscht.
+359103	19,0533	52,14572	55252	POTRZASKOW	1	müde	Wir	sind	und	-	han	-	durst.
+534013	19,49463	52,06335	55271	PIATEK	1	müd	Mejr	sin	und	-	hen	-	Torscht.
+161139	18,40818	51,92481	55305	POROZE	1	mied	Bier	sain	und	-	huon	-	Durscht.
+381348	19,2386	51,81599	55320	SANIE	1	mied	Bir	sein	u.	-	ham	-	Doscht.
+376592	18,46326	51,71438	55330	MORAWKI	1	med	Mi	san	und	-	san	-	durstre.
+390296	19,31499	50,57042	55384	MYSZKOW	1	müde	Wir	sind	und	-	haben	-	Durst.
+386236	19,21676	50,318	55387	DABROWA GORNICZA	1	müde	Mir	sind	u.	-	-	-	durstig.
+16779	8,03463	46,62436	80004	GRINDELWALD	1	miet	Mier	syn	und	-	hein	-	Durst.
+17027	8,49372	46,31601	80023	BOSCO	1	miad	Wir	siw	und	-	hew	-	duršt.
+3435	13,61357	48,48026	300660	SANKT ROMAN	1	Müad	-	sama	-	uns.	-	-	därst
+8694	13,07714	48,26128	300798	REIKERSDORF	1	müad	Mia	sand	u	-	ham	an	duascht.
+544193	13,34504897	47,58758807	301042	RIGAUS	1	müad	Mia	sand	u.	-	-	-	duascht.
+546521	11,1227383	45,653233	46367	Giazza	1	mǘə̯de	ƀaràndrə	zai̯	unt	-	hɛ̀n	-	-
+540488	24,766667	59,416667	54872	Reval (TALLINN)	1	mǖde	Wir	ssind	unt	-	aben	-	Turst.

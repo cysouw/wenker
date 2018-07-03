@@ -23,5 +23,31 @@ order <- recode(dataOrder, "../data/WS38/syntaxRecoding.yml")
 # plot ordering parameters	
 sapply(colnames(order), function(x) {plotSingle(feature = order[,x], title = x)}) -> silent
 
+namesLexicon <- list(
+	  alle = ""
+	, die = ""
+	, leute = ""
+	, heute = ""
+	, sind = ""
+	, draussen = ""
+	, aufm = ""
+	, feld = ""
+	, und = ""
+	, tun = ""
+	, zu = ""
+	, mähen = "mähen hauen schneiden (andere)"
+	)
+
+lexicon <- getAlignLexicon("../data/WS38/WS38_2lexicon_test.txt", namesLexicon)
+
+titlesLexicon <- list(
+	mähen = "Mähen"
+)
+
+sapply(seq_along(titlesLexicon), function(x) {
+	plotSingle(lexicon[,names(titlesLexicon)[x]], titlesLexicon[[x]])
+	}) -> silent
+
+
 #' show Session Info
 sessionInfo()

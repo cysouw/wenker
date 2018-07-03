@@ -1926,7 +1926,7 @@
 377153	19,47735	51,66082	-55350	RZGOW	1	- Die Leit - - sin heit - - - all - - - drauhs uf'm Feld - un - - mähn. - - -
 383768	19,75374	51,66709	-55354	LAZNOWSKA WOLA	1	- Die Leit - - seind heite - - - alle - - - draußen aufs Land - und - - haun. - - -
 619524	18,39830334	51,46576252	-55359	KIEBITZTAL (KUZNICA)	1	- Deie Leit' - - sein heut' - - - alle - - - drauß'n am Feld - und - - mäh'n. - - -
-379732	18,57714	51,49261	-55360	OSTROW	1	"- Die ""Menschen"" - - sind heute - - - alle - - - draußen aufdem Felde - - - zum mähen. - - -"
+379732	18,57714	51,49261	-55360	OSTROW	1	- Die Menschen - - sind heute - - - alle - - - draußen aufdem Felde - - - zum mähen. - - -
 379550	18,85025	51,43743	-55361	WIELKA WIES	1	- Die Leute - - sind heute - - - alle - - - draußen aufdem Felde - und - - mähen. - - -
 363032	19,4341	51,42903	-55362	SUCHCICE	1	- Die L[eü/eï?]t - - sind heut - - - - - - - - ăf'n Feld - u. - - mähen. - - -
 383244	18,90114	51,20321	-55363	SIEMKOWICE	1	- Die Leit - - sen heit - - - alle - - - draußn uffde Stepp' - und - - mähn. - - -

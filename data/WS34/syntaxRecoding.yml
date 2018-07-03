@@ -1,0 +1,67 @@
+title: Recoding of Wenker Sentence 34
+author: Michael Cysouw
+date: '2018-07-02'
+originalData: ~
+recoding:
+# ==========
+- recodingOf: er1
+  attribute: Persönliche Konstruktion
+  values:
+    a: Er hat es vom Herzen gesagt
+    b: Das Wort ist ihm vom Herzen gekommen
+  link:
+    '-': b
+    X: a
+  originalFrequency:
+    '-': 2120
+    X: 7
+  comments: ~
+# ==========
+- recodingOf: wort4
+  attribute: Fehlen von 'Wort'
+  values:
+    a: Das Wort ist ihm vom Herzen gekommen
+    b: Das ist ihm vom Herzen gekommen
+  link:
+    '-': b
+    X: a
+  originalFrequency:
+    '-': 41
+    X: 2086
+  comments: ~
+# ==========
+- recodingOf: wohl8
+  attribute: Versterkendes Adverb
+  values:
+    a: ... kam ihm wohl vom Herzen
+    b: ... kam ihm vom Herzen
+  link:
+    '-': b
+    X: a
+  originalFrequency:
+    '-': 2109
+    X: 18
+  comments: ~
+# ==========
+- recodingOf:
+  - ist6
+  - kommt9
+  - gekommen12
+  attribute: Vergangenheitsform
+  values:
+    a: kam ihm vom Herzen
+    b: ist ihm vom Herzen gekommen
+    c: ist ihm gekommen vom Herzen
+  link:
+    '- + - + -': ~
+    NA + NA + NA: ~
+    X + - + -: a
+    X + - + X: b
+    X + X + -: c
+  originalFrequency:
+    '- + - + -': 12
+    NA + NA + NA: 371
+    X + - + -: 1427
+    X + - + X: 684
+    X + X + -: 4
+  comments: ~
