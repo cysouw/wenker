@@ -30,6 +30,16 @@ recoding:
     X: 2086
   comments: ~
 # ==========
+- recodingOf: ihm7
+  attribute: Fehlendes Pronomen
+  values:
+    a: ... kam ihm vom Herzen
+    b: ... kam vom Herzen
+  link:
+    '-': b
+    X: a
+  comments: ~
+# ==========
 - recodingOf: wohl8
   attribute: Versterkendes Adverb
   values:
