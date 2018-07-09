@@ -23,5 +23,28 @@ order <- recode(dataOrder, "../data/WS34/syntaxRecoding.yml")
 # plot ordering parameters	
 sapply(colnames(order), function(x) {plotSingle(feature = order[,x], title = x)}) -> silent
 
+namesLexicon <- list(
+	  das = ""
+	, Wort = ""
+	, ist = ""
+	, ihm = ""
+	, vom = "vom aus (andere)"
+	, Herzen = ""
+	, gekommen = "gekommen gegangen gesagt geredet gesprochen cho"
+	)
+
+lexicon <- getAlignLexicon("../data/WS34/WS34_2lexicon.txt", namesLexicon)
+
+titlesLexicon <- list(
+	vom = "kam ihm VOM Herzen"
+	, gekommen = "KAM ihm vom Herzen"
+)
+
+sapply(seq_along(titlesLexicon), function(x) {
+	plotSingle(lexicon[,names(titlesLexicon)[x]], titlesLexicon[[x]])
+	}) -> silent
+
+
+
 #' show Session Info
 sessionInfo()
